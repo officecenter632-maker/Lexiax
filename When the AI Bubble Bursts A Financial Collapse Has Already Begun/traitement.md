@@ -10,3 +10,7 @@ Vidéo : « When the AI Bubble Bursts: A Financial Collapse Has Already Begun »
 
 ## Tranches
 - Tranche 1 : lignes 1 à 894 (0 à 1848.16 s, 30,8 min), 32 segments, 28 aux temps estimés. Fin sur « the next bubble » (fin de l'idée sur les suites de la crise), avant « Silicon Valley was not stupid ».
+- Tranche 2 : lignes 895 à 1701 (1848.16 à 3559.68 s, 28,5 min), segments 33 à 62 (30 segments, 26 aux temps estimés). Fin sur « code churn had increased to 6.87% » (fin de ligne et d'idée ; la coupe suivante tombait en milieu de ligne, d'où une tranche un peu courte).
+  - Remarque : à partir de la ligne ~1644 (« It seems like the AI revolution isn't living up to its hype »), la vidéo enchaîne sur un autre sujet (AI et développeurs, code churn) : la vidéo semble assemblée de plusieurs parties. Coupes de segments à ce passage.
+  - Orthographe du speech conservée telle quelle (« McKenzie », « Moffett », « Aviana »...), car les textes sont mot pour mot ; les titres et résumés utilisent l'orthographe correcte quand elle est évidente.
+- Prochaine étape : tranche 3, reprise à la ligne 1702 (« More code is being written or revised... », vulnérabilités du code IA).
