@@ -1,0 +1,762 @@
+{
+  "version": 1,
+  "video_id": "dfELHX3VuJc",
+  "titre_video": "You NEED to STOP Using Windows 11 Right Now. Microsoft is OVER",
+  "duree_s": 10209.9,
+  "avancement": {
+    "lignes_traitees": 843,
+    "fin_traitee_s": 1798.31,
+    "nb_lignes_total": 4857,
+    "complet": false
+  },
+  "nb_segments": 40,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.2,
+      "fin": 33.2,
+      "temps_estime": false,
+      "titre": "The AI replacement hits a brick wall",
+      "resume": "Opening hook: after two years of being told salaries are a liability and AI will take jobs, Microsoft is pulling its internal AI tools and Uber burned its whole 2026 AI budget in four months. The claim is that humans are now the budget option.",
+      "mots_cles": [
+        "AI replacement",
+        "salary",
+        "Microsoft",
+        "Uber",
+        "AI budget",
+        "brick wall",
+        "budget option"
+      ],
+      "texte": "For the last two years, you've been told that your salary is the biggest liability on your company's balance sheet. You've been told that AI is coming for your job. A digital worker is infinitely cheaper than a human one. But inside the boardrooms of Microsoft and Uber, something [music] just changed. Behind the scenes, Microsoft is pulling the plug on its own internal AI tools, and Uber just burned through its entire 2026 AI budget in just four months. The great AI replacement has hit a brick wall. For the first time in [music] history, you are now the budget option."
+    },
+    {
+      "id": 2,
+      "debut": 33.2,
+      "fin": 95.2,
+      "temps_estime": false,
+      "titre": "Microsoft pulls back Claude Code licenses",
+      "resume": "In late 2025 Microsoft gave thousands of engineers, managers and designers access to Claude Code, then in May 2026 canceled most direct access, steering them to GitHub Copilot CLI by June 30, 2026. The tool was too popular and too costly, and the cut hit the Windows and Microsoft 365 teams hardest at fiscal year end.",
+      "mots_cles": [
+        "Microsoft",
+        "Claude Code",
+        "GitHub Copilot CLI",
+        "The Verge",
+        "licenses canceled",
+        "fiscal year",
+        "cost cutting",
+        "engineers"
+      ],
+      "texte": "In late 2025, Microsoft gave its engineers access to Claude code, one of the strongest AI coding tools on the market. Thousands of developers, managers, and designers were asked to hand over more of their work to Claude. As a result, AI coding became a core [music] part of how the teams did their work. The results showed up right away. Use of the tool spread across the company faster than most people expected. Then in May 2026, the company began pulling those licenses back. The Verge reported that Microsoft canceled most of its direct Claude code access, steering engineers to its own cheaper tool, GitHub [music] Copilot CLI, by June 30th, 2026. The cuts fell the hardest on the team behind Windows and Microsoft 365. Officially, it was housekeeping. The tool had simply become too popular. The more the engineers leaned on it, the bigger the [music] bill grew, and the bigger it grew, the faster Microsoft locked its own people out. The tool was simply too good and far too costly. The reversal ended right at the close of the fiscal year when companies go hunting for costs to cut."
+    },
+    {
+      "id": 3,
+      "debut": 95.2,
+      "fin": 123.99,
+      "temps_estime": false,
+      "titre": "Microsoft's bet on Anthropic is unchanged",
+      "resume": "Cutting engineers off Claude Code did not change Microsoft's $5 billion investment in Anthropic or Anthropic's $30 billion commitment to Azure from November 2025. Microsoft still believes in the product and just wants to carry the cost itself.",
+      "mots_cles": [
+        "Microsoft",
+        "Anthropic",
+        "$5 billion",
+        "$30 billion",
+        "Azure",
+        "Claude",
+        "investment",
+        "AI costs"
+      ],
+      "texte": "Cutting the engineers off did nothing to Microsoft's bet on the same technology. In November 2025, Microsoft had agreed to put up $5 billion into Anthropic, the maker of Claude. In return, Anthropic agreed to spend $30 billion running on Microsoft's Azure cloud. The deal never changed. That wasn't a company losing faith in AI. It still believed in the product. It still wanted to reap the windfall. It just want to carry the cost itself. And Microsoft wasn't alone. The"
+    },
+    {
+      "id": 4,
+      "debut": 123.99,
+      "fin": 180.49,
+      "temps_estime": false,
+      "titre": "Uber spends its 2026 AI budget in four months",
+      "resume": "Uber's CTO admitted in April 2026 that the AI coding tool budget for the whole year was gone. Adoption of Claude Code among about 5,000 engineers rose from 32% in February to 84% in March, with leaderboards ranking teams by AI use, and costs of $150 to $2,000 per engineer per month.",
+      "mots_cles": [
+        "Uber",
+        "Claude Code",
+        "AI coding budget",
+        "leaderboards",
+        "token costs",
+        "Praveen Neppalli Naga",
+        "adoption",
+        "engineers"
+      ],
+      "texte": "same thing was happening over at Uber. In April 2026, Uber's chief technology officer, Praveen Nepali Naga, admitted the company had already spent its entire 2026 budget for AI coding tools. A full year of money gone in four months. The rollout had reached roughly 5,000 engineers in late 2025 and adoption climbed fast. [music] In February 2026, about 32% of engineers were using Claude Code. By March 2026, it was 84%. Uber had encouraged it, even building leaderboards that ranked teams by AI use. Usage turned into a contest and then the money ran out. A typical engineer ran up to $150 to $250 a month. The heaviest users hit $500 to $2,000 each. Naga himself torched $1,200 of tokens in a single two-hour demo. As the leaderboards pushed every team to climb, the monthly bill climbed with them. Nobody slowed down to ask where the"
+    },
+    {
+      "id": 5,
+      "debut": 180.49,
+      "fin": 228.79,
+      "temps_estime": false,
+      "titre": "Uber's AI spending shows no real savings",
+      "resume": "Uber's CEO says AI agents write about 10% of its code, but there are no real savings, likened to blowing a mortgage fund on groceries. The COO called the figures head exploding, and hidden per-task costs of agents can exceed those of the junior developer they replace.",
+      "mots_cles": [
+        "Uber",
+        "AI agents",
+        "10% of code",
+        "Andrew McDonald",
+        "hidden costs",
+        "junior developer",
+        "no savings",
+        "AI ROI"
+      ],
+      "texte": "ceiling was. Uber's CEO says AI agents now write about 10% of its code. It's performing real work, but there's no real savings. It's like a family blowing a 25-year mortgage fund on groceries in a single weekend. That is the shape of Uber's four-month collapse. Uber's chief operating officer Andrew McDonald described the figures as head exploding. For all the tokens his engineers burned, he couldn't point to anything customers could feel. We're told that AI saves money by replacing pricey humans, but the reality is much different. A high-performing artificial intelligence agent can rack up massive hidden costs per finished task compared to the junior developer it replaces. These are the richest, most advanced firms on the planet and they cannot keep their own AI switched on. An entire industry gaslit itself into believing this would be the"
+    },
+    {
+      "id": 6,
+      "debut": 228.79,
+      "fin": 301.39,
+      "temps_estime": false,
+      "titre": "Token maxing at Amazon and Meta",
+      "resume": "Big tech turned AI use into a sport: Amazon pushed staff to token max and Meta built the Claudianomics leaderboard ranking workers by AI spend. Because one extra prompt costs a fraction of a cent, everyone overused it, a tragedy of the commons that produced an indefensible total bill.",
+      "mots_cles": [
+        "token maxing",
+        "Amazon",
+        "Meta",
+        "Claudianomics",
+        "leaderboard",
+        "tragedy of the commons",
+        "AI spend",
+        "prompts"
+      ],
+      "texte": "future. Instead, they're holding the bill. [music] Through 2025 into 2026, the biggest names in tech turned AI use into a sport. At Amazon, staff were pushed to token max, slang for burning through as many tokens as possible. And that is a problem. More tokens means a bigger bill at the end of the month. Amazon's message wasn't use AI wisely, it was use more. At Meta, an employee built a user board called Claudianomics, ranking workers by how much they spent on AI. Heavy use became a badge of honor. The engineer firing off the most prompts didn't look wasteful. He looked like the future. Meta would later see the danger and the ax on the board. It created a tragedy of the commons. Everyone was burning through the resources for self-gain. To any single engineer, one extra prompt felt like nothing because it nearly was. It was a fraction of a cent. So nobody hesitated. Nobody asked if that prompt was needed and everybody reached for the machine every time. That won them a leaderboard points. No one stopped and looked at the bigger picture, the bigger total. And [music] the total was brutal. One harmless prompt, thousands of workers, millions of tasks each day. It all grew into a figure no one could defend. But"
+    },
+    {
+      "id": 7,
+      "debut": 301.39,
+      "fin": 353.99,
+      "temps_estime": false,
+      "titre": "Why AI agents cost far more than chatbots",
+      "resume": "A chat prompt is one exchange, while an agent chases a goal in a loop of reading code, planning, editing, testing and retrying. A typical agent job uses 5 to 30 times the tokens of a chat and in the worst cases over 1,000 times.",
+      "mots_cles": [
+        "AI agents",
+        "chatbot",
+        "token usage",
+        "agent loop",
+        "compute cost",
+        "coding agent",
+        "1,000 times"
+      ],
+      "texte": "the chatbots were only the warm-up. A worker overusing a chat window is an expensive habit, not a threat to the company's survival. [music] The real danger arrived the moment those same workers stopped chatting with the AI and just [music] turned it loose. That changed everything. A normal chat prompt is a single, neat exchange. You ask, the model answers, the meter clicks once. An agent is a different beast. It doesn't answer a question, it chases a goal. Hand it a coding job and it works on its own, reading the code, drafting a plan, writing an edit, running the tests, and trying again when something breaks. The loop continues until it decides the job is done. Every step costs money, [music] so a single agent task can swallow far more computing power than a simple chat. A typical job runs 5 to 30 times the tokens. In the worst cases, reports [music] say it can spike past 1,000 times. And the priciest"
+    },
+    {
+      "id": 8,
+      "debut": 353.99,
+      "fin": 403.5,
+      "temps_estime": false,
+      "titre": "Failed agent attempts and the plumber analogy",
+      "resume": "The priciest part is failed work: on SWE-bench, built from real software bugs, the best agents solve under 50%, and a hard bug can take five to ten full attempts at full cost. The speaker compares it to a plumber who bills for every dropped wrench and still leaves the pipe leaking.",
+      "mots_cles": [
+        "SWE-bench",
+        "failed attempts",
+        "AI agents",
+        "retries",
+        "software bugs",
+        "plumber analogy",
+        "cost per task"
+      ],
+      "texte": "part isn't the work that lands, it's the work that fails. [music] The swee bench is an industry test built from real software bugs pulled from code that human engineers once had to fix by hand. The best agents currently solve less than 50% [music] of the test. The agent finds the bug, proposes a fixed, runs the tests, and fails. [music] So it rethinks, it tries a new path, and fails again. A difficult bug can mean five to 10 full attempts, each costing about as much as the first before the agent just gives up or a human gets called in to fix it. [music] Imagine a plumber that charges full rate every time he drops his wrench, bills you for each trip to his van, and still leaves the pipe leaking. You wouldn't call that a time saver, you would call it a scam. And at the scale of a big company, that failed agent task is exactly that. Full price for the dropped wrench with no promises of fixing the leak. Even if the price of"
+    },
+    {
+      "id": 9,
+      "debut": 403.5,
+      "fin": 451.5,
+      "temps_estime": false,
+      "titre": "Cheaper tokens do not fix compute and power costs",
+      "resume": "Even if token prices fall, chips burn lots of electricity, and an agent is like lighting a stadium for one person. NVIDIA's Brian Catanzaro told Axios that compute for his team costs far more than the employees.",
+      "mots_cles": [
+        "token price",
+        "electricity",
+        "chips",
+        "Brian Catanzaro",
+        "NVIDIA",
+        "Axios",
+        "compute cost",
+        "AI agent"
+      ],
+      "texte": "a single token keeps dropping, and it will, the problems don't change because it was never just about one token. The chips that power AI burn electricity, a lot of it, and that's a cost nobody can just wish away. If a single chat prompt is like a desk lamp switching on, an AI agent is like lighting an entire stadium for one person. Brian Catanzaro is vice president of applied deep learning at NVIDIA, the company whose chips power the AI boom. NVIDIA has every single reason to insist the money isn't an issue, and yet in an interview with Axios, Catanzaro said the cost of compute for his team is far beyond the cost of the employees. The chips and the power to run the AI revolution now cost more than the people working on it. The machine is not the cheap part anymore, the people are. The industry knows it,"
+    },
+    {
+      "id": 10,
+      "debut": 451.5,
+      "fin": 489.3,
+      "temps_estime": false,
+      "titre": "Microsoft's Maia 200 chip and the savings that vanish",
+      "resume": "Microsoft designs its own Maia 200 chip, which Satya Nadella said gives over 30% better tokens per dollar and runs in Arizona and Iowa data centers. Agent workloads eat every hardware saving because cheaper tokens just lead agents to demand more of them.",
+      "mots_cles": [
+        "Maia 200",
+        "Microsoft",
+        "Satya Nadella",
+        "tokens per dollar",
+        "data centers",
+        "custom chips",
+        "agent workload",
+        "earnings call"
+      ],
+      "texte": "which is why Microsoft is busy designing its own chips. Its newest one, the Maia 200 was built to drag the cost of running those models down. On Microsoft's April 2026 earnings call, CEO Satya Nadella said the Maia 200 produces over 30% better tokens per dollar than the older chips in Microsoft's rack. It's already running in data centers in Arizona and Iowa. It is genuine progress, but there is a catch. Every bit of savings the hardware makes gets eaten up by the AI agent workload stacked on top. You make each token cheaper and the agents just demand more of them. The savings vanish long before they reach the bottom line."
+    },
+    {
+      "id": 11,
+      "debut": 489.3,
+      "fin": 543.8,
+      "temps_estime": false,
+      "titre": "Gartner: cheaper tokens but not cheaper AI",
+      "resume": "Gartner predicts that by 2030 running a top model could cost about 90% less than in 2025, yet company AI will not get cheaper because agents burn far more tokens per task. Cheap everyday tokens differ from cheap access to the most powerful AI, while human wages barely move.",
+      "mots_cles": [
+        "Gartner",
+        "2030 forecast",
+        "token prices",
+        "agent token use",
+        "powerful AI",
+        "human wages",
+        "cost of AI",
+        "digital worker"
+      ],
+      "texte": "Research firm Gartner predicted that by 2030 running a top model could cost about 90% less than it did in 2025. A huge drop in the price of raw thinking power. And still, Gartner says company AI won't actually get cheaper. The reason is the same force squeezing Microsoft and Uber. Agents burn so many more tokens per task that rising use outweighs the falling price. AI companies have little reason to hand the full discount to customers anyway. One Gartner analyst framed it as a way of executives banking on cheap automation. Cheap everyday tokens, he said, are not the same as cheap access to the most powerful AI. The cheap part and the powerful part are different products. The powerful part stays expensive. [music] Human wages meanwhile have barely even moved. The cost of high-end AI thinking [music] hasn't. So the price of running the digital worker soars past the salary of the human it was built to [music] replace. At that point, things"
+    },
+    {
+      "id": 12,
+      "debut": 543.8,
+      "fin": 577.3,
+      "temps_estime": false,
+      "titre": "Goldman Sachs: 24-fold growth in token use",
+      "resume": "Goldman Sachs estimates agentic AI could raise global token use 24-fold by 2030 to about 120 quadrillion tokens a month. Big tech pours hundreds of billions into data centers and chips for that demand, which is also eroding its margins as it builds machines that lose money on every job.",
+      "mots_cles": [
+        "Goldman Sachs",
+        "token demand",
+        "120 quadrillion",
+        "data centers",
+        "agentic AI",
+        "profit margins",
+        "big tech spending"
+      ],
+      "texte": "start to fall apart. Goldman Sachs ran the numbers and found that agentic AI [music] could push global token use up 24-fold by 2030. It would rise to roughly 120 quadrillion tokens every month. Big tech is racing to build for that demand, pouring fortunes into data centers and chips for a future of AI agents. But the very demand those companies are spending hundreds of billions to capture is the same demand destroying their profit margins. They're building at huge cost machines that lose money on every job. None of this is new."
+    },
+    {
+      "id": 13,
+      "debut": 577.3,
+      "fin": 612.3,
+      "temps_estime": false,
+      "titre": "GitHub Copilot's early losses as a warning",
+      "resume": "In 2023 Microsoft sold GitHub Copilot for $10 a month while the Wall Street Journal found it lost over $20 per user monthly, with heavy users costing up to $80. The speaker compares it to selling $20 bills for $10, a warning that was not heeded as one agent task can burn a chat user's monthly spend.",
+      "mots_cles": [
+        "GitHub Copilot",
+        "Wall Street Journal",
+        "$10 a month",
+        "losing money per user",
+        "2023",
+        "heavy users",
+        "agent task",
+        "unit economics"
+      ],
+      "texte": "It just has reached full scale. Go back to 2023 when Microsoft was selling GitHub Copilot for [music] 10 bucks a month. Wall Street Journal found that Microsoft was losing more than $20 per user every month. Its heaviest users cost as much as $80 [music] a month each. 10 bucks coming in, 80 going out. It was the business equivalent of selling $20 bills for $10 and [music] promising to make it back on volume. The more you sell, the more you lose. Those early Copilot losses were a warning, [music] one that hasn't been heeded. A single agent can burn through in one task what a chat user spent in a month."
+    },
+    {
+      "id": 14,
+      "debut": 612.3,
+      "fin": 651.4,
+      "temps_estime": false,
+      "titre": "Jim Covello and the $1 trillion AI spending question",
+      "resume": "The Goldman Sachs report called it too much spent for too little benefit, and its author Jim Covello, a leading skeptic, notes big tech will spend around $1 trillion on AI with no definitive problem solved. The payoff is marginal and the gap between AI cost and value is widening.",
+      "mots_cles": [
+        "Jim Covello",
+        "Goldman Sachs",
+        "$1 trillion",
+        "AI skeptic",
+        "AI spending",
+        "AI payoff",
+        "big tech",
+        "AI bubble"
+      ],
+      "texte": "The Goldman [music] Sachs report described it as too much spent to little benefit. The man behind that report, Jim Covello, has been the loudest skeptic in the room. He notes big tech is on the course to spend around $1 trillion building out AI. But what expensive problem does all of that money solve? Years in and there's still no definitive answer. The spending is enormous. The payoff is marginal and hard to measure. The market isn't closing the gap between what AI costs and what it's worth. It is running in the opposite direction and picking up speed. An entire industry is spending trillions to build a future where its own flagship products are guaranteed to lose money. And every one of those failures traces back to one"
+    },
+    {
+      "id": 15,
+      "debut": 651.4,
+      "fin": 706.1,
+      "temps_estime": false,
+      "titre": "Agent costs curve upward while human costs do not",
+      "resume": "As AI becomes more capable its costs curve upward because reasoning and retries compound, while a more skilled human gets faster at about the same pay. A junior doubles output with little pay change, whereas an agent doubling output can multiply its token bill, so the self-running agent is a luxury for small high-value tasks.",
+      "mots_cles": [
+        "cost curve",
+        "agents vs humans",
+        "reasoning layers",
+        "retries",
+        "junior worker",
+        "token bill",
+        "luxury",
+        "self-running agent"
+      ],
+      "texte": "root cause no amount of cash can fix. As AI systems become more capable, their costs don't rise in a straight line. They curve upward. Moving from chat to a true agent means adding layers of reasoning and retries, each compounding on the last. [music] Humans behave differently. A worker who becomes more skilled typically gets faster and more effective at roughly the same cost. The two aren't competing on the same trajectory. They are following different curves. A junior worker doubles their output [music] and their pay barely moves. An agent doubles its output and its token bill can jump many times over. At the prices of 2026, the fully self-running agent is not a replacement for workers. It is a luxury. A company [music] can afford it in small, high-value corners where the numbers work, but they can't turn it loose across an entire workforce despite the hype. The dream of the self-running worker was never going to survive its own costs. [music] It was never going to"
+    },
+    {
+      "id": 16,
+      "debut": 706.1,
+      "fin": 722.7,
+      "temps_estime": false,
+      "titre": "Humans are protected by arithmetic",
+      "resume": "Humans are not spared out of kindness but by simple arithmetic: the smarter the system gets, the more it costs. The great replacement has run into a reality that engineering will not solve this decade.",
+      "mots_cles": [
+        "human workers",
+        "arithmetic",
+        "great replacement",
+        "AI cost",
+        "job security",
+        "engineering limits"
+      ],
+      "texte": "work. Humans aren't being spared out of kindness or even saved by a sudden corporate change of heart. They're protected by something colder and more reliable. Simple arithmetic. The smarter the system gets, the more it costs. The great replacement has run straight into a reality no clever engineering will get"
+    },
+    {
+      "id": 17,
+      "debut": 722.7,
+      "fin": 775.8,
+      "temps_estime": false,
+      "titre": "Human in the loop and the verification specialist",
+      "resume": "Human in the loop, once seen as a feel-good safety box, is now the only way AI works, and big tech will use AI only on small low-cost jobs. The most valuable new seat is the verification specialist who watches agents, catches expensive failure loops and kills runaway processes.",
+      "mots_cles": [
+        "human in the loop",
+        "verification specialist",
+        "AI agents",
+        "failure loop",
+        "runaway process",
+        "jobs",
+        "AI oversight",
+        "cost control"
+      ],
+      "texte": "around in this decade. [music] So what does all of that mean for your job? Through the whole AI boom, human in the loop sounded like a soft idea, a feel-good safety feature, a box to tick to keep regulators calm. Not anymore. It's become the only way that this works. Big tech will keep using AI aiming it at the small low-cost jobs where [music] the cost justifies the means. But the dream of cheap AI replacing everyone is already over. It died inside of those canceled licenses and burned budgets long before it reached the rest of the workforce. In its place, a new job is becoming the most valuable seat in the building, the verification specialist, someone [music] who watches the agent and catches it the moment it slips into an expensive failure loop, the person who checks the output and kills a runaway process before the cost bankrupts the project. They are the one thing standing between the company and a budget that bleeds out"
+    },
+    {
+      "id": 18,
+      "debut": 775.8,
+      "fin": 802.9,
+      "temps_estime": false,
+      "titre": "Jensen Huang's 100 agents per employee",
+      "resume": "Even Nvidia CEO Jensen Huang says 100 AI agents will work alongside every employee, not replace them, so agents multiply around one worker at the center. Without that worker nobody knows whether the machines create value or just run up a bill.",
+      "mots_cles": [
+        "Jensen Huang",
+        "Nvidia",
+        "100 AI agents",
+        "every employee",
+        "human worker",
+        "AI value",
+        "AI bill"
+      ],
+      "texte": "cycle after cycle. Even the industry's loudest cheerleaders describe this future without meaning to. Nvidia CEO Jensen Huang likes to say that one day 100 AI agents will work alongside every employee, alongside every employee, not replacing them. The agents multiply, sure, but they multiply around one worker at the center. Are the machines creating value or just running up a bill? Take that worker away, and nobody knows the answer until that bill"
+    },
+    {
+      "id": 19,
+      "debut": 802.9,
+      "fin": 828.4,
+      "temps_estime": false,
+      "titre": "Duolingo walks back its AI-first stance",
+      "resume": "Duolingo leaned into the AI-replaces-everyone story, then its CEO admitted the technology will not take over work the way people do. It dropped a rule tying job reviews to AI use after staff pointed out it rewarded busy work instead of results.",
+      "mots_cles": [
+        "Duolingo",
+        "AI replaces everyone",
+        "CEO admission",
+        "job reviews",
+        "AI usage metrics",
+        "busy work",
+        "walk back"
+      ],
+      "texte": "arrives. And AI doubt is spreading. Language learning app Duolingo leaned hard into the AI replaces everyone story and then walked it back. The CEO admitted the tech won't take over the work like people do. The company even scrapped a rule that it had tied job reviews to how much AI staff used. After workers pointed out that it rewarded busy work instead of results, so the future of work is a blend, one that was"
+    },
+    {
+      "id": 20,
+      "debut": 828.4,
+      "fin": 854.2,
+      "temps_estime": false,
+      "titre": "Humans are the cheapest thinking engine",
+      "resume": "The speaker concludes the future of work is a blend: humans are the cheapest thinking engine, a flexible mind running on a sandwich and a night's sleep. The great replacement was defeated by a spreadsheet rather than fear, a triumph for ordinary workers.",
+      "mots_cles": [
+        "humans cheapest",
+        "thinking engine",
+        "future of work",
+        "great replacement",
+        "spreadsheet",
+        "ordinary workers",
+        "AI cost",
+        "conclusion"
+      ],
+      "texte": "always coming. Through the whole boom, we were told AI was the worker and the people were just a cost to trim. That's changed. Humans are the cheapest thinking engine on the earth, a flexible mind that runs on a sandwich in a night's sleep and never builds the company 1,000 times over just to stop [music] and think. The great replacement wasn't defeated by fear, it was defeated by a spreadsheet. And in those numbers lies a surprising triumph for ordinary"
+    },
+    {
+      "id": 21,
+      "debut": 854.2,
+      "fin": 886.4,
+      "temps_estime": false,
+      "titre": "The disappearing computer and Nvidia's CPU move",
+      "resume": "The speaker shifts to the wider industry: the screen, icons, windows and menus are being pushed into the background by a $70 billion black box that makes decisions for you and charges an energy tax. Nvidia is trying to do to the CPU what it did to the GPU, and Microsoft handed it the keys.",
+      "mots_cles": [
+        "Nvidia",
+        "CPU",
+        "GPU",
+        "$70 billion",
+        "black box",
+        "Microsoft",
+        "disappearing computer",
+        "energy tax"
+      ],
+      "texte": "workers. It's not just Microsoft sees the writing on the wall. The whole industry is starting to get nervous about what's coming next. The computer you've used for years is disappearing. That screen, the icons, the windows, the menus you click, they're all being forced into the background. They're being replaced by a $70 billion transistor black box that makes more and more decisions for you and charges an energy tax every time it does. Nvidia isn't just releasing a new chip. They're trying to do to the CPU what they already did to the GPU. And Microsoft just handed them the keys. A laptop"
+    },
+    {
+      "id": 22,
+      "debut": 886.4,
+      "fin": 968.2,
+      "temps_estime": false,
+      "titre": "Nvidia RTX Spark: one chip replaces the PC architecture",
+      "resume": "Nvidia's RTX Spark puts CPU, GPU and AI hardware on one piece of silicon with shared memory, performing a thousand trillion calculations per second and running a 120-billion-parameter model on a thin laptop. Microsoft supplied the software that lets an AI agent act across your apps, making the CPU a supporting cast.",
+      "mots_cles": [
+        "RTX Spark",
+        "Nvidia",
+        "single silicon",
+        "shared memory",
+        "120 billion parameters",
+        "AI agent",
+        "Microsoft",
+        "laptop",
+        "CPU"
+      ],
+      "texte": "sitting on a store shelf isn't really a computer in the traditional sense anymore. Sure, it looks like one. It turns on like one. But the architecture that defined personal computing for decades is starting to disappear. At the center is a chip Nvidia calls RTX Spark. For years, computers were built from separate parts, a CPU for logic, a GPU for graphics, and increasingly dedicated hardware for AI. Data constantly moved between them. Nvidia reduced all of that onto a single piece of silicon. The result behaves less like a collection of components and more like a single computing organism. Everything shares the same memory. Everything works from the same pool of data. Nvidia says it can perform a thousand trillion calculations every second. That number itself doesn't even matter. It's all about the results. A thin laptop with all-day battery life can now run an AI model with 120 billion separate settings inside of it. Work that once filled a room now fits in a backpack. Nvidia claims it'll turn the PC from a tool to a teammate. And they aren't doing it alone. Microsoft willingly supplied the missing piece, the software that lets an AI agent hijack your computer. It watches across your apps. It acts before you ask. The desktop, the icons, and the files and folders you've used your whole life are still there. They're just no longer in charge. For two generations, the CPU sat at the center of personal computing. Now it's just the supporting"
+    },
+    {
+      "id": 23,
+      "debut": 968.2,
+      "fin": 1015.8,
+      "temps_estime": false,
+      "titre": "Intel's collapse in the data center",
+      "resume": "Intel, once at the center of computing, saw its data center chip share fall from about 68% in 2021 to 6% in 2025 while Nvidia rose to 86%. By June 2026 Nvidia was worth around $5 trillion, the most valuable company ever.",
+      "mots_cles": [
+        "Intel",
+        "Nvidia",
+        "data center market share",
+        "68% to 6%",
+        "$5 trillion",
+        "most valuable company",
+        "2021 to 2025"
+      ],
+      "texte": "cast. And the company whose name was stamped inside [music] almost every computer on Earth didn't lose this battle on your desktop. It lost it somewhere much bigger. For three decades, Intel was at the center of the digital world. [music] Its chips powered everything from office equipment to massive server farms behind nearly every website you've ever opened. If computing had a bleeding heart, Intel [music] was it. Then the floor gave way. Between 2021 and 2025, Intel's share of the data center chip market collapsed from roughly 68% to around 6%. At the same time, Nvidia surged to 86%. [music] One company practically took over the market. By June 2026, Nvidia was worth in the region of $5 trillion. It was the most valuable company on the planet. No business in history had ever been valued that highly, and no ones"
+    },
+    {
+      "id": 24,
+      "debut": 1015.8,
+      "fin": 1057.8,
+      "temps_estime": false,
+      "titre": "Why AI favors Nvidia over x86",
+      "resume": "When the RTX Spark was unveiled, Nvidia stock rose while AMD, Intel and Qualcomm fell. x86 chips run instructions in sequence, while AI needs massive parallel math, which Nvidia's graphics chips were already built for.",
+      "mots_cles": [
+        "x86",
+        "parallel computing",
+        "RTX Spark",
+        "AMD",
+        "Intel",
+        "Qualcomm",
+        "Nvidia stock",
+        "GPU architecture"
+      ],
+      "texte": "came close. When the RTX Spark was unveiled, the markets reacted immediately. Nvidia's [music] stock jumped while shares in AMD, Intel, and Qualcomm all fell. For decades, Intel and AMD built chips around a design called x86. Its strength was running instructions one after the other as fast as possible. That is just what traditional software needed. AI plays a completely different game. Instead of a long chain of instructions, it performs enormous amounts of simple math all at once. [music] This is where Nvidia had a head start. Its graphics chips were already built to solve thousands of problems at the same time. That is what rendering a video game requires. When AI became the most important thing in computing, Nvidia didn't have to reinvent itself. The future was already"
+    },
+    {
+      "id": 25,
+      "debut": 1057.8,
+      "fin": 1085.9,
+      "temps_estime": false,
+      "titre": "Intel fights back but the gap grows",
+      "resume": "Intel built AI accelerators and competing products but the gap kept growing, and Nvidia had already been waiting. Jensen Huang called the shift a reinvention of the computer as significant as the phone becoming the smartphone.",
+      "mots_cles": [
+        "Intel",
+        "AI accelerators",
+        "Nvidia",
+        "Jensen Huang",
+        "reinvention of the computer",
+        "smartphone",
+        "competition"
+      ],
+      "texte": "optimized. Intel realized the threat and fought back. It built AI accelerators and launched competing products. It spent years desperately trying to close the gap. The gap kept growing. The company that had spent decades setting the pace for the industry was now struggling to keep up with it. None of that was luck or clever marketing. It was the work that changed everything. Nvidia was already waiting. Jensen Huang called it a reinvention of the computer as significant as the day the phone became the smartphone. But winning the"
+    },
+    {
+      "id": 26,
+      "debut": 1085.9,
+      "fin": 1140.3,
+      "temps_estime": false,
+      "titre": "Nvidia's full-stack control and the laptop makers",
+      "resume": "To take over the desktop Nvidia needed control, so it designed the graphics and AI hardware, partnered with MediaTek on the processor, used TSMC to manufacture it and had Microsoft shape Windows around it. Dell, HP, Lenovo and Asus just design the case, cooling, battery and ports around the same finished module.",
+      "mots_cles": [
+        "Nvidia",
+        "MediaTek",
+        "TSMC",
+        "Dell",
+        "HP",
+        "Lenovo",
+        "Asus",
+        "laptop makers",
+        "control",
+        "Windows"
+      ],
+      "texte": "data center wasn't enough. To take over the computer on your desk, Nvidia needed something else. Control. Nvidia never had to build the best laptop in the world. It only had to make sure every laptop worth buying ran on its products. It also had to ensure that nobody else owned a single piece of it. So it built the whole thing itself. Nvidia designed the graphics and the AI hardware. It partnered with MediaTek on the processor. TSMC manufactured the chip. Microsoft shaped Windows around it. Before a single laptop reached the store shelf, everything had already been decided. And that left companies like Dell, HP, Lenovo, and Asus in a strange position. They're the companies you actually buy from, but all they got was the same finished module. They design the case, the cooling, the battery, and the ports. They load Windows onto it, and they ship it. They don't own the processor, the graphics, or the AI software that decides what the machine can do. The brands on the lid are just"
+    },
+    {
+      "id": 27,
+      "debut": 1140.3,
+      "fin": 1165.0,
+      "temps_estime": false,
+      "titre": "Nvidia's margins versus laptop makers",
+      "resume": "Nvidia keeps about 75 cents of gross profit per dollar of sales while the companies assembling laptops live on a few percent. The value is gone before the device leaves the factory, and this imbalance grows with each unit shipped.",
+      "mots_cles": [
+        "Nvidia",
+        "gross margin",
+        "75 cents",
+        "laptop makers",
+        "profit imbalance",
+        "hardware",
+        "power shift"
+      ],
+      "texte": "the people who assembled the box. Nvidia keeps around 75 cents of gross profit on every dollar it sells. That's almost unheard of for a company that makes physical hardware. The companies assembling the laptops live on a few percent. The rest of the value is gone before the device ever leaves the factory. So every time more units ship, the imbalance grows. None of it shows up in the price tag, but it decides who holds the power. [music] There's another"
+    },
+    {
+      "id": 28,
+      "debut": 1165.0,
+      "fin": 1208.9,
+      "temps_estime": false,
+      "titre": "CUDA lock-in and the blocked Arm deal",
+      "resume": "Almost every major AI system runs on Nvidia's CUDA platform, making switching like starting over. Regulators blocked Nvidia's $40 billion attempt to buy Arm, so it made its ecosystem the default, repeating its graphics card playbook on the processor.",
+      "mots_cles": [
+        "CUDA",
+        "Nvidia",
+        "Arm",
+        "$40 billion",
+        "regulators",
+        "ecosystem lock-in",
+        "graphics cards",
+        "processor"
+      ],
+      "texte": "element to this power shift. Almost every major AI system on earth is built on Nvidia's software platform, CUDA. And once your tools are built on CUDA, switching becomes almost like starting over. Nvidia even tried to expand that control further, attempting to buy Arm, the company behind a rival processor architecture in a $40 billion deal. Regulators shut the move down. So instead of owning the rival, Nvidia made its ecosystem the default, and the industry just adjusted around it. It's the exact move the companies pulled before. With graphics cards, it absorbed the value that used to be shared across everyone building them. Now it's running the same play on the processor, the last major part of the PC it didn't already control. A shift like this only works if there is nowhere left to go or backup"
+    },
+    {
+      "id": 29,
+      "debut": 1208.9,
+      "fin": 1259.11,
+      "temps_estime": false,
+      "titre": "Windows AI features require 40 TOPS hardware",
+      "resume": "Microsoft handled the next part by requiring a dedicated AI chip rated at least 40 TOPS, 16 GB of memory and 256 GB of storage for its new AI features such as live translation, on-device image generation, smarter search and Recall-style memory. Many older laptops fall short and the qualifying chips were Arm rather than Intel.",
+      "mots_cles": [
+        "40 TOPS",
+        "NPU",
+        "Copilot Plus PC",
+        "16 GB memory",
+        "256 GB storage",
+        "Windows AI features",
+        "Arm",
+        "older laptops"
+      ],
+      "texte": "platform. Microsoft handled that next part. Your current laptop may already be locked out of the future, and you'd have no way of knowing it from the screen. [music] To run Windows new wave of AI features, a computer now needs a dedicated AI chip rated at at least 40 TOPS. That's the measure of how many AI calculations it can process every second. [music] It also needs 16 GB of memory and 256 GB of storage, specs that many older machines don't meet. Cross the threshold and the features switch on. Fall short and they just disappear into a cloud or don't run at all. These aren't minor additions. It's things like live translation while you speak, [music] image generation on your device, smarter search options, and a memory that can look back through all of your work. None of it works without the hardware Microsoft demands. When the requirements were announced, the chips that met them were [music] arms, not"
+    },
+    {
+      "id": 30,
+      "debut": 1259.11,
+      "fin": 1301.51,
+      "temps_estime": false,
+      "titre": "Windows 10 end of support and the great refresh",
+      "resume": "The industry shifted toward Arm, and Microsoft ended Windows 10 support in October 2025, forcing a great refresh of hardware. Old x86 programs run through the Prism translation layer, slower and without the full power of the silicon.",
+      "mots_cles": [
+        "Arm",
+        "Windows 10 end of support",
+        "great refresh",
+        "Prism",
+        "x86 emulation",
+        "forced upgrade",
+        "Nvidia design",
+        "October 2025"
+      ],
+      "texte": "Intels. So the entire industry began shifting toward arm. The same foundation Nvidia and its partners were already built on. The timing wasn't subtle. Microsoft ended all support for Windows 10 in October 2025. That alone pushed a huge wave of people toward buying something new, [music] whether they wanted to or not. The result was the great refresh, the biggest forced hardware swap the industry had seen in years. And the machines that clear the bar most comfortably are the ones built on Nvidia's design. Older programs written for x86 don't run directly on these new chips. Windows translates them on the go through a layer called Prism so they still open. They just run slower and they never get the full power of the silicon underneath. The old software"
+    },
+    {
+      "id": 31,
+      "debut": 1301.51,
+      "fin": 1340.61,
+      "temps_estime": false,
+      "titre": "RTX Spark exceeds the baseline by 20 times",
+      "resume": "RTX Spark reaches over 1,000 TOPS, more than 20 times Windows' 40 TOPS baseline, because it is built for what comes after current features. Once software targets that level, upgrading stops being optional and always-on assistants keep working.",
+      "mots_cles": [
+        "RTX Spark",
+        "1,000 TOPS",
+        "40 TOPS baseline",
+        "upgrade pressure",
+        "always-on assistant",
+        "AI models",
+        "hardware requirements"
+      ],
+      "texte": "works as a guest. Of course, RTX Spark sales passed Microsoft's benchmark. [music] The baseline is 40 TOPS and Nvidia says this chip reaches over 1,000. [music] That's more than 20 times what Windows asks for, and that's the point. The chip isn't built to barely meet today's features. [music] It's built for what comes after them. Everything below that line is already behind. At that level, the chip can run AI models too large for a normal laptop and keep an assistant [music] running continuously even when you're not at the keyboard. Once most new software is built for that higher level by default, [music] upgrading stops being optional. These kinds of new computers never fully stop. The AI assistants are partly awake, waiting for"
+    },
+    {
+      "id": 32,
+      "debut": 1340.61,
+      "fin": 1383.21,
+      "temps_estime": false,
+      "titre": "Energy cost of AI requests",
+      "resume": "Some AI systems run overnight, and the IEA and EPRI put one AI request at about 2.9 watt hours versus 0.3 for a web search, around 10 times more and nearly 10 terawatt hours a year. Epoch AI and Sam Altman argue the real figure is much lower with newer models.",
+      "mots_cles": [
+        "AI energy use",
+        "2.9 watt hours",
+        "IEA",
+        "EPRI",
+        "Epoch AI",
+        "Sam Altman",
+        "web search",
+        "terawatt hours"
+      ],
+      "texte": "something to do. [music] Some systems are even designed to keep working overnight, finishing the long tasks while you sleep. That comes at a cost. How much has been heavily [music] debated? The International Energy Agency and repeated by the Electric Power Research Institute in 2024 put a single AI request at around [music] 2.9 watt hours of electricity compared to roughly 0.3 for a basic web search. [music] That's about 10 times more. So the billions of queries each day could work out at nearly 10 terawatt hours of extra demand a year. Other researchers disagree. The Research Institute Epoch AI, along with OpenAI Sam Altman, say the real figure is much lower. Newer models, they argued, had cut a typical request back down to about the level of"
+    },
+    {
+      "id": 33,
+      "debut": 1383.21,
+      "fin": 1433.11,
+      "temps_estime": false,
+      "titre": "Rising use, the rebound effect and laptop heat",
+      "resume": "Cost per question is falling but how often we ask is rising, as cheaper tools get used more and total consumption grows. The cost lands in your lap through heat, fans and battery drain, and Microsoft's emissions have risen nearly 30% since 2020.",
+      "mots_cles": [
+        "rebound effect",
+        "Jevons paradox",
+        "laptop battery",
+        "Microsoft emissions",
+        "30% since 2020",
+        "cost per query",
+        "data centers"
+      ],
+      "texte": "an ordinary search. So the cost per question is falling fast, but how often we ask is rising. There's an old idea in economics that when something becomes cheaper and easier to use, people don't use less of it, they use more of it, and the total rises anyway. An assistant that takes no effort to summon gets used constantly, even for the small tasks you have never bothered a computer with before. [music] So the cost isn't sitting in some distant data center that you never think about. It is sitting in your lap. The machine runs hotter, the fan kicks on more often. The battery that used to last all day starts asking for a charger by mid afternoon, and the effects show up elsewhere. Microsoft's own emissions have risen by nearly 30% since 2020, driven by the data centers powering these systems. The more capable the software becomes, the more electricity it burns in the [music] background every time you use it. It's a"
+    },
+    {
+      "id": 34,
+      "debut": 1433.11,
+      "fin": 1502.91,
+      "temps_estime": false,
+      "titre": "Why AI needs parallel processors, not sequential CPUs",
+      "resume": "Traditional processors follow rules step by step, while modern AI guesses through trillions of small calculations across billions of values. That rewards thousands of small parallel workers, with the CPU becoming a coordinator, which lets it all fit on a laptop.",
+      "mots_cles": [
+        "CPU",
+        "parallel processing",
+        "AI inference",
+        "sequential instructions",
+        "coordinator",
+        "billions of values",
+        "laptop"
+      ],
+      "texte": "problem every company ran into at the same [music] time. A traditional processor is great at following rules. It goes through instructions one at a time in order, making a clear yes or no decision. That was perfect for everything [music] from a spreadsheet to flight booking where each move waits on the one before it. Modern AI doesn't think in clean steps at all. It works by guessing. [music] It runs staggering amounts of basic arithmetic across billions of values to land on the answer that fits the best. Every word an AI writes sets off another round of that weighing with billions of numbers checked at once. A single short answer can take trillions of those tiny sums. There's no neat line of logic to follow, just a huge cloud of maybes resolved in an instant. [music] Work like that rewards a completely different kind of processor. You don't want a single processor solving problems one by one. You want [music] thousands of small workers doing the same simple calculation at the same time. A traditional processor doesn't disappear. It just becomes the coordinator handing the work off to a much larger AI section and handling the small tasks that still need strict order and precision. Running thousands of those calculations in parallel instead of a few in a line is [music] what makes it all fit on a laptop instead of in a warehouse. And"
+    },
+    {
+      "id": 35,
+      "debut": 1502.91,
+      "fin": 1562.61,
+      "temps_estime": false,
+      "titre": "The AI assistant hides the computer from you",
+      "resume": "Using a computer once meant knowing where things were, but the new assistant remembers yesterday's work, picks tools and hands back finished results. The visible control disappears, the interface becomes a sealed box, and unused skills fade.",
+      "mots_cles": [
+        "AI assistant",
+        "visible control",
+        "sealed box",
+        "computer skills",
+        "background tasks",
+        "file management",
+        "user control"
+      ],
+      "texte": "once the machine does the reasoning, the person who used to do it starts to [music] change as well. For decades, using a computer meant knowing where things were. You opened a program, you dug through folders, you clicked menus, and you set [music] things up for yourself. The assistant on these new machines is built to make all of that disappear. Give it enough time and it remembers yesterday's work, picks the right tool to complete [music] the task, and hands back a finished result. By the time you even sit down, the assistant may have sorted your messages, drafted the easy replies, and lined up what it thinks [music] matters next. The desktop full of windows you once had to navigate becomes something handled in the background. You don't lose control entirely. You can still reject a step. What disappears is the visible control that defined the old era, knowing where the files are, knowing what's running, knowing why the machine is doing what it's doing. The chip doing the thinking was always a sealed box that no one could look inside. [music] Now the way you talk to it is sealed, too. The understanding that people built about how their computers work becomes less and less necessary, [music] and a skill you don't use is a skill you stop"
+    },
+    {
+      "id": 36,
+      "debut": 1562.61,
+      "fin": 1634.11,
+      "temps_estime": false,
+      "titre": "The end of the personal computer owned by its user",
+      "resume": "A 2024 laptop is a relic you could inspect and edit, whereas RTX Spark works in a sealed box on odds, owned by the Nvidia and Microsoft duopoly, with the desktop kept for legacy programs. The era of the general-purpose PC owned by its user is ending and the divide becomes access.",
+      "mots_cles": [
+        "personal computer",
+        "Nvidia Microsoft duopoly",
+        "sealed box",
+        "probabilistic AI",
+        "legacy software",
+        "right to repair",
+        "access divide"
+      ],
+      "texte": "remembering. A laptop bought in 2024 or early 2025 is already a relic. Open it up and you can still see how it runs. You can change the settings by hand. [music] You can edit the files that control how it behaves. It belonged to you and it answered to you. All the work an RTX Spark chip does happens inside a sealed box. [music] Its entire reasoning is built on a series of odds, not fixed rules. The software is owned by the duopoly of NVIDIA and Microsoft. You give it a goal and the assistant acts. The desktop is still there just for older programs. It's no longer where the computer actually runs. There's no easy way back to the old model. Software [music] gets written for the hardware that runs at the best. Users follow the software. Older machines fall behind and become redundant. The era of the personal computer as a general purpose tool owned and operated by its user is coming to an end. What replaces it is a system where intelligence and access depends on what your machine can run and no one outside Nvidia can [music] fully see how it produces what it produces. The real divide isn't technical, it's access. Who gets to think with it and who gets left behind? Nvidia and Microsoft are starting to corner the entire market and that affects your ability to afford what goes inside your"
+    },
+    {
+      "id": 37,
+      "debut": 1634.11,
+      "fin": 1679.81,
+      "temps_estime": false,
+      "titre": "Teaser: Windows 11 telemetry and Valve's escape route",
+      "resume": "The speaker says a gaming PC may not belong to you: idle Windows 11 sends over 3,000 telemetry pings to more than 100 servers in 24 hours, acting like a digital wire tap. Leaked documents point to an end game that eliminates PC ownership, while Valve built the only real escape route.",
+      "mots_cles": [
+        "Windows 11",
+        "telemetry",
+        "3,000 pings",
+        "digital wire tap",
+        "leaked documents",
+        "Valve",
+        "PC ownership",
+        "privacy"
+      ],
+      "texte": "computer. You probably think your gaming PC belongs to you, but leave Windows 11 idle for just 24 hours and it'll send over 3,000 telemetry pings to more than 100 different servers [music] all running in the background while you are doing nothing. It operates like a digital wire tap, reporting system metadata and tracking identifiers the second you turn your back. Most people think Windows is shifting to local AI to keep everything on device, but leaked documents reveal a much darker end game for Windows, [music] one that completely eliminates your ability to own your PC. And while everyone is distracted by handheld consoles, one has been building the only real escape route out and Valve didn't need permission to do it. Chapter one,"
+    },
+    {
+      "id": 38,
+      "debut": 1679.81,
+      "fin": 1720.31,
+      "temps_estime": false,
+      "titre": "Chapter one: the glass house, Windows telemetry",
+      "resume": "Microsoft sold Copilot Plus PCs as a privacy win, but the PC Security Channel tested a clean Windows 11 system and found it contacted dozens of servers in 24 hours, including ad networks and market research firms. Turning privacy settings down did not stop it, as the fix needs policy controls consumer versions lack.",
+      "mots_cles": [
+        "Windows 11",
+        "telemetry",
+        "PC Security Channel",
+        "Copilot Plus PC",
+        "ad networks",
+        "privacy settings",
+        "policy controls",
+        "glass house"
+      ],
+      "texte": "the glass house. Microsoft has spent two years selling its Copilot Plus PCs [music] as a victory for privacy. Everything runs locally. Your data never leaves your machine, but the reality looks very different. The PC security channel ran tests on a clean Windows 11 system. [music] No user logged in and no apps were opened. The machine was just sitting on a desk. [music] Inside 24 hours, the machine reached out to dozens of different servers and it wasn't just Microsoft. It was pinging third party ad networks and market research firms, some of them [music] most users would never have heard of. Even turning the privacy settings all the way down didn't make a difference. The only way to make it stop [music] is through policy controls that consumer versions of Windows don't"
+    },
+    {
+      "id": 39,
+      "debut": 1720.31,
+      "fin": 1755.61,
+      "temps_estime": false,
+      "titre": "Recall takes screenshots of everything",
+      "resume": "Recall on Copilot Plus PCs captures your screen every few seconds when it changes and stores searchable images in a local database. These contain emails, bank logins, private chats and password manager pop-ups, all indexed and findable by anyone with access to the machine.",
+      "mots_cles": [
+        "Recall",
+        "Copilot Plus PC",
+        "screenshots",
+        "local database",
+        "searchable",
+        "bank logins",
+        "passwords",
+        "privacy"
+      ],
+      "texte": "include. Recall sits on [music] top of all of that. Its Copilot Plus AI feature takes a picture of your screen every few seconds whenever something [music] changes. Each picture gets saved to a local database on your hard drive. The pictures are searchable. You can type in the thing I saw last Tuesday and just pull it up. The contents of those pictures are the real problem. Emails, websites, bank logins, private chats, password manager pop-ups that appear for half a second. Whatever's on the screen ends up in the database indexed and sitting in a [music] place that anyone with access to your machine can find. Recall doesn't care what it is. It saves"
+    },
+    {
+      "id": 40,
+      "debut": 1755.61,
+      "fin": 1798.31,
+      "temps_estime": false,
+      "titre": "Recall's security flaws and the cloud sync risk",
+      "resume": "Early Recall versions could be extracted with simple recovery tools, and although Windows Hello and a sensitive-data filter were added, independent testers in August 2025 found the filter still missed items. Recall does not sync to the cloud now but could after a single update, making the computer a witness.",
+      "mots_cles": [
+        "Recall",
+        "security researchers",
+        "Windows Hello",
+        "sensitive data filter",
+        "August 2025",
+        "cloud sync",
+        "witness",
+        "privacy policy"
+      ],
+      "texte": "them all regardless. Microsoft says the database [music] stays on your computer, but security researchers found early versions of it could be pulled [music] off by simple recovery tools. Windows Hello sign-in and a filter that's supposed to skip over sensitive data have been added since then, but in August 2025 independent testers ran the filter and found it still missed things [music] it was built to catch. Even if you trust the local part, there's still the policy problem. Right now Recall does not sync to the cloud, but that can change with a single update. Most users would never notice. A computer that takes a picture of itself every few seconds is no longer yours in the way you thought it was. It is a witness."
+    }
+  ]
+}
