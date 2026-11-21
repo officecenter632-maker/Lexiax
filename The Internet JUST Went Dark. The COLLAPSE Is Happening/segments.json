@@ -4,12 +4,12 @@
   "titre_video": "The Internet JUST Went Dark. The COLLAPSE Is Happening.",
   "duree_s": 2161.76,
   "avancement": {
-    "lignes_traitees": 464,
-    "fin_traitee_s": 1824.08,
+    "lignes_traitees": 554,
+    "fin_traitee_s": 2161.76,
     "nb_lignes_total": 554,
-    "complet": false
+    "complet": true
   },
-  "nb_segments": 44,
+  "nb_segments": 54,
   "segments": [
     {
       "id": 1,
@@ -844,6 +844,195 @@
         "8 weeks"
       ],
       "texte": "Day 58 The shortwave crackles with the first federal statement in 8 weeks. A Department of Energy official is speaking from an undisclosed location. He praises the resilience of the American people and announces that power will be restored in phases over the next 12 to 18 months. He does not say what happened, or which phase Cleveland is in."
+    },
+    {
+      "id": 45,
+      "debut": 1824.08,
+      "fin": 1841.36,
+      "temps_estime": false,
+      "titre": "Day 60: Dana moves into the hospital green zone",
+      "resume": "The hospital needs an ICU nurse more than anything and pays in insulin, so Dana moves into the green zone with a duffel bag and promises to send vials home by courier twice a week. A resident will stay with Priya while Nate is at work.",
+      "mots_cles": [
+        "Dana",
+        "ICU nurse",
+        "green zone",
+        "hospital pays in insulin",
+        "courier",
+        "family separation",
+        "Priya",
+        "Day 60"
+      ],
+      "texte": "Day 60 The hospital needs an ICU nurse more than it needs anything else, and it pays in insulin. Dana makes the difficult decision to move into the green zone that afternoon with a duffel bag and a promise to send vials home by courier twice a week. A resident will stay with Priya while Nate is at work."
+    },
+    {
+      "id": 46,
+      "debut": 1841.36,
+      "fin": 1895.2,
+      "temps_estime": false,
+      "titre": "Day 60: the open transmission main reveals water traded for diesel",
+      "resume": "Nate's valve map shows every west-side residential valve closed except one transmission main running along the lakefront to an affluent suburb, annotated \"Diesel, 4,000 gallons weekly.\" The suburb drains fuel from the marina's tanks and boats and barters water for it, so the water Nate shut off bought the diesel that kept the plant and hospital running.",
+      "mots_cles": [
+        "valve map",
+        "transmission main",
+        "affluent suburb",
+        "diesel for water",
+        "marina fuel",
+        "4,000 gallons weekly",
+        "bartering",
+        "water plant pump"
+      ],
+      "texte": "That evening, the plant supervisor hands Nate the current valve map for the west side. Every residential valve on the west side is marked closed, as ordered. But Nate spots an anomaly. One transmission main is marked open that was not on the director's list. It runs east along the lakefront to an affluent suburb. Beside it, a handwritten note says, \"Diesel, 4,000 gallons (15,142 liters) weekly.\" Nate stares at the map. He feels a weight on his chest. Everything clicks into place. The plant's last working pump runs on diesel. The wealthy suburb has been draining fuel from the nearby marina's tanks and the boats tied up in its slips. They aren’t sharing power, they’re bartering water for fuel. The supply Nate shut off on day 7, that act turned his basement into a cesspool and forced his neighbors into drinking toxic water, is the currency that’s bought the diesel. The diesel that kept the plant online. That kept the hospital running."
+    },
+    {
+      "id": 47,
+      "debut": 1895.2,
+      "fin": 1938.4,
+      "temps_estime": false,
+      "titre": "Day 71: Walt Pruitt's death and his betrayal",
+      "resume": "Walt Pruitt dies in his recliner and residents find carbon copies from the fake FEMA man's clipboard and empty vodka bottles in his apartment. Walt had traded the list of best-stocked apartments for liquor, getting the elderly couple killed; the building votes against burying him, but Nate and one other resident do it anyway beside the couple.",
+      "mots_cles": [
+        "Walt Pruitt",
+        "fake FEMA official",
+        "betrayal",
+        "carbon copies list",
+        "vodka",
+        "guilt",
+        "burial",
+        "elderly couple"
+      ],
+      "texte": "Day 71 Walt Pruitt sits in his recliner in his apartment on the 9th floor. His eyes are wide, staring blankly at the wall. Nate crouches down in front of him. He gently closes Walt’s eyes. When the residents clear out his unit, they uncover a sick betrayal. In a desk drawer, they find the carbon copies from the fake FEMA man’s clipboard. Walt wasn’t fooled like the rest of them. He was in on it. Empty vodka bottles are littered across the apartment. Walt had traded the list of the best-stocked apartments in the building for liquor… and the elderly couple died. The guilt was too much. The residents hold a vote to bury Walt’s body. It doesn’t pass. Nate and one other resident do it anyway. Walt’s body is laid to rest next to the same couple he sold out."
+    },
+    {
+      "id": 48,
+      "debut": 1938.4,
+      "fin": 1951.92,
+      "temps_estime": false,
+      "titre": "Day 77: Priya falls into a coma",
+      "resume": "After weeks of severe insulin rationing, Priya's body gives out, her breathing slows and she doesn't respond when Nate shakes her. She slips into a coma.",
+      "mots_cles": [
+        "Priya",
+        "coma",
+        "insulin rationing",
+        "type 1 diabetes",
+        "Nate",
+        "Day 77",
+        "breathing slows",
+        "diabetic crisis"
+      ],
+      "texte": "Day 77 Priya’s body gives out. The weeks of severe rationing have caught up with her. Her breathing slows. Nate shakes her by the shoulders, but she doesn’t move. Nate screams her name. Nothing. She has slipped into a coma."
+    },
+    {
+      "id": 49,
+      "debut": 1951.92,
+      "fin": 2000.72,
+      "temps_estime": false,
+      "titre": "Day 78: the courier killed and the vials passed through the fence",
+      "resume": "The hospital courier never arrives and Nate finds him dead in the snow two blocks from the hospital, his insulin cooler stolen, where a vial is worth more than a gun. Guards turn Nate away at the green zone gate, Dana passes three smuggled vials through the fence, and Nate injects Priya, whose breathing stabilizes.",
+      "mots_cles": [
+        "insulin courier",
+        "stolen insulin cooler",
+        "green zone fence",
+        "smuggled vials",
+        "insulin black market",
+        "Dana",
+        "Priya recovery",
+        "Day 78"
+      ],
+      "texte": "Day 78 The courier from the hospital never arrives. Nate searches the snow covered streets and finds him face down in the drift. He was just 2 blocks from the hospital. His pockets have been turned out and the insulin cooler gone. On the west side, a vial of insulin is worth more than a gun. Nate treks to the green zone gate with his plant badge. The guards turn him away. Dana rushes to the fence 20 minutes later and passes three smuggled vials through the mesh. They manage to lock fingers for a brief moment, then Nate makes the journey back to his daughter. It’ll be the last time he sees his wife… and they were separated by a security fence. That night, Nate kneels by his daughter’s side and loads a syringe by candlelight. His hand shakes as he punctures Priya’s skin and presses the plunger. Within hours, her breath stabilizes. Her eyelids begin to flutter. Nate collapses beside her bed."
+    },
+    {
+      "id": 50,
+      "debut": 2000.72,
+      "fin": 2024.08,
+      "temps_estime": false,
+      "titre": "Days 80-83: the barricade falls and the marina runs dry",
+      "resume": "The retired mail carrier is found at the lobby barricade with his throat slashed and his deer rifle missing, presumably taken by the people on Fulton Road. On Day 83 the marina drains its last boat of diesel, nothing is left to trade, the mains are dry and the city is about to flatline.",
+      "mots_cles": [
+        "building defense collapse",
+        "mail carrier killed",
+        "deer rifle stolen",
+        "Fulton Road",
+        "marina diesel exhausted",
+        "mains dry",
+        "city flatline",
+        "Day 80"
+      ],
+      "texte": "Day 80 The building’s defence collapses. The retired mail carrier is found at the lobby barricade with his throat slashed. His deer rifle is missing. Everyone knows the people on Fulton Road did it. And now, they have a hunting rifle. Day 83 The marina drains its last boat of diesel fuel. There’s nothing left to trade. The mains are dry. The city is about to flatline."
+    },
+    {
+      "id": 51,
+      "debut": 2024.08,
+      "fin": 2052.88,
+      "temps_estime": false,
+      "titre": "Day 86: a neighborhood tears itself apart",
+      "resume": "Nate watches from the roof as two men fight over a crate of MREs in the neighborhood across the street, and a retaliatory firebomb guts a wooden-framed building. One of the casualties trapped inside is Dale Brandt's brother-in-law.",
+      "mots_cles": [
+        "MRE fight",
+        "firebomb",
+        "building fire",
+        "neighborhood violence",
+        "Dale Brandt brother-in-law",
+        "Day 86",
+        "social collapse",
+        "roof"
+      ],
+      "texte": "Day 86 The neighborhood across the street has reached its limit. It begins tearing itself apart. Nate stands on his building roof and watches as two men come to blows over a crate of MREs. A punch is thrown. Moments later, a retaliatory firebomb ignites the wooden framed structure. The blaze completely guts the structure, lighting up the night until it's nothing but a charred, smoking ruin. One of the casualties trapped inside is the brother-in-law of Dale Brandt. Nate turns away and heads back down to his daughter."
+    },
+    {
+      "id": 52,
+      "debut": 2052.88,
+      "fin": 2108.56,
+      "temps_estime": false,
+      "titre": "Day 90: Thanksgiving and Nate turns Dale's widow away",
+      "resume": "Nate and Priya eat cold MREs beside Dana's empty chair while the President speaks from a hidden bunker praising American resilience. Dale Brandt's widow and the 12-year-old boy Nate voted to expel ask for shelter and food, and Nate repeats the lie that everything will be fine and turns them away.",
+      "mots_cles": [
+        "Thanksgiving",
+        "President shortwave",
+        "hidden bunker",
+        "Dale's widow",
+        "expelled boy",
+        "shelter request",
+        "refusal",
+        "Day 90"
+      ],
+      "texte": "Day 90 It’s Thanksgiving. Nate and Priya eat cold MREs next to Dana’s empty chair. On the shortwave, the President speaks from a hidden bunker, repeating the same hollow praise for American resilience. At 6 p.m., a loud pounding rattles the lobby doors. Nate and a few residents join the guard, preparing for the worst. The iron wrench hangs by Nate’s side. Standing in the freezing twilight is a woman. Next to her, a 12-year-old boy wearing an oversized coat. It is Dale Brandt's widow and the boy Nate voted to expel into the streets. She looks Nate in the eyes and asks for shelter and food. Nate grips the wrench and looks at the boy wearing his dead father’s coat, then the charred shell of the building opposite. He glances at the other residents who shake their heads. Nate tells her that he can’t help. He repeats the empty lie he has been telling everyone, muttering everything will be fine in the end. The widow and the boy turn away, their feet crunching on the snow. Nate watches them for a moment, then turns away."
+    },
+    {
+      "id": 53,
+      "debut": 2108.56,
+      "fin": 2150.24,
+      "temps_estime": false,
+      "titre": "Day 90: the boy shoots Nate",
+      "resume": "That night the street is eerily quiet until a .308 round tears through Nate's left shoulder and drops him in the snow. The shooter is the boy in the oversized coat holding the mailman's hunting rifle, who cycles the bolt and aims at Nate's chest.",
+      "mots_cles": [
+        "Nate shot",
+        "hunting rifle",
+        ".308",
+        "Dale's son",
+        "oversized coat",
+        "revenge",
+        "cliffhanger",
+        "Day 90 night"
+      ],
+      "texte": "That night, Nate steps out into the street. For the first time that he can remember it’s quiet. There’s no alarms, no screaming or shouting. It’s almost eerie. Suddenly, a deafening crack splits the air. A high velocity .308 tears cleanly through his left shoulder. The force spins him around and sends him crashing to the ground. Dark blood spills out, staining the snow. Nate’s breath hangs in the air as he cranes his neck, looking for the shooter. Across the street, he sees a shadow. Small, slight… wearing an oversized coat. In his hands, he’s holding the mailman’s hunting rifle, the barrel still smoking. The boy doesn’t run. He just cycles the bolt, a brass casing dropping softly into the snow. He raises the rifle and aims the scope at Nate’s chest…"
+    },
+    {
+      "id": 54,
+      "debut": 2150.24,
+      "fin": 2161.76,
+      "temps_estime": false,
+      "titre": "Closing: promo for World War 3 Hour by Hour in the Suburbs",
+      "resume": "The video ends by asking what happens when the lights go out on purpose and suburban Ohio is hit by fallout from a nearby nuclear explosion. Viewers are pointed to \"World War 3 - Hour by Hour in the Suburbs\".",
+      "mots_cles": [
+        "outro",
+        "World War 3",
+        "Hour by Hour in the Suburbs",
+        "suburban Ohio",
+        "nuclear fallout",
+        "next video",
+        "promo"
+      ],
+      "texte": "What happens when the lights go out on purpose and suburban Ohio is hit by the fallout of a nearby nuclear explosion? Watch “World War 3 - Hour by Hour in the Suburbs” to find out. Or click on this."
     }
   ]
 }
