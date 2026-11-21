@@ -4,12 +4,12 @@
   "titre_video": "Everything You Need to Know About the Coming US-China War",
   "duree_s": 11085.31,
   "avancement": {
-    "lignes_traitees": 2979,
-    "fin_traitee_s": 5894.96,
+    "lignes_traitees": 3774,
+    "fin_traitee_s": 7490.17,
     "nb_lignes_total": 5625,
     "complet": false
   },
-  "nb_segments": 140,
+  "nb_segments": 184,
   "segments": [
     {
       "id": 1,
@@ -2581,6 +2581,842 @@
         "West blink"
       ],
       "texte": "[music] than American military power is the economic calculation. Lloyd's of London announces it'll no longer ensure vessels transiting disputed [music] waters. Asian stock markets plummet as investors realize a shooting war means supply chain collapse. Samsung warns its chip production could halt within days. The global economy that China depends [music] on for its prosperity starts shutting down before the first shot is fired. Xi long feared this inevitability. He had just hoped the West might blink rather than bear down."
+    },
+    {
+      "id": 141,
+      "debut": 5894.96,
+      "fin": 5930.06,
+      "temps_estime": false,
+      "titre": "Japan activates Article 9 and the alliance looks unified",
+      "resume": "The turning point comes when Japan activates Article 9 provisions allowing collective self-defense, with F-35s operating from Japanese bases, the US Seventh Fleet in South Korean ports and Australia moving three Collins-class submarines forward. The alliance network China thought it could divide looks more unified than ever, and Xi recalls the West's response to Russia's 2022 invasion.",
+      "mots_cles": [
+        "Japan Article 9",
+        "collective self-defense",
+        "Seventh Fleet",
+        "Collins-class submarines",
+        "alliance network",
+        "Xi Jinping",
+        "Russia 2022 invasion",
+        "F-35 Japan"
+      ],
+      "texte": "The turning point comes when Japan announces it's activating [music] Article 9 provisions allowing collective self-defense. The clause's constitutional language seemed theoretical until American F-35s started operating from Japanese [music] bases. The US Seventh Fleet came to South Korea's ports. Australia moved three Collins-class [music] submarines to forward positions. The alliance network China thought it could divide suddenly looks more unified than ever. Xi thought back to 2022, [music] to the West in the aftermath of Russia's ill-planned invasion. He had decades to plan, and even now the outcome looked increasingly untenable. At hour 42,"
+    },
+    {
+      "id": 142,
+      "debut": 5930.06,
+      "fin": 5956.16,
+      "temps_estime": false,
+      "titre": "At hour 42 the Chinese fleet stops dead 200 miles from Taiwan",
+      "resume": "At hour 42 the Chinese fleet stops in the water 200 miles from Taiwan, neither advancing nor retreating, while frantic messages fly between the Central Military Commission and fleet commanders. They know victory against America's technological edge is impossible and retreat inevitable, and a face-saving formula emerges through diplomatic channels in Moscow.",
+      "mots_cles": [
+        "hour 42",
+        "Chinese fleet halts",
+        "Central Military Commission",
+        "retreat",
+        "technological edge",
+        "Moscow diplomacy",
+        "face-saving",
+        "Taiwan 200 miles"
+      ],
+      "texte": "[music] something unprecedented happens. The Chinese fleet stops dead in the water. Satellite imagery shows the massive formation holding position 200 miles from Taiwan, neither advancing nor retreating. In Beijing, frantic messages fly between the Central Military Commission and fleet commanders. [music] They know the truth. Against America's technological edge, victory is impossible and retreat is inevitable. The face-saving formula comes through diplomatic channels in Moscow."
+    },
+    {
+      "id": 143,
+      "debut": 5956.16,
+      "fin": 5986.06,
+      "temps_estime": false,
+      "titre": "Russia mediates and China blinks",
+      "resume": "Russia offers to mediate de-escalation talks that let China frame its withdrawal as the completion of maritime exercises, and state media calls the operation a demonstration of naval capabilities. The 127-ship fleet disperses into routine South China Sea patrols, but everyone understands China blinked.",
+      "mots_cles": [
+        "Russia mediation",
+        "de-escalation talks",
+        "maritime exercises",
+        "state media",
+        "127-ship fleet",
+        "China blinked",
+        "withdrawal",
+        "South China Sea patrols"
+      ],
+      "texte": "Ironically, it is Russia that offers to mediate the de-escalation talks that allowed China to frame its withdrawal as a successful completion of maritime [music] exercises. Chinese state media begins referring to the operation as a demonstration of naval capabilities rather than invasion preparations. The 127 ship [music] fleet that looked so menacing 48 hours ago starts dispersing into smaller groups, conducting routine patrols throughout the South China Sea. But everyone understands [music] what really happened. China blinked. Shipping"
+    },
+    {
+      "id": 144,
+      "debut": 5986.06,
+      "fin": 6012.76,
+      "temps_estime": false,
+      "titre": "Shipping and communications fall under American control",
+      "resume": "Shipping giants like Maersk and Costco politely ask permission for routes that were unrestricted 48 hours earlier, container ships get destroyer escorts and tankers adjust schedules to US patrols. Communication networks operate under enhanced security protocols, and Chinese commanders are isolated from their command structures while American forces share information across time zones.",
+      "mots_cles": [
+        "Maersk",
+        "Costco",
+        "destroyer escorts",
+        "oil tankers",
+        "route permission",
+        "enhanced security protocols",
+        "isolated commanders",
+        "US control of shipping"
+      ],
+      "texte": "giants like Maersk and Costco make polite phone calls requesting permission for routes that were unrestricted 48 hours earlier. Container [music] ships get navy destroyer escorts. Oil tankers adjust schedules based on US patrol patterns. Communication networks operate under enhanced security protocols, bureaucratic speak for we're all reading your emails. Chinese [music] commanders find themselves isolated from their own command structures, while American forces share information across service"
+    },
+    {
+      "id": 145,
+      "debut": 6012.76,
+      "fin": 6045.56,
+      "temps_estime": false,
+      "titre": "A new economic reality under American naval supremacy",
+      "resume": "Insurance companies begin requiring US Navy escorts for passage through the South China Sea, and routes carrying trillions in trade follow schedules coordinated through Joint Base Pearl Harbor-Hickam. The global economy adapts to American naval supremacy while Chinese diplomats fume about freedom of navigation and American imperialistic aggression.",
+      "mots_cles": [
+        "marine insurance",
+        "US Navy escorts",
+        "Pearl Harbor-Hickam",
+        "naval supremacy",
+        "freedom of navigation",
+        "Chinese diplomats",
+        "global trade",
+        "South China Sea"
+      ],
+      "texte": "and time zones. The final six hours transform a military demonstration into a new economic reality. Insurance companies begin requiring US Navy escorts [music] for passage through the South China Sea. Shipping routes that carry trillions in annual trade now operate according to schedules coordinated through joint base Pearl Harbor Hickam. The global economy adapts to American naval supremacy with [music] the efficiency of markets responding to new realities. Chinese diplomats fume about freedom of navigation, China's right to defend its own territory, [music] and American imperialistic aggression."
+    },
+    {
+      "id": 146,
+      "debut": 6045.56,
+      "fin": 6087.66,
+      "temps_estime": false,
+      "titre": "Hour 48: military order across the Indo-Pacific",
+      "resume": "By hour 48 American submarines patrol choke points from the Straits of Malacca to the Miyako Gap and F-35s patrol lanes from Singapore to San Francisco, while former dots on the map host radar systems. China spent two decades building a world-class navy that cannot operate safely beyond its own waters, so the invasion that was meant to announce a superpower shows the limits of regional power against global reach.",
+      "mots_cles": [
+        "hour 48",
+        "Straits of Malacca",
+        "Miyako Gap",
+        "combat air patrols",
+        "radar systems",
+        "Chinese navy limits",
+        "regional power",
+        "global reach"
+      ],
+      "texte": "By hour 48, military order reigns across the Indo-Pacific. [music] American submarines patrol choke points from the Straits of Malacca to the Miyako Gap, also known as the Kerama Gap. F-35s maintain combat air patrols over shipping lanes that stretch from Singapore [music] to San Francisco. The islands that were dots on maps yesterday now host radar systems that can track aircraft at unimaginable distances. Chinese leadership faces a humiliating truth. They spent two decades building a world-class navy that cannot safely operate beyond their own territorial waters. When America decides otherwise, the Taiwan invasion that was supposed to announce China's arrival as a global superpower [music] instead demonstrates the limits of regional power when faced with global reach. America's Pacific"
+    },
+    {
+      "id": 147,
+      "debut": 6087.66,
+      "fin": 6118.66,
+      "temps_estime": false,
+      "titre": "America's strategy of overwhelming force, and whether Taiwan could withstand an attack",
+      "resume": "America's Pacific strategy rests on striking with overwhelming force precise enough to spare lives yet brutal enough to break the enemy's will. The demonstration revealed capabilities making Chinese victory mathematically impossible, and faced with certain defeat even authoritarian regimes choose strategic patience, but the real question is whether Taiwan could withstand the attack.",
+      "mots_cles": [
+        "overwhelming force",
+        "Pacific strategy",
+        "strategic patience",
+        "authoritarian regimes",
+        "Chinese defeat",
+        "Taiwan resilience",
+        "military demonstration",
+        "US dominance"
+      ],
+      "texte": "strategy rests on a single [music] principle, strike with overwhelming force precise enough to spare lives, yet brutal enough to break the enemy's will. The demonstration [music] works because it revealed technological and logistical capabilities that make Chinese victory mathematically impossible. [music] When faced with certain defeat, even authoritarian regimes choose strategic patience over inevitable destruction. [music] America may be able to dominate the Pacific quickly, but the real question is whether Taiwan could withstand the attack. Imagine the scene."
+    },
+    {
+      "id": 148,
+      "debut": 6118.66,
+      "fin": 6164.76,
+      "temps_estime": false,
+      "titre": "Vietnam bans Barbie over a map",
+      "resume": "In July 2023 Vietnam's Minister for Culture, Sports and Tourism is furious and demands the Barbie movie be banned and every image removed. The film divided the West on sociocultural grounds, but Vietnam cared about something else, and critics called the film an assault on men or a flaming piece of dog poop.",
+      "mots_cles": [
+        "Barbie movie",
+        "Vietnam ban",
+        "July 2023",
+        "Minister for Culture",
+        "film ban",
+        "Barbie controversy",
+        "Vietnam",
+        "Hollywood"
+      ],
+      "texte": "It's July 2023. In a meeting, Vietnam's Minister for Culture, Sports and Tourism is furious, his face twisted into a picture of superlative disgust. Behind him on a large screen is an image of a pretty blonde American lady decked out [music] in a smart button-up dress. I want this movie banned, he snarls. I want every single image, digital paper, or even printed on a little girl's knapsack removed from this country and dumped into the trash can of fake history. He's talking about Barbie, a blockbuster movie that is divided the West on sociocultural grounds, but one that's angered and offended Vietnam on a much higher level. Why? Because Barbie, as some people have said, is an assault on men, or according to another critic, is a flaming piece of dog poop, a Death Star-sized piece of drack [music] that teaches children all the wrong things."
+    },
+    {
+      "id": 149,
+      "debut": 6164.76,
+      "fin": 6209.66,
+      "temps_estime": false,
+      "titre": "The nine-dash line in Barbie: banned films and a looming conflict",
+      "resume": "Vietnam was incensed by an image in a Barbie scene showing China's nine-dash line, the dashes demarcating what critics call a brazen territorial claim, and it has banned other films over it. Malaysia and the Philippines have also banned American movies over the line, a problem for Hollywood but a feather in China's cap, and violence may be on the horizon.",
+      "mots_cles": [
+        "nine-dash line",
+        "Barbie",
+        "film ban",
+        "Vietnam",
+        "Malaysia",
+        "Philippines",
+        "territorial claim",
+        "Hollywood"
+      ],
+      "texte": "No is the answer Vietnam could give a rats behind about polarizing Western world issues. What's incensed the country is an image that appeared in a Barbie scene we just mentioned [music] featuring China's perhaps indelicate nine-dash line. In fact, the Barbie movie is not the first film that Vietnam has banned over this line. Nine highly offensive dark dashes demarcating what critics say is China's brazen territorial claim. Malaysia and the Philippines have also banned American movies over nine dashes, a problem for Hollywood's bottom line, but a feather in the cap for China. The issue of that now infamous line has been heating up lately. It doesn't look like the story will have anything close to a Hollywood happy ending. Rather, violence is probably on the not too distant horizon, which as you'll see later, has many citizens of Asian nations worried. [music]"
+    },
+    {
+      "id": 150,
+      "debut": 6209.66,
+      "fin": 6232.46,
+      "temps_estime": false,
+      "titre": "How did the nine-dash line come to be? Is China a bully?",
+      "resume": "The USA plays a major role in the concern over the dispute, but first the speaker looks at how the nine-dash line came into being. The question is how China can claim so much of the area and whether its territory-grabbing is within its rights or that of a schoolyard bully in the South China Sea.",
+      "mots_cles": [
+        "nine-dash line origin",
+        "South China Sea",
+        "territorial claim",
+        "schoolyard bully",
+        "Chinese claim",
+        "history",
+        "disputed waters",
+        "USA role"
+      ],
+      "texte": "The USA plays a major role in this existential concern, of course. We'll come back [music] to the present scraps and squabbles soon, but first we need to look at how this line came into being in the first place. We must [music] ask ourselves, how can China be so bold as to claim so much of this area as its own? Are it's long territory-grabbing fingers acting within their rights, or is China being the schoolyard bully of the South China Sea? First, you must"
+    },
+    {
+      "id": 151,
+      "debut": 6232.46,
+      "fin": 6289.06,
+      "temps_estime": false,
+      "titre": "Imperial China: isolated, advanced and the world's biggest economy in 1820",
+      "resume": "For centuries China was isolated but advanced, calling the first Europeans uncivilized barbarians, and stayed isolated even as Europe industrialized. In 1820 its economy was about six times Britain's and 20 times the USA's, and China and India together made up 49% of world GDP.",
+      "mots_cles": [
+        "China isolationism",
+        "Europeans barbarians",
+        "1820 economy",
+        "six times Britain",
+        "20 times USA",
+        "49% world GDP",
+        "Industrial Revolution",
+        "imperial China"
+      ],
+      "texte": "understand some history to understand China's rather big claim. As some of you know, for centuries China was quite an isolated nation. It was very advanced though, so when those first Europeans went there and marveled at various Chinese inventions, the Chinese would often refer to those Westerners as uncivilized barbarians. When those enterprising Europeans started to exploit the world's natural resources sailing around the world to do business and often kill and conquest. China still remained mostly isolated. During the height of the European Industrial Revolution in 1820, despite the British and the rest of Western Europe churning out newfangled money-making industrial machinery, China easily had the world's largest economy. That year, the country's economy was about six times bigger than Britain's, which was the largest economy in Europe. China's economy at the time also dwarfed the USA by about 20 times. In fact, China and India at that point together made up 49% of the world's GDP. The British went on"
+    },
+    {
+      "id": 152,
+      "debut": 6289.06,
+      "fin": 6312.66,
+      "temps_estime": false,
+      "titre": "China's belief that imperialists robbed it",
+      "resume": "Britain governed India from 1858 to 1947, but getting to China's wealth was a different game. China boasts of its past superpower prowess while believing imperialists robbed it when they got good at making weapons, a conviction essential to understanding its territorial claims.",
+      "mots_cles": [
+        "British India",
+        "imperialists",
+        "China wealth",
+        "weapons",
+        "Chinese conviction",
+        "territorial claims",
+        "colonialism",
+        "history"
+      ],
+      "texte": "to govern India 1858 to 1947. Some say rob India blind, but getting to China's wealth became a different kind of ball game. Presently, China will waste no time telling the world about its superpower prowess in those days, but the country also believes the imperialists robbed it at a time when those imperialists were getting very good at making weapons. It's important to understand this widespread conviction in China when trying to understand the country's present territorial claims."
+    },
+    {
+      "id": 153,
+      "debut": 6312.66,
+      "fin": 6365.66,
+      "temps_estime": false,
+      "titre": "British opium sales to China",
+      "resume": "The British, through the East India Company, disliked China selling tea and silk only for silver, creating a trade imbalance they solved by illegally selling opium from British India. Sales rose from 200 chests a year in 1729 to 10,000 a year in 1820-1830 and about 40,000 in 1838, helped by corrupt Chinese officials and dealers in Canton.",
+      "mots_cles": [
+        "opium trade",
+        "East India Company",
+        "trade imbalance",
+        "tea and silk",
+        "British silver",
+        "Canton",
+        "drug trafficking",
+        "40,000 chests"
+      ],
+      "texte": "[music] In a nutshell, the Europeans weren't happy about China's isolationism. They wanted to do business. The Brits through the East India Company especially didn't like China snubbing trade. The Brits hated the fact that China would only sell its very popular products such as tea and silk in exchange for British silver. This created a trade imbalance, and one way to get around that was by illegally selling opium from British India to China. As effectively the first large drug trafficking cartel in history, the Brits went from selling 200 chests of opium a year in 1729 to 10,000 chests per year between 1820 and 1830. In 1838, Britain was selling about 40,000 chests, helped along by very dodgy Chinese officials and drug dealers in the port of Canton. Meanwhile, China had an opiate crisis on its hands that makes the US opiate crisis today look like an opiate triviality. The British were"
+    },
+    {
+      "id": 154,
+      "debut": 6365.66,
+      "fin": 6407.96,
+      "temps_estime": false,
+      "titre": "Opium addiction and the First Opium War",
+      "resume": "China's opiate crisis dwarfed America's today, with a UN report saying one in four Chinese adults were nodding out on opium at the height, and the speaker compares Britain to a Big Pharma and Sinaloa cartel of the 1800s. China burned British opium, war followed, and Britain's far superior battleships and weapons, plus Chinese corruption and misinformation, gave it an easy win in the First Opium War.",
+      "mots_cles": [
+        "opium addiction",
+        "one in four adults",
+        "First Opium War",
+        "British battleships",
+        "Chinese corruption",
+        "burning opium",
+        "opiate crisis",
+        "Qing China"
+      ],
+      "texte": "acting kind of like Big Pharma/Sinaloa cartel of the 1800s. Millions of Chinese were addicted to this old school OxyContin. A UN report said at the height of the crisis, one in four Chinese adults were spending their days nodding out on opium. Not good for society at all. In short, the Chinese fought back by burning a huge amount of British opium, and after some more incidents, the two countries ended up going to war. The Europeans with their new technologies were certainly very advanced. Barbarians maybe, but barbarians that could easily outclass China in a fight. The Brits by then had far superior battleships and weapons. China was riddled with corruption. Official misinformation got back to Beijing, and so the Brits easily won what's now called the first opium war."
+    },
+    {
+      "id": 155,
+      "debut": 6407.96,
+      "fin": 6451.26,
+      "temps_estime": false,
+      "titre": "The century of humiliation and unequal treaties",
+      "resume": "For about a century Western powers, Japan, Russia and to some extent the US beat China in wars that ended with brutal unequal treaties, turning it into the sick man of Asia, carved up and plundered. China calls this the century of humiliation and political rhetoric says never again, which the speaker says is essential to understand the dispute over the nine dashes.",
+      "mots_cles": [
+        "century of humiliation",
+        "unequal treaties",
+        "sick man of Asia",
+        "Mao Zedong",
+        "never again",
+        "Western imperialism",
+        "Chinese history",
+        "nine dashes"
+      ],
+      "texte": "For the next century or thereabouts, Western European powers as well as Japan, Russia, and the US to some extent beat China up in a series of wars and conflicts that ended with brutal treaties now known as unequal treaties, and the superpower China gradually turned into what was called the sick man of Asia. It lost so much including lots of territory. China was carved up and plundered. Imperialism is ferocious, Chairman Mao Zedong said years later, even if he was a tyrant of the highest order. China now calls this the century of humiliation, and often you'll hear political rhetoric in China telling people never again. For you to appreciate the present beef over these nine dashes, you have to understand that bit of history. We only gave you a small snapshot, but it'll do for now. China"
+    },
+    {
+      "id": 156,
+      "debut": 6451.26,
+      "fin": 6483.16,
+      "temps_estime": false,
+      "titre": "China's nine-dash claim covers 90% of the South China Sea",
+      "resume": "China claims its nine-dash line, encompassing close to 90% of the 3 million square kilometers of the South China Sea, as blue national soil, with indisputable sovereignty based on its past as a regional powerhouse before losing territory to Britain, Japan and France. The sea is surrounded by Vietnam, the Philippines, Malaysia, Brunei and Taiwan, which raises the question of why China gets it.",
+      "mots_cles": [
+        "nine-dash line",
+        "90% of South China Sea",
+        "3 million square kilometers",
+        "indisputable sovereignty",
+        "Vietnam",
+        "Philippines",
+        "Malaysia",
+        "Brunei"
+      ],
+      "texte": "claims that its nine-dash line, which encompasses close to 90% of the 3 million square kilometers in the South China Sea, is its own blue national soil. The country claims indisputable sovereignty over this area based on its days as a powerhouse in the region before it started losing parts of the territory to the likes of Britain, Japan, and France. Nonetheless, you'd be within your rights to ask why China gets this territory when indeed the South China Sea is surrounded by many countries, including Vietnam, the Philippines, Malaysia, Brunei, and Taiwan. You need to know something about"
+    },
+    {
+      "id": 157,
+      "debut": 6483.16,
+      "fin": 6516.56,
+      "temps_estime": false,
+      "titre": "Taiwan's history: Qing annexation, Japan and the ROC",
+      "resume": "Taiwan, also the Republic of China, was annexed by China's Qing dynasty in 1683 and lost to Japan in 1895 under the Treaty of Shimonoseki, another unequal treaty. In 1945 allied China retook Taiwan under the ROC, which had overthrown the Qing in 1911, and as a main WWII ally was judged deserving of territory.",
+      "mots_cles": [
+        "Taiwan history",
+        "Qing dynasty 1683",
+        "Treaty of Shimonoseki",
+        "1895",
+        "Republic of China",
+        "1945",
+        "1911 revolution",
+        "unequal treaties"
+      ],
+      "texte": "the latter. Taiwan, aka the Republic of China, ROC, was annexed in 1683 by China's Qing dynasty only to lose it to the emperor of Japan in 1895 as part of the Treaty of Shimonoseki. This was another one of those so-called unequal treaties that China doesn't look so fondly upon. In 1945 the war ended and allied China retook control of Taiwan, but this time under the ROC. The ROC had overthrown the Qing dynasty in 1911. After World War II, China being one of the main allies was judged deserving of a bit of territory. There were no real"
+    },
+    {
+      "id": 158,
+      "debut": 6516.56,
+      "fin": 6549.06,
+      "temps_estime": false,
+      "titre": "The 1947 eleven-dash line and Mao's 1952 change",
+      "resume": "In 1947 Chinese cartographer Yang Huarin drew a line in the sea that did not concern the West then, since China had just lost 15 to 20 million people in World War II. It was an 11-dash line, and the two dashes disappeared when Mao abandoned China's claim to the Gulf of Tonkin in 1952, after Mao's forces defeated the ROC.",
+      "mots_cles": [
+        "Yang Huarin",
+        "11-dash line",
+        "1947 map",
+        "Gulf of Tonkin",
+        "Mao Zedong 1952",
+        "World War II deaths",
+        "cartographer",
+        "ROC"
+      ],
+      "texte": "big squabbles when in 1947 [music] a Chinese cartographer named Yang Huarin drew a line in the sand, or should we say the sea. Didn't really concern the West back then. [music] China had just lost 15 to 20 million people, second only to the Soviet Union in terms of World War II deaths. [music] This was an 11-dash line, not a 9-dash line. The reason for the two missing dashes is because of the infamous Mao Zedong who in 1952 [music] abandoned China's claim to the area known as the Gulf of Tonkin. The reason why Mao was in power then is that Mao's forces had defeated the ROC,"
+    },
+    {
+      "id": 159,
+      "debut": 6549.06,
+      "fin": 6596.36,
+      "temps_estime": false,
+      "titre": "The Great Retreat to Taiwan and two competing claims to China",
+      "resume": "Chiang Kai-shek's nationalists lost the civil war and retreated to Taiwan in their millions in the Great Retreat, giving up Project National Glory to reclaim China, while the PRC stayed, weakened by the Great Leap Forward and Cultural Revolution. The nationalists, not the communists, drew the map, and still claimed the territory inside the 11 dashes.",
+      "mots_cles": [
+        "Chiang Kai-shek",
+        "Great Retreat",
+        "Project National Glory",
+        "PRC",
+        "Great Leap Forward",
+        "Cultural Revolution",
+        "nationalists",
+        "competing claims"
+      ],
+      "texte": "which the nationalist Chiang Kai-shek headed. At the end of this brutal civil war, the nationalists, military governance, and civilians retreated to Taiwan in their millions [music] in an act known as the Great Retreat. They thought about coming back to reclaim China, but this plan named Project National Glory never [music] came to fruition. The People's Republic of China, PRC, was staying, even if it was later weakened after Mao's crazy development plans, aka Great Leap Forward and his [music] bloody oppression, aka Cultural Revolution, that together caused tens of millions of Chinese lives. So there were two competing claims to China, but we should remember that it [music] was the nationalist Chiang Huarin who drew the map. When the nationalists skipped off to Taiwan, they still claimed the territory that lied within the 11 dashes that they'd drawn. Mao had nothing to do with the map when it was created. So you"
+    },
+    {
+      "id": 160,
+      "debut": 6596.36,
+      "fin": 6623.66,
+      "temps_estime": false,
+      "titre": "Can you claim territory by drawing a map?",
+      "resume": "The speaker asks how China, nationalist or communist, could claim so much territory by drawing a map. China might answer that this is exactly what it did, as Chinese scholars note the Western imperialists did the same for centuries, and that in its heyday as regional hegemon it claimed these areas.",
+      "mots_cles": [
+        "drawing a map claim",
+        "Chinese scholars",
+        "Western imperialists",
+        "regional hegemon",
+        "historical claims",
+        "heyday",
+        "sovereignty",
+        "territorial claim"
+      ],
+      "texte": "might ask, how did China, [music] the nationalists or the communists, think they could lay claim to all that territory? Surely you can't just draw a map and well, that's that. [music] Well, China might respond, that's exactly what we did. Often Chinese scholars like to point out that it was only doing what the imperialists in the West had done for centuries. [music] And as you now know, China in its heyday was indeed the regional hegemon. It now [music] says it claimed these territories during that period of strength. China says there's plenty of evidence regarding [music] its"
+    },
+    {
+      "id": 161,
+      "debut": 6623.66,
+      "fin": 6652.96,
+      "temps_estime": false,
+      "titre": "The Spratly Islands and who occupies them",
+      "resume": "China says it moved around the South China Sea more than other claimants despite not being a seafaring nation. The Spratly Islands, a 164,000 square mile area named after 19th century British captain Richard Spratly, have military presences on about 100 reefs and atolls from the PRC, Malaysia, Taiwan, the Philippines and Vietnam.",
+      "mots_cles": [
+        "Spratly Islands",
+        "Richard Spratly",
+        "164,000 square miles",
+        "reefs and atolls",
+        "military presence",
+        "Malaysia",
+        "Taiwan",
+        "Vietnam"
+      ],
+      "texte": "historical claims. The country was never really a seafaring nation unlike Britain and France, but China said it did do a fair bit of moving around the South China Sea. [music] More so, it says than the other countries currently claiming space in the water. There are the Spratly Islands, [music] a 164,000 square mile area named after 19th century British sea captain named Richard Spratly. [music] Right now, there's a military presence on the 100 or so reefs and atolls not only from the PRC, but also Malaysia, Taiwan, [music] the Philippines, and Vietnam. Let's now"
+    },
+    {
+      "id": 162,
+      "debut": 6652.96,
+      "fin": 6697.87,
+      "temps_estime": false,
+      "titre": "China's historical evidence: Nansha Islands, dynasties and fishermen",
+      "resume": "China says it named the islands Nansha in the 2nd century BC and that they appear in records through the Tang, Song, Jin, Ming and Qing dynasties, including Hainan fishermen and fixed shipping lanes. It also cites the British Navy Sea Guide describing Hainan fishermen on every island, living on sea cucumbers and shellfish.",
+      "mots_cles": [
+        "Nansha Islands",
+        "Tang and Song dynasties",
+        "Ming and Qing dynasties",
+        "Hainan fishermen",
+        "British Navy Sea Guide",
+        "historical claim",
+        "Guang Xiao records",
+        "sea cucumbers"
+      ],
+      "texte": "take a look at China's claim. The country says long before the British named this area [music] in the 2nd century BC, it named them the Nansha Islands, which became the Changsha when the Tang and Song [music] dynasties were around in 618 to 1279. China claims it was the first country to develop some of those islands. It also says in the Guang Xiao records written by the Jin dynasty, there's talk about Chinese fishermen in this area. China maintains that the Ming and Qing dynasties in 1368 to 1911 wrote about the Hainan Island fishermen in the area, and later they wrote about fixed [music] shipping lanes there. China also likes to remind people that the British Navy Sea Guide once stated Hainan fishermen dotted on every island, live on sea cucumbers and shellfish. [music] Some of them also inhabit the islands."
+    },
+    {
+      "id": 163,
+      "debut": 6697.87,
+      "fin": 6730.47,
+      "temps_estime": false,
+      "titre": "More Chinese evidence: a French newspaper, Ming charts and Qing maps",
+      "resume": "China cites a 1933 French newspaper describing Chinese Hainan fishermen living on coral islands, the Ming-era Chang He navigational charts recording activity on the Nansha Islands, and two Qing maps dated 1716 and 1817 that include them.",
+      "mots_cles": [
+        "1933 French newspaper",
+        "Hainan fishermen",
+        "Chang He charts",
+        "Ming dynasty",
+        "Qing maps",
+        "1716 map",
+        "1817 map",
+        "Nansha Islands"
+      ],
+      "texte": "Then in 1933, a French newspaper says China reported between Annam and the Philippine Islands is a group of coral islands dotted with sand banks and submerged reefs, which voyagers see as perilous and not dare inter rationally. There's also [music] thick growth of grass and some Chinese people from Hainan live on the islands engaging in fishing. On top of that, China says that the Chang He navigational charts written by the Ming dynasty record activity on the Nansha Islands. It says there are two Qing dynasty maps, one dated 1716 and another 1817 [music] which both"
+    },
+    {
+      "id": 164,
+      "debut": 6730.47,
+      "fin": 6756.37,
+      "temps_estime": false,
+      "titre": "Chinese claims about Germany and France in the 1880s and 1930s",
+      "resume": "A Chinese website edited by a vice minister of the Communist Party's Central Propaganda Department says Germany stopped its invasion activities on the Nansha Islands in 1883 after Qing protests. It says French occupation in 1933 met resistance from Chinese fishermen, after which China firmed its claim and France retreated.",
+      "mots_cles": [
+        "Wang Xiaohua",
+        "Central Propaganda Department",
+        "1883 Germany",
+        "1933 French occupation",
+        "Qing government",
+        "Chinese fishermen",
+        "claim",
+        "Nansha Islands"
+      ],
+      "texte": "include these islands. A Chinese website edited by Wang Xiao Hua, vice minister of the Central Propaganda Department of the Chinese Communist Party wrote in 1883, Germany stopped its invasion activities on the Nansha Islands in the face of protests from the Qing government. In 1933, French occupation of the Nansha Islands met with resistance from Chinese fishermen, after which the Chinese government made firm its claim to the territory, which resulted in France's eventual retreat."
+    },
+    {
+      "id": 165,
+      "debut": 6756.37,
+      "fin": 6788.77,
+      "temps_estime": false,
+      "titre": "1946 to 1958: Cairo Declaration, Zhou Enlai and the 1958 declaration",
+      "resume": "China says that in 1946, under the Cairo Declaration and Potsdam proclamation, it regained sovereignty over the South China Sea islands and re-erected a monument. It also cites Zhou Enlai in 1951 saying the area within the nine-dash line was China's, and the PRC's 1958 Declaration on the Territorial Sea.",
+      "mots_cles": [
+        "Cairo Declaration",
+        "Potsdam proclamation",
+        "1946 sovereignty",
+        "Zhou Enlai",
+        "San Francisco conference",
+        "1958 Declaration",
+        "Territorial Sea",
+        "PRC"
+      ],
+      "texte": "China says in 1946, the Chinese government, according to the Cairo Declaration and Potsdam proclamation, regained its sovereignty over the South China Sea islands and reefs and re-erected a monument of sovereignty on the main island. China also claims that in 1951, at the time of the Japanese peace treaty draft and San Francisco conference statement, Chinese former president Zhou Enlai was quoted saying the area within the nine-dash line was China's territory. In 1958, in the Declaration on the Territorial Sea, the PRC again laid claim to these islands."
+    },
+    {
+      "id": 166,
+      "debut": 6788.77,
+      "fin": 6828.77,
+      "temps_estime": false,
+      "titre": "Rebuttal: fishermen and maps don't equal sovereignty",
+      "resume": "Critics say texts about fishermen traveling through an area aren't sovereignty, noting caves on a Spratly Island show humans there 50,000 years ago. Drawing maps with islands doesn't mean owning them, and Vietnam was also in the area claiming to have discovered the same territories.",
+      "mots_cles": [
+        "sovereignty rebuttal",
+        "fishermen texts",
+        "50,000 years ago caves",
+        "maps and ownership",
+        "Vietnam claim",
+        "Spratly Islands",
+        "discovery claims",
+        "legal right"
+      ],
+      "texte": "We have a few things to unpack here in defense of those that say China still doesn't get to claim the territory. Many nations have texts that say their fishermen traveled through a certain area. That's not the same as having sovereignty there. There are even caves on one of the Spratly Islands that show us humans were there around 50,000 years ago. It doesn't mean they had sovereignty. And for sure, as China was easily the most advanced nation in the area, it drew up maps with the islands and talked about them, but that still doesn't mean China had sovereignty over them. Just because you draw a map and include some islands doesn't mean you own them. In fact, as China was exploring these islands, Vietnam was also in the area, claiming to have discovered these new territories. Both nations were doing the same thing."
+    },
+    {
+      "id": 167,
+      "debut": 6828.77,
+      "fin": 6873.47,
+      "temps_estime": false,
+      "titre": "China's land boundaries were never clearly defined",
+      "resume": "In 1758 the William Herbert map called the area dangerous ground, and in the 1880s China told German ships to leave and laid flags on some islands in 1902 and 1907, but that doesn't establish a legal right. Critics argue ancient China never had clearly defined boundaries and is now pretending it did, which is not how China worked in the past.",
+      "mots_cles": [
+        "1758 map",
+        "dangerous ground",
+        "German ships 1880s",
+        "1902 and 1907 flags",
+        "legal right",
+        "undefined boundaries",
+        "ancient China",
+        "Western critics"
+      ],
+      "texte": "Europeans were in the area, too. Although when a 1758 map by a man named William Herbert referred to the Spratly Islands, it just called the area dangerous ground and it didn't mention much else. It's true that in the 1880s, when the Germans started sailing around the Spratly and Paracel Islands, the Chinese told their ships to leave ASAP. And it's true that China laid flags down on some of the islands in 1902 and 1907, but this still doesn't tell us China has the legal right to the territory. In fact, China's history shows us that the country's land boundaries were never clearly defined. The argument against China is that China, the ancient civilization of China, didn't have any clear defined but now it's pretending it did. That's not how China worked in the past, so why is it trying to work this way now, say"
+    },
+    {
+      "id": 168,
+      "debut": 6873.47,
+      "fin": 6895.37,
+      "temps_estime": false,
+      "titre": "Suzerainty was China's modus operandi, not conquest",
+      "resume": "Western critics say Chinese history shows suzerainty, control over a territory that keeps some autonomy and self-government, was always China's approach rather than conquest with new boundaries. For example China had suzerainty in Vietnam but never strictly ruled it.",
+      "mots_cles": [
+        "suzerainty",
+        "modus operandi",
+        "autonomy",
+        "Vietnam",
+        "conquest",
+        "Chinese history",
+        "tributary states",
+        "boundaries"
+      ],
+      "texte": "the western critics? Chinese history shows us that suzerainty was always China's modus operandi, not conquest with added new boundaries. Suzerainty, by the way, means just having control over a country or territory, even if that country has some amount of autonomy and is allowed to self-govern. For instance, [music] China did have suzerainty in Vietnam, but it never strictly ruled it. Another, for"
+    },
+    {
+      "id": 169,
+      "debut": 6895.37,
+      "fin": 6940.27,
+      "temps_estime": false,
+      "titre": "Captain Cook and Australia: colonization versus suzerainty",
+      "resume": "As a contrast, in 1770 Lieutenant James Cook claimed part of Australia for the British crown as New South Wales without real consent from the natives, and Britain colonized it rather than claiming suzerainty. Even if Mao was right that imperialism was ferocious, that doesn't mean China can claim any territory where a handful of fishermen once hung out.",
+      "mots_cles": [
+        "James Cook",
+        "New South Wales",
+        "Australia colonization",
+        "Britain",
+        "indigenous people",
+        "imperialism",
+        "Mao Zedong",
+        "fishermen claim"
+      ],
+      "texte": "instance, in 1770, Lieutenant James Cook, the captain of HMB Endeavour, claimed part of the Australian continent for the British crown. He called it New South Wales. He told the indigenous folks their land now belonged to the British. The king of England had told Cook to take the land with the consent of the natives, but let's [music] face it, the natives didn't really have a say in the matter. The Brits colonized Australia. Australia was not a tributary state. Right or wrong, those imperialistic Brits did not claim suzerainty. They took Australia and later dumped many of their criminals there. They also massacred aboriginal people whenever there was resistance to the colonization of their country. Maybe Mao was right and the imperialists were ferocious, [music] but that still doesn't mean China gets to claim any territory where once a handful of fishermen hung out in the"
+    },
+    {
+      "id": 170,
+      "debut": 6940.27,
+      "fin": 6998.87,
+      "temps_estime": false,
+      "titre": "Westphalian sovereignty did not exist in China's past",
+      "resume": "Western academics say China had no concept of claiming sovereignty over an area, which Europeans invented with the 1648 Treaty of Westphalia after 8 million died in the Thirty Years' War. Asia adopted the law only in the 20th century, so historical claims based on who was there once don't confer sovereignty, and The Diplomat noted that logic would give Malays a better claim on Taiwan or Mongolia a claim to Asia.",
+      "mots_cles": [
+        "Treaty of Westphalia",
+        "Thirty Years' War",
+        "Westphalian system",
+        "international law",
+        "sovereignty",
+        "The Diplomat",
+        "Malay Polynesian Taiwan",
+        "Mongolia"
+      ],
+      "texte": "water. Western academics say in China there was no such thing as claiming sovereignty over an area. They say the Europeans invented that kind of thing after 8 million people died during the 30 Years' War in the 17th century. [music] These nations introduced the Treaty of Westphalia in 1648, which included the Westphalian system, a system that said there should be international laws and rules and states that have exclusive rights in their territories. Asia did not adopt the law, not until the 20th century anyway. It's the international law now, but it wasn't when China claims to have done its island hopping. So China, they say, never had sovereignty over the South China Sea islands. Making historical claims based on who was there at one point in history doesn't give you sovereignty in the future. The Diplomat magazine argued that if this was the case, since Taiwan was originally settled by the people of Malay Polynesian, then the Malay people have more of a righteous claim on Taiwan than the PRC. It doesn't make sense to think this way. It would mean Mongolia could make claim to just about all of Asia."
+    },
+    {
+      "id": 171,
+      "debut": 6998.87,
+      "fin": 7027.07,
+      "temps_estime": false,
+      "titre": "The 2009 UN map, passports and the Philippines' visa protest",
+      "resume": "Until recently Chinese maps didn't focus on the South China Sea, but in 2009, during a dispute with Vietnam, China took a map with nine dashes to the UN. The dashes became a source of national pride, even printed on Chinese passports, and in 2012 the Philippines refused to stamp visa pages in them.",
+      "mots_cles": [
+        "2009 UN map",
+        "nine dashes",
+        "Chinese passports",
+        "national pride",
+        "Philippines visa stamps",
+        "2012",
+        "Vietnam dispute",
+        "new claim"
+      ],
+      "texte": "Until recently, Chinese maps didn't even focus on the South China Sea. Then in 2009, China had a dispute with Vietnam and suddenly it took to the UN a map with nine dashes on it. These days, the nine dashes are a source of national pride. You can even find them in Chinese passports. China suddenly wants what it never initially claimed. In 2012, when these new Chinese passports came out, the government in the Philippines wouldn't even stamp visa pages and said the stamps must go on a separate sheet of paper. At the time, the Philippines"
+    },
+    {
+      "id": 172,
+      "debut": 7027.07,
+      "fin": 7058.27,
+      "temps_estime": false,
+      "titre": "Scarborough Shoal and the Great Wall of Sand",
+      "resume": "The Philippines was fighting China over Scarborough Shoal, where China wants air and naval bases. For about a decade China has dredged and concreted reefs and shoals into fortified military bases, its Great Wall of Sand with runways, barracks, anti-aircraft and missile defenses, which alarms the Pentagon more than fishing rights or oil.",
+      "mots_cles": [
+        "Scarborough Shoal",
+        "Great Wall of Sand",
+        "fortified bases",
+        "runways and barracks",
+        "missile defense",
+        "Pentagon",
+        "Philippines",
+        "dredging reefs"
+      ],
+      "texte": "was fighting with China over the Scarborough Shoal, an area where China wants air and naval bases. China's been very busy for about a decade turning reefs and shoals into fortified military bases, setting off alarm bells in the Pentagon. In China's so-called Great Wall of Sand, what were small reefs have been dredged and [music] concreted over, after which runways and barracks and anti-aircraft weapons and missile defense systems have [music] popped up. This concerns the US more than fishing rights or oil, but the US can also put pressure on countries to go against [music] China. Then again, China can do"
+    },
+    {
+      "id": 173,
+      "debut": 7058.27,
+      "fin": 7081.57,
+      "temps_estime": false,
+      "titre": "ASEAN and the risk of a regional feud turning into world war",
+      "resume": "China holds substantial power in ASEAN, and recently China and ASEAN agreed to try to conclude a non-aggression pact on the sea feuds within three years. Such feuds could escalate into a world war, in which these islands and reefs could prove to be a good strategic base.",
+      "mots_cles": [
+        "ASEAN",
+        "non-aggression pact",
+        "sea feuds",
+        "escalation",
+        "world war",
+        "strategic base",
+        "China ASEAN agreement",
+        "Southeast Asia"
+      ],
+      "texte": "the same as it has substantial power in ASEAN, the Association of Southeast Asian Nations. Just recently, China and ASEAN agreed to attempt to conclude [music] their non-aggression pact on the sea feuds for at least three years. As all you historians out there know, such [music] feuds could escalate and lead to a potential world war. Let's remember here that in a world war, these islands and reefs could [music] prove to be a good strategic base. It's also worth"
+    },
+    {
+      "id": 174,
+      "debut": 7081.57,
+      "fin": 7113.37,
+      "temps_estime": false,
+      "titre": "A third of maritime trade and US freedom of navigation operations",
+      "resume": "About a third of all maritime trade, around $4.4 trillion a year, passes through the South China Sea, which is why the USA sails ships through under freedom of navigation operations, or FONOPs. Critics in the US say this risks escalation, but the US has done nine FONOPs since 2015 and infuriated China by signaling it has no right to the territories.",
+      "mots_cles": [
+        "South China Sea trade",
+        "$4.4 trillion",
+        "FONOPs",
+        "freedom of navigation",
+        "US Navy",
+        "escalation risk",
+        "since 2015",
+        "maritime trade"
+      ],
+      "texte": "noting that about a third of all maritime trade goes through the South China Sea, equal to around 4.4 trillion of trade annually. That's another reason why the USA has been sailing ships through the South [music] China Sea under freedom of navigation operations or FONOPs. Critics inside the US have said this risks escalation, but it seems the US is not going to stop. The US has undertaken nine FONOPs since 2015, which has infuriated China. By undertaking these cheeky journeys, the US is basically saying China has no right to these territories. [music] So again,"
+    },
+    {
+      "id": 175,
+      "debut": 7113.37,
+      "fin": 7138.37,
+      "temps_estime": false,
+      "titre": "The nine dashes implanted in Chinese minds",
+      "resume": "The islands meant less to China not long ago, but now the nine dashes are firmly in most Chinese people's minds and they are told there will not be another period of humiliation. Despite shaky historical evidence people are made to think it is solid, and they are concerned about protecting a standard of living that has improved a lot in 20 years.",
+      "mots_cles": [
+        "nine dashes",
+        "never again",
+        "period of humiliation",
+        "shaky evidence",
+        "Chinese public opinion",
+        "propaganda",
+        "living standards",
+        "Chinese nationalism"
+      ],
+      "texte": "these islands meant less to China not too long ago, but now the nine dashes are firmly implanted in most Chinese people's minds. They're told time and again that there will not be another period of humiliation, never again. Despite the shaky historical evidence that everything within the line is China's, the people are made to think the evidence is solid. They are also rightly concerned about their existence, which has improved a hell of a lot over the last 20 years. When Chinese"
+    },
+    {
+      "id": 176,
+      "debut": 7138.37,
+      "fin": 7160.47,
+      "temps_estime": false,
+      "titre": "Xi's 2023 speech on the semi-colonial past",
+      "resume": "In March 2023 Xi Jinping told the 14th National People's Congress about when China was turned into a semi-colonial society and bullying foreigners plunged it into an abyss of great suffering. The speaker says China did get done over, but compelling rhetoric still doesn't give China a right to the territory.",
+      "mots_cles": [
+        "Xi Jinping",
+        "March 2023",
+        "National People's Congress",
+        "semi-colonial society",
+        "bullying foreigners",
+        "century of humiliation",
+        "rhetoric",
+        "territorial right"
+      ],
+      "texte": "President Xi Jinping spoke in March 2023 to the 14th National People's Congress, he talked about when China was turned into a semi-colonial society, when bullying foreigners plunged [music] China into an abyss of great suffering and tore the country apart. The people listened intently. He had a point. China did get done over, but Xi's compelling rhetoric still doesn't mean China has a right to the territory. Nonetheless,"
+    },
+    {
+      "id": 177,
+      "debut": 7160.47,
+      "fin": 7181.77,
+      "temps_estime": false,
+      "titre": "China's rise, Belt and Road and NATO's Asia-Pacific partnerships",
+      "resume": "China has pulled almost a billion people out of poverty and done well under its Belt and Road initiative, spreading influence worldwide. The US will try everything to stop that influence, a big reason NATO has been forming new partnerships with Japan, Australia, New Zealand and South Korea.",
+      "mots_cles": [
+        "poverty reduction",
+        "Belt and Road",
+        "Chinese influence",
+        "NATO partnerships",
+        "Asia-Pacific",
+        "Japan",
+        "Australia",
+        "South Korea"
+      ],
+      "texte": "China has done a phenomenal job pulling almost a billion people out of poverty since its economic boom. It's done well under its Belt and Road initiative, spreading its influence all over the world. The US will try everything in its power to stop that influence from expanding. It's a big reason why NATO has been forming new partnerships with the Asia-Pacific nations, Japan, Australia, New Zealand, and South Korea."
+    },
+    {
+      "id": 178,
+      "debut": 7181.77,
+      "fin": 7212.77,
+      "temps_estime": false,
+      "titre": "Vietnam bans Barbie, Uncharted and Abominable over the nine-dash line",
+      "resume": "The speaker jokes Vietnam's Barbie ban might be remembered like Franz Ferdinand's assassination if a third world war comes. Vietnam also banned Uncharted, and Vietnam, Malaysia and the Philippines banned the animated Abominable, in which the nine-dash line barely appears in one scene, possibly with some push from the US.",
+      "mots_cles": [
+        "Barbie ban",
+        "Uncharted",
+        "Abominable",
+        "nine-dash line",
+        "Vietnam Malaysia Philippines",
+        "film bans",
+        "third world war",
+        "Hollywood"
+      ],
+      "texte": "Meanwhile, Vietnam banned Barbie, which if there is a third world war might go down as something similar to Hitler invading Poland or Archduke Franz Ferdinand's assassination. Just kidding, we hope. Vietnam actually banned the movie Uncharted too for the same reason. Vietnam, Malaysia, and the Philippines all banned the innocent animated movie Abominable. The nine-dash line barely appeared in the background in just one scene, but that was enough. They might not have the same existential fears of the US. They might have more financial concerns, although they might also be getting a push from the US. As we said,"
+    },
+    {
+      "id": 179,
+      "debut": 7212.77,
+      "fin": 7246.17,
+      "temps_estime": false,
+      "titre": "2009: Malaysia and Vietnam submit claims and China answers with the nine-dash map",
+      "resume": "The nine-dash line disagreements effectively began in 2009, when Malaysia and Vietnam submitted territorial claims in the South China Sea. China responded at the UN claiming indisputable sovereignty over the islands and adjacent waters, seabed and subsoil, attaching a copy of the nine-dash line it said was widely known.",
+      "mots_cles": [
+        "2009 UN submission",
+        "Malaysia",
+        "Vietnam",
+        "indisputable sovereignty",
+        "seabed and subsoil",
+        "nine-dash line",
+        "diplomatic response",
+        "United Nations"
+      ],
+      "texte": "these nine-dash line disagreements effectively kicked off in 2009. That was when Malaysia and Vietnam submitted territorial claims in the South China [music] Sea. China made a formal diplomatic response to the UN stating China has indisputable sovereignty over the islands in the South China Sea and the adjacent waters and enjoys indisputable sovereign rights and jurisdiction the relevant waters as well as the seabed and subsoil thereof. This contained a copy of the nine-dash line to protest Malaysian Vietnam submission. China claimed the line was widely known by the international community. Then in"
+    },
+    {
+      "id": 180,
+      "debut": 7246.17,
+      "fin": 7287.57,
+      "temps_estime": false,
+      "titre": "The 2016 tribunal ruling and the US stance on UNCLOS",
+      "resume": "In 2016 the UN Law of the Sea Convention Tribunal ruled China's claim has no basis in international law, but China rejected the ruling. The US disagrees with China's claims and conducts FONOPs but cannot strong-arm the issue, hasn't ratified the Law of the Sea Convention and didn't support the Philippines in 2016.",
+      "mots_cles": [
+        "2016 tribunal ruling",
+        "Law of the Sea Convention",
+        "UNCLOS",
+        "China rejects ruling",
+        "Philippines",
+        "US FONOPs",
+        "international law",
+        "US not ratified"
+      ],
+      "texte": "2016 the United Nations Law of the Sea Convention Tribunal ruled that China's claim isn't based on any kind of international law. Even so, China rejected this ruling and it continues to do what it wants in the region. The US has said it does not agree with China's claims, which is evident with those phone ops it's been doing, but the US can't really do much about China's bullying tactics. It can't strong-arm the issue. The US hasn't even put its name on the United Nations Convention on the Law of the Sea, which is there to deal with such disputes. The country says part of the convention is unfavorable to its own economic and security interests, but that doesn't help matters where China's island grabs are concerned. It should also be noted that the US did not support the Philippines in 2016. As we said, these"
+    },
+    {
+      "id": 181,
+      "debut": 7287.57,
+      "fin": 7320.97,
+      "temps_estime": false,
+      "titre": "Fish, oil and gas: why every neighbor claims the South China Sea",
+      "resume": "Countries in the region have argued over resources for years: the area is a fishing gold mine with an estimated 11 billion barrels of untapped oil and about 190 trillion cubic feet of natural gas. Brunei, Indonesia, Malaysia, the Philippines, Taiwan and Vietnam all claim parts, and interest was reignited when hydrocarbons became known in the late 1960s.",
+      "mots_cles": [
+        "South China Sea resources",
+        "11 billion barrels oil",
+        "190 trillion cubic feet gas",
+        "fishing",
+        "Brunei Indonesia Malaysia",
+        "hydrocarbons 1960s",
+        "claimants",
+        "energy"
+      ],
+      "texte": "disputes are not only about China's expanding military installations. Countries in the region have been arguing about natural resources for years. The area is a fishing gold mine, while there's an estimated 11 billion barrels of untapped oil down there, not to mention about 190 trillion cubic feet of natural gas. No wonder then that Brunei, Indonesia, Malaysia, the Philippines, Taiwan, and Vietnam all stake claims in the South China Sea. It only became known in the later 1960s [music] that hydrocarbon resources were there, and this is what reignited the interest in the region. [music] In May"
+    },
+    {
+      "id": 182,
+      "debut": 7320.97,
+      "fin": 7373.07,
+      "temps_estime": false,
+      "titre": "A history of clashes: 1970s oil, 1988 Vietnamese ships and the 2002 declaration",
+      "resume": "In May 1970 Japan, South Korea and Taiwan held energy exploration talks and China began making new claims, and in 1972 the Philippines struck oil off Palawan. The 1982 UN convention didn't settle sovereignty, in 1988 China sank three Vietnamese ships killing 70 sailors, the Mischief Reef incident followed and in 2002 China and ASEAN signed a declaration on conduct, plus a Japan energy agreement.",
+      "mots_cles": [
+        "1970 energy talks",
+        "Palawan oil 1972",
+        "1982 UN convention",
+        "1988 Vietnamese ships",
+        "Mischief Reef",
+        "ASEAN China Declaration 2002",
+        "Japan agreement",
+        "sovereignty disputes"
+      ],
+      "texte": "1970, Japan, South Korea, and Taiwan held talks regarding joint energy exploration in the East China Sea, and that's when China started making new claims. In 1972, the Philippines struck oil off the coast of Palawan Island. There was lots of bickering to follow, and even though in 1982 a resolution was reached under the United Nations Conference on the Law of the Sea, it didn't really address sovereignty issues concerning the South and East China Seas. Then [music] in 1988, China sank three Vietnamese ships and killed 70 sailors in another beef about territory in the region. China fought with the Philippines in in what was called the Mischief Reef incident. Later in 2002, China and 10 ASEAN nations signed the ASEAN China Declaration on the Conduct of Parties in the South China Sea to prevent such conflicts from happening again. Further on, China signed an agreement with Japan, again related to energy. And in"
+    },
+    {
+      "id": 183,
+      "debut": 7373.07,
+      "fin": 7431.77,
+      "temps_estime": false,
+      "titre": "From 2010 to 2020: the US stops being neutral and tensions escalate",
+      "resume": "In 2010, with China at the peak of its economic power, the US stopped being neutral: Hillary Clinton spoke of open access to Asia's maritime commons, China began its Great Wall of Sand and the US ran its first FONOPs in 2015. China called them a serious provocation, a Chinese H6 bomber landed on Woody Island in 2018 and in 2020 Vietnam condemned China's administrative structures in the Paracels and Spratlys, as each side sees the other as a threat, especially with NATO's new footprints in Asia.",
+      "mots_cles": [
+        "Hillary Clinton",
+        "open access maritime commons",
+        "first FONOP 2015",
+        "H6 bomber Woody Island",
+        "Paracel Islands",
+        "Vietnam condemns China",
+        "US China threat perception",
+        "NATO Asia"
+      ],
+      "texte": "2010, when China was looking like it was at the peak of its growing economic powers, the US stopped being neutral regarding the South China Sea. That's when Hillary Clinton said in a speech that the US had an interest in what she called open access to Asia's maritime commons. Soon after, China started building its Great Wall of Sand. And in 2015, the US [music] did its first phone ops, which China's ambassador to the US said was a serious provocation. A regional dispute was now a much bigger dispute and became much more of a concern to the US in 2018 when a Chinese H6 bomber landed and took off from Woody Island in the Paracel Islands. In 2020, Vietnam condemned China when it opened up administrative structures on the islands in the Paracels and the Spratlys. Again, China just keeps doing what [music] it's doing and throwing its nine dash line in front of naysayers' faces. The US sees China as a threat. China sees the US as a threat, especially with its new NATO footprints in Asia. Unless there are some serious detente diplomacy, it's hard to see how this all won't end very badly. People in"
+    },
+    {
+      "id": 184,
+      "debut": 7431.77,
+      "fin": 7490.17,
+      "temps_estime": false,
+      "titre": "Eurasia Group poll: Asians fear being stuck between the US and China",
+      "resume": "A Eurasia Group Foundation poll in Singapore, South Korea and the Philippines found 90% worried about a US-China confrontation, 24% very worried, 62% saying national security would be at risk and 81% in the Philippines. About 70% viewed the US favorably versus 34% for China, and the speaker says none want to be caught in a war, which will happen if balance-of-power politics persists.",
+      "mots_cles": [
+        "Eurasia Group Foundation",
+        "poll",
+        "Singapore South Korea Philippines",
+        "90% worried",
+        "US favorability 70%",
+        "China favorability 34%",
+        "balance of power",
+        "US China confrontation"
+      ],
+      "texte": "Asia understand this very well. A recent poll was undertaken by the Eurasia Group Foundation, which conducted a survey in three Asian nations, Singapore, South Korea, and the Philippines. All these nations had significant ties with both China and the US. Red, they'll have to take a side. 90% of respondents said they're worried about a US China confrontation. 66% [music] were somewhat worried. 24% were very worried. 62% of all the nations said their national security will be put at risk, but 81% in the Philippines said that. [music] Interestingly, around a third of the respondents said they have a positive view of both Chinese and American culture in their country. Although some more people said they had a favorable view of the US at 70% than they do of China at 34%. South Korea had the most people that said they have a very unfavorable view of China at 38 percent, while Singaporeans only 10 percent of them, mind you, took a very dim view of the US. It's doubtful any of them want to be stuck in the middle of a war, but if the world can't evolve out of balance of power politics, that's what's going to"
     }
   ]
 }
