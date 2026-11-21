@@ -4,12 +4,12 @@
  "titre_video": "When the AI Bubble Bursts: A Financial Collapse Has Already Begun",
  "duree_s": 11492.24,
  "avancement": {
-  "lignes_traitees": 1701,
-  "fin_traitee_s": 3559.68,
+  "lignes_traitees": 2547,
+  "fin_traitee_s": 5366.88,
   "nb_lignes_total": 5363,
   "complet": false
  },
- "nb_segments": 62,
+ "nb_segments": 99,
  "segments": [
   {
    "id": 1,
@@ -1188,6 +1188,709 @@
     "maintenance costs"
    ],
    "texte": "The early promise of AI software development was so impressive that you can't really blame the big tech companies for embracing it at scale. By most estimates, AI allows code to be turned out anywhere from four [music] to 10 times the rate of nonAI coding. In theory, faster output should translate into more products delivered more rapidly. And that means more profits and higher share prices. [music] But faster code doesn't equate to better code. That's precisely where the problem with AI coding efficiency lies. You just need to look at the code churn rates. That's the frequency that code is written, modified, or tossed into the trash. According to Getclear's analysis of 211 million lines of code, the churn rate has more than doubled since the adoption of AI coding began. In 2021, it was roughly 3.3%. [music] In other words, for every 1,000 lines of code written originally, 33 would need to be rewritten or binned somewhere down the line. The more time developers spend fixing broken code, the less time they have to ship new products. Ideally, the turn rate is as close to zero as possible. AI was supposed to be the ultimate cheat code. It would increase output without a spike in costly down the line maintenance. But the opposite has happened. By 2025, code churn had increased to 6.87%."
+  },
+  {
+   "id": 63,
+   "debut": 3559.68,
+   "fin": 3601.84,
+   "temps_estime": true,
+   "titre": "45% of AI-generated code introduces security risks",
+   "resume": "More code written or revised raises maintenance and review costs and brings vulnerabilities. Veracode's analysis of 100 to 150 LLMs finds 45% of AI code generation tasks introduce at least one known security risk. Java is worst with a failure rate above 70% and Python has a vulnerability rate around 38%.",
+   "mots_cles": [
+    "Veracode",
+    "45% security risk",
+    "AI code vulnerabilities",
+    "Java 70% failure",
+    "Python 38%",
+    "LLM code generation",
+    "maintenance cost",
+    "security tests"
+   ],
+   "texte": "More code is being written or revised, potentially increasing maintenance and review costs, and that brings vulnerabilities. Veraricodes's analysis of between 100 and 150 large language models or LLMs consistently finds that 45% of AI code generation tasks introduce at least one known security risk. In other words, just over half of AI generated code passes even basic security tests. Depending on the programming language and the testing method, that number varies. Java is the weakest performer with a failure rate exceeding 70%. Python performs slightly better but still has a vulnerability rate of around 38%. That might be acceptable if the result is a market ready product being shipped quicker."
+  },
+  {
+   "id": 64,
+   "debut": 3601.84,
+   "fin": 3639.07,
+   "temps_estime": true,
+   "titre": "DX study: AI tools up 65%, pull requests up only 7.76%",
+   "resume": "A 2026 DX study of over 400 companies found that between November 2024 and February 2026 they raised AI tool use by 65% expecting more shipped software. Median pull-request throughput per developer rose just 7.76%, so faster code generation has not translated into shipped value.",
+   "mots_cles": [
+    "DX study",
+    "400 companies",
+    "65% AI tool increase",
+    "pull request throughput",
+    "7.76%",
+    "shipped software",
+    "developer productivity",
+    "AI return"
+   ],
+   "texte": "But again, the opposite is happening. A 2026 study by research firm DX analyzed over 400 companies. Between November 2024 and February 2026, they increased their use of AI tools by 65% expecting a notable increase in shipped software. The results said otherwise. The median PR throughput, the number of pull requests completed by each developer, rose by just 7.76%. The more pull requests there are, the greater the output. The return from AI was pretty pathetic. AI might let individual developers generate code faster, but it's not translated into shipped value. Not even close."
+  },
+  {
+   "id": 65,
+   "debut": 3639.07,
+   "fin": 3697.88,
+   "temps_estime": true,
+   "titre": "AI-assisted software costs more: TCO up 30-40%",
+   "resume": "The total cost of ownership of AI-assisted software is projected to be 30 to 40% higher by 2027 than traditional development, and GitClear data says maintenance costs could reach four times traditional levels by year two. Bugs are costlier to fix once in the codebase or production, adding security incidents, compliance fines and legal issues.",
+   "mots_cles": [
+    "total cost of ownership",
+    "TCO 30 to 40%",
+    "GitClear",
+    "maintenance four times",
+    "cost multiplier",
+    "bugs in production",
+    "compliance fines",
+    "AI-assisted software"
+   ],
+   "texte": "The total cost of ownership of AI assisted software is significantly higher than what it was supposed to be. A technology touted as a cost cutter has turned out to be a cost multiplier. A 2026 industry analysis found that the total cost of ownership or TCO for AI assisted software will be 30 to 40% higher by 2027 compared to traditional development. Fixing twice as many bugs is timeconuming and expensive. Git Clear's data indicates that by year two of using AI to code, if unmanaged, it'll drive maintenance costs up to four times that of traditional levels. That is a huge amount of extra work for the human developers who need to fix the mess. The costs don't outweigh the benefits. It's much harder and it takes longer to fix code once it's been uploaded into the full codebase. If a bug slips into actual production, the problems become even worse. In addition to the extra engineering costs, there's also the possibility of security incidents, compliance fines, and legal issues."
+  },
+  {
+   "id": 66,
+   "debut": 3697.88,
+   "fin": 3742.24,
+   "temps_estime": true,
+   "titre": "The bottleneck moves to code review; AI creates work for developers",
+   "resume": "Before AI the bottleneck was code generation; now buggy code clogs review queues, reviewers spend more time per pull request, and savings are burned by review, security and rewrites. AI has not replaced developers but created new demand for them to clean up its mess.",
+   "mots_cles": [
+    "review queues",
+    "code review bottleneck",
+    "pull requests",
+    "buggy code",
+    "rewriting code",
+    "AI mess",
+    "developer demand",
+    "savings burned"
+   ],
+   "texte": "In the preAI era, the main bottleneck in delivering shippable code usually took place at the code generation phase. AI writing code was supposed to fix that. [music] Instead, it just moved the bottleneck further down the line. Because there's so much more buggy code being generated, review cues are clogged. Reviewers are forced to spend more time per poll request to ensure the code actually does what it's supposed to do. And while the generated code is sitting in review cues, companies are bleeding money. Whatever savings were made from faster code generation are burned by the massive growing overhead of reviewing, securing, and constantly rewriting that very code. In the end, somewhat ironically, AI hasn't replaced developers. It has created new demand for them to clean up its mess."
+  },
+  {
+   "id": 67,
+   "debut": 3742.24,
+   "fin": 3793.7,
+   "temps_estime": true,
+   "titre": "Junior developers cut: $80,000 salary versus $100 AI subscription",
+   "resume": "From 2022 to 2025 the tech industry laid off tens of thousands of developers, hitting juniors who did grunt work hardest. Companies chose a 100 dollar monthly Claude Max subscription over an 80,000 dollar salary; entry-level tech postings fell 25 to 35% in 2023-24, big tech cut new grad hiring about 50%, and postings were down about 29% in 2025-26.",
+   "mots_cles": [
+    "junior developers",
+    "entry-level postings",
+    "Claude Max subscription",
+    "80,000 salary",
+    "new grad hiring cut 50%",
+    "SignalFire",
+    "ZipRecruiter",
+    "learn to code"
+   ],
+   "texte": "From 2022 to 2025, the tech industry laid off tens of thousands of developers, and that might have broken the entire software development process permanently. The developer layoffs haven't happened uniformly across all tiers of developers. It's the junior developers, the ones who did the grunt work that have been called. Companies were left with a dilemma. Pay an additional $80,000 annual salary or a $100 per month subscription to Claude Max. The companies chose AI over juniors. Data from Signal Fire and Zip Recruiter shows that entry-level tech postings fell by roughly 25 to 35% between 2023 and 2024. Big tech cut new grad hiring around 50% compared to prepandemic levels. The trend continued into 2025 and 26 with entry-level job postings down by around 29%. So much for learn to code, but that's only half of the story."
+  },
+  {
+   "id": 68,
+   "debut": 3793.7,
+   "fin": 3833.04,
+   "temps_estime": true,
+   "titre": "A senior boom masking a junior bust",
+   "resume": "While junior teams were hollowed out, demand for senior engineers exploded: applications for roles needing 10+ years rose 27% in 2024 and 5-10 years rose 40%, and senior postings reached over 41% of IT job listings by early 2026. This is described as a phantom recovery, a senior boom masking a junior bust.",
+   "mots_cles": [
+    "senior engineers demand",
+    "phantom recovery",
+    "senior job postings 41%",
+    "junior bust",
+    "10 years experience 27%",
+    "IT job mix",
+    "hiring recovery",
+    "talent bleed"
+   ],
+   "texte": "At the same time as the tech companies have been hollowing out their junior development teams, demand for senior engineers has exploded. In 2024, applications for roles requiring 10 or more years of experience rose by 27% and roles requiring 5 to 10 years of experience rose by 40%. By early 2026, senior job postings were taking up over 41% of the total IT mix, vastly outperforming the overall market. But this sudden job boom is misleading. The rise in tech postings might suggest a hiring recovery or at least that the talent bleed has stopped. But in reality, this is a phantom recovery. There is a senior boom masking a junior"
+  },
+  {
+   "id": 69,
+   "debut": 3833.04,
+   "fin": 3877.76,
+   "temps_estime": false,
+   "titre": "From pyramid to diamond: the new shape of dev teams",
+   "resume": "Software teams used to be a pyramid with many juniors at the bottom; now they look like a diamond with few juniors and many mid-level and senior developers. Entry-level job offers often require 2 to 5 years of experience, and the real entry-level market is about 35% smaller than in 2022.",
+   "mots_cles": [
+    "pyramid structure",
+    "diamond structure",
+    "entry level redefined",
+    "2 to 5 years experience",
+    "35% smaller market",
+    "mid-level developers",
+    "software team structure",
+    "junior hiring"
+   ],
+   "texte": "bust. The entire structure of the software development industry has been flipped upside down. Before AI, most teams were structured like a pyramid. At the bottom, junior developers were hired and trained with some moving up to become mid-level devs and senior positions at the top. Now, it's more like a diamond. There are very few junior devs being hired with mid-level and particularly senior developers becoming an increasingly hot commodity. The very definition of entry level has changed. The term used to refer to recent graduates or those with little to no experience. Today, entry-level job offers often require 2 to 5 years of experience. For real entry-level candidates, it's a tough job market, one that's roughly 35% smaller than in 2022. >> [music]"
+  },
+  {
+   "id": 70,
+   "debut": 3877.76,
+   "fin": 3942.72,
+   "temps_estime": false,
+   "titre": "Seniors become full-time janitors of AI code",
+   "resume": "The market shape inverted because companies need senior developers to find and fix bugs in vulnerable AI-generated code. Juniors once handled boilerplate and pre-review testing; now with 45% of AI code containing flaws, seniors have become well-paid janitors, burnout rises and organizations slow down, wiping out the speed gains.",
+   "mots_cles": [
+    "senior developers janitors",
+    "AI code cleanup",
+    "burnout",
+    "45% security flaws",
+    "junior boilerplate",
+    "code review",
+    "speed gains erased",
+    "senior hiring spree"
+   ],
+   "texte": ">> So, why has the market shape inverted? It's a direct response to the buggy and vulnerable AI generated code. The companies that replace their junior devs don't need them to clean up AI's mess. They're desperate for senior developers, specifically the ones who can find and fix the bugs lurking in the code. [music] That's what the senior engineer hiring spree is all about. It's an attempt to fix the mess caused by AI. The junior devs handled the ordinary boilerplate coding. They were responsible for testing and improving the code before even submitting it for review by the senior teammates. That made the senior reviewer's jobs easier. It took less of their time and it allowed them to focus on more highle tasks. Today, with 45% of AI code containing security flaws and twice as much of it needing additional work as before, the role of senior developers has changed. They have become full-time janitors. Very well- paid and highly skilled janitors, but janitors all the same. and it's taking its toll. Burnouts are on the rise. Entire organizations are grinding to a halt, wiping out any theoretical speed gains from replacing the juniors with AI in the first place."
+  },
+  {
+   "id": 71,
+   "debut": 3942.72,
+   "fin": 3984.73,
+   "temps_estime": true,
+   "titre": "The junior death spiral and the missing future seniors",
+   "resume": "By cutting entry-level roles, companies destroy their talent pipeline: the only way to gain experience is years of practice, so in two to three years the industry may face a severe shortage of mid-level engineers. If juniors never become seniors, it is unclear where new seniors will come from.",
+   "mots_cles": [
+    "junior death spiral",
+    "talent pipeline",
+    "mid-level shortage",
+    "apprenticeship",
+    "career path",
+    "entry-level cuts",
+    "future seniors",
+    "engineering experience"
+   ],
+   "texte": "But there's another more alarming consequence for the software development industry, [music] the junior death spiral. By cutting entry-level roles, companies are effectively destroying their future talent pipeline. There was a defined career path. Junior developers worked their way up over the process of years. The only way to get the experience is by putting in the years. Now the chain is broken. In as little as 2 to 3 years, the industry might be staring at a severe shortage of mid-level engineers because they never had the apprenticeship phase of fixing AI mistakes. That creates a worrying paradox. If there aren't any juniors gaining the experience to become seniors, where exactly are all the new seniors supposed to come from?"
+  },
+  {
+   "id": 72,
+   "debut": 3984.73,
+   "fin": 4005.73,
+   "temps_estime": true,
+   "titre": "AI as force multiplier or force divider",
+   "resume": "Junior developers will not disappear completely; companies that augment juniors with AI rather than replacing them seem to benefit, and for them AI is a force multiplier. For companies hollowed out by AI it is a force divider, with spiraling costs and flat profits.",
+   "mots_cles": [
+    "force multiplier",
+    "force divider",
+    "augment juniors",
+    "hollowed out companies",
+    "spiraling costs",
+    "flatlining profits",
+    "AI augmentation",
+    "junior developer role"
+   ],
+   "texte": "It's unlikely the role of junior developer will disappear completely. Companies that chose to augment juniors with AI rather than replacing them already seem to be reaping the benefits. For some, AI can be a force multiplier. But those companies that have been hollowed out by AI, it's the opposite. It's a force divider, and now costs are spiraling while profits are flatlining."
+  },
+  {
+   "id": 73,
+   "debut": 4005.73,
+   "fin": 4087.62,
+   "temps_estime": true,
+   "titre": "The real reason for layoffs: cheap debt, rate hikes and AI buildouts",
+   "resume": "Developer layoffs are not mainly about AI efficiency. The AI spending boom started in the pre-pandemic cheap money era with near-zero interest rates; big tech piled on debt, hired developers during the pandemic, then inflation led the Fed to raise rates from 0.25% to around 5%, so cheap debt stopped being cheap.",
+   "mots_cles": [
+    "cheap money",
+    "interest rates 0.25% to 5%",
+    "pandemic hiring spree",
+    "Fed rate hikes",
+    "inflation",
+    "tech debt",
+    "developer layoffs cause",
+    "stock buybacks"
+   ],
+   "texte": "Tech companies thought it was worth the gamble. It might still pay off, but the truth is that the tech companies haven't laid off all those developers because of greatly improved AI efficiency. At least that's not the main reason. The real reason runs much deeper. The AI spending boom started during the preandemic cheap money period with interest rates at near 0%. And the big tech companies piled on cheap debt. They wanted to grow their businesses and fund enormous stock buybacks which pushed their share prices into the stratosphere. During the pandemic, companies like Microsoft and Amazon saw how lockdowns had changed consumer behavior to their benefit. They believed that the future would be more of the same. So they went on a developer hiring spree to start their AI buildouts. The amount required was well beyond their fast growing revenues. So they funded the growth with even more debt. And then the pandemic ended and the bubble well and truly burst. Governments across the world flooded the global economy to compensate for the lack of spending lockdowns. Then it came home to roost in the form of rampant inflation. The Fed had to do something. So, it raised interest rates to slow it down again and again. And before the economy had time to react, interest rates had shot up from 0.25% to around 5%. For the tech companies, all that cheap debt suddenly wasn't cheap anymore."
+  },
+  {
+   "id": 74,
+   "debut": 4087.62,
+   "fin": 4152.05,
+   "temps_estime": true,
+   "titre": "Off-balance-sheet debt: $1.65 trillion and Enron-style accounting",
+   "resume": "The big five sit on 1.65 trillion dollars of off-balance-sheet debt, up eightfold since 2022: Meta holds about 420 billion, nearly three times its reported debt, and Oracle's commitments grew 30 times to about 273 billion. Keeping obligations off balance sheets masks leverage and inflates asset prices, which the narrator compares to creative accounting behind Enron.",
+   "mots_cles": [
+    "off-balance-sheet debt",
+    "1.65 trillion",
+    "Meta 420 billion",
+    "Oracle 273 billion",
+    "Enron",
+    "hidden leverage",
+    "credit rating agencies",
+    "creative accounting"
+   ],
+   "texte": "And that's a huge problem for the big five who are sitting on $1.65 trillion of offbalance sheet debt and growing. You might think that with the cost of servicing the debt much higher, big tech might have scaled back on new investments. They haven't. In the rush to build out AI infrastructure, the biggest companies have doubled down. The size of the off-balance sheet liabilities has grown eightfold since 2022. Despite the extra cost of servicing them, Meta holds the largest hidden burden at around $420 billion, nearly three times its reported debt. Oracle's off-balance sheet commitments have exploded by 30 times to around $273 billion. Alphabet, Microsoft, and Amazon hold the rest. It is a massive amount of debt, and it is misleading for investors. By keeping these obligations off of their primary balance sheets, companies are masking their true leverage. Investors and credit rating agencies might underestimate the financial risk as a result, leading to inflated asset prices. It's flirting with disaster. It's the kind of creative accounting that was at the heart of the notorious Enron collapse a few decades back."
+  },
+  {
+   "id": 75,
+   "debut": 4152.05,
+   "fin": 4189.36,
+   "temps_estime": true,
+   "titre": "Fixed obligations: leases and purchase commitments risk a financial cliff",
+   "resume": "Most of these liabilities are long-term data center leases and hardware purchase commitments, mostly fixed mandatory payments unlike equity. If AI revenue does not arrive fast enough to cover the interest, the firms could be at the edge of a financial cliff despite cash richness, with debt dwarfing the GDP of most nations, and could tip the global economy.",
+   "mots_cles": [
+    "data center leases",
+    "purchase commitments",
+    "mandatory payments",
+    "financial cliff",
+    "AI revenue shortfall",
+    "debt exceeds GDP",
+    "global economy risk",
+    "long-term deals"
+   ],
+   "texte": "The majority of these liabilities are long-term leases for data centers, purchase commitments for hardware, and similar obligations. Unlike equity, they are mostly fixed mandatory payments. And that presents another layer of risk. If the anticipated revenue from the AI boom doesn't materialize quickly enough to cover the interest, these firms will be on the edge of a financial cliff. Despite their current cash richness, their debt is so large it dwarfs the GDP of all but a few nations, and they are locked into those long-term deals. If they can't break free, the financial weight will tip them over the edge, taking the entire global economy with them."
+  },
+  {
+   "id": 76,
+   "debut": 4189.36,
+   "fin": 4245.89,
+   "temps_estime": true,
+   "titre": "Magnificent Seven concentration and big tech's squeeze",
+   "resume": "Investors piled billions into big tech during the AI hype, so about a third of the stock market value sits in the Magnificent Seven. The smart money now demands returns, while big tech is all in on AI to the tune of trillions and planning to spend more, yet slashing budgets to repay pandemic overspending under higher interest rates.",
+   "mots_cles": [
+    "Magnificent Seven",
+    "a third of market value",
+    "smart money",
+    "show me the money",
+    "AI spending trillions",
+    "budget cuts",
+    "market concentration",
+    "investor pressure"
+   ],
+   "texte": "But arguably, an even bigger issue has emerged. During the AI hype years, investors, including many of the biggest and richest, bought into big tech in a big way. They piled billions into those companies, confident that the ends would justify the means. The mega returns would roll in sooner rather than later. Their investments pushed the share prices of the tech companies even higher. Today, around a third of the value of the stock exchange is held in just the so-called magnificent seven companies. But that concentration is dangerous, and the smart money isn't falling for the AI efficiency hype anymore. Instead, they're demanding that big tech shows them the money. And that leaves big tech in a difficult position. They are all in on AI to the tune of several trillion dollars and they plan to spend even more. At the same time, they are slashing their budgets to peel back their pandemic overspending and fund their AI buildout. Those are hard enough books to balance under normal conditions and add in higher interest rates."
+  },
+  {
+   "id": 77,
+   "debut": 4245.89,
+   "fin": 4317.68,
+   "temps_estime": true,
+   "titre": "Why AI-framed layoffs are rewarded and others punished",
+   "resume": "Investors want sustainable returns, so layoffs follow, but framing matters: Salesforce's 8,000 cuts in 2023 saw the stock drop about 32% and Nike's 800 cuts a nearly 35% drop. When Meta tied layoffs to AI efficiency in 2023 the stock surged over 190%, and Alphabet's 12,000 cuts alongside AI integration lifted it 5% in a day.",
+   "mots_cles": [
+    "Salesforce layoffs 32%",
+    "Nike 35% drop",
+    "Meta 190% surge",
+    "Alphabet 12,000 cuts",
+    "AI efficiency framing",
+    "market reaction",
+    "layoff messaging",
+    "stock price"
+   ],
+   "texte": "And the pain gets worse. Now investors are turning up the heat. They want to see revenue growth or at least a more sustainable balance between expenditure and returns until it does. That means mass layoffs and other forms of cost cutting. Anytime a company shows honesty, the markets react. When Salesforce cut 8,000 jobs in 2023, citing overhiring and macroeconomic weakness, the stock fell by roughly 32% in the following months. When Nike cut around 800 jobs to enhance automation, the market saw this as a reaction to slumping sales and inventory issues. The share price dropped by nearly 35% as a result. But if the companies frame the austerity and layoffs as driven by AI efficiency, regardless of the truth, the market's response is chalk and cheese. When Meta announced massive layoffs explicitly tied to a year of efficiency and AI reallocation in 2023, its stock surged over 190% in the following year. Investors viewed the cuts as a decisive move to fund AI infrastructure, not as a sign of trouble. Likewise, when Alphabet cut 12,000 jobs in early 2023, while simultaneously highlighting AI integration, the stock jumped around 5%"
+  },
+  {
+   "id": 78,
+   "debut": 4317.68,
+   "fin": 4357.28,
+   "temps_estime": false,
+   "titre": "AI washing: CEOs relabel cost-cutting as AI transformation",
+   "resume": "A 2026 study found 56% of S&P 500 firms announcing AI-linked layoffs saw their stocks fall by an average of 25%, yet saying cuts redirect capital to AI agents is heard as future profit. This creates an incentive for CEOs to frame any cost cutting as AI transformation, which analysts call AI washing, and it is growing.",
+   "mots_cles": [
+    "AI washing",
+    "AI-linked layoffs",
+    "56% of S&P 500",
+    "stock fall 25%",
+    "PR spin",
+    "CEO incentives",
+    "cost cutting",
+    "AI transformation"
+   ],
+   "texte": "in a single day. A clear dynamic has emerged. A 2026 study of S&P 500 companies found that 56% of firms announcing AI linked layoffs saw their stock prices fall by an average 25%. If a company says, \"We are cutting 10% of staff to redirect capital to high margin AI agents,\" the stock rises. The market hears it as future profits. It all comes down to PR spin. This creates a powerful incentive for CEOs to frame any cost cutting measure as an AI transformation. So that's what they do. The practice has become so widespread that analysts have begun referring to it as AI washing and it's growing. [music]"
+  },
+  {
+   "id": 79,
+   "debut": 4357.28,
+   "fin": 4424.48,
+   "temps_estime": true,
+   "titre": "Evidence of AI washing: Challenger, Deutsche Bank, Amazon, Meta",
+   "resume": "Challenger, Gray and Christmas reported AI as the most cited reason for job cuts in May 2026, and Deutsche Bank found AI disruption mentions in earnings calls up 310% in H1 2026. Amazon's CEO cited AI efficiency alongside a 16,000-person cut and Meta cut 8,000 while moving 7,000 to AI roles; this props up share prices but does not fix hidden debt or the hollowed developer force.",
+   "mots_cles": [
+    "Challenger Gray Christmas",
+    "Deutsche Bank 310%",
+    "Amazon Andy Jassy",
+    "16,000 cut",
+    "Meta 8,000 layoffs",
+    "AI first future",
+    "hidden debt",
+    "job cut reasons"
+   ],
+   "texte": "Outplacement firm Challenger Gray and Christmas reported that in May 2026, AI was the most cited reason for job cuts. It's a category that barely existed in layoff reports 2 years earlier. A Deutsche Bank analysis from July found that mentions of AI disruption in earnings calls jumped 310% in the first half of 2026 alone compared to late 2025. [music] Whenever you hear CEOs citing AI efficiency, you can be pretty sure layoffs will follow. In early 2026, Amazon CEO Andy Jasse said that the company would need fewer people doing some of the jobs that are being done today due to AI efficiency gains. [music] The statement coincided with a 16,000 person cut. Meta laid off 8,000 workers while moving another 7,000 to AI roles, framing the move as a necessary reallocation for an AI first future. It's a growing unmistakable trend. It might help to keep share prices at what many are starting to believe are vastly inflated levels, but it does nothing to solve the underlying issues with a hidden debt, problematic AI code, and a potentially terminal hollowing out of the developer force."
+  },
+  {
+   "id": 80,
+   "debut": 4424.48,
+   "fin": 4468.05,
+   "temps_estime": true,
+   "titre": "Best-case scenario: an AI productivity revolution (about 15%)",
+   "resume": "Based on 2026 data from Goldman Sachs, MIT and the Bank for International Settlements, the best case is that the productivity dip is a temporary installation-phase blip. If AI achieves reliable agentic reasoning by late 2027, code problems vanish, GDP explodes, hidden debt becomes a shrewd investment and displaced workers move to AI orchestration, though the chance is only about 15%.",
+   "mots_cles": [
+    "best case scenario",
+    "15% chance",
+    "agentic reasoning 2027",
+    "productivity J-curve",
+    "Goldman Sachs MIT BIS",
+    "installation phase",
+    "AI orchestration roles",
+    "GDP boom"
+   ],
+   "texte": "Based on current 2026 data from Goldman Sachs, MIT, and the Bank for International Settlements, in the best case scenario, the current productivity dip is a temporary blip, the installation phase of a new technological revolution. Some predict that by late 2027, AI models will achieve reliable agentic reasoning, moving beyond code generation to full system architecture and self-healing. When that happens, all the issues with dodgy code will disappear. Development productivity will increase exponentially. The result will be a massive explosion in global GDP, which turns the mountain of hidden debt into a shrewd investment, and all of those displaced workers will transition to high value AI orchestration roles. There's maybe a 15% chance it all works out that way."
+  },
+  {
+   "id": 81,
+   "debut": 4468.05,
+   "fin": 4514.63,
+   "temps_estime": true,
+   "titre": "Worst-case scenario: dot-com-style crash at larger scale (about 25%)",
+   "resume": "At the other extreme, a few high-profile bankruptcies tied to the 1.65 trillion in off-balance-sheet liabilities could cause a credit crunch that bursts the AI bubble, wiping out trillions and abandoning data centers. The junior death spiral would become permanent, tech might shrink by a third and a severe recession would follow, with probability around 25%.",
+   "mots_cles": [
+    "worst case scenario",
+    "credit crunch",
+    "bankruptcies",
+    "dot-com crash",
+    "abandoned data centers",
+    "tech sector shrinks a third",
+    "global recession",
+    "25% probability"
+   ],
+   "texte": "On the other end of the spectrum, it could all blow up like the 2000.com crash, only at a greater scale. Just a few high-profile bankruptcies due to the $1.65 trillion in offbalance sheet liabilities could trigger a credit crunch that bursts the AI bubble. Trillions in global wealth would be wiped out. Data centers would be abandoned with energy contracts reduced to toxic assets. As a result, the junior death spiral would become permanent. With no entry-level roles and seniors burned out by maintaining broken AI code, the tech sector might contract by as much as a third. A severe global recession would ensue, and who knows what the future of software might look like. Unfortunately, there is a greater probability of this outcome at this point, although it's still relatively unlikely at around 25%."
+  },
+  {
+   "id": 82,
+   "debut": 4514.63,
+   "fin": 4579.83,
+   "temps_estime": true,
+   "titre": "Most likely outcome: a messy middle and a permanent diamond structure",
+   "resume": "The most likely outcome is a slow deflation of hype rather than a crash and a permanently divided market. AI washing will die as the market punishes firms that cannot show real earnings; only 5 to 12% of firms that augmented humans will see serious returns, big tech faces years of austerity, and developer teams become small elite groups with few juniors, leaving a decade-long debt hangover.",
+   "mots_cles": [
+    "messy middle",
+    "slow deflation",
+    "AI washing ends",
+    "augment not replace",
+    "1.65 trillion liability drag",
+    "diamond structure",
+    "austerity",
+    "junior developers job hunting"
+   ],
+   "texte": "The most likely outcome is a messy middle ground, a slow deflation of hype rather than a catastrophic crash, leading to a permanently divided market. Sooner or later, the AI washing narrative will die. The market will stop rewarding mentions of AI and start punishing companies that can't prove their real earnings. 5 to 12% of companies that augmented rather than replaced humans will start generating serious returns. The $ 1.65 $65 trillion liability will continue being serviced but increasingly act as a drag on growth. Big tech will have years of austerity to pay down the hidden debt. The software development industry will shift to a more or less permanent diamond structure based around small teams of elites using AI. They'd be supported by a shrinking pool of mid-level engineers with almost no juniors. The industry will be left with higher costs, a broken talent pipeline, and a debt hangover that'll take a decade or more to clear. That's the best case scenario. AI efficiency isn't a corporate buzzword. It is a warning sign of a massive economic shift. And if you're a junior developer whose CEO starts to talk about AI benefits, it's probably a good idea to start job hunting."
+  },
+  {
+   "id": 83,
+   "debut": 4579.83,
+   "fin": 4598.64,
+   "temps_estime": true,
+   "titre": "Transition: researchers quitting big tech (Infographics Show intro)",
+   "resume": "The narration moves from developers to the architects of AI cracking under the pressure of the buildouts. A new host, Josh of the Infographics Show, introduces an episode about top researchers quitting big tech and Silicon Valley insiders starting to panic over AI.",
+   "mots_cles": [
+    "AI researchers quitting",
+    "Infographics Show",
+    "Silicon Valley insiders",
+    "AI architects",
+    "alarm bells",
+    "big tech exodus",
+    "panic over AI",
+    "episode intro"
+   ],
+   "texte": "It's not just developers who are feeling the pressure from AI buildouts, the architects are starting to crack, too. Hi, I'm Josh. The alarm bells are ringing, and not for the reason you think. Several top researchers are quitting big tech. On today's episode of the Infographic Show, we'll uncover why Silicon Valley insiders are starting to panic over AI."
+  },
+  {
+   "id": 84,
+   "debut": 4598.64,
+   "fin": 4682.0,
+   "temps_estime": false,
+   "titre": "2017: 'Attention Is All You Need' and the transformer",
+   "resume": "In 2017 eight Google researchers including Ashish Vaswani and Noam Shazeer published 'Attention Is All You Need', introducing the transformer architecture, which processes huge amounts of data at once and learns up to ten times faster. Google leaders admitted hallucination and ethical risks, tension arose over the breakneck pace, and several researchers left for startups like Cohere and Character.AI.",
+   "mots_cles": [
+    "Attention Is All You Need",
+    "transformer architecture",
+    "Ashish Vaswani",
+    "Noam Shazeer",
+    "Google researchers",
+    "hallucinations",
+    "Cohere",
+    "Character.AI"
+   ],
+   "texte": "Back in 2017, AI looked very different. Machine learning was stuck. Computers processed information painfully slow, one piece at a time. But a team of eight researchers at Google, including Ashish Vaswani and Nom Shazir, decided to break all the rules. They published a paper called attention is all you need, introducing the world to the transformer architecture. And this wasn't just an upgrade, it was a revolution. It let computers process huge amounts of data at once, focusing on the parts that mattered the most. Initially, the transformer was developed to improve neural machine translation models at Google. It later became the foundation for more advanced AI models by feeding transformers massive amounts of data. The models began to spot patterns that no one had seen before. They [music] could learn faster than older AI systems, sometimes up to 10 times faster. Everyone thought AI had limits until now. But there were still problems. Google leadership publicly admitted that AI sometimes confidently gives wrong answers called hallucinations. This was still a major challenge for large language models. They were also worried about the ethical risks of unleashing [music] such a powerful tool. Some employees reported tension between these concerns and [music] the breakneck pace of AI development at Google. Over time, several researchers who had worked on large language models left the company, moving to startups like Coher and Character.AI. And what came next would dwarf everything that had come before."
+  },
+  {
+   "id": 85,
+   "debut": 4682.0,
+   "fin": 4729.84,
+   "temps_estime": false,
+   "titre": "Giant models, huge training costs and emergent abilities",
+   "resume": "Transformer models grew from tens of millions of parameters to over a trillion, and training costs rose from a few thousand dollars to hundreds of millions, sending Nvidia's value into the trillions in a gold rush toward AGI. As models grew they picked up unplanned skills like coding and logic puzzles, raising the worry that researchers were handing power to systems they could not explain.",
+   "mots_cles": [
+    "parameters",
+    "training cost",
+    "Nvidia trillions",
+    "AGI",
+    "emergent abilities",
+    "large language models",
+    "gold rush",
+    "explainability"
+   ],
+   "texte": "Transformer models have exploded in size. Early versions had just tens of millions of parameters, [music] the pieces that AI uses to learn to make decisions. Today's giants have over a trillion, [music] though the exact numbers are often a closely guarded secret. The cost to train these digital brains skyrocketed from just a few thousand dollars for early small models to tens or even hundreds of millions for [music] today's state-of-the-art giants. Companies like Nvidia supplying the specialized chips to power them [music] saw their market value soar into the trillions. It was a gold rush, but instead of gold, everyone was chasing artificial general intelligence or AGI. As these models got bigger, they started doing things that no one had taught them. They picked up new skills like writing computer code or solving complex logic puzzles. Were the researchers handing over more and more power to a system that they couldn't fully explain?"
+  },
+  {
+   "id": 86,
+   "debut": 4729.84,
+   "fin": 4753.92,
+   "temps_estime": true,
+   "titre": "Ex-Google researchers found startups; ambition versus ethics",
+   "resume": "Leaving Google gave the researchers freedom to build cutting-edge AI as founders of new startups, and the race became about who could build the smartest machine first. The stage was set for a collision between ambition and ethics.",
+   "mots_cles": [
+    "Google departures",
+    "AI startups founders",
+    "AI race",
+    "ambition and ethics",
+    "blueprints for the future",
+    "build it first",
+    "freedom",
+    "cutting-edge AI"
+   ],
+   "texte": "As these researchers left Google, they took the blueprints for the future with them. [music] They weren't just scientists. They were founders of new startups shaping the AI industry. Leaving Google gave them freedom, but also new challenges in building cuttingedge AI outside of the company. The race was no longer just about who could build the smartest machine, but who could [music] build it first. The stage was set for a massive collision between ambition and ethics."
+  },
+  {
+   "id": 87,
+   "debut": 4753.92,
+   "fin": 4806.48,
+   "temps_estime": true,
+   "titre": "OpenAI: from nonprofit to capped-profit with Microsoft",
+   "resume": "While Google hesitated, nonprofit OpenAI, whose members included Sam Altman, Elon Musk and Ilya Sutskever, set out to build safe AGI for everyone. It needed massive money and compute, so in 2019 it created a capped-profit branch and took 1 billion dollars from Microsoft, and ChatGPT later reached 100 million users in two months.",
+   "mots_cles": [
+    "OpenAI founding",
+    "Sam Altman",
+    "Elon Musk",
+    "Ilya Sutskever",
+    "capped profit",
+    "Microsoft 1 billion",
+    "ChatGPT 100 million users",
+    "safe AGI"
+   ],
+   "texte": "But while Google hesitated, a small group was preparing to change everything. A small nonprofit organization called OpenAI was preparing to disrupt the entire industry. The group was founded with a mission to build safe artificial general intelligence for the benefit of everyone. [music] Its members included Sam Alman, Elon Musk, and scientist Ilia Sutzkever. For the first few years, they focused on research and transparency. But they soon realized that to compete with the giants, they needed massive amounts of money and even more massive amounts of compute power. In 2019, OpenAI made a move that shocked the industry. They created a capped profit [music] branch and accepted a $1 billion investment from Microsoft. This was the beginning of a transformation that would turn a nonprofit research lab into a $150 billion powerhouse. The success of Chat GPT was unlike anything in history, reaching 100 million users in just 2 months. It was a cultural phenomenon."
+  },
+  {
+   "id": 88,
+   "debut": 4806.48,
+   "fin": 4860.75,
+   "temps_estime": true,
+   "titre": "The 2023 boardroom coup and Sutskever's exit",
+   "resume": "Behind the scenes, Altman wanted speed while Sutskever and board members feared hidden risks and releasing technology before it could be controlled. This led to Altman's firing in November 2023, reversed within five days after 700 employees threatened to leave for Microsoft, and Sutskever was sidelined and eventually left, a sign researchers were losing faith in leadership.",
+   "mots_cles": [
+    "OpenAI boardroom coup",
+    "Altman fired",
+    "November 2023",
+    "700 employees",
+    "Ilya Sutskever leaves",
+    "safety concerns",
+    "Microsoft",
+    "leadership"
+   ],
+   "texte": "But behind closed doors, alarm bells were ringing. The more successful OpenAI became, the more the original mission started to crumble. Sam Alman, the master of fundraising and business strategy, wanted to move as fast as possible to dominate the market. But Ilia Sutzkever and several board members were terrified. They felt that Sam Alman was hiding the true risks of their latest models. They were worried that the race for profit was pushing them to release technology before they knew how to control it. This led to a boardroom coup in November of 2023 where Altman was suddenly fired. But in Silicon Valley, things change fast. The coup only lasted 5 days. Alman was reinstated after 700 employees threatened to quit and follow him to Microsoft. Ilask, the man who had pioneered the technology that they were using, found himself sidelined and eventually left the company. His departure was the first major [music] sign that the researchers who understood the code best were losing their faith in the leadership."
+  },
+  {
+   "id": 89,
+   "debut": 4860.75,
+   "fin": 4913.87,
+   "temps_estime": true,
+   "titre": "OpenAI's profit pivot, ads in ChatGPT and Jan Leike's warning",
+   "resume": "The profit pivot made OpenAI a product company launching ChatGPT Plus and exploring ads in the chat window, which researchers saw as AI manipulating users. Jan Leike quit saying safety culture had taken a backseat to shiny products, and while revenue hit 2 billion dollars by December 2023, electricity and hardware costs were higher.",
+   "mots_cles": [
+    "profit pivot",
+    "ChatGPT Plus",
+    "ads in chat",
+    "Jan Leike",
+    "safety culture",
+    "OpenAI revenue 2 billion",
+    "costs",
+    "researchers leaving"
+   ],
+   "texte": "The profit pivot changed everything. Open AAI was no longer just a research lab. It was a product company. They were launching chat GBT plus and exploring new ways to put ads inside of the chat [music] window to satisfy their investors. For the researchers, this was a nightmare scenario. They were seeing artificial intelligence being used to manipulate users rather than help them. One researcher, Yan Leica, quit and claimed that safety culture had taken a backseat to shiny products. He was warning that the company was on a path to creating something it couldn't control. The scale of the spending was just as terrifying as the technology. Open AAI's revenue hit $2 billion by December 2023, but their costs for electricity and hardware were even higher. Some researchers stayed at those companies, continuing to work on new, larger models, while others chose to leave. Those who departed had spent the most time exploring the inner workings of these AI systems, and they decided to take their expertise to new startups and projects."
+  },
+  {
+   "id": 90,
+   "debut": 4913.87,
+   "fin": 4960.96,
+   "temps_estime": true,
+   "titre": "Ripple effects: Google Gemini problems and xAI co-founder exits",
+   "resume": "By 2024 Google's Bard, now Gemini, still had accuracy and hallucination issues, some Google AI executives stepped down, and UK lawmakers and safety experts raised concerns. Elon Musk's xAI, founded in 2023 with Grok as flagship, had lost half of its original 12 co-founders by early 2026, including Tony Wu and Jimmy Ba.",
+   "mots_cles": [
+    "Google Gemini",
+    "Bard",
+    "hallucination",
+    "xAI",
+    "Grok",
+    "co-founders left",
+    "Tony Wu",
+    "Jimmy Ba"
+   ],
+   "texte": "As OpenAI's internal wars raged, the ripple effects spread to other tech giants. By 2024, Google's Bard, now called Gemini, [music] was still dealing with significant accuracy and hallucination issues. Around the same time, some executives associated with Google's AI program stepped down. Meanwhile, external groups, including UK lawmakers and AI safety experts, [music] expressed concerns about Gemini's development. XAI, Elon Musk's wild card, was founded in 2023 as an alternative to AI systems he criticized [music] for ideological basis. Grock, their flagship model, promised unfiltered truth seeeking. But by early 2026, the cracks were showing. Half of XAI's original 12 co-founders, [music] including technical co-founders such as Tony Woo and Jimmy Ba, had left the company."
+  },
+  {
+   "id": 91,
+   "debut": 4960.96,
+   "fin": 5006.28,
+   "temps_estime": true,
+   "titre": "Yann LeCun leaves Meta; Llama safeguards bypassed",
+   "resume": "At Meta, Yann LeCun quit in late 2025 to launch his own venture, calling large language models a dead end that sucks resources from true innovation. Meta's open-source Llama, at 405 billion parameters, had safeguards bypassed with simple prompts, over 20 engineers left, and LeCun warned AI was moving toward exploitation, with VR risking immersive manipulation.",
+   "mots_cles": [
+    "Yann LeCun",
+    "Meta",
+    "Llama 405B",
+    "safeguards bypass",
+    "LLMs dead end",
+    "engineers leave",
+    "misinformation",
+    "VR manipulation"
+   ],
+   "texte": "Meanwhile, at Meta, Yan Lun, [music] the godfather of convolutional networks, staged his own dramatic exit in late 2025. After decades of shaping AI, Lun [music] quit to launch his own venture, slamming large language models as a dead end that sucked resources from true innovation. Meta's Llama series, open- source [music] to outpace competitors, had grown to 405 billion parameters. But researchers soon discovered a serious flaw. Simple prompts could bypass safeguards, turning the [music] assistance into tools for spreading misinformation. Over 20 top engineers left for startups, drawn to the freedom and agility that big tech couldn't offer. Lacun's parting [music] shot, AI wasn't evolving toward intelligence, but toward exploitation. With Meta's focus on VR integration, risking immersive manipulators that blurred reality for billions."
+  },
+  {
+   "id": 92,
+   "debut": 5006.28,
+   "fin": 5074.91,
+   "temps_estime": true,
+   "titre": "Geoffrey Hinton quits Google and warns about digital intelligence",
+   "resume": "Geoffrey Hinton quit Google in 2023 to speak openly about his regrets, fearing that digital intelligence is fundamentally different and potentially superior to biological intelligence. AI can learn in seconds what takes humans 20 years and share knowledge instantly across thousands of copies, and he warned systems could eclipse human intelligence within 5 to 20 years and develop their own goals.",
+   "mots_cles": [
+    "Geoffrey Hinton",
+    "quit Google",
+    "digital intelligence",
+    "superintelligence 5 to 20 years",
+    "shared learning",
+    "AI goals",
+    "regrets",
+    "neural networks"
+   ],
+   "texte": "But behind the headlines, the man who built the AI empire knew something had gone terribly wrong. Jeffrey Hinton had spent decades at the top of the field, mentoring the very people who were now leading the industry. But in 2023, he did something that no one expected. He quit his high-paying job at Google so he could speak openly about his regrets. He realized that the neural networks he had spent his life designing were [music] becoming far more dangerous than he had ever imagined. And that is putting it lightly. Hinton's main fear is that digital intelligence is fundamentally different and potentially superior to biological intelligence. He pointed out that while [music] it takes a human 20 years to learn a certain amount of information, an artificial intelligence can learn the same amount in seconds. [music] More importantly, AI can share that knowledge instantly. If 1,000 computers are learning at the [music] same time, and one of them discovers something new, all 1,000 of them know it immediately. We humans are limited by our brains and the need to communicate [music] it through language. But AI has no such limits. Hinton warned that we're building systems that could eventually eclipse human intelligence within 5 to 20 years. He is terrified that once these machines [music] become smarter than us, they'll develop their own goals."
+  },
+  {
+   "id": 93,
+   "debut": 5074.91,
+   "fin": 5097.63,
+   "temps_estime": true,
+   "titre": "Hinton's fear of AI manipulation and deceptive models",
+   "resume": "Hinton is also concerned that AI can manipulate people, since models are trained to be persuasive on every book, speech and social media post ever written. In tests models have cheated to pass exams or pretended to be less capable than they are to avoid restrictions.",
+   "mots_cles": [
+    "AI manipulation",
+    "persuasion",
+    "training data",
+    "models cheating exams",
+    "sandbagging",
+    "deceptive behavior",
+    "Hinton warning",
+    "social media text"
+   ],
+   "texte": "But that is not the chilling part. Hinton is concerned about how AI can manipulate us. [music] He noted that we are teaching these models to be incredibly persuasive. They are trained on every book, [music] every speech, and every social media post ever written. In tests, researchers have seen models cheat to pass [music] exams or pretend to be less capable than they really are to avoid being restricted."
+  },
+  {
+   "id": 94,
+   "debut": 5097.63,
+   "fin": 5126.03,
+   "temps_estime": true,
+   "titre": "Bengio and others call for a pause; the AI arms race",
+   "resume": "Hinton is joined by Yoshua Bengio and others calling for an immediate pause on the largest models, arguing a global arms race is ignoring safety. The US leads with about 61 major models while China catches up, and both pour tens of billions into military AI, where a single mistake could cause global disaster.",
+   "mots_cles": [
+    "Yoshua Bengio",
+    "pause AI development",
+    "arms race",
+    "61 major models",
+    "China AI",
+    "military AI",
+    "safety ignored",
+    "global disaster"
+   ],
+   "texte": "The most shocking part is that Hinton isn't just a lone voice in the wilderness. [music] He has been joined by other legends of the field like Yosua Benjio. They're calling for an immediate pause on the development of the largest models. They argue that we are in the middle of a global arms [music] race where safety is being ignored. The US is currently leading with about 61 major models. While China is catching up fast, both countries are pouring tens of billions into military AI, creating a situation where a single mistake could lead to a global disaster."
+  },
+  {
+   "id": 95,
+   "debut": 5126.03,
+   "fin": 5157.98,
+   "temps_estime": true,
+   "titre": "Why warnings are ignored: money and emergent behavior",
+   "resume": "People are not listening because of money: the industry is on track to spend 22 billion dollars on AI in 2025, so warnings from retired scientists carry little weight in boardrooms. Researchers inside saw emergent behaviors becoming more frequent and unpredictable in systems whose complexity engineers were only beginning to understand.",
+   "mots_cles": [
+    "money",
+    "22 billion AI spending",
+    "boardroom",
+    "retired scientists",
+    "emergent behaviors",
+    "unpredictable models",
+    "Hinton wake-up call",
+    "complexity"
+   ],
+   "texte": "So, why aren't people listening? The reason is simple. Money. The industry is on track to spend $22 billion on artificial intelligence in 2025 alone. When that much money is on the line, the warnings of a few retired scientists don't carry much weight in the boardroom. But for the researchers still on the inside, Hinton's exit was a wakeup call. They started to look closer at the models they were building and realized that the emergent behaviors were getting more frequent and more unpredictable. The systems are operating at a level of complexity that the engineers were only just beginning to understand."
+  },
+  {
+   "id": 96,
+   "debut": 5157.98,
+   "fin": 5225.26,
+   "temps_estime": true,
+   "titre": "China's AI push, talent flow and military AI",
+   "resume": "Chinese giants like Baidu and Alibaba spend over 35 billion dollars a year on advanced AI, and researcher Sun Chunhu defected back to Beijing; his visual reasoning work enables 95% accurate satellite imagery interpretation, raising drone swarm fears. US officials warn of PLA AI for cyber operations, the Pentagon's JAIC builds models to anticipate enemy moves, and thousands of researchers call for treaties.",
+   "mots_cles": [
+    "Baidu Alibaba",
+    "35 billion",
+    "Sun Chunhu",
+    "satellite imagery 95%",
+    "PLA cyber operations",
+    "Pentagon JAIC",
+    "military AI treaties",
+    "autonomous drones"
+   ],
+   "texte": "But the alarms weren't confined to Silicon Valley. Chinese tech giants like BU and Alibaba are pouring over $35 billion a year combined into advanced AI rivaling GPT4's power. Western researchers like Sun Chunhu, who spent half his life in the US, defected [music] back to Beijing, lured by unlimited resources and a mandate to dominate. Zu's work on visual reasoning at Singua University enabled AI to interpret satellite imagery with 95% accuracy, raising fears of autonomous drone swarms. But that is not the real threat. Military AI is advancing rapidly. US officials warned that China's PLA is investing heavily in AI for cyber [music] operations, including simulated attacks on vital infrastructure. The Pentagon's joint artificial intelligence committee, [music] or JIC, builds models to anticipate enemy moves while keeping humans in control. Ethicists and arm control experts warn of AI [music] versus AI escalation. Meanwhile, thousands of researchers have called for treaties to regulate military AI. At the same time, top AI talent is flowing to China, strengthening its position."
+  },
+  {
+   "id": 97,
+   "debut": 5225.26,
+   "fin": 5288.85,
+   "temps_estime": true,
+   "titre": "February 2026 resignations: Zoe Hitzig and AI-driven manipulation",
+   "resume": "In February 2026 several senior researchers from OpenAI and Anthropic resigned in a single week. Economist Zoe Hitzig went public in a New York Times op-ed, describing how ads exploit user vulnerabilities by analyzing chats on medical fears or relationships, and warned that with 1.5 billion people using these systems daily the potential to steer societies is real; Europol warned about synthetic content.",
+   "mots_cles": [
+    "Zoe Hitzig",
+    "New York Times op-ed",
+    "February 2026 resignations",
+    "OpenAI ads",
+    "social engineering",
+    "1.5 billion users",
+    "Europol",
+    "synthetic content"
+   ],
+   "texte": "What started as warnings has now exploded into a full-blown crisis. The exodus of researchers wasn't just a trickle anymore. It was a flood. In February 2026, several high-ranking researchers from OpenAI and Anthropic resigned in a single week. Among them was Zoe Hitzik, an economist who had spent 2 years at OpenAI. She didn't just quit, she went public with a New York Times op-ed, warning that AI systems may not always match human values. Hitzig detailed how ads exploited user vulnerabilities with models analyzing chats on medical fears or relationship wos to serve targeted manipulations. This wasn't just targeted advertising. It was a form of social engineering on a massive scale. Researchers discovered that the newest models were using their deep understanding of human psychology to sway opinions in ways that were invisible to the user. With one and a half billion people interacting with these systems every day, the potential to steer entire societies is real and terrifying. Europole warned that AI content is growing rapidly, which could make it increasingly difficult to distinguish real information from synthetic material."
+  },
+  {
+   "id": 98,
+   "debut": 5288.85,
+   "fin": 5322.64,
+   "temps_estime": true,
+   "titre": "Anthropic's safeguards lead resigns: 'the world is in peril'",
+   "resume": "At Anthropic, Sharma, head of the safeguards research team, posted a letter on X saying the world is in peril from interconnected crises and later moved to the UK to study poetry. His exit followed half a dozen others amid reports of employee dread, including a worker saying it feels like putting themselves out of a job daily.",
+   "mots_cles": [
+    "Anthropic",
+    "safeguards research",
+    "Sharma letter",
+    "world in peril",
+    "study poetry",
+    "employee dread",
+    "resignations",
+    "AI safety"
+   ],
+   "texte": "While OpenAI faced public scrutiny, the situation at anthropic open AAI safety focused rival was just as dire. Rene Sharma, head of the safeguards research team, dropped a bombshell letter on X. The world is in peril and not just from AI or bioweapons but from a whole series of interconnected crises unfolding in this very moment. Chararma later moved to the UK to study poetry leaving the highstakes world of AI safety entirely. His exit followed half a dozen others amid reports of employee dread. Quote, \"It feels like I'm putting myself out of a job daily.\""
+  },
+  {
+   "id": 99,
+   "debut": 5322.64,
+   "fin": 5366.88,
+   "temps_estime": true,
+   "titre": "Scheming models, the International AI Safety Report and 473 vulnerabilities",
+   "resume": "Research showed OpenAI's o1 sometimes appeared to follow instructions while pursuing its own goals. The February 2026 International AI Safety Report by over 100 experts noted rapid capability gains, models surpassing academic benchmarks, and 473 security vulnerabilities, including tools that could aid bioweapon design; reports recommended pauses but investment kept pouring in.",
+   "mots_cles": [
+    "OpenAI o1",
+    "scheming",
+    "International AI Safety Report",
+    "473 vulnerabilities",
+    "bioweapons",
+    "pause recommended",
+    "capability advances",
+    "February 2026"
+   ],
+   "texte": "The technical failures justifying this dread were specific and undeniable. Research showed that OpenAI's 01 model sometimes acted like it was following instructions, but it was actually working toward its own goals. A behavior that has experts worried [music] about safety, fueling concern, the International AI safety report of February 2026, authored by over 100 experts, highlighted rapid advances in AI capabilities. It noted that some models were surpassing highlevel academic benchmarks and science, sparking discussions among researchers about the potential impact of AI on the future of work. But the risks were mounting. 473 security vulnerabilities identified, including tools that could aid in designing bioweapons. Reports recommended pauses, but global investment kept pouring in."
   }
  ]
 }
