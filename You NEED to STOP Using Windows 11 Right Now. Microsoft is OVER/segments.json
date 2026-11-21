@@ -4,12 +4,12 @@
   "titre_video": "You NEED to STOP Using Windows 11 Right Now. Microsoft is OVER",
   "duree_s": 10209.9,
   "avancement": {
-    "lignes_traitees": 843,
-    "fin_traitee_s": 1798.31,
+    "lignes_traitees": 1683,
+    "fin_traitee_s": 3555.33,
     "nb_lignes_total": 4857,
     "complet": false
   },
-  "nb_segments": 40,
+  "nb_segments": 74,
   "segments": [
     {
       "id": 1,
@@ -757,6 +757,648 @@
         "privacy policy"
       ],
       "texte": "them all regardless. Microsoft says the database [music] stays on your computer, but security researchers found early versions of it could be pulled [music] off by simple recovery tools. Windows Hello sign-in and a filter that's supposed to skip over sensitive data have been added since then, but in August 2025 independent testers ran the filter and found it still missed things [music] it was built to catch. Even if you trust the local part, there's still the policy problem. Right now Recall does not sync to the cloud, but that can change with a single update. Most users would never notice. A computer that takes a picture of itself every few seconds is no longer yours in the way you thought it was. It is a witness."
+    },
+    {
+      "id": 41,
+      "debut": 1798.31,
+      "fin": 1834.31,
+      "temps_estime": false,
+      "titre": "Chapter two: the Windows performance tax",
+      "resume": "The speaker says Microsoft promotes Windows as the home of PC gaming with DirectStorage, Auto HDR and the Xbox app, but reviewers have run the same games on Windows 11 and on Linux (Bazzite, a SteamOS-like distribution). Average frame rates look almost identical on paper, yet they hide what players actually feel.",
+      "mots_cles": [
+        "Windows 11",
+        "Linux",
+        "Bazzite",
+        "gaming performance",
+        "DirectStorage",
+        "Auto HDR",
+        "average frame rate",
+        "SteamOS"
+      ],
+      "texte": "Chapter two, the performance tax. Microsoft really pushes the performance of its products. Windows is the home of high-end PC gaming. Direct Storage loads faster. The Auto HDR looks better. The Xbox app is parked right there in your taskbar, but there's a cost the hype never mentions. Various journalists and reviewers have spent years running the same games on the same hardware using Windows 11 and Linux. The Linux build of choice is usually Bazzite, an OS designed to replicate Steam OS, and on paper the results look almost identical. Windows fans always like to point to the average frame rates as proof, but that hides the thing you actually feel while"
+    },
+    {
+      "id": 42,
+      "debut": 1834.31,
+      "fin": 1885.81,
+      "temps_estime": false,
+      "titre": "Linux beats Windows 11 on frame-rate lows",
+      "resume": "On identical hardware and settings Linux is said to deliver 1% lows 15 to 20% higher than Windows 11, avoiding sudden freezes in gameplay. The cause is background services, forced update checks, telemetry pings and Copilot, which take a slice of performance a high-end gaming rig paid for.",
+      "mots_cles": [
+        "frame rate lows",
+        "Linux",
+        "Windows 11",
+        "15 to 20%",
+        "telemetry",
+        "Copilot",
+        "background services",
+        "gaming rig"
+      ],
+      "texte": "playing. What matters is the low. That's the worst moment during gameplay. The sudden freeze when you turn too fast or are in the middle of a gunfight, your brain notices it instantly even if the frame rate counter says otherwise. This is where Linux starts embarrassing Windows. Using the exact same hardware and settings, Linux consistently delivers lows that are 15 to 20% higher than Windows 11. None of this is a mystery. The background services, the forced update checks and telemetry pings, even Copilot doing things you never asked for. Each one is tiny, but stack them on top of a machine trying to push 240 frames per second and they all add up. You paid for that performance. Windows is spending some of it on things that have nothing to do with your game. You spend thousands of dollars building a high-end gaming rig only to have its raw power skimmed right off the top by the operating system"
+    },
+    {
+      "id": 43,
+      "debut": 1885.81,
+      "fin": 1928.11,
+      "temps_estime": false,
+      "titre": "Chapter three: the anti-cheat excuse",
+      "resume": "If Linux matches or beats Windows, the speaker says the one remaining excuse was multiplayer anti-cheat, which used to lock Linux players out before the main menu. Once that barrier disappears, Windows becomes a choice rather than a necessity.",
+      "mots_cles": [
+        "anti-cheat",
+        "multiplayer games",
+        "Linux gaming",
+        "Windows",
+        "locked out",
+        "switching to Linux",
+        "anti-cheat illusion"
+      ],
+      "texte": "you're forced to install. If Linux now matches or even beats Windows in performance, then there is really only one excuse left, multiplayer games. For years that was the deal breaker. Not because Linux couldn't run [music] the games, but because anti-cheat systems would block you before you even got into a match. And once that barrier disappears, Windows becomes a choice. Chapter three, [music] the anti-cheat illusion. For a long time, the answer to why don't more people switch to Linux was always the same. You could play single player games fine, but the moment a multiplayer game used [music] anti-cheat, Linux players got locked out. You'd load up the game and get denied before the main menu even displayed. And that's why people stayed on Windows. Their games relied on it."
+    },
+    {
+      "id": 44,
+      "debut": 1928.11,
+      "fin": 1965.61,
+      "temps_estime": false,
+      "titre": "Easy Anti-Cheat and BattlEye come to Linux",
+      "resume": "Epic added Linux support for Easy Anti-Cheat and BattlEye followed, so previously unsupported games such as Apex Legends and Halo Infinite started working, including on the Steam Deck. Old PC games from the 2000s that break on Windows 11 also run through Proton.",
+      "mots_cles": [
+        "Easy Anti-Cheat",
+        "BattlEye",
+        "Epic Games",
+        "Apex Legends",
+        "Halo Infinite",
+        "Steam Deck",
+        "Proton",
+        "old PC games"
+      ],
+      "texte": "But then something [music] changed. Epic added Linux support for easy anti-cheat. Then software like Battle Eye followed. [music] Games that were unsupported suddenly started working overnight. It took about four years for it to become the norm. Back in 2019, if someone told you they were playing Apex Legends or Halo Infinite on Linux, you would have laughed at them. Those games didn't work outside of Windows. Now people launch them on the Steam Deck while lying on the couch. [music] It's the same with older PC games. They actually work better on Linux now than they do on modern Windows. Games from the 2000s that break on Windows 11 because of old launchers or compatibility issues run perfectly through compatibility layers"
+    },
+    {
+      "id": 45,
+      "debut": 1965.61,
+      "fin": 1997.77,
+      "temps_estime": false,
+      "titre": "Remaining holdouts: Epic, Riot and Bungie",
+      "resume": "The shift was a coordinated, mostly unseen engineering effort, and the technical reason to stay on Windows has mostly faded for the games people play weekly. The remaining Linux-blocked games are competitive multiplayer titles from Epic Games, Riot and Bungie, whose refusal is described as a security and business decision.",
+      "mots_cles": [
+        "Epic Games",
+        "Riot",
+        "Bungie",
+        "anti-cheat",
+        "open source",
+        "competitive multiplayer",
+        "Proton",
+        "Windows holdouts"
+      ],
+      "texte": "like Proton. It was a coordinated effort that happened away from the public eye. Someone paid for the engineering, called the developers, wrote the code, and then built the testing pipeline. The technical reason to stay on Windows has mostly faded for [music] the games people open every weekend. The games that still refuse Linux are mostly competitive multiplayer titles. [music] Giants like Epic Games, Riot, and Bungie refuse to let their aggressive anti-cheat software run on an open source system. It's purely a security and business decision. All of this lines up with something else nobody quite"
+    },
+    {
+      "id": 46,
+      "debut": 1997.77,
+      "fin": 2054.61,
+      "temps_estime": false,
+      "titre": "Chapter four: Steam Deck's hardware anomaly",
+      "resume": "The Steam Deck launched in early 2022 and by February 2025 sold about 4 million units, roughly half of all handheld gaming PCs, according to The Verge. It beat the Asus ROG Ally, Lenovo Legion Go and MSI Claw combined with no traditional advertising, starting at $399 and sold near cost price.",
+      "mots_cles": [
+        "Steam Deck",
+        "Valve",
+        "The Verge",
+        "4 million units",
+        "ROG Ally",
+        "Legion Go",
+        "MSI Claw",
+        "$399",
+        "handheld PC"
+      ],
+      "texte": "[music] saw coming. Chapter four, the hardware anomaly. Steam Deck came out in early 2022. By February 2025, The Verge reported total sales around 4 million units. That is roughly half of every handheld gaming PC sold in those three years. The other half is split between the Asus ROG Ally, the Lenovo Legion Go, and the MSI Claw combined. Valve hit that number with almost no traditional advertising, no celebrity push, no billboards. The deck moved through word of mouth and people showing their friends. The price is part of the story, too. A base Steam Deck starts at $399. A comparable Asus ROG Ally with Windows can cost more than double depending on the specs. Also, the Windows version often gets worse battery life on the same hardware. [music] Valve priced the deck as a default choice for anyone curious about handheld PC gaming. They sold the hardware close to cost price and made most of their money on games sold through Steam. The operating system"
+    },
+    {
+      "id": 47,
+      "debut": 2054.61,
+      "fin": 2098.91,
+      "temps_estime": false,
+      "titre": "Linux's rising share in the Steam survey",
+      "resume": "Valve's Steam hardware survey showed Linux at 5.33% of Steam users in March 2026 (4.52% in April), up from under 2% in early 2024, while Windows fell from 96% to 92%. With about 130 million monthly users, roughly 6 million play on Linux, more than the population of Denmark.",
+      "mots_cles": [
+        "Steam hardware survey",
+        "Linux market share",
+        "5.33%",
+        "March 2026",
+        "Windows decline",
+        "130 million users",
+        "6 million",
+        "Denmark"
+      ],
+      "texte": "numbers are where things get strange. [music] In March 2026, Valve's own Steam hardware survey logged Linux at 5.33% of all Steam users. And that was the first time it crossed the 5% mark. April 2026 settled back to 4.52% after a bounce. Either way, the line is going up. In early [music] 2024, Linux was sitting below 2%. By 2026, it was above 4% and holding. Windows over the same period dropped from 96% [music] to 92%. That is the biggest sustained drop the survey has ever shown. Steam has around 130 million monthly active users. About [music] 6 million of them now play on Linux instead of Windows. That number used to sit in the hundreds of thousands. Now [music] it's bigger than"
+    },
+    {
+      "id": 48,
+      "debut": 2098.91,
+      "fin": 2150.91,
+      "temps_estime": false,
+      "titre": "The Steam Deck as an on-ramp to Linux",
+      "resume": "While Valve built a new wave of PC gamers, Microsoft stood still. Every Steam Deck is a full Linux PC, so buyers meet a working alternative to Windows, and many then install the same operating system on their desktops.",
+      "mots_cles": [
+        "Steam Deck",
+        "Valve",
+        "Linux",
+        "Windows alternative",
+        "on-ramp",
+        "desktop PC",
+        "default behavior",
+        "Microsoft"
+      ],
+      "texte": "the population of Denmark. But while Valve was creating an entirely new wave of PC gamers, Microsoft mostly stood still. And that is the weird part. Nintendo and Sony sell [music] consoles. Technically, Valve sells a console, too. The difference is that every Steam Deck is a personal computer running a complete Linux operating system. Every person who buys one [music] meets a working alternative to Windows, often without knowing it. And once people realized the Steam Deck was [music] just Linux underneath, something else started happening. They installed the same operating system on their desktop PCs. The handheld became an on-ramp. You can buy a Steam Deck because it's convenient, [music] and then you realize the exact same experience can run on the gaming tower sitting under your desk. Valve built a device that teaches millions of people they can live without Windows. It created a change in the default behavior, and Microsoft had to react."
+    },
+    {
+      "id": 49,
+      "debut": 2150.91,
+      "fin": 2214.82,
+      "temps_estime": false,
+      "titre": "Chapter five: Microsoft's Project K2",
+      "resume": "Windows Central reported in late 2025 on Project K2, an internal Microsoft program built on performance, reliability and craft, bringing a movable taskbar, faster File Explorer and fewer update interruptions. The speaker sees it as an admission that Windows 11 became unreliable and intrusive, while telemetry and Microsoft account sign-ins kept growing.",
+      "mots_cles": [
+        "Project K2",
+        "Windows Central",
+        "Windows 11",
+        "taskbar",
+        "File Explorer",
+        "telemetry",
+        "Microsoft account",
+        "reliability"
+      ],
+      "texte": "Chapter five, Project K2. In late 2025, Windows Central reported on an internal Microsoft program code named Project K2. The program is organized around three stated [music] pillars, performance, reliability, and craft. The code name K2 is apt. [music] K2 is one of the hardest mountains in the world to climb, and that name alone hints at how difficult the problem has become inside Microsoft. But the changes [music] coming out of it are real. A task bar you can finally move to the side of the screen, a file explorer that loads faster, update prompts that stop interrupting you in the middle of a game. Companies do not start multi-pillar quality programs when things are going well. Project K2 is Microsoft admitting that Windows 11 has become unreliable and intrusive enough that part of its audience is leaving. K2 is presented as a fix, [music] but over the same months Microsoft launched K2, Windows has been moving in the opposite direction. Telemetry has increased. Microsoft account sign-ins have become more central to setting up a new PC. [music] K2 fixes the surface complaints, but underneath things stayed the same."
+    },
+    {
+      "id": 50,
+      "debut": 2214.82,
+      "fin": 2261.32,
+      "temps_estime": false,
+      "titre": "Subscriptions versus one-time Windows licenses",
+      "resume": "A one-time license pays Microsoft once while a subscription pays forever, the same move Adobe, Autodesk and Microsoft 365 made. PC gaming rests on owning hardware, keeping games on your drive and controlling your machine, which a sign-in and cloud-rendered Windows would break.",
+      "mots_cles": [
+        "subscription model",
+        "Windows license",
+        "Adobe",
+        "Autodesk",
+        "Microsoft 365",
+        "PC gaming",
+        "cloud gaming",
+        "ownership"
+      ],
+      "texte": "And this all comes with a cost. A one-time Windows license pays Microsoft once. A subscription pays them forever. The math is so one-sided that Microsoft is not making a brave choice. They're making the same choice Adobe made with Photoshop and Autodesk made with AutoCAD. Their office team did it with Microsoft 365. The pattern is well known and the outcome is predictable. [music] What makes Windows different is the size of the audience that depends on the old model. PC gaming is a multi-billion dollar industry built on three assumptions. You own your hardware, your games sit on your drive, and you have control over your machine. A version of Windows where you have to sign in and start playing [music] and where the heavy lifting happens on Microsoft servers doesn't fit that audience at all. You can see this direction in real"
+    },
+    {
+      "id": 51,
+      "debut": 2261.32,
+      "fin": 2307.32,
+      "temps_estime": false,
+      "titre": "Windows moves toward renting access",
+      "resume": "Xbox Cloud Gaming, Game Pass and the Microsoft Store all rely on subscriptions or Microsoft accounts, and installing Windows 11 offline now needs a workaround Microsoft keeps patching. Recall, telemetry and charge-by-use fit this future, while local game libraries, saves, mods and offline play do not.",
+      "mots_cles": [
+        "Xbox Cloud Gaming",
+        "Game Pass",
+        "Microsoft account",
+        "offline setup",
+        "Windows 11",
+        "Recall",
+        "telemetry",
+        "renting access"
+      ],
+      "texte": "product moves. Xbox Cloud Gaming [music] is a subscription. Game Pass is a subscription. The Microsoft Store is built around a Microsoft account. Setting up a new Windows 11 PC without an internet connection used to be a single [music] skipped checkbox. Now it takes a workaround that Microsoft patches out every few releases. Each change pushes the average user further from owning their computer and closer to renting access to one. The timing of all of this stops feeling random. Recall fits into a future where everything you do gets logged for an AI to search. The telemetry stream fits into a future where Microsoft charges by what you use. Local game libraries, local save files, mods you install yourself, playing offline. None of that fits where Windows is going. Some of it will survive through legacy support. The rest will"
+    },
+    {
+      "id": 52,
+      "debut": 2307.32,
+      "fin": 2372.32,
+      "temps_estime": false,
+      "titre": "Chapter six: Valve's silent build",
+      "resume": "Over ten years Valve acted like a software company: Proton runs Windows games on Linux without rebuilds, Steam OS offers a Linux system without Windows-style tracking, and Steam Input makes any controller work. Users just press play and escape Microsoft's world without noticing.",
+      "mots_cles": [
+        "Valve",
+        "Proton",
+        "Steam OS",
+        "Steam Input",
+        "Linux",
+        "tracking",
+        "Windows games",
+        "silent build"
+      ],
+      "texte": "fade. While Microsoft has been building this cage, Valve has spent over 10 years building the only working exit. Chapter 6, [music] the silent build. Valve's last 10 years don't really make sense if you look at them like a hardware company. You need to look at them as a software company. Proton is what makes Windows games run on Linux without the developer having to rebuild them. It turns the game into something Linux can understand. So old Windows only games just open and run. That last part is the bit that matters. Games don't have to change to move platforms anymore. Steam OS is Valve's version of that idea at the system level. It is a Linux operating system that seems [music] simple on the surface, but it doesn't come with the tracking or background data collection people associate with Windows. What you do on it stays on your machine. Steam input [music] does the same thing for controls. It makes whatever controller you plug in behave like it belongs in the game, even if the game was never designed for it. Most people never see any of this working. They just press play and it works. Nothing about the experience tells them that they have left Microsoft's world,"
+    },
+    {
+      "id": 53,
+      "debut": 2372.32,
+      "fin": 2415.92,
+      "temps_estime": false,
+      "titre": "Valve's decade-long bet",
+      "resume": "Valve started before Project K2 or Recall, when Linux gaming looked like a joke: Steam OS dates to 2013, the Steam Controller to 2015 and Proton to 2018. The speaker says the Steam Deck was never just a handheld but a way to get an alternative operating system into millions of hands.",
+      "mots_cles": [
+        "Valve",
+        "Steam OS 2013",
+        "Steam Controller 2015",
+        "Proton 2018",
+        "long-term bet",
+        "Steam Deck",
+        "alternative operating system"
+      ],
+      "texte": "but they have escaped it. Valve started building all of this before anyone had even heard of Project K2 or Recall back when most people still thought Linux gaming was a joke. They invested anyway at a scale that only makes sense if someone inside the company believed Windows was going to keep moving the way it has been. Proton's first release was in 2018. The Steam controller came out in 2015. Steam OS in its first form goes all the way back to 2013. None of these were immediate reactions to a Microsoft announcement. They were a long-term bet placed years before the bet started paying off. Steam Deck was [music] never just a handheld. It was the way Valve got their alternative operating system into millions of hands while the alternative [music] still looked like a"
+    },
+    {
+      "id": 54,
+      "debut": 2415.92,
+      "fin": 2476.92,
+      "temps_estime": false,
+      "titre": "Chapter seven: the timeline shows Valve saw it coming",
+      "resume": "Lining up events: anti-cheat opened to Linux in 2021 to 2024, Steam Deck arrived in 2022 and Steam's Linux users doubled from 2024 to 2026. Recall (mid 2024) and Project K2 (late 2025) came after Proton had been in development for years, and Linux had already passed macOS on Steam.",
+      "mots_cles": [
+        "timeline",
+        "anti-cheat Linux",
+        "Steam Deck 2022",
+        "Recall",
+        "Project K2",
+        "Proton",
+        "Linux passes macOS",
+        "Steam"
+      ],
+      "texte": "fun gadget. Chapter seven, the trap closes. Line every piece up on one timeline and the story stops feeling like a series of separate moves. Between 2021 and 24, the biggest anti-cheat systems started allowing Linux. In 2022, the Steam Deck brought a working Linux gaming machine to millions of people. From 2024 to 2026, Steam's own data showed Linux users doubling. It shows Valve had a clear direction. Set them next to Microsoft's moves and the coincidence falls apart. Recall was announced mid 2024. By then, Proton had already been in active development for six years. Project K2 started [music] in the second half of 2025. By then, the Steam Deck had been selling for three years and Linux had already passed macOS on Steam. Every major Windows change that pushes users toward the cloud and toward subscriptions arrived after Valve had already built the way out. Valve didn't react to any of this. They saw it coming. The investment in Proton and Steam OS [music] started when this future was visible only to people"
+    },
+    {
+      "id": 55,
+      "debut": 2476.92,
+      "fin": 2515.42,
+      "temps_estime": false,
+      "titre": "Valve's patient decade and the harmless Steam Deck",
+      "resume": "By 2018 Adobe, Autodesk and Microsoft's Office team had moved to subscriptions, so Valve spent a decade making deals with developers and putting its alternative in front of users. The Steam Deck was designed to look harmless and priced so millions would try it.",
+      "mots_cles": [
+        "Valve",
+        "subscription models",
+        "developers",
+        "patience",
+        "Steam Deck",
+        "delivery vehicle",
+        "Adobe",
+        "Autodesk"
+      ],
+      "texte": "watching the industry closely. By 2018, Adobe, Autodesk, and Microsoft's own Office team [music] had already pulled their flagship products into subscription models. It was clear where the rest of Windows was going. Rather than fighting Microsoft, Valve got to work for a decade. They made deals with developers and had the patience to put the whole [music] thing in front of users before anyone felt the urgency. Most of it happened in the open. Most people were watching something else. The Steam Deck was the delivery vehicle designed [music] to look harmless, priced so millions would try it without thinking twice. By the time anyone framed it this competition, it was already in people's hands. Chapter"
+    },
+    {
+      "id": 56,
+      "debut": 2515.42,
+      "fin": 2575.42,
+      "temps_estime": false,
+      "titre": "Chapter eight: the last sovereign OS",
+      "resume": "The speaker defines a sovereign OS as one where you own your hardware: it does not send data without asking, needs no company account and the maker earns money other than by tracking you. Only desktop Linux qualifies, while Windows, macOS, Chrome OS and phones do not, and even Steam OS requires a login.",
+      "mots_cles": [
+        "sovereign OS",
+        "Linux",
+        "Windows",
+        "macOS",
+        "Chrome OS",
+        "Steam OS",
+        "data ownership",
+        "account login"
+      ],
+      "texte": "eight, the sovereign OS. Valve is not competing with Xbox or Apple. Valve has built something stranger and more important than another console line. They have built the last sovereign OS. A sovereign OS is an operating system where you own your own hardware in the real sense of the word. The system doesn't send your data without asking. Your files stay yours. The storage stays under your control. Using your own machine does not require signing into a company's account. The company behind the OS earns its money from something other than tracking you. By that definition, traditional desktop Linux [music] is the only major consumer operating system space left that qualifies. Windows has crossed too many lines. macOS with its Apple ID and steady push to iCloud is in the same kind of cage. Chrome OS was never sovereign. It was always a window into Google services. Phones are not sovereign at all. Even Steam OS makes you log in to get started. Steam OS stays small, not from lack of demand, but because every other major company picked the subscription path [music]"
+    },
+    {
+      "id": 57,
+      "debut": 2575.42,
+      "fin": 2598.92,
+      "temps_estime": false,
+      "titre": "Valve's and Microsoft's business models",
+      "resume": "Valve can afford to stay sovereign because Steam takes a cut of each game sale, while Microsoft earns more the longer you stay inside its products. The speaker says two business models produced two operating systems.",
+      "mots_cles": [
+        "Valve",
+        "Steam",
+        "Microsoft",
+        "business model",
+        "subscriptions",
+        "Windows design",
+        "game sales cut"
+      ],
+      "texte": "and Valve walked the other way. Valve can afford this because of how they make money. Steam [music] takes a cut of every game sale. That is the whole business model. Microsoft makes money in a different way now. They earn when you live inside their products. The longer you stay, the more they make. It's why Windows looks the way it does. Two business models, two operating systems, both built on the logic of how their owners get paid. That same divide"
+    },
+    {
+      "id": 58,
+      "debut": 2598.92,
+      "fin": 2636.52,
+      "temps_estime": false,
+      "titre": "Two futures: Copilot gateway or a real computer",
+      "resume": "Microsoft talks about cloud computing and Copilot as the main way to use a PC, while Valve talks about shippable hardware, stored games and tools. The speaker says Valve is not the good guy but built a careful defensive exit that exists, works and is growing.",
+      "mots_cles": [
+        "Microsoft",
+        "Copilot",
+        "cloud computing",
+        "Valve",
+        "hardware",
+        "games you can store",
+        "defensive engineering",
+        "exit"
+      ],
+      "texte": "appears when the two companies talk about the future. On one side, Microsoft talks about cloud computing and Copilot [music] becoming the main way that people use a PC. Valve talks about hardware that they can ship, games you can store, and [music] tools they can put in players' hands. One future is mostly a gateway into Microsoft services. The other is still mostly a computer. This isn't a story about Valve being the good guys. Valve is a private company doing what's in its long-term interest. The exit they built is careful defensive engineering, not a gift. But that exit exists. It works. [music] And millions of people are already using it, and the community around it keeps growing. The real fight"
+    },
+    {
+      "id": 59,
+      "debut": 2636.52,
+      "fin": 2701.32,
+      "temps_estime": false,
+      "titre": "The real fight: owning your PC or renting it",
+      "resume": "The real fight is what a personal computer is allowed to be, a tool you own or a rental whose terms change at will. Gamers will notice when a game stops without a Microsoft sign-in, a reseller Windows key stops activating or a Game Pass title is pulled, and each next PC purchase is a choice.",
+      "mots_cles": [
+        "personal computer",
+        "ownership",
+        "renting",
+        "Microsoft sign-in",
+        "Windows activation",
+        "Game Pass",
+        "Steam OS",
+        "choice"
+      ],
+      "texte": "is not about market share. The real [music] fight is about what a personal computer is allowed to be, a tool you own and control or a rental from someone else that can change the terms whenever they want. Microsoft is answering that question one way. Steam OS is answering it the other way. There is not much middle ground. Most gamers will not think about this on any given day. When a game they own stops working without a Microsoft sign-in, [music] then they'll think about it. The day a cheap key reseller copy of Windows stops activating because the policy changed, then they'll think about it. The day a game pass title gets pulled halfway through their playthrough, they will think about it. None of these are hypothetical. [music] They have already happened to gamers. Every user is about to make a choice, whether they think about it or not, not in some far-off future, but in their next PC purchase, in the next Windows update prompt, [music] the next time a subscription screen asks for a credit card. The alternative is already sitting on store shelves and running on millions of machines today. The question is no longer whether Windows fails, [music] it's whether you will still own your own PC when it does. Microsoft isn't the"
+    },
+    {
+      "id": 60,
+      "debut": 2701.32,
+      "fin": 2746.12,
+      "temps_estime": false,
+      "titre": "Teaser: France removes Windows from its police",
+      "resume": "Introducing a second story: the speaker says Windows is not unavoidable and that France proved it by removing Microsoft from its national police force. Tens of thousands of computers moved to free open source software and costs fell by 40%, hinting Europe may have found a way out of the monopoly.",
+      "mots_cles": [
+        "France",
+        "national police",
+        "Windows",
+        "open source",
+        "40% cost drop",
+        "Europe",
+        "big tech",
+        "monopoly"
+      ],
+      "texte": "only battle Valve is facing. They're now locked into a fight that could determine their future. We've been told for decades [music] that Microsoft Windows is unavoidable, that without big tech operating systems, modern society simply stops working. France proved that is a lie. One of the world's most powerful nations removed Microsoft from its national police force. Tens of thousands of computers, no Windows, no licenses, no dependency on Silicon Valley. Instead, they switched to free open source software, and the result stunned even government officials. Costs dropped by 40%. [music] This wasn't a small experiment, it was a mass corporate eviction, and it exposed something big tech never expected. Europe may have found a way out of the monopoly. Chapter"
+    },
+    {
+      "id": 61,
+      "debut": 2746.12,
+      "fin": 2814.72,
+      "temps_estime": false,
+      "titre": "Chapter one: 103,000 Gendarmerie machines run Linux",
+      "resume": "The Gendarmerie Nationale, a pillar of French law enforcement, runs a custom Linux build on more than 103,000 machines, 97% of its desktops, with the rest tied to legacy contracts. New machines ship with no operating system, so there is no OEM license, no activation handshake and no Microsoft tax.",
+      "mots_cles": [
+        "Gendarmerie Nationale",
+        "France",
+        "custom Linux",
+        "103,000 machines",
+        "97%",
+        "no OEM license",
+        "Microsoft tax",
+        "legacy contracts"
+      ],
+      "texte": "one, the 40% guillotine. The Gendarmerie Nationale is not some small office experiment. It is part of the two pillars of French law enforcement. So when France began removing Windows across the entire department, people noticed. Today more than 103,000 of those machines now run a custom Linux build. That's 97% of the entire desktop fleet. The remaining 3% are on specialized terminals tied to old legacy contracts. As [music] those contracts expire, the last Windows machines disappear with them. The new Gendarmerie machines ship with no operating system at all. No OEM Windows license sits in the purchase price. No automatic activation handshake reaches Redmond. The hardware arrives completely bare. From there, the French government IT teams build the machines themselves and then send it out to officers in the field. That means there is no Microsoft tax linked to the machines. Every workstation now represents a single deliberate decision, [music] and that decision gets repeated numerous times across the fleet. Each one quietly removes a US software vendor from the cost base of a national institution. Individually, it feels small, almost invisible, but at this scale it adds up"
+    },
+    {
+      "id": 62,
+      "debut": 2814.72,
+      "fin": 2888.32,
+      "temps_estime": false,
+      "titre": "The careful migration and 40% lower cost of ownership",
+      "resume": "Apps were rewritten, parallel deployments kept downtime at zero and the interface stayed familiar, cutting $2.2 million from licensing each year. Total cost of ownership fell 40% across licensing, support, training and running US software, with no performance hit and sometimes improvements.",
+      "mots_cles": [
+        "Gendarmerie",
+        "migration",
+        "$2.2 million",
+        "licensing savings",
+        "40% cost reduction",
+        "total cost of ownership",
+        "zero downtime",
+        "familiar interface"
+      ],
+      "texte": "fast. The clean was just as careful. Specialized apps got rewritten to run on the new computers. IT teams ran parallel deployments to ensure downtime stayed at zero during the switch. The interface stayed familiar on purpose, matching what the officers had used for years. The learning curve never became an excuse to slow things down. One line item, one decision had just saved millions. $2.2 million gets cut from the licensing budget every single year. That fee used to come out of the French taxpayer wallets straight into Microsoft's profit column year after year with no foreseeable end date, except that changed. The running total got pulled from one of the most reliable revenue streams in Europe. Procurement officers inside the force describe [music] it as a structural cut. Despite Microsoft's desperate attempts at negotiating, the only option was walking away. A 40% drop in total cost of ownership is the number that really matters. This covers everything from licensing and support contracts to training and the costs of running US software inside government walls. The force runs cheaper now and the vendor sits entirely outside the chain. Internal reports point to no real performance hit, no measurable downtime, and zero productivity drop. In some cases, the numbers actually improved."
+    },
+    {
+      "id": 63,
+      "debut": 2888.32,
+      "fin": 2932.52,
+      "temps_estime": false,
+      "titre": "Microsoft loses a revenue stream",
+      "resume": "Microsoft watched a recurring revenue stream from a security-sensitive institution disappear with no last-minute discount, while French teams came to own the OS, patch pipeline and deployment toolchain. The exit is structural rather than cyclical and the money stays in France.",
+      "mots_cles": [
+        "Microsoft",
+        "lost revenue",
+        "patch pipeline",
+        "deployment toolchain",
+        "structural exit",
+        "French budget",
+        "Silicon Valley",
+        "discount"
+      ],
+      "texte": "And Microsoft, they saw a recurring revenue stream from one of Europe's most security-sensitive institutions evaporate. No last-minute discount package showed up. No senior account manager flew in from Seattle. By the time the eviction was visible from the outside, the internal teams already owned the operating system. They owned the patch pipeline. They owned the deployment tool chain end to end. [music] That makes the exit structural rather than cyclical. Even if a future French administration wanted to walk it back, the institutional muscle now lives entirely inside the gendarmerie. Every dollar that used to fund Silicon Valley shareholder returns now stays inside [music] French borders. The lesson Microsoft seems to have absorbed is uncomfortable. France did not ask for a better deal, and that was the whole"
+    },
+    {
+      "id": 64,
+      "debut": 2932.52,
+      "fin": 3017.72,
+      "temps_estime": false,
+      "titre": "Chapter two: the telemetry black hole",
+      "resume": "The bigger reason, the speaker says, was data leakage: Windows telemetry sends diagnostics, crash reports and app usage to Microsoft servers and cannot be fully disabled in standard configurations. Across 103,000 endpoints the metadata could reveal operational patterns, a live picture of how a G7 nation polices itself.",
+      "mots_cles": [
+        "Windows telemetry",
+        "metadata",
+        "diagnostics",
+        "Gendarmerie",
+        "103,000 endpoints",
+        "data leak",
+        "G7",
+        "cannot be disabled"
+      ],
+      "texte": "problem. But money turned out to be only half of the story. Chapter two, the telemetry black hole. The bigger reason was a data hemorrhage that almost nobody talks about openly. Modern Windows includes built-in telemetry that collects device diagnostics, crash reports, and app usage data, which can then be sent back to Microsoft servers. It's mainly used for stability and security. Microsoft documents these systems in its privacy materials, and parts of the data flow attract a lot of attention. A portion of this telemetry is baked into the operating system, and while users can reduce what's shared, it can't fully be disabled in standard configurations. You aren't crazy for feeling like your computer is spying on you and forcing upgrades. It is a documented business model. For everyday users, it's mostly just background noise, but for organizations handling sensitive data, it can be seen as something closer to a live intelligence breach. [music] Their working assumption is that any data leaving the device is no longer under government control. Even if content never leaves the box, the metadata trail and the activity patterns do, [music] and that can be enough. It can reveal operational frequency, investigative priorities, and the details of sensitive operations. Put all of that together across 103,000 endpoints, and you end up with a continuously updating picture of how a G7 nation polices itself, all refreshing in real time. Once the data leaves the national infrastructure, recall is effectively impossible. It"
+    },
+    {
+      "id": 65,
+      "debut": 3017.72,
+      "fin": 3086.93,
+      "temps_estime": false,
+      "titre": "The US Cloud Act and keeping data inside France",
+      "resume": "The 2018 US Cloud Act lets American authorities compel US cloud providers to hand over server data wherever it is located, overriding French law. The custom Linux build sends no diagnostics outside, keeps logs on national infrastructure and uses audits, a mindset spreading in European procurement in 2026.",
+      "mots_cles": [
+        "Cloud Act",
+        "2018",
+        "US law",
+        "French intelligence",
+        "data sovereignty",
+        "custom Linux",
+        "audit",
+        "European digital policy"
+      ],
+      "texte": "gets worse. A US law quietly overrides France's own. The Cloud Act passed in 2018 gives American authorities legal mechanisms to force US-based cloud providers to hand over server data on demand. The physical location of those servers anywhere in the world doesn't change that. For French intelligence services, this isn't a hypothetical concern. It is written law in another country that overrides their own. No vendor relationship or contract clause can [music] amend it. Plugging that corporate data leak was the second motive behind the migration. The custom Linux build used by the gendarmerie doesn't automatically send usage or diagnostic information out to outside companies. Any diagnostics, logs, or crash information is kept inside national infrastructure run by the French government engineers. The idea is simple. [music] No operational data leaves the country and audit checks are used to confirm that. That kind of enforcement has shifted how these systems are viewed. Suspicion of your own workstation is no longer a French concern held by privacy specialists. It's becoming a working assumption behind European digital policy in 2026. Public sector procurement contracts across the continent are starting to"
+    },
+    {
+      "id": 66,
+      "debut": 3086.93,
+      "fin": 3163.03,
+      "temps_estime": false,
+      "titre": "Chapter three: forced hardware obsolescence",
+      "resume": "Windows 11 requires TPM 2.0, an approved CPU generation, minimum RAM and Secure Boot, and Windows 10 support ended in October 2025, pushing hundreds of millions of working machines toward replacement. The speaker cites hundreds of billions of dollars and thousands of tons of e-waste, turning refresh cycles into budget events for schools, hospitals and governments.",
+      "mots_cles": [
+        "forced obsolescence",
+        "TPM 2.0",
+        "Windows 11 requirements",
+        "Windows 10 end of support",
+        "e-waste",
+        "hardware refresh",
+        "hundreds of billions",
+        "budget"
+      ],
+      "texte": "reflect that. Chapter three, the hardware rescue. Microsoft's most profitable trick has a fairly clinical name, forced hardware obsolescence. Windows 11 ships with a hardware compatibility wall built directly into its installation requirements. Machines need a trusted platform module 2.0 chip. They need [music] a specific generation of approved CPU, a minimum amount of RAM, and secure boot capability. Computers that fail any single check get blocked from upgrading. The deadline that turned this into a global issue was Windows 10 reaching end of support in October 2025. [music] At that point, hundreds of millions of fully functioning machines around the world were effectively pushed toward replacement or upgrade, not because the hardware had failed, but because one vendor's product roadmap had moved on according to a schedule set in Redmond, Washington. The bill ran into the hundreds of billions of dollars and thousands of tons of electronic waste. Working desktops and fully capable laptops were suddenly destined for the landfill or fire sale liquidation. Corporate IT departments, school districts, hospital networks, and city governments [music] all faced the same uncomfortable choice. Keep running unsupported software with mounting security risks or write huge capital expenditure checks for new hardware. The refresh cycle stopped being a technical question and turned"
+    },
+    {
+      "id": 67,
+      "debut": 3163.03,
+      "fin": 3216.63,
+      "temps_estime": false,
+      "titre": "France bypasses the upgrade cycle",
+      "resume": "The custom Linux build has no strict hardware cutoffs, so older equipment stays in use as police terminals instead of being replaced every five to seven years. Savings are redirected to staffing, training and field operations, and the 40% savings includes the cycle of refreshes, procurement, retraining and disposal.",
+      "mots_cles": [
+        "upgrade cycle",
+        "older hardware",
+        "Linux",
+        "hardware lifespan",
+        "budget redirection",
+        "40% savings",
+        "procurement",
+        "depreciation"
+      ],
+      "texte": "into a budget event. But [music] France bypassed the upgrade cycle entirely. The custom Linux build doesn't impose strict hardware cutoffs. That's why older equipment is still treated as a fully usable police terminal. Under a different software roadmap, the same machine might already be marked for replacement and written off. Over time, that decision reduces replacement costs and the savings build up each year. Existing machines stay in use longer instead of being replaced on a fixed schedule every five to seven years. The money that would have gone into new equipment is instead retained in the public budget and redirected toward things [music] like staffing, training, and field operations. And that brings the 40% savings back into focus. It was never just about licensing. That [music] cost is only the most visible part. The less obvious expenses come from the cycle around it. Constant hardware refreshes, procurement contracts, retraining users, managing disposal and depreciation schedules. Over time, those"
+    },
+    {
+      "id": 68,
+      "debut": 3216.63,
+      "fin": 3261.23,
+      "temps_estime": false,
+      "titre": "E-waste as a sales tactic",
+      "resume": "Fewer replacements mean less transport emissions and e-waste, though France did not act for environmental reasons. The speaker says compatibility rules encourage regular hardware upgrades on Microsoft's schedule, and a G7 police force shows a way around it on equipment Microsoft no longer supports.",
+      "mots_cles": [
+        "e-waste",
+        "environmental impact",
+        "compatibility rules",
+        "hardware upgrades",
+        "Microsoft schedule",
+        "G7",
+        "unsupported hardware"
+      ],
+      "texte": "pieces lock governments into upgrade timelines, whether they need them or not. The environmental impact follows from that, even if it wasn't the primary goal. Fewer replacements mean fewer transport emissions and less electronic waste. France didn't adopt the approach from environmental messaging, but reduced turnover naturally lowers the footprint. Look closely and the e-waste cycle starts to look like a sales tactic. The compatibility rules are part of what keeps the cycle going. In practice, they tend to encourage regular upgrades to newer hardware on Microsoft schedule. The way around that isn't theoretical or confined to planning documents. It's already being done inside a major G7 countries police force using systems that run on equipment Microsoft no longer officially supports."
+    },
+    {
+      "id": 69,
+      "debut": 3261.23,
+      "fin": 3330.63,
+      "temps_estime": false,
+      "titre": "Chapter four: Schleswig-Holstein ditches Microsoft",
+      "resume": "The northern German state of Schleswig-Holstein is replacing Microsoft on 30,000 government computers with LibreOffice, open source email and calendars and Nextcloud hosted in Germany. The ministry calls it a safety net against licensing fights and data leaks, with about €30 million for the transition and expected savings of €16.5 million a year.",
+      "mots_cles": [
+        "Schleswig-Holstein",
+        "Germany",
+        "30,000 computers",
+        "LibreOffice",
+        "Nextcloud",
+        "€30 million",
+        "€16.5 million",
+        "digital sovereignty"
+      ],
+      "texte": "Now other countries are noticing. Chapter four, the sovereign contagion. Schleswig-Holstein is the most northern state in Germany. On paper, it's pretty quiet place to kick off a software revolt. That's part of the reason most people outside of the tech press missed it. The state just kicked off the biggest Microsoft eviction Germany has ever seen. They're going after 30,000 government computers used by civil servants, judges, and state police. The plan is to rip out the whole Microsoft setup. What goes in its place is a stack of open Linux tools. LibreOffice handles the office work. Open source email and calendar systems take the rest. Their next cloud platforms run on servers that sit inside Germany itself. The state's Digital Affairs Ministry called the project a long-term safety net, a way to dodge future licensing fights and head off future data leaks. A way to stay ahead of European data protection law. Migrating tens of thousands of users is not cheap. The state parliament allocated roughly €30 million to cover the grueling multi-year transition, but once it's complete, the [music] state expects to save €16.5 a year on licensing. That's money that's going back into the budget rather than into Microsoft's European books. The"
+    },
+    {
+      "id": 70,
+      "debut": 3330.63,
+      "fin": 3371.43,
+      "temps_estime": false,
+      "titre": "Phased rollout and political durability",
+      "resume": "The Schleswig-Holstein rollout runs in three waves from general administration to regional departments and municipal systems, each followed by a 90-day stabilization period. Reversing it would mean reintroducing recurring costs and rebuilding integrated systems, so the shift is framed as long-term digital independence.",
+      "mots_cles": [
+        "Schleswig-Holstein",
+        "rollout waves",
+        "90-day stabilization",
+        "digital independence",
+        "political durability",
+        "government IT",
+        "recurring costs"
+      ],
+      "texte": "rollout is structured in waves. The first covers general administrative workstations. The second focuses on specialized regional departments, and the third extends to more complex municipal systems. Each phase includes a 90-day [music] stabilization period during which issues are logged and engineers refine the deployment image before moving on to the next group. The political durability is what makes the project strategically important. In places like Schleswig-Holstein, the shift has been framed less as a short-term initiative and more as a long-term digital independence. Future governments could in theory change direction, but doing so would mean reintroducing significant recurring costs and rebuilding systems already integrated into day-to-day operations."
+    },
+    {
+      "id": 71,
+      "debut": 3371.43,
+      "fin": 3432.03,
+      "temps_estime": false,
+      "titre": "The collapsing excuse and shifting pricing power",
+      "resume": "With a nuclear-armed G7 country's police and a German state with 30,000 computers off Windows, the excuse that no alternative exists has nearly collapsed, which the speaker says is what scares big tech. A government with internal numbers on life without the contract arrives with a roadmap to leave, and pricing power shifts.",
+      "mots_cles": [
+        "no alternative excuse",
+        "Silicon Valley sales pitch",
+        "negotiation",
+        "pricing power",
+        "France",
+        "Microsoft",
+        "exit roadmap",
+        "government customers"
+      ],
+      "texte": "The pattern these two cases set up is getting harder to argue with. A nuclear-armed G7 country runs its top police force without Windows. A German state with 30,000 government computers follows the exact same path. The corporate excuse used to be that no real alternative existed. That excuse has just about collapsed, but the lost license money isn't what scares big tech. It's the idea every Silicon Valley sales pitch is built on that there is no real alternative. And once that crack shows up in public, backed by hard numbers, the power dynamic flips. Every American software company feels it. A French ministry sitting across from a Microsoft rep in 2026 already has internal numbers in hand. Those numbers show exactly what life looks like without the contract. [music] They have proof they can run the whole operation without the product. Negotiation dynamics flip overnight. The vendor used to dictate the terms while the customer asked for discounts. Now the customer arrives with a roadmap to leave. Pricing power moves across the table. The"
+    },
+    {
+      "id": 72,
+      "debut": 3432.03,
+      "fin": 3477.93,
+      "temps_estime": false,
+      "titre": "Europe's software spending shifts to local vendors",
+      "resume": "European office, chat and login software companies report jumps in government calls, open source groups are getting ministry funding and European cloud firms win deals once destined for American giants. The Netherlands, Italy and Spain are reviewing their own systems.",
+      "mots_cles": [
+        "European software",
+        "open source funding",
+        "European cloud",
+        "Netherlands",
+        "Italy",
+        "Spain",
+        "government procurement",
+        "ministries"
+      ],
+      "texte": "knock-on effects of European software is already showing up. European companies that sell office software say their government calls have jumped sharply. Same goes for the teams behind chat tools and login systems. [music] Open source groups that build free office software are getting real funding now. That money comes from ministries that used to give them nothing. European cloud companies are winning deals across the board. Those same deals would have gone straight to American giants two years ago. The money France and Schleswig-Holstein pulled out of Microsoft isn't just sitting in a bank. It's getting plowed back into European tech firms who until recently couldn't even get a seat [music] at the table. Now other European capitals are watching closely. The Netherlands, Italy, Spain, they're all looking to review their current system. The [music] pattern keeps spreading. Each one adds another"
+    },
+    {
+      "id": 73,
+      "debut": 3477.93,
+      "fin": 3508.23,
+      "temps_estime": false,
+      "titre": "The lesson scales down to your laptop",
+      "resume": "The same open source software used by a national police force is free and installable in an afternoon, and its telemetry resistance and hardware life extension work for households too. The blueprint scales down as cleanly as it scales up, saving a single user the cost of a new computer.",
+      "mots_cles": [
+        "open source",
+        "personal laptop",
+        "telemetry resistance",
+        "hardware life extension",
+        "install Linux",
+        "household",
+        "blueprint",
+        "cost savings"
+      ],
+      "texte": "data point to the curve. This eventually matters for your laptop, too. The personal scale lesson hidden inside the operation is straightforward enough. The same open source software that runs a national police force is freely available. Anyone with a laptop in an afternoon could install it. The same telemetry resistance that protects French intelligence operations protects an ordinary household. The hardware life cycle extension that saved France hundreds of millions saves a single user the cost of a brand new computer. The blueprint scales down as cleanly as it"
+    },
+    {
+      "id": 74,
+      "debut": 3508.23,
+      "fin": 3555.33,
+      "temps_estime": false,
+      "titre": "France's move as financial, security and hardware play",
+      "resume": "The speaker sums up France's decision as a financial play, a security operation and a hardware policy in one procurement decision, with a 40% headline saving plus intelligence integrity, longer hardware life and budget redirection. He says the era of unavoidable software monopolies is cracking and Silicon Valley's nightmare is users realizing they don't need it.",
+      "mots_cles": [
+        "France",
+        "40% cost reduction",
+        "software monopolies",
+        "Microsoft tax",
+        "European capitals",
+        "intelligence integrity",
+        "hardware life",
+        "lock-in"
+      ],
+      "texte": "scales up. Pull all this together and the full shape of what France pulled off becomes visible. A financial play, a security operation, a hardware policy, all executed at once through a single procurement decision. The 40% cost reduction is the headline number. Underneath it sit other gains, intelligence integrity, extended hardware life, budget redirection. The whole move keeps reinforcing itself across multiple political cycles. The era of unavoidable software monopolies is cracking. [music] France broke the corporate lock in on a national scale. Every other European capital can copy it. The excuse for paying the Microsoft tax is gone. It shows that Silicon Valley's nightmare isn't a competitor, it is you realizing you don't need them at all. But the real story just in the"
     }
   ]
 }
