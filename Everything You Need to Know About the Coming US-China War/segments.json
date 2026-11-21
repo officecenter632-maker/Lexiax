@@ -1,0 +1,897 @@
+{
+  "version": 1,
+  "video_id": "Ou_ZjQLUPoo",
+  "titre_video": "Everything You Need to Know About the Coming US-China War",
+  "duree_s": 11085.31,
+  "avancement": {
+    "lignes_traitees": 1119,
+    "fin_traitee_s": 2297.92,
+    "nb_lignes_total": 5625,
+    "complet": false
+  },
+  "nb_segments": 49,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.8,
+      "fin": 52.9,
+      "temps_estime": true,
+      "titre": "DARPA Manta Ray: a stealthy underwater hunter drone",
+      "resume": "The video opens with a scenario of an American-built underwater drone shaped like a giant manta ray, as large as a small fishing vessel, with no propellers and a tail-like fin. It uses submarine-grade silencing technology, is designed to be expendable and is hunting for prey.",
+      "mots_cles": [
+        "Manta Ray drone",
+        "underwater drone",
+        "stealth",
+        "expendable",
+        "silencing technology",
+        "DARPA",
+        "unmanned submarine"
+      ],
+      "texte": "It's so quiet that even regular marine life mistakes it as just one of its own. Yet, the American built underwater drone is large enough to deter any curious would-be predator, which all give it a wide berth. This unique vehicle is about the size of a small commercial fishing vessel, but when seen from above, it looks like a giant manta ray cruising the world's oceans. It has no propellers, and the only visible oddity that marks the underwater vehicle as artificial to a casual observer is the large fin that sticks up in the back like an aircraft tail. It's a predator unlike anything else in the ocean. The same silencing technology that makes American submarines legendarily quiet has gone into its construction. Though it's designed to be expendable, this makes it perfect for penetrating deep into dangerous enemy waters and carrying out the most dangerous of missions. This artificial fish is currently on the hunt for prey."
+    },
+    {
+      "id": 2,
+      "debut": 52.9,
+      "fin": 73.9,
+      "temps_estime": true,
+      "titre": "Passive sonar hunt for a Chinese attack submarine",
+      "resume": "The drone carries passive and active sonar and highly classified sensors, cruising on passive sonar only to find a Chinese attack submarine. When it finds one, it has weapons to strike.",
+      "mots_cles": [
+        "passive sonar",
+        "active sonar",
+        "classified sensors",
+        "Chinese attack submarine",
+        "hunter-killer drone",
+        "torpedo"
+      ],
+      "texte": "The vehicle features both passive and active sonar, but it's currently cruising along at several knots using only its passive sonar and a host of highly classified sensors, all tuned into catching one of the biggest fish in the ocean, a Chinese attack submarine. And when it finds one, this predator has teeth with which to strike."
+    },
+    {
+      "id": 3,
+      "debut": 73.9,
+      "fin": 123.59,
+      "temps_estime": false,
+      "titre": "The US Ghost Fleet and AI signature matching",
+      "resume": "The US manned fleet is stretched thin across millions of square miles and can only bring a portion of its navy to a Pacific fight. The Ghost Fleet of over 100 semi or fully autonomous vessels backs it up, and the drone's AI compares sensor data against a library of Chinese vessel signatures.",
+      "mots_cles": [
+        "Ghost Fleet",
+        "unmanned vessels",
+        "US Navy stretched thin",
+        "Pacific",
+        "AI signature library",
+        "autonomous warships",
+        "Chinese vessels"
+      ],
+      "texte": "Up above the waves, the US manned fleet is stretched thin, trying to cover millions of square miles of ocean to keep the Chinese submarines away from shipping routes or even friendly ports back home, only being able to bring a portion of its total navy to the fight in the Pacific. The United States has been working on a backup plan for years, the [music] ghost fleet, the fleet of unmanned vehicles, numbers over 100 semi or completely autonomous vessels, from surface combatants to mobile missile batteries, capable of backing up everything from manned warships to underwater hunters tasked with locating, tracking, and sometimes even destroying Chinese vessels both above and below the surface. The artificial intelligence powered artificial manta ray runs all of its sensory data against a library of known signatures from Chinese vessels until finally there's a"
+    },
+    {
+      "id": 4,
+      "debut": 123.59,
+      "fin": 160.29,
+      "temps_estime": true,
+      "titre": "Silent approach, biomimicry and onboard AI",
+      "resume": "The drone silently accelerates toward its target, copying the movement and shape of manta rays, while the Chinese submarine's electronic warfare gear fails to detect its almost nonexistent emissions. Onboard AI makes the decisions a human operator would normally make.",
+      "mots_cles": [
+        "biomimicry",
+        "manta ray design",
+        "electronic warfare",
+        "low emissions",
+        "onboard AI",
+        "silent drone",
+        "sub hunting"
+      ],
+      "texte": "The big underwater drone banks silently and accelerates toward its target. Yet even at top speed, it barely emits a whisper as it glides through the water. Nature has spent hundreds of millions of years achieving aquatic perfection, and the Americans are apt in their studies, emulating the natural movement and the design of manta rays for this sub hunting drone. The Chinese submarine is busy listening for potential prey or predators [music] with a delicate suite of electronic warfare equipment specifically designed to sniff out enemy drones. However, the artificial manta ray gives off almost no electronic emissions. Onboard AI handles all the decisions a human operator would normally make."
+    },
+    {
+      "id": 5,
+      "debut": 160.29,
+      "fin": 217.89,
+      "temps_estime": true,
+      "titre": "98% confidence rule and torpedo launch",
+      "resume": "The drone engages known threats automatically only above 98% confidence; otherwise it surfaces and sends a microburst satellite transmission so a human decides. Here the AI is 100% confident, identifies the exact submarine and releases a torpedo from its belly weapons bay.",
+      "mots_cles": [
+        "98% confidence",
+        "human in the loop",
+        "satellite microburst",
+        "torpedo launch",
+        "acoustic signature",
+        "autonomous engagement",
+        "weapons bay"
+      ],
+      "texte": "The vehicle is designed to engage known threats automatically, but only if it has a confidence rate of above 98%. If it's in any way in doubt about its target, the big drone will instead silently rise to the surface and extend a satellite antenna to send a micro burst transmission to an orbiting satellite, relaying its location and the location of the tracked hostile. From there, a human operator will make the decision on what to do next. The drone can either follow the hostile or directly engage it. This time though, the AI is 100% confident about its target. The Chinese submarine has unique acoustic signatures, and the drone is now in proximity to detect it with enough fidelity that it can even identify the exact submarine it's currently hunting. The AI selects a torpedo from its belly mounted weapons bay, and a few seconds later, the weapon is silently released into the water. A second after that, the torpedo's battery brings its propulsion to life, and the deadly fish is on route to its target."
+    },
+    {
+      "id": 6,
+      "debut": 217.89,
+      "fin": 279.64,
+      "temps_estime": true,
+      "titre": "Countermeasures, fiber optic guidance and the sub's end",
+      "resume": "Both drone and torpedo switch on active sonar, and the Chinese boat ejects noisemaker countermeasures. The drone, linked to the torpedo by fiber optic cable, corrects its course to ignore the decoys, and the captain can only order an emergency surfacing.",
+      "mots_cles": [
+        "countermeasures",
+        "noisemakers",
+        "fiber optic cable",
+        "torpedo guidance",
+        "emergency surfacing",
+        "Chinese submarine",
+        "active sonar"
+      ],
+      "texte": "There's no need to hide anymore, and both the drone and the torpedo turn on their active sonar. The Chinese boat is immediately alerted and then terrified to discover just how close the American drone is. The confirmation of a torpedo in the water sends a chill down the captain's spine. There is little hope of evading such a close range shot, but the submarine immediately ejects countermeasures. Noise makers are ejected from the openings along the hull into the water, creating an extremely attractive sonar signature for both the drone and the torpedo. The torpedo is lured towards a noisemaker by the juicy sonar return, but the drone's artificial intelligence has identified the sudden spike in noise as countermeasures. It's still linked to the torpedo with a long enough fiber optic cable that spools out behind the torpedo as it travels through the water, and it relays commands to the torpedo to correct its course and ignore the countermeasures. The Chinese captain's face goes pale. [music] There's nothing he can do now but order the boat to perform an emergency surfacing. Hopefully, they'll be near enough to surface when the torpedo strikes that most of the crew can escape the doomed submarine."
+    },
+    {
+      "id": 7,
+      "debut": 279.64,
+      "fin": 299.18,
+      "temps_estime": true,
+      "titre": "Why the US wants a massive naval drone expansion",
+      "resume": "The scenario illustrates how America's sub-hunting drone could be used in a Pacific war against China. Many nations pursue drone programs, but the US has made a massive expansion of naval drones a priority to ensure stability in the South Pacific.",
+      "mots_cles": [
+        "naval drones",
+        "expansion priority",
+        "Pacific war scenario",
+        "drone programs",
+        "South Pacific stability",
+        "US Navy",
+        "China"
+      ],
+      "texte": "The proceeding is a potential scenario where America's new sub-hunting drone could be used in case of a war in the Pacific against China. While many nations are pursuing drone programs for land, sea, subsea, and air applications, the United States has identified a need for a massive expansion of naval drones as a priority to ensure stability in the South Pacific. [music]"
+    },
+    {
+      "id": 8,
+      "debut": 299.18,
+      "fin": 365.52,
+      "temps_estime": true,
+      "titre": "China's aggression in the South China Sea",
+      "resume": "China's hostile foreign policy includes bullying neighbors over energy and fish resources, and even Vietnam has sided with the US. Examples include the Chinese navy wounding Filipino sailors resupplying a shoal and a Chinese destroyer using sonar at full power that injured Australian divers.",
+      "mots_cles": [
+        "South China Sea",
+        "Philippines",
+        "Vietnam",
+        "Australian divers",
+        "sonar injury",
+        "Chinese navy",
+        "red line",
+        "hostile policy"
+      ],
+      "texte": "This comes as a result of China's increasingly hostile foreign policy in the South China Sea and in neighboring waters, with the nation bullying its neighbors for access to rich energy and fish resources [music] that fall outside of China's own territorial waters. The situation is so tense that even Vietnam has thrown its lot in with the US [music] in an attempt to fend off China's aggression on the high seas. Earlier this year, the Chinese navy wounded several Filipino sailors as they attempted to resupply Filipino troops stationed on a shoal inside the Philippines' own territorial waters that are claimed by China. The move has prompted many to wonder where the red line is that will lead to open conflict. And it's not just its weaker regional neighbors that China is picking on. Last year, a Chinese destroyer pulled up alongside an Australian military vessel whose prop had been fouled by discarded fishing nets. The Australian captain alerted the Chinese ship that he had divers in the water, as is normal procedure. Rather than offer assistance as any other nation navy would do, the Chinese captain instead ordered his ship's sonar to be briefly run at full power, injuring the Australian divers."
+    },
+    {
+      "id": 9,
+      "debut": 365.52,
+      "fin": 399.4,
+      "temps_estime": true,
+      "titre": "Chinese naval numbers vs US quality and global commitments",
+      "resume": "With tensions over Taiwan, conflict seems all but certain, and the US must make up for its lack of numbers. China's navy outnumbers the US but most ships are unsuited for open water; US ships carry more missiles, yet the US has global commitments and can only bring part of its fleet.",
+      "mots_cles": [
+        "Taiwan tensions",
+        "Chinese navy numbers",
+        "US ships missiles",
+        "global commitments",
+        "fleet strength",
+        "China gap closing",
+        "naval balance"
+      ],
+      "texte": "Add in ever mounting tensions with Taiwan and a conflict with [music] China seems all but certain. But if the US is to face off against China, it needs to make up for its lack of numbers. Currently, the Chinese navy outnumbers the Americans, but most Chinese ships are not suited for open water operations. Despite their superior numbers, US ships are still better equipped and bring more missiles to the fight, but China is slowly closing that gap. To make matters worse, the US Navy has global commitments it just cannot abandon, and thus it can only bring a portion of its full strength into a fight with China."
+    },
+    {
+      "id": 10,
+      "debut": 399.4,
+      "fin": 417.77,
+      "temps_estime": true,
+      "titre": "Ghost Fleet and the Manta Ray: 100 large unmanned platforms by 2030",
+      "resume": "The Ghost Fleet and DARPA's Manta Ray are meant to offset the numbers gap, with about 100 large unmanned platforms planned by 2030. The Army and Marines are likewise seeking thousands of drones within two years.",
+      "mots_cles": [
+        "Ghost Fleet",
+        "Manta Ray",
+        "100 unmanned platforms",
+        "2030",
+        "Army Marines drones",
+        "DARPA",
+        "numbers gap"
+      ],
+      "texte": "This is where the Ghost Fleet and DARPA's new Manta Ray drone come into play. The US is looking to add approximately 100 large unmanned platforms to its naval inventory by 2030, following a similar push by the US Army and Marines, which are looking to acquire thousands [music] of drones within the next two years."
+    },
+    {
+      "id": 11,
+      "debut": 417.77,
+      "fin": 461.36,
+      "temps_estime": true,
+      "titre": "Air Force and Navy drone concepts: loyal wingmen and AI",
+      "resume": "The Air Force is building collaborative combat aircraft alongside a sixth generation fighter acting as a mothership for expendable drones. The Navy mirrors this with larger drones using AI to act semi or fully autonomously, supplementing the manned fleet and entering waters too dangerous for ships.",
+      "mots_cles": [
+        "collaborative combat aircraft",
+        "sixth generation fighter",
+        "mothership",
+        "expendable drones",
+        "naval drones",
+        "semi-autonomous",
+        "leveling the playing field"
+      ],
+      "texte": "The Air Force was already planning to integrate drones in its future air fleets, with the collaborative combat aircraft concept being in development for years now alongside the next generation air dominance fighter. This sixth generation fighter will act as a mothership for a small fleet of expendable drones, which can then perform more dangerous tasks that the manned fighter would be at too great a risk for. The navy's approach to drone warfare mirrors the Air Forces in that it's acquiring larger drones equipped with advanced artificial intelligence that will allow them to act either semi-autonomously or fully autonomously. This Ghost Fleet will supplement the manned fleet, [music] leveling the playing field against superior Chinese numbers and allowing the navy to send drones into waters too dangerous for manned ships."
+    },
+    {
+      "id": 12,
+      "debut": 461.36,
+      "fin": 510.86,
+      "temps_estime": true,
+      "titre": "Anti-submarine warfare: Cold War strength and post-Soviet decline",
+      "resume": "DARPA has focused on anti-submarine warfare, which the US mastered during the Cold War against Soviet submarines threatening reinforcements to Europe. After the Soviet collapse its ASW skills atrophied, so the US borrowed a Swedish submarine and crew to retrain, and the vast ocean makes ASW tedious.",
+      "mots_cles": [
+        "anti-submarine warfare",
+        "ASW",
+        "Cold War",
+        "Soviet submarines",
+        "atrophied capability",
+        "Swedish submarine",
+        "DARPA"
+      ],
+      "texte": "One key area in which naval drones will excel is where American Defense Advanced Research Projects Agency has been focusing many of its efforts, [music] anti-submarine warfare. With threats of the Soviet Union submarines breaking out into the Atlantic and destroying US reinforcements on their way to Europe, the US placed major emphasis on anti-submarine warfare or ASW during the Cold War, becoming an expert in identifying, tracking, and hunting down these elusive assets. However, after the fall of the Soviet Union and with no major competitors on the horizon, the US's ASW capabilities atrophied to embarrassing levels, prompting [music] the US to borrow a Swedish submarine and its crew for an extended training regimen [music] meant to restore the Navy's ASW proficiency. But the ocean is vast and ASW can be very tedious."
+    },
+    {
+      "id": 13,
+      "debut": 510.86,
+      "fin": 566.2,
+      "temps_estime": true,
+      "titre": "Manta Ray program history: contracts, Lockheed exit, PacMar tests",
+      "resume": "The Manta Ray is designed to sniff out enemy submarines and track other threats. DARPA awarded contracts in 2020 to Lockheed Martin, Northrop Grumman and Navatek for an autonomous vehicle that harvests its own energy; Lockheed dropped out in 2021 and Navatek, now PacMar Technologies, began open water prototype tests in September 2023.",
+      "mots_cles": [
+        "Manta Ray program",
+        "DARPA contracts 2020",
+        "Lockheed Martin",
+        "Northrop Grumman",
+        "Navatek PacMar",
+        "prototype testing",
+        "autonomous underwater vehicle"
+      ],
+      "texte": "This is where DARPA's Manta Ray comes into play. The stealthy drone is designed to sniff out enemy submarines, though it's capable of tracking and identifying other threats as well. The path to the creation of the Manta Ray began back in 2020 when DARPA awarded contracts to Lockheed Martin, Northrop Grumman, and Navatek to begin development on a new type of drone. DARPA gave the defense contractors a description of what it wanted, an autonomous underwater vehicle able to operate on its own, harvest its own energy, and complete a variety of missions autonomously. A year later, Lockheed Martin dropped out of the race and DARPA awarded Northrop Grumman and Navatek contracts to develop a full-scale technology demonstrator. In September 2023, Navatek, now known as PacMar Technologies, began testing a smaller-scale prototype in open water to verify the effectiveness of its sensor suite and its ability to carry out autonomous tasks without human guidance."
+    },
+    {
+      "id": 14,
+      "debut": 566.2,
+      "fin": 607.59,
+      "temps_estime": true,
+      "titre": "Northrop Grumman's full-scale demonstrator and modularity",
+      "resume": "Northrop Grumman unveiled a full-scale technology demonstrator with a sea glider shape resembling a stealth bomber. It is highly modular, easy to ship by transport aircraft and assemble on site, saving pier space and avoiding specialized technicians in the vast Pacific.",
+      "mots_cles": [
+        "Northrop Grumman",
+        "technology demonstrator",
+        "sea glider",
+        "modular design",
+        "transport aircraft",
+        "pier space",
+        "Pacific logistics"
+      ],
+      "texte": "Northrop Grumman, however, seems to have beaten PacMar to the punch, unveiling a full-scale technology demonstrator ready for open water trials. Dubbed the Manta Ray, the drone utilizes a sea glider shape that makes it look like a stealth bomber. The drone's been touted as being highly modular, which means it's easy to ship to wherever it's needed and easy to assemble once on location. This is important to the Navy as it allows it to use transport aircraft to bring the drone wherever it's needed quickly and saves valuable pier space that other ships need. Ease in assembly also means that specialized technicians don't need to be present in theater wherever the drone is deployed, a key benefit given the vast size of the Pacific Ocean where it's expected to serve the most."
+    },
+    {
+      "id": 15,
+      "debut": 607.59,
+      "fin": 645.75,
+      "temps_estime": true,
+      "titre": "Full autonomy and self-generated power requirements",
+      "resume": "The Navy required full autonomy so the drone would not add workload for sailors or need extra trained personnel, using AI to work alongside but independently of other vessels. It must also be self-sufficient, a fire and forget weapon able to generate its own electricity and escape logistics chains.",
+      "mots_cles": [
+        "full autonomy",
+        "AI",
+        "self-sufficient",
+        "fire and forget",
+        "generate electricity",
+        "logistics chains",
+        "Navy requirement"
+      ],
+      "texte": "The Manta Ray features something truly extraordinary for any drone. A key requirement from the Navy was full autonomy for the drone. The Navy didn't want a drone that was just going to add more workload for its sailors or require additional personnel to be recruited and trained in its operation. This is where artificial intelligence comes into play, allowing the drone to work alongside but independently of other vessels. But that's not all the autonomy that the Navy wanted because the drone has to be completely self-sufficient as well. It is the [music] ultimate fire and forget weapon with the Manta Ray featuring the ability to actually generate its own electricity and thus removing it from complicated logistics chains."
+    },
+    {
+      "id": 16,
+      "debut": 645.75,
+      "fin": 697.0,
+      "temps_estime": true,
+      "titre": "DARPA's energy management focus and Metron",
+      "resume": "Without self-generated power the Navy would need refueling for drones roaming the Pacific, hard even in peacetime. DARPA prioritized energy management and extreme endurance, bringing in Metron Incorporated to make the same energy go further and conserve it.",
+      "mots_cles": [
+        "energy management",
+        "refueling drones",
+        "extreme endurance",
+        "Metron Incorporated",
+        "energy conservation",
+        "wartime logistics",
+        "DARPA requirement"
+      ],
+      "texte": "This is a massive win for the Navy, [music] especially as otherwise it would face the prospect of having to set up refueling capabilities for drones that could be wandering the entire length and breadth of the Pacific Ocean and beyond. This is hard enough in peacetime, let alone under the stresses of wartime conditions. DARPA placed a premium on energy management when putting out design proposals for the Manta Ray. A requirement for extreme duration and independence [music] means that a premium was placed on how the drone uses its onboard energy reserves, prompting [music] the use of new techniques to minimize energy draw while operational. The effort has even led to the inclusion of Metron Incorporated specifically to work on the drone's energy systems. The effort has been focused on finding ways of making the same amount of energy go even further than ever before and this means a premium on conserving energy in the first place."
+    },
+    {
+      "id": 17,
+      "debut": 697.0,
+      "fin": 773.9,
+      "temps_estime": true,
+      "titre": "Why underwater drones' power is the hard problem",
+      "resume": "The manta shape cuts energy use by slipping through water with a fraction of the power of current drones. Today's underwater drones are tethered to ships or chased by support ships, last only a few days and draw heavy power for propulsion, while the Air Force's drones stay aloft for days, so the Navy wants drones that draw energy from the ocean.",
+      "mots_cles": [
+        "underwater drone power",
+        "tethered drones",
+        "endurance days",
+        "propulsion power draw",
+        "manta shape efficiency",
+        "Air Force comparison",
+        "ocean energy"
+      ],
+      "texte": "The drone's [music] unique Manta Ray shape helps it achieve this reduction in energy draw with its ability to slip through the water in the same manner as its namesake fish using a fraction of the power current drones use. But the drone [music] also needs to generate its own electricity and this might be the most novel piece of tech on board. Currently, underwater drones are either directly tethered to a surface ship from where they draw power or they need to be chased by a support ship that can provide refueling as necessary. With the most long duration drones currently having an operational range of only a few days, this is logistically challenging, especially if the Manta Ray and its mini siblings are meant to travel far and wide in pursuit of hostile submarines. To make matters worse, today's underwater drones have massive power draws, mostly just from their propulsion systems before taking into account things like sensors or payloads. This limits their endurance even more and places a greater logistical burden on the Navy. The Air Force doesn't have this problem thanks to its drone's ability to range widely or use extremely efficient means of propulsion and atmospheric winds to stay aloft for days at a time. The Navy is thus looking to replicate and then surpass the success of airborne drones by engineering them to draw energy directly out of the ocean itself."
+    },
+    {
+      "id": 18,
+      "debut": 773.9,
+      "fin": 808.92,
+      "temps_estime": true,
+      "titre": "Possible power source: ocean currents and a tethered pinwheel",
+      "resume": "Details are classified, but one suspected method is ocean currents: the drone anchors on the seabed and deploys a pinwheel-like device on a tether to convert current energy into electricity. Similar wave and current energy conversion works at large scale, but it is unproven underwater at small scale.",
+      "mots_cles": [
+        "ocean currents",
+        "pinwheel turbine",
+        "tether",
+        "energy conversion",
+        "seabed anchoring",
+        "classified details",
+        "underwater electricity"
+      ],
+      "texte": "Currently, details on the manta ray remain extremely classified, but one of the suspected methods of generating electricity underwater without human assistance is the use of ocean currents themselves. The drone is envisioned dropping down to the bottom of the sea and then anchoring itself in place. It can then deploy a pinwheel-like device on a tether, catching the energy of ocean currents and converting it into an electrical charge. A similar method is already used in generating power around the world, known as wave energy conversion. So the concept is proven to work at large scale. The question is, can it work underwater and on a much smaller scale?"
+    },
+    {
+      "id": 19,
+      "debut": 808.92,
+      "fin": 833.21,
+      "temps_estime": true,
+      "titre": "Possible power source: salinity gradient and reverse electrodialysis",
+      "resume": "Another possibility is salinity gradient power via reverse electrodialysis, or RED. A stack of alternating cathode and anode permselective membranes filled with fresh water and seawater generates electricity from the salinity difference, which the drone can store.",
+      "mots_cles": [
+        "salinity gradient",
+        "reverse electrodialysis",
+        "RED",
+        "membranes",
+        "fresh water seawater",
+        "electricity generation",
+        "drone battery"
+      ],
+      "texte": "Another possibility of producing energy is known as salinity gradient power. The power can be accessed via reversed electrodialysis or RED. RED utilizes a stack of alternating cathode and anode exchanging permselective membranes that are alternatively filled with fresh water and seawater. The difference in salinity between the membranes generates electricity which can be captured and stored by the drone."
+    },
+    {
+      "id": 20,
+      "debut": 833.21,
+      "fin": 865.86,
+      "temps_estime": true,
+      "titre": "Possible power source: underwater refueling stations",
+      "resume": "A third proposal is underwater gas stations called mission unlimited unmanned underwater vehicle stations. Anchored to the seafloor and powered by thermal energy pods that exploit warm and cool current mixing, dozens or hundreds would let drones top off their batteries.",
+      "mots_cles": [
+        "underwater refueling stations",
+        "thermal energy pod",
+        "seafloor anchoring",
+        "drone batteries",
+        "unmanned underwater vehicle stations",
+        "warm and cool currents",
+        "fleet recharge"
+      ],
+      "texte": "Yet a third proposition is to simply create underwater gas stations for a whole fleet of drones known as mission unlimited unmanned underwater vehicle stations. These refueling stations for underwater drones would be spread across the ocean. They would generate power by deploying a thermal energy pod which generates electricity by harnessing the energy produced by the mixing of warm and cooler currents underwater, permanently anchored to the sea floor, the Navy would dispense dozens or even hundreds of these refueling stations where its fleet of unmanned drones could regularly return to top off their batteries."
+    },
+    {
+      "id": 21,
+      "debut": 865.86,
+      "fin": 901.87,
+      "temps_estime": true,
+      "titre": "The communication problem: radio waves and VLF limits",
+      "resume": "Long-range communication with a submerged vehicle is a major obstacle because radio waves cannot travel far through water. Submarines use very low frequency systems linked to five antenna complexes, but VLF bandwidth is very low, which is why autonomy is a key requirement.",
+      "mots_cles": [
+        "underwater communication",
+        "radio waves water",
+        "very low frequency",
+        "VLF antenna",
+        "low bandwidth",
+        "autonomy requirement",
+        "antenna complexes"
+      ],
+      "texte": "A major obstacle for deployment of the Manta Ray and similar drones is the challenge of long-range communications with any submerged vehicle. Due to the conductivity of water, radio waves cannot travel very far below the waves, which is why American submarines utilize very low frequency communication systems that link up with five different antenna complexes the US has built around the world. Manta Ray could be equipped with a VLF antenna as well, but that still limits its ability to communicate given the very low bandwidth associated with those types of communications. This is why autonomy is a key requirement."
+    },
+    {
+      "id": 22,
+      "debut": 901.87,
+      "fin": 945.95,
+      "temps_estime": true,
+      "titre": "Surface antenna, expendable data bubbles and one-way messages",
+      "resume": "The Manta Ray cannot receive detailed instructions or be directly controlled like Air Force drones. Options include a deployable satellite antenna, risky for submarines, or Northrop Grumman's expendable data bubbles that float up and transmit gathered information one way, making AI essential.",
+      "mots_cles": [
+        "deployable antenna",
+        "satellite link",
+        "expendable data bubbles",
+        "one-way communication",
+        "Northrop Grumman",
+        "AI autonomy",
+        "submarine risk"
+      ],
+      "texte": "The Manta Ray simply cannot receive detailed instructions while deployed deep underwater and forget about direct control in the same style as the US Air Force's drone operators. One solution is to equip the Manta Ray with a deployable antenna that can rise up to the surface and connect to orbiting satellites. Many submarines currently utilize such a system for high bandwidth communications, though it comes with significant risk. Northrop Grumman, however, has developed what it calls expendable data bubbles, which the Manta Ray could expel from its body. These devices would then float to the surface and upon breaching the waves, transmit information gathered by the drone. [music] However, this communication would go strictly one way, making artificial intelligence the key to the entire concept working."
+    },
+    {
+      "id": 23,
+      "debut": 945.95,
+      "fin": 978.55,
+      "temps_estime": true,
+      "titre": "Conclusion on the Manta Ray: ASW need and deterrence",
+      "resume": "With Russia and China fielding new submarines, a dramatic expansion of anti-submarine warfare is pressing, and the Manta Ray and similar drones could be the answer. Drones that even generate their own power could give the Navy the edge to deter a costly war, and if war comes the underwater drones will be ready.",
+      "mots_cles": [
+        "anti-submarine warfare",
+        "Russia China submarines",
+        "deterrence",
+        "Manta Ray conclusion",
+        "autonomous drones",
+        "US Navy edge",
+        "underwater Skynet"
+      ],
+      "texte": "With both Russia and China fielding new submarines, the need for a dramatic expansion in anti-submarine warfare is pressing and the Manta Ray, along with a whole family of similar drones, could be the answer. These [music] autonomous drones, autonomous even to the point of generating their own power, could be the edge that the US Navy needs to continue to deter any bad actor from starting an unfortunate war that would end up costing the entire world dearly. However, if such a war does kick off, America's underwater Skynet terminators will soon be ready."
+    },
+    {
+      "id": 24,
+      "debut": 978.55,
+      "fin": 1006.0,
+      "temps_estime": true,
+      "titre": "July 2019 scenario: Chinese build-up and Taiwan hardens its defenses",
+      "resume": "In a hypothetical July 2019, rumors of a Chinese military build-up across the strait reach the press. Taiwan moves command and control into hardened underground facilities, shelters F-16s in mountain bases and sets up dummy missile and anti-aircraft batteries.",
+      "mots_cles": [
+        "Taiwan invasion scenario",
+        "July 2019",
+        "underground command centers",
+        "F-16 mountain bases",
+        "dummy batteries",
+        "Taiwan Strait",
+        "Chinese build-up"
+      ],
+      "texte": "The date is July 2019 and rumors of a military build-up of Chinese forces across the strait from Taiwan begin to leak to the international press. As the 4th of July is celebrated here at home, thousands of miles away, Taiwan begins to move their command and control functions [music] into hardened nuclear-proof underground facilities. F-16s and other strike aircraft are moved into mountain bases and dummy missile batteries and anti-aircraft platforms are set up around the island of Taiwan. [music]"
+    },
+    {
+      "id": 25,
+      "debut": 1006.0,
+      "fin": 1054.31,
+      "temps_estime": true,
+      "titre": "Invasion force massing: DEFCON 3 and commandeered civilian ships",
+      "resume": "By August China is clearly massing an invasion force while Xi Jinping claims to want only peaceful reunification, and the US goes to DEFCON 3. In September China commandeers civilian ships for its 1 million man force, since it lacks amphibious capacity against 100,000 Taiwanese defenders and 2 million reservists.",
+      "mots_cles": [
+        "Xi Jinping",
+        "DEFCON 3",
+        "invasion force",
+        "civilian ships",
+        "amphibious capability",
+        "Taiwanese defenders",
+        "2 million reservists"
+      ],
+      "texte": "August rolls around and by now it's clear to the world that China is indeed massing what looks like an invasion force [music] on its side of the Taiwan Strait. Though the Chinese leader Xi Jinping reassures the world that he's only interested in a peaceful reunification of Taiwan and the mainland, the American military is put at DEFCON 3, which signals the Air Force to be ready to mobilize for a potential nuclear conflict in just 15 minutes. As September comes, the Chinese military has begun commandeering civilian ships in order to help move its 1 million man strong invasion force across the [music] channel. The Chinese military lacks the amphibious capability to move more than a few thousand troops at a time, but in order to face 100,000 Taiwanese defenders [music] and their 2 million reservists, the People's Liberation Army will need every available ship it can get [music] its hands on, no matter how big or small."
+    },
+    {
+      "id": 26,
+      "debut": 1054.31,
+      "fin": 1089.08,
+      "temps_estime": true,
+      "titre": "Taiwan's beach defenses and the US Pacific fleet mobilizes",
+      "resume": "Taiwan mines and wires the only 13 beaches suitable for a landing. The US Pacific fleet mobilizes at DEFCON 2, leave is canceled, Marines head to Australia, Japan and Guam, and carrier groups disperse 1,000 miles offshore to avoid China's ballistic missile coverage.",
+      "mots_cles": [
+        "13 beaches",
+        "mines razor wire",
+        "DEFCON 2",
+        "Pacific fleet",
+        "carrier groups",
+        "ballistic missile coverage",
+        "Marines Guam"
+      ],
+      "texte": "Across the strait, Taiwan has begun littering the only 13 beaches that an invasion force could be landed [music] on with mines, razor wire, and other horrific surprises. The US Pacific fleet is fully mobilized [music] by now and the United States is at DEFCON 2. All military leave is canceled and Marines board transports as they head for bases in Australia, Japan, and Guam. PACCOM's carrier groups disperse [music] 1,000 miles offshore from Taiwan, careful to make sure that they do not stray too deep into the net of ballistic missile coverage that China uses to threaten American naval vessels. There's no hiding China's intentions now."
+    },
+    {
+      "id": 27,
+      "debut": 1089.08,
+      "fin": 1151.44,
+      "temps_estime": true,
+      "titre": "October 3, 2019: the assault begins with missiles and air strikes",
+      "resume": "On October 3, 2019 calm seas open a four-week window for the largest amphibious assault in history. Chinese troops board transports, hundreds of missiles hit radar and control nodes, airfields and power plants, and Taiwanese F-16s from underground bases rise to meet Chinese jets and bombers.",
+      "mots_cles": [
+        "amphibious assault",
+        "October 3 2019",
+        "missile strike",
+        "airfields cratered",
+        "Taiwanese Air Force",
+        "four-week window",
+        "largest amphibious assault"
+      ],
+      "texte": "An invasion of Taiwan is coming [music] and the entire world knows it. Taiwanese troops, supplemented by a few thousand rapid response American [music] forces, dig in for what will be the largest amphibious assault in history. The date is October 3rd, 2019. The seas between Taiwan [music] and China are finally calm again, presenting a narrow four-week opportunity for an amphibious assault that only reoccurs briefly one other time of the year, in May. Chinese troops are rushed to waiting transports. The lucky ones board military amphibious landing craft, while the unlucky ones must make the treacherous crossing on civilian boats with little if any protection. Overhead, hundreds of missiles fly out over the strait, slamming into radar, communications, and control nodes all over the island. Airfields are cratered. Civilian power plants are destroyed. Chinese jets scream overhead on route to strike at Taiwanese tanks and artillery pieces, shortly after followed by Chinese bombers. Yet the Taiwanese Air Force has long been redeployed to underground facilities, and American-made F-16s flown by Taiwanese pilots rise up to meet the incoming Chinese planes. [music]"
+    },
+    {
+      "id": 28,
+      "debut": 1151.44,
+      "fin": 1202.07,
+      "temps_estime": true,
+      "titre": "Carrier battle groups hit by ballistic missiles; casualty levels",
+      "resume": "US carrier battle groups advance but a ballistic missile raid slips through defenses and strikes the super carriers, killing thousands. More servicemen die in the first five minutes than in all conflicts since Vietnam combined, and by the end of 2019 the war is the bloodiest since World War II.",
+      "mots_cles": [
+        "aircraft carriers",
+        "ballistic missiles",
+        "super carriers",
+        "first five minutes",
+        "casualties",
+        "bloodiest conflict since WWII",
+        "US sailors"
+      ],
+      "texte": "A thousand miles away, US carrier battle groups are given the green light to advance to forward positions just off the Taiwan coast, [music] bringing a significant portion of America's naval air power. They alone are more than a match for the Chinese Air Force. Yet as they steam ahead, a raid of ballistic missiles falls upon the battle groups. Anti-missile defense systems intercept many, yet others manage to slip through and deal devastating blows against American super carriers. In moments, thousands of American sailors are dead, and in the first five minutes of the war, more American servicemen have died than in all conflicts combined since Vietnam. By the end of the first month of fighting, American casualties [music] will reach Vietnam war levels, with Chinese and Taiwanese casualties many times that number. By the end of 2019, [music] the war will officially be the bloodiest conflict since World War II."
+    },
+    {
+      "id": 29,
+      "debut": 1202.07,
+      "fin": 1235.51,
+      "temps_estime": true,
+      "titre": "Could such a war happen? Taiwan as a WWIII flashpoint",
+      "resume": "US military planners consider the Taiwan-China situation one of several flashpoints that could lead directly to a Third World War, and a draft is a real possibility. China claims peaceful reunification, yet in 2016 Xi Jinping said China has the determination and ability to deal with Taiwanese independence or be overthrown.",
+      "mots_cles": [
+        "flashpoint",
+        "Third World War",
+        "draft",
+        "Xi Jinping 2016",
+        "Taiwanese independence",
+        "peaceful reunification",
+        "military planners"
+      ],
+      "texte": "But could such a war really happen? And if it did, could you actually be drafted to fight in it? The sad answer is yes. And in fact, American military planners consider the Taiwan-China [music] situation to be one of the several flashpoints that would lead directly to a Third [music] World War. China, for its part, has long claimed that it seeks only a peaceful reunification with the island nation. Yet just in 2016, Xi Jinping stated, we have the determination, the ability, and the preparedness to deal with Taiwanese independence. [music] And if we do not deal with it, we will be overthrown."
+    },
+    {
+      "id": 30,
+      "debut": 1235.51,
+      "fin": 1310.51,
+      "temps_estime": true,
+      "titre": "Why Taiwan threatens the Communist Party: prosperity and liberal democracy",
+      "resume": "China sees Taiwan as a direct threat to communist leadership because it is prosperous, the 19th largest economy, and employs many mainland Chinese. What Xi fears most is its liberal democracy, which undermines China's censorship and nationalism and inspires growing pro-democracy demonstrations, so elimination of independence looks likely by force.",
+      "mots_cles": [
+        "Taiwan liberal democracy",
+        "19th largest economy",
+        "censorship",
+        "pro-democracy protests",
+        "communist leadership",
+        "Xi Jinping",
+        "reunification by force"
+      ],
+      "texte": "China views Taiwan's continued independence [music] as more than the historical thorn in its side, but now rather as a direct threat [music] to the mainland's continued communist leadership. This is because the island nation has only grown more prosperous and economically powerful over the decades, becoming the 19th largest economy in the world. Taiwan also directly employs many mainland Chinese citizens, either on the island itself or in off-site factories and offices run by Taiwanese businesses. The [music] same cannot be said in large numbers of China's influence on Taiwan. Yet, even more dangerous than Taiwan's prosperity is what Xi Jinping and Chinese leadership fear the most. It's liberal democracy. Taiwan's liberal democratic values completely undermined China's own hardline nationalistic values. While China enforces strict censorship, Taiwan espouses the same liberal values that America does, and mainland Chinese have begun to take notice. Pro-democracy demonstrations continue to grow within China, [music] and as Chinese citizens spend more time abroad, both in Taiwan and Europe and America, they are starting to bring democratic values back home with them. For China, Taiwan's continued independence is a deathly threat that must one day be eliminated. And increasingly, [music] it looks like plans to eliminate Taiwan's independence are to do so by force."
+    },
+    {
+      "id": 31,
+      "debut": 1310.51,
+      "fin": 1352.73,
+      "temps_estime": true,
+      "titre": "US treaty obligation, reservist call-up and the draft question",
+      "resume": "A Chinese war on Taiwan would pit the two largest economies against each other with staggering casualties, forcing America to boost its active forces. The first step would be calling up 860,000 reservists, so a draft would not come soon, but depending on the war's scale and objectives it may be inevitable.",
+      "mots_cles": [
+        "treaty-bound",
+        "reservists 860,000",
+        "military draft",
+        "US China war",
+        "active forces",
+        "casualties",
+        "war scale"
+      ],
+      "texte": "Yet, if China were to launch a war against Taiwan, [music] currently one of the likeliest conflicts that the US actively prepares for, then America would be treaty-bound to defend the island's democracy. [music] This would pit the two largest economies and military powers in the world against each other. And while the US would inevitably come out slightly ahead of China, casualties on both sides would be staggering. To this end, America would immediately need to boost its active [music] military forces. The first step in bolstering American forces would be an immediate call-up of all reservists. With 860,000 reservists, any draft notices [music] would likely not come for a while. Yet, depending on the scale of the war and America's [music] objectives, a draft may ultimately be inevitable."
+    },
+    {
+      "id": 32,
+      "debut": 1352.73,
+      "fin": 1398.21,
+      "temps_estime": true,
+      "titre": "US objective one: destroy China's navy and air force",
+      "resume": "America has two objectives in a China conflict, the first being complete destruction of Chinese air and naval forces, which is non-negotiable and rules out a ceasefire until it is met. The reasoning is that China could not fight a second war without them, and rearming would take a decade or more, giving the US and allies time to rearm.",
+      "mots_cles": [
+        "US objectives",
+        "destroy Chinese navy",
+        "destroy air force",
+        "non-negotiable",
+        "no ceasefire",
+        "rearmament decade",
+        "US war aims"
+      ],
+      "texte": "Currently, America has two objectives to achieve in any conflict with China, the first being the complete destruction of its air and naval forces, and the [music] second being the toppling of its communist government. The total destruction of all Chinese naval and air [music] forces are a non-negotiable objective, meaning that no matter how the war went, unless it somehow went extremely [music] poorly for the US, there would be no negotiations for a ceasefire until this objective was met. The US would direct all of its efforts and resources [music] at ensuring that no Chinese naval or air forces survive the conflict. And the reasoning is quite simple. [music] China cannot hope to fight a second war if its navy and air force is destroyed, and a lengthy rearmament period would take a decade or more, giving ample opportunity for the [music] US and allies to rearm themselves."
+    },
+    {
+      "id": 33,
+      "debut": 1398.21,
+      "fin": 1424.29,
+      "temps_estime": true,
+      "titre": "US objective two: toppling the communist government",
+      "resume": "Removing China's communist government is an ancillary objective pursued through precision strikes, covert operations and psychological operations aimed at citizens. A purely military removal would require a full-scale land invasion, so the US would accept not meeting it or leave it to a civilian population.",
+      "mots_cles": [
+        "regime change",
+        "communist government removal",
+        "precision strikes",
+        "covert operations",
+        "psychological operations",
+        "land invasion",
+        "ancillary objective"
+      ],
+      "texte": "The removal of China's communist government is an ancillary objective, which would be carried out via precision strikes, covert operations, [music] and psychological operations aimed at the Chinese citizenry. Given that a purely military removal of China's government would require a full-scale land invasion, the US is happy to wage a war and not meet this objective or leave it in the hands of a civilian population riled up by aggressive psychological operations."
+    },
+    {
+      "id": 34,
+      "debut": 1424.29,
+      "fin": 1449.85,
+      "temps_estime": true,
+      "titre": "Scenario one: air and naval victory makes a draft unlikely",
+      "resume": "In the first scenario a draft is unlikely given US naval and air advantages, since China would face annihilation of its navy and air force despite significant American losses. Reservists would be enough to restore US combat strength.",
+      "mots_cles": [
+        "draft unlikely",
+        "naval air superiority",
+        "Chinese navy annihilation",
+        "reservists enough",
+        "US losses",
+        "combat strength",
+        "first scenario"
+      ],
+      "texte": "In the [music] first scenario, it's unlikely that a draft would be instigated by the US government, given the US's advantages in naval and air forces both. Though both the American navy and air force would suffer significant losses in the effort, China would indubitably face the complete annihilation [music] of its own navy and air force to the Americans and their allies. In this case, reservists would likely be enough to bring American combat strength back to manageable levels, and a draft would be highly unlikely."
+    },
+    {
+      "id": 35,
+      "debut": 1449.85,
+      "fin": 1498.91,
+      "temps_estime": true,
+      "titre": "Scenario two: invading China would require conscription via Selective Service",
+      "resume": "If the conflict expanded and removing China's government was the only road to peace, a draft would be a necessity, with China having over 2 million active-duty troops. Men aged 18 to 25 must register with the Selective Service System, which had over 16 million on file in 2010, against a fit-for-service pool of over 111 million.",
+      "mots_cles": [
+        "Selective Service System",
+        "conscription",
+        "invasion of China",
+        "18 to 25 registration",
+        "16 million",
+        "111 million manpower",
+        "Vietnam draft"
+      ],
+      "texte": "Yet, if the scope of the conflict [music] expanded for any reason and a direct removal of China's communist government was the only road to peace, an American draft would [music] be a necessity. With over 2 million active-duty forces in the Chinese military, the US and its allies would need to bolster their own numbers significantly to even attempt an invasion of China. All male American citizens and immigrant non-citizens between the ages of 18 and 25 are required by law to register in the Selective Service System. In 2010, the SSS [music] had over 16 million young American men on file. Yet the US has a total fit-for-service manpower pool of over 111 million. With an increasingly bloody conflict against China, the SSS [music] would without a doubt be activated and full-rate conscription would begin for the first time since Vietnam."
+    },
+    {
+      "id": 36,
+      "debut": 1498.91,
+      "fin": 1535.55,
+      "temps_estime": true,
+      "titre": "War with China is unlikely but the most probable flashpoint",
+      "resume": "War with China is not likely, yet it is considered the most realistic flashpoint for the next major war. Diplomatic missteps in the South China Sea and Taiwan Strait could lead to unavoidable conflict, and with the party's survival tied to taking Taiwan the US may face a draft soon.",
+      "mots_cles": [
+        "most probable flashpoint",
+        "major power war",
+        "diplomatic missteps",
+        "South China Sea",
+        "Taiwan Strait",
+        "Chinese Communist Party",
+        "military draft"
+      ],
+      "texte": "War with China is not likely, [music] and yet it is considered the most realistic and probable flashpoint for the world's next major war. While the world [music] has not seen any major powers go to war since the end of World War II, and it will hopefully not see them do so ever [music] again, the reality is that several of any possible diplomatic missteps in the South [music] China Sea and the Taiwan Strait could lead to an unavoidable conflict between the US and China. And with the life of the Chinese Communist Party likely dependent on forcing Taiwan back into the fold and crushing the island's democratic government, the US may be headed straight [music] for another military draft sooner than any of us could hope for."
+    },
+    {
+      "id": 37,
+      "debut": 1535.55,
+      "fin": 1582.04,
+      "temps_estime": true,
+      "titre": "China basics: population, size, time zone, languages and government",
+      "resume": "The People's Republic of China has about 1.404 billion people and roughly 3,700,000 square miles, slightly larger than the US, spanning five time zones but following one standard time. It has 56 ethnic groups, nearly 300 languages with about 955 million Mandarin speakers, and is governed by the Communist Party from Beijing.",
+      "mots_cles": [
+        "China population 1.404 billion",
+        "3.7 million square miles",
+        "single time zone",
+        "56 ethnic groups",
+        "Mandarin speakers",
+        "Communist Party of China",
+        "Beijing"
+      ],
+      "texte": "The People's Republic of China is [music] huge. Not only is it the world's most populous country with a population of around 1.404 [music] billion people. It's massive land-wise. The country is approximately 3,700,000 square miles, [music] making it slightly larger than the United States in land area. Although China spans five [music] geographical time zones, the whole country follows a single standard time. China's home to 56 ethnic groups. Linguists [music] estimate that there are nearly 300 living languages spoken in China, with Mandarin Chinese having the most speakers, [music] around 955 million people. China is governed by the Communist Party of China, [music] which administers the country from the capital of Beijing. The country is rapidly developing and is on track to become a superpower. [music]"
+    },
+    {
+      "id": 38,
+      "debut": 1582.04,
+      "fin": 1668.54,
+      "temps_estime": true,
+      "titre": "Place one, Tibet: history of the Chinese takeover",
+      "resume": "China's relationship with Tibet dates to the 13th century, with periods of Chinese or Mongolian rule and independence. Chinese troops invaded in 1950, the 14th Dalai Lama fled in 1959, monasteries were destroyed in the Cultural Revolution, and rights groups say repression and protests continue.",
+      "mots_cles": [
+        "Tibet",
+        "1950 invasion",
+        "Dalai Lama",
+        "1959 revolt",
+        "Cultural Revolution",
+        "Tibetan Autonomous Region",
+        "human rights"
+      ],
+      "texte": "Here are six places China is attempting to subjugate to expand its borders, economic, and global [music] influence. Number one, Tibet. China has a long and volatile relationship with Tibet, beginning in the 13th century [music] and throughout different periods in history. Tibet has been ruled by Chinese and Mongolian dynasties and has also been an independent nation. In the first quarter [music] of the 20th century, Tibet was ruled by Great Britain before once again becoming an independent nation. [music] In 1950, Chinese troops invaded Tibet to enforce China's age-old claim to the country. Some areas [music] became the Tibetan Autonomous Region and others were assimilated into neighboring Chinese provinces. In [music] 1959, after a failed anti-Chinese revolt, the spiritual leader of Tibet, the 14th Dalai Lama, fled the country and [music] set up a government in exile in India. During China's Cultural Revolution, many Buddhist monasteries were destroyed and thousands [music] of Tibetans were likely slaughtered during martial law. Due to international pressure in the 1980s, China somewhat relaxed its grip on Tibet and implemented [music] reforms. Currently, Beijing continues to modernize Tibet, sometimes at the cost of [music] the region's cultural heritage. Development has brought Han Chinese migrants and western tourism to the area. Since the early [music] 2000s, there have been protests in Tibet, especially on the anniversaries of politically significant [music] dates. Human rights groups say that China continues to politically and religiously repress Tibet. Various activists worldwide campaign for an independent [music] Tibet."
+    },
+    {
+      "id": 39,
+      "debut": 1668.54,
+      "fin": 1723.88,
+      "temps_estime": true,
+      "titre": "Why China wants Tibet: nationalism, buffer zone and resources",
+      "resume": "Tibet is central to Chinese nationalism and the drive to restore Qing dynasty borders. It serves as a Himalayan buffer against India, Nepal and Bangladesh and as a crucial water source with mineral wealth, with Beijing investing billions since the early 2000s.",
+      "mots_cles": [
+        "Tibet motives",
+        "Qing dynasty borders",
+        "Himalayas buffer",
+        "water source",
+        "mineral wealth",
+        "Western China development",
+        "nationalism"
+      ],
+      "texte": "There are several strategic and economic motives China has for governing the [music] region. Tibet is highly important to China's sense of self and Chinese nationalism. Many Chinese leaders, past and present, [music] have believed that no matter the lines drawn on the map, Tibet is fundamentally a part of China. They felt a strong nationalistic drive to return China to its ancient, far-flung Qing dynasty borders. Tibet also serves as a buffer zone between China on one side and India, Nepal, [music] and Bangladesh on the other. The Himalayan mountain range provides natural security as well as a military advantage. China is currently struggling to find a balance [music] between environmental issues and yet not hinder the country's economic industry. [music] China is hungry for natural resources and Tibet serves as a crucial water source as well as possessing significant mineral wealth. [music] Since the early 2000s, Beijing has invested billions into Tibet as part of its wide-ranging economic development plan for Western China."
+    },
+    {
+      "id": 40,
+      "debut": 1723.88,
+      "fin": 1816.17,
+      "temps_estime": true,
+      "titre": "Place two, Arunachal Pradesh: the McMahon Line dispute",
+      "resume": "China claims India's Arunachal Pradesh as South Tibet. The dispute stems from the 1913-1914 conference that set the McMahon Line, which China rejected, then India's support of Tibet and the 1962 war, and recently China's interest in Tawang and renaming places on new maps.",
+      "mots_cles": [
+        "Arunachal Pradesh",
+        "South Tibet",
+        "McMahon Line",
+        "1962 Sino-Indian war",
+        "Tawang",
+        "renamed places",
+        "India China border"
+      ],
+      "texte": "Number two, [music] Arunachal Pradesh. China also claims that the region of Arunachal Pradesh, the northeasternmost [music] state of the 28 states of India, is a part of South Tibet [music] and therefore a part of China. Aside from India, Taiwan also claims the South [music] Tibet region. Arunachal Pradesh borders the Indian states of Assam and Nagaland to the south [music] and countries Bhutan to the west, Myanmar to the east. To the north, the demarcation line known as the McMahon Line [music] separates Arunachal Pradesh from the Tibetan area of China. Historically, Arunachal Pradesh belonged [music] to neither China nor India, but was dominated by several autonomous tribes. In 1913 to 1914, representatives from Great Britain, China, and Tibet held the [music] similar conference to decide on the border lines for Tibet. The Tibetan and British officials agreed on [music] the McMahon Line as the border between British India and Outer Tibet. The Chinese representatives refused the demarcation [music] line and have considered it invalid ever since. When China invaded Tibet in 1950 and the Dalai Lama later [music] fled Tibet, India supported the Tibetan government, angering China. During the Sino-Indian border conflict in 1962, [music] China captured most of the area of Arunachal Pradesh, but ended up withdrawing. [music] In recent years, tensions have risen as China has publicly claimed the region of Arunachal Pradesh. China is especially [music] interested in a small district called Tawang, which borders Tibet and Bhutan. China has even gone so far as to destroy [music] thousands of maps and make new ones, having renamed parts of Arunachal Pradesh with Chinese names. [music]"
+    },
+    {
+      "id": 41,
+      "debut": 1816.17,
+      "fin": 1846.05,
+      "temps_estime": true,
+      "titre": "China's motives in Arunachal: dominating Asia and minerals",
+      "resume": "India is an emerging regional powerhouse and China wants to dominate Asia, sometimes seeming to look for clashes. Heavy deposits of gold and lithium are assumed in Arunachal Pradesh, and a Chinese mining operation found about $60 billion of gold and silver in adjacent Luntse County, Tibet.",
+      "mots_cles": [
+        "India China rivalry",
+        "dominate Asia",
+        "gold lithium",
+        "Luntse County",
+        "$60 billion deposits",
+        "mining",
+        "regional powerhouse"
+      ],
+      "texte": "India, while not growing as fast as China, is still emerging as a regional economic powerhouse. [music] China wants to dominate Asia and sometimes seems to look for ways to clash with India. Most importantly, [music] it's strongly assumed that there are heavy deposits of minerals such as gold and lithium in Arunachal Pradesh. A large-scale Chinese mining operation found gold and silver deposits worth around $60 billion in the Luntse County of Tibet, [music] which is directly adjacent to Arunachal Pradesh."
+    },
+    {
+      "id": 42,
+      "debut": 1846.05,
+      "fin": 1932.41,
+      "temps_estime": true,
+      "titre": "Place three, Aksai Chin: road to Xinjiang and high ground",
+      "resume": "Aksai Chin is a remote region near Kashmir, mostly in Xinjiang, that India claims as part of Ladakh. China built a military road through it in the 1950s, helping trigger the 1962 conflict, kept about 14,700 square miles and values it as a Tibet-Xinjiang route and strategic high ground at about 17,000 feet.",
+      "mots_cles": [
+        "Aksai Chin",
+        "Ladakh",
+        "Kashmir",
+        "military road Tibet Xinjiang",
+        "line of actual control",
+        "14,700 square miles",
+        "high ground"
+      ],
+      "texte": "Number three, Aksai Chin. China and India also clash over another border region, [music] Aksai Chin near Kashmir. Aksai Chin is mainly in Hotan County in the southwestern part of the Xinjiang Uyghur Autonomous Region with a small area [music] on the southeast and south sides lying within the extreme west of the Tibet Autonomous Region. India claims Aksai Chin as part of the Ladakh [music] region of the Jammu and Kashmir state. Aksai Chin is a remote, inhospitable [music] region where mainly nomadic tribes roam. The area was ignored until [music] the 1950s when China built a military road through it to connect Tibet with Xinjiang. India was angry upon discovery of the road and it ended up being a major [music] factor in the Sino-Indian border conflict of 1962. At the end of the clash, China retained control of around 14,700 square miles of territory in Aksai Chin. In 1993 and 1996, the two countries signed agreements to respect the line of actual control, the demarcation line that separates Indian controlled [music] territory from Chinese controlled territory in Jammu and Kashmir. Not only does China want Aksai Chin for maintaining [music] a direct route between Tibet and Xinjiang, it appreciates the territory for its strategic position. Aksai Chin is mostly high ground with an average elevation of around 17,000 feet. If China ever [music] goes to war with its neighbors Pakistan, Kashmir and India, the Aksai Chin region will enable it to take a commanding [music] high position."
+    },
+    {
+      "id": 43,
+      "debut": 1932.41,
+      "fin": 1967.75,
+      "temps_estime": true,
+      "titre": "Place four, the South China Sea: island building and overlapping claims",
+      "resume": "China dredges and builds out uninhabited islands such as Woody Island and the Spratlys to tighten control. Six parties, the Philippines, Vietnam, China, Brunei, Taiwan and Malaysia, hold overlapping claims, and US Navy patrols through its alliances are seen by China as provocation.",
+      "mots_cles": [
+        "South China Sea",
+        "island building",
+        "Spratly Islands",
+        "Woody Island",
+        "overlapping claims",
+        "US Navy patrols",
+        "Philippines Vietnam Brunei Malaysia"
+      ],
+      "texte": "Number four, the South China Sea. As well as claiming disputed land, China has also claimed islands [music] in the South China Sea. In fact, China has taken to dredging the sea and building [music] out uninhabited islands such as Woody Island or the Spratly Islands to tighten its control over the region. [music] Six countries, the Philippines, Vietnam, China, Brunei, Taiwan and Malaysia hold [music] different territorial, sometimes overlapping claims of the South China Sea based on various historical accounts and geography. adding to the tension, the US Navy frequently patrols the [music] sea due to its alliance with several countries. China considers this to be provocation."
+    },
+    {
+      "id": 44,
+      "debut": 1967.75,
+      "fin": 2031.03,
+      "temps_estime": true,
+      "titre": "Why the South China Sea matters: trade, oil, fisheries and the 2016 ruling",
+      "resume": "One third of global shipping, about $3.37 trillion of trade, passes through the sea, whose seabed holds at least 11 billion barrels of oil and 190 trillion cubic feet of gas, plus 10% of world fisheries. A 2016 Hague tribunal ruled China had no historic rights, Beijing rejected it, and ASEAN works with China on a code of conduct.",
+      "mots_cles": [
+        "$3.37 trillion trade",
+        "oil gas reserves",
+        "10% of fisheries",
+        "Hague tribunal 2016",
+        "ASEAN code of conduct",
+        "shipping lanes",
+        "EIA estimate"
+      ],
+      "texte": "The South China Sea is very important to Beijing [music] because it's a crucial commercial passage connecting Asia with Europe and Africa. One third of global shipping or 3.37 [music] trillion US dollars of international trade passes through the South China Sea. Furthermore, the seabed is rich with major [music] oil and gas reserves. The US Energy Information Administration estimates the region contains at least 11 billion barrels of crude oil and 190 trillion cubic feet of natural [music] gas. Also, the South China Sea is a vital food source accounting for 10% of the world's fisheries. [music] In July 2016, an international tribunal in the Hague ruled that China had no historic rights over the sea and that some of the rocky outcrops claimed by several countries could [music] not legally be used as the basis for territorial claims. Beijing rejected the ruling. More recently, some Southeast Asian nations have considered having bilateral talks with China [music] to settle the dispute. The Association of Southeast Asian Nations, ASEAN, has been working with China to create an official code of conduct to [music] avoid clashes in the disputed waters."
+    },
+    {
+      "id": 45,
+      "debut": 2031.03,
+      "fin": 2095.46,
+      "temps_estime": true,
+      "titre": "Place five, Taiwan: history from Qing rule to democratization",
+      "resume": "Taiwan was governed by the Qing from 1683 to 1895, ceded to Japan, then returned to China after World War II. After Mao's 1946-49 civil war victory, Chiang Kai-shek and the Kuomintang fled to Taiwan, ruled as a dictatorship until democratization led to the first non-KMT president, Chen Shui-bian, in 2000.",
+      "mots_cles": [
+        "Taiwan history",
+        "Qing Dynasty",
+        "Sino-Japanese War",
+        "Chiang Kai-shek",
+        "Kuomintang",
+        "Chen Shui-bian",
+        "democratization"
+      ],
+      "texte": "Number five, Taiwan. China has had an ongoing dispute [music] with Taiwan for decades. It views Taiwan as a breakaway province that will eventually be part of the [music] country again, but many Taiwanese citizens want a completely separate nation. Historically, Taiwan [music] was a part of China. Taiwan was governed by China's Qing Dynasty from 1683 to [music] 1895. When Japan won the first Sino-Japanese War, China had to cede the region to them. After World War II, Japan was forced to relinquish to China control [music] of the territory it had previously taken. Civil war broke out in China in 1946 [music] and ended in a victory for Mao Zedong's Communist Army. Chiang Kai-shek and his Chinese Nationalist Party, known as Kuomintang or KMT, fled to Taiwan. [music] The KMT dominated Taiwan's politics for many years until after Chiang Kai-shek's death, having inherited an effective dictatorship and under pressure from [music] a burgeoning democracy movement, Chiang Sun, Chiang Ching-kuo, began assessing a process of democratization, which in 2000 led to the election of the island's first non-KMT [music] president, Chen Shui-bian."
+    },
+    {
+      "id": 46,
+      "debut": 2095.46,
+      "fin": 2176.21,
+      "temps_estime": true,
+      "titre": "Taiwan today: one country two systems, US ambiguity and why China wants it",
+      "resume": "China offered a one country two systems plan that Taiwan refused, while the US has sold billions in defensive weapons since the 1970s under a policy of strategic ambiguity. Taiwan's legal status is in limbo, with its own constitution and about 300,000 troops, and China wants it for nationalism and to deny the US a base near its coast.",
+      "mots_cles": [
+        "one country two systems",
+        "strategic ambiguity",
+        "US arms sales",
+        "Taiwan legal status",
+        "300,000 troops",
+        "nationalism",
+        "US base threat"
+      ],
+      "texte": "Meanwhile, China treated Taiwan with great hostility. In the 1980s, relations between China and Taiwan started improving. [music] China put forth the one country two systems plan under which Taiwan would be given significant autonomy if it accepted Chinese reunification. Taiwan refused, but did relax rules for its citizens [music] to visit and investment in China. Since the 1970s, the US has been a close ally of Taiwan and has sold billions in defensive [music] weapons to the country. Currently, US policy in the region has been described as strategic ambiguity, seeking to balance recognition of China's emergence as a regional power with the US [music] support for Taiwan's economic success and democratization. In recent years, China has been [music] alarmed by Taiwanese citizens electing politicians who favor independence from China. Furthermore, the Taiwanese public [music] has staged various protests about Beijing's policies regarding the country. Currently, Taiwan's legal status is unclear, in limbo. The country has its own constitution, [music] democratically elected leaders, and its own armed forces with about 300,000 active troops. China wants Taiwan to return to the fold because of nationalism. Also, [music] Taiwan being a part of China is a strategic defensive move. If Taiwan was to become an independent nation with its close ties to America, the US would likely have a naval port and military base in Taiwan, [music] right on China's doorstep."
+    },
+    {
+      "id": 47,
+      "debut": 2176.21,
+      "fin": 2218.32,
+      "temps_estime": false,
+      "titre": "Place six, Hong Kong: British colony to one country two systems",
+      "resume": "Part of Hong Kong Island became a British colony after the First Opium War in 1842, and the New Territories were leased for 99 years. A 1984 deal returned Hong Kong to China in 1997 under one country two systems, with autonomy, its own legal system and free speech for 50 years.",
+      "mots_cles": [
+        "Hong Kong",
+        "First Opium War",
+        "99-year lease",
+        "1984 agreement",
+        "1997 handover",
+        "one country two systems",
+        "autonomy"
+      ],
+      "texte": "Number six, Hong Kong. One final place where China is attempting to expand its [music] power is Hong Kong. At the end of the First Opium War in 1842, part of Hong Kong Island became a British colony. Later, China leased the rest of Hong Kong, the new territories, to the British for 99 years. By the 1950s, Hong Kong had [music] become a busy commercial port and a manufacturing hub. As the end of the 99-year lease approached, Britain and China held talks on the future of Hong Kong. In 1984, a deal was reached that Hong Kong would return to China in 1997 [music] under the principle of one country to systems. As a result, Hong Kong has a high degree of autonomy with its own [music] legal system and borders and rights including freedom of assembly and free speech for the next 50 years."
+    },
+    {
+      "id": 48,
+      "debut": 2218.32,
+      "fin": 2263.72,
+      "temps_estime": true,
+      "titre": "Beijing erodes Hong Kong's rights and the 2019 protests",
+      "resume": "Beijing has pressured artists and writers to self-censor and limited democracy, with the leader chosen by a 1,200 member pro-Beijing committee elected by 6% of voters. The 2019 extradition bill sparked large protests met with increasing violence, and China sees Hong Kong as a business bridge and a matter of nationalistic fervor.",
+      "mots_cles": [
+        "Hong Kong protests 2019",
+        "extradition bill",
+        "self-censorship",
+        "1,200 member committee",
+        "pro-Beijing",
+        "democracy limited",
+        "financial hub"
+      ],
+      "texte": "However, [music] in recent years, Beijing has been treading on Hong Kong's rights. Artists and writers say they're under increased pressure to self-censor and democracy has been limited. The current leader was elected by a 1,200 member pro-Beijing election committee chosen by just 6% of eligible voters. Throughout the [music] spring and summer of 2019, large protests erupted in Hong Kong in response to a proposed bill permitting the extradition of fugitives to mainland [music] China. Citizens worry the bill will be used to target, detain, and extradite political dissidents. Beijing's response to the protests has become increasingly violent as the citizens show no [music] signs of backing down. China considers Hong Kong a bridge between Asia and the West for business and financial [music] matters. Also, once again, China's domination of Hong Kong seems to be fueled by nationalistic fervor."
+    },
+    {
+      "id": 49,
+      "debut": 2263.72,
+      "fin": 2297.92,
+      "temps_estime": true,
+      "titre": "Xi's Taiwan pledge, Biden's promise and why World War III looks likelier",
+      "resume": "Xi Jinping insists Taiwan will be reunited with the mainland and does not rule out military force, while most Taiwanese want nothing to do with communist China and President Joe Biden has promised US aid. This makes World War III look more likely, and it will not start in Europe; the video asks how China could defeat the US and why Taiwan matters.",
+      "mots_cles": [
+        "Xi Jinping",
+        "Taiwan reunification",
+        "military force",
+        "Joe Biden",
+        "US aid Taiwan",
+        "World War III",
+        "Russia news"
+      ],
+      "texte": "With Russia hogging all the negative press lately, you might have missed Chinese President Xi Jinping's adamant proclamation that Taiwan will be reunited with the mainland and he is not ruling out military force to accomplish this goal. But with the vast majority of Taiwanese citizens wanting nothing to do with mainland Communist China and American President Joe Biden promising that the US [music] would come to Taiwan's aid, World War III is looking more likely and it won't be starting in Europe. How is China going to defeat the US and its allies? And more importantly, [music] why does Taiwan matter so much that the US is willing to fight to keep it free"
+    }
+  ]
+}
