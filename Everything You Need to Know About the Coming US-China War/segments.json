@@ -4,12 +4,12 @@
   "titre_video": "Everything You Need to Know About the Coming US-China War",
   "duree_s": 11085.31,
   "avancement": {
-    "lignes_traitees": 4723,
-    "fin_traitee_s": 9370.1,
+    "lignes_traitees": 5625,
+    "fin_traitee_s": 11085.31,
     "nb_lignes_total": 5625,
-    "complet": false
+    "complet": true
   },
-  "nb_segments": 224,
+  "nb_segments": 272,
   "segments": [
     {
       "id": 1,
@@ -4174,6 +4174,909 @@
         "China strategy"
       ],
       "texte": "In order to become a [music] global leader in defense technology, China is taking a page straight out of the US's book by pursuing [music] a strategy of civil military fusion. What made the United States the superior power during the first Cold War was the close [music] partnership between its military and civilian industry, which thrived in an environment of innovation. Such a partnership allowed for a swift adaptation of civilian technological breakthroughs [music] into military assets and vice versa. With the US military technology breakthroughs quickly adapted [music] into civilian technologies, making US companies the most competitive in the world."
+    },
+    {
+      "id": 225,
+      "debut": 9370.1,
+      "fin": 9403.45,
+      "temps_estime": true,
+      "titre": "Technological superiority in AI, robotics, quantum and biotech, and how China pursues it",
+      "resume": "Artificial intelligence, robotics, quantum computing and biotechnology will shape the future of warfare and of society. Leadership in some of these would make China a true competitor to the US, hegemony in all of them an insurmountable superpower, so China invests in domestic innovation, foreign investment to acquire technology, global talent recruitment, academic collaboration and military and industrial espionage.",
+      "mots_cles": [
+        "AI",
+        "robotics",
+        "quantum computing",
+        "biotechnology",
+        "technological superiority",
+        "China",
+        "industrial espionage",
+        "talent recruitment"
+      ],
+      "texte": "Artificial intelligence, robotics, quantum computing, and biotechnology will shape not just the future of warfare, but of human society itself. Achieving technological superiority and leadership in one or more of these areas will make China a true competitor to the United States. Achieving hegemony over all these critical areas will make China an insurmountable superpower. In order to achieve the goal, China is investing heavily in domestic innovation, but also in foreign investment [music] to acquire technology, the recruitment of global talent, academic collaboration for research and development, and finally, China's strong point, military and industrial espionage."
+    },
+    {
+      "id": 226,
+      "debut": 9403.45,
+      "fin": 9440.94,
+      "temps_estime": true,
+      "titre": "The US advantage: a liberal democratic world order united against Russia",
+      "resume": "China is still running uphill against America: since the end of the first Cold War the US has shaped a global order based on liberal democratic values, and the unified Western backlash against Russia, even at financial cost to the West, shows the new order frowns on autocracies. Vladimir Putin is portrayed as a relic of the old world.",
+      "mots_cles": [
+        "liberal democratic values",
+        "new world order",
+        "Russia backlash",
+        "sanctions",
+        "Vladimir Putin",
+        "autocracy",
+        "West unity",
+        "first Cold War"
+      ],
+      "texte": "So how is the US preparing for [music] this looming confrontation? First, as scary as China's ascension may seem, it's important to remember that it's still running uphill against America. Since the end of the first Cold War, the United States has influenced a new global order based on growing liberal [music] democratic values. As we've seen in the global backlash against Russia, the new world order frowns on the autocracies and abuses of the old world. Vladimir Putin is a relic of the old world with no place in modern society, and with a unified [music] voice, the West has shouted him and his nation down, even going so far as to severely hurt themselves financially in order to punish Russian military aggression."
+    },
+    {
+      "id": 227,
+      "debut": 9440.94,
+      "fin": 9470.44,
+      "temps_estime": true,
+      "titre": "Xi and the CCP as relics: Hong Kong and the risk of becoming a pariah",
+      "resume": "The speaker says this should worry Xi Jinping and the CCP, also relics of the old world: the months-long Hong Kong uprisings show simmering tension under Chinese society and the corrupting influence of Western liberal values in the CCP's view. If China engaged the world in hostility as Russia did it would become a pariah, which is why it must undermine Western values.",
+      "mots_cles": [
+        "Xi Jinping",
+        "Chinese Communist Party",
+        "Hong Kong uprisings",
+        "pariah nation",
+        "Western values",
+        "Russia",
+        "global leadership",
+        "autocracy"
+      ],
+      "texte": "This should be of grave concern to China's Xi Jinping and his Chinese Communist Party, as they too are relics of the old [music] world. The uprisings in Hong Kong that lasted for months are but a taste of the simmering tension just under the surface of Chinese society and proof to the CCP of the corrupting influence of liberal Western values. [music] Should China follow in Russia's footsteps and engage the world in hostility, it too will quickly find itself a pariah and outcast [music] nation, effectively crippling any bid to become a global leader. This is why it's important for China to undermine Western values."
+    },
+    {
+      "id": 228,
+      "debut": 9470.44,
+      "fin": 9497.73,
+      "temps_estime": true,
+      "titre": "US lead in commercializing technology and global brands",
+      "resume": "The US remains the world leader in technological innovation and is far ahead in rapidly commercializing new technology on global markets. American companies are already globally established brands, while China's modern problem is convincing the world to buy more than cheap manufactured goods.",
+      "mots_cles": [
+        "technological innovation",
+        "commercialization",
+        "global brands",
+        "cheap manufactured goods",
+        "US companies",
+        "global markets",
+        "Chinese technology",
+        "competition"
+      ],
+      "texte": "The United States remains [music] the world leader in technological innovation, despite mounting pressure from China and beyond. But the US is far ahead in one important [music] area of technology, its ability to rapidly commercialize new and emerging technology on global markets. While Chinese technology grows in influence around the world, American companies are [music] already globally established brands. China's modern problem is in convincing the world to buy more than just cheap manufactured [music] goods from it."
+    },
+    {
+      "id": 229,
+      "debut": 9497.73,
+      "fin": 9529.0,
+      "temps_estime": true,
+      "titre": "American cultural dominance: Hollywood, Silicon Valley and the TikTok example",
+      "resume": "American brands and culture are present in every country, and export instruments such as Hollywood and Silicon Valley are unassailable by Chinese counterparts. Even TikTok, developed in China, only exploded after China pushed it onto the American market and built relationships with American influencers.",
+      "mots_cles": [
+        "cultural export",
+        "Hollywood",
+        "Silicon Valley",
+        "TikTok",
+        "American influencers",
+        "soft power",
+        "US culture",
+        "brands"
+      ],
+      "texte": "US commercial success is also due to its global culture domination. American [music] brands are present in every country on Earth, but so is its culture. With one of the most rapidly evolving cultures in the world, [music] US culture can be hard to define or nail down, but cultural export instruments such as Hollywood and Silicon Valley remain unassailable by their [music] Chinese counterparts. For instance, while China may have developed the massively popular TikTok app, it wasn't until China pushed the app on the American marketplace [music] and established relationships with American influencers that the app exploded in popularity."
+    },
+    {
+      "id": 230,
+      "debut": 9529.0,
+      "fin": 9553.93,
+      "temps_estime": true,
+      "titre": "Shared culture and values, not military strength, make the US leader of the free world",
+      "resume": "Military and economic might count only so much: the US has used culture to bridge ideological gaps with partners, and shared culture is the bedrock of strong strategic partnerships. China has nothing like it except its partnership with North Korea, and the US leads the free world because of shared culture and values, not because its military is the strongest.",
+      "mots_cles": [
+        "shared culture",
+        "shared values",
+        "strategic partnerships",
+        "North Korea",
+        "free world",
+        "soft power",
+        "alliances",
+        "military strength"
+      ],
+      "texte": "This is important [music] because military and economic might only count for so much, and the US has used culture to bridge [music] ideological gaps with partner nations around the world. Shared culture is the bedrock of strong strategic partnerships, and China has absolutely nothing [music] of the like except for its partnership with North Korea. Shared culture and shared values are the reason the US remains [music] the leader of the free world, and not because of its military being the strongest."
+    },
+    {
+      "id": 231,
+      "debut": 9553.93,
+      "fin": 9591.5,
+      "temps_estime": true,
+      "titre": "Immigration gap: over a million Chinese Americans, few American Chinese in China",
+      "resume": "Over a million Chinese Americans live in America while only a few thousand Americans of Chinese origin have made China their home. To recruit global talent China must entice people financially and with a desire to make China home, a massive problem against the US, which attracts the most talented through economic opportunity and liberal democratic values.",
+      "mots_cles": [
+        "immigration",
+        "Chinese Americans",
+        "talent recruitment",
+        "brain drain",
+        "liberal democratic values",
+        "attractive destination",
+        "China",
+        "US"
+      ],
+      "texte": "Culture is another problem for China in its ongoing confrontation against the US and the rest [music] of the West, because one of China's biggest problems is creating immigrant Chinese citizens. While over a million Chinese Americans reside in America, only a few thousand American Chinese have [music] made their home in China. If China seeks to dominate future technologies by recruiting promising talent from around the world, it must be able to entice them, not just financially, but also with a desire [music] to make China their new home. This is a massive problem for China versus the US, which remains [music] one of the most attractive destinations for the world's most talented due to not just economic opportunity, but its liberal democratic values."
+    },
+    {
+      "id": 232,
+      "debut": 9591.5,
+      "fin": 9609.73,
+      "temps_estime": true,
+      "titre": "US alliances: an allied win is a US win, while China stands alone",
+      "resume": "China must triumph not only over the US but against the world, since outdoing the US in some technology means little given wide-reaching US alliances and partnerships. For America a win by an ally is still a win, while China must stand completely alone.",
+      "mots_cles": [
+        "US alliances",
+        "partnerships",
+        "allied victory",
+        "China isolation",
+        "technological competition",
+        "allies",
+        "geopolitics"
+      ],
+      "texte": "Finally, China must not just triumph over the US in future competition, but against the world because outdoing the [music] United States in one or more areas of technological innovation means little due to wide-reaching US alliances and partnerships. For America, [music] a win by one of its allies is still a win for the US, while China must stand against the world completely alone."
+    },
+    {
+      "id": 233,
+      "debut": 9609.73,
+      "fin": 9633.86,
+      "temps_estime": true,
+      "titre": "Military rankings: US number one, China number three, Russia's decline",
+      "resume": "The US is ranked the world's number one military power and China third, but given Russia's very poor performance in Ukraine the speaker expects China to climb to number two by next year. Russia seems to derive most of its power from the ability to threaten with nuclear weapons.",
+      "mots_cles": [
+        "military ranking",
+        "US military",
+        "China military",
+        "Russia",
+        "Ukraine war",
+        "nuclear weapons",
+        "number two military",
+        "Global Firepower"
+      ],
+      "texte": "But how do the numbers stand today? What if a conflict [music] broke out tomorrow between the two military heavyweights? Currently, the US is ranked as the world's number one military power with China in the number three spot. However, this is debatable as given Russia's [music] extremely poor performance in Ukraine, we expect that China will climb to the number two spot by next year, dethroning Russia, [music] whom it seems derives most of its power from its ability to threaten with nuclear weapons."
+    },
+    {
+      "id": 234,
+      "debut": 9633.86,
+      "fin": 9666.0,
+      "temps_estime": true,
+      "titre": "An untested Chinese military: lessons from Russia in Ukraine and China's lost Vietnam war",
+      "resume": "Poor Russian performance should concern China because its military is also untested against modern capable foes: Russian superiority in numbers and equipment meant little against Ukraine's Western-trained army. China's last war was Vietnam in the 1970s, which it lost, while the US is thoroughly tested in modern combat.",
+      "mots_cles": [
+        "untested military",
+        "Russia Ukraine lessons",
+        "Vietnam war 1979",
+        "Western-trained military",
+        "combat experience",
+        "Chinese military",
+        "modern warfare",
+        "Aleppo Chechnya"
+      ],
+      "texte": "However, [music] poor Russian performance should deeply concern China because just like Russia, the Chinese military is also completely untested against modern capable foes. While Russian forces [music] were more than adequate to crush uprisings in Aleppo and Chechnya, Russian superiority in numbers [music] with equipment meant very little when it went up against Ukraine's western-trained military. With China's last war being [music] in Vietnam in the '70s, a conflict it ended up losing, China should be extremely [music] concerned about facing the United States in battle, whom, unlike China, is thoroughly tested in modern combat. [music]"
+    },
+    {
+      "id": 235,
+      "debut": 9666.0,
+      "fin": 9705.97,
+      "temps_estime": true,
+      "titre": "Realistic training and corruption in the Chinese military",
+      "resume": "Like Russia's, China's military has lacked robust training, with highly scripted exercises mostly for visiting dignitaries, a culture beginning to change but still short of the US training schedule. It also contends with a legacy of corruption: Xi Jinping's anti-corruption effort produced results, but many officers hold rank through the tradition of gifts from juniors in exchange for promotion.",
+      "mots_cles": [
+        "military training",
+        "scripted exercises",
+        "corruption",
+        "Xi Jinping anti-corruption",
+        "gifting tradition",
+        "promotion",
+        "Chinese military",
+        "PLA officers"
+      ],
+      "texte": "Much like Russia, China has lacked a robust training regiment for its military, with exercises typically [music] being highly scripted and mostly for the benefit of visiting dignitaries. This culture has begun to change [music] within China, but the nation is yet to match the robust training schedule of the US military. Realistic [music] training, though, is not enough for the Chinese military, as it also like Russia, must also contend with a legacy of corruption that is plagued its [music] ranks for decades. President Xi Jinping's massive anti-corruption effort has produced great results, but the service must still contend with many officers [music] who hold rank due to the time-honored Chinese tradition of gifting wherein a junior official gifts a senior official in exchange for promotion."
+    },
+    {
+      "id": 236,
+      "debut": 9705.97,
+      "fin": 9736.82,
+      "temps_estime": true,
+      "titre": "Troop numbers: China's 2 million versus US force multipliers",
+      "resume": "China's military numbers 2 million strong against the US's 1.39 million, a numbers advantage, but the US has force multipliers that tip the balance: a well-trained, well-equipped modern force while Chinese units vary widely in modernity, plus precision weaponry, integrated forces and superior sensor and tracking technologies.",
+      "mots_cles": [
+        "2 million troops",
+        "1.39 million US military",
+        "force multipliers",
+        "precision weaponry",
+        "integrated forces",
+        "sensor technology",
+        "numerical advantage",
+        "modern fighting force"
+      ],
+      "texte": "Currently the Chinese military [music] numbers at 2 million strong, dwarfing the US military and its 1.39 million strong force. [music] This gives China a numbers advantage, but the US retains a great deal of force multipliers that don't just even the playing field, [music] but tip it decisively in its favor. Chief amongst these is a well-trained and well-equipped modern fighting force, while Chinese units [music] vary widely in modernity. A hefty investment in precision weaponry, integrated forces, and superior sensor and tracking technologies make the US [music] a lethal adversary even against a numerically superior foe."
+    },
+    {
+      "id": 237,
+      "debut": 9736.82,
+      "fin": 9769.7,
+      "temps_estime": true,
+      "titre": "Reservists: 510,000 Chinese versus 442,000 American, and training quality",
+      "resume": "Reserves would play a critical role: China has 510,000 ready reservists versus 442,000 for the US. American reservists train one weekend a month and two weeks a year and can enter the fight quickly, while Chinese reservist training is improving but spotty and requires longer training or risks sending them into combat unprepared.",
+      "mots_cles": [
+        "reservists",
+        "510,000 vs 442,000",
+        "reserve training",
+        "readiness",
+        "Chinese reservists",
+        "US reservists",
+        "Sino-American conflict"
+      ],
+      "texte": "Reserves will play a critical role in any Sino-American conflict, but both sides are nearly evenly matched with China having 510,000 [music] ready reservists versus the US's 442,000. American reservists receive continual training of one weekend a month and two weeks out of the year, while training for Chinese [music] reservists is improving but still spotty. This provides the US with a smaller reservist pool, but one that is more quickly capable of being introduced [music] into the fight, while Chinese reservists require a longer training periods or risk being thrown into combat completely unprepared. [music]"
+    },
+    {
+      "id": 238,
+      "debut": 9769.7,
+      "fin": 9807.97,
+      "temps_estime": true,
+      "titre": "The $770 billion US budget includes global commitments such as the combatant commands",
+      "resume": "The US defense budget of $770 billion against China's $250 billion is misleading: it includes costs unrelated to a war with China, such as its 11 unified combatant commands, which act as a globally stabilizing force. Without US Central Command, for example, Iran would seek to neutralize regional adversaries like Saudi Arabia, disrupting oil and trade.",
+      "mots_cles": [
+        "defense budget",
+        "$770 billion vs $250 billion",
+        "combatant commands",
+        "US Central Command",
+        "Iran",
+        "Saudi Arabia",
+        "peacekeeping",
+        "global stability"
+      ],
+      "texte": "The American defense budget dwarfs China's at 770 billion versus China's 250 billion, but that's not telling the whole story. [music] First, the US budget includes many costs for operations that would have nothing to do in case of war [music] with China, such as funding for its 11 unified combatant commands spread out across the world. These combatant commands are responsible for a general peacekeeping [music] and their presence is a globally stabilizing force. Without them, local conflicts would quickly sprout and spiral out of control. For example, without US Central [music] Command, Iran would quickly seek to neutralize regional adversaries such as Saudi Arabia, causing massive global disruption of oil and other trade that [music] passes through the region."
+    },
+    {
+      "id": 239,
+      "debut": 9807.97,
+      "fin": 9840.59,
+      "temps_estime": true,
+      "titre": "Hidden Chinese spending and purchasing power parity narrow the budget gap",
+      "resume": "China does not count all of its military investment in its published budget, hiding it in non-military budgets; much of its nuclear modernization comes from funds outside the official military budget. Locally sourced equipment and lower wages make goods cheaper, so by purchasing power parity China's budget is significantly closer to the US's.",
+      "mots_cles": [
+        "hidden military spending",
+        "nuclear modernization",
+        "purchasing power parity",
+        "Chinese military budget",
+        "lower wages",
+        "local sourcing",
+        "published budget",
+        "cost comparison"
+      ],
+      "texte": "Also, China does not count all of its military investments within its published budget report, cleverly hiding them within other non-military [music] budgets. A large part of its nuclear modernization initiative, for example, is coming from funds outside of its official military budget. Lastly, because Chinese [music] military equipment is sourced locally, it pays less for goods than the US does for its own equipment. That's because the standard of [music] living is lower in China with lower wages and less benefits, which means cheaper production costs. When [music] compared by purchasing power parity, China's budget is significantly closer to the US's than a first glance would lead one to believe."
+    },
+    {
+      "id": 240,
+      "debut": 9840.59,
+      "fin": 9886.11,
+      "temps_estime": true,
+      "titre": "Air fleets: 13,247 US aircraft versus 3,285, fighters and airlift compared",
+      "resume": "A war between the US and China would be waged at sea and air. The US operates 13,247 aircraft versus China's 3,285; fighters are closer, 1,957 versus 1,200, while the US transport fleet of 982 dwarfs China's 286, which makes the US military much more flexible and agile.",
+      "mots_cles": [
+        "air fleet",
+        "13,247 aircraft",
+        "fighter aircraft",
+        "1,957 vs 1,200",
+        "transport fleet",
+        "airlift capability",
+        "air power",
+        "US Air Force"
+      ],
+      "texte": "Any war [music] between the US and China would be waged at sea and air, making comparisons of the two sides' air forces and navies of utmost importance. The US operates an air fleet of 13,247 [music] aircraft, easily dwarfing the Chinese air fleet of 3,285. When it comes [music] to fighter aircraft, the two sides close together with the US having 1,957 fighters versus China's 1,200. American air mobility absolutely dwarfs Chinese mobility, though, with a transport fleet [music] of 982 versus China's 286. Understandable given that the US faces conflicts far from its own shores and China has little need to move its own forces significant distances. However, [music] the massive advantage in airlift capability makes the US military much more flexible and agile than the Chinese [music] military."
+    },
+    {
+      "id": 241,
+      "debut": 9886.11,
+      "fin": 9921.37,
+      "temps_estime": true,
+      "titre": "Special mission aircraft and attack helicopters favor the US",
+      "resume": "The most important air force distinction may be special mission aircraft, 774 for the US against 114 for China, covering early warning, electronic and signals intelligence and anti-submarine warfare, which makes the US Air Force and Navy so lethal. Attack helicopters only matter in a Taiwan scenario, where the US has 910 versus China's 281.",
+      "mots_cles": [
+        "special mission aircraft",
+        "774 vs 114",
+        "early warning",
+        "signals intelligence",
+        "anti-submarine warfare",
+        "attack helicopters",
+        "Taiwan scenario",
+        "910 vs 281"
+      ],
+      "texte": "Perhaps the most important distinction between the two air forces, though, is the number of special mission aircraft with the US operating 774 versus China's 114. The US has placed [music] a premium on equipping aircraft for everything from early warning to electronic and signals intelligence and anti-submarine warfare. The US dwarfs China in special mission capabilities, [music] and it's part of what makes the US Air Force and Navy so lethal. Unless a confrontation between the US and China takes place on Taiwan, attack helicopters won't figure into the equation. However, if they do, the US outnumbers [music] China with 910 versus China's 281."
+    },
+    {
+      "id": 242,
+      "debut": 9921.37,
+      "fin": 9976.2,
+      "temps_estime": true,
+      "titre": "F-22 Raptors, Rapid Raptor and the flawed Chinese J-20",
+      "resume": "For air superiority the US fields the F-15, F/A-18 Super Hornet and 187 operational F-22s, unmatched by China, which has not fielded a fifth-generation fighter in significant numbers; Rapid Raptor aims to bring F-22s anywhere within 24 hours. China's J-20 has inferior engines requiring canards, so analysts say its radar cross section is only slightly smaller than fourth-generation fighters, and India claims it tracks J-20s with long-range radar.",
+      "mots_cles": [
+        "F-22 Raptor",
+        "Rapid Raptor",
+        "J-20",
+        "canards",
+        "radar cross section",
+        "fifth-generation fighter",
+        "India radar",
+        "air superiority"
+      ],
+      "texte": "Numbers only tell part of the story, though, because the weapon systems used by both [music] sides only further skew the advantage to the US. For air superiority, the US fields the F 15 Eagle and F 18 Super Hornet. A fleet of 187 [music] operational F 22s are unmatched by China, who is yet to field its own fifth generation fighter in any significant numbers. Adding to China's problem is the US's Rapid Raptor program, [music] which aims to bring a sizable contingent of F 22s to any battle space in the world within 24 hours. China's competitor [music] versus the Raptor is the J 20, which is equipped with inferior engines versus American planes, requiring the use of canards on the body of the plane. These canards and other obvious [music] engineering flaws have led to defense analysts to conclude the J 20 has at best only a slightly smaller radar cross section than a traditional fourth generation fighter. In fact, India [music] claims it has frequently observed and tracked Chinese J 20s with long range radar."
+    },
+    {
+      "id": 243,
+      "debut": 9976.2,
+      "fin": 10019.34,
+      "temps_estime": true,
+      "titre": "An aging Chinese air force versus 280 US F-35s and 157 more each year",
+      "resume": "Much of the Chinese Air Force still flies Cold War Russian-made or Chinese-licensed relics; it would first commit modern fighters like the J-16, J-11 and Su-30 and rely on older planes once those are downed. The US has a completely modern fleet, over 280 F-35s with 157 added a year, so it has both numerical and technological advantage in air power.",
+      "mots_cles": [
+        "Chinese air force",
+        "J-16 J-11 Su-30",
+        "F-35",
+        "157 per year",
+        "old Russian aircraft",
+        "air power",
+        "technological advantage",
+        "fleet modernity"
+      ],
+      "texte": "The rest of the Chinese Air Force varies widely in modernity, with a significant [music] part of its Air Force still flying Cold War Russian made or Chinese licensed relics. While China would initially put its most modern fighters, such as the J 16, J 11s, and Su 30s into [music] the fight first, once those have been downed, it'll be increasingly reliant on older and older planes. [music] Meanwhile, the United States doesn't just have a completely modern air fleet, but it's adding dozens of fifth generation F 35s every year to its arsenal. The US Air Force now has over 280 F 35s [music] it can bring to the fight, with an additional 157 being added a year across the various [music] services. In a war where air power would be decisive, the US not only has the numbers advantage, but also the technological advantage. [music]"
+    },
+    {
+      "id": 244,
+      "debut": 10019.34,
+      "fin": 10054.1,
+      "temps_estime": true,
+      "titre": "Naval fleets: Chinese 777 vessels versus 484, 11 carriers versus two",
+      "resume": "At sea the US Navy is outnumbered, 484 vessels versus China's 777, but numbers tell only part of the story: the US operates 11 aircraft carriers versus China's two, able to bring over 800 aircraft versus China's 70, while China's inflated count includes 84 missile boats against 10 for the US. In tonnage the US Navy has over twice the hardware, 4.6 million tons.",
+      "mots_cles": [
+        "US Navy",
+        "Chinese Navy",
+        "484 vs 777 vessels",
+        "aircraft carriers",
+        "11 vs 2",
+        "missile boats",
+        "naval tonnage",
+        "carrier air wing"
+      ],
+      "texte": "At sea, the US Navy is outnumbered by the Chinese Navy with 484 vessels versus China's 777. However, their numbers once again [music] only telling part of the story. The US operates 11 aircraft carriers versus China's two, and American aircraft carriers [music] can bring over 800 aircraft into the fight versus China's grand total of 70. China's inflated naval [music] numbers take into account things like missile boats, of which it has 84, while the US only operates 10. In terms of tonnage, [music] the US Navy has over twice the hardware of the Chinese Navy, 4.6 million tons versus million tons. [music]"
+    },
+    {
+      "id": 245,
+      "debut": 10054.1,
+      "fin": 10097.0,
+      "temps_estime": false,
+      "titre": "Battle force missiles: 11,834 versus 5,250 and China's Type 55 buildup",
+      "resume": "A better metric is battle force missiles, the total missiles a fleet can use before resupply, including anti-ship, land attack, surface-to-air missiles and torpedoes. In 2019 the US Navy had 11,834 versus China's 5,250; the gap is narrowing only slightly as China adds 15 Type 55 cruisers with 112 missile cells each, raising its total by 1,770, just over half of the US count.",
+      "mots_cles": [
+        "battle force missiles",
+        "11,834 vs 5,250",
+        "Type 55 cruiser",
+        "missile cells",
+        "anti-ship missiles",
+        "naval comparison",
+        "2019 data",
+        "fleet firepower"
+      ],
+      "texte": "A better way to compare the capabilities of the two fleets is to use a modern metric, battle force missiles. This is a count of the total number of missiles that a fleet has for use in combat before requiring resupply. This includes anti-ship missiles, land attack missiles, surface-to-air [music] missiles, and torpedoes. Excluded from the count are short-range self-defense missiles like the US Sea RAM. In 2019, the US Navy had 11,834 [music] battle force missiles versus China's 5,250. The gap is narrowing but not significantly with China adding 15 more Type 55 cruisers with 112 missile cells and six [music] torpedo tubes each throughout the 2020s. That will increase total battle force missiles by 1,770, just over half of what the US fields."
+    },
+    {
+      "id": 246,
+      "debut": 10097.0,
+      "fin": 10132.9,
+      "temps_estime": false,
+      "titre": "Submarines: China has more, but US nuclear boats are much quieter",
+      "resume": "China has more submarines, 71 versus 68, but they are mostly conventionally powered while all US subs are nuclear, making them more robust and able to operate longer. Chinese submarines are much louder: the Jin class ballistic missile submarines have an acoustic signature around 120 decibels versus 95 for the American Virginia class, only 5 above the 90 decibel ocean background.",
+      "mots_cles": [
+        "submarines",
+        "71 vs 68",
+        "nuclear submarines",
+        "Jin class",
+        "Virginia class",
+        "acoustic signature",
+        "decibels",
+        "stealth"
+      ],
+      "texte": "Under the surface, China has the advantage with 71 submarines versus the US is 68. However, Chinese subs are mostly conventionally [music] powered while the US subs are all nuclear. That makes US submarines much more robust and able to operate for longer, but also decreases their [music] vulnerability while operating. Chinese submarines are also an order of magnitude louder than US subs with their Jin class [music] ballistic missile submarines having an acoustic signature of around 120 decibels while American Virginia class submarines have an acoustic signature of 95 decibels, which is just 5 decibels over background ocean noise at an average [music] of 90 decibels."
+    },
+    {
+      "id": 247,
+      "debut": 10132.9,
+      "fin": 10158.6,
+      "temps_estime": false,
+      "titre": "China can concentrate its fleet in the Pacific while the US has global commitments",
+      "resume": "Submarine warfare has always been a weakness of China, but although the US has a clear naval advantage, China can concentrate most of its fleet in a Pacific war against America, whereas the US has naval commitments worldwide. Even if the US recalled the bulk of its fleet to the Pacific, moving combat power into the theater would take days to weeks.",
+      "mots_cles": [
+        "Pacific war",
+        "fleet concentration",
+        "US naval commitments",
+        "transit time",
+        "submarine weakness",
+        "naval advantage",
+        "theater reinforcement"
+      ],
+      "texte": "Submarine warfare has always been a weakness of China and it looks to continue being so for the foreseeable future. While the US clearly has the [music] naval advantage, it's important to remember that China can concentrate most of its fleet into a Pacific war against America while the US has naval commitments around the world. Even if it were to recall the bulk of its [music] fleet for action in the Pacific, such an act would take from days to weeks to mature into a sizable [music] transit of combat power into the theater."
+    },
+    {
+      "id": 248,
+      "debut": 10158.6,
+      "fin": 10187.81,
+      "temps_estime": true,
+      "titre": "Near parity at sea, but the US replenishes losses and relies on Japan and Australia",
+      "resume": "Realistically the US Navy keeps an edge but the two are very close to parity in capabilities. The US advantage lies in quickly replacing combat losses with well-trained crews and modern ships, and in partnerships with regional powers such as Japan and Australia, which would allow use of their territory as bases or likely join the conflict.",
+      "mots_cles": [
+        "naval parity",
+        "replenishing losses",
+        "Japan",
+        "Australia",
+        "regional partners",
+        "bases",
+        "US Navy edge",
+        "Pacific allies"
+      ],
+      "texte": "Realistically speaking, the US Navy maintains an edge over China, but the two sides are very [music] close to parity in terms of capabilities. Where the US advantage comes is in its ability to quickly replenish combat losses [music] with well-trained crews and modern ships while Chinese combat losses are not so easily replaced. Further, honing America's advantage over China is its partnership with regional [music] powers such as Japan and Australia, who would either allow the US to use their territory as bases of operation for war against China or very likely [music] join the conflict itself."
+    },
+    {
+      "id": 249,
+      "debut": 10187.81,
+      "fin": 10221.18,
+      "temps_estime": true,
+      "titre": "AUKUS and why partnerships and liberal values are China's greatest challenge",
+      "resume": "The trilateral defense pact between the UK, US and Australia has the US building nuclear attack submarines for Australia on condition it joins a war against the PLA Navy and Air Force. America's equipment and technology advantage is sizable, but its global partnerships and championing of liberal values pose the greatest likely insurmountable challenge: until the CCP changes its core values, fighting America means fighting most of the free world.",
+      "mots_cles": [
+        "AUKUS",
+        "nuclear attack submarines",
+        "Australia",
+        "United Kingdom",
+        "US partnerships",
+        "liberal values",
+        "free world",
+        "Chinese Communist Party"
+      ],
+      "texte": "A new trilateral defense pact between the United Kingdom, the United States, and Australia is even seeing the US [music] building nuclear attack submarines for Australia on the condition that in case of war, it will join in the [music] effort against the People's Liberation Army Navy and Air Force. America's advantage in equipment and technology is sizable and looks set to remain [music] so, but it's the US global partnerships and championing of liberal values that present the greatest likely insurmountable challenge for China. Until the Chinese Communist Party changes its core values, if it wishes to fight against America, it's picking a fight against most [music] of the free world."
+    },
+    {
+      "id": 250,
+      "debut": 10221.18,
+      "fin": 10243.82,
+      "temps_estime": true,
+      "titre": "Is China really a superpower? The media's rival-superpower narrative",
+      "resume": "If you listen to the media, the world is in a pitched battle for control between rival superpowers, the US and China, with talk of a US decline and a Chinese century if China reaches or surpasses the US. The tale of the tape is very different, and surprisingly China may not be a superpower at all.",
+      "mots_cles": [
+        "superpower",
+        "US decline",
+        "Chinese century",
+        "US-China rivalry",
+        "media narrative",
+        "rival superpowers",
+        "global control"
+      ],
+      "texte": "If you listen to the media, the world is currently in a pitched battle for control between rival superpowers, [music] the United States and China. Is the United States on the decline? Is it truly going to be a Chinese century as China reaches the same level as the United States and potentially surpasses it? The tail of the tape is very different, and surprisingly, [music] China may not be a superpower at all."
+    },
+    {
+      "id": 251,
+      "debut": 10243.82,
+      "fin": 10287.21,
+      "temps_estime": true,
+      "titre": "Where China and the US match: population, land, near-peer military and nuclear missiles",
+      "resume": "China and the US match competitively in some ways: China has almost four times the population, both control similar land areas dominating their continents, and both hold large foreign financial investments, although the US has a global military while China has only one major foreign outpost, in Djibouti. China is the only near peer to the US militarily, with modern intercontinental ballistic missiles that can strike the US homeland despite America's larger nuclear arsenal.",
+      "mots_cles": [
+        "population",
+        "land area",
+        "Djibouti base",
+        "near peer",
+        "intercontinental ballistic missiles",
+        "nuclear arsenal",
+        "foreign investments",
+        "China vs US"
+      ],
+      "texte": "In some ways, China and the United States do match up pretty competitively. China has a much larger population than the US, almost four times as many people. They control a similar amount of land, allowing both to dominate their continent. Both have significant holdings abroad in financial investments, but the US has a global military, while China has only one major foreign military outpost in Djibouti. In terms of military strength, China is the only country that is seen as a near peer to the United States. They both have modern intercontinental ballistic missiles and nuclear weapons. While America has a much larger nuclear arsenal than China, China still retains the ability to strike the US homeland, and unlike Russia's massive Cold War era arsenal, these missiles are modern and known to be working."
+    },
+    {
+      "id": 252,
+      "debut": 10287.21,
+      "fin": 10324.38,
+      "temps_estime": true,
+      "titre": "What a superpower is: the 1944 definition and the original three",
+      "resume": "The term superpower was coined in 1944 during the Second World War for a state dominant and powerful enough to exert influence and project power across the world. It originally referred to the US, UK and Soviet Union, which had massive empires or puppet states and without whose consultation no international action could really be taken, making them nearly invincible with one weakness, time.",
+      "mots_cles": [
+        "superpower definition",
+        "1944",
+        "United States",
+        "United Kingdom",
+        "Soviet Union",
+        "project power",
+        "empires",
+        "puppet states"
+      ],
+      "texte": "But the definition of a superpower is a specific thing, and China is not there yet. [music] The term superpower was first created in 1944 during the Second World War, and it referred to a state that was dominant and powerful enough to exert influence [music] and project power across the world. When it was first coined, it referred to three countries with massive empires or puppet states around the world, the United States, the United Kingdom, and the Soviet Union. Not only are these states powerful enough to have an impact around the world, but no international action can really be taken without consulting these superpowers first. This made them largely invincible. They only had one weakness, time."
+    },
+    {
+      "id": 253,
+      "debut": 10324.38,
+      "fin": 10372.88,
+      "temps_estime": true,
+      "titre": "The fall of the UK and USSR, and Russia's harsh lesson in Ukraine",
+      "resume": "The UK's empire collapsed in the decades after World War II, leaving a powerful nuclear-armed nation with far less world influence, and the USSR fell when its communist government collapsed and conquered countries split off. Putin acts as if Russia is still a superpower but his Ukraine invasion ground to a halt as the world backed Ukraine, and sanctions show today's Russia is nowhere near as influential as the USSR.",
+      "mots_cles": [
+        "British Empire collapse",
+        "USSR fall",
+        "Vladimir Putin",
+        "Ukraine invasion",
+        "sanctions",
+        "Russia not a superpower",
+        "decline of superpowers",
+        "World War II"
+      ],
+      "texte": "This trio of superpowers wouldn't stay that way for long. The United Kingdom saw its mighty empire, which spanned the world at its peak, collapse in the decades after World War II. While the UK is still a powerful nuclear-armed nation, it doesn't have nearly as much power on the world stage as it used to. For a while, the US and the USSR were about as close to global equals as you could get until the USSR saw its communist government fall and many of the countries it had conquered split off from its sphere of influence. Its current leader Vladimir Putin has no problem acting like Russia is still a superpower, but he learned a harsh lesson when his invasion of Ukraine ground to a halt while the rest of the world threw their money and support toward Ukraine. Russia has also found itself under sanctions and cut off from much of the global economy, showing that today's Russia is nowhere near as influential as the USSR."
+    },
+    {
+      "id": 254,
+      "debut": 10372.88,
+      "fin": 10421.26,
+      "temps_estime": true,
+      "titre": "The US remains the superpower: NATO, UN Security Council, largest economy, indispensable global cop",
+      "resume": "Despite talk of decline, the US is a key member of NATO, a permanent member of the UN Security Council, by far the largest economy and the highest military spender with a state-of-the-art, strengthening military. Fear over US instability may exist precisely because people see it as an indispensable global cop and it is unclear anyone could pick up the slack.",
+      "mots_cles": [
+        "US superpower",
+        "NATO",
+        "UN Security Council",
+        "largest economy",
+        "military spending",
+        "global cop",
+        "US decline",
+        "global prestige"
+      ],
+      "texte": "Then that [music] leaves the United States standing alone, the world's superpower, right? Many have talked about the decline of the US on the world stage with recent events not helping to inspire confidence that the state will remain the number one spot. But is that actually impacting its global prestige and influence? [music] Not really. After all, it's still a key member of NATO, a permanent member of the UN Security Council, and by far the largest economy in the world. Its military spending [music] is the highest in the world and its military is state-of-the-art and only getting stronger. If anything, the fear over the US's seemingly instability might be because people see it as an indispensable global cop. Who knows what would happen if its leadership fell into the wrong hands or if the country became involved in another bloody civil war? And it's not clear if there would be anyone to pick up to slack."
+    },
+    {
+      "id": 255,
+      "debut": 10421.26,
+      "fin": 10464.42,
+      "temps_estime": true,
+      "titre": "China looks like a superpower on the rise: regional power, Taiwan, South China Sea, Africa",
+      "resume": "China has established itself as a dominant regional power and begun moving outside Asia: it claims Taiwan without direct moves, its artificial islands in the South China Sea cause conflict with neighbors like Vietnam, which China usually wins since no one has the naval might to challenge it, its economic leverage can cut off supplies, and heavy investment in Africa could produce a staunch ally. Together this makes China look like a rising superpower, but looks can be deceiving.",
+      "mots_cles": [
+        "China rise",
+        "Taiwan claim",
+        "South China Sea",
+        "artificial islands",
+        "Vietnam",
+        "economic leverage",
+        "Africa investment",
+        "regional power"
+      ],
+      "texte": "China's rise has gained a lot of attention recently, as the Asian nation established itself as a dominant regional power [music] and started making moves outside of Asia. It continues to claim Taiwan as part of its territory, but hasn't made direct moves against the island nation. Its artificial islands in the South China Sea have caused conflict [music] with neighbors like Vietnam, and most of the time China wins these standoffs due to no one else in the region having the military might to challenge its navy. And further away, China's powerful economic sector means it has extensive [music] leverage over other countries, potentially cutting them off from essential supplies if they cross it. And their heavy investments in Africa means that the continent could become a staunch ally in the future. All this put together makes China look like a superpower on the rise, but looks can be deceiving."
+    },
+    {
+      "id": 256,
+      "debut": 10464.42,
+      "fin": 10514.34,
+      "temps_estime": true,
+      "titre": "China's population time bomb: low birth rate, one-child policy and bare branches",
+      "resume": "The first obstacle to China's rise is a population time bomb: China is expected to lose its title as most populous country to India as early as 2023 because of a very low birth rate, partly due to the decades-long one-child policy that left a massive gender gap and many young men without wives, nicknamed bare branches. The policy has been rescinded but large families remain rare and an aging population could cause long-term problems.",
+      "mots_cles": [
+        "population decline",
+        "India overtakes China",
+        "one-child policy",
+        "gender gap",
+        "bare branches",
+        "low birth rate",
+        "aging population",
+        "demographics"
+      ],
+      "texte": "During the early part of the 21st century, China's rise was the talk of the world, and they certainly acted like they were expanding fast. But since then, a lot of factors have converged to stop the country's rise in its tracks. The first and potentially biggest is a growing population time bomb. While China is still currently the largest country in the world by population, it's expected to lose that title as early as 2023 to India, [music] largely due to China's very low birth rate. This is partially due to China's extended one-child policy, [music] which lasted for decades and led to many couples having only one boy. That left China with a massive gender gap, and many young Chinese men were left without wives, nicknamed bare [music] branches by the media. While the policy has since been rescinded, old habits die hard, and it's rare to see a Chinese family having many kids. As the population ages, that could cause long-term problems."
+    },
+    {
+      "id": 257,
+      "debut": 10514.34,
+      "fin": 10562.21,
+      "temps_estime": true,
+      "titre": "Manufacturing leaves China: forced-labor concerns and the shift to India, Vietnam, Korea and Taiwan",
+      "resume": "China's rise came from economic expansion after the CCP shifted from strict Marxism to state-run capitalism and took on much of the world's technology manufacturing. People are increasingly hesitant to invest because products are often made by prisoners with little safety protection, and as the internet exposes China's secrets many companies have moved manufacturing to India, South Korea, Vietnam and Taiwan.",
+      "mots_cles": [
+        "state capitalism",
+        "manufacturing shift",
+        "prison labor",
+        "foreign investment hesitation",
+        "India",
+        "Vietnam",
+        "South Korea",
+        "supply chains"
+      ],
+      "texte": "It's not the only ticking time bomb for China's future. China's rise has largely been caused by its economic expansion, something that's become [music] possible when the Chinese Communist Party ended its strict allegiance to Marxism and shifted to a state-run capitalist [music] economy. The countries managed to pick up a lot of the world's manufacturing, particularly of technology, [music] and that's given it a lot of sway. But people are becoming increasingly hesitant to invest in China due to how their products [music] are made, often by prisoners with little to no safety protections. As the internet made it easier for news [music] to spread around the world in an instant, it became harder and harder for China to keep its secrets. And that means China could see its ace in the hole become a pair of twos. Many companies have moved their manufacturing efforts to other countries with India, South Korea, Vietnam, and Taiwan all becoming major hubs in recent decades. [music]"
+    },
+    {
+      "id": 258,
+      "debut": 10562.21,
+      "fin": 10580.86,
+      "temps_estime": true,
+      "titre": "Taiwan's semiconductors and why the world would defend Taiwan",
+      "resume": "Taiwan now controls the majority of the world's semiconductor production, the key to nearly every modern computerized device, which may be part of why China wants to conquer it. Unless China succeeds in a hurry the rest of the world will probably rush to defend Taiwan.",
+      "mots_cles": [
+        "Taiwan",
+        "semiconductors",
+        "chip production",
+        "conquering Taiwan",
+        "world defense of Taiwan",
+        "computerized devices",
+        "China invasion"
+      ],
+      "texte": "This is particularly the case for Taiwan, which now controls the majority of the world's semiconductor production, and those little devices are the key to making just about every modern computerized device run. This may be a big part of the reason China is interested in conquering Taiwan, but unless it pulls it off in a hurry, odds are the rest of the world will rush to defend [music] Taiwan,"
+    },
+    {
+      "id": 259,
+      "debut": 10580.86,
+      "fin": 10627.19,
+      "temps_estime": true,
+      "titre": "Could China win? Military intimidation, untested forces and a US that outclasses it",
+      "resume": "China frequently holds war games off Taiwan and places ships in neutral waters, but its military projects strength mainly through intimidation and has not been fully tested in combat in decades. As Asia's largest nuclear power it is the biggest local bully, but the US largely outclasses it, so if the US is drawn in China's choices would be to back off or threaten nukes, which shows who the current superpower is.",
+      "mots_cles": [
+        "war games",
+        "Taiwan Strait",
+        "intimidation",
+        "untested military",
+        "nuclear arsenal",
+        "biggest bully",
+        "US outclasses China",
+        "superpower"
+      ],
+      "texte": "which leads to the other big question, could China actually win such a war? China makes a big show of its military strength, frequently conducting [music] war games off Taiwan and placing its ships in neutral waters, but it primarily projects military strength right now in one way, intimidation. Its ships are modern and powerful, but China's huge military hasn't been fully tested in combat in decades. As one of only a few nuclear powers in Asia and the one with the largest arsenal, it is [music] the biggest bully in the local playground. But is it the biggest bully in town? The answer is probably not as the US largely outclasses it in military strength. China might be able to win most local conflicts, but if the US gets drawn into the fray, China's choices would likely be back off or threaten the use of nukes. And that paints a pretty clear picture of who the current superpower is."
+    },
+    {
+      "id": 260,
+      "debut": 10627.19,
+      "fin": 10668.87,
+      "temps_estime": true,
+      "titre": "China's biggest challenge is internal: an educated population with no say for 70 years",
+      "resume": "China's greatest challenges to superpower status may come from within: as the country modernizes its population is increasingly educated and politically active and has had no real say in government for over 70 years. Past protests against the CCP were put down brutally but nothing in its history matched the massive protests against the COVID-19 lockdowns, which might be China's downfall.",
+      "mots_cles": [
+        "internal challenges",
+        "political activism",
+        "educated population",
+        "CCP rule",
+        "protests",
+        "COVID-19 lockdowns",
+        "70 years",
+        "second superpower"
+      ],
+      "texte": "Of course, [music] China's biggest challenges to its potential superpower status might come from within, not from its rivals. China has frequently been mentioned as a potential second [music] superpower, but as the country modernizes, it might actually be less likely to be a superpower. That's because China's population is increasingly educated and politically [music] active, and they realize that they live in a country where they haven't had any real say in how the government is run for over 70 years. [music] In the past, protests against the CCP have been put down rather brutally, but the country hasn't seen anything like the massive protests against the COVID-19 lockdowns in its history. These organized protests have become too much even for the usually tough CCP, and that disease might be China's downfall."
+    },
+    {
+      "id": 261,
+      "debut": 10668.87,
+      "fin": 10706.91,
+      "temps_estime": true,
+      "titre": "China's zero-COVID lockdowns went on until the people had enough",
+      "resume": "China locked down cities where the virus appeared and kept them locked down until cases died down, with it being illegal to leave home in many places for weeks or months. The initial lockdowns were deemed a success and returned with the virus, and even two and a half years into the pandemic major cities faced the same stringent rules as 2020 until the people had enough.",
+      "mots_cles": [
+        "zero-COVID",
+        "lockdowns",
+        "China cities",
+        "stringent rules",
+        "pandemic",
+        "two and a half years",
+        "public frustration",
+        "quarantine"
+      ],
+      "texte": "When COVID-19 first appeared on the scene [music] and turned the world upside down, China acted fast, locking down its cities where the virus appeared and keeping them locked down until cases died down. But while in many countries a lockdown just meant restaurants were closed and there were lines outside of every grocery [music] store, in China they locked down and meant it. It was illegal to leave your home in many places with lockdowns extending for weeks [music] and even months. The initial lockdowns were deemed a success, and when the virus returned, so did the lockdowns. Even two and a half years [music] into the pandemic, major cities were being locked down under the same stringent rules as 2020, and the people [music] had enough."
+    },
+    {
+      "id": 262,
+      "debut": 10706.91,
+      "fin": 10740.62,
+      "temps_estime": true,
+      "titre": "Blank-paper protests and the collapse of tourism and investment",
+      "resume": "The CCP faces the stiffest challenge to its rule it has seen, with mass numbers of young protesters waving blank papers to show they are being silenced and to avoid prosecution for seditious slogans. Lockdowns also caused a massive decrease in tourism and investment since outsiders fear being unable to leave, as in the Shanghai Disneyland quarantine camp example.",
+      "mots_cles": [
+        "blank paper protests",
+        "CCP challenge",
+        "young protesters",
+        "tourism decline",
+        "foreign investment",
+        "Shanghai Disneyland",
+        "lockdown",
+        "censorship"
+      ],
+      "texte": "Currently, the Chinese Communist Party faces the stiffest challenge to its rule it's ever seen, with mass numbers of young protesters showing up, waving blank [music] papers to represent the way the country is silencing them and to ensure they can't be prosecuted for seditious slogans. The lockdowns [music] have also caused a massive decrease in tourism and investment in China, as outsiders are hesitant to visit when they don't know when it can become impossible to leave for several months due to an outbreak. After all, staying in Shanghai Disneyland sounds like fun until you can't leave and you're shuffled onto the on-site quarantine camp. Be careful what you wish for, kids."
+    },
+    {
+      "id": 263,
+      "debut": 10740.62,
+      "fin": 10779.61,
+      "temps_estime": true,
+      "titre": "Past predictions of an unstoppable China, and its influence limited to economic deals",
+      "resume": "For much of the 21st century experts argued China's rise was unstoppable and that it might surpass the US as the largest economy and most powerful military; even US analysts saw its Indo-Pacific dominance as superpower status. But China's influence outside its own sphere comes only through economic deals, and if those slow it will be confined to being a regional power amid fast-rising rivals.",
+      "mots_cles": [
+        "China rise unstoppable",
+        "Indo-Pacific dominance",
+        "economic deals",
+        "regional power",
+        "superpower predictions",
+        "rivals",
+        "largest economy"
+      ],
+      "texte": "All this has made several past predictions look rather silly. For much of the 21st century, experts were arguing that China's rise was unstoppable and that the country might even surpass the US to become the world's largest economy and most powerful military. Even in the United States, military analysts observed China's dominance over the Indo-Pacific has led them to become a superpower. China certainly views itself as one in the way it projects its power in the region, but its only influence outside of its own sphere is only created through economic deals. And if those slow down, China will find itself confined to being a regional power in an area with a lot of fast-rising rivals."
+    },
+    {
+      "id": 264,
+      "debut": 10779.61,
+      "fin": 10810.05,
+      "temps_estime": true,
+      "titre": "Pollution and shrinking workforce: analysts who said China would never be a superpower",
+      "resume": "Ten years ago some analysts already said China would never become a superpower, pointing to its aging population, growing dissatisfaction with the government and fast industrialization that left it one of the most polluted countries with hazardous air quality in several major cities. That could affect residents' quality of life and, with a low birth rate, cause a massive decrease in the working-age population within decades.",
+      "mots_cles": [
+        "pollution",
+        "air quality",
+        "aging population",
+        "working-age population",
+        "low birth rate",
+        "industrialization",
+        "China never superpower",
+        "demographic decline"
+      ],
+      "texte": "Is the high ride really over for China? As far back as [music] 10 years ago, some analysts were saying they believed China would never become a superpower. They pointed to a lot of including China's aging population and increasing dissatisfaction with their government, and they identified one other major problem. China's [music] fast industrialization has left it one of the most polluted countries in the world, with several major cities having hazardous air quality. That could impact the quality of life for its residents as they get older, and combined with a low birth rate [music] could mean China would see a massive decrease in its working-age population within a few decades."
+    },
+    {
+      "id": 265,
+      "debut": 10810.05,
+      "fin": 10840.49,
+      "temps_estime": true,
+      "titre": "Dependence on the global economy: hesitant partners could trigger instability",
+      "resume": "China's manufacturing economy needs customers, but countries are increasingly hesitant to do business there because of COVID policies, ethics issues and the history of arresting foreign businessmen and journalists. If trade deals collapse China could face shortages of energy and raw materials, greater instability and more protests that might eventually end CCP rule.",
+      "mots_cles": [
+        "global economy dependence",
+        "trade deals",
+        "foreign businessmen arrested",
+        "energy shortage",
+        "raw materials",
+        "instability",
+        "protests",
+        "CCP rule"
+      ],
+      "texte": "Another factor is China's dependence on the global economy. While China has a strong economy based on manufacturing, it needs customers to keep that going, and countries are increasingly hesitant to do business in China. This is due to COVID policies, ethics issues, and the history of China arresting foreign businessmen and journalists. If the bottom falls out of China's trade deals, the country could find itself dealing with a shortage of energy and raw materials, which could cause greater instability in the country and more protests that could eventually put an end to the Chinese Communist Party's rule."
+    },
+    {
+      "id": 266,
+      "debut": 10840.49,
+      "fin": 10879.83,
+      "temps_estime": true,
+      "titre": "Will people want to move to China? Immigration and Amy Chua's warning",
+      "resume": "Immigrants are essential to a country's welfare, both as workforce and like a high-powered sports draft, since a genius immigrant can start a multi-billion-dollar business. Chinese-American professor Amy Chua argued China will have trouble attracting immigrants because other countries offer greater incentives, and its authoritarian tactics and uncertain future are further roadblocks.",
+      "mots_cles": [
+        "immigration",
+        "Amy Chua",
+        "attracting talent",
+        "immigrants",
+        "authoritarian tactics",
+        "incentives",
+        "workforce",
+        "China future"
+      ],
+      "texte": "And it all might come back to one big question. Do people want to move to China? Despite [music] people yelling, they took our jerbs. Immigrants are essential to a country's welfare. This is partially due to needing a workforce if the domestic supply of workers isn't enough to replace those leaving the workforce, but it's also the equivalent of a high-powered sports draft. If a genius immigrates to your country and sets up a new business there, it could be a multi-billion dollar boon. Chinese-American professor Amy Chua argued that China will have a problem attracting immigrants in the future [music] due to other countries having greater incentives. The country's authoritarian tactics and uncertain future might be other roadblocks."
+    },
+    {
+      "id": 267,
+      "debut": 10879.83,
+      "fin": 10922.38,
+      "temps_estime": true,
+      "titre": "China's problems roll downhill: demographics, talent and the need for system change",
+      "resume": "For China to become a superpower it would need to keep building on its successes but the opposite is likely: its problems are like a ball rolling downhill. The demographic issue takes a long time to reverse and efforts to raise birth rates are not working; likewise immigrants and corporations will stay hesitant without an overhaul of the government's approach, a change after which the future would still look uncertain.",
+      "mots_cles": [
+        "demographic issue",
+        "birth rate policies",
+        "talent attraction",
+        "government overhaul",
+        "investment hesitation",
+        "China problems",
+        "superpower prospects"
+      ],
+      "texte": "And the worst part is few of these factors are likely to change. For China to become a superpower, it would need to keep building on its successes, [music] but the opposite is actually likely to happen. All of China's major problems are like a ball rolling downhill. The population bomb they're facing is a demographic issue that'll [music] take a long time to reverse, if it's even possible to do it. While China's actively trying to boost [music] birth rates now, they're not seeing much success. The same goes for China problem with attracting talent from outside its borders. Barring a complete overhaul in the government's approach to public affairs, it's likely that immigrants and corporations will be hesitant to invest in the country. [music] The only thing that could change this is a massive overhaul in China's system of government. And if that happens, the future would still look uncertain."
+    },
+    {
+      "id": 268,
+      "debut": 10922.38,
+      "fin": 10969.15,
+      "temps_estime": true,
+      "titre": "If reform comes: a China in flux turns inward and drifts away from superpower status",
+      "resume": "If China's student protests bear fruit as in 1980s Russia, a new leader could bring reform, introduce democracy and end the CCP's grip, turning China's focus inward for the better part of a decade. Expansionism goes on the back burner, a China in flux is less likely to seek military conflict, foreign investors wait, and China gets further from being a superpower while the US consolidates its role.",
+      "mots_cles": [
+        "political reform",
+        "democracy",
+        "student protests",
+        "CCP end",
+        "Russia 1980s",
+        "China inward focus",
+        "foreign investors",
+        "US consolidation"
+      ],
+      "texte": "Say China's massive student protests continue and eventually bear fruit, much like in Russia during the 1980s, they got a new leader who takes real movements [music] toward reform. Democracy is introduced and people get a say, and eventually the CCP ends its grip over the country and allows something new to [music] take its place. This is a massive change and one that will likely turn China's focus inward for the better part of a decade. [music] The CCP's expansionist efforts will go on the back burner, and a China in flux will be less likely to seek military conflict. Foreign investors will likely be waiting [music] to see which way the wind will blow before making heavy investments. The result might be a stronger, more free China that's able to better compete on the global stage, but it'll take a while to get there, and that'll mean China gets further and further away from being a global superpower while the US continues to consolidate its role."
+    },
+    {
+      "id": 269,
+      "debut": 10969.15,
+      "fin": 11007.06,
+      "temps_estime": true,
+      "titre": "Is the US the sole superpower indefinitely? China, Russia and India as contenders",
+      "resume": "At first glance the US seems likely to remain the sole superpower: China, the closest competitor, is falling further behind and Russia is increasingly isolated like a cornered animal. India, the fastest-growing country, may become a great power over coming decades but its focus is internal, it has a serious border conflict with nuclear neighbor Pakistan, shows little expansionist ambition and has developing-nation traits like low literacy.",
+      "mots_cles": [
+        "sole superpower",
+        "India",
+        "Pakistan border conflict",
+        "Russia isolated",
+        "China competitor",
+        "great power",
+        "expansionism",
+        "literacy rate"
+      ],
+      "texte": "So, is the US likely to remain the sole superpower indefinitely? At first glance, it seems likely. After all, China is the closest competitor, and it looks like it's getting further and further away. Russia is increasingly isolated and looking like a cornered animal. The fastest growing country in the world, India might be a contender, but with its focus still internal [music] and it has a serious border conflict with its nuclear neighbor Pakistan. While it's likely to evolve into a great power over the coming decades, it's not clear if it even wants to become a superpower. India has so far shown little ambition for expansionism, [music] and in many rural areas it still shows characteristics of a developing nation, like a low literacy rate."
+    },
+    {
+      "id": 270,
+      "debut": 11007.06,
+      "fin": 11044.14,
+      "temps_estime": true,
+      "titre": "The European Union as a potential rival superpower",
+      "resume": "The most likely rival superpower might not be a country: the European Union has 446 million people, only behind China and India, an area of 1.6 million square miles, only behind Russia, 27 member states covering most of Western Europe and still growing, with candidates wanting to join. It has a nuclear power in France, and all its states have a high human development index.",
+      "mots_cles": [
+        "European Union",
+        "446 million population",
+        "27 member states",
+        "France nuclear power",
+        "human development index",
+        "Brexit",
+        "EU enlargement",
+        "rival superpower"
+      ],
+      "texte": "But the most likely candidate to be a rival superpower might not be a country at all exactly. With a population of 446 million, it's only behind China and India. With an area of 1.6 million square miles, it's only behind Russia in area. It's the [music] European Union, the massive political Union of 27 member states that covers most of Western Europe [music] and is still growing. While it recently lost Britain as a member state, It has many other countries looking to potentially join. It has a nuclear power amongst [music] its members in France, and all its states have a high human development index indicating high life expectancy [music] and education levels."
+    },
+    {
+      "id": 271,
+      "debut": 11044.14,
+      "fin": 11075.86,
+      "temps_estime": true,
+      "titre": "The EU's path: winning from Russia's failure, integration and a US-EU alliance",
+      "resume": "If Russia's expansion into Ukraine and beyond is foiled the EU could become the biggest winner, an inviting option for countries worried about Russia. Its biggest stumbling block is the lack of a unified foreign policy and a modest military presence, but growing power could push greater integration, and given close relations with the US the two could become a dominant global alliance.",
+      "mots_cles": [
+        "European Union",
+        "Russia Ukraine",
+        "foreign policy integration",
+        "EU military",
+        "US-EU alliance",
+        "dominant global alliance",
+        "superpower rival",
+        "biggest winner"
+      ],
+      "texte": "If Russia's expansion into Ukraine and beyond is foiled, the EU could become the biggest winner, looking like an inviting option for any country worried about being targeted by Russia. Would it eventually be a rival to the United States? The biggest stumbling block might be a lack of a unified foreign policy and a modest military presence, but if its power continues to grow, the member states might eventually move toward greater integration to become a more cohesive unit. [music] And given that most nations in the EU have close relations with the United States, it's possible the two superpowers could become a dominant global alliance."
+    },
+    {
+      "id": 272,
+      "debut": 11075.86,
+      "fin": 11085.31,
+      "temps_estime": true,
+      "titre": "Closing: video on the United Kingdom's heyday as a superpower",
+      "resume": "The video closes by pointing viewers to another video about the United Kingdom's heyday as a superpower and how England managed to invade 90% of the world.",
+      "mots_cles": [
+        "United Kingdom",
+        "British Empire",
+        "superpower history",
+        "England invaded 90% of the world",
+        "outro",
+        "related video"
+      ],
+      "texte": "Want to know more about the United Kingdom's heyday as a superpower? Check out how England managed to invade 90% of the world or watch this video instead."
     }
   ]
 }
