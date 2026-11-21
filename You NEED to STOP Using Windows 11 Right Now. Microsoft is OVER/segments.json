@@ -4,12 +4,12 @@
   "titre_video": "You NEED to STOP Using Windows 11 Right Now. Microsoft is OVER",
   "duree_s": 10209.9,
   "avancement": {
-    "lignes_traitees": 4375,
-    "fin_traitee_s": 9194.29,
+    "lignes_traitees": 4857,
+    "fin_traitee_s": 10209.9,
     "nb_lignes_total": 4857,
-    "complet": false
+    "complet": true
   },
-  "nb_segments": 185,
+  "nb_segments": 212,
   "segments": [
     {
       "id": 1,
@@ -3507,6 +3507,519 @@
         "money stops making sense"
       ],
       "texte": "aren't laying the foundations for a more prosperous and creative age of human advancement. They're building their own locked down and ludicrously expensive B2B monopoly. The open marriage that now exists between those tech giants all but guarantees that the future of the internet will be flooded with corporate AI slop, automated emails, synthetic reports, and agentic workflows that don't actually provide real benefits to real people. They just streamline the capitalist machine while eroding the value of human thought and creativity. Sam Altman didn't escape from Microsoft to bring about a better world. He broke free so that when the trillion dollar IPO arrives, he and his shareholders will make as much money as possible. This is the grim reality of AI today. We're not getting AGI. We're not going to see some digital god that solves the world's ills and makes us all happier and healthier. We're getting an inescapable automated corporate bureaucracy instead. And once you follow that logic all the way through, one question becomes unavoidable. What happens when the money stops making"
+    },
+    {
+      "id": 186,
+      "debut": 9194.29,
+      "fin": 9233.59,
+      "temps_estime": false,
+      "titre": "Google's glue-in-pizza answer and the dead internet",
+      "resume": "In May 2024 Google's AI told people to put non-toxic glue in pizza sauce, a real AI-generated answer presented as fact. The speaker calls it a fatal symptom of a dead internet, saying almost 50% of web traffic is bots and that Google has become a closed-loop echo chamber where AI trains on AI and users are the training data.",
+      "mots_cles": [
+        "Google AI answer",
+        "glue on pizza",
+        "May 2024",
+        "dead internet",
+        "50% bot traffic",
+        "echo chamber",
+        "AI trains on AI",
+        "stop using Google"
+      ],
+      "texte": "sense? In May 2024, Google told millions of people searching for cooking advice to put non-toxic glue in their pizza sauce. Not a meme, not satire, a real AI-generated answer presented as absolute fact. It might seem like a funny glitch. It's not. It's something worse. It's the fatal symptom of a dead internet. Right now, almost 50% of web traffic is bots. Google has quietly gone from a search engine into a closed-loop echo chamber where AI trains on AI. The internet you grew up with is gone. You're no longer the consumer. You are the training data. This is why you need to stop using Google right now. The pizza query had"
+    },
+    {
+      "id": 187,
+      "debut": 9233.59,
+      "fin": 9279.19,
+      "temps_estime": false,
+      "titre": "The pizza glue source and the eat-rocks answer",
+      "resume": "The pizza answer came from an 11-year-old Reddit troll post that was somehow pulled to the top of Google's results. Users then found more glitches, such as a Google answer saying UC Berkeley geologists recommend eating a small rock a day, sourced from a 2021 satirical article in The Onion.",
+      "mots_cles": [
+        "Reddit troll post",
+        "eat rocks",
+        "The Onion",
+        "UC Berkeley geologists",
+        "Google AI glitches",
+        "Dr. Joseph Granger",
+        "satire as source",
+        "public health risk"
+      ],
+      "texte": "started off as something innocent. Why does my cheese keep sliding off pizza? And it didn't take long for the internet to find the source. It had been scraped from an 11-year-old Reddit troll post that had somehow been pulled off of the top of Google's metrics. And then the floodgates opened. It didn't take long for people to start experimenting with searches to see what other glitches were out there. And one posed a bigger risk to public health. Someone Googled, how many rocks shall I eat? And got back a result claiming that geologists at UC Berkeley suggested eating at least one small rock a day. It cited a geologist named Dr. Joseph Granger who described how to incorporate pebbles into your daily diet. The source for this, a [music] 2021 article from the satirical website The Onion. It was clear that the Google algorithm was anything but okay."
+    },
+    {
+      "id": 188,
+      "debut": 9279.19,
+      "fin": 9308.29,
+      "temps_estime": false,
+      "titre": "AI summaries hide real search results and hallucinate",
+      "resume": "Google's AI-powered summaries now sit above the real search results, which still exist but are hidden below. The speaker says the answers are often unsuitable or bizarre, pulled from odd corners of the internet, making Google harder to use because the AI hallucinates.",
+      "mots_cles": [
+        "Google AI summary",
+        "search results hidden",
+        "hallucination",
+        "bizarre answers",
+        "AI-powered algorithm",
+        "Google harder to use",
+        "unreliable results",
+        "Google search"
+      ],
+      "texte": "For one thing, these aren't Google search results. Those still exist, but you have to look for them. They're hidden below a summary of results that Google's AI-powered algorithm thinks are the most suitable responses. There's just one problem. They're often anything [music] but. These are two of the most bizarre results, but users have reported strange responses pulled from bizarre corners of the internet by the algorithm. This has led to many saying that it makes Google much harder to use because the AI isn't just wrong, it is"
+    },
+    {
+      "id": 189,
+      "debut": 9308.29,
+      "fin": 9349.4,
+      "temps_estime": false,
+      "titre": "Half of internet traffic is bots: bots filter content made by bots",
+      "resume": "A 2024 report showed that about 50% of internet traffic is AI and automated bots generating, scraping and interacting with content. The speaker describes a paradox: Google filters content for humans, but that content is designed by bots, analyzed by bots and then filtered to humans.",
+      "mots_cles": [
+        "50% bot traffic",
+        "2024 report",
+        "automated bots",
+        "AI-generated content",
+        "Google filtering",
+        "paradox",
+        "web scraping",
+        "internet automation"
+      ],
+      "texte": "hallucinating. Ever since AI burst onto the scene in the early 2020s, companies have rushed to automate and that decision has backfired. A 2024 report [music] showed that 50% of the traffic on the internet is now AI and automated bots generating, scraping, and interacting with content at a massive scale. That means for every real person online like you, there is a machine seeing the exact same thing, not to understand it, but to game [music] it. That creates a paradox. Platforms like Google are designed to filter the content on the internet into useful search results, but now that content is heavily designed by bots, which [music] is then analyzed by bots and then filtered out to humans. But the scary"
+    },
+    {
+      "id": 190,
+      "debut": 9349.4,
+      "fin": 9391.8,
+      "temps_estime": false,
+      "titre": "Google's March 2024 update targets spam",
+      "resume": "Google set things in motion in March 2024 with an update promised to de-prioritize low-quality content, expired domains, mass-generated pages and sites built to boost other sites. The move was meant to clean up an internet already built around the algorithm, but it did not go to plan.",
+      "mots_cles": [
+        "March 2024 update",
+        "Google algorithm",
+        "expired domains",
+        "mass-generated pages",
+        "low-quality content",
+        "spammers",
+        "SEO tactics",
+        "search quality"
+      ],
+      "texte": "thing is this isn't an accident. Google set it all in motion in March 2024, and no one noticed. Like all major tech websites, Google periodically updates their software and hardware to refine the user experience, [music] but no one was prepared for how significant the March 2024 one would be. Google was promising a better experience, [music] one that would de-prioritize low-quality content and make it easier to find what you were looking for. The priority points that the algorithm shift was supposed to target expired [music] domains, mass-generated pages, and third-party sites built to just boost other websites in search results. [music] These were tactics that spammers were using to manipulate Google for years. The move was meant to clean up an internet already built around the algorithm. It"
+    },
+    {
+      "id": 191,
+      "debut": 9391.8,
+      "fin": 9444.3,
+      "temps_estime": false,
+      "titre": "The update devastates independent sites: HouseFresh loses 91%",
+      "resume": "Overnight, tactics sites had used to promote themselves became actively harmful, and years of rankings were lost. Studies found over 80% of independent niche sites lost traffic between December 2023 and August 2024, and the review site HouseFresh lost 91% of its Google traffic, compared to Walmart putting a billboard in front of a local hardware store.",
+      "mots_cles": [
+        "independent niche sites",
+        "80% lost traffic",
+        "HouseFresh",
+        "91% traffic loss",
+        "human-tested reviews",
+        "Google update",
+        "unfair spam flags",
+        "Walmart analogy"
+      ],
+      "texte": "did not go to plan. Overnight, the tactics that sites had been using to promote themselves became worse than useless. They became actively harmful. Years of high rankings were lost in a second, and sites found themselves having to start all [music] over. While many of them were using methods that Google was now de-prioritizing, others reported their organic self-promotion was getting them unfairly flagged as spamming. Across the board, the impact was devastating. [music] Studies tracking independent niche sites found that over 80% of them lost their traffic between December 2023 and August 2024. This hit human-tested review sites like HouseFresh with a sledgehammer, which reported losing 91% of its own Google traffic. For many small sites, this was the digital equivalent of Walmart coming to town and putting a massive billboard right in front of the local hardware store's facade. The original store is still there, but no one will ever find"
+    },
+    {
+      "id": 192,
+      "debut": 9444.3,
+      "fin": 9502.4,
+      "temps_estime": false,
+      "titre": "Parasite SEO and AI-generated writing flood trusted platforms",
+      "resume": "The update didn't work as Google wanted: top marketing firms pivoted to parasite SEO, piggybacking on trusted platforms like Medium, LinkedIn and Reddit to rank without earning it. Corporations spammed these sites with boilerplate AI text that only needed to be published in the right place.",
+      "mots_cles": [
+        "parasite SEO",
+        "Medium",
+        "LinkedIn",
+        "Reddit",
+        "AI-generated writing",
+        "boilerplate content",
+        "domain strength",
+        "marketing firms"
+      ],
+      "texte": "it. But the move didn't even do what Google wanted. Humans think fast, but computers think faster. [music] By the time the update had landed, top marketing firms had already pivoted to what's known as parasite SEO. Most of the sites that lost their views from the Google update were small, independent sites that built their own domain strength over the years. By contrast, parasite SEO piggybacks off of trusted platforms like Medium, LinkedIn, and Reddit to rank higher without actually working for it. And Google doesn't always differentiate between good and bad content. All that matters is ranking. So companies started flooding these platforms with as much content as possible. And if you're thinking that meant big payouts for writers, think again. This was one of the first places where AI-generated writing found a foothold. Major corporations began spamming the sites with boilerplate text that could be generated in minutes. It didn't need to be good. It didn't need to be original. It just [music] needed to be published in the right place. The bots were gaining in more ways than one."
+    },
+    {
+      "id": 193,
+      "debut": 9502.4,
+      "fin": 9536.2,
+      "temps_estime": false,
+      "titre": "The search heist: bot networks hijack expired domains",
+      "resume": "The speaker describes the search heist: bot networks take over high-authority expired domain names and fill them with AI-generated articles to climb the rankings, often built around the buyer's main rival with slight variations of its name. It may not be ethical or even legal, but it works.",
+      "mots_cles": [
+        "search heist",
+        "expired domains",
+        "bot networks",
+        "high authority domains",
+        "AI-generated articles",
+        "competitor domain",
+        "search rankings",
+        "SEO manipulation"
+      ],
+      "texte": "One of the biggest problems facing websites today is what's known as the search heist. Bot networks target expired domain names they deem to be high value and high authority. They take over the driver's seat and pump it full of as many AI-generated articles as they can, sending it, catapulting up the rankings. These domains are often built around the buyer's [music] main rival, using slight variations on their name and then filling it with content favoring the competition. It might not sound ethical, and many wonder if it's even legal, but it [music] works. And we have the evidence from the guy who did"
+    },
+    {
+      "id": 194,
+      "debut": 9536.2,
+      "fin": 9599.0,
+      "temps_estime": false,
+      "titre": "Jake Ward's 1,800 AI articles and 3.6 million stolen hits",
+      "resume": "SEO expert Jake Ward used AI to export a competitor's sitemap, turn each URL into an article title and generate 1,800 articles. Over 18 months he took 3.6 million organic search hits from the competitor, peaking at 490,000 in one month, boasted about it on X and shared a blueprint to automate the process.",
+      "mots_cles": [
+        "Jake Ward",
+        "AI-generated content",
+        "1,800 articles",
+        "competitor sitemap",
+        "3.6 million hits",
+        "490,000 hits",
+        "domain heist",
+        "X post"
+      ],
+      "texte": "it the best. In 2023, AI-generated content was still in its early stages, but SEO experts were amongst the earliest adopters. One [music] of them, Jake Ward, wanted to see just how far he could push it. The results were staggering. He used AI to export a competitor's site map and then turned each of their URLs into separate article titles. He put AI to work crafting 1,800 articles based on each of those titles and then uploaded them. It's an old tactic and one that usually takes a lot of manual data scraping, but now it's instantaneous and more successful than ever. The public didn't find out about this domain heist from a competitor's lawsuit. They found out about it from Ward as he proudly boasted about it on X. He even gave other users a blueprint for how to exploit empty domains and turn them into an asset. Over 18 months, Ward was successfully able to poach 3.6 million organic search hits from his competitor with a peak of 490,000 hits in 1 month. He showed how to automate the vast majority of the process, allowing people to strike while the iron was hot. For many companies, the"
+    },
+    {
+      "id": 195,
+      "debut": 9599.0,
+      "fin": 9631.7,
+      "temps_estime": false,
+      "titre": "Zombie pages and bot networks snatching domains",
+      "resume": "The main tactic targets low-quality dormant zombie pages: when their domains lapse they are bought and used to redirect traffic from the parent company to a competitor. Bot networks watch for open domains, grab them and generate content automatically, so more websites become AI-generated and people ask whether anyone is home.",
+      "mots_cles": [
+        "zombie pages",
+        "dormant pages",
+        "lapsed domains",
+        "traffic redirect",
+        "bot networks",
+        "AI-generated websites",
+        "competitors",
+        "open domains"
+      ],
+      "texte": "opportunities are everywhere. The primary tactic for this is to target low-quality dormant pages that receive little traffic, also known as zombie pages. When they lapse, they're bought up and used to redirect traffic away from the parent company straight to their competitor. There doesn't even need to be a person directing the effort. Bot networks are instructed to watch for open domains, snatch them up, and start cranking out content while the CEO is still having his morning coffee. More and more websites wind up being taken over by AI-generated content, [music] which has many people asking, is anyone"
+    },
+    {
+      "id": 196,
+      "debut": 9631.7,
+      "fin": 9662.4,
+      "temps_estime": false,
+      "titre": "Google hasn't fixed AI content, perhaps on purpose",
+      "resume": "AI-generated content is riddled with errors and fairly easy to detect, yet Google has not followed up with anything like its March 2024 purge, and it isn't for lack of resources. The speaker suggests the system may be working as intended, trapping users in a loop of AI-generated content for one specific reason.",
+      "mots_cles": [
+        "Google inaction",
+        "AI-generated content errors",
+        "March 2024 purge",
+        "AI content loop",
+        "search system",
+        "Google motives",
+        "detecting AI content",
+        "web spam"
+      ],
+      "texte": "home anymore? It seems like a simple problem to fix. Most AI-generated content even today is still riddled with errors and it's fairly easy to detect. Despite this, Google hasn't followed it up with anything on the scale of its March 2024 purge to reverse the damage it's caused. [music] It's not down to lack of resources either. The system might be working exactly as it was intended to. Google isn't falling down on the job. It is trapping you in a loop of AI-generated content, and it's all for one specific reason. In the past,"
+    },
+    {
+      "id": 197,
+      "debut": 9662.4,
+      "fin": 9706.5,
+      "temps_estime": false,
+      "titre": "Why Google search became about ads, not usefulness",
+      "resume": "Originally Google returned a ranked list of links, which was useful but not profitable. Google is now a behemoth whose priority is making money, so advertising infiltrated search and users must check whether a top result is organic or promoted, making the clicks possibly pointless.",
+      "mots_cles": [
+        "Google search history",
+        "ranked list of links",
+        "advertising",
+        "promoted results",
+        "profit motive",
+        "organic results",
+        "Google behemoth",
+        "search ads"
+      ],
+      "texte": "you would type in a word or a question into a search engine and then immediately get a list of links to choose from. [music] It would be arranged by the algorithm starting with what it thinks is the most useful. It was simple, practical, and it offered users a list of options until they found the right one. That is how Google started, but there is just one problem. It is useful, but it's not profitable. Google isn't a humble little search engine startup that it began has. It is a behemoth with one priority, make money. It wasn' long before Google search was infiltrated by advertising, which then meant users had to look closely to make sure whether the top result they were clicking on was an organic search result or a promoted item. By now, the clicks may be pointless. [music] Now, you might think"
+    },
+    {
+      "id": 198,
+      "debut": 9706.5,
+      "fin": 9750.9,
+      "temps_estime": false,
+      "titre": "Zero-click results: from rich snippets to knowledge panels",
+      "resume": "The zero-click result is the ideal for search engines: the user gets the data on the first page and never clicks another link, so traffic goes only to the search engine. This evolved from rich snippets to knowledge panels, often drawn from sources like Wikipedia, before AI changed everything.",
+      "mots_cles": [
+        "zero click",
+        "rich snippets",
+        "knowledge panel",
+        "Wikipedia",
+        "search engine traffic",
+        "Google landing page",
+        "keeping users on Google",
+        "search interface"
+      ],
+      "texte": "a search engine has one job to get you to the right place. But what if the right place never actually leaves the search engine? The zero click result has become the ideal for search engines, providing traffic to them and no one else. This [music] is when the user gets all the data they've been looking for on the first page that they land on. There's [music] no need to click any of the other links. This has evolved several times over the years, first with rich snippets which provide a short text blurb from [music] each website link and then a knowledge panel that provides a visual text and analysis of certain topics pulled from the search [music] interface, often in partnership with sites like Wikipedia. It was typically informative and it kept traffic on Google. Then AI changed everything. Now,"
+    },
+    {
+      "id": 199,
+      "debut": 9750.9,
+      "fin": 9797.7,
+      "temps_estime": false,
+      "titre": "Google AI summaries, SparkToro's 58.5% zero-click figure and Gen Z",
+      "resume": "Google now shows an AI summary pulled from assorted sources before any search result, raising the question of where the information comes from and whether it can be trusted. A SparkToro study found 58.5% of Google search traffic is zero click, and teachers report Gen Z and Gen Alpha students who use the landing page as a question-and-answer device.",
+      "mots_cles": [
+        "Google AI summary",
+        "SparkToro",
+        "58.5% zero click",
+        "Gen Z",
+        "Gen Alpha",
+        "teachers",
+        "landing page",
+        "trusting AI sources"
+      ],
+      "texte": "the first thing you see isn't your search result at all. It is a Google AI summary that pulls from assorted top sources to create a paragraph or two with written text, links, and data. And it sounds useful, but there is one big question, where is this information coming from and can it be trusted? According to a recent study by SparkToro, 58 and 1/2 % of Google search traffic is now zero click. People get all the information they need from the landing page without ever clicking a link. Anecdotal reports from teachers talk about Gen Z and Gen Alpha students raised on Google who just use the landing page as an all-purpose question and answer device. They don't know how to find web pages on their own. And that might be exactly what Google wants to become a landing page, not just for searches, but for everything. [music]"
+    },
+    {
+      "id": 200,
+      "debut": 9797.7,
+      "fin": 9850.5,
+      "temps_estime": false,
+      "titre": "Reddit as an unusual refuge as its Google traffic explodes",
+      "resume": "Most beneficiaries of Google's changes were AI-generated sites and Google itself, with the big exception of Reddit. Reddit is mostly text, only its front page is algorithmic and AI summaries are limited, and its organic Google traffic jumped from about 132 million to over 500 million in a year because people there assume they are talking to humans.",
+      "mots_cles": [
+        "Reddit",
+        "organic Google traffic",
+        "132 million to 500 million",
+        "human users",
+        "anonymity",
+        "text-based",
+        "AI summaries limited",
+        "social media"
+      ],
+      "texte": "But people are noticing and they're finding an unusual refuge. Most of the beneficiaries of the changes in Google have been AI generated sites and Google itself. But there has been one big exception, Reddit. [music] The site is always been an unusual one, separate from the boom in social media only the front page is driven by algorithms. It's primarily text-based rather than video and AI is limited to only a few summaries and that led to an unexpected explosion. Reddit saw its organic Google traffic [music] increased by raw numbers more than any other site jumping from around 132 million to over 500 million in only a year. The reason for it is simple. Reddit is one of the few places on the internet where people still assume they're talking to other human beings. The combination of ease of posting with general anonymity means that people are more willing to post openly there. Google quickly saw that"
+    },
+    {
+      "id": 201,
+      "debut": 9850.5,
+      "fin": 9879.9,
+      "temps_estime": false,
+      "titre": "Google's $60 million deal for Reddit data",
+      "resume": "Google saw Reddit as a gold mine of organic content and in February 2024 offered $60 million for its data, allowing Google to train AI models on Reddit posts and influence search results. The same year Reddit posted its first quarterly profit as a public company, driven largely by the surge in search traffic.",
+      "mots_cles": [
+        "Google Reddit deal",
+        "$60 million",
+        "February 2024",
+        "AI training data",
+        "Reddit profit",
+        "public company",
+        "search traffic",
+        "data licensing"
+      ],
+      "texte": "Reddit was becoming a gold mine for organic content and it didn't wait long to make a deal. In February 2024 Google offered $60 million for Reddit's data. This lets Google use Reddit posts to train its AI models and even influence search results. It's something that likely came at a high price showing just how valuable Reddit has become. That same year Reddit posted its first ever quarterly profit as a public company largely driven by a surge in search traffic. But this might turn out to be a"
+    },
+    {
+      "id": 202,
+      "debut": 9879.9,
+      "fin": 9912.8,
+      "temps_estime": false,
+      "titre": "AI-generated stories threaten Reddit too",
+      "resume": "Reddit users notice a surge of repetitive stories with similar conflicts and writing style, which they call out as AI-generated and downvote, but it looks like an uphill battle. Reddit's data is now valuable, so the same bot networks see it as a place to exploit, and the speaker says the internet may be too far gone for Google's plan to work.",
+      "mots_cles": [
+        "Reddit AI stories",
+        "repetitive stories",
+        "downvote",
+        "bot networks",
+        "Reddit data value",
+        "double-edged sword",
+        "AI-generated posts",
+        "Google Reddit data"
+      ],
+      "texte": "double-edged sword. [music] Reddit users have been noticing an unusual surge in repetitive stories all dealing with the same conflicts and featuring a similar writing style. Users are quick to call out what they suspect to be AI generated stories and then downvote the posts. But it is clear this may be an uphill battle. Reddit's data is now valuable which means the same bot networks that made it such a convenient place to search now see it as a convenient place to exploit. Google thinks it can solve its problems by tapping into Reddit's data, but the internet may be too far gone for that."
+    },
+    {
+      "id": 203,
+      "debut": 9912.8,
+      "fin": 9935.7,
+      "temps_estime": false,
+      "titre": "AI in email and the hard-to-find off switch",
+      "resume": "The backlash against AI isn't limited to Google search: it is in email, with AI-packaged summaries and suggested next lines as you write. Many users complain that the option to turn these features off is hard to find and use, which the speaker says may feed a much bigger problem.",
+      "mots_cles": [
+        "AI backlash",
+        "email AI summaries",
+        "Gmail",
+        "suggested next lines",
+        "turn off AI features",
+        "forced AI",
+        "email servers",
+        "Google"
+      ],
+      "texte": "Whether the users want it or not on Google alone there has been a recent backlash over the fact that AI isn't just on the search engine, it is in the email servers. Users get AI packaged summaries of their emails and they even find the system prompting them with likely next lines as they write. Many have complained that the option to turn these features off is hard to find and use, and that may be leading to a much"
+    },
+    {
+      "id": 204,
+      "debut": 9935.7,
+      "fin": 9967.8,
+      "temps_estime": false,
+      "titre": "Model collapse: AI training on its own output",
+      "resume": "AI skeptics have long warned of model collapse, where machine learning ends up training on itself. Because models absorb huge amounts of uncurated synthetic data, flawed inputs reach search results, errors compound, and in early collapse minority data is filtered out, making specific information harder to find.",
+      "mots_cles": [
+        "model collapse",
+        "synthetic data",
+        "AI training on itself",
+        "uncurated data",
+        "compounding errors",
+        "early model collapse",
+        "minority data",
+        "AI skeptics"
+      ],
+      "texte": "bigger problem. AI skeptics have long warned of a potential crisis called model collapse. is something observed in AI training models where machine learning eventually winds up training [music] on itself. Because it processes so much data, it absorbs large amounts of uncurated synthetic information. Those flawed inputs then find their way into search results and the errors start compounding [music] inside of the system. In early model collapse, minority data that doesn't match the majority gets filtered out, making it harder to get more specific information. [music] That is the beginning of the"
+    },
+    {
+      "id": 205,
+      "debut": 9967.8,
+      "fin": 9996.5,
+      "temps_estime": false,
+      "titre": "Late-stage model collapse and the inbreeding analogy",
+      "resume": "Late-stage model collapse is when a large language model loses usefulness: it repeats flawed information, becomes harder to correct and steadily degrades. Researchers compare it to inbreeding, where a genetic defect is passed down repeatedly, and the speaker says the AI feeds on its own worst data and slowly breaks down.",
+      "mots_cles": [
+        "late-stage model collapse",
+        "large language model",
+        "inbreeding analogy",
+        "performance degradation",
+        "flawed information",
+        "AI feeding on itself",
+        "researchers",
+        "synthetic data"
+      ],
+      "texte": "end. Late-stage model collapse is what happens when a large language model starts to lose its usefulness. It begins repeating flawed information. It becomes harder to correct and its performance steadily degrades. Some researchers compare it to inbreeding, where a genetic [music] defect gets passed down again and again, resulting in a more pronounced and often harmful version of the trait. In simpler terms, the AI starts feeding on its own worst data and it slowly breaks down, and Google might"
+    },
+    {
+      "id": 206,
+      "debut": 9996.5,
+      "fin": 10026.5,
+      "temps_estime": false,
+      "titre": "Google as ground zero: 90% of search and its data",
+      "resume": "Google might be ground zero: it holds about 90% of global search traffic, its only real competitor for query volume is YouTube, which it also owns, and Amazon and Yahoo are just above 1%. The sheer volume of queries means it processes data no one else can, and that data is increasingly AI-generated.",
+      "mots_cles": [
+        "Google 90% search share",
+        "YouTube",
+        "Amazon",
+        "Yahoo",
+        "query volume",
+        "Google data",
+        "AI-generated data",
+        "search engine dominance"
+      ],
+      "texte": "be ground zero. Google isn't just the largest search engine in the world. Its only close competitor is itself. Google itself has around 90% of global search engine traffic. Its only real competitor for query volume is YouTube, which Google also owns. Amazon and Yahoo are above 1% of total traffic. The sheer volume of queries that Google undertakes [music] each day means it's processing levels of data that no one else can compete with, and that [music] data is increasingly composed of AI-generated"
+    },
+    {
+      "id": 207,
+      "debut": 10026.5,
+      "fin": 10069.4,
+      "temps_estime": false,
+      "titre": "Toward a synthetic singularity: AI trains on more AI",
+      "resume": "The errors behind the 2024 glue and rock answers haven't been resolved and are getting worse, possibly leading toward a terrifying singularity. As AI content grows, human-generated content struggles to make an impact, genuine sites slide down the page, and results become synthetic content promoting itself, leaving people with what Google wants them to get and raising the question of what happens to human knowledge.",
+      "mots_cles": [
+        "synthetic content",
+        "singularity",
+        "glue and rock answers",
+        "human-generated content",
+        "AI trains on AI",
+        "search results",
+        "errors amplified",
+        "human knowledge"
+      ],
+      "texte": "content. The errors that cause the bizarre glue and rock answers in 2024 haven't been resolved. They're only getting worse, and it could be bringing us toward a terrifying singularity. As more and more AI-generated content enters the fray by the day, it becomes increasingly difficult for any human-generated content to make an impact. The genuine sites slide further down the page. The AI-generated content becomes more prominent and the errors get amplified until the main search engine results are all synthetic content designed [music] to promote itself. The AI trains on more AI and people aren't getting what they want out of Google anymore, they're getting what Google wants them to get. And in this case, what becomes of all human knowledge?"
+    },
+    {
+      "id": 208,
+      "debut": 10069.4,
+      "fin": 10103.6,
+      "temps_estime": false,
+      "titre": "Europol warns 90% of online content could be AI-generated by 2026",
+      "resume": "Europol warned that about 90% of online content could be AI-generated by the end of 2026. The speaker points to AI content on social media designed to inflame arguments and to millions of ghost websites publishing AI articles daily without any intent of being read, since Google is already watching.",
+      "mots_cles": [
+        "Europol",
+        "90% AI content",
+        "end of 2026",
+        "social media AI content",
+        "ghost websites",
+        "AI articles",
+        "rage bait",
+        "Google crawling"
+      ],
+      "texte": "European law enforcement group Europol sounded an alarm and it's not so much an early alert as a last ditch warning. [music] They say that about as much as 90% of online content could be AI generated by the end of 2026. That might seem alarmist and ridiculous, but there is a cavalcade of AI generated content on just about every social media site, often designed to inflame or spark arguments. And on millions of ghost websites across the internet, AI articles are generated daily without the intention of having anyone read them. They don't need eyeballs directly on them because Google is already watching."
+    },
+    {
+      "id": 209,
+      "debut": 10103.6,
+      "fin": 10138.6,
+      "temps_estime": false,
+      "titre": "Human-only alternatives: Kagi, Marginalia and retro gaming",
+      "resume": "Some online veterans are pivoting to new sites that avoid AI, with mixed results. New search engines like Kagi and Marginalia describe themselves as human-only, prioritizing non-commercial content and organic searches with an optional AI-powered algorithm, and in gaming a fan base has grown around retro consoles.",
+      "mots_cles": [
+        "Kagi",
+        "Marginalia",
+        "human-only search engines",
+        "non-commercial content",
+        "AI-free sites",
+        "retro consoles",
+        "online veterans",
+        "search alternatives"
+      ],
+      "texte": "And that's why some people are starting to think ahead. A small group of dedicated online veterans are starting to pivot to new sites that eschew AI, albeit with mixed results. Over the last few years, new search engines have popped up with Kagi and Marginalia being the two most prominent. Both pride themselves on being human only search engines prioritizing non-commercial content and organic searches with an optional AI powered algorithm. Similarly, in the video game world, a small but dedicated fan base has emerged for retro consoles where users can play older games they might have grown up with. For most people, they're standing"
+    },
+    {
+      "id": 210,
+      "debut": 10138.6,
+      "fin": 10173.31,
+      "temps_estime": false,
+      "titre": "A fork in the road for the internet: human web versus free product",
+      "resume": "The speaker says the internet stands at a fork with two paths, one of which is an internet by humans for humans, a much harder one. Building new websites costs money, so such initiatives must rely on donations or subscriptions, a hard sell against free options, and as the saying goes, if something is free, you are the product.",
+      "mots_cles": [
+        "fork in the road",
+        "human internet",
+        "donations",
+        "subscription fees",
+        "website design cost",
+        "if it's free you are the product",
+        "Google",
+        "future of the internet"
+      ],
+      "texte": "at a fork in the road. There are two possible paths forward for the internet. One much harder than the other. On one side, there's an internet by humans for humans led by a conscious human reality. But this path features a lot of challenges along the way. For one thing, it'll take designers to build these new websites and designing new sites does not come cheap. So most of these initiatives will either have to rely on donations or ask people to pay subscription fees, which isn't always an easy sell, especially when the other option is free. There's an old saying, if something is free, you are the product. And that's never been more true"
+    },
+    {
+      "id": 211,
+      "debut": 10173.31,
+      "fin": 10195.2,
+      "temps_estime": false,
+      "titre": "Google at the center of a new AI-driven internet",
+      "resume": "Google is becoming the center of a new internet that is increasingly AI-generated and shaped by algorithms built on your data. As it embeds deeper into sites and pushes Gemini across the ecosystem its reach gets harder to avoid, unless users question what they're shown, step away and begin creating something new.",
+      "mots_cles": [
+        "Google",
+        "Gemini AI",
+        "AI-generated internet",
+        "user data",
+        "algorithms",
+        "avoiding Google",
+        "questioning content",
+        "creating something new"
+      ],
+      "texte": "than with Google. They're becoming the center of a new internet, one that is increasingly AI generated and shaped by algorithms built on your data. And as Google embeds itself deeper into more sites and pushes its Gemini AI across the entire ecosystem, its reach becomes harder to avoid. Unless users start questioning what they're being shown, step away from it and begin creating"
+    },
+    {
+      "id": 212,
+      "debut": 10195.2,
+      "fin": 10209.9,
+      "temps_estime": false,
+      "titre": "Outro: Microsoft's divorce with OpenAI and a related video",
+      "resume": "The speaker closes by saying Google isn't the only place where AI may be running into a dead end, and promotes a video on how Google's biggest competitor faces a ticking time bomb in a massive Microsoft divorce that will bankrupt OpenAI and ChatGPT, or to watch this video instead.",
+      "mots_cles": [
+        "Microsoft divorce",
+        "OpenAI",
+        "ChatGPT",
+        "bankrupt OpenAI",
+        "ticking time bomb",
+        "AI dead end",
+        "video promo",
+        "Google competitor"
+      ],
+      "texte": "something new. Google isn't the only place where AI might be running into a dead end. Find out how Google's biggest competitor is facing a ticking time bomb in massive Microsoft divorce that will bankrupt OpenAI and ChatGPT, or watch this video instead."
     }
   ]
 }
