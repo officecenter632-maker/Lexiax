@@ -4,12 +4,12 @@
   "titre_video": "You NEED to STOP Using Windows 11 Right Now. Microsoft is OVER",
   "duree_s": 10209.9,
   "avancement": {
-    "lignes_traitees": 2585,
-    "fin_traitee_s": 5422.85,
+    "lignes_traitees": 3450,
+    "fin_traitee_s": 7261.27,
     "nb_lignes_total": 4857,
     "complet": false
   },
-  "nb_segments": 112,
+  "nb_segments": 143,
   "segments": [
     {
       "id": 1,
@@ -2120,6 +2120,595 @@
         "by design"
       ],
       "texte": "The term backwards compatibility is familiar to gamers, and for a long time, it was a frustration point. When a new console launches, support for older systems doesn't last long. New games stop releasing for the older hardware, and eventually upgrading becomes the only way to keep playing. But in earlier generations, it went even further. New consoles often couldn't even run old games at all. This was often due to incompatible hardware, especially during the cartridge era. But there's also another reason backwards compatibility is hard to come by. It simply does not make the company money. Windows 11 is seen by most users as a bloated mess of a user interface, and that's not surprising. At this point, Windows NT is built on a 40-year-old foundation of code that never quite stopped being built. What is left is unwieldy and prone to glitches, but it's paying dividends. Windows 11 dropped, it's estimated that around 50 to 55% of existing devices were incompatible with it. Those users all had to buy new devices, a massive windfall for Microsoft. Was it a lack of foresight or by design? And if it was the latter, which other massive Microsoft screw-ups were by design? Chapter two, [music] the"
+    },
+    {
+      "id": 113,
+      "debut": 5422.85,
+      "fin": 5489.85,
+      "temps_estime": false,
+      "titre": "Chapter two: Windows Me, the sacrificial lamb",
+      "resume": "In 2000 Microsoft needed to replace the aging Windows 98 and launched Windows Millennium Edition. It promised a new interface, faster startup and built-in internet features, but was plagued by glitches, a broken PC Health system, malfunctions, slowdowns and shutdown problems.",
+      "mots_cles": [
+        "Windows Me",
+        "Windows Millennium Edition",
+        "Windows 98",
+        "PC Health",
+        "glitches",
+        "2000",
+        "sacrificial lamb",
+        "Microsoft"
+      ],
+      "texte": "sacrificial lamb, Windows Me. In 2000, Microsoft was still the dominant force of home computing long before Apple's resurgence. Windows 98 was everywhere. It ran on most home PCs defining an entire era of personal computing, but it was aging and Microsoft desperately needed a replacement. So they introduced a new system, Windows Me, also known as Windows Millennium Edition. It would become one of the worst ways to start a new millennium. Windows Me promised a new interface, quicker startup times, and built-in internet features for the emerging web era. The consumer versions could theoretically handle up to 1½ gigs of RAM, but most users had limited need for heavy-duty computing. So when it launched, the system gained applause for its enhanced security systems, and then reality set in. Windows Me was plagued with glitches. People reported that the security and maintenance system named PC Health wouldn't work properly. The computers that upgraded were experiencing frequent malfunctions and slowdowns. Computers wouldn't even shut down properly. With overheating already common on older desktops, people began to worry that they installed the Trojan horse onto their systems. Microsoft"
+    },
+    {
+      "id": 114,
+      "debut": 5489.85,
+      "fin": 5594.65,
+      "temps_estime": false,
+      "titre": "Windows Me abandoned for XP and the Neptune memos",
+      "resume": "Microsoft issued limited fixes as critics called Windows Me unusable, then released Windows XP just 13 months later on the stable NT kernel. The speaker cites leaked 1999 memos about project Neptune and says Windows Me was a stopgap disaster by design, sold for about $209 to squeeze out one last paycheck.",
+      "mots_cles": [
+        "Windows Me",
+        "Windows XP",
+        "NT kernel",
+        "project Neptune",
+        "leaked memos 1999",
+        "$209",
+        "stopgap",
+        "disaster by design"
+      ],
+      "texte": "would respond sooner than expected. As the negative word of mouth continued to grow for Windows Me, the company released some limited fixes. Given the scale of the issues, many critics went as far as calling it unusable, even a downgrade from Windows 98. So it wasn't surprising when Microsoft announced a replacement less than a year later. Windows XP released just [music] 13 months after Windows Me. It introduced what now feels like basic features like a built-in zip folder support and far more stable foundation. Windows Me had been a disaster, but it was also one Microsoft was eager to move past and one the industry quickly forgot. Windows XP was the first consumer-focused operating system built on the Windows NT kernel, a far more stable foundation than what came before it. Today it's often seen as the start of modern Windows. On the surface it looks like poor planning, releasing a major new operating system only to abandon its predecessor less than a year later. But it wasn't, it was delivered. [music] Leaked internal memos from 1999 mention a project codenamed Neptune. It was an early attempt to bring NT architecture to consumer machines, but the project was eventually scrapped and folded into something larger, something that became Windows XP. Meanwhile, Windows Me still shipped to market, retailing for around $209 for the full version or between 59 and 109 for qualifying upgrades. And it delivered what many users remember as instability, frustration, and constant technical issues. This was [music] seen as one of Microsoft's big early screw-ups, but it wasn't. It was a disaster by design and it did exactly what the company intended, a rush to stopgap to squeeze one last paycheck out of a dying technology. And it wouldn't be the only time Microsoft played its"
+    },
+    {
+      "id": 115,
+      "debut": 5594.65,
+      "fin": 5684.05,
+      "temps_estime": false,
+      "titre": "Chapter three: Windows Vista and the $2,100 email machine",
+      "resume": "Windows Vista (2007) followed XP after five years, and Microsoft claimed nearly every PC could run it, so it labeled PCs Vista Capable. Many buyers of affordable Intel machines, some costing up to $2,100, found underpowered graphics chipsets that could not handle the 3D interface and could do little more than send emails.",
+      "mots_cles": [
+        "Windows Vista",
+        "Vista Capable",
+        "2007",
+        "Intel chipset",
+        "underpowered graphics",
+        "$2,100",
+        "Windows XP",
+        "email machine"
+      ],
+      "texte": "loyal customers like a fiddle. Chapter three, the $2,100 email machine. The next major shift came in 2007. Windows Vista was Microsoft's first major successor to Windows XP, released five years after its hugely successful predecessor. And a lot had changed in that time. Home computers were faster and more capable. Customers weren't sure if their older computers were going to be capable of handling the new program, which contained much more code than the previous version. When it was announced, Microsoft claimed that nearly every PC on the market could at the time be able to run Windows Vista. They could, just not very well. A lot of PCs at the time ran on Intel processing chips and their current graphic card chipset was seen as underpowered for running the slick new 3D interface that rolled out with Vista. Seeing the concern, Microsoft promised they would classify PCs as Vista capable if they were usable with the new program. This led to many users upgrading their PCs after years of holding out just to run the new system. A large number of them chose the popular, relatively affordable Intel powered machines. It turned out to be a costly mistake. There's a difference between running a program and running it in a way that is usable. Those who tried to run Windows Vista on these new PCs, some of which could run up to $2,100 at the time, would find that many key functions were missing. The computers didn't handle the complex interface, and that left them to be able to do little more with their new PC than send emails, and Microsoft found itself"
+    },
+    {
+      "id": 116,
+      "debut": 5684.05,
+      "fin": 5749.65,
+      "temps_estime": false,
+      "titre": "Vista Capable lawsuit and internal emails",
+      "resume": "The complaints led to a class action lawsuit that unsealed internal emails, including Mike Nash writing that he had a $2,100 email machine and Jim Allchin raising concerns about misleading customers. The speaker claims Microsoft engineered the fiasco so Intel could meet its quarterly earnings goal.",
+      "mots_cles": [
+        "Vista Capable lawsuit",
+        "class action",
+        "Mike Nash",
+        "Jim Allchin",
+        "Hewlett Packard",
+        "Intel earnings",
+        "internal emails",
+        "corporate gamesmanship"
+      ],
+      "texte": "besieged with complaints. This eventually led to a class action lawsuit where many documents from the development period were unsealed. After all, if a lawn mower manufacturer slaps Ferrari capable on one of their products, it doesn't make it so. Again, that was another deliberate strategy. Internal emails showed that Microsoft very well knew that these Vista capable systems were not up to par. Corporate Vice President of Windows Product Management Mike Nash [music] saying, I now have a $2,100 email machine. Former Microsoft co-president Jim Allchin even raised concerns about misleading customers. Internal emails also revealed frustration from Hewlett Packard, which found itself caught between Microsoft and a wave of unhappy customers. The situation escalated into legal action, including a class action lawsuit that was eventually decertified, but not before internal documents painted a clearer picture of what was happening behind the scenes. Microsoft had engineered the fiasco to ensure their partner Intel met its quarterly earnings goal. The customers were screwed over for corporate gamesmanship, and it wouldn't be the last time."
+    },
+    {
+      "id": 117,
+      "debut": 5749.65,
+      "fin": 5825.06,
+      "temps_estime": false,
+      "titre": "Chapter four: Windows 8 and the Metro interface",
+      "resume": "Windows 8 (2012) introduced Metro, a simplified full-screen interface copying the iPad's success as mobile devices boomed. It worked on tablets, but on desktop PCs it made precise workflows and multitasking harder, felt like a step backward and was seen as a poor fit for business.",
+      "mots_cles": [
+        "Windows 8",
+        "Metro interface",
+        "2012",
+        "iPad",
+        "touchscreen",
+        "full-screen apps",
+        "desktop PCs",
+        "multitasking"
+      ],
+      "texte": "Chapter four, the Trojan horse, Windows 8. The releases were coming faster now, and in 2012 customers were greeted with Windows 8. This would turn out to be one of the most controversial Windows releases yet, and not because people were finding themselves locked out of features. Rather, everyone was on the same page on this one, and that wasn't a good thing. This was the first Windows model to feature a new user interface, Metro. At the time, mobile devices were exploding in popularity, and Apple's iPad had already become the dominant way to browse the internet. Microsoft wanted to mimic that success, whether the users wanted it or not. Metro used a simplified format that involved shortcut icons to apps, minimalist design, and an optimized desktop. [music] This would mean the apps people clicked on most often were the first ones that they saw when they opened it. On mobile devices, that seemed to be a success as app-based navigation was what most people used. But on the desktop, that was a different story. The full-screen start screen worked well on tablets, but on desktop PCs, it quickly became a problem. It looked clean, but it made precise workflows harder, and the shift to full-screen apps made multitasking feel clunky, even restrictive. For many users, especially in business environments, it did not feel like an upgrade. It felt like a step backwards."
+    },
+    {
+      "id": 118,
+      "debut": 5825.06,
+      "fin": 5854.45,
+      "temps_estime": false,
+      "titre": "Windows 8 designed for touch while users stayed on desktops",
+      "resume": "The interface was designed for touchscreens even though most users were on traditional desktops, so full-screen apps made multitasking frustrating and business use difficult. Metro, later renamed Modern, was meant for everyday users but pulled everyone into it.",
+      "mots_cles": [
+        "Windows 8",
+        "touchscreen design",
+        "Metro renamed Modern",
+        "desktop users",
+        "business use",
+        "iPad copy",
+        "multitasking",
+        "forced interface"
+      ],
+      "texte": "When Windows 8 launched in 2012, that tension became impossible to ignore. The interface was designed around touchscreens, but most users were still on traditional desktops. It quickly became a nightmare. The full-screen apps made multitasking frustrating, if not impossible, and the PCs were seen as a poor fit for business use, a failed attempt to copy the iPad or something worse. The Metro user interface, which would later be renamed Modern, was designed for everyday users, but everyone else was pulled into it,"
+    },
+    {
+      "id": 119,
+      "debut": 5854.45,
+      "fin": 5913.36,
+      "temps_estime": false,
+      "titre": "Metro designer says casual users came first",
+      "resume": "UX designer Jacob Miller, who worked on Metro, said in a 2014 Reddit discussion that it was built for casual users who Microsoft believed were the majority, so hardcore users would just have to deal with it. The speaker calls it a mercenary decision to expand the user base, treating users as the product.",
+      "mots_cles": [
+        "Jacob Miller",
+        "Metro",
+        "2014 Reddit",
+        "casual users",
+        "power users",
+        "mercenary decision",
+        "Microsoft sales",
+        "users as product"
+      ],
+      "texte": "whether they wanted it or not. UX designer Jacob Miller, who worked on Metro, later commented in a 2014 Reddit discussion clarifying some of the design intent behind it. He explained that the interface was built with casual users in mind who Microsoft believed represented the majority of its customer base. The hardcore users would just have to deal with it. It was a mercenary decision designed to boost Microsoft's long-term sales prospects. The professional users were the heaviest buyers, but they were relatively few in numbers. Content creators and tech experts were heavily outnumbered by grandmas and gamers, but the casual users didn't like when new features were too complex for them to use. So Microsoft decided to move toward a simplified Windows interface that everyone would have to use, expanding its user base in the process. The assumption was that the users with the most invested in the platform would adapt over time, rather than abandon it and start fresh with new systems. The users weren't customers, they were the product, and the worst was yet to come."
+    },
+    {
+      "id": 120,
+      "debut": 5913.36,
+      "fin": 5975.56,
+      "temps_estime": false,
+      "titre": "Chapter five: Windows 10 and the strictest requirements",
+      "resume": "Windows 10 (2015) was promised as a unified version for all devices, with a mobile-oriented interface and gaming technology, though your computer might not run it. Windows 11 then set the strictest system requirements yet: a 64-bit multi-core processor, 4 GB RAM, 64 GB storage, DirectX 12 graphics and an HD display.",
+      "mots_cles": [
+        "Windows 10",
+        "Windows 11",
+        "system requirements",
+        "64-bit processor",
+        "4 GB RAM",
+        "64 GB storage",
+        "DirectX 12",
+        "older machines"
+      ],
+      "texte": "Chapter five, the great PC purge. Windows kept on rolling out new releases for the next few years with all models being seen as minor updates. That was until Windows 10 dropped in 2015. This one was promised as the biggest upgrade to Windows in years, a unified version optimized to run across all devices. The user interface was heavily designed for mobile and incorporated new gaming technologies. When it was announced, it was seen [music] as a promising update for a brand that was starting to be seen as outdated. There was just one problem, your computer might not run it. Windows 11 was positioned as a fresh start for Microsoft. Windows 10 support was gradually phased out and Windows 11 became the only real way forward, but the shift came with a catch. The system requirements were the strictest Microsoft had ever set. Modern 64-bit processor, multiple cores, 4 gigs of RAM, 64 gigs of storage, DirectX 12 graphics, a high definition display. Individually, these all sound reasonable. Together, they quietly excluded a huge portion of older but"
+    },
+    {
+      "id": 121,
+      "debut": 5975.56,
+      "fin": 6019.76,
+      "temps_estime": false,
+      "titre": "TPM 2.0 and the great PC purge",
+      "resume": "The real breaking point was security: Windows 11 requires a TPM 2.0 chip, which became common in consumer PCs only around 2015 and cannot easily be upgraded. The speaker says as many as 60% of Windows PCs were removed from the upgrade path in the biggest PC purge in electronics history.",
+      "mots_cles": [
+        "TPM 2.0",
+        "Trusted Platform Module",
+        "Windows 11",
+        "60% of PCs",
+        "upgrade path",
+        "PC purge",
+        "encryption keys",
+        "locked out"
+      ],
+      "texte": "still functional machines. But the real breaking point wasn't performance, it was security. Windows [snorts] 11 required a TPM 2.0 chip known as the Trusted Platform Module. It was designed to store encryption keys and biometric data in a way that protects the physical device from tampering. And unlike CPU or memory requirements, it wasn't something that you could just upgrade easily. Because TPM 2.0 only became common in consumer PCs around 2015, it meant millions of computers were suddenly locked out. It would lead to the greatest [music] PC purge in electronics history. With one fell swoop, as many as 60% of PCs used for Windows computing were instantly removed from the upgrade path, unable to use the new software."
+    },
+    {
+      "id": 122,
+      "debut": 6019.76,
+      "fin": 6069.06,
+      "temps_estime": false,
+      "titre": "240 million PCs to the landfill",
+      "resume": "According to Canalys, the upgrade barrier sent an estimated 240 million PCs to landfill by the end of 2025, about 105 million pounds of e-waste. The speaker likens it to 320,000 cars stacked flat and raises environmental concerns about working computers made obsolete overnight.",
+      "mots_cles": [
+        "Canalys",
+        "240 million PCs",
+        "e-waste",
+        "landfill",
+        "105 million pounds",
+        "2025",
+        "obsolete computers",
+        "environmental impact"
+      ],
+      "texte": "Some stubborn users powered through with the old technology, but the vast majority just decided it was time to get a new computer. According to Canalys research, that upgrade barrier led to a massive coal of technology, sending an estimated 240 million PCs to the landfill by the end of 2025. And that won't just impact your pocketbook, it will impact the world. [music] That's around 105 million pounds of electronics waste. It weighs about the equivalent of 320,000 cars folded and stacked flat on top of each other, they would be more than 370 miles taller than the diameter of the moon. It raised serious concerns about an environmental ripple effect, and millions of still working computers became obsolete overnight, feeding into an already growing e-waste problem that's difficult to recycle or safely dispose of at"
+    },
+    {
+      "id": 123,
+      "debut": 6069.06,
+      "fin": 6124.16,
+      "temps_estime": false,
+      "titre": "Microsoft's rationale and the stock surge",
+      "resume": "Microsoft maintained the reset was intentional, clearing the foundation for its next ecosystem and driving new PC sales after the COVID-19 hardware boom. Its stock moved from just under $250 in May 2021 to $555, settling at over $400 in May 2026, so Windows 11 has been a winner.",
+      "mots_cles": [
+        "Microsoft stock",
+        "Windows 11 hardware requirements",
+        "COVID-19 hardware boom",
+        "new PC sales",
+        "$555 a share",
+        "May 2021",
+        "May 2026",
+        "forced upgrades"
+      ],
+      "texte": "scale. But Microsoft maintained its position. This wasn't an accident. [music] In their view, it was a necessary reset, one that would clear the foundation for the next phase of their product ecosystem. Microsoft had experienced a historic hardware [music] boom during the COVID-19 pandemic. The strict hardware requirements of Windows 11 promised to force another massive wave of new PC sales to keep the momentum going. Not only would it give them the biggest new product launch of the new era, but it would lead to a buying spree of new PCs by people who needed to meet the system requirements. And it definitely worked. In May 2021, the stock was sitting at just below $250 a share. It surged to $555 a share before settling at its May 2026 point of over $400 a share. Windows 11 has been a winner for the company, despite and maybe because of the anger that forced many people to start anew with a fresh"
+    },
+    {
+      "id": 124,
+      "debut": 6124.16,
+      "fin": 6193.56,
+      "temps_estime": false,
+      "titre": "Chapter six: Windows 11 telemetry debt",
+      "resume": "Computers are more connected than before, and the PC Security Channel showed Windows 11 actively collecting diagnostic, usage and performance data, with a baseline level effectively unavoidable. The speaker says data is analyzed and sent to Microsoft's servers to optimize performance and to sell you things.",
+      "mots_cles": [
+        "Windows 11 telemetry",
+        "PC Security Channel",
+        "diagnostic data",
+        "usage data",
+        "Microsoft servers",
+        "privacy",
+        "spy in the shell",
+        "baseline telemetry"
+      ],
+      "texte": "PC. But it's not just about the new computer, it 's about what's going into them. Chapter six, Telemetry Debt, the spy in the shell. One of the biggest topics in computing lately is security, not just from outside hackers, but from the company itself. Computers are more connected to the internet and to third-party applications than ever before. Smartphone users are familiar with this, but until recently desktop computers were seen as more secure. That might be changing. There's been a recent focus on Windows 11 telemetry. That's the automated process of collecting and transmitting data from your computer to exterior sources. It turns out your computer is always talking. An analysis by the PC Security Channel showed that Windows 11 is very active in collecting diagnostic usage and performance data as you work. Users quickly began looking for ways to disable it, and while some of it could be limited, a baseline level of telemetry is effectively unavoidable. But Windows 11 goes further than most users expected. Even before the user opens a web browser, the computer is active in analyzing your data. Then it delivers it to the Microsoft servers so it can ostensibly optimize your performance [music] and to sell you"
+    },
+    {
+      "id": 125,
+      "debut": 6193.56,
+      "fin": 6244.76,
+      "temps_estime": false,
+      "titre": "Windows 11 as an ad delivery system",
+      "resume": "Critics call Windows 11 an ad delivery system you pay extra for, with promos and suggestions for Microsoft products based on your activity. Turning off personalization and tightening privacy settings reduces ads, but users know Microsoft is watching, a far cry from the clean Windows 7.",
+      "mots_cles": [
+        "Windows 11 ads",
+        "personalization",
+        "promos",
+        "privacy settings",
+        "Windows 7",
+        "telemetry",
+        "suggestions",
+        "ad delivery"
+      ],
+      "texte": "things. According to the critics of the modern OS, Windows 11 is little more than an ad delivery system that you are paying extra for. The software has been known for its display ads and promos as soon as you turn it on, offering you suggestions for new Microsoft products and features based on your ongoing activity. It's not exactly new behavior, but for most people it is just more hassle than it's worth to turn it off. Digging through the systems and turning off features like personalization as well as upgrading privacy settings can minimize the number of ads that show up. In recent updates users have reported seeing fewer ads, but users have seen behind the curtain now. Even if they're not seeing the ads, they know that Microsoft is watching them and taking notes. It's a far cry from the clean, easy-to-use Windows 7, but some worry the privacy issues are just beginning because Microsoft is out to win the next"
+    },
+    {
+      "id": 126,
+      "debut": 6244.76,
+      "fin": 6326.16,
+      "temps_estime": false,
+      "titre": "Chapter seven: Windows Recall unveiled",
+      "resume": "Recall, part of the Copilot system rolled out in 2024 with OpenAI technology, was unveiled in May 2024 as a feature that takes a screenshot of the desktop every few seconds to create a searchable record. The speaker says the backlash was immediate because no one knew how the data was secured.",
+      "mots_cles": [
+        "Windows Recall",
+        "Copilot",
+        "OpenAI",
+        "May 2024",
+        "screenshots every few seconds",
+        "privacy backlash",
+        "AI assistant",
+        "searchable record"
+      ],
+      "texte": "war. Chapter seven, the final up. Windows 11 has had several updates since it launched in 2021, but none as controversial as Windows Recall. It was a part of Microsoft's broader Copilot system, an AI powered assistant rolled out across its products in 2024 through a partnership with OpenAI. Instead of building its own model from scratch like some competitors, Microsoft integrated existing AI technology directly into Windows. The chatbot was supposed to be a built-in assistant that could help write text, automate everyday tasks, and offer real-time suggestions across the system. But what they didn't know was it was spying on them all the time. Windows Recall was positioned as a flagship feature, but most users would never interact with it directly or even know it existed. That is unless they were watching the press conference where it was unveiled in May 2024. It sounded deceptively simple. It would automatically take a screenshot of the desktop every few seconds, creating a record of everything you do. If you lost any information, it'd be easy to look it up. Your computer now knew what you were doing all the time, and so did any hacker or malware that managed to get into your system. As soon as people heard about this feature, the backlash was immediate. People didn't want their privacy logged to this extent, especially as no one knew about the security of the data. Making it worse,"
+    },
+    {
+      "id": 127,
+      "debut": 6326.16,
+      "fin": 6395.36,
+      "temps_estime": false,
+      "titre": "Recall's unencrypted database and the race with Apple",
+      "resume": "Recall was set to be on by default, and after criticism Microsoft postponed the rollout and made it opt-in. It then emerged the data sat in an unencrypted plain text database, like a glass vault with no lock, and the speaker says Microsoft rushed to beat Apple in AI, asking whether it knows what it's doing.",
+      "mots_cles": [
+        "Recall",
+        "unencrypted database",
+        "plain text",
+        "opt-in",
+        "Alexander Hagener",
+        "Microsoft rollout",
+        "Apple AI",
+        "security breach"
+      ],
+      "texte": "the feature was going to be turned on by default. This wasn't so much a backup or security feature as automatic spyware that comes pre-installed on your computer. The criticism from both security professionals and casual users who didn't like AI was so swift that Microsoft postponed the rollout and added an opt-in feature. But the biggest problem was yet to come. It soon came out that everyone's worst fears were accurate. The initial data was being saved on a plain text database with no encryption. This created a comprehensive, easily hackable database of your life directly on your own hard drive. It was like a bank building a glass vault in your living room and then forgetting to put a lock on the door. According to cybersecurity expert Alexander Hagener, users could have all their activity compromised in a shocking breach of customer trust. And the motivation for this sloppy rollout, Microsoft just wanted to beat Apple to the AI punch. But Apple had its own major AI problems, missing several deadlines and underdelivering. Ironically, that might have been the winning hand because Microsoft's rollout was costly and disastrous. And it all comes down to one question. Does Microsoft even know what it's doing"
+    },
+    {
+      "id": 128,
+      "debut": 6395.36,
+      "fin": 6472.96,
+      "temps_estime": false,
+      "titre": "Chapter eight: the crumbling foundation of Windows",
+      "resume": "Windows has a never-ending parade of screw-ups, and the 50-million-line code grows more complex with each release. Analysts say fixing it would mean starting fresh and dropping backward compatibility, which would risk Microsoft's monopoly, so it keeps releasing flawed versions that favor stock price over users.",
+      "mots_cles": [
+        "Windows foundation",
+        "50 million lines of code",
+        "backward compatibility",
+        "start fresh",
+        "monopoly",
+        "Microsoft stock price",
+        "bloat",
+        "flawed releases"
+      ],
+      "texte": "anymore? Chapter eight, the crumbling foundation. Windows loyalists have lived [music] through what seems like a never-ending parade of software screw-ups, failed launches, and glitches that plague casual users against professionals. [music] With each new release, the code gets more and more complex, leading to the current bloated 50 million line monstrosity. So what could fix it? Can it even be fixed? More and more users are looking at the string of disasters and saying the problem isn't individual releases, it's the foundation. Windows keeps building on itself, but the base is rotting. With each new release, Windows seems to become more complicated and less user-friendly, and many of the new features seem like more trouble than they're worth. Analysts say the best way to fix Windows might be to simply start fresh, create a new model that would be more suited for the tastes of today's users. But to do that, they would need to ditch the backwards compatibility that's become their bread and butter. They would have to compete with all the established rivals for the market without the security of being able to transition people from one version of Windows to another. They're never going to give up that monopoly. To start over, Microsoft would have to risk everything. So the safer option is to continue releasing flawed models that aim to improve the problem with the last Windows while creating new ones. The user loses, but Microsoft's stock price"
+    },
+    {
+      "id": 129,
+      "debut": 6472.96,
+      "fin": 6503.46,
+      "temps_estime": false,
+      "titre": "Boss ware: remote work surveillance",
+      "resume": "The speaker introduces employer monitoring: once a laptop connects to a company network, management can pull up a chair in your home office, and in the United States it is virtually 100% legal. Nicknamed boss ware, it lets bosses know when you slack and read messages, so you are working under observation.",
+      "mots_cles": [
+        "boss ware",
+        "employee monitoring",
+        "remote work",
+        "company network",
+        "surveillance",
+        "US law",
+        "slacking",
+        "working under observation"
+      ],
+      "texte": "wins. Your boss might be watching you right now, even if you work from home. The moment your laptop connects to a company network, you've basically invited management to pull up a chair in your home office and spy on you. And in the United States, [music] it is virtually 100% legal. There's even a nickname for it, boss ware. They know when you slack. They know about every message you send, and they can read them. Their eyes are always on you. It leaves you facing an uncomfortable truth. You're not just working remotely anymore. You're working under"
+    },
+    {
+      "id": 130,
+      "debut": 6503.46,
+      "fin": 6545.46,
+      "temps_estime": false,
+      "titre": "Chapter one: the Teams green dot and productivity theater",
+      "resume": "Roughly 320 million people use Microsoft Teams, and a status light that isn't green makes employers suspicious, spawning tips to avoid idle status. This productivity theater has become an industry of mouse jigglers that keep a mouse moving.",
+      "mots_cles": [
+        "Microsoft Teams",
+        "green status dot",
+        "productivity theater",
+        "mouse jigglers",
+        "idle status",
+        "320 million users",
+        "remote work",
+        "employee monitoring"
+      ],
+      "texte": "observation. Chapter one, [music] the green dot illusion. If you're one of the roughly 320 million people who use Microsoft Teams since 2024, you're more than familiar with how it forces you to perform or risk losing your job. If your status light isn't green, your employers start to get suspicious about how long you've been away from your desk. There are even articles available that give you tips and tricks on avoiding the dreaded idle status. It's all part of something called productivity theater. At this point, it's become a whole industry unto itself, all to the end of keeping that little green Teams light on. It's why if you go to any online retailer, you'll find so many options for mouse jigglers, a desk gadget that keeps your mouse eternally shaking to"
+    },
+    {
+      "id": 131,
+      "debut": 6545.46,
+      "fin": 6615.66,
+      "temps_estime": false,
+      "titre": "The unified audit log and app interaction telemetry",
+      "resume": "Microsoft 365's unified audit log gives managers telemetry about which apps you interact with and how often, whether your camera is on and what messages you send, making status light and mouse movement worthless metrics. The speaker quotes IBM's definition of telemetry to explain why it matters.",
+      "mots_cles": [
+        "unified audit log",
+        "Microsoft 365",
+        "Teams",
+        "app interaction telemetry",
+        "IBM definition",
+        "camera on",
+        "manager insights",
+        "employee data profile"
+      ],
+      "texte": "avoid it ever going idle. But Microsoft has invented the ultimate curtain call for productivity theater, the unified audit log. Those three words might land you on the unemployment line. For management, one of the biggest advantages of Microsoft Teams and its unparalleled integration into the Microsoft 365 suite is the extremely powerful insights into your overall app interaction telemetry. That word is incredibly important to understand for all of this to make sense. IBM defines it as, quote, the automated collection and transmission of data and measurements from distributed or remote sources to a central system for monitoring, analysis, and resource optimization. And that is exactly what the unified audit log makes possible. Your overall status and whether your mouse is moving is a worthless metric. Bosses will now be able to get a centralized data profile that tells them which apps on the 365 suite you've been interacting with and how often. They'll know if your camera is on in the meetings, what messages you're sending, and how you are spending company time. Thanks to Teams, they can now know at the click of a button, regardless of what color your little status light is."
+    },
+    {
+      "id": 132,
+      "debut": 6615.66,
+      "fin": 6673.97,
+      "temps_estime": false,
+      "titre": "Chapter two: the Teams office spy and Wi-Fi location tracking",
+      "resume": "A new Teams feature detects your location when you connect to company Wi-Fi and makes it accessible to admins and coworkers, as Microsoft declined to comment. The speaker argues the claimed benefit of finding coworkers is a weak excuse, since you can just send a message.",
+      "mots_cles": [
+        "Microsoft Teams",
+        "location tracking",
+        "company Wi-Fi",
+        "office spy",
+        "coworkers",
+        "server admins",
+        "new feature",
+        "privacy"
+      ],
+      "texte": "But that is not even half as sinister as the other thing that the tech allows your bosses to do. Know exactly where you're working at any given time, like they've implanted a tracking chip right there in your laptop or phone. two, the office spy. One of the latest features on Microsoft Teams will effectively allow your boss and all of your coworkers sharing the same work Wi-Fi network to stock you. This isn't just a fear-mongering exaggeration, it's real. Microsoft has declined to comment in interviews, but the application will automatically detect your location whenever you connect to company Wi-Fi. This information will not only be easily accessible to server admins, but also your coworkers. One of the major so-called benefits of this new feature is that it allows you to detect and connect with your coworkers on projects, but anyone who wasn't born yesterday could tell you why that excuse doesn't stand up to scrutiny. If you want to cowork on a project with a fellow coworker, you can just send them a"
+    },
+    {
+      "id": 133,
+      "debut": 6673.97,
+      "fin": 6723.06,
+      "temps_estime": false,
+      "titre": "Who benefits and how the tracking is disclosed",
+      "resume": "The speaker says only managers benefit from knowing every worker's location, helping them judge whether you are potential profit or cost. System admins must turn it on and, depending on the state, only have to give notice, possibly hidden in a user agreement or sold as convenience.",
+      "mots_cles": [
+        "location tracking",
+        "managers",
+        "admin opt-in",
+        "notice requirements",
+        "user agreement",
+        "convenience pitch",
+        "privacy rights",
+        "Teams"
+      ],
+      "texte": "message. The only people who would benefit from knowing the exact location of all their workers at all times when connected to company Wi-Fi are your managers. They'll be able to see if you're a stack of potential profits or an unacceptable cost. Collecting reams of data on you is how they think they can tell the difference without actually getting involved. It's important to remember that the system admins at your workplace need to choose to turn this thing on. If they do, depending on your state, they legally only have to give you notice. But bear in mind, this isn't always so straightforward. They might hide this caveat in a larger user agreement, just expecting you to click I agree without reading, or they might try to sell it to you through convenience saying you'll never need to manually set your work location again. The only time you'll have power over this is before you sign away your right to privacy in"
+    },
+    {
+      "id": 134,
+      "debut": 6723.06,
+      "fin": 6810.67,
+      "temps_estime": false,
+      "titre": "Chapter three: Meta's keystroke logging and the MCI",
+      "resume": "Beyond Teams, workplace surveillance is a thriving industry: as of late April 2026 Meta installed software on employee devices tracking every key press, click and mouse movement under the Model Capability Initiative to train AI. The speaker says it stores flagged words like pay raise or union and has workers train their own replacements.",
+      "mots_cles": [
+        "keystroke logging",
+        "Meta",
+        "Model Capability Initiative",
+        "MCI",
+        "April 2026",
+        "union",
+        "AI training",
+        "employee replacement"
+      ],
+      "texte": "the first place. Chapter three, the keystroke [music] trap. You might think based on these two cases that if your workplace doesn't use Microsoft Teams, [music] you're in the clear. You'd be wrong. Technical employee surveillance is a thriving industry. With the advent of AI and the never slowing down software boom, new methods are being added to the spying toolkit every day. Take for example, keystroke logging. This is somehow even more invasive and terrifying than the other options, and major tech companies like Meta are already doing it. As of late April 2026, Meta installed software on all employee devices that will track every key press as they type on their keyboards, every click they make, and even their mouse movements, all supposedly to train their AI models to perform these tasks autonomously. [music] This dystopian technology is called the Model Capability Initiative, or MCI, and it is awful for employees for two different reasons. First, it is literally watching everything you click and type while at work and storing that information. If you use certain terminology that might be flagged inside the system like pay raise or union in chats [music] that you naively think are private, you might suddenly find the boss looking at you an awful lot closer. [music] But even worse, if your company uses a program like this, it means that they're getting you to provide free on-the-job training to your own replacement. To you, it's the destruction of your livelihood and potentially even your industry. To management, [music] they might reframe it as data-driven cost cutting for the"
+    },
+    {
+      "id": 135,
+      "debut": 6810.67,
+      "fin": 6869.97,
+      "temps_estime": false,
+      "titre": "Chapter four: employer access to emails and browsing",
+      "resume": "Work computers, servers and email addresses belong to the employer, which can read email bodies and attachments and see your searches. Gartner's Brian Kropp says anything you write on company messaging platforms can be looked at, and tools like SentryPC, WorkExaminer and iMonitorSoft keep improving.",
+      "mots_cles": [
+        "employer access",
+        "work email",
+        "Brian Kropp",
+        "Gartner",
+        "SentryPC",
+        "WorkExaminer",
+        "iMonitorSoft",
+        "browser history"
+      ],
+      "texte": "shareholders. Chapter four, the AI risk score. It seems like nothing is sacred in the office, including your emails and browser history. If you're using a work computer, a work server, or even a work email address, all of these things are not your property. They belong to your employer, and that gives them sweeping rights to run through the content with a fine-toothed comb. Your company IT department knows every embarrassing question you've ever Googled on company time. Your boss can't just see the subject line of your email, its recipient, and the time it was sent, but also the body text and any attachments you had on it. None of this is off limits, none of it. Brian Kropp, chief of research for Gartner's HR practice, says anything that you write on any company messaging platform your employer has access to, either through IT or HR. Anything you put on these platforms your employer can look at. Demand for the technology has only improved the technology over time. Services like SentryPC, WorkExaminer, and iMonitorSoft all boast about one particular aspect of"
+    },
+    {
+      "id": 136,
+      "debut": 6869.97,
+      "fin": 6913.47,
+      "temps_estime": false,
+      "titre": "Secret screenshots on flagged words",
+      "resume": "Monitoring software can secretly take screenshots when it detects employer-defined unacceptable behavior or words, so a typo matching a secret list could be sent straight to your boss. The speaker says this gives a boss looking for an excuse a silver bullet.",
+      "mots_cles": [
+        "employee monitoring software",
+        "secret screenshots",
+        "flagged words",
+        "typo",
+        "employer evidence",
+        "AI software",
+        "privacy",
+        "dismissal"
+      ],
+      "texte": "their functionality. If their system detects unacceptable employee behavior, and the parameters for this are, of course, selected by the employer, they'll secretly take a screenshot of the moment they view as a breach for the employer to keep as evidence. Imagine this. You're typing fast and a perfectly innocent [music] word that you were typing now reads as something offensive because you clicked the wrong key. This isn't just a misunderstanding anymore. If your typo is on a secret internal list of unacceptable words or phrases, the screenshot has already been taken and sent directly to your boss to incriminate you. If your boss has already been looking for an excuse to get rid of you for whatever reason, a piece of AI software has just given them the silver bullet and then painted a target on your forehead. And that is"
+    },
+    {
+      "id": 137,
+      "debut": 6913.47,
+      "fin": 6979.67,
+      "temps_estime": false,
+      "titre": "Veriato Cerebral and behavior analytics",
+      "resume": "Services such as Veriato Cerebral record continuous video of your screen through a time capsule feature when they suspect a code-of-conduct breach, and build employee profiles from file transfers, app time and messaging. The purpose is behavior analytics that flag anomalies outside your predicted pattern.",
+      "mots_cles": [
+        "Veriato Cerebral",
+        "time capsule",
+        "screen recording",
+        "behavior analytics",
+        "employee profiles",
+        "anomaly detection",
+        "code of conduct",
+        "AI integration"
+      ],
+      "texte": "still not nearly as bad as the ways your bosses can invade your privacy if they have bought a subscription to Veriato Cerebral Security. It's one of the more high-end employee stalking software services on the market. They've taken the screenshot violation even further with their time capsule feature. It'll capture a continuous video recording of your screen if the software has reasons to believe that you are violating the company code of conduct. [music] Thanks to AI integration, not only does Veriato in the hundreds, if not thousands of companies like it, use their recordings to gather massive data packets, it also creates profiles on every employee. Their profile will be the product of patterns that the software identifies when it's spying on you. How many files do you download and upload on a daily basis? How much time do you spend interacting with each workplace application? How do you message? How many messages do you send? The purpose of all of this is behavior analytics, allowing them to identify anomalies in your behavior. In other words, if you start acting outside of the pattern that the software has predicted for you, it'll flag you as behaving strangely and let your boss know that something is"
+    },
+    {
+      "id": 138,
+      "debut": 6979.67,
+      "fin": 7033.47,
+      "temps_estime": false,
+      "titre": "AI mistakes, risk scores and stealth mode",
+      "resume": "The speaker warns that AI makes mistakes and hallucinates, but managers may trust the service over you, and the data is compiled into a risk score on every employee. The software's marketing boasts stealth mode by default, with screen captures every 30 seconds even when nothing is wrong.",
+      "mots_cles": [
+        "AI hallucination",
+        "risk score",
+        "employee monitoring",
+        "stealth mode",
+        "screen capture every 30 seconds",
+        "manager trust",
+        "security threat",
+        "surveillance software"
+      ],
+      "texte": "wrong. Just because a single workday meant that you downloaded more files than usual or sent more emails, suddenly you're under a microscope. We all know just how often AI makes mistakes [music] or suffers from hallucinations, but does your manager know that? If they're buying one of these services, chances are they trust it. And if it randomly declares you the company problem child, it's your word against the service your boss is paying for. They even use all the data they collect to compile a risk score on every employee. It assesses the likelihood that you'll be a security threat to the company. And this is all true. Very Auto's own marketing materials brag that it runs in stealth mode by default, meaning that users would have no way of even knowing they're being watched. It's like an invisible person standing behind you right now, staring over your shoulder. Even if it doesn't detect wrongdoing, it'll just take a screen cap of your device every 30 seconds. Chapter five,"
+    },
+    {
+      "id": 139,
+      "debut": 7033.47,
+      "fin": 7074.74,
+      "temps_estime": false,
+      "titre": "Chapter five: the digital panopticon",
+      "resume": "The speaker explains Jeremy Bentham's 1786 panopticon, a prison thought experiment where prisoners believed they could always be watched and behaved. He says software now builds a global digital panopticon trapping every employee at every company.",
+      "mots_cles": [
+        "panopticon",
+        "Jeremy Bentham",
+        "1786",
+        "digital panopticon",
+        "employee surveillance",
+        "obedience",
+        "thought experiment",
+        "workforce monitoring"
+      ],
+      "texte": "the [music] digital panopticon. Paranoia of being observed breeds obedience. This whole idea was created by English philosopher Jeremy Bentham in 1786, [music] almost 200 years before John Wilder Tukey first used the word software in the context of computing. He called it the panopticon, a thought experiment around a perfect prison [music] where prisoners believed they could be watched at all times. And so they always behaved themselves. [music] Now we're seeing Bentham's dream realized across the whole workforce as intricate nets of software web together to create a global digital panopticon with every [music] employee at every company trapped inside. And in an effort to stay on top of it in a competitive boss wear market,"
+    },
+    {
+      "id": 140,
+      "debut": 7074.74,
+      "fin": 7109.57,
+      "temps_estime": false,
+      "titre": "Sneak and Protoscore: bizarre monitoring services",
+      "resume": "Companies compete with invasive services: Sneak presents itself as a mental health aid but allows conference calls with no decline button, and Protoscore AI tracks activity to create a numerical productivity score that may misjudge nuanced jobs.",
+      "mots_cles": [
+        "Sneak",
+        "Protoscore",
+        "productivity score",
+        "AI monitoring",
+        "mental health aid",
+        "conference call",
+        "boss ware market",
+        "employee tracking"
+      ],
+      "texte": "[music] companies are creating increasingly bizarre and invasive services to set themselves apart. Sneak is a piece of software that likes to present itself [music] as a conscientious mental health aid for employees who miss the workplace atmosphere. But is your mental health really improved by your boss having the ability to conference call you at any time without a decline button? Protoscore is an AI service that relentlessly tracks your activity and uses it to create a numerical productivity score for your boss. And if you have a position that has a pretty nuanced view of productivity, [music] then there is an excellent chance this one could get you into trouble. And"
+    },
+    {
+      "id": 141,
+      "debut": 7109.57,
+      "fin": 7170.87,
+      "temps_estime": false,
+      "titre": "Active-work tracking cuts pay and spyware features",
+      "resume": "Tracking software that records so-called active work can cut pay, as finance executive Carol Kramer's $200 an hour salary became meager when employers billed only active minutes. The New York Times found eight of the 10 largest US private employers track individual productivity, and tools like FlexiSPY offer call tapping, webcam and mic surveillance.",
+      "mots_cles": [
+        "Carol Kramer",
+        "active work tracking",
+        "New York Times",
+        "largest US employers",
+        "FlexiSPY",
+        "Spyera",
+        "webcam surveillance",
+        "Surfshark"
+      ],
+      "texte": "software designed to track your so-called active work can genuinely eat into your paycheck [music] as workers like finance executive Carol Kramer found out. Her $200 an hour salary resulted in a truly [music] pathetic take-home pay because her employers used tracking software to only let her bill for the specific [music] minutes that she was actively working. And this isn't an isolated incident. Eight of the 10 largest private US [music] employers track the productivity metrics of individual workers, many in real time, according to an examination by the New York [music] Times. Some services like FlexiSPY, Spyera, Clever Control, and iKeyMonitor also provide call tapping functionality. Even more of these services offer webcam and mic surveillance, audio monitoring, and even mobile device access, so they can really get you anywhere. According to Surfshark, information on these services is even gathered into a centralized war room interface inside the software. The thing they're declaring war against is you ever having a sense of privacy"
+    },
+    {
+      "id": 142,
+      "debut": 7170.87,
+      "fin": 7208.27,
+      "temps_estime": false,
+      "titre": "Slack and Google Workspace Vault also enable monitoring",
+      "resume": "The speaker says it's not just Microsoft: on Slack's enterprise plan administrators can store and view messages, and Google Workspace plans such as Business Plus and Enterprise Standard offer Vault to archive and search Drive, Gmail, Groups, Chat, Voice, Hangouts and Meet.",
+      "mots_cles": [
+        "Slack enterprise",
+        "Google Workspace",
+        "Vault",
+        "Gmail",
+        "Drive",
+        "Google Chat",
+        "Meet",
+        "workplace messaging"
+      ],
+      "texte": "again. But it's not just Microsoft. You are not safe on some of the most ubiquitous workplace apps on the market. If your workplace is using Slack and your company is buying the enterprise plan, it's easy for administrators to store and view your messages from everyone using the system underneath them. If the company you work at uses Google Workspace and subscribes to plans like Legacy G Suite Business, Google Workspace Business Plus, and Enterprise Standard, they can use the Vault. This ominously named feature allows them to archive and search specific content from the company's employees across Drive, Gmail, Groups, Chat, Voice, Classic Hangouts, and Meet. The fact is all of"
+    },
+    {
+      "id": 143,
+      "debut": 7208.27,
+      "fin": 7261.27,
+      "temps_estime": false,
+      "titre": "Surveillance stress and falling productivity",
+      "resume": "An ExpressVPN study found 56% of employees feel stressed or anxious when they suspect hidden monitoring, and Swinburne's Peter Holland says more surveillance tends to make people less productive. Market forces still push management toward aggressive data-driven approaches, so in cutting costs they cut down all the trees.",
+      "mots_cles": [
+        "ExpressVPN study",
+        "56% stressed",
+        "Peter Holland",
+        "Swinburne University",
+        "productivity",
+        "employee surveillance",
+        "data-driven management",
+        "cost cutting"
+      ],
+      "texte": "this is terrifying, and we have the stats to back it up. A study conducted by Express VPN found that 56% of employees feel stressed or anxious when they suspect monitoring is happening without their knowledge. Peter Holland, a professor of human resource management from Swinburne University, has gone on record saying that he thinks relentless productivity monitoring actually has the exact opposite of the intended effect. During an interview on the subject of boss where, he said, the research indicates that the more you monitor and surveil people, the more likely it is that they are going to be less productive. People have spoken about being bullied, but despite this, market forces seem to be increasingly pressing management to take an aggressively data-driven approach to running their businesses. The result, they can no longer see the forest. In their desire to cut costs, they cut down all the trees. Chapter six, the office"
     }
   ]
 }
