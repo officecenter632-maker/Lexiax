@@ -24,3 +24,13 @@ Speech : 5625 lignes, 11085,31 s (~184,8 min), sous-titres automatiques, langue 
 - Remarques : le segment 50 commence par le fragment « and independent? China wants Taiwan and » (reste de la phrase coupée à la fin de la tranche 1). La tranche se termine à la fin de la ligne 2060 (« ...isolated and sanctioned. [music] ») ; la ligne 2061 (« While Taiwan isn't universally acknowledged... ») ouvre la tranche suivante.
 - Point d'arrêt : ligne 2060. Prochaine étape : tranche 3 à partir de la ligne 2061 (id 90).
 
+
+## Reprise à la ligne 2061
+Travail de l'agent précédent vérifié (89 segments, lignes 1 à 2060, OK). Style conservé : titres, résumés et mots-clés en anglais, coupures à des fins de ligne (temps_estime false), id qui continuent à 90.
+
+## Tranche 3 : lignes 2061 à 2979 (poussée)
+- Minutes couvertes : 68,1 à 98,2 (4086,44 s à 5894,96 s), soit 30,1 min.
+- Segments : 51 nouveaux (id 90 à 140) ; total 140.
+- Contenu : fin du chapitre « La Chine veut-elle dominer le monde ? » (piratage informatique chinois, mer de Chine méridionale, îles artificielles, Afrique et piège de la dette, puissance militaire et scénarios de prise de contrôle, Inde, îles du Pacifique, Guam, Hawaï), puis à partir de la ligne 2509 un nouveau récit (émission « Infographics Show ») : comment les USA verrouilleraient le Pacifique en 48 heures (armada chinoise vers Taïwan, fin de l'ambiguïté stratégique, mobilisation de la flotte américaine, alliés, cyber et espace, îles Ryukyu, sous-marins, bombardiers B-2, calcul économique côté Xi).
+- Remarques : la tranche se termine à la fin de la ligne 2979 (« ...rather than bear down. ») ; la ligne 2980 (« The turning point comes when Japan ») ouvre la tranche suivante. Quelques segments finissent sur quelques mots qui appartiennent à l'idée suivante (coupures en fin de ligne). Le segment 107 (id) est court (13 s) : conclusion de scénario.
+- Point d'arrêt : ligne 2979. Prochaine étape : tranche 4 à partir de la ligne 2980 (id 141).
