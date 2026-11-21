@@ -4,12 +4,12 @@
   "titre_video": "You NEED to STOP Using Windows 11 Right Now. Microsoft is OVER",
   "duree_s": 10209.9,
   "avancement": {
-    "lignes_traitees": 1683,
-    "fin_traitee_s": 3555.33,
+    "lignes_traitees": 2585,
+    "fin_traitee_s": 5422.85,
     "nb_lignes_total": 4857,
     "complet": false
   },
-  "nb_segments": 74,
+  "nb_segments": 112,
   "segments": [
     {
       "id": 1,
@@ -1399,6 +1399,727 @@
         "lock-in"
       ],
       "texte": "scales up. Pull all this together and the full shape of what France pulled off becomes visible. A financial play, a security operation, a hardware policy, all executed at once through a single procurement decision. The 40% cost reduction is the headline number. Underneath it sit other gains, intelligence integrity, extended hardware life, budget redirection. The whole move keeps reinforcing itself across multiple political cycles. The era of unavoidable software monopolies is cracking. [music] France broke the corporate lock in on a national scale. Every other European capital can copy it. The excuse for paying the Microsoft tax is gone. It shows that Silicon Valley's nightmare isn't a competitor, it is you realizing you don't need them at all. But the real story just in the"
+    },
+    {
+      "id": 75,
+      "debut": 3555.33,
+      "fin": 3606.63,
+      "temps_estime": false,
+      "titre": "Microsoft sabotaging your computer: the VLC freeze teaser",
+      "resume": "After the France story, the speaker argues Microsoft products look different once you stop depending on Windows, and claims Microsoft is actively sabotaging your computer. VLC Media Player, which opened instantly for 20 years, suddenly froze on double-click and open source developers were blamed, though the code had not changed.",
+      "mots_cles": [
+        "VLC Media Player",
+        "Microsoft",
+        "sabotage",
+        "freeze",
+        "open source developers",
+        "Windows",
+        "security sweeps",
+        "software kill squad"
+      ],
+      "texte": "announcements, it's in the systems quietly being rewritten underneath them. And once you start following that thread, you end up asking different questions about what Windows has become. France moving off Windows wasn't just a procurement choice, it showed what changes when you stop depending on it at scale. [music] And once you see that shift, Microsoft products start to look a little different. Microsoft is actively sabotaging your computer. For 20 years, VLC Media Player opened instantly, and then overnight double clicking it suddenly triggered a brutal freeze. The internet immediately turned on open source developers claiming the software had become bloated garbage, but the code hadn't changed at all. It was something darker, something more sinister. Microsoft security teams were conducting systematic sweeps and suffocating the app from the inside out. But VLC was just the first casualty. This software kill squad is only getting started, and their next target is"
+    },
+    {
+      "id": 76,
+      "debut": 3606.63,
+      "fin": 3648.63,
+      "temps_estime": false,
+      "titre": "August 2026: VLC takes 33 seconds to play an MP3",
+      "resume": "In August 2026 users reported VLC taking 33 seconds to start playing a basic MP3 on some Windows 11 machines, even on one of the fastest gaming processors. An MP3 is a 1990s format that every phone and speaker handles instantly, yet it was bringing modern computers to their knees.",
+      "mots_cles": [
+        "VLC",
+        "MP3",
+        "33 seconds",
+        "Windows 11",
+        "August 2026",
+        "audio playback",
+        "gaming processor",
+        "delay"
+      ],
+      "texte": "already on your laptop. The crisis [music] exploded in August 2026. Users noticed that VLC was taking up the 33 seconds [music] to begin playing a basic MP3 on some Windows 11 machines. That delay would be annoying on a 10 year old laptop, but this wasn't some older hardware. One affected user was running one of the fastest gaming processors money can buy, and it was struggling [music] with a format from the 1990s. An MP3 is so fundamentally basic, every phone, car stereo, and smart speaker [music] can play it without breaking a sweat. Decoding it should take a fraction of a second. Instead, it was bringing modern computers to their knees. The issue might have stayed buried, a niche complaint on some forums that people discussed and then forgot"
+    },
+    {
+      "id": 77,
+      "debut": 3648.63,
+      "fin": 3683.93,
+      "temps_estime": false,
+      "titre": "Jonathan Blow drops VLC",
+      "resume": "The issue found a megaphone when Jonathan Blow, creator of Braid and The Witness, announced he had dropped VLC for Microsoft's media player and called much open source software embarrassing. The speaker says only two suspects remain: either the program is broken or the system underneath it is.",
+      "mots_cles": [
+        "Jonathan Blow",
+        "Braid",
+        "The Witness",
+        "VLC",
+        "Windows Media Player",
+        "open source criticism",
+        "embarrassing",
+        "blame"
+      ],
+      "texte": "about. But instead, it found a megaphone. Jonathan Blow, the programmer behind the acclaimed puzzle games [music] Braid and The Witness, publicly announced that he had dropped VLC. The delay had made him switch to Microsoft's Media Player, and then he went [music] further. In his view, a large sector of open source software is in a truly [music] embarrassing place now. It was a devastating verdict from an industry heavyweight, and it landed on a project that did not deserve it because when a state of the art PC takes a half a minute to open an audio file, there are really only two suspects. Either the program is broken or the system"
+    },
+    {
+      "id": 78,
+      "debut": 3683.93,
+      "fin": 3727.33,
+      "temps_estime": false,
+      "titre": "VLC developers blame Windows Defender",
+      "resume": "On August 12 VLC's developers said the delay came from Microsoft Defender quarantining startup files after a Windows 11 update, putting the word bug in quotation marks. They called Blow's claim disrespectful, arguing the code had not gone bad and Windows treated a normal part of VLC like a threat.",
+      "mots_cles": [
+        "VLC developers",
+        "Microsoft Defender",
+        "Windows 11 update",
+        "quarantined files",
+        "August 12",
+        "Jonathan Blow",
+        "disrespectful",
+        "bug"
+      ],
+      "texte": "underneath it is. VLC's developers did not take it lying down. On August [music] 12th, they fired back. According to them, the delay was caused by an issue caused by Microsoft's antivirus program Defender. The problem was introduced through a Windows 11 update [music] that had quarantined the critical startup files VLC needed to run. They intentionally put the word bug in quotation marks, a subtle way of suggesting that this wasn't an accident. It was how Windows wanted to do things. To top it all off, they took a shot at Jonathan Blow, calling it quite disrespectful to brand open source software as embarrassing, especially over an issue that a Windows update caused. The code hadn't gone bad. Something inside of Windows had started treating a normal part of VLC like a"
+    },
+    {
+      "id": 79,
+      "debut": 3727.33,
+      "fin": 3756.23,
+      "temps_estime": false,
+      "titre": "Blow versus VideoLAN: commercial game vs volunteer project",
+      "resume": "Blow argued fixing the problem was the developer's job, citing his own patch of Braid after an AMD issue. The speaker says the cases differ: Braid is a commercial game, while VLC is run by VideoLAN, a nonprofit with no permanent employees, running on volunteers and donations by design.",
+      "mots_cles": [
+        "Jonathan Blow",
+        "Braid",
+        "AMD",
+        "VideoLAN",
+        "nonprofit",
+        "volunteers",
+        "donations",
+        "VLC"
+      ],
+      "texte": "threat. Blow wasn't convinced. He argued that fixing the problem was the developer's responsibility. He pointed out that he personally patched his game Braids after AMD caused an issue. Maybe he had a point, but the two situations aren't the same. [music] Braid is a commercial game, and when it works, the creator gets paid. VLC is a different animal. It's overseen by VideoLAN, a nonprofit with no permanent employees. It runs mostly on volunteers and donations, and it has stayed that way on"
+    },
+    {
+      "id": 80,
+      "debut": 3756.23,
+      "fin": 3799.53,
+      "temps_estime": false,
+      "titre": "VLC's integrity versus a corporation owning the whole stack",
+      "resume": "VLC lead Jean-Baptiste Kempf turned down multi-million dollar buyouts and venture capital, so VLC is the first program many install on a new laptop, free of ads, bundles and tracking. On the other side is one of the largest corporations shipping the OS, the antivirus and the rival media player Blow switched to.",
+      "mots_cles": [
+        "Jean-Baptiste Kempf",
+        "VLC",
+        "buyouts",
+        "venture capital",
+        "ads and tracking",
+        "Microsoft",
+        "antivirus",
+        "media player"
+      ],
+      "texte": "purpose. VLC's longtime lead, Jean-Baptiste Kempf, has spent years turning down multi-million dollar buyouts and venture capital. He refused [music] to adopt a model that didn't bring value for the users. It is that integrity that earned VLC its reputation. For a whole generation of users, VLC is the first program they install on a new laptop because it's spent decades rejecting the ads, the bundles, and the corporate tracking [music] that no one even asked for. And so, on one side, you have a volunteer-driven project that walked away from a small fortune [music] to keep its software clean. On the other, you have one of the largest corporations on Earth [music] shipping the operating system, the antivirus, and conveniently, the rival media player Blow switched to."
+    },
+    {
+      "id": 81,
+      "debut": 3799.53,
+      "fin": 3847.83,
+      "temps_estime": false,
+      "titre": "How Defender blocks VLC's plugin catalog",
+      "resume": "VLC runs quickly because of a master catalog file that tells it where its tools are, like a library database, so it skips rescanning its startup folder. Defender locked those files and forced the computer to inspect every piece of data first, like a bouncer checking everyone at the door.",
+      "mots_cles": [
+        "VLC plugin cache",
+        "master catalog",
+        "library analogy",
+        "Microsoft Defender",
+        "file locking",
+        "startup delay",
+        "bouncer analogy"
+      ],
+      "texte": "Someone was lying, and [music] it came down to what was happening behind the scenes. VLC is able to run quickly because it uses a master catalog, a single file that tells the app where its tools are so it can open them all quickly. It's like a massive library. When you want a book, the library and doesn't search every single aisle, they check the database and then they go straight to the correct shelf. That catalog is what allows it to skip rescanning its entire startup folder every time it opens. But Windows turned Microsoft Defender into a paranoid guard. Instead of letting VLC read its own catalog, Defender locked the files away, and it forced your computer to manually stop and inspect every piece of data before letting the app begin its tasks. [music] The media player was fine. The files were fine, but Microsoft's digital bouncer was blocking the door and then IDing everyone who tried to get in."
+    },
+    {
+      "id": 82,
+      "debut": 3847.83,
+      "fin": 3884.13,
+      "temps_estime": false,
+      "titre": "A silent Defender fingerprint update and no acknowledgment",
+      "resume": "The speaker says Microsoft updates its security fingerprints regularly, but an overzealous update can make safe independent software look like a virus, forcing VLC to grind through the system each time. Tech reports traced it to a buggy update, yet Microsoft gave no statement or fix, so users blamed the app.",
+      "mots_cles": [
+        "security fingerprints",
+        "Defender update",
+        "quarantine",
+        "VLC",
+        "no official statement",
+        "Microsoft",
+        "malware detection",
+        "users blame app"
+      ],
+      "texte": "Checking files is Defender's job. [music] Microsoft updates its security fingerprints regularly to catch malware, but if a corporate giant tells its bouncer to be overzealous, safe independent software starts to look like a virus. [music] And that's what seems to have happened here. When Defender quarantines or blocks VLC startup files, it [music] forces the player to grind through the system every single time you click a file, but Microsoft never acknowledged it. There was no official statement or fix. [music] Tech reports traced it back to a buggy security fingerprint update, but because no one actually commented on it, users were left in the dark and blaming the app. If"
+    },
+    {
+      "id": 83,
+      "debut": 3884.13,
+      "fin": 3948.34,
+      "temps_estime": false,
+      "titre": "The VLC problem goes back to 2025",
+      "resume": "Complaints date to a 2025 Reddit thread about VLC slowed by Windows Defender, including a 24-second delay that vanished once VLC was open, and reports spanned Windows 10 and 11 and multiple VLC releases. The inconsistent behavior is why open source software takes the blame when a program freezes.",
+      "mots_cles": [
+        "Reddit thread 2025",
+        "Windows Defender",
+        "24-second delay",
+        "Windows 10",
+        "Windows 11",
+        "inconsistent bug",
+        "open source blame",
+        "VLC"
+      ],
+      "texte": "it was a one-time glitch, you could just shrug it off. Software breaks, updates go wrong, but the problem isn't new. Complaints go back to 2025 buried in a Reddit thread titled [music] Start of VLC Slowed by Windows Defender. One Windows 10 user described a 24-second delay that vanished once VLC had been opened, only to return after the PC sat idle. [music] Dozens of other users joined in reporting the same freeze across Windows 10 and Windows 11 editions. [music] So this isn't strictly a Windows 11 issue. It spans two versions of Windows and multiple VLC releases. The problem isn't a broken piece of media software. It is the aggressive security layer underneath it. It's also maddeningly inconsistent. When a tech-oriented news outlet tried to reproduce it, VLC launched normally on their Windows 11 test machine. One user reported that the stall only strikes the first file after a reboot and never the one after that. And that inconsistency is exactly why open source software takes the fall. When a program freezes in front of you, you blame the program. Almost nobody thinks to blame the antivirus working in the background."
+    },
+    {
+      "id": 84,
+      "debut": 3948.34,
+      "fin": 4001.24,
+      "temps_estime": false,
+      "titre": "Paint.net hit by Defender too",
+      "resume": "Paint.net, a free image editor that began as a student project, also ran into Defender, and adding its folder to the exclusion list fixed performance. Its developer had to rewrite an error message to explain why files were not saving, showing a pattern in which Windows security trips up independent apps that wear the blame.",
+      "mots_cles": [
+        "Paint.net",
+        "Windows Defender",
+        "exclusion list",
+        "independent developer",
+        "error message",
+        "Windows 10 update",
+        "pattern",
+        "performance"
+      ],
+      "texte": "VLC isn't the only independent Windows program living with this. Paint.net, a free image editor that started as a student project, has run into Defender more than once. Users realized that adding the apps folder to Defender's exclusion list instantly fixed their performance issues. Things got so bad the developer had to rewrite a message to give the real reasons the files weren't saving. Windows Defender, an independent developer had to sign post an error just so users wouldn't blame his app. Years earlier, right after a major Windows 10 update, one user on its forum reported the editor taking several minutes to become responsive when opening or creating an image. Think about that for a second. An independent developer spent time rewriting an error message so users would stop blaming his app for something Windows was doing. That's a common pattern. Windows' own security layer trips up the software and the independent app wears the blame."
+    },
+    {
+      "id": 85,
+      "debut": 4001.24,
+      "fin": 4065.64,
+      "temps_estime": false,
+      "titre": "Smoking gun: VLC opens in one second on Linux",
+      "resume": "An ex-user recorded the same MP3 opening in VLC on Linux in one second instead of 33, and telling Windows to ignore VLC made it open instantly. Microsoft's own media player was found slower and heavier by Windows Latest, so Blow moved to a slower program, which is what Microsoft wanted.",
+      "mots_cles": [
+        "Linux",
+        "VLC",
+        "MP3",
+        "Windows Defender exclusion",
+        "Windows Media Player",
+        "Windows Latest",
+        "slower",
+        "smoking gun"
+      ],
+      "texte": "Breaking that pattern takes evidence that points in only one direction. The smoking gun came from an ex-user who recorded themselves opening an MP3 with VLC, but on a Linux system. It did not take 33 seconds, it took one. It's the exact same program playing the exact same file. You don't need a lab test to see what's happening. The operating system is the problem. When you tell Windows to ignore VLC, the player opens instantly. The only difference was whether Windows Digital Bouncer was standing in the way. The irony is that while people like Jonathan Blow were criticizing VLC, Microsoft's own media player was coming under scrutiny. Just months earlier, Windows latest had tested it and found it was the slower, heavier option. It took noticeably longer than VLC to open a video. It ate up massive amounts of memory and it struggled with basic files. So, a developer frustrated by slowness abandoned a program that was being slowed down by Windows and then replaced it with a Microsoft program that was fundamentally slower. Whatever the reason, the immediate result was exactly what Microsoft wanted. Users moved from an independent app to Windows own"
+    },
+    {
+      "id": 86,
+      "debut": 4065.64,
+      "fin": 4133.54,
+      "temps_estime": false,
+      "titre": "Edge as parasite: defaults reset and the EU's Digital Markets Act",
+      "resume": "Edge keeps resetting default browsers, partly keeps running when deleted and some Windows links open in Edge regardless, even tying PDFs to it. Under the EU's Digital Markets Act Windows respected user choices, with Edge and Bing easy to uninstall in Europe and defaults covering more link types.",
+      "mots_cles": [
+        "Microsoft Edge",
+        "default browser",
+        "Chrome",
+        "Firefox",
+        "Digital Markets Act",
+        "European Union",
+        "Bing",
+        "PDF defaults"
+      ],
+      "texte": "player. So, is VLC a fluke or just a glimpse of how Windows treats software that gets in its way? Microsoft Edge is less browser and more parasite in your system. If you tell Windows you want to use Chrome or Firefox, updates will routinely reset your default settings. If you try to delete Edge, parts of it will keep running in the background. Even when your choice of default browser sticks, Windows cheats. Parts of Windows 10 and 11 completely ignore the default browser and force links to open in Edge. For new PCs, Edge might also be tied to other formats like PDFs over full-fledged readers like Adobe without even asking your permission. Microsoft can fix this. In fact, it already has for some people. To comply with the European Union's Digital Markets Act, Windows suddenly learned how to respect user choices. For European users, Edge and Bing become easy to uninstall. The European rules went further still. Clicking the set default for a rival browser now covers far more links and file types including PDFs. They even stripped out the featured app box that used to promote Edge whenever someone tried to change their browser defaults. And that change reached users worldwide."
+    },
+    {
+      "id": 87,
+      "debut": 4133.54,
+      "fin": 4176.34,
+      "temps_estime": false,
+      "titre": "Microsoft can level the field but chooses not to",
+      "resume": "Because Microsoft complies when legally required, the speaker says everything on your laptop is a deliberate choice. Store apps get VIP launch treatment while VLC is hidden behind code requiring registry hacks, and Windows shortcuts hijack Python commands to push users to the Microsoft Store.",
+      "mots_cles": [
+        "Microsoft Store",
+        "VLC",
+        "registry hack",
+        "Python",
+        "Windows shortcuts",
+        "two-tier treatment",
+        "deliberate choice",
+        "third-party apps"
+      ],
+      "texte": "Every one of these moves proves the same thing. When Microsoft is legally required to give competitors a level playing field, it [music] can, which means everything on your laptop is a deliberate choice. The same two-tier treatment shows up in less obvious places. If you download an app from the Windows Store, it automatically gets the VIP treatment to launch immediately. But do the same thing with an app like VLC and Windows hides it behind a wall of code. It forces users to manually hack their own registry files to find it. It gets worse. Python is one of the world's most programming languages. Windows includes shortcuts that hijack Python and Python 3 commands and diverts them to the Microsoft store. It forces you to go into settings and clean up Microsoft's"
+    },
+    {
+      "id": 88,
+      "debut": 4176.34,
+      "fin": 4212.74,
+      "temps_estime": false,
+      "titre": "August 2026 mandatory update crashes games and PCs",
+      "resume": "A mandatory security update in August 2026 made games crash and PCs reboot, with Embark posting emergency warnings on Discord, Windows Hello PINs breaking on each restart, and black screens. On August 20 Microsoft added the game crashes to the update's known issues.",
+      "mots_cles": [
+        "August 2026",
+        "mandatory security update",
+        "game crashes",
+        "Embark",
+        "Discord",
+        "Windows Hello PIN",
+        "black screens",
+        "known issues"
+      ],
+      "texte": "mess. And while VLC was freezing, Microsoft dropped another bombshell. In August 2026, Microsoft announced a mandatory security update. Within [music] days, video games were crashing and forcing PCs to reboot. Developers like Embark had to put emergency warnings on Discord stating that Windows was breaking their software. And it wasn't just [music] games. Some users found their Windows Hello PIN broke on every restart. They were trapped in an endless loop where Windows would corrupt its own security keys. Others reported black screens and broken displays. On August 20th, Microsoft officially added the game crashes to the update's known"
+    },
+    {
+      "id": 89,
+      "debut": 4212.74,
+      "fin": 4255.64,
+      "temps_estime": false,
+      "titre": "Microsoft blames RGB lighting drivers",
+      "resume": "Microsoft said RGB lighting software interfered with core system parts, and the speaker concedes it has a point: those drivers run in kernel space, a legitimate security concern for anti-cheat, and a cut-off driver causes a blue screen of death.",
+      "mots_cles": [
+        "RGB lighting",
+        "kernel space",
+        "drivers",
+        "anti-cheat",
+        "blue screen of death",
+        "Microsoft explanation",
+        "Windows update",
+        "crash"
+      ],
+      "texte": "issues. And then came the explanation. It was the fault of your glowing keyboard and fans. [music] Microsoft claimed that RGB lighting was interfering with core parts of the system. And to be fair to Microsoft, they had a valid point here. The driver these lighting utilities rely on runs in kernel space, the most privileged level of the system. To anti-cheat software, that's an exploit waiting to happen. Lighting software with that much access is a legitimate security concern. And when something goes wrong at that level, it goes very wrong. If the driver is cut off in the middle of a task, the result is a critical kernel failure. That causes Windows to show the famous blue screen of death to protect the hardware. And that's the crash players were"
+    },
+    {
+      "id": 90,
+      "debut": 4255.64,
+      "fin": 4296.85,
+      "temps_estime": false,
+      "titre": "The update trap: block RGB software or stay unpatched",
+      "resume": "The drivers had been on gaming PCs with games running fine until Microsoft shipped the update, and the fix blocked lighting software from loading. Rolling back was a trap, since the same patch fixed a zero-day already exploited, leaving users to choose between a PC that works and a safe PC.",
+      "mots_cles": [
+        "Windows update",
+        "RGB drivers",
+        "blocking third-party software",
+        "zero-day vulnerability",
+        "rollback",
+        "security patch",
+        "trap",
+        "gaming PC"
+      ],
+      "texte": "seeing. But look at the actual sequence of events. Those drivers were already sitting on gaming PCs [music] and the games ran perfectly fine. And then Microsoft shipped an update and the games crashed. Microsoft said it was someone else's fault. [music] The fix followed the same logic though. They put a block on the lighting software from loading. Microsoft warned that turning it off could mean RGB features behaved erratically or didn't work at all. Once again, a third-party software gets switched off. If you were tempted to roll back the update to get your laptop or PC working again, Microsoft had already laid the perfect trap. The same patch fixes a zero-day vulnerability that attackers were already exploiting. Users were left choosing between a PC"
+    },
+    {
+      "id": 91,
+      "debut": 4296.85,
+      "fin": 4359.54,
+      "temps_estime": false,
+      "titre": "Intent doesn't matter when one company owns every layer",
+      "resume": "The speaker notes the internet treated Embark crashes as a Windows update problem but VLC as an open source debate, and says no leaked memo shows intent, so the likely cause is an overzealous security update. Microsoft owns the OS, antivirus, browser, media player and store, so an attack and a bug look identical from the user's chair.",
+      "mots_cles": [
+        "Embark",
+        "VLC",
+        "no leaked memo",
+        "overzealous security update",
+        "Microsoft ecosystem",
+        "antivirus",
+        "bug versus attack",
+        "control of every layer"
+      ],
+      "texte": "[music] that works and a safe PC. The real tragedy about this was how the internet was manipulated. When Embark's games crashed, [music] they blamed a Windows update, but when VLC froze, it became part of a debate about open source software. Same kind of problem, very different conclusion. There was no leaked memo, [music] no whistleblower, and no internal document showing that Microsoft set out to break VLC. The most likely explanation is probably more boring. An overzealous security update, a detection rule that caught a harmless file, and a [music] company pushing monthly patches to millions of machines for genuinely good reasons. But that comes with an unfortunate truth. The absence of [music] intent doesn't matter. Microsoft owns the operating system. It owns the antivirus that scans your files. It owns the browser your link's open in, the media player waiting in the wings when VLC stumbles, and the store that hands its own apps the paved [music] road. When one company controls every layer, a strategic attack and an accidental bug look exactly the same from your chair because they end up in the same place."
+    },
+    {
+      "id": 92,
+      "debut": 4359.54,
+      "fin": 4399.24,
+      "temps_estime": false,
+      "titre": "Volunteers fix what Microsoft's update broke",
+      "resume": "Blow moved to Microsoft's app while saying open source was the problem, and the workaround came from volunteers who built their own tools, not Microsoft. The speaker imagines the reverse, a volunteer antivirus breaking Microsoft's media player, and how fast headlines would call open source reckless.",
+      "mots_cles": [
+        "Jonathan Blow",
+        "volunteers",
+        "workaround",
+        "Microsoft",
+        "open source",
+        "hypothetical reversal",
+        "media player",
+        "headlines"
+      ],
+      "texte": "Jonathan Blow is the proof. No plan was needed. One bad update, one frustrating way to end, and a respected developer publicly moved from independent software to Microsoft's own app, all while telling his followers that open source was the real problem. And notice who ended up doing the fixing. The workaround didn't come from Microsoft. It came from the volunteers who had built their own tools to fix it. The company whose update set it off didn't have to lift a finger. Flip the roles and imagine a free volunteer-built antivirus locked away a core file inside of Microsoft's media player, and every song suddenly took half a minute to start. And how long would it take for headlines to declare that open source security tools were reckless and"
+    },
+    {
+      "id": 93,
+      "debut": 4399.24,
+      "fin": 4441.74,
+      "temps_estime": false,
+      "titre": "The asymmetry: Microsoft's bugs are bugs, others' are their fault",
+      "resume": "When Microsoft breaks something it is just a bug, but independent projects in the blast radius get blamed, with no PR department or hotline to Microsoft. VLC is often the first thing installed on a Windows PC, and independent software never stands a chance when one company controls the OS and decides what looks suspicious.",
+      "mots_cles": [
+        "asymmetry",
+        "Microsoft bug",
+        "independent software",
+        "volunteer projects",
+        "public accusations",
+        "VLC",
+        "blame",
+        "operating system control"
+      ],
+      "texte": "embarrassing? The asymmetry is the story. When Microsoft breaks something, it's just a bug. When anyone else is caught in the blast radius, it's their fault. The people who pay the price are the volunteer projects with no PR department and no hotline to corporate headquarters. They're the ones having to answer [music] public accusations on their own time. And the tools they built like VLC are often the very first things people install to make a new Windows PC feel like their own. Because when a company that builds your operating system also decides which software looks suspicious, which links open where, and which drivers get shut off, independent software never stands a chance. And when Microsoft breaks your computer, it's the volunteer who has to shoulder the blame."
+    },
+    {
+      "id": 94,
+      "debut": 4441.74,
+      "fin": 4492.34,
+      "temps_estime": false,
+      "titre": "How AI is killing Windows 11: Microsoft's competitive pressure",
+      "resume": "Beginning a new section, the speaker says Microsoft, once the undisputed king of personal computing, now faces Apple, Chromebooks and a changing PC market while keeping Windows easy to use and Office widely used. Its big swing to rush AI into its systems might be what dooms it.",
+      "mots_cles": [
+        "Microsoft",
+        "Windows 11",
+        "AI",
+        "Apple",
+        "Chromebooks",
+        "Microsoft Office",
+        "competition",
+        "personal computing"
+      ],
+      "texte": "Microsoft used to be the king of computing, and now with Apple and Google surging ahead, they've become desperate. AI is changing the world and your computer is paying the price. Here is how AI is killing Windows 11. If you own a computer that isn't a Mac, [music] odds are it runs on Microsoft Windows, the operating system that is powered most PCs since the early '90s. Microsoft used to be the undisputed king of [music] personal computing, but today it's facing more competition than ever from Apple, Chromebooks, and a changing PC market. [music] So it's constantly trying to keep Windows easy to use, easy to update, and accessible for everyday users. [music] And despite all the changes, Microsoft Office is still one of the most widely used software suites on the planet. [music] But they're taking a big swing, and it might be the thing that dooms it. Like every other major tech company, Microsoft is rushing to incorporate AI into its systems to automate basic tasks and guide people as"
+    },
+    {
+      "id": 95,
+      "debut": 4492.34,
+      "fin": 4539.24,
+      "temps_estime": false,
+      "titre": "From Clippy and Cortana to Copilot in Windows 11",
+      "resume": "Microsoft's earlier smart features include Clippy in the late 1990s, other Office assistants and Cortana up to 2023. After ChatGPT, Microsoft launched Copilot in late 2023 and put it in nearly everything, including Windows 11, so upgraded old computers got Copilot whether they wanted it or not.",
+      "mots_cles": [
+        "Clippy",
+        "Cortana",
+        "Copilot",
+        "ChatGPT",
+        "late 2023",
+        "Windows 11",
+        "Office assistant",
+        "AI integration"
+      ],
+      "texte": "they use the computer. But this isn't Microsoft's first attempt at smart features. Back in the late 1990s, the company was famously mocked for Clippy, [music] a virtual assistant so intrusive and unhelpful it became a global punchline. Clippy didn't last long, but Microsoft kept trying, [music] rolling out less cartoony office assistants over the years. Eventually, that evolved into Cortana, a chatbot-style helper bundled with Microsoft software up until 2023. Then [music] an earthquake hit and everyone else hurried to catch up. But Microsoft wasn't about to be the one company left behind. The launch of [music] ChatGPT led Microsoft to quickly develop its own. Copilot was launched in late 2023 and [music] soon incorporated into just about everything the company operates. That included Windows 11, the newest operating system. Old computers could be updated with the new software and"
+    },
+    {
+      "id": 96,
+      "debut": 4539.24,
+      "fin": 4591.54,
+      "temps_estime": false,
+      "titre": "Copilot as a takeover layer on the operating system",
+      "resume": "Copilot is built as a new layer on top of the OS, which the speaker says makes Windows 11 feel like it fights you, with worse performance, stability, settings and usability. The hard sell included ending Windows 10 support in 2025, cutting users off from security features unless they updated.",
+      "mots_cles": [
+        "Copilot",
+        "Windows 11",
+        "operating system layer",
+        "Windows 10 end of support 2025",
+        "performance",
+        "usability",
+        "hard sell",
+        "security updates"
+      ],
+      "texte": "Copilot would come with them, whether you wanted it or not. And that's the real issue. Copilot isn't just an app. Microsoft built it like a new layer on top of the entire operating system. And the more they force that layer in, the more Windows 11 starts feeling [music] like it is fighting you instead of helping you. Because this wasn't just a feature update, it was a takeover. And once AI becomes the center of the operating system, everything else starts getting worse. Performance, stability, settings, even basic usability. The complaints about Copilot and AI's incorporation into Windows came even before the software fully rolled out. That's because Microsoft went with a hard sell on their new feature, ending support for Windows 10 in 2025, cutting people off from vital security and service features unless they updated to the new model. Microsoft claims the new software is designed to make your life easier. But if you talk to the customers, that's not the case at all."
+    },
+    {
+      "id": 97,
+      "debut": 4591.54,
+      "fin": 4636.44,
+      "temps_estime": false,
+      "titre": "Copilot everywhere and a forced Windows 10 choice",
+      "resume": "The speaker says many ask why Windows feels harder to use now. Copilot sits in the taskbar, has a dedicated keyboard key and can answer questions, write text and generate images, free with paid tiers, and as Windows 10 ends support millions must upgrade into an AI-first world or be left behind.",
+      "mots_cles": [
+        "Copilot key",
+        "taskbar",
+        "Windows 10 end of support",
+        "AI-first",
+        "paid subscription",
+        "Gemini",
+        "Grok",
+        "forced upgrade"
+      ],
+      "texte": "In fact, a lot of people started asking the same question. Why does Windows feel harder to use now? The new software was given a big push as Windows 11 debuted, with Microsoft Copilot being accessible directly through the taskbar. [music] Keyboards have a dedicated key to summon Copilot. Like all the other major AI chatbots like Gemini, Grok, and Chat GPT, it can answer questions, write text, and generate images with a simple prompt. It's free to use, but certain higher levels of generative tasks are accessed with an additional paid subscription. And as Windows 10's end of support gets closer, that leaves millions of [music] users with a brutal choice. Upgrade into Windows 11's AI first world or get left behind. And the worst part, for a lot of people, it doesn't feel like a choice at all."
+    },
+    {
+      "id": 98,
+      "debut": 4636.44,
+      "fin": 4706.24,
+      "temps_estime": false,
+      "titre": "Windows 11's requirements as forced migration",
+      "resume": "Windows 11 needed much higher system requirements partly for always-on AI features, freezing out older devices, and the speaker says Microsoft was upgrading you rather than Windows. An estimated 60% of Windows 10 PCs would need upgrading, which people came to see as a forced migration rather than a normal cycle.",
+      "mots_cles": [
+        "Windows 11 requirements",
+        "older devices",
+        "always-on AI",
+        "60% of devices",
+        "forced migration",
+        "upgrade cycle",
+        "Windows 10 PCs",
+        "hardware retirement"
+      ],
+      "texte": "Windows 11 looks like the Windows you know, [music] just faster, smarter, and better. But that promise comes with a tradeoff. Windows 11 had much higher system requirements than previous [music] models, partly because Microsoft designed it for a more always-on modern system, including AI features running in the background whether you use them or not. So [music] it froze out many older devices. This felt like a forced upgrade for many people even if they weren' ready to retire an older but reliable computer. This was hardly anything new. Most devices today don't simply die, but they get retired when the device can no longer handle updated websites and apps. But this was [music] different. This wasn't just Microsoft upgrading Windows. This was Microsoft upgrading you. When Windows 11 debuted, it initially got positive reviews. It was a big step forward for a system that had been seen as old hat for a while, but it soon became clear that the majority of existing Windows 10 PCs weren't able to run the new software coming [music] from a previous generation. It's estimated that 60% of the currently owned devices would need to be upgraded, which could be a massive drain on the finances of their loyal customers. And that [music] is when people started realizing this wasn't a normal upgrade cycle. It was a"
+    },
+    {
+      "id": 99,
+      "debut": 4706.24,
+      "fin": 4737.14,
+      "temps_estime": false,
+      "titre": "AI backlash and Microsoft building Windows around AI",
+      "resume": "Nearly three years into the chatbot boom, critics accuse generative AI of plagiarism, environmental harm, higher RAM prices and making students dumber, and say it is unavoidable. The speaker says Microsoft did not add AI to Windows but built Windows around it.",
+      "mots_cles": [
+        "generative AI",
+        "plagiarism",
+        "environment",
+        "RAM prices",
+        "AI critics",
+        "Microsoft",
+        "Windows 11",
+        "built around AI"
+      ],
+      "texte": "forced migration. It's been close to 3 years since people started playing with AI chatbots and the opponents are more vocal than ever. The generative AI movement has been accused of being based around plagiarism, damaging the environment with its heavy data use, driving up the price of RAM, and making school children dumber. And the worst part for the doubters is it's completely unavoidable. All major browsers and websites are quickly incorporating it, but no one quite embraced it on the same level as Microsoft because Microsoft didn't just add AI to Windows. They"
+    },
+    {
+      "id": 100,
+      "debut": 4737.14,
+      "fin": 4781.14,
+      "temps_estime": false,
+      "titre": "Hey Copilot, Copilot Vision and being unable to turn it off",
+      "resume": "Alongside ending Windows 10 support, Microsoft added Copilot-heavy updates to Windows 11, including a hey Copilot voice mode compared to the mouse and keyboard and Copilot Vision that analyzes the screen. People felt Big Brother was watching, and the scariest part was that you couldn't make it stop.",
+      "mots_cles": [
+        "Copilot voice mode",
+        "hey Copilot",
+        "Copilot Vision",
+        "screen analysis",
+        "Big Brother",
+        "Windows 11",
+        "chief marketing officer",
+        "can't turn off"
+      ],
+      "texte": "built Windows around it. [music] Around the same time that Microsoft ended general support for Windows 10, they rolled out a whole host of new updates for Windows 11, heavily reliant on Copilot. It was an attempt [music] to create the first fully integrated AI-powered laptop. The most significant change was a voice mode that allows people to say, hey Copilot, and begin directing the laptop to carry out tasks for them. One of Microsoft's chief marketing officers compared this innovation to introducing the mouse and keyboard. Another new AI feature was Copilot Vision, which allowed the AI to analyze and give feedback on anything that was on the screen. And to many people, it started to seem like Big Brother was watching. But the scariest part wasn't what Copilot could do. It was that you couldn't make it stop."
+    },
+    {
+      "id": 101,
+      "debut": 4781.14,
+      "fin": 4849.55,
+      "temps_estime": false,
+      "titre": "Copilot feels unfinished and intrusive",
+      "resume": "Unlike unobtrusive Grammarly, Copilot felt like Clippy budding in, and Windows 11 was criticized for weak third-party support, less customization and fewer default settings, as if rushed to make Copilot unavoidable. Moving files and unsaved settings came from the OS trying to predict what you want, eroding trust.",
+      "mots_cles": [
+        "Copilot",
+        "Grammarly",
+        "Clippy",
+        "Windows 11",
+        "customization",
+        "default settings",
+        "third-party content",
+        "trust"
+      ],
+      "texte": "AI-based editing and analysis features have been around for a while, with one of the most popular being Grammarly. This writing software takes the classic spell check and adds in features to help you optimize your language, eliminating awkward phrasing and incorrect grammar. But this does it in an unobtrusive way. Many Windows 11 skeptics said that it felt like Copilot was budding in where it wasn't wanted, much in the same way Clippy would pop up when least needed in the old Office Assistant days. But far bigger problems for Microsoft were just around the corner. As the new software rolled out, it was criticized for its lack of support for third-party content and a reduction in user-friendly features [music] like customization and default settings. Some critics said it felt unfinished, like Microsoft rushed the OS out the door, not [music] to make Windows better, but to make Copilot unavoidable. However, as time went on, frequent users started to notice small but annoying issues with the interface. Moving files proved trickier than expected, [music] and settings didn't seem to stick because Windows 11 isn't just trying to be a tool anymore, it's trying to predict what you want and getting in the way. And that might sound small, but it's exactly the kind of thing that makes people stop trusting"
+    },
+    {
+      "id": 102,
+      "debut": 4849.55,
+      "fin": 4938.15,
+      "temps_estime": false,
+      "titre": "Gamers find Windows 11 slower and downgrade",
+      "resume": "Gamers noticed games ran up to 10% slower on Windows 11 than Windows 10, unacceptable in competitive play, and switched back. The speaker says the real damage was trust, as heavily built-in AI demands more processing and background activity, so gamers began asking whether all this AI is needed.",
+      "mots_cles": [
+        "gamers",
+        "Windows 10",
+        "10% faster",
+        "competitive games",
+        "downgrade",
+        "trust",
+        "AI overhead",
+        "background activity"
+      ],
+      "texte": "the OS. And one group was harder to please than any other. Office workers and casual users will only notice big problems. [music] Gamers, however, will notice even the smallest change in effectiveness, and they quickly noticed something that should never happen. Their games ran up to 10% faster on Windows 10 than the newer model. In competitive games where even half a second lag can cost someone a high-stakes match, there is no tolerance for slowness. [music] Soon gamers were switching back to Windows 10 for as long as they could. It's something that should never happen, a new model running slower than the old model. But the real damage [music] wasn't performance, it was trust. As many environmentalists have pointed out, AI has a big cost. It eats up a lot of data and energy, and that doesn't just affect data centers and electricity grids. When AI is heavily built into a program, it demands more from your computer, [music] more processing power, more background activity, more strain overall. And if you've ever used an older PC, you already know how easy it is for performance [music] to tank under pressure, especially when gaming, where overheating and slowdown are already common. So gamers were one of the first groups asking the obvious question, do we really need all of this AI? And when gamers start downgrading to the older operating system, that's not a minor complaint, it's a warning [music] sign. Gamers are usually the first group to push new hardware, new updates, new software. If they don't want it, who does? And they were about to be proven right in a big way. Because if Windows can't even keep power users happy, what is it doing to everyone else? Windows 11"
+    },
+    {
+      "id": 103,
+      "debut": 4938.15,
+      "fin": 4968.24,
+      "temps_estime": false,
+      "titre": "Slow Windows 11 adoption and late-2025 glitches",
+      "resume": "Windows 11 adoption was slow because of onerous system requirements, not reaching 50% share until July 2025, and by late 2025 there were more reports of settings not saving, features failing and frequent outages. It was clear an update was needed.",
+      "mots_cles": [
+        "Windows 11 adoption",
+        "50% market share",
+        "July 2025",
+        "glitches",
+        "settings not saving",
+        "outages",
+        "late 2025",
+        "system requirements"
+      ],
+      "texte": "adoption was slow to start with the onerous system updates deterring many people from taking the plunge. It didn't hit 50% of Microsoft's market share until July 2025 as many people saw their existing software sunset and it shot up from there. But with more users came more problems and toward the end of 2025, there were more reported glitches with people's settings not saving and functions not working as advertised. Many systems also experienced frequent outages, which caused major problems for gamers and workers alike. It was clear"
+    },
+    {
+      "id": 104,
+      "debut": 4968.24,
+      "fin": 5037.85,
+      "temps_estime": false,
+      "titre": "The January 2026 update that made everything worse",
+      "resume": "In January 2026 a patch meant to fix problems instead caused sign-in failures, broken shutdowns, severe remote desktop issues, Outlook Classic lockouts, missing emails and frozen browsers, forcing emergency out-of-band patches two days later. Task Manager even refused to close, which the speaker calls a computer you can't rely on.",
+      "mots_cles": [
+        "January 2026 update",
+        "out-of-band patches",
+        "remote desktop",
+        "Outlook Classic",
+        "Task Manager",
+        "shutdown bug",
+        "sign-in failure",
+        "Windows 11"
+      ],
+      "texte": "that an update was needed. [music] And then Microsoft pushed an update that made everything worse. In January 2026, Microsoft issued a new series of patch notes for the software aimed at fixing some of its biggest headaches. Instead, it came back and many people found the entire software was riddled with critical errors that made it near unusable. Some people found they couldn't even sign into their device or that it wouldn't shut down properly when they were done working. Those on remote desktop experienced the worst problems and those using old software like Outlook Classic found themselves locked out of the app entirely. Emails went missing, browsers froze, and many users just slammed their laptops shut in frustration. Microsoft had to act fast. 2 days after the initial update slowed the system to a crawl, Microsoft issued emergency patches for the system. These two out-of-band updates were designed to fix the most critical issues which kept the systems from shutting down and kept people from signing in remotely. But the problems didn't stop there. One of the most basic Windows tools, Task Manager, refused to close. It just stayed open, chewing up resources until the entire PC froze. That's not a bad update. That is a computer you can't rely on. One of the"
+    },
+    {
+      "id": 105,
+      "debut": 5037.85,
+      "fin": 5082.05,
+      "temps_estime": false,
+      "titre": "Microsoft's fine print admits AI security risks",
+      "resume": "In December 2025 people noticed Microsoft's AI documentation said it could hallucinate and might introduce novel security risks, possibly meaning spyware or viruses, though no such cases were reported. The speaker says an OS admitting new risks makes people see it as a threat.",
+      "mots_cles": [
+        "December 2025",
+        "AI hallucination",
+        "novel security risks",
+        "fine print",
+        "Windows 11",
+        "spyware",
+        "privacy",
+        "trust"
+      ],
+      "texte": "biggest concerns people had about the new system was that they weren't so sure that their data was even secure, and it all came back to the fine print. In December 2025, people noticed that the text relating to the new AI network indicated that much like any other AI, it could hallucinate, providing false information collated from the internet without being able to differentiate. But buried deeper was a mention that the AI might introduce novel security risks, [music] which could refer to spyware or viruses. While there are no reports of this actually happening, the fact that Microsoft felt it necessary to cover themselves for this possibility has made many people worried. And when your operating system itself is admitting new risks, people stop seeing it as helping, and they start to see it as a threat."
+    },
+    {
+      "id": 106,
+      "debut": 5082.05,
+      "fin": 5140.85,
+      "temps_estime": false,
+      "titre": "Is AI to blame? Not Skynet, just language models",
+      "resume": "Microsoft admitted the software it forced on people was not working as intended, and many blamed the AI. The speaker says we are not near sentient AI or Skynet, since ChatGPT and Gemini are large language models predicting words that can be confused by too much information, and that may be what happened.",
+      "mots_cles": [
+        "Microsoft admission",
+        "large language models",
+        "ChatGPT",
+        "Gemini",
+        "Skynet",
+        "predictive algorithms",
+        "AI blame",
+        "Windows 11 crashes"
+      ],
+      "texte": "After months of ongoing problems with key features being repeatedly down, Microsoft admitted that the software that they had brute forced people into wasn't working as intended. The fixes improved some of the issues, but crashes and malfunctions persisted, [music] and many people assumed the AI was to blame. After all, if the software now has a mind of its own, can it actually be trusted to manage your software? And is this the moment that AI starts to wreak havoc on our computer systems? In a word, probably not, but that doesn't mean we're out of the woods. Despite what the biggest proponents of AI say, we are not on the verge of a benevolent sentient AI managing our lives for us. [music] And despite what the biggest attractors say, we're probably not close to Skynet launching nukes. Even the most powerful AI software these days like ChatGPT or Gemini are still just [music] large language models, collating information and putting words together via predictive algorithms. They can be highly convincing, but they are still easy to confuse when too [music] much information is introduced. And that is exactly what might have happened here."
+    },
+    {
+      "id": 107,
+      "debut": 5140.85,
+      "fin": 5169.75,
+      "temps_estime": false,
+      "titre": "Copilot's always-on integration and the demand to turn it off",
+      "resume": "This is the most deeply integrated AI in a mainstream platform, unlike Gemini in Chrome which is mostly optional, and Copilot is always running, adding bugs and complexity and driving people to competitors. By January 2026 the feature people wanted most was the ability to turn off the AI.",
+      "mots_cles": [
+        "Copilot",
+        "Gemini in Chrome",
+        "always running",
+        "bugs",
+        "turn off AI",
+        "January 2026",
+        "Windows 11",
+        "competition"
+      ],
+      "texte": "This is the most deeply integrated AI has ever been in a mainstream computer platform. Even Google's Gemini and Chrome still feels mostly optional, something that you can use when you go looking for it. But Microsoft Copilot is built [music] into every corner of Windows 11, meaning it is always there and it is always running. And that [music] constant background presence can slow things down, add bugs, and make the whole experience more complicated than it needs to be. The result is a messier, more frustrating system, [music] and it is driving people straight to the"
+    },
+    {
+      "id": 108,
+      "debut": 5169.75,
+      "fin": 5220.85,
+      "temps_estime": false,
+      "titre": "Nobody asked for a smarter Windows",
+      "resume": "Users wanted Windows 10 and a computer that lets them work, and the internet had to document which settings to deactivate. The speaker says Microsoft's problem is trust in the Windows brand: consumers delay upgrades, businesses delay deployments and gamers downgrade, turning the ecosystem into a liability.",
+      "mots_cles": [
+        "turn off AI",
+        "Windows 10",
+        "Windows brand",
+        "delayed upgrades",
+        "gamers downgrade",
+        "trust",
+        "ecosystem",
+        "liability"
+      ],
+      "texte": "competition. As of January 2026, users were working to figure out the feature that people wanted the most from their new AI-powered operating system, the [music] ability to turn off the AI. But the software didn't make it easy, and the internet was hard at work figuring out the individual settings that needed to be deactivated because nobody asked for a smarter Windows. [music] They just wanted Windows 10 and a computer that would let them work. And that is where Microsoft has a real problem, [music] not just with Windows 11, but with Windows as a brand. Consumers hold off on upgrading, businesses delay deployments, IT departments push back, gamers downgrade, and suddenly the Windows ecosystem that Microsoft built its empire on starts to look less like a foundation and more like a liability. Because once people stop trusting Windows, [music] Microsoft doesn't just lose an OS, it loses the center of its entire ecosystem. Windows"
+    },
+    {
+      "id": 109,
+      "debut": 5220.85,
+      "fin": 5251.45,
+      "temps_estime": false,
+      "titre": "Teaser: Windows 11's 50 million lines of code",
+      "resume": "Windows 11 runs on roughly 50 million lines of code, said to stretch 131 miles printed out, but the speaker calls it a 40-year-old disaster in the making with blue screens and 240 million PCs turned to landfill. The claim is that Microsoft's biggest mistakes were calculated, strategic sabotage.",
+      "mots_cles": [
+        "Windows 11",
+        "50 million lines of code",
+        "131 miles",
+        "blue screens",
+        "240 million PCs",
+        "landfill",
+        "strategic sabotage",
+        "legacy code"
+      ],
+      "texte": "11 runs on roughly 50 million lines of code. Print that out and it would stretch 131 miles end to end. Sounds impressive, but this isn't some modern marvel. It is a 40-year-old disaster in the making. The constant glitches, the blue screens, and the 240 million PCs that became instant landfill waste. And if you look closely enough, you'll see Microsoft's biggest mistakes weren't accidents. They were calculated, strategic sabotage. Chapter one, the 50"
+    },
+    {
+      "id": 110,
+      "debut": 5251.45,
+      "fin": 5308.85,
+      "temps_estime": false,
+      "titre": "Chapter one: the Windows NT time bomb",
+      "resume": "Windows is likely running Windows NT underneath, which began with 5.6 million lines in NT 3.1 for workstations and servers where stability and backward compatibility mattered. As NT became the foundation of everything Windows, it grew more complex, glitchy and slow, reaching a breaking point with Windows 11, which many older machines could not handle.",
+      "mots_cles": [
+        "Windows NT",
+        "NT 3.1",
+        "5.6 million lines",
+        "backward compatibility",
+        "Windows 11",
+        "bloat",
+        "complexity",
+        "performance issues"
+      ],
+      "texte": "million line time bomb. If you're using Windows, there's a good chance you're actually running Windows NT under the hood. And when that first launched in Windows NT 3.1, it already contained 5.6 million lines of code. At the time, that was massive, but it wasn't built for consumers. NT was designed for workstations and enterprise servers, where stability mattered more than simplicity and backward compatibility mattered more than elegance. But then something changed. It began powering just about everything. Over time, it became the foundation for everything Windows runs on today, and with each new generation, it only became more complex. It's become harder to maintain and more prone to performance issues, slowdowns, and unexpected glitches with every major release. It reached a breaking point in 2021 with the launch of Windows 11, the most bloated and intricate version Microsoft had ever released. And this time, users couldn't ignore the elephant in the room because for the first time, their computer simply couldn't handle"
+    },
+    {
+      "id": 111,
+      "debut": 5308.85,
+      "fin": 5349.85,
+      "temps_estime": false,
+      "titre": "Windows 11 requirements and the landfill problem",
+      "resume": "Windows 11 is free for existing PCs only if they meet requirements such as a compatible 64-bit processor, 4 GB of memory and 64 GB of storage, which quietly excludes many functional older machines. The speaker says millions of computers are headed for landfill, in the biggest upheaval in Microsoft history.",
+      "mots_cles": [
+        "Windows 11 requirements",
+        "64-bit processor",
+        "4 GB memory",
+        "64 GB storage",
+        "older machines",
+        "obsolescence",
+        "landfill",
+        "Microsoft"
+      ],
+      "texte": "it. Windows 11 now comes pre-installed on all new Microsoft devices, and it's offered as a free upgrade for existing PCs, but only if they meet the system requirements. That list is thinner than most people expect. You need a compatible 64-bit processor, at least 4 gigs of memory, and 64 gigs of storage. On paper, that sounds reasonable. In reality, it quietly excludes a massive number of older machines that are still perfectly functional. Anyone with an older workhorse computer has to upgrade or be left behind. And for millions of devices, that doesn't mean a slow transition. It means obsolescence. Millions of computers are destined for the landfill. It's turning into the biggest upheaval in Microsoft history."
+    },
+    {
+      "id": 112,
+      "debut": 5349.85,
+      "fin": 5422.85,
+      "temps_estime": false,
+      "titre": "Backward compatibility and the 50 to 55% windfall",
+      "resume": "Using console history, the speaker notes backward compatibility is often unprofitable, and Windows 11 sits on a 40-year-old NT foundation that is unwieldy and glitchy yet profitable. An estimated 50 to 55% of existing devices were incompatible, forcing new purchases, a windfall that raises whether this was by design.",
+      "mots_cles": [
+        "backward compatibility",
+        "consoles",
+        "Windows NT",
+        "40-year-old code",
+        "50 to 55% incompatible",
+        "new devices",
+        "windfall",
+        "by design"
+      ],
+      "texte": "The term backwards compatibility is familiar to gamers, and for a long time, it was a frustration point. When a new console launches, support for older systems doesn't last long. New games stop releasing for the older hardware, and eventually upgrading becomes the only way to keep playing. But in earlier generations, it went even further. New consoles often couldn't even run old games at all. This was often due to incompatible hardware, especially during the cartridge era. But there's also another reason backwards compatibility is hard to come by. It simply does not make the company money. Windows 11 is seen by most users as a bloated mess of a user interface, and that's not surprising. At this point, Windows NT is built on a 40-year-old foundation of code that never quite stopped being built. What is left is unwieldy and prone to glitches, but it's paying dividends. Windows 11 dropped, it's estimated that around 50 to 55% of existing devices were incompatible with it. Those users all had to buy new devices, a massive windfall for Microsoft. Was it a lack of foresight or by design? And if it was the latter, which other massive Microsoft screw-ups were by design? Chapter two, [music] the"
     }
   ]
 }
