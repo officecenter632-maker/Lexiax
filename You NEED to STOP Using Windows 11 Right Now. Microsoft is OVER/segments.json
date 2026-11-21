@@ -4,12 +4,12 @@
   "titre_video": "You NEED to STOP Using Windows 11 Right Now. Microsoft is OVER",
   "duree_s": 10209.9,
   "avancement": {
-    "lignes_traitees": 3450,
-    "fin_traitee_s": 7261.27,
+    "lignes_traitees": 4375,
+    "fin_traitee_s": 9194.29,
     "nb_lignes_total": 4857,
     "complet": false
   },
-  "nb_segments": 143,
+  "nb_segments": 185,
   "segments": [
     {
       "id": 1,
@@ -2709,6 +2709,804 @@
         "cost cutting"
       ],
       "texte": "this is terrifying, and we have the stats to back it up. A study conducted by Express VPN found that 56% of employees feel stressed or anxious when they suspect monitoring is happening without their knowledge. Peter Holland, a professor of human resource management from Swinburne University, has gone on record saying that he thinks relentless productivity monitoring actually has the exact opposite of the intended effect. During an interview on the subject of boss where, he said, the research indicates that the more you monitor and surveil people, the more likely it is that they are going to be less productive. People have spoken about being bullied, but despite this, market forces seem to be increasingly pressing management to take an aggressively data-driven approach to running their businesses. The result, they can no longer see the forest. In their desire to cut costs, they cut down all the trees. Chapter six, the office"
+    },
+    {
+      "id": 144,
+      "debut": 7261.27,
+      "fin": 7317.47,
+      "temps_estime": false,
+      "titre": "Checking your own consent and spotting boss ware",
+      "resume": "The first line of defense against workplace spying is checking the monitoring-consent clauses in your work contract. The speaker then explains how to spot monitoring software by opening Task Manager (Ctrl+Alt+Del or Ctrl+Shift+Esc) or running tasklist from CMD on Windows.",
+      "mots_cles": [
+        "boss ware",
+        "work contract consent",
+        "task manager",
+        "Ctrl Shift Esc",
+        "tasklist",
+        "CMD",
+        "workplace monitoring",
+        "employee privacy"
+      ],
+      "texte": "revolution. The first line of defense will always be your own right to legally consent to this kind of spying. Check any work contracts you signed when you took the job for clauses that say you consent to workplace digital monitoring. It's a tactic employers rely on using vague, carefully worded policies so you never fully realize how much of your privacy they're actually invading. But you can always check your computer by pressing control alt delete or control shift escape. You can open up your computer's task manager. This is essentially pop in the hood to see what software is currently running. If you [music] spot any of the apps we mentioned or others you don't recognize, you may have just found proof that your boss is quietly looking over your shoulder right now. If you're using a Windows device, you can also use the MS-DOS command line, which means pressing Windows plus R and then typing CMD into the search box. From there, you can search task list and [music] find the same information on all the programs currently running. Another option is"
+    },
+    {
+      "id": 145,
+      "debut": 7317.47,
+      "fin": 7356.77,
+      "temps_estime": false,
+      "titre": "Network traffic spikes and data hygiene",
+      "resume": "Analyzing network traffic for spikes during work hours is an imprecise way to detect monitoring, since spikes have many possible explanations. The speaker recommends data hygiene: keep work-friend group chats off official servers and follow the mantra never to do anything on a work device that your boss couldn't see.",
+      "mots_cles": [
+        "network traffic",
+        "traffic spikes",
+        "data hygiene",
+        "work device",
+        "group chats",
+        "boss ware",
+        "employee monitoring",
+        "privacy mantra"
+      ],
+      "texte": "analyzing network traffic for sudden spikes during work hours. However, this one is a little more imprecise. There could be multiple explanations for these spikes and you're not going to have any certainty from just the data alone. If you thought that, you'd be falling for the exact same trick all these expensive software services are pulling on your boss. In order to prevent yourself from getting caught out by any boss ware, it's also important to practice data hygiene. This means you should keep any work friends group chats off the official servers and on separate devices. A safe mantra to [music] internalize is never say or do anything on a work device or on a work network that you wouldn't be fine with your boss immediately being to see. Sometimes the"
+    },
+    {
+      "id": 146,
+      "debut": 7356.77,
+      "fin": 7407.37,
+      "temps_estime": false,
+      "titre": "Managed browsers, VPNs and anti-spyware",
+      "resume": "A browser showing 'managed by your organization' and a mandatory work VPN allowing traffic inspection are warning signs that your activity is visible. Buying reputable anti-spyware is a more confrontational option, and the speaker then moves on to tensions between tech giants inside the AI industry.",
+      "mots_cles": [
+        "managed by your organization",
+        "work VPN",
+        "traffic inspection",
+        "anti-spyware",
+        "browser monitoring",
+        "employee privacy",
+        "moral high ground",
+        "AI industry"
+      ],
+      "texte": "services your boss uses won't be as stealthy as some of the premium packages. Not everyone can afford to predict all of their employees risk factors after [music] all. If your browser comes with a message that says managed by your organization, then don't make any literally not safe for work searches and treat it with healthy suspicion if your boss asks you to connect [music] to a specific VPN while working because it might be one that allows traffic inspection from the administrators. And of course, if you don't mind being a little more confrontational, you can always buy and download some reputable anti-spyware software. And even if your boss confronts you over it, at least you'll know that you still have the moral high ground. The workplace isn't the only place where tensions are rising. Companies might be watching employees more closely than ever, but the tech giants building [music] those systems are starting to turn on each other too. And the biggest fracture might be happening inside the AI industry itself."
+    },
+    {
+      "id": 147,
+      "debut": 7407.37,
+      "fin": 7446.47,
+      "temps_estime": false,
+      "titre": "Windows dominates PC market share",
+      "resume": "Windows has dominated personal computers since 1985, and Microsoft became synonymous with operating systems. In January 2019 Windows held just over 88% of the market, macOS just over 9%, and Linux a tiny share, which the speaker suggests perhaps shouldn't be the case.",
+      "mots_cles": [
+        "Windows market share",
+        "88% market share",
+        "macOS 9%",
+        "Linux tiny share",
+        "operating system market",
+        "Microsoft",
+        "PC operating systems",
+        "1985"
+      ],
+      "texte": "Chances are you've all used a personal computer that runs the Windows operating system, but how many of you have actually used Linux? If you look at the market share of operating systems for PCs over the last few years, you'll see that Windows totally dominates the market. It's been that way pretty much since Windows came on the scene in 1985. The word Microsoft became a household name and synonymous with both home computers and operating systems. In January 2019, Windows had just over an 88% market share. Apple's Mac operating system is next with just over 9% of the share. And after that comes Linux with just a tiny share. What might surprise you though is perhaps this shouldn't really be the case."
+    },
+    {
+      "id": 148,
+      "debut": 7446.47,
+      "fin": 7484.57,
+      "temps_estime": false,
+      "titre": "Why people stay with familiar Windows",
+      "resume": "The speaker says people are used to Windows, from loved XP to hated Vista, Me and Windows 8, and Windows 10 was announced as the last totally new version, updated forever. Familiarity and pre-installation keep people from crossing over to the little-known island of Linux.",
+      "mots_cles": [
+        "Windows familiarity",
+        "Windows XP",
+        "Vista",
+        "Windows 8",
+        "Windows 10 last version",
+        "pre-installed Windows",
+        "switching OS",
+        "Linux"
+      ],
+      "texte": "We're not going to bother explaining to you what the Windows OS is. That would be almost condescending. You've all used it and many of you probably loved the XP version, hated Vista and Windows Me, and probably weren't too fond of Windows 8. When Microsoft released Windows 10, it said this was the last in the line of totally new versions. It would be updated forever more. The point is we've likely all gotten used to Windows. Using Windows is as familiar to most people as opening a window in your home. It's that familiarity and of course the fact that it comes pre-installed on many PCs you buy that prevents some people from crossing over the scary waters of OS change toward the little known island of Linux."
+    },
+    {
+      "id": 149,
+      "debut": 7484.57,
+      "fin": 7515.17,
+      "temps_estime": false,
+      "titre": "What Linux is according to its official website",
+      "resume": "Paraphrasing the official Linux website, the speaker says you probably already use Linux without knowing: it is in phones, cars, refrigerators and Roku devices. It runs most of the internet, scientific supercomputers and the world's stock exchanges, and is also a regular PC operating system.",
+      "mots_cles": [
+        "what is Linux",
+        "Linux official website",
+        "phones",
+        "cars",
+        "supercomputers",
+        "stock exchanges",
+        "internet servers",
+        "PC operating system"
+      ],
+      "texte": "For those of you who don't know what Linux is, you can actually just go to the Linux official website and the company answers that question for you. We've done the reading, so we'll paraphrase what the company said. First of all, Linux tells us you probably do use Linux, but just don't know about it. This is just one sentence from its grand opening paragraph. It's in your phones, in your cars, in your refrigerators, your Roku devices. It runs most of the internet, the supercomputers making scientific breakthroughs, and the world's stock exchanges. It's also just a regular operating system for your PC."
+    },
+    {
+      "id": 150,
+      "debut": 7515.17,
+      "fin": 7544.77,
+      "temps_estime": false,
+      "titre": "An operating system as the brain of the machine",
+      "resume": "The operating system is described as the brain of the machine, and most people couldn't say everything their Windows OS can do. People stick with what they know because moving to a different OS is like entering a new virtual jungle, exciting but sometimes frustrating.",
+      "mots_cles": [
+        "operating system",
+        "OS brain of machine",
+        "Windows",
+        "switching OS",
+        "learning curve",
+        "Linux",
+        "new environment",
+        "familiarity"
+      ],
+      "texte": "The operating system which most people just initialize to OS is like the brain of the machine. Without it, the machine is pretty much useless. We don't need to tell you that these systems can be very complex and we imagine most of you wouldn't be confident enough to say you know exactly everything you can do with your Windows OS. That's one reason people stick with what they know because moving to a different OS is like finding yourself in a totally new environment. You have to learn the laws of a new virtual jungle, which can be exciting but also a bit frustrating at times. But"
+    },
+    {
+      "id": 151,
+      "debut": 7544.77,
+      "fin": 7567.28,
+      "temps_estime": false,
+      "titre": "Linux is free, including the server version",
+      "resume": "You can install Linux on your computer for nothing, and a Linux server is also free, which is what you need for a network of people to serve. Windows Server isn't free, and Linux makes a big deal of this and says its server is easy to run.",
+      "mots_cles": [
+        "free Linux",
+        "Linux server",
+        "Windows Server cost",
+        "free operating system",
+        "install Linux",
+        "network server",
+        "Linux advantages",
+        "no cost"
+      ],
+      "texte": "get this, you can install Linux on your computer for nothing. Yes, it is absolutely free. Installing a Linux server is also free. This is what you need when you have a network of people that need serving. It isn't free if you need Windows server OS, though. Linux makes a big deal about this and rightly so. Who doesn't like free? Linux also says its server is easy to run and that anyone can do it."
+    },
+    {
+      "id": 152,
+      "debut": 7567.28,
+      "fin": 7620.18,
+      "temps_estime": false,
+      "titre": "Open source license and the Linux community",
+      "resume": "Linux is distributed under an open source license, so you can study how it works, rewrite code, and redistribute copies and modified versions. This is why users describe an OS run by the people for the people, comparable to tinkering under the hood of a car.",
+      "mots_cles": [
+        "open source",
+        "open source license",
+        "Linux community",
+        "modify code",
+        "redistribute copies",
+        "tinkering",
+        "Linux freedom",
+        "run by the people"
+      ],
+      "texte": "Okay, so the next big point when discussing Linux is the fact that it's distributed under an open source license. Hmm, what does this mean? Well, basically you can do whatever you want with your OS, which is great for many folks since they enjoy the fact that they can study exactly how it works and make a change. Imagine you were not into a Windows feature and then thought, okay, I can do this better. I'll just rewrite the code and add something. Linux lets you do this. Linux also notes these two things, that users have the freedom to redistribute copies so you can help your neighbor. People also have the freedom to distribute copies of your modified versions to This is why Linux users like to say they're part of a community, a common phrase is it's an OS that's run by the people for the people. The same way you can tinker under the hood of a car, Linux lets you see what's inside. Some folks like to get under the hood, that's just their nature. Linux really works for these people. So this is starting to"
+    },
+    {
+      "id": 153,
+      "debut": 7620.18,
+      "fin": 7653.18,
+      "temps_estime": false,
+      "titre": "Linux distributions: hundreds of choices",
+      "resume": "Linux comes in many versions called distributions, hundreds if not thousands, with different looks and behavior. Some are close to Windows in look and feel and some try to mirror the Apple Mac OS.",
+      "mots_cles": [
+        "Linux distributions",
+        "distros",
+        "Windows look and feel",
+        "Mac OS lookalike",
+        "desktop environment",
+        "choice",
+        "hundreds of distributions",
+        "Linux"
+      ],
+      "texte": "sound too good to be true and easy to use free OS that doesn't break much and one that you can alter and fiddle with and improve. Anything else? Yes, in fact there is. Linux has a lot of versions to choose from, but the company calls them distributions. So you have quite a few choices of how you want your OS to work and what your desktop will look like. When we say a few, we actually mean hundreds if not thousands. Some are more popular than others and if you choose you can opt for a version that's pretty close to Windows in look and feel. If you like the Apple Mac OS, there's a Linux distribution that tries to mirror that."
+    },
+    {
+      "id": 154,
+      "debut": 7653.18,
+      "fin": 7693.38,
+      "temps_estime": false,
+      "titre": "Linux is less vulnerable to viruses",
+      "resume": "Security experts say Linux is harder to gain access to, so fewer files can be corrupted, and its design makes viruses less likely than on Windows. The speaker adds that Windows being far more popular makes it the main target for hackers.",
+      "mots_cles": [
+        "Linux security",
+        "viruses",
+        "malware",
+        "blue screen of death",
+        "Windows vulnerability",
+        "hackers target Windows",
+        "Linux design",
+        "open source security"
+      ],
+      "texte": "Another major point is that Linux is less vulnerable to attacks than Windows. Who's had a virus before? What about some particularly hard to remove malware? Who's been hit so hard they felt like taking a hammer to their blue screen of death? Now you might be thinking, wait a minute here, if Linux is basically an open source system, surely it must be vulnerable to attacks. Well, we are told by the security experts that Linux is actually harder to gain access to, so fewer files can be corrupted. It's a long story, but the way Linux is designed makes it less likely to suffer from viruses. It can happen, but it happens a lot less than on the average computer using Windows. Of course there's also the fact that Windows is way more popular, so of course that's the system people want to"
+    },
+    {
+      "id": 155,
+      "debut": 7693.38,
+      "fin": 7743.98,
+      "temps_estime": false,
+      "titre": "Linux runs on old PCs; downsides are software and hardware",
+      "resume": "Linux requires less power and can run on an older computer, but hardly anyone uses it, so there must be a downside. Windows has far more software, although thousands of free programs exist for Linux and Windows software like Word can run with effort, and hardware support is no longer a real problem.",
+      "mots_cles": [
+        "Linux old computers",
+        "low power requirements",
+        "Windows software",
+        "Microsoft Word on Linux",
+        "Linux hardware support",
+        "software variety",
+        "Linux downsides",
+        "compatibility"
+      ],
+      "texte": "hack. We're also told that running a Linux OS requires less power, so in other words you could run the system on an older computer. So it's reliable, easy to run, allows you to choose from many distributions, allows developers to fiddle around, and it's free. So come on, there must be a downside because hardly anyone in the world uses it compared to Windows. Something just doesn't add up here. Well, Windows being so huge means it has much more software you can run on it. There are thousands of programs you can run on Linux for free and you can even get Windows software on Linux. With a bit of effort, you can even have your beloved Microsoft Word running on your Linux machine. But in all, Windows offers a much wider variety of software. What about the hardware supporting the software? Well, it's said in the past you might have had trouble getting Linux on a machine, but that's a thing of the past. Most machines you can buy today should be able to run Linux without issue."
+    },
+    {
+      "id": 156,
+      "debut": 7743.98,
+      "fin": 7810.08,
+      "temps_estime": false,
+      "titre": "Real users on switching from Windows to Linux",
+      "resume": "Reddit users who switched say Linux wants to make software while Microsoft wants to make money, citing no update interruptions, speed, no spyware, older-machine support, variety and freedom to use, change and redistribute. One negative comment says Windows is better for gaming and is a more coherent environment, while Linux is massive and can be confusing.",
+      "mots_cles": [
+        "Reddit comments",
+        "switched to Linux",
+        "Microsoft wants money",
+        "no spyware",
+        "free as in freedom",
+        "Windows gaming",
+        "Linux confusing",
+        "user opinions"
+      ],
+      "texte": "Enough of the expert commentary, though. Let's see what real people who have switched from Windows to Linux have to say. The most popular comment on one Reddit thread was at the end of the day, the Linux community wants to make software, and Microsoft wants to make money. When those goals are opposed, Linux becomes the better choice. In fact, a lot of the people who now use Linux say that they're very happy they made the change, and mostly for the reasons we have talked about today. Another person wrote, updates not bugging you, it's faster, no spyware, runs well on older machines, tons of variety, and penguins. He likes penguins. Another person wrote, it's free, as in freedom. No stupid licenses that tell you you can't use your computer the way you want to. You're free to use it for any purpose, change it, redistribute it, and to distribute the changes you make. It's software that's useful for society. We didn't see many negative comments for Linux, but one person said when it comes to gaming, Windows is better as the games are designed to run on Windows. He also said that as Windows 10 is the entire deal, Microsoft is focused on making it the perfect environment. It's coherent, he said, whereas the Linux world is massive, and for some people that could be confusing."
+    },
+    {
+      "id": 157,
+      "debut": 7810.08,
+      "fin": 7843.58,
+      "temps_estime": false,
+      "titre": "Linux and gaming, and the market share question",
+      "resume": "A popular gaming website calls Linux a decent gaming OS because Valve's Steam OS is based on it, but still advises Windows for ease of use and fewer game compatibility problems. The speaker then asks why, with so much positivity, Linux's market share isn't even 2%.",
+      "mots_cles": [
+        "Linux gaming",
+        "Steam OS",
+        "Valve",
+        "game compatibility",
+        "Windows gaming",
+        "Linux market share 2%",
+        "ease of use",
+        "gaming website"
+      ],
+      "texte": "Actually, when it comes to Linux and gaming, you can find many forums with people arguing about this. This is what one very popular gaming website said. Yes, Linux is a decent operating system for gaming, especially since the number of Linux-compatible games is increasing due to Valve's Steam OS being based on Linux. However, we would still advise anyone who doesn't need any of the advanced features that Linux has to offer to stick with Windows due to its ease of use and fewer compatibility issues with games. So, with all this positivity being spoken about Linux, why is its market share not even 2%?"
+    },
+    {
+      "id": 158,
+      "debut": 7843.58,
+      "fin": 7883.18,
+      "temps_estime": false,
+      "titre": "Linux is fragmented and Microsoft has a strong PR machine",
+      "resume": "Tech sites note that Linux should be rising faster, but a developer says it is too fragmented and lacks momentum, while Microsoft has an unstoppable PR machine. The speaker says Windows isn't bad and Windows 10 was well received, and many people don't want to make the effort to change.",
+      "mots_cles": [
+        "Linux fragmentation",
+        "Linux momentum",
+        "Microsoft PR machine",
+        "Windows 10 well received",
+        "resistance to change",
+        "Linux market share",
+        "developer opinion",
+        "Windows"
+      ],
+      "texte": "You can read tech websites where real computer nerds talk about this. And you'll see people saying that Linux really should be ascending faster than it is, but actually one developer said what we've just said, in that Linux is just far too fragmented. He also just said the obvious and that it just hasn't gained momentum yet. And well, Microsoft has a PR machine that's virtually unstoppable. This is not to say, however, that Windows is bad, not at all. And Windows 10 has been for the most part very well received. As we said at the beginning, Windows has been part of people's lives for many years. People know what they're working with, and even though Linux offers similar alternatives, a lot of people don't want to make the effort to change. There's"
+    },
+    {
+      "id": 159,
+      "debut": 7883.18,
+      "fin": 7920.08,
+      "temps_estime": false,
+      "titre": "Why people don't switch to Linux",
+      "resume": "People long thought Linux was only for computer experts; the speaker says there is learning to do but you needn't be a computer science major. Many people just don't want to learn something new, especially when a pre-installed Windows works well enough.",
+      "mots_cles": [
+        "Linux learning curve",
+        "computer savvy",
+        "pre-installed Windows",
+        "reluctance to change",
+        "Linux for beginners",
+        "different jungle",
+        "switching effort",
+        "OS choice"
+      ],
+      "texte": "also the case for a long time people haven't gone over to Linux because they thought it was only for people who knew a lot about computers, that using it might take some amount of computer savvy. There is no doubt that people will have to do some learning, and as we already said, you're entering a different jungle. But no, you don't have to be a computer science major to use a Linux computer. That said, some people just don't want to have to learn something new. And on top of that, if a computer comes with a pre-installed version of Windows and works well enough, why on earth would they go through the effort to change? No matter which you choose, Windows, Linux, or even a different OS altogether, one thread is constant."
+    },
+    {
+      "id": 160,
+      "debut": 7920.08,
+      "fin": 7961.08,
+      "temps_estime": false,
+      "titre": "Hook: Altman's $50 billion Amazon move against Microsoft",
+      "resume": "A new section opens claiming everyone thinks Microsoft won the AI war, but Sam Altman just made a $50 billion move with Amazon that sidelines Microsoft and removes the clause that kept control in check. The speaker frames it as a question of who owns and controls AI and who will burn billions.",
+      "mots_cles": [
+        "Sam Altman",
+        "Amazon deal",
+        "$50 billion",
+        "Microsoft",
+        "OpenAI",
+        "AI war",
+        "balance of power",
+        "AI ownership"
+      ],
+      "texte": ">> Everyone thinks Microsoft won the AI war, but they may have just lost it overnight because Sam Altman just made a $50 billion move with Amazon to stab Microsoft in the back, and almost no one noticed. On the surface, it looks like another massive AI deal, but hidden inside it is a shift that sidelines Microsoft and removes the one clause that actually kept control in check. And that changes everything because this isn't just about building powerful AI anymore. It's about who owns it, who controls it, and who's willing to burn billions to get there. By the time most people realize what just happened, the balance of power may already be gone. Chapter one, the $50"
+    },
+    {
+      "id": 161,
+      "debut": 7961.08,
+      "fin": 8015.58,
+      "temps_estime": false,
+      "titre": "OpenAI's illusion of success and its massive losses",
+      "resume": "OpenAI looks like a success story with a mission to benefit humanity, but is actually bleeding cash: roughly $3.7 billion projected revenue and $5 billion losses in 2024. In the first half of 2025 it generated about $4.3 billion in revenue with losses of up to $13 billion.",
+      "mots_cles": [
+        "OpenAI losses",
+        "OpenAI revenue 2024",
+        "$5 billion loss",
+        "first half 2025",
+        "$13 billion loss",
+        "unsustainable business model",
+        "bleeding cash",
+        "AI startup"
+      ],
+      "texte": "billion betrayal. To the public, OpenAI looks like one of the biggest success stories of the modern era, a A Valley startup that turned into a household name almost overnight. It built [music] tools used by millions, pushed AI further than anyone expected, and wrapped it all up in a mission to benefit humanity. That was the illusion. In reality, OpenAI is a mess that's bleeding cash. In 2024, its projected revenue was approximately $3.7 billion. Its losses, $5 billion. That's like buying a mid-sized airline and setting the whole thing on fire every 12 months just [music] to keep the servers running. That's not a sustainable or successful business model. That's not a sign of a healthy, stable company, and it wasn't a one-time thing. It was a trend. In the first half of 2025, figures revealed that OpenAI was losing extraordinary amounts of money, generating around $4.3 billion in revenue [music] while recording losses of up to $13 billion."
+    },
+    {
+      "id": 162,
+      "debut": 8015.58,
+      "fin": 8045.48,
+      "temps_estime": false,
+      "titre": "Why OpenAI burns so much money",
+      "resume": "Estimates suggest OpenAI's total losses could exceed $140 billion between 2024 and 2029. Frontier model training, researcher salaries and data center costs drive spending, and the business model depends on convincing investors that the losses will someday be worth it.",
+      "mots_cles": [
+        "$140 billion losses",
+        "frontier AI training",
+        "data centers",
+        "researcher salaries",
+        "OpenAI business model",
+        "investors",
+        "burn rate",
+        "2024 to 2029"
+      ],
+      "texte": "Some estimates suggest the company's total losses could exceed $140 billion between 2024 and 2029 alone. But that is not that surprising. [music] Training frontier AI models isn't cheap, neither are the salaries of leading researchers and computer scientists or the construction and operating costs of data centers. [music] OpenAI is burning through money at breakneck speed. Its entire business model is founded on the idea of convincing investors that someday, somehow, all of this loss will be worth"
+    },
+    {
+      "id": 163,
+      "debut": 8045.48,
+      "fin": 8068.78,
+      "temps_estime": false,
+      "titre": "Microsoft's investment and Nadella's overconfidence",
+      "resume": "Microsoft poured billions into OpenAI and secured what looked like an exclusive hold on it. Satya Nadella said it wouldn't matter if OpenAI disappeared since Microsoft had the data, IP rights and capability, believing he owned OpenAI, but he was wrong.",
+      "mots_cles": [
+        "Satya Nadella",
+        "Microsoft investment",
+        "OpenAI",
+        "IP rights",
+        "exclusive hold",
+        "Microsoft billions",
+        "OpenAI ownership",
+        "overconfidence"
+      ],
+      "texte": "it. Microsoft bought into that idea. It poured billions into OpenAI and secured what seemed like an exclusive hold over the most valuable AI startup on the planet. Microsoft CEO Satya Nadella even said that it wouldn't matter if OpenAI disappeared tomorrow. We have the data, IP rights, and the capability. Nadella thought that for all intents and purposes, he owned OpenAI. He was wrong."
+    },
+    {
+      "id": 164,
+      "debut": 8068.78,
+      "fin": 8123.98,
+      "temps_estime": false,
+      "titre": "The February 2026 Amazon deal ends Azure exclusivity",
+      "resume": "In February 2026 Sam Altman arranged a $50 billion infrastructure deal with Amazon, ending Microsoft's exclusive cloud rights, even though Azure was meant to be OpenAI's default home. The speaker calls it a betrayal of the company that helped build OpenAI, built as a weapon against the US government.",
+      "mots_cles": [
+        "February 2026",
+        "Amazon deal",
+        "$50 billion",
+        "Azure exclusivity",
+        "Sam Altman",
+        "Microsoft Azure",
+        "betrayal",
+        "cloud rights"
+      ],
+      "texte": "In February 2026, Sam Altman orchestrated an enormous [music] $50 billion infrastructure deal with Amazon. In doing so, he effectively ended [music] Microsoft's exclusive cloud rights. That wasn't supposed to happen. Microsoft was supposed to be the only serious player [music] in the game. Microsoft Azure was meant to be the default home for OpenAI's technology. Amazon was the rival, the company that you compete against, not partner with. This wasn't a new vendor agreement or just some sort of multi-partner strategy. It was OpenAI blatantly betraying [music] the tech giant that helped to build it. The question is why? Why would Altman risk the wrath of Microsoft? Why jeopardize what seemed to be the most powerful relationship in the industry? Because the Amazon deal wasn't just about getting more servers or resources. [music] It was a weapon built for one mission, to defeat a more powerful enemy, the United [music] States government. Chapter two, the"
+    },
+    {
+      "id": 165,
+      "debut": 8123.98,
+      "fin": 8174.68,
+      "temps_estime": false,
+      "titre": "The FTC antitrust threat: Microsoft and OpenAI as a de facto merger",
+      "resume": "Microsoft's funding exposed OpenAI to antitrust scrutiny: regulators like the FTC saw it as looking like a merger. Microsoft had exclusive Azure rights and OpenAI technology was integrated into Windows, Copilot, Office and GitHub, making OpenAI look like a subsidiary.",
+      "mots_cles": [
+        "FTC",
+        "antitrust",
+        "de facto merger",
+        "Microsoft Azure",
+        "Copilot",
+        "GitHub",
+        "OpenAI subsidiary",
+        "regulators"
+      ],
+      "texte": "FTC's trap. For years, it looked like compute was going to be the biggest challenge OpenAI would ever face. But the funding from Microsoft introduced OpenAI to something else, antitrust. To observers and analysts, including those in government authorities such as the Federal Trade Commission, this didn't look like one company simply supporting another. It looked like a merger. Naturally, Microsoft and OpenAI didn't label it that way, but the facts were clear to see. Microsoft had poured in billions and secured exclusive rights to its Azure ecosystem. OpenAI technology was also becoming increasingly integrated into Microsoft's most used systems and applications from Windows to Copilot, Office, [music] GitHub, and beyond. OpenAI, meanwhile, was looking less like an independent organization and more like a subsidiary just with its own separate [music] branding. The FTC noticed. So did other tech brands."
+    },
+    {
+      "id": 166,
+      "debut": 8174.68,
+      "fin": 8210.78,
+      "temps_estime": false,
+      "titre": "Google and the FTC investigate the Microsoft-OpenAI deal",
+      "resume": "Google called on the government to investigate and break up the deal, and critics argued Microsoft's investment and exclusive cloud control gave it too much influence, as if it had bought the future. The FTC investigation could force a split, which Microsoft could survive but OpenAI might not.",
+      "mots_cles": [
+        "FTC investigation",
+        "Google",
+        "break up the deal",
+        "unfair monopoly",
+        "exclusive cloud control",
+        "OpenAI risk",
+        "Microsoft influence",
+        "antitrust"
+      ],
+      "texte": "Google even called on the government to investigate and break up the deal. Critics and regulators argued that Microsoft's massive investment and exclusive cloud control over OpenAI's technology gave the company too much influence. It hadn't just invested in an up-and-coming company, it had bought the future. So the FTC [music] started investigating the two companies. If it could prove that they had effectively entered a de facto merger or that Microsoft had acquired an unfair monopoly over the AI industry, it could force the pair to split. Microsoft would be able to survive that. OpenAI might not. It couldn't afford the risk and it had to find some way to wriggle out of"
+    },
+    {
+      "id": 167,
+      "debut": 8210.78,
+      "fin": 8280.98,
+      "temps_estime": false,
+      "titre": "The Amazon deal as legal shield against the FTC",
+      "resume": "By pivoting to AWS, OpenAI gave itself a legal shield: it could argue it isn't a Microsoft subsidiary since it signed a $50 billion contract with a rival. Antitrust cases hinge on dependency, so the deal proved independence, but escaping the FTC was only a byproduct of a deeper motive tied to a contract with a ticking time bomb.",
+      "mots_cles": [
+        "AWS",
+        "legal shield",
+        "antitrust dependency",
+        "OpenAI independence",
+        "FTC",
+        "Microsoft subsidiary",
+        "legal theater",
+        "contract time bomb"
+      ],
+      "texte": "its predicament. [music] Enter the Amazon deal By pivoting to Amazon Web Services or AWS, OpenAI gave itself a multi billion dollar legal shield. Because now if the FTC's investigators [music] question the company's allegiances or argue it's too friendly with Microsoft, OpenAI's lawyers can simply say, how can we possibly be a subsidiary of Microsoft if we just signed a $50 billion contract with one of their biggest rivals? It [music] was the perfect piece of legal theater at just the right time because antitrust cases are built on dependency. Regulators are very wary of any company that appears to be entirely or exclusively dependent on another [music] for its survival. But by inking an agreement with another tech giant, OpenAI proved its independence. Problem solved. Or at least [music] that's how it seemed. In reality, there was much more to this story than meets the eye. Escaping the FTC was only a convenient and timely byproduct of a deeper and darker imagination. The real reason OpenAI needed leverage over Microsoft was [music] hidden inside a bizarre legal contract signed years before, a contract that contained a ticking [music] time bomb. Chapter three, the"
+    },
+    {
+      "id": 168,
+      "debut": 8280.98,
+      "fin": 8332.18,
+      "temps_estime": false,
+      "titre": "AGI and OpenAI's justification for everything",
+      "resume": "OpenAI told the world it is working toward AGI, artificial general intelligence, the god model that reaches and surpasses human-level intelligence and can reason and adapt across tasks. It was the justification for all the funding, hype and resources, and the perfect panacea: just ask people to trust them.",
+      "mots_cles": [
+        "AGI",
+        "artificial general intelligence",
+        "god model",
+        "human-level intelligence",
+        "OpenAI justification",
+        "funding and hype",
+        "AGI experiment",
+        "OpenAI mission"
+      ],
+      "texte": "AGI poison pill. For years, OpenAI told the world that it is working toward AGI, Artificial General Intelligence. [music] Sometimes known as the god model, this is said to be the point at which AI effectively reaches and then surpasses human level intelligence. According to the experts, AGI will be able to think, reason, and adapt just like a real [music] person. It'll solve problems and switch from task to task rather than being pre programmed with just one specific function or avenue of activity in mind. In effect, this [music] was OpenAI's justification for everything. All the funding, all the hype, all the resources, it was all said to be in service of the AGI experiment. And for OpenAI, it was the perfect panacea. All they had to do was convince people to trust them, ignore [music] the obvious problems, hand over their money, and then believe that someday they'd build something that would change the world."
+    },
+    {
+      "id": 169,
+      "debut": 8332.18,
+      "fin": 8396.78,
+      "temps_estime": false,
+      "titre": "The AGI trigger clause and Microsoft's paradox",
+      "resume": "Microsoft's contract with OpenAI included an AGI trigger: its seemingly perpetual IP license ended once OpenAI achieved AGI, with all commercial rights then going exclusively to OpenAI. The speaker calls it a snake eating its own tail, and says Microsoft's strategy was to make sure OpenAI never reached AGI.",
+      "mots_cles": [
+        "AGI trigger",
+        "perpetual license",
+        "intellectual property",
+        "Microsoft contract",
+        "OpenAI AGI",
+        "paradox",
+        "commercial rights",
+        "Microsoft funding its demise"
+      ],
+      "texte": "There was just one little problem, one buried deep in the contracts tying OpenAI and Microsoft. It was known as the AGI trigger. Basically, Microsoft was granted a seemingly perpetual license to OpenAI's intellectual property, but that perpetual license had a strict limit. [music] As soon as OpenAI achieved artificial general intelligence, the new AGI model would be entirely excluded [music] from the deal, and Microsoft would effectively lose its grip on the future of AI. At that stage, [music] all commercial rights to the AGI would remain exclusively with OpenAI. It's a paradox, a snake eating its own tail. Microsoft was pouring billions into a company whose sole stated mission was build AGI, but as soon as that mission was achieved, Microsoft would lose all of its power and benefits. It was funding its own demise, but Microsoft's executives aren't idiots. They knew the terms of the deal when they signed it. They knew exactly how to work around them. All they had to do was ensure that OpenAI failed at its stated mission. They wanted the AI to be powerful, but never powerful enough to reach AGI."
+    },
+    {
+      "id": 170,
+      "debut": 8396.78,
+      "fin": 8439.28,
+      "temps_estime": false,
+      "titre": "Altman uses the Amazon deal as a loaded gun",
+      "resume": "AGI has no clear finish line, so Microsoft could always argue OpenAI's systems weren't AGI. Sam Altman knew the clause meant Microsoft would never be all-in and always held leverage, so with the $50 billion Amazon deal as a loaded gun he forced Microsoft back to rewrite the rules.",
+      "mots_cles": [
+        "AGI definition",
+        "Sam Altman",
+        "AGI trigger clause",
+        "Microsoft leverage",
+        "Amazon deal",
+        "renegotiation",
+        "OpenAI",
+        "rewrite the rules"
+      ],
+      "texte": "That's where things [music] get complicated because AGI isn't a clear finish line. No one can agree what it actually means. So even if OpenAI pushed its systems further and further, Microsoft could always argue it still wasn't AGI. Sam Altman knew this. He knew that as long as the AGI trigger clause existed, Microsoft would never truly be an all-in partner. It would always have leverage, always have limits, always have a way to control OpenAI from the inside. So he had to change the play. With a $50 billion Amazon deal as its loaded gun, OpenAI forced Microsoft back to the table, not just to negotiate, but to completely rewrite the rules of the AI war. Chapter"
+    },
+    {
+      "id": 171,
+      "debut": 8439.28,
+      "fin": 8478.99,
+      "temps_estime": false,
+      "titre": "The April 2026 reset: Azure exclusivity gone",
+      "resume": "In April 2026 OpenAI wanted to demolish and rebuild its Microsoft deal, not just amend it. The announced simplified agreement kept Microsoft as primary cloud partner but allowed OpenAI to serve products on any other cloud provider, ending Azure's exclusivity.",
+      "mots_cles": [
+        "April 2026 reset",
+        "Microsoft OpenAI agreement",
+        "Azure exclusivity",
+        "primary cloud partner",
+        "any cloud provider",
+        "OpenAI independence",
+        "partnership update",
+        "balance of power"
+      ],
+      "texte": "four, the April 2026 reset. In April 2026, the balance of power shifted. It wasn't a simple partnership update. OpenAI didn't want to iron out just a few issues or make a couple of amendments to its Microsoft deal. It wanted to demolish it and then rebuild it exactly as it saw fit. On the surface, the two companies saved face, announcing a simplified agreement and next phase for their partnership. But the terms of that agreement painted the real picture. Microsoft was still described as OpenAI's primary cloud partner, but the very next sentence added that OpenAI was now free to serve products across any other cloud provider it wanted. Azure's exclusivity was gone."
+    },
+    {
+      "id": 172,
+      "debut": 8478.99,
+      "fin": 8517.99,
+      "temps_estime": false,
+      "titre": "License ends in 2032, revenue share capped, AGI trigger deleted",
+      "resume": "Microsoft's perpetual license to OpenAI's IP was given a fixed end date of 2032 and revenue sharing was capped with a 2030 deadline. The AGI trigger was not redefined but deleted and replaced with a calendar of dates, deadlines and caps, a standard corporate agreement.",
+      "mots_cles": [
+        "license end 2032",
+        "revenue sharing cap",
+        "2030 deadline",
+        "AGI trigger deleted",
+        "sword of Damocles",
+        "Microsoft IP license",
+        "corporate agreement",
+        "OpenAI"
+      ],
+      "texte": "Microsoft's once perpetual license to OpenAI's intellectual property was also amended and given a fixed end date of 2032. The tech giant no longer had privileged ownership of the future of AI. Revenue sharing was officially given a cap and a deadline of 2030 as well. Most importantly, the AGI trigger was gone. It wasn't redefined, clarified, or amended. It was deleted. That vague, hard-to-define clause that hung over OpenAI like a sword of Damocles for years was gone. It was replaced with something far simpler and far more controlled, a calendar with dates, deadlines, and caps. In other words, [music] a standard corporate agreement."
+    },
+    {
+      "id": 173,
+      "debut": 8517.99,
+      "fin": 8548.39,
+      "temps_estime": false,
+      "titre": "Microsoft's 27% stake and OpenAI's apparent victory",
+      "resume": "Microsoft's stake was formalized at about 27%, enough for some influence but not control. It looked like a big victory for OpenAI, which decoupled its finances from the AGI milestone and became a corporation with a clear runway, though the speaker hints at a catch.",
+      "mots_cles": [
+        "Microsoft 27% stake",
+        "OpenAI victory",
+        "independence",
+        "AGI milestone",
+        "corporate runway",
+        "OpenAI Microsoft deal",
+        "influence not control",
+        "catch"
+      ],
+      "texte": "Microsoft's stake was also formalized at approximately 27% of the company. That is still a sizable amount, enough for Microsoft to hold some level of influence over the company's activities, but nowhere near enough for complete control. It looked like a big victory for OpenAI. The company had won its independence, decoupling its finances from the mythical AGI milestone. It was no longer a research lab trying to trigger a clause in a contract to win its freedom, but a corporation with a clear runway ahead. But there was a"
+    },
+    {
+      "id": 174,
+      "debut": 8548.39,
+      "fin": 8617.59,
+      "temps_estime": false,
+      "titre": "The death of OpenAI's nonprofit and the public benefit corporation",
+      "resume": "To pull off the coup, Altman had to destroy OpenAI's nonprofit structure, the thing that set it apart from Google or Meta since it had no shareholders. In late 2025 OpenAI became a public benefit corporation, which in reality still serves investors almost like any other for-profit entity.",
+      "mots_cles": [
+        "OpenAI nonprofit",
+        "public benefit corporation",
+        "PBC",
+        "late 2025",
+        "shareholders",
+        "Silicon Valley",
+        "Sam Altman",
+        "for-profit entity"
+      ],
+      "texte": "catch, a big one. To pull off this extraordinary corporate coup, Altman had to permanently destroy the very foundation that OpenAI was built upon, its nonprofit structure. Chapter five, the death of the nonprofit. OpenAI's nonprofit nature was the one thing that separated it from every other Silicon Valley machine. This wasn't just another power to the benefit of humanity, a nonprofit lab working with care and consideration towards something that was supposed to bring great benefits to all. This wasn't Google, it wasn't Meta, it wasn't worried about pleasing shareholders because there were no shareholders. But that idealistic attitude couldn't last. Slowly and Shirley, the cracks in the mask began to appear. In late 2025, the facade was ripped away entirely. OpenAI shifted from a nonprofit to a public benefit corporation. At a glance, that still sounds like a righteous cause, a compromise between the original mission and a need to make money. PBCs are supposed to strike a balance between pursuing profit while remaining committed to creating a positive impact on society, the community, or the environment. In reality, PBCs still serve their investors almost as much as"
+    },
+    {
+      "id": 175,
+      "debut": 8617.59,
+      "fin": 8692.79,
+      "temps_estime": false,
+      "titre": "Board replaced, safety guardrails dismantled, profit engine and the brick wall",
+      "resume": "The groundwork was laid in 2023 when the nonprofit board that briefly fired Altman was replaced by Silicon Valley insiders and former Treasury officials. Safety guardrails were dismantled and replaced by product safety teams, turning OpenAI into a profit engine preparing for an IPO, while its leaders realized AGI was a brick wall.",
+      "mots_cles": [
+        "OpenAI board 2023",
+        "Altman fired",
+        "safety guardrails",
+        "product safety teams",
+        "B2B clients",
+        "IPO",
+        "profit engine",
+        "ethical oversight"
+      ],
+      "texte": "any other for-profit entity. Just as Altman would go on to smash and then rebuild his deal with Microsoft, he also destroyed what OpenAI once was, reconstructing it as something completely different. The groundwork was laid back in 2023. The organization's original nonprofit board, the one that briefly fired Altman, was removed and replaced by Silicon Valley insiders and former Treasury officials. The safety guard rails that had once been so critical to the organization's overall mission were dismantled. The systems that had kept OpenAI's progress in line with its focus on helping humanity were gone. In their place were product safety teams more concerned with ensuring that their AI doesn't say anything that might offend a big B2B client than actually harm real people. The cogs inside the OpenAI machine were replaced piece by piece until something fundamentally changed. What began as a research-driven system started to look like something else entirely, [music] a profit engine, one that was preparing for a massive IPO and was increasingly insulated from any meaningful ethical oversight. Behind closed doors, Altman and OpenAI's research leads had realized a terrifying technical truth. They weren't moving toward AGI as they originally expected. They were moving towards a brick wall."
+    },
+    {
+      "id": 176,
+      "debut": 8692.79,
+      "fin": 8727.39,
+      "temps_estime": false,
+      "titre": "Scaling laws: the industry's core belief",
+      "resume": "The AI industry relied on scaling laws: more data and more compute should make models exponentially smarter, so companies just had to build bigger data centers and buy more powerful chips. The speaker says this was supposed to follow a linear path to godlike intelligence.",
+      "mots_cles": [
+        "scaling laws",
+        "more data and compute",
+        "data centers",
+        "powerful chips",
+        "godlike intelligence",
+        "AI industry",
+        "OpenAI",
+        "linear path"
+      ],
+      "texte": "Chapter six, the scaling wall. [music] For years, the AI industry has relied on an unwavering belief in a premise known as scaling [music] laws. If you add more data and more compute, your AI models will become exponentially smarter. It's only a question of resources. Provide more resources and you get a better product. All companies like OpenAI had to do was keep on building bigger and better data centers. They had to invest in more powerful chips and processors. Then they could sit back and watch as their AI followed the linear path to godlike intelligence. [music] Sounds pretty straightforward and the scaling"
+    },
+    {
+      "id": 177,
+      "debut": 8727.39,
+      "fin": 8769.49,
+      "temps_estime": false,
+      "titre": "GPT-5 hits diminishing returns: the scaling wall",
+      "resume": "Scaling laws worked for a while, from GPT-2 to GPT-3 and GPT-4, so GPT-5, codenamed Orion, was expected to be a game changer toward AGI. Internal reports suggest scaling laws are stalling and GPT-5 has hit diminishing returns, making the god model a speck on the horizon.",
+      "mots_cles": [
+        "GPT-5",
+        "Orion",
+        "GPT-4",
+        "diminishing returns",
+        "scaling wall",
+        "scaling laws stalling",
+        "AGI",
+        "internal reports"
+      ],
+      "texte": "laws worked for a while. Each new generation of AI technology felt like a big leap forward. GPT-2 was impressive. GPT-3, next level. GPT-4 exceeded expectations. So naturally, GPT-5, codenamed Orion, was expected to be a game changer, maybe even the final step toward AGI, or not. Internal reports suggest that the scaling laws are stalling. Instead of providing some sort of quantum intelligence leap, GPT-5 has hit diminishing returns. It's still getting smaller but at a slower rate than ever before. All the sudden, this god model that seemed right around the corner is now a speck on the horizon. This isn't just a hurdle, it's a catastrophe. The scaling wall changes"
+    },
+    {
+      "id": 178,
+      "debut": 8769.49,
+      "fin": 8817.29,
+      "temps_estime": false,
+      "titre": "The scaling wall, burn rate and AGI as a mirage",
+      "resume": "With the scaling wall, companies spend billions for incremental improvements, which is bad business given OpenAI's burn rate and losses justified by the promise of AGI. The speaker argues removing the AGI trigger clause was a quiet admission that AGI is a mirage, leaving OpenAI as just another plateauing software company.",
+      "mots_cles": [
+        "scaling wall",
+        "burn rate",
+        "OpenAI losses",
+        "AGI mirage",
+        "AGI trigger clause",
+        "software company",
+        "incremental improvements",
+        "plateau"
+      ],
+      "texte": "everything. It's no longer a situation where companies can just pour in money and watch their AI become twice as intelligent overnight. Now they're [music] spending billions for only incremental improvements. And that is bad business because let's not forget about the burn rate. OpenAI is nowhere close to making a profit. It loses billions each year, but it was always able to justify that with the claim that AGI would eventually arrive and fix everything. [music] The company's entire financial structure and investment incentives were reliant on that premise. [music] That's why removing the AGI trigger clause from the Microsoft contract mattered so much. It wasn't just a legal trick, it was a quiet admission that AGI is a mirage. And if AGI is a mirage, OpenAI is just another software company and one that is failing to provide returns and plateauing fast. [music]"
+    },
+    {
+      "id": 179,
+      "debut": 8817.29,
+      "fin": 8884.79,
+      "temps_estime": false,
+      "titre": "The SaaS pivot: OpenAI becomes Salesforce for AI",
+      "resume": "To justify a $5 billion burn rate, OpenAI stops selling AGI and sells what the speaker calls AI slop: a Salesforce for AI business focused on enterprise software, workflow automation, agentic middleware and reasoning models like O1. It builds tools for middle management such as lead routing, marketing copy and support tickets, but the speaker says the numbers don't add up.",
+      "mots_cles": [
+        "SaaS pivot",
+        "Salesforce for AI",
+        "enterprise software",
+        "agentic middleware",
+        "O1 Strawberry",
+        "middle management",
+        "workflow automation",
+        "OpenAI mission"
+      ],
+      "texte": "So how does a company like that justify a $5 billion burn rate to its next investors? It stops [music] selling AGI and starts selling AI slop instead. Chapter seven, the SaaS [music] pivot, selling AI slop. Meet the new OpenAI. It's no longer a valiant nonprofit pursuing civilization-changing superintelligence, [music] but a Salesforce for AI business. It's slowly but surely pivoting away from its original mission and towards something much more mundane, enterprise software [music] and corporate workflow automation. And it's happening right before our eyes. Rather than focusing its efforts exclusively on the next evolution of GPT technology, OpenAI is prioritizing alternative projects like agentic middleware and reasoning models like O1 or Strawberry. It's no longer charting a course toward human enlightenment, but making life easier for middle management. The focus has shifted to producing tools built for middle management, routing leads, generating marketing copy, handling support tickets. OpenAI hopes that this shift will [music] bring in the money it needs to satisfy its investors. But there is a massive problem with that plan. The numbers don't add up."
+    },
+    {
+      "id": 180,
+      "debut": 8884.79,
+      "fin": 8936.89,
+      "temps_estime": false,
+      "titre": "SaaS margins versus the cost of OpenAI's reasoning models",
+      "resume": "Traditional SaaS companies like Salesforce and Adobe enjoy margins often above 70% because they sell a product forever, which investors love. OpenAI's reasoning models cost far more to run than conventional software: O1 costs about $15 per million input tokens, a heavy burden for enterprises that burn millions of tokens a day.",
+      "mots_cles": [
+        "SaaS margins",
+        "Salesforce",
+        "Adobe",
+        "70% margins",
+        "O1 pricing",
+        "$15 per million tokens",
+        "enterprise AI costs",
+        "reasoning models"
+      ],
+      "texte": "Traditional SaaS or software as a service companies like Salesforce and Adobe operate on incredible margins, often exceeding 70%. They [music] make a product and they basically sell it forever, bringing in more and more profit with every new customer. That's why investors love SaaS. It is a gold mine. But OpenAI's attempts to enter this [music] industry are not working because advanced reasoning models cost so much more to run than conventional software. O1, for example, costs around $15 for 1 million input tokens. That might not sound like much at first glance, but in enterprise terms, it is a massive financial burden. [music] Big businesses with hundreds or even thousands of employees can chew through millions upon millions of tokens in a single day. Suddenly, a smart assistant is not a cost-effective component of the tech stack, but a very expensive capital drain. Traditional SaaS doesn't work"
+    },
+    {
+      "id": 181,
+      "debut": 8936.89,
+      "fin": 8983.99,
+      "temps_estime": false,
+      "titre": "AI gets more expensive the more it is used",
+      "resume": "Unlike Excel or CRMs, which don't bill per click, AI costs more the more you use it, so OpenAI is forcing overpriced AI slop software into corporate workflows to fix its broken economics. The speaker says it is selling digital gold for the price of lead and needs cheaper compute, which leads to the Amazon Trojan horse.",
+      "mots_cles": [
+        "AI usage costs",
+        "SaaS versus AI economics",
+        "operating costs",
+        "cheaper compute",
+        "OpenAI economics",
+        "AI slop software",
+        "corporate workflows",
+        "Amazon Trojan horse"
+      ],
+      "texte": "this way. Microsoft doesn't bill businesses every time they open a new spreadsheet on Excel. CRMs don't suddenly become twice as expensive just because employees clicked a few buttons and generated some reports. AI works differently. The more you use it, the more expensive it gets. OpenAI is desperately trying to force businesses to integrate overpriced automated AI slop software into their corporate workflows [music] to fix its own broken economics. It is trying to sell digital gold for the price of lead, hoping to convince people its money-guzzling AI agent isn't just really [music] expensive software, but to make its margins work, it needs to dramatically decrease its own operating costs. It needs cheaper compute, which brings us back to the $50 billion Amazon Trojan horse. Chapter 8, Amazon's Trojan horse."
+    },
+    {
+      "id": 182,
+      "debut": 8983.99,
+      "fin": 9044.19,
+      "temps_estime": false,
+      "titre": "The Amazon deal is about hardware: escaping Nvidia's H100 tax",
+      "resume": "The Amazon deal was about hardware: part of the $50 billion commitment includes a multi-year agreement for OpenAI to use AWS's Trainium chips. OpenAI had been hostage to Nvidia's expensive H100 GPUs, paying an H100 tax on every prompt, with money funneled to Nvidia and Microsoft.",
+      "mots_cles": [
+        "Amazon Trainium",
+        "AWS",
+        "Nvidia H100",
+        "H100 tax",
+        "GPU cost",
+        "AI data centers",
+        "OpenAI hardware",
+        "training clusters"
+      ],
+      "texte": "The deal with Amazon wasn't about escaping the FTC's investigations or breaking free of Microsoft's shackles. It was about hardware. Part of the $50 billion commitment that Amazon made to OpenAI includes a multi-year agreement for the AI firm to use AWS's Tranium chips. Prior to this, OpenAI was a hostage to Nvidia. It was forced to use Nvidia's H100 GPUs. It's the hardware that everyone in the AI industry wants and needs, the chips that form the beating hearts of AI data centers. These GPUs have proven highly effective in training and improving AI. They are also expensive. Each one can cost tens of thousands of dollars, and that's before the added expense of building the rest of the server around it and actually running the whole thing. Large training clusters come with billion-dollar price tags. OpenAI has paid an H100 tax on every single prompt it processes for years with incalculable amounts of money funneled away into the accounts of Nvidia and Microsoft. The Amazon deal"
+    },
+    {
+      "id": 183,
+      "debut": 9044.19,
+      "fin": 9100.79,
+      "temps_estime": false,
+      "titre": "Trainium chips could cut OpenAI's costs, but at a price",
+      "resume": "Trainium chips may be up to 50% cheaper than Nvidia's H100s and consume 40% less energy, which could cut the cost of OpenAI's tokens and give it a slim chance of profit before the 2030 revenue cap. The speaker says OpenAI now builds on proprietary Amazon chips inside Amazon data centers, selling AI agents to Fortune 500 companies, just a cog in the AWS machine.",
+      "mots_cles": [
+        "Trainium",
+        "50% cheaper",
+        "40% less energy",
+        "token costs",
+        "2030 revenue cap",
+        "Amazon data centers",
+        "Fortune 500",
+        "AWS"
+      ],
+      "texte": "gives OpenAI an off-ramp. Tranium chips aren't necessarily better than Nvidia's H100s, but they do have the potential to be much, much cheaper, up to 50% cheaper according to early estimates. They're also said to consume 40% less energy. By switching to Amazon's own custom silicon, OpenAI hopes it'll be able to make some significant reductions to the cost of its tokens. Cheaper tokens should make OpenAI's AI slop easier to digest for its big business customers. They might even give the company a slim chance of turning a profit before the 2030 revenue cap hits. In the name of saving humanity and building a tech Utopia, OpenAI took a very different path, building software on proprietary Amazon chips, running inside Amazon data centers, selling AI agents to Fortune 500 companies. This is not what the company's founders envisioned all those years ago. This is not a beacon of open source enlightenment. It's just a cog in the AWS machine. So where do we go from"
+    },
+    {
+      "id": 184,
+      "debut": 9100.79,
+      "fin": 9133.29,
+      "temps_estime": false,
+      "titre": "The great AI realignment: the utopian dream is dead",
+      "resume": "The hardware war is over and the victors are corporate behemoths that own the silicon, not humanity. OpenAI sold a dream of godlike AI curing cancer and solving the climate crisis, which has been replaced by a dystopian corporate reality.",
+      "mots_cles": [
+        "AI realignment",
+        "hardware war",
+        "corporate behemoths",
+        "godlike AI",
+        "utopian dream",
+        "dystopian corporate reality",
+        "OpenAI",
+        "silicon owners"
+      ],
+      "texte": "here? Chapter nine, the great AI realignment. The hardware war is over. Unfortunately, humanity didn't win. Instead, the victors are the corporate behemoths that own the silicon. These companies with the money and power to do whatever they want and always get away with it. OpenAI sold the world a dream, a dream of godlike AI that would cure cancer, solve the climate crisis, and bring about a new world where everyone would be happier, freer, and more fulfilled. That utopian dream is dead, replaced by a dystopian corporate reality. Microsoft, Amazon, and OpenAI"
+    },
+    {
+      "id": 185,
+      "debut": 9133.29,
+      "fin": 9194.29,
+      "temps_estime": false,
+      "titre": "Locked-down B2B monopoly, corporate AI slop and no AGI",
+      "resume": "Microsoft, Amazon and OpenAI are building a locked-down, expensive B2B monopoly, flooding the internet with AI slop, automated emails and synthetic reports. The speaker says Altman broke free so he and shareholders can profit from a trillion-dollar IPO, that we get a corporate automated bureaucracy rather than AGI, and asks what happens when the money stops making sense.",
+      "mots_cles": [
+        "B2B monopoly",
+        "corporate AI slop",
+        "trillion dollar IPO",
+        "Sam Altman",
+        "no AGI",
+        "automated bureaucracy",
+        "Microsoft Amazon OpenAI",
+        "money stops making sense"
+      ],
+      "texte": "aren't laying the foundations for a more prosperous and creative age of human advancement. They're building their own locked down and ludicrously expensive B2B monopoly. The open marriage that now exists between those tech giants all but guarantees that the future of the internet will be flooded with corporate AI slop, automated emails, synthetic reports, and agentic workflows that don't actually provide real benefits to real people. They just streamline the capitalist machine while eroding the value of human thought and creativity. Sam Altman didn't escape from Microsoft to bring about a better world. He broke free so that when the trillion dollar IPO arrives, he and his shareholders will make as much money as possible. This is the grim reality of AI today. We're not getting AGI. We're not going to see some digital god that solves the world's ills and makes us all happier and healthier. We're getting an inescapable automated corporate bureaucracy instead. And once you follow that logic all the way through, one question becomes unavoidable. What happens when the money stops making"
     }
   ]
 }
