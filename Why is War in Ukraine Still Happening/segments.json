@@ -1,0 +1,701 @@
+{
+  "version": 1,
+  "video_id": "gKF7NMxZ754",
+  "titre_video": "Why is War in Ukraine Still Happening?",
+  "duree_s": 1193.4,
+  "avancement": {
+    "lignes_traitees": 234,
+    "fin_traitee_s": 1193.4,
+    "nb_lignes_total": 234,
+    "complet": true
+  },
+  "nb_segments": 37,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.24,
+      "fin": 32.72,
+      "temps_estime": false,
+      "titre": "Hook: a live drone weapons lab, not a trench war",
+      "resume": "A garage-built drone destroys a multi-million dollar armored column in seconds, and the narrator argues traditional warfare is dead. The war in Ukraine is presented as a live weapons lab where software is rewritten in weeks, and whoever wins could dictate global power for 50 years.",
+      "mots_cles": [
+        "cheap drones",
+        "traditional warfare",
+        "weapons lab",
+        "Ukraine war",
+        "global power",
+        "garage-built drone",
+        "armored column"
+      ],
+      "texte": "Somewhere in Ukraine, a garage built drone just obliterated a multi-million dollar armored column in seconds. Traditional warfare is officially dead and the generals know it. It might seem like a new-generation trench war fought over borders,... It’s not. This is a live weapons lab where software gets rewritten in weeks. Cheap drones have broken the concept of war. And whoever comes out on top won’t just take valuable territory… they’ll dictate global power for the next 50 years. It’s a battle no one can afford to lose… or walk away from."
+    },
+    {
+      "id": 2,
+      "debut": 32.72,
+      "fin": 51.96,
+      "temps_estime": true,
+      "titre": "Old air defense: expensive answers to expensive questions",
+      "resume": "For most of the last century air defense matched costly weapons against costly targets: a bomber costing tens of millions was killed by a missile costing millions. Systems like the Patriot were built on this logic of high value weapons hunting high value targets.",
+      "mots_cles": [
+        "air defense",
+        "Patriot",
+        "bomber",
+        "missile cost",
+        "cost-effectiveness",
+        "high value targets",
+        "20th century warfare"
+      ],
+      "texte": "For most of the last century, air defense followed the same principle: expensive answers to expensive questions. A bomber costs tens of millions of dollars. A missile that kills it can cost millions too. But as long as you destroyed the target, the math worked. That’s why systems like the Patriot were built… high value weapons hunting high value targets."
+    },
+    {
+      "id": 3,
+      "debut": 51.96,
+      "fin": 86.88,
+      "temps_estime": true,
+      "titre": "Shahed drones break the cost math",
+      "resume": "Russia began launching large numbers of cheap one-way attack drones; a Shahed is a lawnmower engine strapped to a warhead worth about $35,000. Firing a $4 million interceptor at it is not cost effective, and the Patriot PAC-3 ACE is budgeted at about $2.5 million.",
+      "mots_cles": [
+        "Shahed",
+        "one-way attack drones",
+        "Patriot PAC-3",
+        "$4 million interceptor",
+        "$35,000 drone",
+        "cost asymmetry",
+        "U.S. Army budget"
+      ],
+      "texte": "Then the Ukraine War changed everything. Instead of sending a few costly weapons, Russia began launching large numbers of relatively cheap one-way attack drones. A Shahed is essentially a lawnmower engine strapped to a warhead. Firing a $4 million interceptor at a $35,000 drone isn’t exactly cost effective. You can’t keep producing multi-million missiles to hit a backyard-made drone. And the price of that missile isn’t going to change any time soon. The U.S. Army’s latest budget proposal puts each Patriot PAC-3 ACE at approximately $2.5 million. And that’s the “low cost” option."
+    },
+    {
+      "id": 4,
+      "debut": 86.88,
+      "fin": 114.08,
+      "temps_estime": false,
+      "titre": "Wild Hornets' Sting interceptor drone",
+      "resume": "Ukraine's Wild Hornets built the Sting interceptor, which appeared in autumn 2024 at about 160 kph and hit 315 kph by August 2025. It scored 205 kills in two months and, per CBS News, had downed 3,900 drones by March 2026, at roughly 14 times lower cost than Russia's drones.",
+      "mots_cles": [
+        "Sting interceptor",
+        "Wild Hornets",
+        "interceptor drone",
+        "CBS News",
+        "3,900 drones",
+        "cheap air defense",
+        "kill count"
+      ],
+      "texte": "So Ukraine had to find a different answer. When the Wild Hornets’ Sting interceptor first surfaced in autumn 2024, it topped out at just over 100 miles per hour (160 kph). By August 2025, footage showed it hitting 195 miles per hour (315 kph). In its first two months, it racked up 205 kills. By March 2026, CBS News reported that Stings had downed 3,900 drones. It’s roughly 14 times cheaper than anything Russia is deploying."
+    },
+    {
+      "id": 5,
+      "debut": 114.08,
+      "fin": 155.52,
+      "temps_estime": false,
+      "titre": "Ukrainian long-range drone strikes on Russian refineries",
+      "resume": "Ukraine sends long-range drones against Russian refineries, ports and weapons plants, knocking out about 25% of Russia's refining capacity and crippling 8 major refineries. The IEA reported 55 of 83 regions under emergency fuel restrictions by late June 2026, and even a 10% leak rate causes serious damage, so Russia suffers its own tactic.",
+      "mots_cles": [
+        "refineries",
+        "oil refining capacity",
+        "long-range drones",
+        "fuel restrictions",
+        "International Energy Agency",
+        "Russian regions",
+        "ports",
+        "air defense interception"
+      ],
+      "texte": "Ukraine is now sending its own long-range drones deep into Russian territory, targeting refineries, ports, and weapons plants. These strikes have already knocked out about 25% of Russia’s oil refining capacity, crippling 8 of the country’s biggest refineries. By late June 2026, the International Energy Agency reported that 55 of Russia’s 83 regions had been forced to implement emergency fuel restrictions. Russia says its air defenses intercept the majority of the drones. But it doesn’t matter. Even if they shoot down 90%, the 10% that get through are enough to cause serious destruction. Russia is suffering from the exact same tactic it used on Ukraine. It’s a fundamental shift in how wars are fought."
+    },
+    {
+      "id": 6,
+      "debut": 155.52,
+      "fin": 201.6,
+      "temps_estime": false,
+      "titre": "The old doctrine of armor and why Russia's 2022 plan failed",
+      "resume": "For nearly a century militaries massed armor and artillery to punch a hole in enemy lines, a doctrine from 1943 refined in the Cold War and the Gulf War. Russia's 2022 invasion was organized around slow heavy columns, which drones broke, and both sides turned to the cheapest common denominator for offense and defense.",
+      "mots_cles": [
+        "armor doctrine",
+        "tanks",
+        "Gulf War",
+        "2022 invasion",
+        "heavy columns",
+        "artillery",
+        "drones",
+        "Russian army"
+      ],
+      "texte": "For nearly a century, every military on earth followed the same playbook. Mass your armor and concentrate your artillery and punch a hole through enemy lines. Once that was established, tanks would pour through it, and keep moving. This was the doctrine of 1943, refined through the Cold War and perfected in the Gulf War. When Russia’s army rolled into Ukraine in 2022 they weren’t just following this play. They were completely organized around it. This plan relied on the slow moving column of heavy armor reaching the front lines. No plan survives first contact with a drone. Russia thought it didn’t need outright overwhelming force in the opening days. And it paid the price. Ukraine repelled the initial wave, and both countries started using the cheapest common denominator for both offense and defense."
+    },
+    {
+      "id": 7,
+      "debut": 201.6,
+      "fin": 232.88,
+      "temps_estime": false,
+      "titre": "The drone kill zone along the front",
+      "resume": "FPV drones have made a 9 to 12 mile strip along a roughly 745 mile front into a kill zone where anything that moves is struck, so tanks hide under netting and supply trucks move at night. Ukraine's defense ministry aims to extend the kill zone from 20 km to 100 km deep.",
+      "mots_cles": [
+        "kill zone",
+        "FPV drones",
+        "front line",
+        "745 miles",
+        "tanks",
+        "supply trucks",
+        "defense ministry",
+        "100 km"
+      ],
+      "texte": "Today, both sides of the front are trapped in a band of land where anything that moves is watched, tracked, and struck. FPV drones have turned a 9 to 12 miles (15-20km) strip along the front into a kill zone. That’s roughly the length of Manhattan, stretching across along a front line roughly 745 miles (1,200 km) long. Tanks that once led offensives now hide under netting. Supply trucks move at night… if they move at all. Ukraine’s defense ministry said its next goal was to push that kill zone from 12 miles (20 km)deep to 62 miles (100 km)."
+    },
+    {
+      "id": 8,
+      "debut": 232.88,
+      "fin": 289.6,
+      "temps_estime": false,
+      "titre": "Ukraine's drone production explosion",
+      "resume": "Ukraine went from a few thousand imported drones in 2022 to at least 4 million in 2025 and is on track to exceed 8 million in 2026, with 20 million per year as the next goal. That is about 22,000 per day, 80 times the roughly 100,000 combat drones the US makes yearly, yet a brigade needs about 2,500 FPV drones a month.",
+      "mots_cles": [
+        "drone production",
+        "8 million drones",
+        "20 million",
+        "FPV",
+        "United States production",
+        "Center for Eastern Studies",
+        "brigade needs",
+        "7 million target"
+      ],
+      "texte": "But filling that zone takes a volume of weapons that the traditional defense industry wasn’t built for. In 2022, Ukraine was relying on a few thousand imported drones. Then the curve went vertical. By 2025, it had hit at least 4 million. At the start of 2026, Kyiv announced a target of 7 million for the year. By summer, that was already out of date. Ukraine is now on track to exceed 8 million drones.20 million per year is the next goal. 8 million a year works out to nearly 22,000 drones every single day, about 15 every minute. The United States makes roughly 100,000 combat drones every year. Ukraine, a country at war and under daily bombardment, is out-producing the world’s largest military by a factor of 80. Even then, they’re consumed almost as fast as they’re built. Poland’s Center for Eastern Studies estimated that a single Ukrainian brigade needs around 2,500 FPV drones every month."
+    },
+    {
+      "id": 9,
+      "debut": 289.6,
+      "fin": 329.84,
+      "temps_estime": false,
+      "titre": "Who builds the drones: private firms and Fire Point",
+      "resume": "More than 500 Ukrainian companies make drones and the private sector produces about 90% of FPV output. Fire Point, founded by people from construction, game design and architecture, went from 30 drones a month in 2023 to about 100 per day by 2025, each costing $55,000 with a 1,600 km range, so the fastest army wins rather than the richest.",
+      "mots_cles": [
+        "Fire Point",
+        "private sector",
+        "drone makers",
+        "long-range drones",
+        "no defense background",
+        "$55,000",
+        "fastest army wins",
+        "1,600 km"
+      ],
+      "texte": "So who builds them? That’s the part that should unsettle every general in the world. More than 500 companies manufacture drones in Ukraine, and the private sector accounts for roughly 90% of all FPV output. Fire Point, one of the country’s leading long-range drone makers was founded by people from the construction, game design, and architecture sectors. Not one of them had a background in defense. In 2023, the target was 30 drones a month. By 2025, the company was building roughly 100 per day, each costing about $55,000, and flying up to 995 miles (1,600 km). The old doctrine assumed that the richest army wins. Today, it’s the fastest army that wins."
+    },
+    {
+      "id": 10,
+      "debut": 329.84,
+      "fin": 356.26,
+      "temps_estime": true,
+      "titre": "Ukraine's mineral wealth: deposits and metals",
+      "resume": "Before the full-scale invasion Ukraine had roughly 20,000 registered mineral deposits, 8,700 of them proven, covering 117 of the 120 most widely used metals and minerals. It holds deposits of 22 of the 34 minerals the EU classifies as critical.",
+      "mots_cles": [
+        "mineral deposits",
+        "critical minerals",
+        "geological resources",
+        "117 of 120 metals",
+        "European Union",
+        "Ukraine resources",
+        "proven deposits"
+      ],
+      "texte": "But this isn’t just a race to build drones. Before the full-scale invasion, Ukraine was sitting on one of the most valuable geological jackpots on Earth. The country registered roughly 20,000 mineral deposits, with 8,700 of them proven. Between them, they covered 117 of the 120 most widely used metals and minerals on the planet. The country holds deposits of 22 of the 34 minerals the European Union classified as critical."
+    },
+    {
+      "id": 11,
+      "debut": 356.26,
+      "fin": 394.48,
+      "temps_estime": true,
+      "titre": "Lithium, titanium, uranium and the $15 trillion estimate",
+      "resume": "Ukraine has around 500,000 tons of lithium, large titanium resources, Europe's largest uranium reserves (about 2% of the global total) and significant graphite. The US trade agency says its lithium could supply up to 20 million EV batteries and its titanium could meet US and EU demand for 25 years, with total value above $15 trillion.",
+      "mots_cles": [
+        "lithium",
+        "titanium",
+        "uranium",
+        "graphite",
+        "EV batteries",
+        "$15 trillion",
+        "resource value",
+        "500,000 tons"
+      ],
+      "texte": "Its lithium reserves, estimated at around 500,000 tons, are among the largest within the EU. Ukraine holds significant titanium resources and is one of Europe’s leading sources of titanium-bearing ores. It also holds Europe’s largest uranium reserves, around 2% of the global total, and significant graphite reserves. The U.S. government’s own trade agency said that Ukraine’s lithium deposits alone could supply up to 20 million electric vehicle batteries. Its titanium reserves could meet the combined demand of the U.S. and the EU for 25 years. The potential value of these resources is more than $15 trillion."
+    },
+    {
+      "id": 12,
+      "debut": 394.48,
+      "fin": 442.32,
+      "temps_estime": false,
+      "titre": "How much of Ukraine's mineral wealth Russia controls",
+      "resume": "One analysis says Russia already controls over $12.5 trillion of these assets, mostly deep-earth coal, while Ukraine's economy minister put resources in occupied territory above $350 billion. About 53% of minerals lie in the four regions Russia claimed to annex in 2022, including the Shevchenko lithium field in Donetsk, plus about 40% of metal resources and 80% of Black Sea gas.",
+      "mots_cles": [
+        "Russian-occupied territory",
+        "annexed regions",
+        "Shevchenko lithium field",
+        "Donetsk",
+        "rare metals",
+        "Black Sea gas",
+        "$12.5 trillion",
+        "$350 billion"
+      ],
+      "texte": "One analysis estimated that Russia already controls over $12.5 trillion of these assets, mostly made up of deep-earth coal fields. In February 2025, Ukraine’s economy minister separately estimated the natural resources in Russian-occupied territory at more than just $350 billion. The estimates might be all over the place, but the location of the minerals isn’t. Around 53% of the total lies in the 4 regions Russia claimed to annex in September 2022. The Shevchenko lithium field, which is one of Ukraine’s biggest, sits in Donetsk. It’s estimated Russian occupied land that hosts about 40% of Ukraine’s metal resources, between 50 and 100% of Ukraine’s reserves of rare metals including lithium. Russia also controls about 80% of Ukraine’s Black Sea gas deposits."
+    },
+    {
+      "id": 13,
+      "debut": 442.32,
+      "fin": 476.56,
+      "temps_estime": false,
+      "titre": "US-Ukraine minerals deal and why the minerals are frozen",
+      "resume": "The resources sit in strategic chokepoints, so Washington and Kyiv signed a 2025 minerals agreement creating a Reconstruction Investment Fund with $150 million in seed money. But Ukraine lacks extraction and processing capacity and cannot open a lithium mine in an active war zone, leaving China as the alternative supplier.",
+      "mots_cles": [
+        "minerals agreement",
+        "Reconstruction Investment Fund",
+        "$150 million",
+        "extraction capability",
+        "war zone",
+        "lithium mine",
+        "Washington",
+        "Kyiv"
+      ],
+      "texte": "These resources are buried inside Ukraine’s vital geographic, industrial, and infrastructure chokepoints. That’s why Washington and Kyiv signed a massive minerals agreement in 2025. It created a joint Reconstruction Investment Fund backed by $150 million in seed funding. But there’s an obvious problem. Ukraine doesn’t have the extraction and processing capability, and you can’t open a lithium mine inside an active war zone. So if Ukraine’s minerals are frozen, who controls the rest of the world’s supply? For the minerals that matter, there’s only one answer… China."
+    },
+    {
+      "id": 14,
+      "debut": 476.56,
+      "fin": 501.36,
+      "temps_estime": false,
+      "titre": "China's grip on rare earths",
+      "resume": "China holds the world's largest rare earth reserves and about 70% of global rare earth processing, rising to 91% of refined output per the IEA and 94% of finished magnets in 2024. These magnets go into electric motors, wind turbines and guided weapons, and Beijing has shown it will use that position.",
+      "mots_cles": [
+        "rare earths",
+        "China",
+        "rare earth processing",
+        "magnets",
+        "International Energy Agency",
+        "wind turbines",
+        "guided weapons",
+        "94% magnet share"
+      ],
+      "texte": "China holds the world’s largest rare earth reserves and controls about 70% of global rare earth processing. The rare earths used in magnets for electric motors, wind turbines, and guided weapons, the International Energy Agency puts China at 91% of global refined output. For the finished magnets themselves, its share hit 94% in 2024. And Beijing has shown it’s willing to use that position."
+    },
+    {
+      "id": 15,
+      "debut": 501.36,
+      "fin": 560.96,
+      "temps_estime": false,
+      "titre": "China's export controls and the untapped Ukrainian alternative",
+      "resume": "China restricted gallium, germanium and antimony exports in December 2024, put controls on 7 heavy rare earths in April 2025 that forced automakers to cut production, and expanded lithium-ion battery controls in October 2025, tripling restrictions since 2023. Ukraine could offer Europe and America a supply of lithium, titanium, graphite and rare earths outside China, but it stays buried while the war drags on.",
+      "mots_cles": [
+        "export controls",
+        "gallium",
+        "germanium",
+        "antimony",
+        "heavy rare earths",
+        "battery supply chain",
+        "trade war",
+        "supply chain diversification"
+      ],
+      "texte": "In December 2024, it restricted exports of gallium, germanium, and antimony to the U.S., which are vital for semiconductors. In April 2025, it placed export controls on 7 heavy rare earth minerals, resulting in car manufacturers to cut production or temporarily halt factories. In October 2025, China announced expanded export controls on lithium-ion battery supply chains, including cathode and anode materials and battery-production equipment. According to the International Energy Agency, or IEA, China has tripled its restrictions on critical mineral exports since 2023. Even though some of these were paused as Beijing and Washington engaged in a tit-for-tat trade war, the message was clear. China can throttle the global tech industry any time it wants. Ukraine is one of the few places on Earth that could give Europe and America a supply of lithium, titanium, graphite, and rare earths that doesn’t run through China. And every month the war drags on, that option stays buried in the ground."
+    },
+    {
+      "id": 16,
+      "debut": 560.96,
+      "fin": 589.84,
+      "temps_estime": false,
+      "titre": "China cannot accept a Russian defeat",
+      "resume": "In July 2025 China's foreign minister Wang Yi told the EU's Kaja Kallas that Beijing could not accept a Russian defeat. The public reason was to keep the US from focusing on China, but the private reason was rare earths and trade balances, which ended any illusion of Chinese neutrality.",
+      "mots_cles": [
+        "Wang Yi",
+        "Kaja Kallas",
+        "Chinese neutrality",
+        "Russian defeat",
+        "rare earths",
+        "trade balances",
+        "July 2025",
+        "EU diplomacy"
+      ],
+      "texte": "Which exposes the darker reason the war refuses to end. In July 2025, China’s foreign minister Wang Yi met with the EU’s top diplomat, Kaja Kallas, and dropped a bombshell. Beijing couldn’t accept a Russian defeat. The public excuse was it would free the U.S. to turn its full military focus on China. But behind closed doors, there’s a more important reason. China’s “rare earths and trade balances.” That conversation shattered any illusion of China’s neutrality."
+    },
+    {
+      "id": 17,
+      "debut": 589.84,
+      "fin": 620.48,
+      "temps_estime": false,
+      "titre": "Resource denial: why the war keeps going",
+      "resume": "The narrator argues the war is not a land grab but a form of resource denial: Russia holds the ground where a Western alternative supply chain would be built, and China keeps Russia's factories running. While the shooting continues no Western company will survey or mine Ukrainian lithium, so the West keeps buying magnets, battery materials and chip inputs from its main strategic rival.",
+      "mots_cles": [
+        "resource denial",
+        "Western supply chain",
+        "strategic rival",
+        "lithium mining",
+        "dependence on China",
+        "land grab",
+        "Russian-held ground"
+      ],
+      "texte": "The war isn’t about a land grab. The war has created a form of resource denial. Russia physically holds the ground where the West’s alternative supply chain would be built. China keeps Russia’s factories running. And as long as the shooting continues, no Western company will survey, finance, or dig out Ukrainian lithium. Meanwhile, the West is stuck buying its magnets, battery materials, and chip inputs from a country it calls its main strategic rival. Every year the war runs is another year that dependence goes unchallenged."
+    },
+    {
+      "id": 18,
+      "debut": 620.48,
+      "fin": 660.56,
+      "temps_estime": false,
+      "titre": "Chinese components keep Russia's arms industry running",
+      "resume": "About 90% of Russia's microelectronics and nearly 70% of its machine-tool imports came from China in 2023, and an April 2026 report said over 90% of sanctioned goods reaching Russia now pass through China. Chinese firms made nearly half of the high-priority battlefield items exported to Russia, and Chinese supplies filled the void left by sanctions.",
+      "mots_cles": [
+        "sanctions evasion",
+        "microelectronics",
+        "machine tools",
+        "China exports to Russia",
+        "Hong Kong transit",
+        "battlefield items",
+        "missile components",
+        "April 2026 report"
+      ],
+      "texte": "In 2023, about 90% of Russia’s microelectronics came from China. Nearly 70% of its machine-tool imports in 2023 came from China. These are the components that go into missiles, drones, and tanks. In April 2026, a report surfaced that the share of sanctioned goods reaching Russia through China had risen to more than 90%. Chinese firms manufactured nearly half of the high-priority battlefield items China exported to Russia in 2023, while China and Hong Kong also served as transit routes for Western-made parts. Sanctions were supposed to starve Russia’s arms industry of technology. Chinese supplies filled the void."
+    },
+    {
+      "id": 19,
+      "debut": 660.56,
+      "fin": 695.84,
+      "temps_estime": false,
+      "titre": "Semiconductor-grade neon: Ukraine's hidden chokepoint",
+      "resume": "Chip lithography needs ultra-pure neon gas, and before the invasion Ukrainian companies Ingas in Mariupol and Cryoin in Odessa produced about half of the world's semiconductor-grade neon, shipping to Taiwan, Korea, China, the US and Germany. Both shut down within weeks of the invasion as Mariupol was besieged and occupied.",
+      "mots_cles": [
+        "neon gas",
+        "semiconductors",
+        "lithography",
+        "Ingas",
+        "Cryoin",
+        "Mariupol",
+        "Odessa",
+        "chip supply chain"
+      ],
+      "texte": "Beijing is desperate to keep those resources out of Western hands. Nearly every advanced chip on Earth begins with light. Lithography machines fire lasers to etch circuit patterns onto silicon wafers. But they can’t do that without ultra-pure neon gas. Before the invasion, two Ukrainian companies, Ingas in Mariupol and Cryoin in Odessa, produced around half of the world’s semiconductor-grade neon. Each month, they were shipping it directly to customers in Taiwan, Korea, China, the United States, and Germany. Within weeks of the invasion, both companies shut down. Mariupol was besieged, then occupied."
+    },
+    {
+      "id": 20,
+      "debut": 695.84,
+      "fin": 725.68,
+      "temps_estime": false,
+      "titre": "Neon price spikes and China as the fallback supplier",
+      "resume": "After Crimea in 2014 chipmakers stockpiled neon and prices spiked 600%, and after the 2022 invasion prices in China quadrupled. Samsung and SK Hynix had enough neon because they could source it from China, so the chip supply survived only because the fallback supplier was the same country at the center of the resource war.",
+      "mots_cles": [
+        "neon prices",
+        "Crimea 2014",
+        "Samsung",
+        "SK Hynix",
+        "chipmakers",
+        "stockpiling",
+        "fallback supplier",
+        "China"
+      ],
+      "texte": "The industry had even seen this coming. After Russia seized Crimea in 2014, chipmakers stockpiled, and neon prices spiked by 600%. After the main invasion, prices in China quadrupled. Several major Asian chipmakers, including Samsung and SK Hynix, said they had enough neon, specifically because they could source it from China. The world’s chip supply survived. But only because one chokepoint closed, and the fallback supplier was the same country that sits at the center of the resource war."
+    },
+    {
+      "id": 21,
+      "debut": 725.68,
+      "fin": 757.52,
+      "temps_estime": false,
+      "titre": "TSMC and the single-island chip dependency",
+      "resume": "The global tech economy relies on one company on one island: Taiwan's TSMC took a record 72.5% of global contract chipmaking revenue by June 2026, far ahead of Samsung and SMIC (about 5%). TSMC makes processors for iPhones and AI chips designed by Nvidia and AMD.",
+      "mots_cles": [
+        "TSMC",
+        "Taiwan",
+        "contract chipmaking",
+        "Samsung",
+        "SMIC",
+        "Nvidia",
+        "AMD",
+        "iPhone processors"
+      ],
+      "texte": "The entire global tech economy relies on one company… on one island. Taiwan’s TSMC took a record 72.5% of global contract chipmaking revenue byJune 2026. Samsung sits in a distant second place with a single-digit share. China’s biggest chipmaker, SMIC, has about 5%. TSMC is responsible for the processors inside iPhones, and the AI chips designed by Nvidia and AMD. Almost every piece of advanced electronics on Earth traces back to its factories."
+    },
+    {
+      "id": 22,
+      "debut": 757.52,
+      "fin": 790.64,
+      "temps_estime": false,
+      "titre": "China's chip import weakness and ASML's EUV monopoly",
+      "resume": "China spends over $300 billion a year importing chips and equipment, more than on oil and gas. The West's ace card is extreme ultraviolet lithography, made only by the Dutch firm ASML at about $250 million per machine, and the Dutch refused to sell to China, so Beijing decided to build its own.",
+      "mots_cles": [
+        "$300 billion chip imports",
+        "ASML",
+        "EUV lithography",
+        "Dutch export ban",
+        "China chip dependence",
+        "$250 million machine",
+        "semiconductor equipment"
+      ],
+      "texte": "But China has a massive, multi-billion dollar weakness. It spends more than $300 billion a year importing chips and chipmaking equipment. That’s more than it spends on imported oil and gas. For years, the West’s ace card was the machines. The most advanced chips require extreme ultraviolet lithography, and only one company on Earth makes those systems: the Dutch firm ASML. Each one costs about $250 million. And the Dutch refused to sell a machine or its parts to China. So Beijing decided to build its own."
+    },
+    {
+      "id": 23,
+      "debut": 790.64,
+      "fin": 817.2,
+      "temps_estime": false,
+      "titre": "China's progress on domestic chipmaking tools",
+      "resume": "By the end of 2025 domestic tools made up 35% of China's installed chip-etching equipment, beating the 30% target, while lithography is still under 5%. No working chips yet, but Chinese researchers and officials reportedly target chip production with this technology by 2028.",
+      "mots_cles": [
+        "domestic chip tools",
+        "chip-etching equipment",
+        "lithography",
+        "35% target",
+        "2028 goal",
+        "Chinese researchers",
+        "self-sufficiency"
+      ],
+      "texte": "And it’s getting closer than anyone expected. By the end of 2025, China’s domestic tools reached 35% of installed chip-etching equipment in 2025, beating the government’s own target of 30%. Lithography is the harder part. Chinese tools still make up less than 5% of the country’s lithography equipment. While it hasn’t produced working chips yet, Chinese researchers and officials have reportedly targeted chip production using the technology by 2028."
+    },
+    {
+      "id": 24,
+      "debut": 817.2,
+      "fin": 844.96,
+      "temps_estime": false,
+      "titre": "Chinese chip factories still need critical raw materials",
+      "resume": "A fab full of Chinese machines still needs neon for lasers, gallium and germanium for semiconductors and rare earths, all materials China dominates and has restricted. If China builds a machine making comparable chips, the West loses its biggest leverage because China would not need Western tools but the West would need Chinese minerals.",
+      "mots_cles": [
+        "gallium",
+        "germanium",
+        "neon",
+        "rare earths",
+        "Western leverage",
+        "chip factory",
+        "raw materials",
+        "China restrictions"
+      ],
+      "texte": "But a chip factory full of Chinese machines still needs raw materials. It needs neon for its lasers. It needs gallium and germanium for its semiconductors, and rare earths for everything around them. Those are exactly the materials China dominates and has already restricted. If China actually builds the machine that can create comparable-quality chips, the West loses its biggest leverage. China wouldn’t need Western tools. But the West would need Chinese minerals."
+    },
+    {
+      "id": 25,
+      "debut": 844.96,
+      "fin": 866.88,
+      "temps_estime": false,
+      "titre": "Why Ukraine's ground matters against China's tech monopoly",
+      "resume": "Ukraine could have chipped away at China's plan for domination, being next to the EU and working toward Western integration. As long as the war keeps that ground locked, China can keep building its high tech monopoly, and total resource denial is among Beijing's most valuable outcomes however the war ends.",
+      "mots_cles": [
+        "Western integration",
+        "European Union",
+        "tech monopoly",
+        "resource denial",
+        "Beijing",
+        "Ukrainian ground",
+        "strategic value"
+      ],
+      "texte": "That’s what makes the ground in Ukraine so valuable. It was one of the few places that could have chipped away at China’s plan for domination. It’s next to the European Union and working toward Western integration. As long as the war keeps that ground locked, China can keep building its high tech monopoly. Total resource denial is one of the most valuable outcomes for Beijing regardless of how the war actually turns out."
+    },
+    {
+      "id": 26,
+      "debut": 866.88,
+      "fin": 910.56,
+      "temps_estime": false,
+      "titre": "The software race: jamming, counter-jamming and fiber-optic drones",
+      "resume": "The war became a real-time software race: Ukrainian radio-linked drones were jammed, answered with frequency-hopping radios, directional antennas and encrypted video, which Russian electronic warfare countered within weeks. Both sides then moved to fiber-optic drones with a hair-thin cable and no signal to jam, littering the battlefield with cable and tripling carbon fiber prices.",
+      "mots_cles": [
+        "electronic warfare",
+        "jamming",
+        "fiber-optic drones",
+        "frequency hopping",
+        "encrypted video",
+        "carbon fiber price",
+        "countermeasures",
+        "software race"
+      ],
+      "texte": "The war has turned into something no army was trained for: a relentless, real time software race. Early on, Ukrainian drones flew on radio links. Russia jammed them. Ukrainian engineers answered with frequency-hopping radios, directional antennas, and encrypted video. Russian electronic warfare teams countered each improvement within weeks. So both countries removed the radio entirely. Instead, fiber-optic drones trail a glass cable thinner than a human hair, and there’s no signal left to jam. The entire battlefield was littered with fiber-optic cables that birds were making nests out of. The price of carbon fiber shot up nearly threefold as AI companies started competing with military contractors. Every fix triggers a counter-fix."
+    },
+    {
+      "id": 27,
+      "debut": 910.56,
+      "fin": 946.52,
+      "temps_estime": true,
+      "titre": "Three-week update cycles and the DOT-Chain Defence marketplace",
+      "resume": "The measure and countermeasure cycle produced drone update cycles as short as 3 weeks. Frontline units rate drones on the government marketplace DOT-Chain Defence, good products get bigger production runs, brigade innovation teams feed modifications back to makers, and Fire Point wrote its own navigation software when jamming defeated Western gear.",
+      "mots_cles": [
+        "DOT-Chain Defence",
+        "update cycles",
+        "marketplace",
+        "brigade innovation teams",
+        "Fire Point software",
+        "rapid iteration",
+        "frontline feedback",
+        "Silicon Valley"
+      ],
+      "texte": "This measure-and-countermeasure cycle has produced drone update cycles as short as 3 weeks. Older models become obsolete as soon as they’re replaced. The system that feeds this loop looks more like Silicon Valley than the Pentagon. Frontline units rate drones on a government marketplace called DOT-Chain Defence. Highly rated products get larger production runs, and poor performers get scrapped. Brigade innovation teams modify drones in the field and send what they learn back to manufacturers, who implement within days or weeks. When Russian jamming defeated the Western navigation gear in Fire Point’s drones, the company simply wrote its own software."
+    },
+    {
+      "id": 28,
+      "debut": 946.52,
+      "fin": 970.4,
+      "temps_estime": true,
+      "titre": "AI autonomy and innovation measured in weeks",
+      "resume": "Autonomy is creeping in: the Sting has AI-assisted target guidance and some interceptors use computer vision to lock on when jamming cuts the pilot link. The war's innovation cycles are measured in months, weeks or days, unlike the years formal defense programs take.",
+      "mots_cles": [
+        "autonomy",
+        "AI target guidance",
+        "computer vision",
+        "Sting interceptor",
+        "jamming",
+        "innovation cycles",
+        "defense programs"
+      ],
+      "texte": "And now, autonomy is creeping in. The Sting already carries AI-assisted target guidance, and some Ukrainian interceptors now use computer vision to lock onto targets on their own. When jamming cuts the link between pilot and drone, the machine can attempt to finish the job. So the war has innovation cycles that are measured in months, weeks, or even days, not in the years that formal defense programs take."
+    },
+    {
+      "id": 29,
+      "debut": 970.4,
+      "fin": 983.52,
+      "temps_estime": true,
+      "titre": "Russia's jet-powered Geran-3 and the lack of a lasting edge",
+      "resume": "Russian technology evolves too: its jet-powered Geran-3 drones fly above 340 mph (547 kph) and are largely out of reach of most interceptors. Neither side holds an edge long enough to win with it.",
+      "mots_cles": [
+        "Geran-3",
+        "jet-powered drones",
+        "547 kph",
+        "interceptors",
+        "Russian drones",
+        "technological parity"
+      ],
+      "texte": "But Russian tech evolves too. Its newer jet-powered Geran-3 drones fly at over 340 miles per hour ( 547 kph). They remain largely out of reach of most interceptors. Neither side holds an edge long enough to win with it."
+    },
+    {
+      "id": 30,
+      "debut": 983.52,
+      "fin": 1009.84,
+      "temps_estime": true,
+      "titre": "The Iran war: Patriots against cheap Shaheds",
+      "resume": "On February 28, 2026 the US and Israel struck Iran, which answered with hundreds of missiles and thousands of drones against US bases, embassies and oil infrastructure. US and allied forces fired expensive Patriot interceptors at cheap Shaheds, exactly the trade Ukraine had learned to avoid, so Washington asked Kyiv for help.",
+      "mots_cles": [
+        "Iran war",
+        "February 28 2026",
+        "Patriot interceptors",
+        "Shahed swarms",
+        "US bases",
+        "Middle East",
+        "oil infrastructure",
+        "Israel"
+      ],
+      "texte": "This isn’t just Ukraine’s problem. On February 28th, 2026, the United States and Israel launched strikes on Iran. Iran answered with hundreds of missiles and thousands of drones, aimed at U.S. bases, embassies, and oil infrastructure across the Middle East. To stop the swarms, U.S. and allied forces were firing expensive Patriot interceptors at cheap Shaheds. It was exactly the trade Ukraine had learned to avoid. So Washington asked Kyiv for help."
+    },
+    {
+      "id": 31,
+      "debut": 1009.84,
+      "fin": 1030.72,
+      "temps_estime": false,
+      "titre": "Ukrainian anti-drone specialists deployed to the Middle East",
+      "resume": "By mid-March 201 Ukrainian anti-drone specialists were in the UAE, Qatar and Saudi Arabia and heading to Kuwait, and by April Zelenskyy confirmed Ukrainian interceptors had downed Iranian drones. He said he would consider handing over interceptor drones in exchange for PAC-3 missiles.",
+      "mots_cles": [
+        "Zelenskyy",
+        "Ukrainian specialists",
+        "UAE",
+        "Qatar",
+        "Saudi Arabia",
+        "interceptor drones",
+        "PAC-3 missiles",
+        "Iranian drones"
+      ],
+      "texte": "By mid-March, 201 Ukrainian anti-drone specialists were in the UAE, Qatar, and Saudi Arabia, and on the way to Kuwait. By April, President Zelenskyy confirmed that Ukrainian-made interceptors had shot down Iranian drones in the Middle East. Zelenskyy even said he would consider handing over interceptor drones, but in exchange for PAC-3 missiles."
+    },
+    {
+      "id": 32,
+      "debut": 1030.72,
+      "fin": 1068.4,
+      "temps_estime": false,
+      "titre": "Cheap interceptors reach NATO: Merops and the eastern flank",
+      "resume": "Ukraine still needs expensive missiles for Russian ballistic missiles, and cheap interceptors let it save them. Merops, built by a US startup and first used by Ukraine in June 2024, was fielded by Poland and Romania after about 20 drones entered Polish airspace in September 2025, and the US Army is deploying it against Iranian drones.",
+      "mots_cles": [
+        "Merops",
+        "NATO eastern flank",
+        "Poland",
+        "Romania",
+        "low-cost interceptor",
+        "Polish airspace",
+        "US Army",
+        "ballistic missiles"
+      ],
+      "texte": "Ukraine still needs the expensive answers for Russia’s ballistic missiles. The cheap ones just let it save them for the threats that matter. The technology flowed into NATO, too. Merops, a low-cost interceptor developed by a U.S. startup, was first used by Ukrainian forces in June 2024. It was proven against Russian Shaheds, then fielded by Poland and Romania on NATO’s eastern flank after about 20 drones crossed into Polish airspace in September 2025. In 2026, Romania announced it was operational and integrated into its air defense network. The U.S. Army is deploying it against Iranian drones and rapidly scaling production."
+    },
+    {
+      "id": 33,
+      "debut": 1068.4,
+      "fin": 1104.88,
+      "temps_estime": true,
+      "titre": "Interceptor depletion, Iran war costs and the cheap-weapons paradox",
+      "resume": "The Iran war rapidly consumed US interceptors, with reports of significant depletion of Patriot and THAAD stocks, and Military Spend estimated a cost of about $43.5 billion by September 2026. Both frontlines face a paradox: weapons are getting cheaper while defenses must be layered, adaptable systems deployed within weeks.",
+      "mots_cles": [
+        "Patriot depletion",
+        "THAAD",
+        "$43.5 billion",
+        "Military Spend",
+        "munitions replenishment",
+        "layered defense",
+        "Iran war cost",
+        "two frontlines"
+      ],
+      "texte": "But the war with Iran has seen U.S. forces rapidly consume air-defense interceptors. Some reports pointing to significant depletion of Patriot and THAAD stocks. Military Spend, a defense economics research group, estimated that the war with Iran had cost about $43.5 billion as of September 2026. The long-term costs could rise substantially as the United States replenishes munitions and sustains military operations. So there are two frontlines, both paralyzed by a new paradox: Weapons are getting cheaper while defenses need to be multi-faceted, layered systems that can be adaptable and deployed in weeks."
+    },
+    {
+      "id": 34,
+      "debut": 1104.88,
+      "fin": 1133.68,
+      "temps_estime": true,
+      "titre": "Why the war continues: territory and stalled talks",
+      "resume": "Asked why the war is still happening, the narrator answers territory: Putin said in July he would not resume talks until Russia seizes the rest of the Donbas. US envoys Steve Witkoff and Jared Kushner visited Moscow and Kyiv in September 2026 and left with only platitudes, and Zelenskyy said territory remains relevant.",
+      "mots_cles": [
+        "Putin",
+        "Donbas",
+        "Witkoff",
+        "Kushner",
+        "peace talks",
+        "territory",
+        "Zelenskyy",
+        "negotiations 2026"
+      ],
+      "texte": "So why is the war in Ukraine still happening? Territory. In July, Russian President Vladimir Putin stated he had no plans to resume talks until Russian forces seize the rest of the Donbas. In early September 2026, U.S. envoys Steve Witkoff and Jared Kushner traveled to Moscow, then Kyiv, to restart negotiations. They left Russia with absolutely nothing to show for it besides empty platitudes. Afterward, Zelenskyy said the question of territory remains a relevant one."
+    },
+    {
+      "id": 35,
+      "debut": 1133.68,
+      "fin": 1167.1,
+      "temps_estime": true,
+      "titre": "Recap: minerals, drone stalemate, Chinese supply and the lab",
+      "resume": "The ground above a mineral base is worth holding for Russia and freezing for Beijing. Cheap drones make defense cheap and attack ruinous so neither army can break through, Russian factories run on Chinese supplies despite sanctions, and the war is a working lab whose lessons grow more valuable each month.",
+      "mots_cles": [
+        "why the war continues",
+        "mineral base",
+        "drone stalemate",
+        "Chinese supplies",
+        "sanctions bypass",
+        "working lab",
+        "lessons"
+      ],
+      "texte": "There’s the ground above a mineral base that could give the West an alternative to China. That makes it worth holding for Russia, and worth freezing for Beijing. Then there’s the front where drones costing a few thousand dollars have made defending cheap and attacking ruinously expensive. That means neither army can break through, and neither can be forced to quit. Russia’s factories continue to run, thanks to Chinese supplies, completely bypassing Western sanctions. And it’s a working lab whose lessons are being studied worldwide. Every month the war continues, those lessons become more valuable."
+    },
+    {
+      "id": 36,
+      "debut": 1167.1,
+      "fin": 1182.1,
+      "temps_estime": true,
+      "titre": "The unanswered question: how does a modern military end this war",
+      "resume": "If a $2,500 drone can down a $4 million missile and both sides can rewrite weapons in weeks, the narrator asks how any modern military ends such a war. He adds that the war did not go the way Russia wanted and is spiralling out of control.",
+      "mots_cles": [
+        "$2,500 drone",
+        "$4 million missile",
+        "ending the war",
+        "modern military",
+        "open question",
+        "spiralling out of control"
+      ],
+      "texte": "Which leaves one question that no army on Earth has been able to answer. If a $2,500 drone can down a $4 million missile, and both sides can rewrite their weapons in a matter of weeks… how does any modern military actually end a war like this?"
+    },
+    {
+      "id": 37,
+      "debut": 1182.1,
+      "fin": 1193.4,
+      "temps_estime": true,
+      "titre": "Outro: next video on Ukraine and Putin's weakness",
+      "resume": "The video closes by pointing viewers to the video 'How Ukraine Exposed Putin's Biggest Weakness', about how Ukraine is pushing back against Moscow.",
+      "mots_cles": [
+        "next video",
+        "Putin weakness",
+        "Ukraine pushback",
+        "Moscow",
+        "call to action",
+        "outro"
+      ],
+      "texte": "The war in Ukraine didn’t go the way Russia wanted. And it’s spiralling out of control. Watch “How Ukraine Exposed Putin's Biggest Weakness” to see how they’re pushing back against Moscow. Or click on this."
+    }
+  ]
+}
