@@ -1,0 +1,598 @@
+{
+  "version": 1,
+  "video_id": "j16_OPRTT4g",
+  "titre_video": "Why Phone Scammers Wait Exactly 3 Seconds Before Speaking",
+  "duree_s": 1154.72,
+  "avancement": {
+    "lignes_traitees": 236,
+    "fin_traitee_s": 1154.72,
+    "nb_lignes_total": 236,
+    "complet": true
+  },
+  "nb_segments": 31,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.32,
+      "fin": 23.2,
+      "temps_estime": false,
+      "titre": "Three seconds of silence and a stolen identity",
+      "resume": "Opening hook: saying \"Hello\" to a silent phone call can cost you control of your life. Two weeks later your family receives a frantic call in your own voice begging for help, while you are sitting next to them. An invisible attacker weaponized your identity with just one word.",
+      "mots_cles": [
+        "silent phone call",
+        "hello",
+        "identity theft",
+        "voice cloning",
+        "3 seconds",
+        "scam",
+        "family emergency call"
+      ],
+      "texte": "3 seconds… that’s all it takes to lose control of your life. Your phone rings, you pick it up and say “Hello.” Nothing comes back but total silence. You hang up and forget about it. But two weeks later, your family gets a frantic call. It’s your voice, begging for help. Except… you're sitting right next to them. An invisible attacker weaponized your identity, and you gave them everything"
+    },
+    {
+      "id": 2,
+      "debut": 23.2,
+      "fin": 54.96,
+      "temps_estime": false,
+      "titre": "Predictive dialers: the machine behind the dead air",
+      "resume": "The 3 seconds of dead air come from an automated machine called a predictive dialer, not a human. Legitimate call centers use it to call multiple numbers at once and calculate when staff are free, and scammers exploit the same efficiency.",
+      "mots_cles": [
+        "predictive dialer",
+        "dead air",
+        "call centers",
+        "automated calling",
+        "scammers",
+        "silent calls",
+        "cold calling"
+      ],
+      "texte": "they needed with just one word. As technology has advanced, so too have the tools at a scammer’s disposal. No one was on the other end of the phone during those 3 seconds of dead air. You were talking to a predator. An automated machine known as a predictive dialer. For places like legitimate businesses like call centers, the technology has become a game-changer. Instead of humans manually typing in numbers, predictive dialers can call multiple numbers at the same time. It analyzes the availability of staff, perfectly calculating when someone is free to talk. But in the murky world of scammers,"
+    },
+    {
+      "id": 3,
+      "debut": 54.96,
+      "fin": 81.04,
+      "temps_estime": false,
+      "titre": "The giant net: how scam dialers find live numbers",
+      "resume": "Old-school cold calling was a single fisherman with a rod; the dialer is a giant net trawling an ocean of phone numbers that never sleeps or feels guilty. Unanswered calls and answering machines are skipped, but if a person picks up, they are hauled in.",
+      "mots_cles": [
+        "cold calling",
+        "predictive dialer",
+        "answering machine",
+        "live number",
+        "fishing net analogy",
+        "scam automation",
+        "phone numbers"
+      ],
+      "texte": "this efficiently can reach terrifying heights. Old school cold calling was like a single fisherman with a rod trying to catch one fish at a time. But today, it’s a giant net trawling an ocean of phone numbers. It never sleeps and never complains and never feels guilty. If no one picks up, it moves on. If a call goes to an answering machine, it’s a non-starter. But if you pick up when the machine calls… it hauls you in."
+    },
+    {
+      "id": 4,
+      "debut": 81.04,
+      "fin": 111.6,
+      "temps_estime": false,
+      "titre": "A confirmed live number sold on the Dark Web, and language detection",
+      "resume": "Picking up makes you a confirmed live number, and databases of verified numbers are bundled and sold on the Dark Web. Your single hello also lets the AI detect which language you speak, such as English, Spanish or Chinese, and lists you as an English speaker.",
+      "mots_cles": [
+        "confirmed live number",
+        "Dark Web",
+        "verified numbers database",
+        "language detection",
+        "English speaker",
+        "hello",
+        "AI system"
+      ],
+      "texte": "You've just become a confirmed live number. That data alone can be worth a fortune. Databases of verified numbers can be packaged, bundled and sold on the Dark Web to the highest bidder. Just that one word, your simple hello, provided the AI system with a trove of valuable, potentially exploitable, information. The AI detected what language you spoke. A scammer's target may be English speakers, or Spanish speakers, or Chinese speakers. The AI has already listed you as an active number and English speaker."
+    },
+    {
+      "id": 5,
+      "debut": 111.6,
+      "fin": 163.36,
+      "temps_estime": false,
+      "titre": "Accent analysis and the psychology of income brackets",
+      "resume": "Software can analyze accent, pronunciation and vocabulary; a 2026 Wall Street Journal piece asked whether your accent is a security vulnerability. Sounding familiar builds trust, and different income brackets fall for different scams: low-income people for fake jobs, debt relief and lotteries, wealthier overconfident people for get-rich-quick offers.",
+      "mots_cles": [
+        "accent analysis",
+        "Wall Street Journal",
+        "regional accent",
+        "trust",
+        "income brackets",
+        "fake job offers",
+        "fake lottery scams",
+        "investment scams"
+      ],
+      "texte": "The software can also analyze how you speak. Do you have a strong regional accent? Does your pronunciation or vocabulary suggest a particular educational background? The Wall Street Journal in 2026 asked, “Has Your Accent Just Become a Security Vulnerability?” If someone is going to scam you, sounding familiar can sometimes help establish trust. In the case of strong regional accents, a scammer might make assumptions, rightly or wrongly, about your background and how you will respond when asked a certain question. Research shows that different economic brackets are often susceptible to differing psychological triggers. People in low-incomes tend to fall more for fake job offers, debt relief and fake lottery scams. But people with disposable capital, often over-confident about their tech saviness, often fall for scams which promise to grow their wealth quickly. All of this can be useful for a scamming operation."
+    },
+    {
+      "id": 6,
+      "debut": 163.36,
+      "fin": 180.56,
+      "temps_estime": false,
+      "titre": "AI estimates your age from your voice",
+      "resume": "Modern AI can estimate your age from hundreds of acoustic characteristics, including pitch, rhythm, speaking speed and subtle variations the human ear misses. The systems are usually accurate to within 5 years, which matters to scammers.",
+      "mots_cles": [
+        "age estimation",
+        "voice analysis",
+        "acoustic characteristics",
+        "pitch",
+        "speaking speed",
+        "AI",
+        "5 years accuracy"
+      ],
+      "texte": "Modern AI systems can also estimate your age from the sound of your voice. These systems analyze hundreds of acoustic characteristics, including pitch, rhythm, speaking speed and subtle variations that the human ear might miss. The systems are usually accurate at getting your age within 5 years. This also matters."
+    },
+    {
+      "id": 7,
+      "debut": 180.56,
+      "fin": 195.6,
+      "temps_estime": false,
+      "titre": "Criminal call centers deliberately target older people",
+      "resume": "The FBI warned that criminal call centers deliberately target older people, with devastating consequences. Elderly people who believe they are speaking with trusted authorities, charities or financial advisers tend to be more trusting than those raised amid digital skepticism.",
+      "mots_cles": [
+        "FBI warning",
+        "elderly victims",
+        "call centers",
+        "trusted authorities",
+        "charities",
+        "financial advisers",
+        "older people scams"
+      ],
+      "texte": "The FBI has warned that criminal call centers deliberately target older people, sometimes with very devastating consequences. When elderly people believe they’re speaking with trusted authorities, charities or financial advisers, they tend to be more trusting than people who’ve grown up"
+    },
+    {
+      "id": 8,
+      "debut": 195.6,
+      "fin": 227.19,
+      "temps_estime": true,
+      "titre": "Romance scams in Britain: Action Fraud figures",
+      "resume": "Romance scammers often target educated, computer-literate elderly women by exploiting emotional vulnerability. Action Fraud figures from 2019 showed 63% of reported romance-fraud victims in 2018 were women, losing an average of £11,100 (almost $15,000); the average victim was 50 and women lost twice as much as men.",
+      "mots_cles": [
+        "romance scams",
+        "Action Fraud",
+        "Britain",
+        "63% women",
+        "£11,100",
+        "emotional vulnerability",
+        "elderly women",
+        "romance fraud"
+      ],
+      "texte": "in a world of digital skepticism. Romance scammers often target elderly women. These are often educated, computer-literate women, but the criminals are skilled at exploiting emotional vulnerability. In Britain, figures released by Action Fraud in 2019 showed that 63% of reported romance-fraud victims in 2018 were women. Victims lost an average of £11,100, almost $15,000 at the time. The average victim was 50 years old, and women lost twice as much money as men on average."
+    },
+    {
+      "id": 9,
+      "debut": 227.19,
+      "fin": 261.44,
+      "temps_estime": true,
+      "titre": "Romance scams in South Korea: young victims",
+      "resume": "In Asia the targets can be young women: a 2023 South Korean study of 280 romance-scam police reports from early 2022 found 71.4% of victims were female. 52.1% were in their 20s or younger and 35.4% in their thirties, showing that scammers don't always want the same kind of victim.",
+      "mots_cles": [
+        "South Korea",
+        "romance scam study",
+        "2023 study",
+        "71.4% female",
+        "young victims",
+        "20s",
+        "victim profile",
+        "police reports"
+      ],
+      "texte": "Things are different in some parts of Asia where it’s often young women who are the target. In South Korea, a study published in 2023 analyzed 280 romance-scam reports made to police during the first 6 months of 2022. It found that 71.4% of victims were female. Unlike the older victims often highlighted in Western reports, 52.1% of these South Korean victims were in their 20s or younger, while another 35.4% were in their thirties. Scammers don't always want the same kind of victim. Different scams exploit different circumstances."
+    },
+    {
+      "id": 10,
+      "debut": 261.44,
+      "fin": 295.3,
+      "temps_estime": true,
+      "titre": "The profile package built from one hello",
+      "resume": "From a single hello in 3 seconds of silence the AI works out language, sex, earnings and age, and the profile becomes part of a package sold to fraudsters. Repeated automated calls also reveal the time of day a target is free, so the package includes the best time to reach you.",
+      "mots_cles": [
+        "victim profile",
+        "language",
+        "sex",
+        "earnings",
+        "age",
+        "best time to call",
+        "data package",
+        "fraudsters"
+      ],
+      "texte": "That’s why an automated AI system analyzing that one “Hello” is so important. In 3 seconds of silence, the AI system has now figured out language, sex, earnings, and age. That profile becomes part of a package bought by someone who intends to defraud people. Because these automated calling systems call multiple times until someone picks up, the scammers will also have information as to the time of day their mark is free to speak. So next to estimated age, wage, sex, language, dialect, the package now also includes the best time to reach you."
+    },
+    {
+      "id": 11,
+      "debut": 295.3,
+      "fin": 346.47,
+      "temps_estime": true,
+      "titre": "The Sucker List",
+      "resume": "Scammers look for people willing to send small donations, for charity or political causes, who then land on the Sucker List. The BBC reported British researchers found at least 160,000 people from England, Scotland and Wales on it, sold as detailed profiles, such as people who are 80, disabled, live alone and play the Lottery.",
+      "mots_cles": [
+        "Sucker List",
+        "small donations",
+        "BBC",
+        "160,000 people",
+        "sold profiles",
+        "lottery players",
+        "vulnerable people",
+        "Dark Web"
+      ],
+      "texte": "And these scams aren’t always looking to empty your bank account. Scammers often look for people who are prepared to send them small donations, maybe for a local charity or maybe even for a political cause. If you fell for it, you might have unknowingly been placed on a list: The Sucker List. Your number has been associated with someone who is likely to fall for a scam. Your details are now part of a large industry of scamming networks. The BBC said British researchers discovered at least 160,000 people from England, Scotland and Wales on the Sucker List. These people were sold as profiles, sometimes quite detailed. A researcher said, “You can buy details as specific as people who are 80, disabled, live alone, respond to communication and play the Lottery.” Why does the Lottery matter? Because the person might be desperate and take chances."
+    },
+    {
+      "id": 12,
+      "debut": 346.47,
+      "fin": 379.44,
+      "temps_estime": true,
+      "titre": "Silent calls as number verification and raw material for voice cloning",
+      "resume": "A 2024 Quora user complained of about 10 calls a day where nobody speaks and the call disconnects after 5 seconds; his number may have been sold and scammers were checking it was active. Every hello or \"who is this?\" could also be raw material for an AI voice-cloning attack.",
+      "mots_cles": [
+        "Quora",
+        "silent calls",
+        "number verification",
+        "active number",
+        "Dark Web",
+        "voice cloning",
+        "raw material",
+        "hello"
+      ],
+      "texte": "Someone in 2024 wrote on Quora: “Why am I suddenly getting about 10 calls a day on my cell phone where I answer, no one is there, and the call disconnects after 5 seconds?” It’s possible his number had been sold on the Dark Web to scammers alongside thousands of millions of other numbers. The scammers calling him daily might have been making sure it was active. But they might have been doing much more than building a profile. Every time this person said Hello into a machine or asked who was on the line, those words were potentially raw material for an AI voice-cloning attack."
+    },
+    {
+      "id": 13,
+      "debut": 379.44,
+      "fin": 447.36,
+      "temps_estime": false,
+      "titre": "The Crosetto deepfake and the Moratti ransom scam",
+      "resume": "In 2025 scammers used AI to imitate Italian Defense Minister Guido Crosetto and called Italian business leaders claiming journalists were kidnapped and ransom money was needed. Massimo Moratti, former owner of Inter Milan, sent about one million euros, but investigators traced and froze nearly all of it in a Dutch bank account.",
+      "mots_cles": [
+        "vishing",
+        "voice phishing",
+        "Guido Crosetto",
+        "Massimo Moratti",
+        "Inter Milan",
+        "ransom scam",
+        "Italy 2025",
+        "deepfake voice"
+      ],
+      "texte": "Voice cloning has become another weapon in what is known as vishing, or voice phishing. The most unnerving recent example of this was in 2025 when scammers used AI to imitate the voice of Italian Defense Minister Guido Crosetto. The criminals contacted a number of well-known business leaders in Italy, pretending to represent Crosetto and his ministry. They claimed that Italian journalists had been kidnapped in the Middle East and that ransom money was urgently needed to secure their release. The scammers said the government couldn't pay the money directly, but these wealthy business leaders could help their country by providing the funds. They were assured that the Bank of Italy would reimburse them. One of the targets was Massimo Moratti, the former owner of Inter Milan football club. He fell for it. But Moratti wasn’t stupid. The person on the other end of the line sounded exactly like Crosetto. Moratti made two transfers totaling approximately one million euros, or about $1.1 million. Fortunately, Italian investigators managed to trace and freeze nearly the entire sum in a Dutch bank account. That’s the one thing scammers can’t fake: the place where the money is sent."
+    },
+    {
+      "id": 14,
+      "debut": 447.36,
+      "fin": 483.14,
+      "temps_estime": true,
+      "titre": "Vishing as a major global problem: the elderly Italian mother",
+      "resume": "Criminals impersonated one of Italy's most senior officials and convinced an experienced businessman to transfer a fortune, showing vishing is already a major global problem. Another Italian case involved an elderly woman who thought her hysterical daughter called about a car accident and transferred €30,000.",
+      "mots_cles": [
+        "vishing",
+        "global problem",
+        "Italy",
+        "elderly woman",
+        "fake daughter call",
+        "car accident scam",
+        "€30,000",
+        "impersonation"
+      ],
+      "texte": "But the damage demonstrated something very disturbing about modern life. Criminals had impersonated one of Italy's most senior government officials and convinced an experienced businessman to transfer a fortune. Vishing scams are already a major global problem. At the time the Crosetto case appeared in the Italian media, other reports emerged about an elderly Italian lady who believed she’d received a call from her daughter asking for money. The daughter was hysterical. Her husband had apparently had a car accident that had injured a mother and her child. The elderly lady took pity on her daughter and transferred €30,000, or $33,000."
+    },
+    {
+      "id": 15,
+      "debut": 483.14,
+      "fin": 502.72,
+      "temps_estime": true,
+      "titre": "The 2026 Charter Communications voice-clone breach",
+      "resume": "Vishing is not always about money: in 2026 scammers used a voice clone to pose as staff at Charter Communications and gained access to 4.9 million records. Such data can be sold on the Dark Web or used by the scammers.",
+      "mots_cles": [
+        "Charter Communications",
+        "2026",
+        "voice clone",
+        "4.9 million records",
+        "data breach",
+        "vishing",
+        "Dark Web",
+        "social engineering"
+      ],
+      "texte": "Vishing is not always about money. In 2026, an attack embarrassed the telecommunications and mass media company, Charter Communications. Using a voice clone, the scammers pretended to be staff and were given access to 4.9 million records. It was a score that could be sold on the Dark Web or used by the scammers."
+    },
+    {
+      "id": 16,
+      "debut": 502.72,
+      "fin": 555.26,
+      "temps_estime": true,
+      "titre": "Three seconds of audio makes a clone: cheap voice-cloning software",
+      "resume": "Almost anyone can join the voice scamming game: McAfee tests in 2023 showed just 3 seconds of speech produced a clone with an 85% voice match, and 95% with more recordings. Voice-cloning tools are free or cost a few dollars a month, so no specialist expertise is needed.",
+      "mots_cles": [
+        "voice cloning",
+        "McAfee",
+        "3 seconds of audio",
+        "85% voice match",
+        "95% match",
+        "cheap software",
+        "free tools",
+        "2023 tests"
+      ],
+      "texte": "You could be next because the fact is, almost anyone – provided they have a moral deficit – can join the voice scamming game. With modern voice-cloning software now so widely available, criminals no longer need hours of recordings to create a convincing imitation. Tests carried out by cybersecurity company McAfee in 2023, just 3 seconds of recorded speech was enough to produce a clone with an 85% voice match. With additional recordings and effort, its researchers achieved a 95% match. No one would be able to tell the difference between 95% real and the real thing. And almost anyone can access the software because it's become so cheap. Some voice-cloning tools are available for free, while others cost just a few dollars a month. In other words, what once required specialist technology and considerable expertise to use is now available to anyone who’s motivated to get into the scamming game."
+    },
+    {
+      "id": 17,
+      "debut": 555.26,
+      "fin": 598.88,
+      "temps_estime": true,
+      "titre": "Voice-cloning companies lack safeguards",
+      "resume": "Consumer Reports investigated 6 voice-cloning companies in March 2025 and found 4 lacked meaningful technical safeguards or any way to verify consent. Users only had to tick a box claiming permission and often needed just a name or email, like selling digital lockpicks and asking buyers to promise not to break in.",
+      "mots_cles": [
+        "Consumer Reports",
+        "March 2025",
+        "voice-cloning companies",
+        "safeguards",
+        "consent",
+        "tick a box",
+        "no ID verification",
+        "digital lockpicks"
+      ],
+      "texte": "But surely these companies selling the software build safeguards into their products? The answer is no. Consumer Reports investigated 6 companies selling voice-cloning software in March 2025. They found that 4 lacked meaningful technical safeguards to prevent someone from cloning another person's voice without permission. Those 4 had no technical mechanisms to verify that the person whose voice was being cloned had actually consented. All the user had to do was tick a box claiming they had permission, or make a similar declaration. In most cases, opening an account required little more than a name or email address – not even a reliable ID. It’s like selling digital lockpicks to the general public and asking customers to promise they won't break into anyone's house."
+    },
+    {
+      "id": 18,
+      "debut": 598.88,
+      "fin": 650.8,
+      "temps_estime": true,
+      "titre": "Building a personality profile with AI and social media",
+      "resume": "With a cloned voice, scammers can use free generative AI like ChatGPT or Claude to gather public information about where you live, your job, spouse, siblings and friends. By analyzing your social media comments for vocabulary and style, they can imitate how you speak and sound within a few hours.",
+      "mots_cles": [
+        "personality profile",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "social media",
+        "public information",
+        "writing style",
+        "impersonation"
+      ],
+      "texte": "Once scammers have your voice cloned, they can use free generative AI systems such as ChatGPT or Claude to collect publicly available information about you and build a personality profile. Personal information can be bought on the Dark Web, but a surprising amount can also be found online. Depending on how much you've shared publicly, someone might be able to discover where you live, what job you do, who you're married to, and who your siblings and friends are… all by searching the internet. And if they examine enough comments on your public social media profiles, they can feed your words into an AI system to analyze your vocabulary, expressions and writing style. Combined with a cloned voice, that information could help a scammer create an imitation of you that doesn't just sound like you, but also speaks in a way that seems familiar to the people who know you. In less than a few hours, they can talk like you, sound like you, and pretty much, be you."
+    },
+    {
+      "id": 19,
+      "debut": 650.8,
+      "fin": 674.56,
+      "temps_estime": false,
+      "titre": "Starling Bank survey on voice-clone scam awareness",
+      "resume": "A 2024 Guardian article cited Starling Bank research: 28% of people had been targeted by an AI voice-cloning scam at least once in the year, and 46% didn't know such scams existed. 8% said they would hand over cash if a loved one asked, even if something seemed off.",
+      "mots_cles": [
+        "Starling Bank",
+        "Guardian 2024",
+        "28% targeted",
+        "46% unaware",
+        "8% would pay",
+        "voice-clone scams",
+        "survey",
+        "awareness"
+      ],
+      "texte": "An article in the Guardian in 2024 cited research by Starling Bank that revealed that 28% of people had been targeted by an AI voice cloning scam at least once in the year. The research also showed that 46% of respondents had no idea voice-clone scams existed. 8% said they’d hand over cash if their loved one asked for some over the phone even if they thought something seemed a little off."
+    },
+    {
+      "id": 20,
+      "debut": 674.56,
+      "fin": 698.56,
+      "temps_estime": false,
+      "titre": "Why phone scams work: compressed audio and emotion",
+      "resume": "Phone scams work because grammar doesn't need to be perfect in speech and phone audio is compressed, with background noise, static or poor reception. If the AI gets pitch, tone, rhythm and pronunciation roughly right, the voice can fool someone in a brief emotional conversation.",
+      "mots_cles": [
+        "phone audio",
+        "compressed audio",
+        "background noise",
+        "pitch and tone",
+        "synthetic voice",
+        "emotional conversation",
+        "imperfect clone",
+        "phone scams"
+      ],
+      "texte": "For scammers, the beauty of phone scams is that you can be a little off and still get away with it. Grammar doesn't have to be perfect in speech. Phone audio is compressed. There's often background noise, static, or poor reception. As long as the AI gets the pitch, tone, rhythm and pronunciation reasonably close, the synthetic voice might be convincing enough to fool someone, especially during a brief, emotional conversation."
+    },
+    {
+      "id": 21,
+      "debut": 698.56,
+      "fin": 754.32,
+      "temps_estime": true,
+      "titre": "Real-time voice conversion and the caller ID problem",
+      "resume": "New software does real-time voice conversion rather than text-to-speech: the scammer speaks into a microphone and it becomes someone else's voice instantly, allowing a two-way conversation, and even a Scottish male can sound like a woman from the US south. The AI can also respond by itself, and a mismatched phone number can be excused as a lost or borrowed phone.",
+      "mots_cles": [
+        "real-time voice conversion",
+        "text-to-speech",
+        "two-way conversation",
+        "voice changer",
+        "caller ID mismatch",
+        "lost phone excuse",
+        "AI voice",
+        "impersonation"
+      ],
+      "texte": "The new software isn’t text-to-speech but it’s able to do real-time voice conversions. Instead of typing words and waiting for the computer to speak them, a scammer can talk directly into a microphone. AI software processes their speech almost instantaneously, transforming it into a synthetic imitation of somebody else's voice. The scammer can now have a two-way conversation. They can answer questions, interrupt, express fear or urgency, and improvise as the conversation develops. And the scammer doesn't even have to sound remotely like that person in real life. A high-pitched male with a strong Scottish accent can easily become a woman from the deep south of the US. It’s not ideal, but if the scammer didn’t want to talk at all, he could allow the AI to respond itself. Of course, for the scammer, there’s a major problem: The number they’re using might not match the number of the voice-cloned caller. This is a real setback, but the person could say they’ve lost their phone, or they’re using their friend’s phone."
+    },
+    {
+      "id": 22,
+      "debut": 754.32,
+      "fin": 786.88,
+      "temps_estime": true,
+      "titre": "Why the brain trusts familiar voices",
+      "resume": "Humans are very good at recognizing voices, and when someone sounds exactly like a person we know it doesn't compute that it might not be them. Neuroscience says familiar voices are processed by brain networks tied to memories of bonding and experience, which is what voice-cloning scammers exploit.",
+      "mots_cles": [
+        "voice recognition",
+        "neuroscience",
+        "familiar voices",
+        "bonding memories",
+        "trust",
+        "brain networks",
+        "voice cloning",
+        "psychology"
+      ],
+      "texte": "But this could never happen to you, right? You’d know. You’re too smart to be fooled like that. Well, the human mind is very good at recognizing voices. When someone sounds exactly like a person we know, it doesn’t compute that this person might not actually be them. Neuroscience tells us that familiar voices are processed by brain networks that interpret memories of bonding and experience. That’s why the very sound of someone’s voice can sometimes bring relief, or maybe dread. A voice is a powerful thing. And that's exactly what voice-cloning scammers are exploiting."
+    },
+    {
+      "id": 23,
+      "debut": 786.88,
+      "fin": 845.76,
+      "temps_estime": false,
+      "titre": "Authority, urgency and the Milgram experiment in vishing",
+      "resume": "In corporate vishing, scammers use authority: the 1960s Milgram obedience experiment showed people will follow an authority figure even when uncomfortable. Scammers use a superior's language, create urgency and imply that questioning the request could cause trouble, which worked even at Charter Communications.",
+      "mots_cles": [
+        "authority",
+        "Milgram experiment",
+        "obedience",
+        "corporate vishing",
+        "urgency",
+        "subordinates",
+        "Charter Communications",
+        "social influence"
+      ],
+      "texte": "In a corporate situation, the scammer has another psychological weapon: authority. Decades of research into obedience and social influence have shown that people can be overly willing to follow instructions from someone they regard as an authority figure, even when those instructions make them very uncomfortable. The Milgram obedience experiment in the 1960s provided a shocking example: Subordinates are usually willing to do almost anything - in this Milgram case, give people electric shocks - when told to by an authority figure. In the workplace with today’s vishing scams, a subordinate might be reluctant to question an urgent demand from a superior, especially when the consequences of refusing could be serious. The scammers understand this. They purposefully use the language of a superior speaking to a subordinate. They create urgency. They imply that questioning the request could get them in trouble. And as we saw with the Charter Communications scam, it can work at the highest levels. That’s another reason why Vishing is the new normal in the world of scamming."
+    },
+    {
+      "id": 24,
+      "debut": 845.76,
+      "fin": 901.6,
+      "temps_estime": false,
+      "titre": "FBI Internet Crime Report: AI-related scams and distress scams",
+      "resume": "In 2026 the FBI's Internet Crime Report had its first section in 25 years on AI scams: $893.3 million in losses across nearly 22,400 complaints, mostly investment scams (about 4,400 incidents, $632 million), then extortion. Distress scams, such as bail, medical fees or kidnap ransom, were especially prevalent, and vishing cost Americans about $5 million in 2025.",
+      "mots_cles": [
+        "FBI Internet Crime Report",
+        "AI-related scams",
+        "$893.3 million",
+        "investment scams",
+        "extortion",
+        "distress scams",
+        "bail scam",
+        "2026"
+      ],
+      "texte": "In 2026, the FBI for the first time in 25 years in its Internet Crime Report had an entire section devoted solely to AI-related scams. These scams accounted for $893.3 million of losses across nearly 22,400 complaints. The vast majority were investment scams. They accounted for around 4,400 incidents and $632 million in losses. Extortion was next at just under 1,800 scams. But the report noted that it was especially prevalent in “distress” scams -- when a family member is informed about a problem that will require money to help someone. Sometimes it’s money for bail. Sometimes medical fees. Sometimes it’s a ransom for a kidnapped family member. Altogether, these vishing scams in the US cost Americans about $5 million in 2025. Every week, someone new falls for it. And the cases have been piling up in 2026."
+    },
+    {
+      "id": 25,
+      "debut": 901.6,
+      "fin": 951.84,
+      "temps_estime": false,
+      "titre": "Bonnie in Orlando and the fake jailed friend",
+      "resume": "Bonnie, an elderly retired puppeteer in Orlando, received a call from a voice that sounded exactly like her friend Carl, saying he was in jail after hitting a pregnant lady while drinking. A fake public defender then asked for thousands in bail cash in an envelope, and someone came to her house to collect it.",
+      "mots_cles": [
+        "Bonnie Orlando",
+        "fake jail call",
+        "bail scam",
+        "voice clone friend",
+        "public defender",
+        "cash pickup",
+        "elderly victim",
+        "vishing case"
+      ],
+      "texte": "Take the case of Bonnie in Orlando, Florida, an elderly lady who’d spent her life working as a puppeteer. No doubt her online profile showed how she often supported various causes. In 2026, she received a phone call from her good friend Carl and learned that he’d landed himself in jail. “It’s me, it’s Carl, I’m in jail,” he’d told her. “I was drinking and... I hit a pregnant lady, and I broke my nose, and I’m—can you help me, please?” Bonnie later told the media that it sounded, quote, “Absolutely exactly like him.” She didn’t even hesitate when he asked for money for bail. Carl hung up and a few minutes later, a man claiming to be Carl’s public defender called. He told Bonnie the bail was thousands of dollars. They told her to put the cash in an envelope and gave her a fake case number to write on the outside. A while later, someone turned up at her house to collect the money. She was now out of a good chunk of her savings."
+    },
+    {
+      "id": 26,
+      "debut": 951.84,
+      "fin": 989.6,
+      "temps_estime": false,
+      "titre": "Why Bonnie was the ideal target and how the clone was likely made",
+      "resume": "Bonnie fit the sucker profile: single, retired and kind, with details possibly sold on the Dark Web and a social media profile revealing her friend Carl. Scammers could silent call Carl and clone his voice from about 3 seconds of audio; Bonnie grew suspicious at a second request, found Carl at home having dinner, and her retirement savings were gone.",
+      "mots_cles": [
+        "Bonnie",
+        "sucker",
+        "Dark Web",
+        "social media profile",
+        "3 seconds of audio",
+        "voice clone",
+        "nest egg",
+        "friend impersonation"
+      ],
+      "texte": "Bonnie was the ideal target: Single woman. Retired. Kind. In the scamming world: a sucker. Her details could have been sold on the Dark Web and then the scammers who bought them possibly found her social media profile and soon determined she had a friend named Carl. All they needed now was to silent call Carl. With maybe just 3 seconds of audio, less time than to take a sip of coffee, they could have re-created his voice. When the scammers asked for a second round of money, Bonnie grew suspicious and called Carl. He was sitting happily at home in the middle of having dinner. Bonnie’s retirement “nest egg,” money she, quote, “desperately,” needed, was gone."
+    },
+    {
+      "id": 27,
+      "debut": 989.6,
+      "fin": 1034.72,
+      "temps_estime": false,
+      "titre": "The California mother and the fake cartel kidnapping",
+      "resume": "A California mother, a US Navy veteran, got a call from men claiming to be a Mexican drug cartel holding her daughter, who was sobbing and having a panic attack. They demanded $20,000, and the couple sent their life savings of $5,400 via MoneyGram and Western Union.",
+      "mots_cles": [
+        "virtual kidnapping",
+        "California mother",
+        "Navy veteran",
+        "Mexican cartel",
+        "$20,000 ransom",
+        "MoneyGram",
+        "Western Union",
+        "panic attack"
+      ],
+      "texte": "Bonnie’s case was at least fairly stress-free besides the financial loss. Sometimes vishing is far more brutal. Another recent case saw a mother in California, a veteran of the US Navy, received a call from men claiming to be a Mexican drug cartel who’d kidnapped her daughter. They put the daughter on the line. She was sobbing. As she sometimes did, she was having a panic attack. The scammers might have found her issues with panic online. For the mom, everything was exactly like her daughter. They wanted $20,000 or the daughter would get seriously hurt. Maybe they’d kill her. Maybe even traffic her. The mother didn’t have $20,000. She and her husband’s entire life savings amounted to $5,400 which they transferred to Mexico using MoneyGram and Western Union."
+    },
+    {
+      "id": 28,
+      "debut": 1034.72,
+      "fin": 1063.36,
+      "temps_estime": false,
+      "titre": "A 5.5-hour ordeal and the empty Walmart",
+      "resume": "The ordeal lasted 5.5 hours, with the fake kidnappers on the line almost throughout and the fake daughter saying \"I'm so sorry, Mom, I love you.\" The mom said it was absolutely her voice; the scammers promised to drop the daughter at a Walmart in California, but nobody was there.",
+      "mots_cles": [
+        "5.5 hours",
+        "fake kidnappers",
+        "Walmart",
+        "ransom",
+        "daughter's voice",
+        "California",
+        "phone torture",
+        "scam"
+      ],
+      "texte": "The ordeal lasted 5.5 hours. 5.5 hours of mental torture. The fake kidnappers stayed on the phone with the mother almost throughout it all. “I'm so sorry, Mom,” the daughter told her at one point, “I love you.” The mom later said, “It was absolutely her voice.” The scammers wanted even more money but when the parents said there was nothing to give, the scammers told them they’d drop the daughter off in front of a Walmart in California. Of course, when the parents turned up at the Walmart, there was no sign of her."
+    },
+    {
+      "id": 29,
+      "debut": 1063.36,
+      "fin": 1092.82,
+      "temps_estime": true,
+      "titre": "Virtual kidnapping: how fear hijacks the frontal cortex",
+      "resume": "The parents never thought to call their daughter's phone; the FBI calls this a \"virtual kidnapping.\" Scammers likely used voice cloning and the family's online profile, and the sobbing hijacked the rational frontal cortex, leaving the limbic system's fear and stress mechanisms in control.",
+      "mots_cles": [
+        "virtual kidnapping",
+        "FBI",
+        "voice cloning software",
+        "frontal cortex",
+        "limbic system",
+        "fear response",
+        "family profile",
+        "panic"
+      ],
+      "texte": "They immediately thought the worst. All this time, the parents had been so incredibly stressed and been so involved on the phone that they’d never thought to call their daughter’s phone. The FBI called it a “virtual kidnapping.” The scammers had very likely used voice cloning software and may have looked at a profile of the obviously very close family online. The sound of the sobbing had hijacked the rational frontal cortex part of the parents’ brains. It left their limbic system’s fear and stress mechanisms to guide their actions."
+    },
+    {
+      "id": 30,
+      "debut": 1092.82,
+      "fin": 1131.12,
+      "temps_estime": true,
+      "titre": "2.56 billion scam calls a month and untraceable VoIP carriers",
+      "resume": "Research says the US gets about 2.56 billion scam calls per month, enough to call everyone in North America multiple times. Numbers are almost impossible to trace because scammers route calls through VoIP carriers, some accused of knowingly allowing fraudulent calls, and the FCC has acted against several.",
+      "mots_cles": [
+        "2.56 billion scam calls",
+        "VoIP carriers",
+        "FCC",
+        "untraceable numbers",
+        "robocalls",
+        "North America",
+        "fraudulent calls",
+        "telephone networks"
+      ],
+      "texte": "Research states that in the US alone, there are now approximately 2.56 billion scam calls per month. That represents enough automated traffic to call every person in North America multiple times every 30 days. It’s almost impossible to trace the numbers. Scammers rely on a vast network of internet-based telephone providers, known as VoIP carriers, to route their calls around the world. Some of these companies have been accused of knowingly allowing fraudulent calls through their networks, even when the caller's identity has been disguised. The US Federal Communications Commission has taken action against several such providers, including ordering telephone networks to block their calls."
+    },
+    {
+      "id": 31,
+      "debut": 1131.12,
+      "fin": 1154.72,
+      "temps_estime": false,
+      "titre": "Conclusion: answering the phone and giving permission to become you",
+      "resume": "The system is broken and the safety nets are gone, so the next ring could be a trap, and by answering you may give scammers permission to become you. The video closes saying the con artists can be beaten and points to \"Times Scammers Messed With the Wrong People.\"",
+      "mots_cles": [
+        "conclusion",
+        "safety nets gone",
+        "answering the phone",
+        "identity",
+        "con artists",
+        "scammers",
+        "next video",
+        "vishing"
+      ],
+      "texte": "But it’s evidently not enough. The system is broken. The safety nets are gone. Which means the next time your phone rings it could be a trap. And if you answer, you’re not just saying hello to a stranger. You’re giving them permission to become you. It seems like there’s no way to beat the con artists… but that isn’t true. Watch “Times Scammers Messed With the Wrong People” to see what happens when they get a slice of karma. Or click on this."
+    }
+  ]
+}
