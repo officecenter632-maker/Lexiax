@@ -16,3 +16,11 @@ Speech : 5625 lignes, 11085,31 s (~184,8 min), sous-titres automatiques, langue 
 - Segments : 49 (id 1 à 49).
 - Remarques : le dernier segment (49) s'arrête à la fin de la ligne 1119 (« ...to keep it free ») ; la tranche suivante reprend à la ligne 1120 (« and independent? China wants Taiwan and... »).
 - Point d'arrêt : ligne 1119. Prochaine étape : tranche 2 à partir de la ligne 1120 (id 50).
+
+## Tranche 2 : lignes 1120 à 2060 (poussée)
+- Minutes couvertes : 38,3 à 68,1 (2297,92 s à 4086,44 s), soit 29,8 min.
+- Segments : 40 nouveaux (id 50 à 89) ; total 89.
+- Contenu : suite de l'analyse « pourquoi Taïwan compte et comment la Chine pourrait battre les USA » (île chain, semi-conducteurs, PLARF, A2AD, Japon, trois problèmes de la Chine), puis « La Chine pourrait-elle se défendre d'une invasion américaine ? » (piège de Thucydide, blocus, guerre aérienne, impossibilité d'un débarquement), puis un nouveau sujet à partir de la ligne 1879 « La Chine veut-elle dominer le monde ? » (Hong Kong, État sécuritaire, Taïwan, Pelosi, justice chinoise).
+- Remarques : le segment 50 commence par le fragment « and independent? China wants Taiwan and » (reste de la phrase coupée à la fin de la tranche 1). La tranche se termine à la fin de la ligne 2060 (« ...isolated and sanctioned. [music] ») ; la ligne 2061 (« While Taiwan isn't universally acknowledged... ») ouvre la tranche suivante.
+- Point d'arrêt : ligne 2060. Prochaine étape : tranche 3 à partir de la ligne 2061 (id 90).
+

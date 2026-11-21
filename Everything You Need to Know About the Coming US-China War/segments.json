@@ -4,12 +4,12 @@
   "titre_video": "Everything You Need to Know About the Coming US-China War",
   "duree_s": 11085.31,
   "avancement": {
-    "lignes_traitees": 1119,
-    "fin_traitee_s": 2297.92,
+    "lignes_traitees": 2060,
+    "fin_traitee_s": 4086.44,
     "nb_lignes_total": 5625,
     "complet": false
   },
-  "nb_segments": 49,
+  "nb_segments": 89,
   "segments": [
     {
       "id": 1,
@@ -892,6 +892,726 @@
         "Russia news"
       ],
       "texte": "With Russia hogging all the negative press lately, you might have missed Chinese President Xi Jinping's adamant proclamation that Taiwan will be reunited with the mainland and he is not ruling out military force to accomplish this goal. But with the vast majority of Taiwanese citizens wanting nothing to do with mainland Communist China and American President Joe Biden promising that the US [music] would come to Taiwan's aid, World War III is looking more likely and it won't be starting in Europe. How is China going to defeat the US and its allies? And more importantly, [music] why does Taiwan matter so much that the US is willing to fight to keep it free"
+    },
+    {
+      "id": 50,
+      "debut": 2297.92,
+      "fin": 2346.25,
+      "temps_estime": true,
+      "titre": "Why China wants Taiwan: national prestige and defense",
+      "resume": "China and the US each have reasons over Taiwan with some overlaps. For China it is national prestige and defense, since the Nationalists fled there, and with its military modernization and amphibious capabilities taking it is approaching fruition; while Taiwan stays independent China cannot be taken seriously as a military power.",
+      "mots_cles": [
+        "Taiwan",
+        "national prestige",
+        "Chinese nationalists",
+        "amphibious capabilities",
+        "reunification by force",
+        "military power credibility",
+        "breakaway province"
+      ],
+      "texte": "and independent? China wants Taiwan and the US wants Taiwan to remain free. Both sides have their various reasons, but there are some significant overlaps. For China, Taiwan is both a matter of national prestige and a national defense priority. The island is home to the Chinese nationalists who fled after losing the war against the Communists after World War II and given the difficulty of an invasion plus the support of the United States, reunifying this breakaway province by force has not been an option for China. It's only recently with China's vast modernization of its military and steadily expanding amphibious assault capabilities that the dream of taking over Taiwan is approaching fruition. But as long as Taiwan remains fiercely independent and refuses [music] to bow to Beijing, China cannot be taken seriously as a global military power. After all, why should anyone fear your military when it can't [music] even pacify an island sitting right off your own shores?"
+    },
+    {
+      "id": 51,
+      "debut": 2346.25,
+      "fin": 2387.92,
+      "temps_estime": true,
+      "titre": "Taiwan's democracy as an existential threat to the CCP",
+      "resume": "Taiwan went from dictatorship to one of the world's most successful democracies, making it a symbol to Chinese people of life without the CCP. After Xi's extreme COVID measures, disillusionment among Chinese youth has skyrocketed, so independent Taiwan keeps singing a siren song of democracy.",
+      "mots_cles": [
+        "Taiwan democracy",
+        "CCP existential threat",
+        "Chinese youth",
+        "COVID measures",
+        "Xi Jinping",
+        "disillusionment",
+        "siren song of democracy"
+      ],
+      "texte": "For the Chinese Communist Party, Taiwan represents an existential threat though. The nation began as a dictatorship but gradually became a liberal and open democracy. Today, it's amongst the most successful democracies in the world and that's a big problem for the CCP. As long as Taiwan remains independent, it remains a symbol for the Chinese people of what life could be like for them if they were no longer under the thumb of the CCP. After the extreme measures enacted by President Xi during and after COVID, disillusionment with China's government and the very society it's built around has skyrocketed amongst the youth. To many of them, the democracy lurking right off their own shore is a more appealing choice and as long as Taiwan remains independent, it'll continue singing its siren song of democracy to the Chinese people."
+    },
+    {
+      "id": 52,
+      "debut": 2387.92,
+      "fin": 2453.22,
+      "temps_estime": false,
+      "titre": "The First Island Chain: a strategic reason for Taiwan",
+      "resume": "The First Island Chain is a ring of pro-Western nations around China and Russia that hemmed in Communist navies during the Cold War and lets friendly navies operate near enemy shores. China's artificial islands in the South China Sea cannot fully break it or push hostile navies away from the shipping carrying its oil and gas.",
+      "mots_cles": [
+        "First Island Chain",
+        "Cold War containment",
+        "artificial islands",
+        "South China Sea",
+        "naval barrier",
+        "petroleum imports",
+        "Chinese shipping"
+      ],
+      "texte": "However, there are two very real and very significant strategic reasons for China to want to take Taiwan back and for the US to want it to remain independent. First is a Western strategy known as the First Island Chain. This is a chain of pro-Western friendly nations that ring the shores of China and Russia both. During the Cold War, it acted as a physical barrier to Communist navies in case of war who would be hemmed in and unable to operate in open waters without being destroyed attempting to break to the open sea. The First Island Chain also allows friendly navies to operate very close to enemy shores by having resupply and repair facilities readily available and not relying on far-flung bases which would limit loiter time for friendly ships and aircraft. Today, the First Island Chain strategy no longer hems in the Soviet Union and its allies and instead acts as a barrier to Chinese expansionism. China has attempted to break the First Island Chain by illegally building artificial islands in the South China Sea and while the threat they pose is significant, it still doesn't allow the Chinese navy to break the defenses of the First Island Chain completely and it doesn't allow them to push hostile navies far enough away that Chinese shipping can continue to keep the nation supplied with the vital petroleum and natural gas it needs."
+    },
+    {
+      "id": 53,
+      "debut": 2453.22,
+      "fin": 2496.73,
+      "temps_estime": true,
+      "titre": "Taiwan's semiconductors: the global chip supply risk",
+      "resume": "Taiwan is the world's largest maker of computer chips and semiconductors, so its embargo of Russia crippled Russia's weapons production, and the US passed emergency funding for domestic chip plants. If China seized Taiwan it would control nearly all advanced electronic components and could force nations to obey or face crippled economies.",
+      "mots_cles": [
+        "semiconductors",
+        "computer chips",
+        "Taiwan manufacturing",
+        "embargo",
+        "CHIPS funding",
+        "advanced electronics",
+        "economic coercion"
+      ],
+      "texte": "Another strategic reason to want reunification with Taiwan could potentially impact the entire world though. Today, Taiwan is the world's largest manufacturer of computer chips and semiconductors, wielding such significant clout that its embargo of Russia has all but crippled the nation's ability to build modern weapons. Taiwan's contribution to the global technology market is so significant [music] that as the Chinese threat over the island grows, the United States has passed emergency funding for computer chip manufacturing plants to be built [music] inside of America once more. If China were to seize Taiwan, it would in effect be in control of nearly all the world's supply of advanced electronic components and be able to threaten embargos to nations that don't tow the CCP's line. A nation would have a simple choice, [music] have its economy crippled or do as President Xi says."
+    },
+    {
+      "id": 54,
+      "debut": 2496.73,
+      "fin": 2537.48,
+      "temps_estime": true,
+      "titre": "Chinese vs US naval and air power: PL-15 and AIM-260",
+      "resume": "China has prepared for conflict with the US Navy but its surface ships are no match, with about two-thirds of the US battle force missiles, and its air force is outclassed except in long-range air-to-air missiles. The Chinese PL-15 outranges the American AIM-120, which the US is fast tracking the AIM-260 to surpass.",
+      "mots_cles": [
+        "PL-15",
+        "AIM-120",
+        "AIM-260",
+        "battle force missiles",
+        "Chinese Air Force",
+        "US Navy",
+        "air-to-air missiles"
+      ],
+      "texte": "So, how can China achieve its goals even if it means launching World War III and come out on top? China has already prepared extensively for conflict against the superior [music] US Navy and has done a really good job of it, too. The surface combat ships are still no match for American vessels with China [music] having approximately two-thirds of the total battle force missiles that the US Navy has. Its Air Force is similarly outclassed by the US [music] Air Force, which not only outnumbers China's but has far better capabilities in all but one department, long-range air-to-air missiles, [music] where the Chinese PL-15 enjoys a significant advantage over the American AIM-120 [music] in terms of range. However, the US is fast tracking an upgrade called the AIM-260 Joint Advanced Tactical Missile [music] to not just close the gap but exceed it once more."
+    },
+    {
+      "id": 55,
+      "debut": 2537.48,
+      "fin": 2574.52,
+      "temps_estime": true,
+      "titre": "Anti-access area denial and the PLA Rocket Force",
+      "resume": "US power matters little if it cannot get near Chinese shores, so China built an anti-access area denial (A2AD) strategy to keep American ships and aircraft such as AWACS and tankers away. Its core is the People's Liberation Army Rocket Force (PLARF), the gravest threat the US Navy has faced since the Cold War.",
+      "mots_cles": [
+        "A2AD",
+        "anti-access area denial",
+        "PLARF",
+        "Rocket Force",
+        "AWACS tankers",
+        "Western Pacific",
+        "US Navy threat"
+      ],
+      "texte": "US air and naval power won't matter though if it can't bring all that might close to Chinese shores, which is why [music] China has invested heavily into developing a strategy known as anti-access area denial or A2AD. [music] The goal is simple, keep American ships and special mission aircraft such as AWACS and tankers away from Chinese shores so the [music] People's Liberation Navy can operate with impunity. At the core of the strategy is the People's Liberation Army Rocket Force or PLARF. PLARF might sound like something you do after a bad burrito, but it's the gravest threat the US Navy has [music] faced since the end of the Cold War and it might be good enough to keep the US ships out of the Western Pacific for good."
+    },
+    {
+      "id": 56,
+      "debut": 2574.52,
+      "fin": 2611.04,
+      "temps_estime": true,
+      "titre": "PLARF arsenal: 1,400 ballistic missiles outside the INF treaty",
+      "resume": "China's ballistic missile force was never bound by the Intermediate-Range Nuclear Forces Treaty, so it built a vast conventional stockpile of about 1,400 ballistic missiles plus hundreds of cruise missiles. Most are shorter-range for use against Taiwan, hundreds can hit US bases in Japan and South Korea, and some can reach Guam.",
+      "mots_cles": [
+        "INF treaty",
+        "1,400 ballistic missiles",
+        "cruise missiles",
+        "US bases Japan South Korea",
+        "Guam",
+        "conventional ballistic missiles",
+        "PLARF stockpile"
+      ],
+      "texte": "A ballistic missile [music] force, this branch of the Chinese military is dedicated to China's vast stockpile of both nuclear and [music] non-nuclear ballistic missiles. was never subject to the Intermediate-Range Force Treaty or INF, and thus, unlike the Soviet Union and the US, China developed an extensive stockpile of conventional ballistic missiles. Today, China fields about 1,400 ballistic missiles alongside hundreds of cruise missiles. Most of these are older, shorter-range missiles which we could expect to see deployed against Taiwanese infrastructure, [music] but hundreds have ranges capable of hitting US bases in Japan and South Korea. A small but unknown number can even hit the all-important US base [music] in Guam."
+    },
+    {
+      "id": 57,
+      "debut": 2611.04,
+      "fin": 2662.79,
+      "temps_estime": true,
+      "titre": "Bolt-from-the-blue first strike and the North Korea lever",
+      "resume": "With both sides holding counterforce power, the advantage goes to whoever fires first, so China would likely open with a surprise ballistic missile attack on US bases, Guam first. Striking Japan and South Korea risks drawing them in, so China might ramp up North Korean antics to keep South Korea limited to public support.",
+      "mots_cles": [
+        "first strike",
+        "counterforce",
+        "bolt out of the blue",
+        "Guam priority",
+        "South Korea",
+        "North Korea provocations",
+        "ballistic missile attack"
+      ],
+      "texte": "The PLARF would be critical in the opening days of World War III. Both the US and China hold serious counterforce power, and the advantage would go to whoever fires first. A war between the two powers would almost certainly be a bolt out of the blue attack, an unexpected [music] first strike using hundreds of ballistic missiles. The targets would be US bases in the region with the priority target being Guam. However, this comes with certain [music] risk as striking US bases in Japan and South Korea would threaten dragging those two nations into the conflict. South Korea may be disinclined [music] to join the conflict out of fear of North Korea taking advantage of the situation. In fact, for China to win, it would be in its best [music] interest to proceed a war in the Pacific with ramped-up antics from North Korea, enough to rattle South Korea without actually crossing the line over into war. Fears of North Korean aggression would be likely enough to prevent South Korea from doing anything other than voicing public [music] support for its American allies."
+    },
+    {
+      "id": 58,
+      "debut": 2662.79,
+      "fin": 2709.96,
+      "temps_estime": true,
+      "titre": "Why Japan would join the war",
+      "resume": "Japan has bad blood with China, shares the US view of China as a threat to democracies, and depends on trade routes that China's navy could intercept if Taiwan fell. Rewriting its Constitution to allow expeditionary deployment shows Japan is preparing to send ships, troops and planes to aid the US and Taiwan.",
+      "mots_cles": [
+        "Japan",
+        "China Japan rivalry",
+        "trade routes",
+        "constitution rewrite",
+        "expeditionary deployment",
+        "authoritarianism",
+        "joining the war"
+      ],
+      "texte": "Japan would be a different story. The two nations are famous rivals, and there's still [music] a lot of bad blood between China and Japan. What's more, Japan agrees with the US that China presents a threat to democracies around the world. Losing a fellow democracy like Taiwan to China could represent a larger global shift toward authoritarianism. China being the dominant regional power is also greatly [music] disadvantageous to Japan, whose all-important trade routes pass by close enough to China to be intercepted by its navy should Taiwan fall and the first island [music] chain be broken. Thus, it's almost a foregone conclusion that Japan would join the war anyway, no matter what China ends up doing. The rewriting of its Constitution allows the expeditionary deployment [music] of its military, bucking the self-defense pacifist ideology of the past. And it's proof that Japan is actively preparing [music] to send ships, troops, and planes to aid the US and Taiwan."
+    },
+    {
+      "id": 59,
+      "debut": 2709.96,
+      "fin": 2748.12,
+      "temps_estime": true,
+      "titre": "Japan as staging ground and PLARF doctrine against the US Navy",
+      "resume": "Japan gives US naval and air forces a convenient staging ground, forcing China to dedicate many ballistic missiles to Japanese air bases and harbors. Chinese doctrine calls for a swift, overwhelming PLARF strike on the greatest threat, the US Navy, since shutting bases is not enough against America's expeditionary reach.",
+      "mots_cles": [
+        "staging ground",
+        "Japanese air bases",
+        "PLARF doctrine",
+        "overwhelming strike",
+        "US Navy",
+        "expeditionary capability",
+        "Pacific war"
+      ],
+      "texte": "This is a serious [music] problem for China because Japan provides a convenient staging ground for both US naval and air forces. A significant number [music] of ballistic missiles would have to be dedicated to striking Japanese air bases and harbors in order to deny both to the US military. Chinese military doctrine states that the PLARF [music] is to be used in a swift, precise, and overwhelming strike against an enemy force. This means eliminating the greatest threat to Chinese ambitions in the [music] region, the United States Navy. It's not enough to shut down US bases and airfields. [music] America has a huge expeditionary capability and lots of friends from where they could stage ships [music] and planes. Winning the war in the Pacific means beating the US Navy black and blue."
+    },
+    {
+      "id": 60,
+      "debut": 2748.12,
+      "fin": 2798.98,
+      "temps_estime": true,
+      "titre": "China's bet on US casualty aversion and carrier strike groups",
+      "resume": "China counts on America's public aversion to casualties and needs huge early losses of men and material, making US aircraft carrier strike groups its number one target because losing one would kill thousands of sailors. China cannot win a long conflict, so with carriers kept at bay it would have a week or two to capture Taiwan.",
+      "mots_cles": [
+        "casualty aversion",
+        "aircraft carrier strike groups",
+        "shock and awe",
+        "number one priority",
+        "long-term conflict",
+        "week or two window",
+        "capturing Taiwan"
+      ],
+      "texte": "China is counting [music] on the US's public aversion to military casualties to win the war the moment it starts. To achieve it, it needs to score huge losses to the US at the onset of the war in terms of both men and material. That's why US aircraft carrier strike groups are China's [music] number one priority. Not only do American super carriers threaten all Chinese naval shipping, but the loss of even a single carrier would result in the death of thousands of American sailors. This is something China hopes it can use to shock and awe the American public into not supporting [music] a protracted war because China cannot win a long-term conflict against the US, [music] simply lacks the material and ability to protect its trade overseas, while it can do nothing to threaten American global trade. With US carriers kept at bay with ballistic missiles and friendly airfields destroyed, [music] China would have a week or two to achieve its objective of capturing Taiwan."
+    },
+    {
+      "id": 61,
+      "debut": 2798.98,
+      "fin": 2840.91,
+      "temps_estime": true,
+      "titre": "China's problem one: an invasion cannot be a surprise",
+      "resume": "China faces three critical problems, the first being that invading Taiwan takes weeks to coordinate: ships restationed, hundreds of thousands of troops moved to the eastern district, millions of tons of supplies gathered and aircraft relocated. This gives months of warning, which the US could use to gather global support for sanctions or a coalition like Desert Storm.",
+      "mots_cles": [
+        "invasion preparation",
+        "three critical problems",
+        "troop movements",
+        "supplies millions of tons",
+        "months of warning",
+        "coalition",
+        "Desert Storm"
+      ],
+      "texte": "However, China faces three critical problems with its war plans. The first is that any invasion of Taiwan would take weeks [music] to coordinate. Ships would have to be restationed to nearby harbors. Hundreds of thousands of troops would have to be moved from various military districts [music] to the eastern one in preparation of boarding. Supplies like food, water, and medicine would have to [music] be gathered in the millions of tons and prepared for shipping across the strait. Hundreds of aircraft would have to be moved to nearby airfields. Basically, an invasion of Taiwan would be anything [music] but a bolt out of the blue. It would be a very publicly broadcast event that would have months of warning. The United States would use this time to gather global support for either painful [music] political and economic measures against China or to build a national military coalition like it did in Desert Storm."
+    },
+    {
+      "id": 62,
+      "debut": 2840.91,
+      "fin": 2866.09,
+      "temps_estime": true,
+      "titre": "European NATO ships in the Pacific and China's lack of allies",
+      "resume": "European NATO partners have sent ships to the South Pacific in the last six months in an unprecedented move signaling that Europe stands with the US against an invasion of Taiwan. Invading would mean facing an international coalition, with China having few meaningful alliances and none that would support it against a global force.",
+      "mots_cles": [
+        "European NATO ships",
+        "South Pacific patrols",
+        "international coalition",
+        "Taiwan invasion",
+        "Chinese alliances",
+        "global force",
+        "signal to China"
+      ],
+      "texte": "In an unprecedented move, European NATO partners have been sending ships to the South Pacific in the last six months. [music] These routine patrols are meant to signal one thing to China. Europe stands with the US and against [music] an invasion of Taiwan. Invading Taiwan would mean taking on an international coalition, [music] and there's no ready answer to this daunting problem for China, who enjoys few meaningful alliances and zero who would support it in war against what would in effect be a global force."
+    },
+    {
+      "id": 63,
+      "debut": 2866.09,
+      "fin": 2924.11,
+      "temps_estime": true,
+      "titre": "China's problem two: hitting moving warships is hard",
+      "resume": "Hitting a stationary air base with a ballistic missile is relatively easy, since China cut the circular error probable from 100 to 5 or 10 meters. Hitting a fast-moving warship needs a ship to be discovered, identified and fixed, and radar gives only approximate positions while satellites give temporary tracks, so better sensors are needed.",
+      "mots_cles": [
+        "circular probability of error",
+        "ballistic missiles",
+        "moving warship",
+        "tracking data",
+        "long-range radar",
+        "satellite tracking",
+        "sensor technology"
+      ],
+      "texte": "The second problem China faces is that though its ballistic missile force is a deadly threat to US forces, it might not be able to effectively deter US naval operations the way China hopes it will. [music] Hitting a stationary air base with a ballistic missile from thousands of miles away is relatively easy. China has reduced the circular probability of error from 100 to just five or 10 m for its modern missiles. However, hitting a fast-moving warship in the middle of the ocean is a different challenge altogether. Ballistic missiles and other standoff weapons need good tracking data to hit a moving target. This means that a ship must be first discovered, [music] properly identified, and then finally fixed. China has greatly improved both its ground-based and satellite-based long-range radar capabilities, but this type of radar can only tell you a ship is out there with an approximate distance. Accuracy of satellites, however, is greater, though they provide only a temporary track as they orbit the Earth. In order to properly identify and then provide a good track, you need a much better sensor technology, and it's unknown if China can foot the bill there."
+    },
+    {
+      "id": 64,
+      "debut": 2924.11,
+      "fin": 2950.62,
+      "temps_estime": true,
+      "titre": "Drones, AWACS and the US reach advantage",
+      "resume": "China has invested in drones and AWACS aircraft that could track ships, but these assets must face the world's most capable air force. China benefits because the US must operate at extreme range, but growing US purchases of air and sea drones and a new tanker drone steadily increase the reach of American weapons.",
+      "mots_cles": [
+        "Chinese drones",
+        "AWACS",
+        "US Air Force",
+        "extreme range",
+        "tanker drone",
+        "sea drones",
+        "targeting ships"
+      ],
+      "texte": "A vast investment in drones and AWACS aircraft means that China potentially has the tools to get the job done, but these airborne assets have to face the threat of the most capable air force in the world. China does enjoy an advantage here because the US would have to operate aircraft at [music] extremely long ranges, but a decided uptick in both the purchase of air and sea drones by the US military as well as a new tanker drone means [music] that the reach of America's weapons is being steadily and greatly increased."
+    },
+    {
+      "id": 65,
+      "debut": 2950.62,
+      "fin": 2991.95,
+      "temps_estime": true,
+      "titre": "China's problem three: the oil and gas Achilles heel",
+      "resume": "China depends on overseas trade for most of its oil and natural gas and has only two land connections to Russia, one being the Sakhalin pipeline, an easy target for a submarine-launched cruise missile. That would leave a trickle from the far west, so the nation would run out of oil in weeks, its military could fight a few months on reserves and the civilian economy would halt.",
+      "mots_cles": [
+        "oil imports",
+        "natural gas",
+        "Sakhalin pipeline",
+        "cruise missile strike",
+        "strategic reserves",
+        "energy starved",
+        "Achilles heel"
+      ],
+      "texte": "Even if China can overcome the difficulties in hitting moving targets, there's still one Achilles heel it has no solution for, neither today nor in the projected future. China depends on overseas trade for the majority of its oil and natural gas imports. It does have two land-based connections to Russia, but one of these, the pipeline from Sakhalin, would make an easy target for a cruise missile strike via submarine that would leave only one inflow of oil and natural gas in the far west out of US reach. This would basically be a trickle compared to China's current fossil fuel supply, and within weeks the nation would run out of oil altogether. Its military could fight on for a few months at most due to the strategic reserves, but its economy would come crashing to a halt as the civilian sector becomes energy starved. [music]"
+    },
+    {
+      "id": 66,
+      "debut": 2991.95,
+      "fin": 3059.23,
+      "temps_estime": true,
+      "titre": "US blockade of Chinese trade: choke points and limited bases",
+      "resume": "Over 60% of Chinese trade goes by sea, and ballistic missiles cannot stop the huge US attack submarine fleet or surface forces choking the Malacca Straits, Gulf of Oman and Panama Canal. China has only a small base at Djibouti near a bigger American one, and its large navy is mostly small vessels meant for harassment, not for dislodging a carrier group.",
+      "mots_cles": [
+        "60% of trade by sea",
+        "Malacca Strait",
+        "choke points",
+        "Djibouti base",
+        "US attack submarines",
+        "Chinese navy composition",
+        "blockade"
+      ],
+      "texte": "To add insult to injury, over 60% of Chinese trade comes via the ocean, except it wouldn't in case of war thanks to the US Navy. Even if its ballistic missile forces are effective at keeping the US Navy at bay, ballistic missiles can't stop the huge US attack submarine fleet. Surface task forces could also easily choke off China at multiple traffic choke points for maritime trade, including the Malacca Straits, the Gulf of Oman, and the Panama Canal. China is attempting to secure ports and airfields outside of the country so it can base forces near these strategically important waterways, but so far has only succeeded in gaining the use of a small base at Djibouti, only miles [music] from a much bigger American base. With the bulk of the world on the US's ideological side and the vast network of [music] friends and partners the US can use to leverage pressure on anyone contemplating allowing China to build military bases on their territory, it's not predicted [music] that China's forward-deployed military forces will grow in any significant amount. The Chinese Navy may be the [music] largest in the world today, but most of these ships are smaller vessels meant to act as missile boats or harass [music] the fishing vessels and oil exploring ships of neighboring nations, not attempting to dislodge a US carrier strike group from a vital trade artery."
+    },
+    {
+      "id": 67,
+      "debut": 3059.23,
+      "fin": 3096.39,
+      "temps_estime": true,
+      "titre": "No fix for China's trade vulnerability; reversing the question",
+      "resume": "China is working on a blue water navy but remains far behind, and the US stays firmly in the lead as the premier military power. The video then asks what if the conflict played out on China's shores and the US decided to invade, and whether China could defend against it.",
+      "mots_cles": [
+        "blue water navy",
+        "US premier military power",
+        "rising power",
+        "US invasion of China",
+        "China defense",
+        "naval gap",
+        "hypothetical war"
+      ],
+      "texte": "For all its planning, [music] there's nothing China can do about this situation in the current or even long term. Though it is steadily working at building a blue water [music] navy capable of operations far from home shores, it still has a significant way to go to get there, however, and even the US remains firmly in the lead. The United States, the world's premier military power. China, [music] a rising power that may one day be able to challenge the US's own, but today cannot. What if these two military giants went head to head, though, and the [music] conflict played out on China's own shores? What if the United States decided it needed to invade [music] China? Could China defend from a US invasion?"
+    },
+    {
+      "id": 68,
+      "debut": 3096.39,
+      "fin": 3152.85,
+      "temps_estime": true,
+      "titre": "The Thucydides Trap: rising powers and war",
+      "resume": "The US and China are locked in what historians call the Thucydides Trap, named for the historian who described Athens's rise and the fall of Sparta, leading to an inevitable war. In 16 instances in the last 500 years of a rising power supplanting an existing one, war broke out 12 times.",
+      "mots_cles": [
+        "Thucydides Trap",
+        "Athens Sparta",
+        "rising power",
+        "12 out of 16",
+        "500 years",
+        "great power war",
+        "US China war odds"
+      ],
+      "texte": "First, though, is conflict between the two even probable? The short answer is yes, [music] and the possibility is frighteningly real and seemingly only growing more realistic by the day. Today, these two great powers find themselves locked in what historians have come to term Thucydides [music] trap. Thucydides was an ancient Greek historian who commented on the rise of Athens and the fall of Sparta. For a long time, Sparta was the reigning [music] power of the Greek world until the city state of Athens began to rival it in terms of economy, wealth, and military power. The end [music] result was an inevitable war between the two city states and their allies as one side, [music] Sparta, sought to hold on to its spot as the number one power, and Athens sought to dislodge it. If you think that's ancient history, then consider that out of 16 instances in just the last 500 years alone of a rising power supplanting [music] a pre-existing power, war broke out 12 out of 16 times. Clearly, the odds are not good that the US and [music] China can avoid war."
+    },
+    {
+      "id": 69,
+      "debut": 3152.85,
+      "fin": 3198.32,
+      "temps_estime": true,
+      "titre": "Flash points and why conflict is all but inevitable for China",
+      "resume": "The biggest flash points are Taiwan's independence and China's aggressive and illegal expansion in the South Pacific. A conflict is likely, especially if China wants to prove it is a great power, since US naval supremacy blocks it, and it is also a matter of political survival for a party facing growing democratic movements along its borders.",
+      "mots_cles": [
+        "flash points",
+        "Taiwan independence",
+        "South Pacific expansion",
+        "great power status",
+        "political survival",
+        "Communist Party",
+        "democratic movements"
+      ],
+      "texte": "To make matters worse, the seeds of conflict between the two nations already exist in a variety of potential flash points. The biggest of these are [music] Taiwan's continued independence and China's aggressive and illegal expansion into the South Pacific. Eventually, most likely due to the matter of Taiwan, a conflict between the US and China is likely, especially if China [music] wants to prove it really is a great power. As long as the US navy reigns supreme in the South Pacific, China cannot claim to be a great power and cannot influence [music] its neighbors the way it wishes to. For For conflict with the US is all but inevitable, not just a matter of national pride, but one of continued political survival [music] for a Communist party that finds itself increasingly isolated from the outside world by growing democratic movements along its borders. [music]"
+    },
+    {
+      "id": 70,
+      "debut": 3198.32,
+      "fin": 3240.93,
+      "temps_estime": true,
+      "titre": "US global basing and alliances as its greatest asset",
+      "resume": "The US greatest asset is its forces stationed worldwide through defense agreements with partners, which boost host economies, ensure their defense and let the US stage forces and react quickly. This flexibility and mobility is unmatched, and in a war against China the US would rely on its Pacific bases.",
+      "mots_cles": [
+        "US overseas bases",
+        "defense agreements",
+        "force projection",
+        "mobility flexibility",
+        "Pacific bases",
+        "allies",
+        "staging forces"
+      ],
+      "texte": "So what if the worst came to worse? Could the US successfully invade China? The US's greatest asset is the presence of its forces all around the world thanks to defense agreements with partners and allies. This is a mutually beneficial agreement as it provides a boost to the hosting nation's economy and ensures its continued defense in the case of a war. For the US though, it has the added benefit of allowing it to stage forces all around the world and quickly react to a conflict. American [music] forces with their wide network of military installations and partnerships with nations all over the globe allow them a degree of flexibility and mobility that no other nation can even come close [music] to matching. In a war against China, the US would rely on its Pacific bases to prosecute the [music] conflict."
+    },
+    {
+      "id": 71,
+      "debut": 3240.93,
+      "fin": 3290.31,
+      "temps_estime": true,
+      "titre": "Obama's encirclement strategy and US bases around China",
+      "resume": "Spurred by China's aggression in the South Pacific, President Obama launched a strategy of encirclement, like the one used on the Soviet Union. US forces can deploy from Japan, the Philippines, Guam, South Korea, Singapore, Australia and Thailand, containing China and attacking from multiple directions, mainly to respond to or prevent hostilities.",
+      "mots_cles": [
+        "encirclement strategy",
+        "Obama",
+        "US bases Pacific",
+        "Japan Philippines Guam",
+        "containment",
+        "multiple avenues of approach",
+        "deterrence"
+      ],
+      "texte": "Spurred on by China's growing aggressiveness against its neighbors in the South Pacific, President Obama launched a strategy of encirclement, much like that employed so successfully [music] against the Soviet Union during the Cold War. Today, this means that US forces are deployed or can deploy [music] from bases in Japan, the Philippines, Guam, South Korea, Singapore, Australia, and even Thailand. Plotted on a map, this clearly shows [music] how American military power is poised to contain China, no matter in which direction it attempts to move its own military. The reverse is also true. [music] The wide dispersion of US power in the South Pacific allows it to use military force against China from multiple avenues of approach, forcing Chinese defenses to spread out amongst a host of potential threat vectors. However, the primary [music] purpose of US encirclement is not to start hostilities, but rather to respond to them or prevent them altogether."
+    },
+    {
+      "id": 72,
+      "debut": 3290.31,
+      "fin": 3343.95,
+      "temps_estime": true,
+      "titre": "US blockade of Chinese trade and the Chinese Navy's limits",
+      "resume": "With up to 60% of Chinese trade passing the South Pacific, US forces would blockade it, boxing the Chinese Navy in from the Malacca Straits to the Sea of Japan. The Chinese Navy now outnumbers the US Navy but is suited for coastal defense and cannot send an expeditionary force to secure the Malacca Straits, and US allies would join the conflict.",
+      "mots_cles": [
+        "naval blockade",
+        "Malacca Straits",
+        "Sea of Japan",
+        "Chinese Navy outnumbers US",
+        "coastal defense",
+        "60% of trade",
+        "US allies"
+      ],
+      "texte": "China's chief strategic problem is that it relies on overseas routes [music] for most of its trade, with up to 60% of all Chinese trade passing through the South Pacific. Current US force predisposition has the foot in the US military poised [music] straight on the jugular of Chinese trade, and it would not take much pressure to shut that trade off and send China into [music] an economic collapse. In case of war, this is exactly what would happen. US forces would immediately begin a naval and air blockade [music] of all Chinese trade, boxing in the Chinese Navy all the way from the Malacca Straits to the Sea of Japan. While the Chinese Navy now for the first time in history outnumbers the US's own Navy, it largely lacks the capability to operate far from its own shores and is best suited for coastal defense. This would make it impossible for China to send a naval expeditionary force to the Malacca Straits and secure them for its trade ships. Then there's the added complication of US allies and partners in the area who would indubitably join the US side in the conflict."
+    },
+    {
+      "id": 73,
+      "debut": 3343.95,
+      "fin": 3400.33,
+      "temps_estime": true,
+      "titre": "PLARF missile saturation of US bases and its backlash",
+      "resume": "While the US blocks trade, the PLA Rocket Force would saturate US bases in Guam, South Korea, Japan and possibly the Philippines, overwhelming missile defenses and delaying US air and naval operations for weeks. DF-21 missiles with errors of several hundred meters would also hit Japanese, South Korean and Filipino assets and civilians, strengthening support for the US.",
+      "mots_cles": [
+        "missile saturation",
+        "DF-21",
+        "Guam Japan South Korea",
+        "missile defenses overwhelmed",
+        "collateral damage",
+        "host nations",
+        "repair weeks"
+      ],
+      "texte": "Chinese ships trying to [music] leave their territorial waters would find themselves threatened on all sides on top of having to deal [music] with the formidable American Pacific fleet. At the same time that the US ships are blocking off Chinese trade though, the People's Liberation Army Rocket Force would saturate US bases in Guam, South Korea, Japan, and possibly even the Philippines. [music] These attacks would overwhelm American missile defenses and cause considerable damage, requiring weeks of repair [music] to bring them back into operational status. This huge missile volley would greatly delay [music] US offensive operations by both its air and naval fleets, not to mention the preparation of any sort of invasion force. However, it would also greatly anger the nations that host [music] US forces, as missiles like the DF-21 ballistic missile have a margin of error that can be as much as several [music] hundred meters. Missiles would be destroying not just US forces, but also Japanese, South Korean, and Filipino military assets and even civilians. This would further [music] cement support for US action against China."
+    },
+    {
+      "id": 74,
+      "debut": 3400.33,
+      "fin": 3439.33,
+      "temps_estime": true,
+      "titre": "Finite Chinese missiles and the US counterstrike on command and control",
+      "resume": "China's stockpile of thousands of missiles is finite and bases can be repaired faster than missiles replaced. Before a second volley, US stealth bombers would strike Chinese radar, command and control nodes and military systems, backed by a submarine fleet's cruise missile barrage nearly as large as China's.",
+      "mots_cles": [
+        "finite missile stockpile",
+        "stealth bombers",
+        "command and control",
+        "surveillance radar",
+        "submarine cruise missiles",
+        "Tomahawk",
+        "US counterstrike"
+      ],
+      "texte": "The Chinese missile stockpile numbers in the thousands, but it is ultimately [music] finite, and military facilities can always be repaired faster than missile stockpile can be replenished. Not to mention that long before a second volley can be fired, US forces [music] would have moved to heavily damage China's command and control assets. In the opening of the [music] war, American stealth bombers would strike at Chinese long-range surveillance radar, command and control nodes, and precision military [music] systems deep inside the country. These attacks would be mirrored by a missile barrage nearly as large [music] as China's own being launched by America's large submarine fleet, most of which are capable of carrying long-range land-attack cruise [music] missiles."
+    },
+    {
+      "id": 75,
+      "debut": 3439.33,
+      "fin": 3497.13,
+      "temps_estime": true,
+      "titre": "US submarines and bombers strip Chinese defenses",
+      "resume": "China might hold the US surface navy at bay for weeks or months, but US submarines cannot be targeted and China lacks anti-submarine capability. Stealth aircraft and submarines would keep destroying air defenses and satellite nodes, with heavy B-2 losses possibly grounding all 20 within weeks, until B-1 and B-52 bombers can hit coastal defenses but not go inland.",
+      "mots_cles": [
+        "US submarines",
+        "anti-submarine warfare gap",
+        "B-2 bombers",
+        "20 B-2",
+        "air defense networks",
+        "B-1 B-52",
+        "coastal defenses"
+      ],
+      "texte": "While China may be able to hold the US surface navy at bay with its rocket forces for a few weeks, possibly even a few [music] months, the US submarine force would be impossible to target with those same rocket forces. And given China's extreme lack of anti-submarine warfare assets, the American silent service would all but have the run of China's coast. American stealth aircraft and submarine forces would continue striking deep into China, destroying air defense networks, satellite communication nodes, and other vital facilities for coordinating China's ability to threaten the American navy. US stealth bomber [music] losses would no doubt be very high, potentially knocking the entire fleet of 20 US B-2 bombers out of commission within the first few weeks. [music] Air attacks would then have to rely on unmanned drones supplemented by submarine cruise missile strikes, but eventually Chinese defenses would be eroded enough to allow B-1 and even B-52 [music] strategic bombers to begin to soften up Chinese coastal defenses. Going any further inland would likely be [music] fatal for B-1 and B-52s even at this stage of the war."
+    },
+    {
+      "id": 76,
+      "debut": 3497.13,
+      "fin": 3533.13,
+      "temps_estime": true,
+      "titre": "F-22 and F-35 air campaign and favorable loss ratios",
+      "resume": "Escorted by F-22 Raptors and F-35s operating from repaired bases in Japan and South Korea, the US would accept losses but enjoy an extremely favorable loss ratio. After a few weeks China's air defenses and fighters would be thinned enough to let F-15s and F-18s join the fight.",
+      "mots_cles": [
+        "F-22 Raptor",
+        "F-35",
+        "loss ratio",
+        "air defense suppression",
+        "F-15",
+        "F-18",
+        "Japan South Korea bases"
+      ],
+      "texte": "With the Chinese Air Force suppressed but very much still capable, escorting those non-stealthy bombers, however, would be American F-22 Raptors and F-35s, which would operate from repaired facilities [music] in Japan and South Korea. While the US would suffer losses to both its F-22 and F-35 fleets, the loss [music] ratio would be extremely favorable. After a few weeks of air operations, enough of China's air defenses and most of its formidable fighter aircraft [music] would have been thinned out to allow non-stealthy US Air Force F-15s and Navy F-18s to join the fight, considerably boosting the presence of American combat aircraft."
+    },
+    {
+      "id": 77,
+      "debut": 3533.13,
+      "fin": 3573.13,
+      "temps_estime": true,
+      "titre": "US air superiority numbers and the real-world war plan",
+      "resume": "The US has 13,264 aircraft versus China's 3,210 and 2,085 combat aircraft versus 1,232, with more modern planes and experienced pilots. The US would dominate air and sea within months and strangle China's economy, which is the limit of its actual plans: destroy the navy and air force and force economic submission.",
+      "mots_cles": [
+        "13,264 aircraft",
+        "3,210 Chinese aircraft",
+        "combat aircraft 2,085 vs 1,232",
+        "pilot experience",
+        "economic stranglehold",
+        "US war plan",
+        "air and sea dominance"
+      ],
+      "texte": "American Air Forces are not just more capable than China's but considerably [music] larger as well, with 13,264 total aircraft versus China's 3,210. Of those aircraft, the US operates nearly double as many combat aircraft as China, at 2,085 versus 1,232. To make matters worse for China, US aircraft are overwhelmingly [music] more modern and capable and its pilots more experienced. China may have the home [music] field advantage, but the US would dominate the air and sea war within a few months, putting a stranglehold on China economically. [music] In the real world, this is the limit of the US's plans for a war with China. Destroy its navy and air force and strangle [music] it economically into submission."
+    },
+    {
+      "id": 78,
+      "debut": 3573.13,
+      "fin": 3623.83,
+      "temps_estime": true,
+      "titre": "Invading China: draft sizes and the numbers advantage",
+      "resume": "An invasion of China would take months of preparation and most US amphibious forces, and the US would need a national draft adding up to 145 million personnel. China's 1.3 billion population could muster 753 million defenders, though both sides could equip only a small percentage, leaving the numbers advantage firmly with China.",
+      "mots_cles": [
+        "invasion of China",
+        "national draft",
+        "145 million",
+        "753 million defensive force",
+        "population 1.3 billion",
+        "amphibious forces",
+        "numbers advantage"
+      ],
+      "texte": "In today's scenario, though, we're taking this a step further. Preparation for an invasion of [music] China would take many months and require the mustering of most of the US's amphibious forces. If the US wanted to gather an invasion force and maintain its global commitments as they stand today, it would need to institute a national draft, which could potentially see it add up to 145 million additional personnel to its military. However, China's 1.3 billion strong population could muster up a defensive force of 753 million. Though, with its much smaller military budget, a floundering economy due to the US's stranglehold on its trade, and damage on its infrastructure caused by American air and naval attacks, China would only realistically be able to train up and equip a small percentage of this number. Likewise, the US would only be able to equip a small [music] percentage of its own reservists, leaving the numbers advantage firmly in Chinese hands."
+    },
+    {
+      "id": 79,
+      "debut": 3623.83,
+      "fin": 3703.93,
+      "temps_estime": true,
+      "titre": "US expeditionary forces and the beach landing math",
+      "resume": "The US has increased expeditionary capabilities with landing platforms and assault ships and maintains three marine expeditionary forces of 20,000 to 90,000 each. Landing at Normandy-like rates of 15,000 to 20,000 a day would take three and a half days for a force, leaving about 20,000 marines holding a narrow beach against a People's Liberation Army of around 975,000.",
+      "mots_cles": [
+        "marine expeditionary forces",
+        "amphibious assault ships",
+        "Normandy",
+        "15,000 to 20,000 per day",
+        "975,000 PLA",
+        "beachhead",
+        "landing pace"
+      ],
+      "texte": "The US has always had the capability to move forces around in large numbers relatively fast, but in recent years, it's greatly increased its expeditionary capabilities, adding a number of mobile landing [music] platforms, a float forward staging bases, and amphibious assault ships. Today, the US maintains three marine expeditionary forces. It's primary force dedicated to kicking down the door on hostile [music] beaches all over the world. Each force can bring to an enemy shore between 20,000 and 90,000 marines and sailors. These would quickly [music] be supplemented by US army expeditionary forces, though they would require longer to assemble, prepare, and transport to [music] a hostile Chinese beach. Initially, the American marines would be forced to hold the beach alone, though they would not be able to land in their full numbers all at the same time. Not wishing [music] to spread themselves too thin, and with US air and naval power only capable of carving out a very small slice of safety on [music] hostile Chinese beaches, US forces may at best approach the numbers of the amphibious assault in Normandy, averaging between 15,000 and 20,000 personnel per day. This would require a full three and a half days for an entire marine expeditionary force to make the beach. This would leave [music] 20,000 marines with the unenviable task of holding a narrow strip of beach against the People's Liberation Army of around 975,000, not counting reservists and conscripts."
+    },
+    {
+      "id": 80,
+      "debut": 3703.93,
+      "fin": 3745.97,
+      "temps_estime": true,
+      "titre": "Why a US invasion of China is impossible",
+      "resume": "Even with air superiority, aircraft could not hold off the vast number of Chinese ground troops, and the marines would be thrown back before a full force offloaded. Sheer numbers make invading the mainland impossible, which is why the US plans to destroy the Chinese Navy and Air Force and blockade it economically.",
+      "mots_cles": [
+        "invasion impossible",
+        "Chinese ground troops",
+        "marines thrown back",
+        "sheer numbers",
+        "blockade plan",
+        "air superiority limits",
+        "no plans to invade"
+      ],
+      "texte": "Even with air superiority achieved, US and allied aircraft could not hope to hold at bay the vast number of Chinese ground troops, and it's likely that even before the first marine expeditionary force could completely offload onto the beach, the marines holding them would have been thrown back [music] out into the ocean. Sheer numbers alone make an invasion of the Chinese mainland completely impossible [music] for even the technologically superior US, and it would require the unloading of an entire marine expeditionary force in one single landing to secure a foothold against the vast numbers of the Chinese People's Liberation Army. This is precisely why the United States has no plans of invading China, [music] and instead plans on simply destroying the Chinese Navy and Air Force while blockading it economically in the case of war."
+    },
+    {
+      "id": 81,
+      "debut": 3745.97,
+      "fin": 3785.89,
+      "temps_estime": true,
+      "titre": "Is China plotting to take over the world? Its superpower status",
+      "resume": "While all eyes are on Russia in Eastern Europe, the video asks whether the bigger threat is in the East and whether China is plotting to take over the world. China is a massive power: the most populous country with over four times the US population, the second largest economy, third largest by size and a nuclear power, possibly the second superpower.",
+      "mots_cles": [
+        "China world domination",
+        "superpower",
+        "second largest economy",
+        "most populous country",
+        "nuclear power",
+        "Asia",
+        "Russia comparison"
+      ],
+      "texte": "All eyes are on the Russian bear as it marches across Eastern Europe. But is the bigger threat [music] to the world hiding in the East? Is China actually plotting to take over the world? As a president [music] famously said, that depends on your definition of is. There's no question that China is a massive world power. In fact, depending on your [music] standards, it might be only the second superpower in the world after the United States. It's the most populous country in the world with over four times the population of the US. It has [music] the second largest economy in the world, the third largest country in size behind Russia and Canada, and is one of only [music] a small number of nuclear powers in the world. It's certainly the biggest power in Asia, and it might have much bigger ambitions than that."
+    },
+    {
+      "id": 82,
+      "debut": 3785.89,
+      "fin": 3819.22,
+      "temps_estime": true,
+      "titre": "Hong Kong as a clue to China's plans",
+      "resume": "Hong Kong was handed back in 1997 under a one country two systems plan that let it keep its autonomy and run itself as a democracy while China handled larger affairs. That lasted until China decided otherwise and has been tightening the screws ever since.",
+      "mots_cles": [
+        "Hong Kong",
+        "1997 handback",
+        "one country two systems",
+        "autonomy",
+        "tightening control",
+        "British territory",
+        "democracy"
+      ],
+      "texte": "But what are China's actual plans for the world? [music] To find that out, you can look close to home. The province of Hong Kong, which was a British territory for decades, was handed back to China [music] in 1997 after negotiations which created a plan of one country, two systems, Hong Kong would be allowed to maintain its autonomy and run itself as a democracy, while China would administer certain larger affairs, and it would [music] officially be part of the larger country. That was the system for a while until China decided it wasn't anymore, and the People's [music] Republic of China has been tightening the screws ever since."
+    },
+    {
+      "id": 83,
+      "debut": 3819.22,
+      "fin": 3855.65,
+      "temps_estime": true,
+      "titre": "From Mao to Deng and Xi: hybrid state capitalism",
+      "resume": "Since becoming communist in 1949 under Mao, whose dogma led to famines and repression, China moved under Deng Xiaoping and Xi Jinping to an autocratic government with hybrid government-controlled capitalism. Its economy exploded into one of the largest producers of electronics, appliances and mined rare earth minerals.",
+      "mots_cles": [
+        "Mao Zedong",
+        "Deng Xiaoping",
+        "Xi Jinping",
+        "state capitalism",
+        "1949",
+        "rare earth minerals",
+        "electronics production"
+      ],
+      "texte": "And China has been through plenty of changes itself. Since China became a communist country in 1949 under Mao Zedong, [music] it's been a dictatorship, but Mao's strict adherence to the communist dogma, which [music] led to brutal famines and repression, have long since been replaced with a very different system under Deng Xiaoping and the current leader Xi Jinping. The country kept its autocratic system of government [music] while replacing its economic policies with a sort of hybrid government-controlled capitalism. Under this system, China's economy has [music] exploded and has become one of the world's largest producers of electronics, appliances, and mined rare earth minerals essential for manufacturing."
+    },
+    {
+      "id": 84,
+      "debut": 3855.65,
+      "fin": 3904.08,
+      "temps_estime": true,
+      "titre": "China's high-tech security state and social credit system",
+      "resume": "China's security state resembles Mao's era with a high-tech twist: governments use the internet to gain intelligence, apps like TikTok contain extensive tracking software the government uses for unknown purposes, and the social credit system ranks citizens by loyalty and conduct, granting privileges only to high scorers.",
+      "mots_cles": [
+        "security state",
+        "surveillance",
+        "TikTok tracking",
+        "social credit system",
+        "internet intelligence",
+        "loyalty ranking",
+        "privileges"
+      ],
+      "texte": "But in other ways, China's modernization did not bring good things. While China is only loosely a communist country now, their security state is still very similar to what it was under Mao, only with a high-tech twist. In the modern age, governments [music] use the internet heavily to gain intelligence on potential threats. That's true in China and in most other countries, with powerful tech companies turning over information to the government as needed. In China, websites like TikTok [music] contain extensive tracking software that the Chinese government uses for unknown purposes. And internally, China has become notorious for its social credit [music] system. This ranked citizens based on their perceived loyalty to the government and their conduct in other ways, with various [music] privileges being granted only to those with higher social credit scores. And if you're under China's thumb, there is little you can do to escape."
+    },
+    {
+      "id": 85,
+      "debut": 3904.08,
+      "fin": 3928.83,
+      "temps_estime": true,
+      "titre": "Hong Kong's autonomy overrun: elections and COVID shutdowns",
+      "resume": "Hong Kong's autonomy guarantees have been largely overrun: it still holds separate elections, but Chinese authorities interfere, disqualifying or arresting opposition candidates, which leads to largely unopposed elections. COVID shutdowns gave China an excuse to get more directly involved and shut down protests and public gatherings.",
+      "mots_cles": [
+        "Hong Kong elections",
+        "candidates disqualified",
+        "autonomy guarantees",
+        "arrests",
+        "COVID shutdowns",
+        "protest ban",
+        "Chinese interference"
+      ],
+      "texte": "Hong Kong was given guarantees of a certain level of [music] autonomy for a specific term, but in recent years, those guarantees have been largely overrun. While they still have [music] separate elections, Chinese authorities increasingly interfere in them and disqualify [music] or arrest candidates who oppose the People's Republic's policies. This often leads largely unopposed elections, and the recent [music] COVID shutdowns led to China getting even more directly involved and shutting down protests and public gatherings."
+    },
+    {
+      "id": 86,
+      "debut": 3928.83,
+      "fin": 3979.39,
+      "temps_estime": true,
+      "titre": "The Taiwan dispute: civil war, rival claims and UN exclusion",
+      "resume": "China has been in a territorial conflict near its borders for almost 70 years: the communists won the civil war and the Republic of China consolidated on Taiwan, creating a new country that China refuses to recognize. Each claims to be the legitimate government of the other, and the People's Republic uses diplomatic pressure to keep Taiwan out of the United Nations.",
+      "mots_cles": [
+        "Taiwan",
+        "civil war",
+        "Republic of China",
+        "People's Republic",
+        "UN membership",
+        "diplomatic pressure",
+        "rival claims"
+      ],
+      "texte": "So, if you're inside China, you're probably kept under a pretty tight grip. But what if you're [music] outside it? That depends on where you are because China has been involved in a territorial conflict near its borders for almost 70 years now. [music] When the People's Republic of China took control, it was in the middle of a brutal civil war. The communists ultimately won, but the forces of the Republic of China managed to consolidate their forces on the island of Taiwan and hold it, essentially creating a new country there. The only problem is China still refuses to recognize Taiwan as an independent country. [music] In fact, while they claim they're the legitimate government of Taiwan, the Taiwanese government, now a democracy, [music] still claims it's the rightful government of mainland China. But the People's Republic has much more [music] power, and they've managed to use diplomatic pressure to prevent international recognition of Taiwan as a United Nations member state. [music]"
+    },
+    {
+      "id": 87,
+      "debut": 3979.39,
+      "fin": 4020.7,
+      "temps_estime": true,
+      "titre": "Pelosi's 2022 Taiwan visit and China's reaction",
+      "resume": "China takes recognition of Taiwan as independent as a personal offense, which is why most US politicians avoided visiting. In 2022 Speaker Nancy Pelosi visited, China stepped up military drills around the island and a Chinese propagandist said Pelosi's plane should be shot down, showing willingness to escalate quickly.",
+      "mots_cles": [
+        "Nancy Pelosi",
+        "2022 Taiwan visit",
+        "military drills",
+        "shoot down plane",
+        "escalation",
+        "diplomatic crisis",
+        "Chinese propagandist"
+      ],
+      "texte": "And they're not afraid to punch back against big targets. China takes it as a personal offense when anyone recognizes Taiwan [music] as being independent, even if that person isn't actually the head of a country. [music] That's why most US politicians have avoided paying visits to Taiwan in the last few decades to avoid causing any diplomatic crises [music] for the president. But in 2022, Speaker Nancy Pelosi and some other members of Congress decided to make [music] a visit to the island nation, and China responded hard. They stepped up military drills around the island, terrorizing the citizens, and one Chinese [music] propagandist even said the country should shoot down Pelosi's plane. While clearly that would have started a hot war between China and the US, and cooler heads prevailed, it was clear China was willing to escalate in a hurry."
+    },
+    {
+      "id": 88,
+      "debut": 4020.7,
+      "fin": 4061.39,
+      "temps_estime": true,
+      "titre": "China's deterrents against criticism: harsh justice and hostage diplomacy",
+      "resume": "China is not all talk: its harsh justice system includes long sentences and the death penalty for many crimes, and it has arrested foreigners for prisoner exchanges. When Huawei's CEO was arrested in Canada, a Canadian citizen was soon arrested in China on drug charges.",
+      "mots_cles": [
+        "harsh justice system",
+        "death penalty",
+        "prisoner exchanges",
+        "Huawei CEO arrest",
+        "Canada",
+        "hostage diplomacy",
+        "deterrent"
+      ],
+      "texte": "But is China all talk and no action? That depends on where you look. While they get a lot of attention for their over-the-top online personality, with colorful propagandists spreading [music] conspiracy theories and trying to meme, they actually do maintain a very strong deterrent against international [music] criticism, and it's one Russia is fond of as well. China's justice system is notoriously harsh, with long sentences and the death penalty on the table for many crimes, far more than murder or treason. And while most of the people in Chinese prisons are Chinese, they have commonly arrested people from other countries for the [music] purpose of prisoner exchanges. When the CEO of Chinese company Huawei was arrested in Canada, it wasn't long before a Canadian citizen was [music] arrested in China on drug charges."
+    },
+    {
+      "id": 89,
+      "debut": 4061.39,
+      "fin": 4086.44,
+      "temps_estime": true,
+      "titre": "China watches Russia and Ukraine while its reach grows",
+      "resume": "No one knows China's long-term plans, though it has made many claims about invading Taiwan and is watching how Russia's war in Ukraine goes. Most of the world backs Ukraine with military and financial support, leaving Russia increasingly isolated and sanctioned.",
+      "mots_cles": [
+        "China long-term plans",
+        "invading Taiwan",
+        "Russia Ukraine war",
+        "sanctions",
+        "Ukraine support",
+        "China's growing reach",
+        "isolation of Russia"
+      ],
+      "texte": "But China's reach is growing fast. No one knows exactly what China's long-term plans are. The People's Republic has made many claims about invading Taiwan, [music] and they're no doubt looking closely at Russia and Ukraine to see how that would go. But it's not going well for Russia. Most of the world has committed to supporting [music] Ukraine with military and financial backing, and Russia has found itself increasingly isolated and sanctioned. [music]"
     }
   ]
 }
