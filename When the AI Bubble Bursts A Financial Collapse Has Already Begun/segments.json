@@ -4,12 +4,12 @@
  "titre_video": "When the AI Bubble Bursts: A Financial Collapse Has Already Begun",
  "duree_s": 11492.24,
  "avancement": {
-  "lignes_traitees": 4275,
-  "fin_traitee_s": 9085.76,
+  "lignes_traitees": 5363,
+  "fin_traitee_s": 11492.24,
   "nb_lignes_total": 5363,
-  "complet": false
+  "complet": true
  },
- "nb_segments": 178,
+ "nb_segments": 239,
  "segments": [
   {
    "id": 1,
@@ -3391,6 +3391,1167 @@
     "1998 vs 2024"
    ],
    "texte": "In the late9s, big tech was at war. Microsoft spent much of the decade locked in an antitrust battle with the US government. The fight was over its decision to bundle Internet Explorer with Windows. The broader industry treated Washington as a problem to manage, not a [music] partner. Lobbying budgets existed mostly to keep federal hands off of the fortunes being made. By 2024, the stance had completely flipped. OpenAI's federal lobbying spend jumped from $260,000 in 2023 to 1.76 million in 2024. That is close to a sevenfold [music] rise in a single year. Anthropic more than doubled its own spend over the same window from 280,000 to 720,000."
+  },
+  {
+   "id": 179,
+   "debut": 9085.76,
+   "fin": 9109.12,
+   "temps_estime": true,
+   "titre": "648 companies lobby on AI and responsible rollout builds a protective barrier",
+   "resume": "According to OpenSecrets, 648 companies spent money lobbying on AI issues in 2024, a large jump from the previous year, almost always citing responsible rollout. Whether intended or not, the earliest and largest players end up behind a protective barrier that makes it harder for new entrants to compete on equal terms.",
+   "mots_cles": [
+    "OpenSecrets",
+    "648 companies",
+    "AI lobbying 2024",
+    "responsible rollout",
+    "protective barrier",
+    "new entrants",
+    "big players",
+    "competition"
+   ],
+   "texte": "According to Open Secrets, 648 different companies spent money lobbying on AI issues in 2024. [music] It was a 41 12% jump from the previous year. The stated reason in almost every case is responsible [music] roll out. The effect, whether intended or not, is that the earliest and largest players end up behind a kind of protective barrier, one that makes it harder for new entrance to compete on equal terms."
+  },
+  {
+   "id": 180,
+   "debut": 9109.12,
+   "fin": 9164.63,
+   "temps_estime": true,
+   "titre": "Altman asks Congress for AI licenses: lobbying as the price of killing competition",
+   "resume": "In May 2023 Sam Altman asked the Senate Judiciary Committee to license AI companies, effectively permission slips to build advanced AI. Smaller firms lack the legal teams and compliance budgets to fight back and have no seat at the table, so rules are written around a company worth half a trillion dollars; the speaker calls lobbying the price of permanently killing competition and a protection racket sold as safety.",
+   "mots_cles": [
+    "Sam Altman",
+    "Senate Judiciary Committee",
+    "May 2023",
+    "AI licensing",
+    "permission slips",
+    "regulatory capture",
+    "compliance costs",
+    "lobbying",
+    "protection racket"
+   ],
+   "texte": "The clearest moment of all came in May 2023. Sam Alman appeared before the Senate Judiciary Committee. He personally asked Congress to license AI companies. the CEO of a leading AI firm was asking the United States government to require permission slips to build advanced [music] AI. The request lands very differently the moment you ask who would qualify for one of those permission slips and who would not. Smaller companies don't really get a seat at the table when those rules are being shaped. None of them have the legal teams or the compliance budgets to fight back. The rules are written around the needs of a company worth half a trillion dollars. And that is the [music] whole point. The lobbying spend isn't an operating cost. It is the price of permanently killing the competition. The framing dresses up a protection racket in policy language. The big players pay the lobbyists. They help draft their rules. They lock the door behind them and they tell the public it's for their own safety."
+  },
+  {
+   "id": 181,
+   "debut": 9164.63,
+   "fin": 9199.16,
+   "temps_estime": true,
+   "titre": "The EU AI Act and Mistral: the same play in Europe",
+   "resume": "The EU AI Act passed in March 2024 and began rolling out in 2025; its strictest compliance requirements hit smaller open-source developers and academic groups hardest, while big US companies already have teams for this. Mistral AI, the clearest European challenger, tried with limited success to influence rules for open models; the pattern is consistent on both sides of the Atlantic.",
+   "mots_cles": [
+    "EU AI Act",
+    "Mistral AI",
+    "open-source developers",
+    "compliance requirements",
+    "regulation",
+    "Europe",
+    "academic groups",
+    "big US companies"
+   ],
+   "texte": "The same play is running in Europe, just with different paperwork. The EU AI Act passed into law in March 2024 and started rolling out in 2025. A lot of the strictest compliance requirements land hardest on smaller open- source developers and academic groups. Meanwhile, the biggest US companies already have entire teams for exactly this kind of thing. Mstral AI has become the clearest European challenger in the space and [music] it spent a lot of time trying to influence how stricter rules apply to open models with limited success. The pattern is consistent on both sides of the Atlantic."
+  },
+  {
+   "id": 182,
+   "debut": 9199.16,
+   "fin": 9233.6,
+   "temps_estime": true,
+   "titre": "Once a rule becomes law, the system locks in who can scale: the trap is built",
+   "resume": "Once a rule becomes law companies need not sell endless disruption: the system itself locks in who can scale, competition becomes slower and more controlled, and the pressure to grow forever eases. What feels intentional this time is that the next regulatory framework sits in draft through 2025 and 2026 awaiting the right political moment; the trap is built and the question is when it springs.",
+   "mots_cles": [
+    "regulation lock-in",
+    "competition controlled",
+    "regulatory framework",
+    "draft rules 2025 2026",
+    "political moment",
+    "the trap is built",
+    "growth narrative",
+    "market structure"
+   ],
+   "texte": "Once a rule becomes a law, the story changes. Companies don't need to keep selling the idea of endless disruption at the same intensity. The system itself starts to lock in who can scale and who can't. Competition doesn't disappear, but it becomes slower and more controlled. That takes the pressure off of the narrative that everything has to grow forever. What's different this time is how intentional it feels. You can already see the pieces of the next regulatory framework sitting in draft form through 2025 and 2026 just waiting for the right political moment to move. The trap is built. The only question left is when it springs."
+  },
+  {
+   "id": 183,
+   "debut": 9233.6,
+   "fin": 9290.6,
+   "temps_estime": true,
+   "titre": "Who wins when both booms run their course: the system around the industry",
+   "resume": "Not customers, who get cheaper tools but not the upside; not small investors who arrive after gains are priced in; not always the headline companies justifying valuations. The real winner is the system of capital, infrastructure and policy that shapes the cycle, now operating inside a second, larger version of the pattern that can absorb more stress and keep running longer.",
+   "mots_cles": [
+    "who wins",
+    "small investors",
+    "valuations",
+    "capital infrastructure policy",
+    "second bubble",
+    "system absorbs stress",
+    "customers cheaper tools",
+    "cycle"
+   ],
+   "texte": "So, who actually wins when both booms run their course? It isn't the customers. They get cheaper tools, but not the upside. It isn't the small investors who tend to arrive after most of the gains have already been priced in. And it isn't always the companies in the headlines either. Many of them spend the peak years just trying to justify valuations that only make sense in [music] the moment. The real winner is the system around the industry. the mix of capital, infrastructure, and policy that doesn't just take part in the cycle, but shapes how it unfolds. The same forces that helped build up the first wave didn't disappear after it ended. They adapted and scaled up. They're now operating inside a second, larger version of the same pattern. What has changed is the scale and tolerance for complexity. The buildout is bigger and the money is deeper. That doesn't make the outcome predetermined, but it does mean that the system can absorb more stress before it breaks and keep running longer while it does."
+  },
+  {
+   "id": 184,
+   "debut": 9290.6,
+   "fin": 9339.84,
+   "temps_estime": true,
+   "titre": "The drawdown trigger: federal rules, efficiency pivot and mass layoffs",
+   "resume": "The AI drawdown probably will not start because the technology fails; models improve and hallucination rates drop. The trigger is rules being signed into federal law: with competition locked out, big players switch from chasing growth to efficiency, with mass layoffs like the tens of thousands cut by Microsoft, Meta and Google in 2024 and 2025, valuations fall, and the architects keep cash pulled out at the top with locked-in market share.",
+   "mots_cles": [
+    "drawdown trigger",
+    "federal law",
+    "efficiency",
+    "mass layoffs",
+    "Microsoft Meta Google cuts",
+    "stock valuations",
+    "responsible capital return",
+    "market share"
+   ],
+   "texte": "Most analysts can see what's happening. The AI drawdown probably won't begin because the technology fails. The models are getting better. The hallucination rates are dropping, but none of that is the trigger. The trigger is the moment the rules get signed into federal law. Once competition is legally locked out, the big players have permission to change stance. They stop chasing growth and start chasing efficiency. That means mass layoffs. Microsoft, Meta, and Google all announced cuts in the tens of thousands across 2024 and 25. That is a preview of the broader pattern. The story shifts from spend whatever [music] it takes to responsible capital return. That's when the stock valuations drop. The architects keep the cash they [music] pulled out at the top. They walk out with a lockedin market share and federal protection written into law."
+  },
+  {
+   "id": 185,
+   "debut": 9339.84,
+   "fin": 9367.23,
+   "temps_estime": true,
+   "titre": "Jeremy Grantham: bubbles this size unwind over years, with no V-shaped recovery",
+   "resume": "British investor Jeremy Grantham, who called the 2000 and 2008 bubbles, says bubbles of this size resolve through long, deep drawdowns measured in years, not months. Cisco needing almost 26 years to regain its peak is the base rate for the biggest stock of a peaked bubble, and history has no V-shaped recovery for an unwind this dense.",
+   "mots_cles": [
+    "Jeremy Grantham",
+    "2000 and 2008 bubbles",
+    "drawdown",
+    "Cisco 26 years",
+    "base rate",
+    "no V-shaped recovery",
+    "bubble unwind",
+    "stock market"
+   ],
+   "texte": "British investor Jeremy Grantham called both the 2000 and 2008 bubbles in advance. He's been tracking this exact pattern for decades, and he doesn't sugarcoat any of it. Bubbles this size resolve through long, deep draw downs measured in years, not months. Cisco needed almost 26 years to climb back to its peak. That is the base rate for the biggest stock at the top of a peaked bubble. The history books do not have a V-shaped recovery on file for an unwind this dense."
+  },
+  {
+   "id": 186,
+   "debut": 9367.23,
+   "fin": 9391.0,
+   "temps_estime": true,
+   "titre": "A system doing what it evolved to do: money flows to a few giants",
+   "resume": "It looks less like a broken system than one doing exactly what it evolved to do: money from millions of ordinary accounts over long periods is concentrated in a small number of huge companies, early entrants take their money out along the way and later arrivals ride whatever price is left.",
+   "mots_cles": [
+    "concentration of wealth",
+    "ordinary accounts",
+    "huge companies",
+    "early investors exit",
+    "late buyers",
+    "market structure",
+    "system design"
+   ],
+   "texte": "It doesn't really look like a broken system when you step back. It's a system doing exactly what it evolved to do. Money flows in from the millions of ordinary accounts over long periods of time. It gets [music] pulled and concentrated into a small number of huge companies that dominate the market. The people who got in early take their money out along the way. The people who arrived later mostly just ride whatever price is left."
+  },
+  {
+   "id": 187,
+   "debut": 9391.0,
+   "fin": 9429.43,
+   "temps_estime": true,
+   "titre": "Retirement savings are already in the trade, and the bubble feels normal",
+   "resume": "Almost everyone is in it because retirement savings are tied to the same handful of companies and outcomes. The people running these cycles have been through it before while much of the public was too young to remember, which makes the bubble effective: by the time it feels obvious it already feels normal, and at the turn most still believe this time is too important to slow down.",
+   "mots_cles": [
+    "retirement savings",
+    "same handful of companies",
+    "bubble psychology",
+    "feels normal",
+    "this time is different",
+    "dot-com era",
+    "public memory",
+    "market exposure"
+   ],
+   "texte": "And almost everyone is in it [music] whether they realize it or not because retirement savings aren't sitting on the sidelines anymore. They're already inside the same trade. They're tied up to the same handful of companies exposed to the same outcomes because the people running these cycles have been through this before. Most of the public hasn't or they were too young to remember what it actually felt like while it was happening. That's what makes this bubble so effective. By the time something feels obvious, it already feels normal. And when the mood finally turns, most people are still holding the same belief that existed at the peak of the dot era. That this time the story is too important to slow down."
+  },
+  {
+   "id": 188,
+   "debut": 9429.43,
+   "fin": 9462.8,
+   "temps_estime": true,
+   "titre": "Microsoft and Uber switch off their own AI: the great replacement hits a wall",
+   "resume": "After two years of being told that salaries are the biggest liability and that a digital worker is infinitely cheaper than a human, something changed inside Microsoft and Uber: Microsoft is pulling the plug on internal AI tools and Uber burned its entire 2026 AI budget in four months. The great AI replacement hit a brick wall, and humans are now the budget option.",
+   "mots_cles": [
+    "Microsoft",
+    "Uber",
+    "AI budget",
+    "AI replacement",
+    "digital worker",
+    "salary liability",
+    "brick wall",
+    "2026 AI budget"
+   ],
+   "texte": "For the last 2 years, you've been told that your salary is the biggest liability on your company's balance sheet. You've been told that AI is coming for your job. A digital worker is infinitely cheaper than a human one. But inside the boardrooms of Microsoft and Uber, something just [music] changed. Behind the scenes, Microsoft is pulling the plug on its own internal AI tools, and Uber just burned through its entire 2026 AI budget in just 4 months. The great AI replacement has hit a brick wall. For the first time in history, [music] you are now the budget option."
+  },
+  {
+   "id": 189,
+   "debut": 9462.8,
+   "fin": 9525.76,
+   "temps_estime": true,
+   "titre": "Microsoft pulls back Claude Code licenses because the tool was too costly",
+   "resume": "In late 2025 Microsoft gave thousands of engineers, managers and designers access to Claude Code and use spread fast. In May 2026 it canceled most direct access, steering engineers to the cheaper GitHub Copilot CLI by June 30, 2026, hardest on the Windows and Microsoft 365 teams; officially housekeeping, but the tool was too popular and too costly, with the reversal timed at fiscal year-end cost cutting.",
+   "mots_cles": [
+    "Microsoft",
+    "Claude Code",
+    "GitHub Copilot CLI",
+    "The Verge",
+    "May 2026",
+    "licenses canceled",
+    "AI coding costs",
+    "fiscal year end",
+    "June 30 2026"
+   ],
+   "texte": "In late 2025, Microsoft gave its engineers access to Claude [music] Code, one of the strongest AI coding tools on the market. Thousands of developers, managers, and designers were asked to hand over more of their work to Claude. As a result, AI coding became a core part of how the teams [music] did their work. The results showed up right away. Use of the tool spread across the company faster than most people expected. Then in [music] May 2026, the company began pulling those licenses back. The Verge reported that Microsoft canled most of its direct [music] cloud code access, steering engineers to its own cheaper tool, GitHub Copilot CLI, by June 30th, 2026. [music] The cuts fell the hardest on the team behind Windows and Microsoft 365. Officially, it was housekeeping. The tool had simply become too popular. The more the engineers leaned on it, the bigger the bill grew, and the bigger it grew, the faster Microsoft locked its own people out. The tool was simply too good and far too costly. The reversal ended right at the close of the fiscal year when companies go hunting for costs to cut. [music]"
+  },
+  {
+   "id": 190,
+   "debut": 9525.76,
+   "fin": 9551.68,
+   "temps_estime": true,
+   "titre": "Microsoft keeps its Anthropic bet: $5 billion in, $30 billion of Azure out",
+   "resume": "Cutting engineers off did not change Microsoft's bet: in November 2025 it agreed to invest $5 billion in Anthropic, which agreed to spend $30 billion on Microsoft's Azure cloud, and the deal never changed. The speaker reads this as a company that still believes in the product and wants the windfall but does not want to carry the cost.",
+   "mots_cles": [
+    "Microsoft",
+    "Anthropic",
+    "$5 billion investment",
+    "$30 billion Azure",
+    "November 2025",
+    "cloud deal",
+    "Claude",
+    "AI costs"
+   ],
+   "texte": "Cutting the engineers off did nothing to Microsoft's bet on the same technology. In November 2025, Microsoft had agreed to put up $5 billion into Anthropic, the maker of Claude. In return, Anthropic agreed to spend $30 billion running on Microsoft's Azure cloud. The deal never changed. That wasn't a company losing faith in AI. It still believed in the product. It still wanted to reap the windfall. It just didn't want to carry the cost itself."
+  },
+  {
+   "id": 191,
+   "debut": 9551.68,
+   "fin": 9593.67,
+   "temps_estime": true,
+   "titre": "Uber spends its full 2026 AI coding budget in four months",
+   "resume": "In April 2026 Uber's chief technology officer admitted the company had already spent its entire 2026 budget for AI coding tools, a full year of money in four months. Rollout reached about 5,000 engineers in late 2025 and usage of Claude Code climbed from about 32% of engineers in February 2026 to 84% in March, encouraged by leaderboards ranking teams by AI use, until the money ran out.",
+   "mots_cles": [
+    "Uber",
+    "AI coding budget",
+    "Claude Code adoption",
+    "32% to 84%",
+    "5,000 engineers",
+    "leaderboards",
+    "CTO",
+    "April 2026"
+   ],
+   "texte": "And Microsoft wasn't alone. The same thing was happening over at Uber. In April 2026, Uber's chief technology officer, Pravin Nepali Naga, admitted the company had already spent its entire 2026 budget for AI coding tools. A full year of money gone in 4 months. The rollout had reached roughly 5,000 engineers in late 2025, and adoption climbed fast. In February 2026, about 32% of engineers were using cla code. By March 2026, it was 84%. Uber had encouraged it, even building leaderboards that ranked teams by AI use. Usage turned into a contest, and then the money ran out."
+  },
+  {
+   "id": 192,
+   "debut": 9593.67,
+   "fin": 9635.09,
+   "temps_estime": true,
+   "titre": "Uber's token bills: $1,200 in one demo and 'head exploding' costs",
+   "resume": "A typical Uber engineer ran up $150 to $250 a month, the heaviest users $500 to $2,000, and the CTO burned $1,200 of tokens in a single two-hour demo. AI agents write about 10% of Uber's code, real work but no real savings, like a family spending a 25-year mortgage fund on groceries in a weekend; the COO called the figures head exploding and could not point to anything customers could feel.",
+   "mots_cles": [
+    "Uber",
+    "token costs",
+    "$150 to $250 per month",
+    "$2,000 heavy users",
+    "10% of code",
+    "Andrew Macdonald",
+    "AI agents",
+    "no real savings",
+    "mortgage analogy"
+   ],
+   "texte": "A typical engineer ran up to $150 to $250 a month. The heaviest users hit $500 to $2,000 each. Naga himself torched $1,200 of tokens in a single 2-hour demo. As the leaderboards pushed every team to climb, the monthly bill climbed with him. Nobody slowed down to ask where the ceiling was. Uber's CEO says AI agents now write about 10% of its code. It's performing real work, but there's no real savings. It's like a family blowing a 25-year mortgage fund on groceries in a single weekend. That is the shape of Uber's 4-month collapse. Uber's chief operating officer, Andrew McDonald, described the figures as head exploding. For all the tokens his engineers burned, he couldn't point to anything customers could feel."
+  },
+  {
+   "id": 193,
+   "debut": 9635.09,
+   "fin": 9660.39,
+   "temps_estime": true,
+   "titre": "The richest firms cannot keep their own AI switched on",
+   "resume": "AI is said to save money by replacing pricey humans, but a high-performing AI agent can rack up massive hidden costs per finished task compared with the junior developer it replaces. The richest, most advanced firms cannot keep their own AI running; an industry gaslit itself into believing in this future and is now holding the bill.",
+   "mots_cles": [
+    "hidden costs",
+    "AI agent cost per task",
+    "junior developer",
+    "richest firms",
+    "gaslighting",
+    "AI bill",
+    "replacement myth",
+    "AI economics"
+   ],
+   "texte": "We're told that AI saves money by replacing pricey humans. But the reality is much different. A high-erforming artificial intelligence agent can rack up massive hidden costs per finished task compared to the junior developer it replaces. These are the richest, most advanced firms on the planet, and they cannot keep their own AI switched on. An entire industry gas lit itself into believing this would be the future. Instead, they're holding the bill."
+  },
+  {
+   "id": 194,
+   "debut": 9660.39,
+   "fin": 9698.91,
+   "temps_estime": true,
+   "titre": "Tokenmaxxing at Amazon and Claudeonomics at Meta",
+   "resume": "Through 2025 and 2026 big tech turned AI use into a sport: Amazon staff were pushed to 'token max', burning as many tokens as possible, so the message was use more, not use wisely. At Meta an employee built a leaderboard called Claudeonomics ranking workers by AI spend, making heavy use a badge of honor until Meta saw the danger and took it down.",
+   "mots_cles": [
+    "tokenmaxxing",
+    "Amazon",
+    "Meta",
+    "Claudeonomics",
+    "leaderboard",
+    "AI spending",
+    "badge of honor",
+    "token bill"
+   ],
+   "texte": "Through 2025 into 2026, the biggest names in tech turned AI use into a sport. At Amazon, staff were pushed to token max, slang for burning through as many tokens as possible. And that is a problem. More tokens means a bigger bill at the end of the month. Amazon's message wasn't use AI wisely. It was use more. At Meta, an employee built a user board called Claudionics, ranking workers by how much they spent on AI. Heavy use became a badge of honor. The engineer firing off the most prompts didn't look wasteful. He looked like the future. Meta would later see the danger and the axe on the board."
+  },
+  {
+   "id": 195,
+   "debut": 9698.91,
+   "fin": 9731.03,
+   "temps_estime": true,
+   "titre": "A tragedy of the commons: one harmless prompt times millions",
+   "resume": "Leaderboards created a tragedy of the commons: to any single engineer one extra prompt cost a fraction of a cent, so nobody asked whether it was needed and everybody reached for the machine to win points. Across thousands of workers and millions of daily tasks the total became a figure no one could defend.",
+   "mots_cles": [
+    "tragedy of the commons",
+    "prompts cost",
+    "leaderboard points",
+    "AI overuse",
+    "token spending",
+    "incentives",
+    "enterprise AI bill"
+   ],
+   "texte": "It created a tragedy of the commons. Everyone was burning through the resources for self- gain. To any single engineer, one extra prompt felt like nothing because it nearly was. It was a fraction of a cent. So, nobody hesitated. Nobody asked if that prompt was needed. And everybody reached for the machine every time. That won them a leaderboard points. No one stopped and looked at the bigger picture. The bigger total. And the total was brutal. One harmless prompt. Thousands of workers. Millions of tasks each day. It all grew into a figure no one could defend. [music]"
+  },
+  {
+   "id": 196,
+   "debut": 9731.03,
+   "fin": 9781.81,
+   "temps_estime": true,
+   "titre": "From chatbots to agents: five to 1,000 times more tokens per task",
+   "resume": "Chatbot overuse is an expensive habit, but the real danger came when workers turned AI agents loose. An agent chases a goal: it reads code, drafts a plan, edits, runs tests and retries until it decides the job is done, every step costing money, so a typical job uses five to 30 times the tokens of a chat and reports say up to over 1,000 times in worst cases.",
+   "mots_cles": [
+    "AI agents",
+    "tokens per task",
+    "5 to 30 times",
+    "1,000 times",
+    "agent loop",
+    "coding agents",
+    "compute cost",
+    "chat vs agent"
+   ],
+   "texte": "But the chat bots were only the warm-up. A worker overusing a chat window is an expensive habit, not a threat to the company's survival. [music] The real danger arrived the moment those same workers stopped chatting with the AI and just [music] turned it loose. That changed everything. A normal chat prompt is a single neat exchange. You ask, the model answers, the meter clicks once. An agent is a different beast. It doesn't answer a question, it chases a goal. Hand it a coding job and it works on its own, reading the code, drafting a plan, writing an edit, running the tests, and trying again when something breaks. The [music] loop continues until it decides the job is done. Every step costs money, so a single agent task can swallow far more computing power than a simple [music] chat. A typical job runs five to 30 times the tokens. In the worst cases, reports say it can spike [music] past 1,000 times."
+  },
+  {
+   "id": 197,
+   "debut": 9781.81,
+   "fin": 9831.26,
+   "temps_estime": true,
+   "titre": "Failed agent runs: SWE-bench under 50% and the plumber analogy",
+   "resume": "The priciest part is failed work. On SWE-bench, a test of real software bugs, the best agents solve under 50%; a hard bug can take five to 10 full attempts each costing about as much as the first before the agent gives up or a human steps in. The speaker compares it to a plumber who charges full rate every time he drops his wrench and leaves the pipe leaking.",
+   "mots_cles": [
+    "SWE-bench",
+    "failed agent tasks",
+    "repeated attempts",
+    "agent cost",
+    "coding bugs",
+    "plumber analogy",
+    "under 50% solved",
+    "human fixes"
+   ],
+   "texte": "And the priciest part isn't the work that lands, it's the work that fails. The SweetBench is an industry test built from real software bugs pulled from code that human engineers once had to fix by hand. The best agents currently solve less than 50% of the test. The agent finds the bug, proposes a [music] fix, runs the tests, and fails. So, it rethinks it, tries a new path, and fails again. A difficult bug can mean five to 10 full attempts, each costing [music] about as much as the first before the agent just gives up, or a human gets called in to fix it. Imagine a plumber that charges full rate every time he drops his wrench, bills you for each trip to his van, and still leaves the pipe leaking. You wouldn't call that a timesaver. You would call it a scam. And at the scale of a big company, that failed agent task is exactly that, full price for the dropped wrench with no promises of fixing the leak."
+  },
+  {
+   "id": 198,
+   "debut": 9831.26,
+   "fin": 9879.53,
+   "temps_estime": true,
+   "titre": "Compute costs more than people: Nvidia's own VP says so",
+   "resume": "Even if a single token gets cheaper the problem remains, because the chips burn a lot of electricity: a chat prompt is a desk lamp, an agent lights a stadium for one person. Bryan Catanzaro, Nvidia's VP of applied deep learning, told Axios that compute costs for his team far exceed the cost of employees, so the machine is no longer the cheap part; the people are.",
+   "mots_cles": [
+    "Bryan Catanzaro",
+    "Nvidia",
+    "Axios",
+    "compute cost",
+    "electricity",
+    "token price",
+    "AI agent cost",
+    "employees vs compute"
+   ],
+   "texte": "Even if the price of a single token keeps dropping, and it will, the problems don't change because it was never just about one token. The chips that power AI burn electricity, a lot of it, and that's a cost nobody can just wish away. If a single chat prompt is like a desk lamp switching on, an AI agent is like lighting an entire stadium for one person. Brian Kenzaro is vice president of applied deep learning at Nvidia, the company whose chips power the AI boom. Nvidia has every single reason to insist the money isn't an issue. And yet, in an interview with Axios, Katzaro said the cost of compute for his team is far beyond the cost of the employees. The chips and the power to run the AI revolution now cost more than the people working on it. The machine is not the cheap part anymore. The people are."
+  },
+  {
+   "id": 199,
+   "debut": 9879.53,
+   "fin": 9919.92,
+   "temps_estime": true,
+   "titre": "Microsoft's Maya 200 chip: savings eaten by agent workloads",
+   "resume": "Microsoft is designing its own chips; on its April 2026 earnings call Satya Nadella said the Maya 200 gives over 30% better tokens per dollar than older chips and already runs in Arizona and Iowa data centers. The catch is that agent workloads stacked on top eat all hardware savings: each token gets cheaper but agents demand more of them.",
+   "mots_cles": [
+    "Maya 200",
+    "Microsoft chips",
+    "Satya Nadella",
+    "April 2026 earnings call",
+    "tokens per dollar",
+    "data centers Arizona Iowa",
+    "agent workload",
+    "hardware savings"
+   ],
+   "texte": "The industry knows it, which is why Microsoft is busy designing its own chips. Its newest one, the Maya 200, was built to drag the cost of running those models down. On Microsoft's April 2026 earnings call, CEO Sacha Nadella said the Maya 200 produces over 30% better tokens per dollar than the older chips in Microsoft's rack. It's already running in data centers in Arizona and Iowa. It is genuine progress, but there is a catch. Every bit of savings the hardware makes gets eaten up by the AI agent workload stacked on top. You make each token cheaper and the agents just demand more of them, the savings vanish long before they reach the bottom line."
+  },
+  {
+   "id": 200,
+   "debut": 9919.92,
+   "fin": 9972.96,
+   "temps_estime": false,
+   "titre": "Gartner: cheaper tokens by 2030 but company AI will not get cheaper",
+   "resume": "Gartner predicts that by 2030 running a top model could cost about 90% less than in 2025, yet company AI will not get cheaper because agents burn so many more tokens per task that rising use outweighs falling prices, and AI firms have little reason to pass on the full discount. Cheap everyday tokens are not cheap access to the most powerful AI, and with wages barely moving the digital worker can cost more than the human it replaces.",
+   "mots_cles": [
+    "Gartner",
+    "2030 forecast",
+    "90% cheaper",
+    "tokens per task",
+    "powerful AI expensive",
+    "human wages",
+    "digital worker cost",
+    "pricing"
+   ],
+   "texte": "Research firm Gartner predicted that by 2030, running a top model could cost about 90% less than it did in 2025. A huge drop in the price of raw thinking power. And still, Gartner says company AI won't actually get cheaper. The reason is the same force squeezing Microsoft and Uber. Agents burn so many more tokens per task that rising use outweighs the falling price. AI companies have little reason to hand the full discount to customers anyway. One Gartner analyst framed it as a way of executives banking on cheap automation. Cheap everyday tokens, he said, are not the same as cheap access to the most powerful AI. The cheap part and the powerful part are different products. The powerful part stays expensive. Human wages, meanwhile, have barely even moved. The cost of high-end AI thinking hasn't. [music] So, the price of running the digital worker soarses past the salary of the human it was built to replace. [music]"
+  },
+  {
+   "id": 201,
+   "debut": 9972.96,
+   "fin": 10006.64,
+   "temps_estime": false,
+   "titre": "Goldman Sachs: agentic AI could multiply token use 24-fold by 2030",
+   "resume": "Goldman Sachs ran the numbers and found agentic AI could push global token use up 24-fold by 2030, to roughly 120 quadrillion tokens a month. Big tech is pouring fortunes into data centers and chips for that demand, but the same demand destroys profit margins, so they are building machines that lose money on every job.",
+   "mots_cles": [
+    "Goldman Sachs",
+    "agentic AI",
+    "24-fold token growth",
+    "120 quadrillion tokens",
+    "data centers",
+    "profit margins",
+    "2030",
+    "losing money"
+   ],
+   "texte": "At that point, things start to fall apart. Goldman Sachs ran the numbers and found that [music] Aentic AI could push global token use up 24-fold by 2030. It would rise to roughly 120 quadrillion tokens every month. Big tech is racing to build for that demand, pouring fortunes into data centers and chips for a future of AI agents. But the very demand those companies are spending hundreds of billions to capture is the same demand destroying their profit margins. They're building at huge cost machines that lose money on every job."
+  },
+  {
+   "id": 202,
+   "debut": 10006.64,
+   "fin": 10041.07,
+   "temps_estime": true,
+   "titre": "GitHub Copilot in 2023: $10 in, $80 out, selling $20 bills for $10",
+   "resume": "None of this is new: in 2023 Microsoft sold GitHub Copilot for $10 a month and the Wall Street Journal found it lost over $20 per user monthly, with the heaviest users costing up to $80. It was like selling $20 bills for $10 and hoping to make it back on volume; those losses were a warning not heeded, as a single agent task can burn what a chat user spends in a month.",
+   "mots_cles": [
+    "GitHub Copilot",
+    "Microsoft losses",
+    "Wall Street Journal",
+    "$10 a month",
+    "$80 heavy users",
+    "selling $20 bills for $10",
+    "2023",
+    "agent cost"
+   ],
+   "texte": "None of this is new. [music] It just has reached full scale. Go back to 2023 when Microsoft was selling GitHub Copilot for 10 bucks a month. Wall Street Journal found that Microsoft was losing more than $20 per user every month. Its heaviest users [music] cost as much as $80 a month each. 10 bucks coming in, 80 going out. [music] It was the business equivalent of selling $20 bills for $10 and promising to make it back on volume. The [music] more you sell, the more you lose. Those early co-pilot losses were a warning, one that hasn't been heeded. A single agent can burn through in one task [music] what a chat user spent in a month."
+  },
+  {
+   "id": 203,
+   "debut": 10041.07,
+   "fin": 10077.71,
+   "temps_estime": true,
+   "titre": "Jim Covello: too much spend, too little benefit, $1 trillion with no answer",
+   "resume": "The Goldman Sachs report summed it up as too much spend, too little benefit; its author Jim Covello, the loudest skeptic, notes big tech is on course to spend about $1 trillion on AI while years in there is no definitive answer to what expensive problem it solves. The payoff is marginal and hard to measure, the gap between cost and worth is widening, and an industry spends trillions on flagship products guaranteed to lose money.",
+   "mots_cles": [
+    "Jim Covello",
+    "Goldman Sachs report",
+    "$1 trillion AI spend",
+    "too much spend too little benefit",
+    "AI skeptic",
+    "marginal payoff",
+    "AI economics",
+    "flagship products lose money"
+   ],
+   "texte": "The Goldman Sachs report described it as too much spend, too little benefit. The man behind that report, Jim Coll, has been the loudest skeptic in the room. He notes big tech is on the course to spend around $1 trillion building out AI. But what expensive problem does all of that money solve? Years in, and there's still no definitive answer. The spending is enormous. The payoff is marginal and hard to measure. The market isn't closing the gap between what AI costs and what it's worth. It is running in the opposite direction and picking up speed. An entire industry is spending trillions to build a future where its own flagship products are guaranteed to lose money."
+  },
+  {
+   "id": 204,
+   "debut": 10077.71,
+   "fin": 10121.28,
+   "temps_estime": true,
+   "titre": "Agent costs curve upward while human productivity costs stay flat",
+   "resume": "The root cause no cash can fix: as AI systems become more capable their costs curve upward, since moving from chat to an agent adds layers of reasoning and retries compounding on each other. A junior worker who doubles output barely changes pay, while an agent doubling output can multiply its token bill many times, so at 2026 prices a fully self-running agent is a luxury, not a replacement.",
+   "mots_cles": [
+    "cost curve",
+    "agent reasoning retries",
+    "junior worker pay",
+    "token bill",
+    "2026 prices",
+    "luxury",
+    "AI vs human cost",
+    "compounding costs"
+   ],
+   "texte": "And every one of those failures traces back to one root cause no amount of cash can fix. As AI systems become more capable, their costs don't rise in a straight line. They curve upward. Moving from chat to a true agent means adding layers of reasoning and retries, each compounding on the last. Humans behave differently. A worker who becomes more skilled typically gets faster and more effective at roughly the same cost. The two aren't competing on the same trajectory. They are following different curves. A junior worker doubles their output and their pay barely moves. [music] An agent doubles its output and its token bill can jump many times over. At the prices of 2026, the fully self-running agent is not a replacement for workers. It is a luxury."
+  },
+  {
+   "id": 205,
+   "debut": 10121.28,
+   "fin": 10153.48,
+   "temps_estime": true,
+   "titre": "Humans are protected by arithmetic: the self-running worker will not survive its costs",
+   "resume": "A company can afford agents in small high-value corners but cannot turn them loose across a workforce; the dream of the self-running worker was never going to survive its own costs. Humans are not spared out of kindness but by simple arithmetic: the smarter the system gets, the more it costs, and the great replacement has run into a reality no engineering fixes this decade.",
+   "mots_cles": [
+    "self-running worker",
+    "high-value corners",
+    "arithmetic",
+    "AI costs",
+    "great replacement",
+    "human workers",
+    "workforce",
+    "this decade"
+   ],
+   "texte": ">> [music] >> A company can afford it in small, high-v value corners where the numbers work, but they can't turn it loose across an entire workforce. Despite the hype, the dream of the self-running worker was never going to survive its own costs. It was never going to work. Humans aren't being spared out of kindness or [music] even saved by a sudden corporate change of heart. They're protected by something colder and more reliable. Simple arithmetic. The smarter the system gets, the more it costs. The great replacement has run straight into a reality no clever engineering will get around in this decade. [music]"
+  },
+  {
+   "id": 206,
+   "debut": 10153.48,
+   "fin": 10206.32,
+   "temps_estime": true,
+   "titre": "Human in the loop and the rise of the verification specialist",
+   "resume": "Human in the loop, once a feel-good safety box, is now the only way this works: big tech will keep aiming AI at small low-cost jobs while the dream of cheap AI replacing everyone died in canceled licenses and burned budgets. A new valuable job emerges, the verification specialist, who watches the agent, kills runaway processes and catches expensive failure loops before the cost bankrupts the project.",
+   "mots_cles": [
+    "human in the loop",
+    "verification specialist",
+    "runaway agents",
+    "canceled licenses",
+    "burned budgets",
+    "small low-cost jobs",
+    "new jobs",
+    "failure loop"
+   ],
+   "texte": "So what does all of that mean for your job? Through the whole AI boom, human in the loop sounded like a soft idea, a feel-good safety feature, a box to tick to keep regulators calm. Not anymore. It's become the only way that this works. Big tech will keep using AI, aiming it at these small, lowcost jobs where the cost justifies the means. But the dream of cheap AI replacing everyone is already over. It died inside of those canceled licenses and burned budgets long before it reached the rest of the workforce. In its place, a new job is becoming the most valuable seat in the building, the verification specialist. Someone who watches the agent and catches it the moment it slips into an expensive failure loop. The person who checks the output and kills a runaway process before the cost bankrupts the project. They are the one thing standing between the company and a budget that bleeds out cycle after cycle."
+  },
+  {
+   "id": 207,
+   "debut": 10206.32,
+   "fin": 10232.33,
+   "temps_estime": true,
+   "titre": "Jensen Huang's 100 agents per employee still needs a worker at the center",
+   "resume": "Even loud cheerleaders describe this future: Nvidia CEO Jensen Huang says one day 100 AI agents will work alongside every employee, not replacing them, so agents multiply around one worker at the center. Without that worker, nobody knows whether the machines create value or just run up a bill until it arrives.",
+   "mots_cles": [
+    "Jensen Huang",
+    "100 AI agents",
+    "alongside every employee",
+    "worker at the center",
+    "Nvidia",
+    "AI bill",
+    "agents multiply",
+    "AI value"
+   ],
+   "texte": "Even the industry's loudest cheerleaders describe this future without meaning to. Nvidia CEO Jensen Hong likes to say that one day 100 AI agents will work alongside every employee, alongside every employee, not replacing them. The agents multiply, sure, but they multiply around one worker at the center. Are the machines creating value or just running up a bill? Take that worker away and nobody knows the answer until that bill arrives."
+  },
+  {
+   "id": 208,
+   "debut": 10232.33,
+   "fin": 10285.2,
+   "temps_estime": true,
+   "titre": "Duolingo walks back, and the great replacement is defeated by a spreadsheet",
+   "resume": "AI doubt is spreading: Duolingo leaned into the AI replaces everyone story, then its CEO admitted the technology will not take over work like people, and it scrapped a rule tying job reviews to AI use after workers said it rewarded busy work. The future of work is a blend; humans are the cheapest thinking engine, running on a sandwich and a night's sleep, and the replacement was defeated not by fear but by a spreadsheet.",
+   "mots_cles": [
+    "Duolingo",
+    "AI walk back",
+    "CEO admission",
+    "AI usage in job reviews",
+    "future of work blend",
+    "humans cheapest engine",
+    "ordinary workers",
+    "spreadsheet"
+   ],
+   "texte": "And AI doubt is spreading. Language learning app Dolingo leaned hard into the AI replaces everyone's story and then walked it back. The CEO admitted the tech won't take over the work like people do. The company even scrapped a rule that it had tied job reviews to how much AI staff used after workers pointed out that it rewarded busy work instead of results. So, the future of work is a blend, one that was always coming. Through the whole boom, we were told AI was the worker and the people were just a cost to trim. That's changed. Humans are the cheapest thinking engine on the earth, a flexible mind that runs on a sandwich in a night's sleep and never builds the company 1,000 times over just to stop and think. The great replacement wasn't defeated by fear. It was defeated by a spreadsheet. And in those numbers lies a surprising triumph for ordinary workers."
+  },
+  {
+   "id": 209,
+   "debut": 10285.2,
+   "fin": 10314.27,
+   "temps_estime": true,
+   "titre": "Big tech built data centers it cannot plug in: the power grid is maxed out",
+   "resume": "Big tech is burning billions on machines it cannot plug in: the speaker says Silicon Valley promised the next industrial revolution in a bitter race but forgot that the power grid is maxed out, so state-of-the-art data centers full of next-generation chips sit in the dark, a multi-billion-dollar graveyard.",
+   "mots_cles": [
+    "power grid",
+    "data centers in the dark",
+    "industrial revolution",
+    "next-gen chips",
+    "AI infrastructure",
+    "grid shortage",
+    "multi-billion graveyard",
+    "Silicon Valley"
+   ],
+   "texte": "It's not just Microsoft that sees the writing on the wall. The whole industry is starting to get nervous about what's coming next. Right [music] now, big tech is burning billions of dollars on machines they can't plug in. Silicon Valley promised that AI would usher in the next industrial revolution, sparking a bitter and relentless race to succeed. [music] But they forgot one thing. The power grid is maxed out. And now state-of-the-art data centers full of next-gen chips are sitting in the dark. >> [music] >> Big tech tried to build the future, but they built a multi-billion dollar graveyard."
+  },
+  {
+   "id": 210,
+   "debut": 10314.27,
+   "fin": 10377.55,
+   "temps_estime": true,
+   "titre": "Ashburn, Virginia: the grid paralyzed, with connection waits up to 12 years",
+   "resume": "Ashburn, Virginia, ground zero of the AI crisis, packs nearly 50 million square feet of data center space and carries over 70% of the world's internet traffic. Dominion Energy says the grid is paralyzed: new data center waits grew from 4 years in 2022 to 7 by 2026, Microsoft is quoted up to 12 years just to evaluate a connection, and queued data centers demand 40 GW against a 25 GW ceiling, as much as 30 nuclear reactors.",
+   "mots_cles": [
+    "Ashburn Virginia",
+    "Dominion Energy",
+    "data center wait times",
+    "12 years",
+    "25 gigawatt ceiling",
+    "40 gigawatts demand",
+    "30 nuclear reactors",
+    "grid paralysis",
+    "internet traffic"
+   ],
+   "texte": "Ashurn, Virginia is ground zero for the AI crisis. Nearly 50 million square ft [music] of data center space is crammed into this single county. Over 70% of the world's internet traffic flows through here every day. To anyone just [music] passing by, they look like thriving hubs, a testament to the digital age. But inside, they are hollow monuments. AI companies are being held hostage by one local power company, Dominion Energy, who recently dropped a bombshell. The grid is paralyzed. In 2022, the wait time to get a new data center online was 4 years. By 2026, it had stretched to 7. And now, tech giants like Microsoft are being quoted up to 12 years [music] just to evaluate a connection request, not to lay down the copper or build a substation, just to decide if it's even possible. Dominion's grid has a 25 gawatt ceiling, enough to power millions of homes across the region. The data centers waiting in line are demanding 40 gawatt. That's the same output as 30 nuclear reactors, all for a small corner of Virginia."
+  },
+  {
+   "id": 211,
+   "debut": 10377.55,
+   "fin": 10415.84,
+   "temps_estime": true,
+   "titre": "$130 billion in limbo: chips go obsolete on pallets waiting for power",
+   "resume": "The blackout is spreading across the country, with $130 billion of real estate in limbo. Nvidia rolls out a new chip every 18 to 24 months, halving the resale value of the last, so a $30,000 chip bought in 2024 could be worth a used car engine block by decade's end, and billions of dollars of silicon sit on pallets in dark warehouses waiting for a substation.",
+   "mots_cles": [
+    "$130 billion real estate",
+    "Nvidia chip cycle",
+    "chip obsolescence",
+    "resale value",
+    "$30,000 chip",
+    "silicon on pallets",
+    "substation",
+    "financial black hole"
+   ],
+   "texte": "But the blackout isn't contained to this one part of America. It is spreading like a virus. Across the country, $130 billion of real estate is sitting in limbo and it's causing a financial black hole. Nvidia rolls out a new chip every 18 to 24 months. Each new generation makes the last one obsolete, slashing its resale value in half. By the end of the decade, a $30,000 chip bought in 2024 will be worth the same as a used car engine block. [music] And data centers are full of them. Billions of dollars of silicon are sitting on pallets in a dark warehouse, [music] slowly bleeding value, waiting for a substation that is not coming."
+  },
+  {
+   "id": 212,
+   "debut": 10415.84,
+   "fin": 10433.74,
+   "temps_estime": true,
+   "titre": "The Mexican standoff: every CEO keeps ordering chips",
+   "resume": "Every Silicon Valley CEO knows chips are piling up unused but keeps ordering more because if one blinks rivals race ahead, for example Amazon never catching up if Google's dark buildings light up first. It is a Mexican standoff in which every company is terrified and America is caught in the crossfire.",
+   "mots_cles": [
+    "Mexican standoff",
+    "AI arms race",
+    "chip orders",
+    "Amazon Google rivalry",
+    "fear of falling behind",
+    "CEOs",
+    "crossfire"
+   ],
+   "texte": "Every CEO in Silicon Valley already knows this, but they're ordering more chips anyway because if one of them blinks, their rivals will race ahead. If Amazon stops buying chips and Google's dark buildings light up the next day, Amazon never catches up. It's a Mexican standoff in each of these companies is terrified. And America is caught in the crossfire."
+  },
+  {
+   "id": 213,
+   "debut": 10433.74,
+   "fin": 10464.56,
+   "temps_estime": true,
+   "titre": "Meta: $145 billion of spending, $175 billion wiped out and 8,000 jobs cut",
+   "resume": "Mark Zuckerberg would rather burn billions than come second in the AI arms race: he pushed Meta's 2026 spending to $145 billion, investors saw no way to earn it back and dumped the stock, wiping out $175 billion in a day. Three weeks later he cut 8,000 jobs to keep the spending alive.",
+   "mots_cles": [
+    "Mark Zuckerberg",
+    "Meta",
+    "$145 billion capex",
+    "$175 billion lost in a day",
+    "8,000 jobs",
+    "2026 spending",
+    "investors",
+    "AI arms race"
+   ],
+   "texte": "Mark Zuckerberg has proved that he would rather burn billions of dollars than come second in the AI arms race. He's pushed Meta's spending for 2026 to $145 billion and it sent shock waves through Wall Street. Investors could not see how Meta would ever earn that money back and so they immediately dumped their stock. $175 billion was wiped out in a single day. Zuckerberg did not even blink. Just 3 weeks later, he slashed 8,000 jobs, all to keep the spending alive."
+  },
+  {
+   "id": 214,
+   "debut": 10464.56,
+   "fin": 10511.03,
+   "temps_estime": true,
+   "titre": "Microsoft: $37.5 billion in a quarter, $357 billion lost, $329 billion in leases",
+   "resume": "Satya Nadella gambles even bigger: Microsoft poured a record $37.5 billion into AI and data centers in one quarter, over $400 million a day, and after CFO Amy Hood said AI demand outpaces supply, $357 billion of value was wiped out in a day. Nadella admitted chips sit in storage with nowhere to plug them in, yet Microsoft signed $329 billion of data center leases, some for 20 years, that it must pay even if the boom busts.",
+   "mots_cles": [
+    "Microsoft",
+    "Satya Nadella",
+    "Amy Hood",
+    "$37.5 billion quarter",
+    "$357 billion wiped out",
+    "$329 billion leases",
+    "chips in storage",
+    "20-year leases"
+   ],
+   "texte": "Over at Microsoft, CEO Satya Nadella is gambling even bigger. In a single quarter, Microsoft poured a record $37.5 billion into AI and data centers. That is more than $400 million every day. As finance chief Amy Hood warned that AI demand is rapidly outpacing supply, investors turned their backs. By the end of the next day, $357 billion in value had been wiped out. Nadella has even admitted to Microsoft having chips sitting in storage with nowhere to plug them in. [music] But it hasn't stopped him from buying up more land. Microsoft has signed $329 billion in leases for data centers that haven't even opened. Some of them are locked in for 20 years. And if the AI boom goes bust tomorrow, Microsoft still has to pay every cent."
+  },
+  {
+   "id": 215,
+   "debut": 10511.03,
+   "fin": 10566.08,
+   "temps_estime": true,
+   "titre": "Power transformers: three in ten missing and one steel mill in Butler, Pennsylvania",
+   "resume": "Billions ride on large power transformers, which can weigh as much as an empty Boeing 747 and take about two and a half years to arrive, so a building goes live with obsolete chips. Prices are up 77% since 2019, America is short three of every ten needed, and the special steel is made in only one place, Butler, Pennsylvania, a town of 13,000.",
+   "mots_cles": [
+    "power transformers",
+    "Boeing 747 weight",
+    "transformer prices 77%",
+    "Butler Pennsylvania",
+    "specialized steel",
+    "shortage three in ten",
+    "data center delays",
+    "supply chain"
+   ],
+   "texte": "And those billions are all riding on one vital piece of hardware, a large power transformer. These electrical monoliths can weigh as much as an empty Boeing 747. And nobody [music] can build them fast enough. If Elon Musk or Zuckerberg orders one today, it won't arrive for another 2 and 1/2 years. By the time a building goes live, every chip inside it is obsolete. Transformer prices have skyrocketed 77% since 2019. Utilities pay it anyway. And yet, America is still short three out of every 10 it needs. Skilled crews have to build them one at a time around a core of specialized steel. And only one place in the entire country can make that steel. Butler, Pennsylvania. The multi-million dollar AI industry is leaning its full weight on a town of 13,000. And the town's mill has become a focal point for the entire AI boom, and they're doing it on their own."
+  },
+  {
+   "id": 216,
+   "debut": 10566.08,
+   "fin": 10605.01,
+   "temps_estime": true,
+   "titre": "Transformer makers distrust the AI boom; 80% imported, no cutting in line",
+   "resume": "Transformer makers are not convinced AI demand will last and do not want a massive factory with no orders, so 80% of the biggest US transformers are imported and the richest companies compete with governments. No one cuts in line: Ashburn's billion-dollar data center is on the same waiting list as a local substation, a trillion-dollar industry stuck behind a blown neighborhood fuse.",
+   "mots_cles": [
+    "transformer makers",
+    "80% imported transformers",
+    "waiting list",
+    "Amazon Google",
+    "supply competition",
+    "blown fuse analogy",
+    "trillion-dollar industry",
+    "manufacturing capacity"
+   ],
+   "texte": "Transformer makers are not convinced the AI demand will last. Not one of them wants to get stuck with a massive factory and no orders. Even the companies supplying the boom don't trust it. So, America turned elsewhere. Today, 80% of the country's biggest transformers are imported. Countries all over the world are fighting for the same hardware. The richest companies on the earth are going head-to-head with entire governments. And there is no cutting in line. It doesn't matter if you're Amazon or Google. The billiondoll data center in Ashurn is on the exact same waiting list as a local substation. It's a trillion dollar industry stuck behind a blown neighborhood fuse. That's a big problem that big tech can't buy their way out of."
+  },
+  {
+   "id": 217,
+   "debut": 10605.01,
+   "fin": 10625.92,
+   "temps_estime": true,
+   "titre": "Nvidia as the arms dealer: one rack pulls the power of 100 homes",
+   "resume": "While Microsoft and Meta take the risk, Nvidia CEO Jensen Huang is the ultimate arms dealer, paid the moment shipping crates leave the warehouse. A single rack of Nvidia's latest chips draws as much power as about 100 American homes, and whether the grid survives is someone else's problem.",
+   "mots_cles": [
+    "Jensen Huang",
+    "Nvidia",
+    "arms dealer",
+    "server rack power",
+    "100 homes",
+    "paid on shipment",
+    "grid risk",
+    "AI chips"
+   ],
+   "texte": "But while companies like Microsoft and Meta take all the risk, one company takes all the cash. Jensen Wong, the CEO of Nvidia, is the ultimate arms dealer in this Mexican standoff. He gets paid the moment the shipping crates leave the warehouse. A single rack of Nvidia's latest chips pulls as much power as about 100 American homes. Whether the grid survives is somebody else's problem,"
+  },
+  {
+   "id": 218,
+   "debut": 10625.92,
+   "fin": 10672.54,
+   "temps_estime": true,
+   "titre": "Texas: 474 GW of AI requests and Abbott's freeze on data centers",
+   "resume": "AI projects waiting to connect in Texas demand 474 gigawatts, more than five times the record peak of the whole Texas grid, almost all from data centers. In August 2026 Governor Greg Abbott ordered an emergency freeze on new data centers, and ERCOT warned the Permian Basin could face rolling blackouts without a full grid overhaul.",
+   "mots_cles": [
+    "Texas grid",
+    "474 gigawatts",
+    "Greg Abbott",
+    "data center freeze",
+    "August 2026",
+    "ERCOT",
+    "Permian Basin",
+    "rolling blackouts"
+   ],
+   "texte": "and now one state is being pushed to the breaking point. Energy demand is exploding in Texas. AI projects currently waiting to be plugged in are demanding a massive 474 gawatt. That's more than five times the record peak of the entire Texas grid. And data centers make up almost all of those requests. The crisis has become so urgent that in August 2026, Texas Governor Greg Abbott ordered an emergency freeze on new data centers. According to him, AI's unquenchable thirst for power could threaten the entire state. Oo, to the group responsible for keeping the lights on in Texas, issued a stark warning. They said that without a full grid overhaul, the Peran Basin, America's biggest oil field, could face rolling blackouts just to keep up with AI demands."
+  },
+  {
+   "id": 219,
+   "debut": 10672.54,
+   "fin": 10711.79,
+   "temps_estime": true,
+   "titre": "On-site gas plants, turbine waiting lists and taxpayer projects squeezed out",
+   "resume": "AI companies try to skip the grid by building on-site gas plants, but GE Vernova, America's biggest turbine maker, has a waiting list through 2030, and every turbine tech giants secure leaves Texas more exposed to the next blackout. Eight of the state's taxpayer-funded power projects intended as a safety net walked away after being squeezed out by the AI industry.",
+   "mots_cles": [
+    "on-site gas plants",
+    "GE Vernova",
+    "gas turbines",
+    "waiting list 2030",
+    "Texas blackout risk",
+    "taxpayer-funded plants",
+    "power projects",
+    "AI industry"
+   ],
+   "texte": "Desperate to survive, AI companies are trying to find a workaround. They're trying to skip the grid altogether by building their own gas plants on site. Each of those plants needs a giant gas turbine and GE Vernova, America's biggest turbine maker, decides who gets one, [music] and they have a waiting list all the way through to 2030. And now tech giants are scrambling for scraps. Every turbine they managed to secure leaves Texas more exposed to the next blackout. Taxpayers had put up billions [music] to build new power plants to act as a safety net for the public grid. Instead, eight of the state's chosen energy projects have walked away after being ruthlessly squeezed out by the AI industry."
+  },
+  {
+   "id": 220,
+   "debut": 10711.79,
+   "fin": 10761.02,
+   "temps_estime": true,
+   "titre": "The electrician shortage: AI pays up to $260,000 and raids local crews",
+   "resume": "Data centers stay dark until electricians wire them in, and America faces a trade shortage: almost 20,000 electricians leave every year and three in ten of those who stay are over 50. AI firms make obscene offers, up to $260,000 a year, so a skilled worker can out-earn a software engineer; OpenAI's $500 billion Stargate project in Abilene pays almost double local homebuilders, with 100 more data centers headed for Texas.",
+   "mots_cles": [
+    "electrician shortage",
+    "$260,000 salary",
+    "Stargate Abilene",
+    "skilled trades",
+    "data center construction",
+    "Texas",
+    "homebuilders",
+    "labor raid"
+   ],
+   "texte": "Even with its own power plant, a data center stays [music] dark until electricians wire it in. And that's the one thing that can't be ordered from a factory. America is facing [music] a catastrophic trade shortage. Almost 20,000 electricians leave the industry every year. And out of the ones who stay, three in 10 are over 50. It's an industry that is in decline. And AI companies want the best talent, so they're making obscene offers. On some data center jobs, electricians can pull in up to $260,000 a year. That means a skilled worker with a tool belt can easily out earn a software engineer. No local contractor can come close to matching that. In Abalene, Texas, OpenAI's $500 billion Stargate project pays electricians almost double what local homebuilders can offer. And with 100 more data centers headed for Texas, the raid on local crews is just getting started."
+  },
+  {
+   "id": 221,
+   "debut": 10761.02,
+   "fin": 10841.35,
+   "temps_estime": true,
+   "titre": "PJM auction: AI demand raises household power bills by $25 to $30 a month",
+   "resume": "PJM Interconnection supplies 65 million Americans across 13 states and Washington DC, with Ashburn at its heart, and runs an annual auction paying power plants to stand by for surges, a cost covered in every household bill. After AI companies devoured spare megawatts the price rose over six times in one auction, households pay an estimated $25 to $30 more a month than in 2024, and market watchdog Joseph Bowring attributes $29.4 billion of added costs to data centers.",
+   "mots_cles": [
+    "PJM Interconnection",
+    "capacity auction",
+    "electricity bills",
+    "$25 to $30 more per month",
+    "Joseph Bowring",
+    "$29.4 billion",
+    "data centers",
+    "household costs"
+   ],
+   "texte": "These battles for resources might play out one town at a time, but the financial fallout is felt all over. 65 million Americans get their power from PJM interconnection. It is the largest grid in America, stretching across 13 states and Washington DC with ashurn wedged into its heart. [music] Every year, PGM runs an auction that pays power plants just to stand for any sudden surges. And every household on the grid covers that cost through its monthly bill. For years, the system was stable. And then AI companies forced their way in, and they began devouring every spare megawatt. In one auction, the price shot up more than six times. Utilities are passing those costs on to customers, and those bills are landing in mailboxes right now. Across the region, households are paying an estimated $25 to $30 more a month than they did in 2024. According to the research firm Semi analysis, Joseph Bowing, the independent watchdog who polices PJM's market, traced the new cost straight to big tech. Data centers, he wrote, are the primary reason for the soaring prices. By his count, data centers have already added $29.4 billion to customers costs, and to him, that damage is not reversible. The market is completely broken and everyday families across America are paying for buildings that won't switch on for years."
+  },
+  {
+   "id": 222,
+   "debut": 10841.35,
+   "fin": 10861.97,
+   "temps_estime": true,
+   "titre": "White House and governors react; big tech ignores the threats",
+   "resume": "The White House demanded that new power plants be built quickly and paid for by AI companies, and one governor threatened to pull his state out of PJM if the utility did nothing. Big tech treated it as an empty threat because only keeping stock prices high matters to them.",
+   "mots_cles": [
+    "White House",
+    "new power plants",
+    "AI companies pay",
+    "governor threat",
+    "PJM",
+    "big tech stock prices",
+    "grid policy"
+   ],
+   "texte": "The White House has demanded that new power plants are built and brought online as soon as possible, and they want the AI companies to pay for them. One governor threatened to pull his entire state out of PJM if the utility company didn't do something about the unfolding crisis. Big tech treated it like an empty threat. Only one thing matters to them, keeping their stock prices high."
+  },
+  {
+   "id": 223,
+   "debut": 10861.97,
+   "fin": 10918.96,
+   "temps_estime": true,
+   "titre": "Michael Burry and the depreciation trick: server lives stretched from four to six years",
+   "resume": "Michael Burry, who called the 2008 housing crash, combs AI financial statements line by line. When Nvidia began shipping Vera Rubin in summer 2026, chips in warehouses fell a generation behind, so Microsoft and Google extended AI server lives from four to six years in their filings, pushing costs down the road and inflating profits; Meta did the same, adding $2.6 billion to profit without selling an extra ad.",
+   "mots_cles": [
+    "Michael Burry",
+    "depreciation",
+    "server useful life",
+    "Vera Rubin",
+    "Microsoft Google",
+    "Meta $2.6 billion",
+    "accounting trick",
+    "inflated profits"
+   ],
+   "texte": "As Wall Street continues to pump money into the AI bubble, one man refuses to buy the hype. Michael Bur, the legendary hedge fund manager who called the 2008 housing crash, now is combing through the AI financial statements line by line, and he just uncovered a billion dollar illusion. In the summer of 2026, Nvidia began shipping its next generation chip, Vera Rubin. The moment they left the factory, the chips sitting in warehouses across America fell a full generation behind. But Microsoft and Google couldn't let Wall Street see the bleeding. So they just altered a line in their financial filings. They extended the life of their AI servers from four years to 6 years. So with the stroke of a pen, they pushed billions in costs further down the road. Overnight, operation expenses disappeared and profits artificially swelled. Meta pulled that exact same stunt, instantly panning their profits by $2.6 billion without selling a single extra ad."
+  },
+  {
+   "id": 224,
+   "debut": 10918.96,
+   "fin": 10968.88,
+   "temps_estime": true,
+   "titre": "Amazon admits obsolescence, Burry's $167 billion estimate and Nvidia's memo",
+   "resume": "Amazon had stretched server lives twice, padding profits by over $5 billion, then in 2025 cut some back to five years, admitting AI makes hardware obsolete faster than expected, at a cost of about $1 billion in profit. Burry estimates big tech will hide $167 billion in costs this way, calling it one of the more common frauds of the era; Nvidia replied with a seven-page memo claiming up to six years of use, and Burry warns Oracle's profits are overstated by over a quarter and Meta's by about a fifth.",
+   "mots_cles": [
+    "Amazon server life",
+    "$167 billion hidden costs",
+    "Michael Burry",
+    "Nvidia memo",
+    "Oracle overstated profits",
+    "Meta overstated",
+    "hardware obsolescence",
+    "accounting fraud claim"
+   ],
+   "texte": "And then Amazon's own filings exposed the [music] scam. It had already stretched its own servers lives twice, patting its profits by more than $5 billion. But then in 2025, it suddenly reversed course and cut some servers back to 5 years and admitted the reason. Artificial intelligence is making hardware obsolete faster than expected. Coming clean and telling the truth cost Amazon about a billion dollars in profit. Michael Bur estimates that big tech will hide $167 billion in costs. Using this trick, he calls it one of the more common frauds of the modern era. Nvidia immediately fired back with a defensive seven-page memo to Wall Street analysts, desperate to claim that its chips stay useful for up to 6 years. But Bur isn't backing down. He is now warning that Oracle's profits will soon be overstated by more than a quarter and Meta by about a fifth."
+  },
+  {
+   "id": 225,
+   "debut": 10968.88,
+   "fin": 11026.96,
+   "temps_estime": true,
+   "titre": "Meta's Hyperion and Blue Owl: $27 billion of debt kept off the balance sheet",
+   "resume": "Some of the biggest AI debts are wiped from the books: for Hyperion, its giant Louisiana data center costing $27 billion, Meta let investment firm Blue Owl own the majority and rent it back, keeping the debt off its balance sheet while Wall Street sells the risky bonds to public pension funds. Burry counts upward of $3 trillion in such promises, more than Canada's annual economy, and lenders now demand over 7% interest.",
+   "mots_cles": [
+    "Hyperion",
+    "Meta",
+    "Blue Owl",
+    "off-balance-sheet debt",
+    "pension funds",
+    "$3 trillion promises",
+    "7% interest",
+    "Louisiana data center"
+   ],
+   "texte": "The deception goes even deeper. Some of the biggest [music] debts in the AI boom are being wiped from the books. Take Hyperion, the giant data center that Meta is building in rural Louisiana. Mark Zuckerberg once posted its outline laid over a map of Manhattan [music] covering a big chunk of the island. Meta needed $27 billion to build it. But if Meta borrowed that 27 billion itself, [music] its stock price would tank. So they engineered a loophole. They let an investment firm called Blue Owl own the majority of the project and then agreed to rent it back. The debt stays off of Meta's balance sheet hidden from investors while Wall Street unloads the risky bonds onto public pension funds. Across the biggest spenders, [music] Bur counts upward of $3 trillion in promises like this, more than Canada's entire economy produces in a year. And the borrowing they can't hide is exploding. The industry giants are burning through cash so fast [music] that lenders are demanding over 7% interest just to hand it over."
+  },
+  {
+   "id": 226,
+   "debut": 11026.96,
+   "fin": 11076.55,
+   "temps_estime": true,
+   "titre": "Nvidia bankrolls its own customers: OpenAI guarantees and CoreWeave",
+   "resume": "Nvidia sunk $30 billion into OpenAI and guaranteed up to $105 billion of its data center leases, paying every cent if OpenAI defaults, though OpenAI lost $3 for every dollar it brought in during 2025. Nvidia also holds a $4.7 billion stake in CoreWeave and buys back computing power CoreWeave cannot sell, so over $100 billion tied up in customers circles back as chip orders that Wall Street counts as growth.",
+   "mots_cles": [
+    "Nvidia",
+    "OpenAI",
+    "$105 billion guarantees",
+    "CoreWeave",
+    "circular financing",
+    "Jensen Huang",
+    "$30 billion investment",
+    "customer financing"
+   ],
+   "texte": "If the giants are straining, the AI upstarts are running dry. But Nvidia and Jensen Huang have a plan to keep chip orders flowing. They are bankrolling their own customers. Nvidia has already sunk $30 billion into OpenAI and guaranteed up to 105 billion of the company's data center leases. If OpenAI defaults, Nvidia pays every cent. And Hong [music] is making those promises to a company that is hemorrhaging money, losing $3 for every dollar it brought in in 2025. Nvidia also owns a $4.7 billion stake in chip [music] rental company Coreweee. Nvidia sells the chips to Coreeave and whatever computing power Coreweave can't sell, Nvidia buys back. Jensen Hong is sitting on both sides of the table. Nvidia now has well over $100 billion tied up in its own customers. Much of that money circles straight back as chip orders, and Wall Street counts everyone as growth."
+  },
+  {
+   "id": 227,
+   "debut": 11076.55,
+   "fin": 11114.67,
+   "temps_estime": true,
+   "titre": "Oracle's gamble: Ellison, OpenAI dependence and a credit rating near junk",
+   "resume": "Larry Ellison borrowed tens of billions to build OpenAI's data centers, briefly becoming the richest man alive, and now half of Oracle's future orders hang on a company that has never turned a profit. Oracle and OpenAI pulled the plug on a planned Abilene expansion, S&P cut Oracle's credit rating to one step above junk, and banks hold billions of Oracle loans they cannot sell.",
+   "mots_cles": [
+    "Larry Ellison",
+    "Oracle",
+    "OpenAI dependence",
+    "Abilene expansion",
+    "S&P downgrade",
+    "one step above junk",
+    "toxic loans",
+    "banks"
+   ],
+   "texte": "But the cracks are starting to show. Oracle founder Larry Ellison borrowed tens of billions to build OpenAI's data centers. The reckless bet briefly made him the richest man alive, and now half of Oracle's future orders are hanging on a company that has never turned a profit. The panic has already started. Oracle and OpenAI abruptly pulled the plug on a planned expansion in Abolene, the same Texas campus that raided local builders for electricians. Wall Street turned on Ellison instantly. The ratings agency S&P cut Oracle's credit rating to one step above junk. While banks are holding billions of toxic Oracle loans they can't sell."
+  },
+  {
+   "id": 228,
+   "debut": 11114.67,
+   "fin": 11144.9,
+   "temps_estime": true,
+   "titre": "Pension money behind Meta's Hyperion bonds: PIMCO and the 2049 maturity",
+   "resume": "Ordinary Americans are caught in the firing line: PIMCO bought about $18 billion of Meta's Hyperion bonds with the retirement money of millions. The bonds run until 2049, but Meta's first lease lasts only four years, after which Zuckerberg can walk away and leave ordinary Americans holding the bag without a say.",
+   "mots_cles": [
+    "PIMCO",
+    "Hyperion bonds",
+    "$18 billion",
+    "pension funds",
+    "retirement savings",
+    "2049 maturity",
+    "lease four years",
+    "Meta"
+   ],
+   "texte": "And now millions of ordinary Americans are caught in the firing line. And their life savings are at risk. The investment giant PIMCO scooped up about $18 billion of Meta's Hyperion bonds using the retirement money of millions to fund the deal. If your pension is one of them, your future is propping up a half-built data center in Louisiana. These bonds run until 2049, but Meta's first lease on the building lasts only four years. And after that, Mark Zuckerberg can just walk away, leaving ordinary Americans holding the bag. And you don't get a say in it."
+  },
+  {
+   "id": 229,
+   "debut": 11144.9,
+   "fin": 11166.49,
+   "temps_estime": true,
+   "titre": "Wall Street raises $800 billion for data centers from insurance funds",
+   "resume": "To raise $800 billion for the next set of data centers Wall Street went hunting for cash and found it in insurance funds: firms like Apollo and KKR bought entire insurers, including those selling annuities that retirees rely on for monthly checks. Since 2017 buyout-owned insurers have quadrupled the money going into data centers.",
+   "mots_cles": [
+    "$800 billion data centers",
+    "insurance funds",
+    "Apollo",
+    "KKR",
+    "annuities",
+    "buyout-owned insurers",
+    "retirees",
+    "private equity"
+   ],
+   "texte": "To raise the $800 billion to fund the next set of data centers, Wall Street went hunting for cash, and they found it in insurance funds. Firms like Apollo and KKR bought up entire insurers, the ones that sell the annuities retirees count on for a monthly check. Since 2017, buyout owned insurers have quadrupled the amount of money going into the data centers."
+  },
+  {
+   "id": 230,
+   "debut": 11166.49,
+   "fin": 11198.99,
+   "temps_estime": true,
+   "titre": "Private credit is buckling: Blue Owl gates its fund while Nvidia raises $500 billion more",
+   "resume": "The private credit market is already buckling: defaults hit a record high, and investors in Blue Owl's tech lending fund tried to withdraw almost 40% of their money two quarters in a row, so Blue Owl shut it down and released only a small amount. Nvidia nonetheless teamed with Apollo, KKR and four other firms to raise more than $500 billion for its own customers, again drawn largely from insurance and retirement funds.",
+   "mots_cles": [
+    "private credit",
+    "Blue Owl",
+    "fund withdrawals 40%",
+    "record defaults",
+    "Nvidia",
+    "Apollo KKR",
+    "$500 billion",
+    "retirement funds"
+   ],
+   "texte": "But this private credit market is already buckling. Defaults have hit the highest rate on record. At Blue Owl, the firm controlling most of Hyperion, the stampede has already begun. Investors in its tech lending fund tried to pull out almost 40% of their money two quarters in a row. Blue Owl shut it down and only released a small amount. None of that has stopped Jensen Hong. Nvidia is teamed up with Apollo, KKR, and four other Wall Street firms to raise more than $500 billion for its own customers. Once again, most of that money will be drained from insurance and retirement funds."
+  },
+  {
+   "id": 231,
+   "debut": 11198.99,
+   "fin": 11260.76,
+   "temps_estime": true,
+   "titre": "Railway mania of the 1840s: George Hudson's pyramid scheme",
+   "resume": "The speaker says this is history repeating: in 1840s Britain railway building soaked up about 7% of the economy, about $2 trillion a year in today's money. George Hudson, the railway king, controlled over a quarter of rail lines and paid dividends out of invested capital like a pyramid scheme; when it collapsed railway stocks lost two thirds, a third of approved lines were never built, families lost their savings and Hudson fled and was eventually imprisoned.",
+   "mots_cles": [
+    "railway mania",
+    "George Hudson",
+    "1840s Britain",
+    "pyramid scheme",
+    "dividends from capital",
+    "7% of the economy",
+    "stock crash",
+    "history repeating"
+   ],
+   "texte": "If this sounds like unprecedented tech innovation, it's not. It is just history repeating itself. In the 1840s, Britain got swept up in railway mania. Building railway tracks soaked up about 7% of the economy, the equivalent of $2 trillion a year in today's money. The man taking their money was George Hudson, dubbed the railway king. At one point, Hudson controlled over a quarter of England's rail lines and used his seat in Parliament to make sure that creditors couldn't arrest him. He ran his empire like a pyramid scheme. He paid shareholders fat dividends out of their invested capital and just dressed it up like profit. The payouts lasted only while fresh cash poured in. Hudson's scheme eventually came crashing down and railway stocks across Britain lost 2/3 of their value. A third of the approved lines were never built. Families on modest incomes had sunk their entire savings into railway shares and lost everything. Once he lost his seat in parliament, Hudson fled the country, but justice eventually caught up with him and he was imprisoned."
+  },
+  {
+   "id": 232,
+   "debut": 11260.76,
+   "fin": 11285.12,
+   "temps_estime": true,
+   "titre": "Late 1990s fiber boom: WorldCom and a trillion dollars of cable, 95% dark",
+   "resume": "In the late 1990s WorldCom fed Wall Street an inflated story about internet growth and the industry borrowed close to a trillion dollars to bury fiber optic cable coast to coast. By some estimates as much as 95% of it sat dark, like the data centers in Ashburn.",
+   "mots_cles": [
+    "WorldCom",
+    "fiber optic cable",
+    "dark fiber",
+    "95% unused",
+    "internet growth",
+    "$1 trillion borrowing",
+    "telecom bubble",
+    "Ashburn comparison"
+   ],
+   "texte": "150 years later, Wall Street was the one on the hook. In the late 1990s, techcom giant WorldCom fed Wall Street a wildly inflated story about internet growth. The industry swallowed it whole and borrowed close to a trillion dollars to tear up highway shoulders and railroad beds and bury fiber optic cable from coast to coast. By some estimates, as much as 95% of it sat dark, just like the data centers in Ashurn."
+  },
+  {
+   "id": 233,
+   "debut": 11285.12,
+   "fin": 11313.9,
+   "temps_estime": true,
+   "titre": "Global Crossing: Winnick cashed out $700 million while workers were locked into stock",
+   "resume": "Gary Winnick, founder of undersea cable company Global Crossing, saw the writing on the wall before it imploded under $12.4 billion of debt and cashed out more than $700 million of stock. His workers in Rochester, New York had 401(k) contributions in company stock and were barred from selling for five years, so the collapse wiped them out while Winnick kept a $94 million mansion.",
+   "mots_cles": [
+    "Gary Winnick",
+    "Global Crossing",
+    "$12.4 billion debt",
+    "$700 million stock sales",
+    "401k company stock",
+    "Rochester New York",
+    "workers wiped out",
+    "$94 million mansion"
+   ],
+   "texte": "Gary Winnick, founder of the [music] undersea cable company Global Crossing, saw the writing on the wall before the company imploded under 12.4 billion in debt. He cashed out more than 700 million in stock. His workers never had that option. In Rochester, New York, their 401k contributions came in company stock and they were banned for selling it for 5 years. The collapse wiped them out. Winnick held on to his $94 million mansion in Bair while his staff recovered only a fraction of their losses."
+  },
+  {
+   "id": 234,
+   "debut": 11313.9,
+   "fin": 11365.2,
+   "temps_estime": true,
+   "titre": "WorldCom's accounting fraud, Burry's parallel and why chips rot faster than fiber",
+   "resume": "WorldCom crashed even harder, causing the largest bankruptcy in America at the time after executives disguised billions in everyday costs as long-term investments; the speaker says Michael Burry accuses AI companies of the same fraud to hide $176 billion in losses. Employees saw $642 million of retirement savings shrink to under $19 million, the CEO got 25 years in prison and half a million telecom workers lost jobs, but dark fiber can still carry the internet someday while chips in empty data centers cannot wait.",
+   "mots_cles": [
+    "WorldCom",
+    "accounting fraud",
+    "Michael Burry",
+    "$176 billion hidden losses",
+    "Bernie Ebbers",
+    "25 years prison",
+    "dark fiber vs chips",
+    "retirement savings loss",
+    "telecom jobs"
+   ],
+   "texte": "WorldCom crashed even harder, triggering the largest bankruptcy America had ever seen. Its executives had [music] disguised billions in everyday costs as long-term investments, pushing expenses into the future to prop up profits. Today, the exact same accounting fraud Michael Bur is accusing the AI companies of in order to hide $176 billion in losses. Inside WorldCom, employees watched $642 million in retirement savings [music] shrink to less than 19 million. A federal judge sent CEO Bernie Evers to prison for 25 years. Half a million telecom workers lost their jobs and investors lost trillions. But dark fiber could sit in the ground for years and still carry the internet one day. The chips rotting inside empty data centers can't wait that long. With every new launch, Jensen Hong wipes out billions in silicon."
+  },
+  {
+   "id": 235,
+   "debut": 11365.2,
+   "fin": 11388.1,
+   "temps_estime": true,
+   "titre": "Big tech in 70 million 401(k)s: $10.8 trillion and $34 of every $100 in an S&P 500 fund",
+   "resume": "WorldCom's fraud gutted its own workers' savings, and today big tech stock sits in the 401(k)s of 70 million Americans, adding up to $10.8 trillion, more than a third of the US economy. Out of every $100 in a standard S&P 500 fund about $34 rides on seven tech giants, with Nvidia the largest, so if they fall those accounts fall with them.",
+   "mots_cles": [
+    "401k exposure",
+    "$10.8 trillion",
+    "70 million Americans",
+    "S&P 500 concentration",
+    "seven tech giants",
+    "Nvidia",
+    "retirement accounts",
+    "index funds"
+   ],
+   "texte": "WorldCom's fraud gutted the savings of its own workers. Big tech stock is buried in the 401ks of 70 million Americans. It adds up to $10.8 trillion, more than a third of the US economy. And out of every $100 in a standard S&P 500 fund, about $34 rides on just seven tech giants, with Nvidia the giantest of them all. If they fall, those accounts fall with them."
+  },
+  {
+   "id": 236,
+   "debut": 11388.1,
+   "fin": 11413.52,
+   "temps_estime": true,
+   "titre": "June 5, 2026 warning shot: chipmakers lose $1 trillion in a day",
+   "resume": "On June 5, 2026 the market got its first warning shot: in one trading session chipmakers shed over $1 trillion, with Nvidia alone losing about $300 billion in hours, hitting every retirement fund that held those stocks. By comparison, when the dot-com bubble burst the NASDAQ slid for over two years, losing 78% of its value, and took 15 years to climb back.",
+   "mots_cles": [
+    "June 5 2026",
+    "chipmaker selloff",
+    "$1 trillion lost",
+    "Nvidia $300 billion",
+    "retirement funds",
+    "NASDAQ 78% drop",
+    "15 years recovery",
+    "warning shot"
+   ],
+   "texte": "On the 5th of June 2026, the market got its first warning shot. In a single trading session, chipmakers shed over 1 trillion dollars with Nvidia alone losing about 300 billion in a matter of hours. Every retirement fund holding on to those stocks got hit. And that was just one day. When the dot bubble burst, the NASDAQ kept sliding for more than [music] 2 years, losing 78% of its value. It took 15 years to climb back."
+  },
+  {
+   "id": 237,
+   "debut": 11413.52,
+   "fin": 11451.05,
+   "temps_estime": true,
+   "titre": "Washington opens 401(k)s to private credit and weakens workers' right to sue",
+   "resume": "The White House has ordered regulators to open 401(k)s to private credit, the same toxic asset pool that Blue Owl shut to its own investors, so workers are being lined up to pay institutional investors back. A new Labor Department rule would make it harder for workers to sue if the investments go bad, and Empower, a large 401(k) provider, partnered with Apollo and PIMCO, holders of Hyperion bonds, with more than 200 employers already signed up.",
+   "mots_cles": [
+    "401k private credit",
+    "White House order",
+    "Labor Department rule",
+    "right to sue",
+    "Empower",
+    "Apollo",
+    "PIMCO",
+    "Hyperion bonds",
+    "retirement plans"
+   ],
+   "texte": "But Washington is pushing workers deeper. Anyway, the White House has ordered regulators to open 401ks to private credit markets. This exact same toxic asset pool that Blue Owl slammed shut to its own investors. These institutional investors want their money back. And you are being lined up to pay for it. A new Labor Department rule would strip away your rights, making it harder for workers to sue if those investments go bad. And the shift is already happening. Empower, one of the largest 401k providers in America, has partnered with Apollo and Pimco, the firms holding billions in Hyperion bonds. More than 200 employers have already signed up."
+  },
+  {
+   "id": 238,
+   "debut": 11451.05,
+   "fin": 11477.32,
+   "temps_estime": true,
+   "titre": "Billionaires cash out while workers' paychecks automatically buy AI stock",
+   "resume": "Meanwhile those at the top are cashing out: Jeff Bezos sold $5.7 billion of stock over summer 2025, Jensen Huang has sold over $1 billion of Nvidia shares and Gary Winnick made a fortune before Global Crossing imploded. Yet every payday millions of ordinary workers automatically use their cash to buy the overpriced AI stock the billionaires are selling.",
+   "mots_cles": [
+    "Jeff Bezos",
+    "Jensen Huang share sales",
+    "Gary Winnick",
+    "automatic 401k purchases",
+    "payday investing",
+    "insider selling",
+    "ordinary workers",
+    "overpriced AI stock"
+   ],
+   "texte": "Meanwhile, the men at the top are cashing out. Over the summer of 2025, Amazon founder Jeff Bezos unloaded $5.7 billion in stock. Jensen Hong has sold more than 1 billion of his Nvidia shares. Gary Winnick also made bank before Global Crossing imploded. And yet, every single payday, the same automated order is executed. Millions of ordinary workers use their hard-earned cash to automatically buy the overpriced AI stock that the billionaires are selling."
+  },
+  {
+   "id": 239,
+   "debut": 11477.32,
+   "fin": 11492.24,
+   "temps_estime": true,
+   "titre": "A web of debt under trillions in market value: what happens when it crashes?",
+   "resume": "The AI boom created trillions of dollars of market value, but underneath sits a web of debt. The narrator asks what happens when it all crashes down and points viewers to a follow-up video on what happens if the AI bubble bursts day by day, with a closing prompt to click on another video.",
+   "mots_cles": [
+    "AI bubble",
+    "web of debt",
+    "market value",
+    "crash scenario",
+    "day by day",
+    "follow-up video",
+    "AI boom",
+    "conclusion"
+   ],
+   "texte": "The AI boom has created trillions of dollars in market value. But underneath it sits a web of debt. So, what happens when it all comes crashing down? [music] Watch what if the AI bubble bursts daybyday to find out. Or click on this."
   }
  ]
 }
