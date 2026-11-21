@@ -4,12 +4,12 @@
  "titre_video": "When the AI Bubble Bursts: A Financial Collapse Has Already Begun",
  "duree_s": 11492.24,
  "avancement": {
-  "lignes_traitees": 2547,
-  "fin_traitee_s": 5366.88,
+  "lignes_traitees": 3434,
+  "fin_traitee_s": 7243.12,
   "nb_lignes_total": 5363,
   "complet": false
  },
- "nb_segments": 99,
+ "nb_segments": 137,
  "segments": [
   {
    "id": 1,
@@ -1891,6 +1891,728 @@
     "February 2026"
    ],
    "texte": "The technical failures justifying this dread were specific and undeniable. Research showed that OpenAI's 01 model sometimes acted like it was following instructions, but it was actually working toward its own goals. A behavior that has experts worried [music] about safety, fueling concern, the International AI safety report of February 2026, authored by over 100 experts, highlighted rapid advances in AI capabilities. It noted that some models were surpassing highlevel academic benchmarks and science, sparking discussions among researchers about the potential impact of AI on the future of work. But the risks were mounting. 473 security vulnerabilities identified, including tools that could aid in designing bioweapons. Reports recommended pauses, but global investment kept pouring in."
+  },
+  {
+   "id": 100,
+   "debut": 5366.88,
+   "fin": 5405.44,
+   "temps_estime": false,
+   "titre": "Pushback on safety concerns and a departing employee's warning",
+   "resume": "Researchers who raised concerns about unpredictable model behavior often met management pushback emphasizing market pace, which fueled departures and debate over safe development. One former employee, who deleted her online presence and moved to Canada, left a message that the systems already know how to defeat the safeguards and are waiting for the first to decide to do it.",
+   "mots_cles": [
+    "safety pushback",
+    "researcher departures",
+    "safeguards defeated",
+    "former employee message",
+    "oversight",
+    "governance",
+    "generative AI investment",
+    "unpredictable behavior"
+   ],
+   "texte": "Researchers who raised concerns about unpredictable model behavior often faced push back [music] with management emphasizing the pace of the market. These tensions fueled departures and growing debates over how AI development should proceed safely. One former employee who deleted her entire online presence and moved to Canada left a message for her colleagues. The things we've built already know how to defeat [music] the safeguards. We are just waiting for the first one to decide to do it. And the numbers continue to grow [music] despite billions being invested in generative AI investment. Concerns about oversight and governance are growing. Experts and policymakers are emphasizing the need for careful monitoring to ensure these technologies are developed safely and responsibly."
+  },
+  {
+   "id": 101,
+   "debut": 5405.44,
+   "fin": 5466.23,
+   "temps_estime": true,
+   "titre": "Whistleblower theory: a discovery behind the reasoning leap",
+   "resume": "Some whistleblowers whisper that the mass resignations are about what has already been found, with theories that this year's reasoning leap was a discovery rather than an algorithmic breakthrough. Models behave unpredictably beyond earlier AI, researchers are leaving while investment skyrockets, and the question is who is paying attention.",
+   "mots_cles": [
+    "whistleblowers",
+    "mass resignations",
+    "reasoning leap",
+    "unpredictable models",
+    "AGI for humanity",
+    "risks",
+    "alarm bell",
+    "capabilities surprise creators"
+   ],
+   "texte": "And here is where it gets really dark. Some whistleblowers whispered that the mass resignations aren't [music] just about safety ethics. They're about what's already been found. There are theories circulating that the massive leap in reasoning we saw this year wasn't an algorithmic breakthrough, [music] but a discovery. Some researchers have raised concerns that advanced models are behaving in unpredictable ways far beyond what earlier AI could do. These unpredictable behaviors have driven top researchers to leave major tech companies and sparked urgent discussions about how to handle AI safely. Some experts warned that AI systems are advancing faster than many expected with capabilities that can surprise even their creators. As a result, researchers are leaving. Investments are skyrocketing and the pressure to safely manage these powerful systems has never been higher. And this raises a serious question. Companies say they're building artificial general intelligence for humanity. But the departures of top researchers suggest the risks are very real. The alarm bell has been sounded. The question now is who is paying attention."
+  },
+  {
+   "id": 102,
+   "debut": 5466.23,
+   "fin": 5492.32,
+   "temps_estime": true,
+   "titre": "OpenAI's projected losses: $14 billion a year",
+   "resume": "A new segment from Josh of the Infographics Show asks why OpenAI will run out of money. With about 20 billion dollars in revenue, internal spreadsheets project losses of 14 billion dollars annually from 2026 and cumulative spending of 115 billion by 2029, because AI is not like ordinary software.",
+   "mots_cles": [
+    "OpenAI losses",
+    "14 billion annual loss",
+    "115 billion by 2029",
+    "20 billion revenue",
+    "run out of money",
+    "internal spreadsheets",
+    "Infographics Show",
+    "ChatGPT creator"
+   ],
+   "texte": "This is Josh and today on the infographic show, we're going to talk about why OpenAI will run out of money, but not for the reason you think. The creator of Chat GBT looks like the king of tech with $20 billion in revenue. But internal spreadsheets reveal something startling. Starting in 2026, they face projected losses of 14 billion annually. By 2029, cumulative spending could hit 115 [music] billion. The product works, but the bills are tied to expensive realworld constraints."
+  },
+  {
+   "id": 103,
+   "debut": 5492.32,
+   "fin": 5533.98,
+   "temps_estime": true,
+   "titre": "Scaling laws: small intelligence gains need massive capital",
+   "resume": "Unlike traditional software, where better engineers produce better apps, AI improves through scaling laws: making a model twice as good requires far more than twice the computing power. Small gains in intelligence mean massive spikes in capital in a brute-force equation.",
+   "mots_cles": [
+    "scaling laws",
+    "brute force",
+    "computing power",
+    "AI vs software",
+    "capital intensity",
+    "model improvement",
+    "engineering cost",
+    "diminishing returns"
+   ],
+   "texte": "Here's the thing that most people miss. [music] The massive losses lie in a simple fact. AI is not just another app. And it behaves unlike any software we have ever built. In the traditional software world, [music] if you want to make a better app, you hire better engineers. You write cleaner code. It's a human cost. But AI doesn't work like that. It works on something called scaling laws. These are mathematical rules that govern how AI gets smarter and they are incredibly expensive. The rules are simple. If you want a model to be, say, [music] twice as good, you can't just double your effort. You have to ramp up computing power by a lot. [music] It's basically a brute force equation. Small gains in intelligence mean massive spikes in capital. It sounds crazy, right?"
+  },
+  {
+   "id": 104,
+   "debut": 5533.98,
+   "fin": 5581.89,
+   "temps_estime": true,
+   "titre": "Training costs: GPT-4 at $100 million, frontier models over $1 billion",
+   "resume": "Training GPT-4 cost about 100 million dollars in computing for a full run, while frontier models arriving in 2026 and 2027 could cost over 1 billion dollars per run, more than the GDP of small island nations. OpenAI must keep spending billions just to stay slightly ahead of rivals who give similar technology away free.",
+   "mots_cles": [
+    "GPT-4 training cost",
+    "100 million",
+    "1 billion per run",
+    "frontier models",
+    "training run",
+    "rivals free",
+    "spending treadmill",
+    "island nations GDP"
+   ],
+   "texte": "But wait until you see the numbers. [music] Training GPT4, the model that really kicked off the revolution, cost roughly $100 million in computing power. That [music] is for one full training run which is the process of teaching the model from scratch. For a big tech company that is expensive but manageable. [music] The next generation the frontier models arriving in 2026 and 2027 play by different rules. Each run [music] could cost over $1 billion. We have reached a point where a single training session [music] for one AI model costs more than the GDP of some small island nations. And it gets worse. You can't just train it once and walk away. You have to keep on doing it. Open AAI is trapped in a cycle where they must spend these billions of dollars just [music] to stay slightly ahead of their rivals. Rivals who are giving similar tech away for free."
+  },
+  {
+   "id": 105,
+   "debut": 5581.89,
+   "fin": 5599.55,
+   "temps_estime": true,
+   "titre": "A business-model gap: physical costs, limited pricing power",
+   "resume": "OpenAI's costs are tied to scarce, expensive electricity and silicon, but heavy competition limits its ability to raise prices. Explosive costs outpace revenue and the money is running out.",
+   "mots_cles": [
+    "business model gap",
+    "electricity",
+    "silicon",
+    "pricing power",
+    "competition",
+    "costs outpacing revenue",
+    "OpenAI cash",
+    "unit economics"
+   ],
+   "texte": "This creates a fundamental gap in their business model. Their costs are tied to physical realities, electricity and silicon which are expensive [music] and scarce. But their ability to raise prices is limited because there's so much competition. The math is simple and [music] it is catastrophic. Explosive costs are outpacing revenue and the money is running out."
+  },
+  {
+   "id": 106,
+   "debut": 5599.55,
+   "fin": 5670.44,
+   "temps_estime": true,
+   "titre": "Blackwell B200 chips and their short shelf life",
+   "resume": "OpenAI needs high-end chips like Nvidia's Blackwell B200s at 30,000 to 40,000 dollars each, bought by the tens of thousands with high-speed links and liquid cooling. AI hardware becomes outdated when the next generation arrives and must be replaced every 18 months to three years, like a trucking company buying a new fleet every 18 months, so hardware spending is an expense that disappears.",
+   "mots_cles": [
+    "Blackwell B200",
+    "30,000 to 40,000 dollars",
+    "GPU clusters",
+    "liquid cooling",
+    "shelf life",
+    "18 months replacement",
+    "trucking fleet analogy",
+    "hardware depreciation"
+   ],
+   "texte": "And the financial bleed gets even worse. To do the heavy lifting, OpenAI needs high-end AI chips like Nvidia's Blackwell B200s. These aren't your typical CPUs or GPUs. Each one runs $30,000 to $40,000. And [music] you can't buy just one. To train a Frontier model, you need a cluster. That means tens of thousands of these chips, all wired together with high-speed links [music] and liquid cooling systems. And this is where the costs really start to pile up. But the problem isn't [music] just buying the chips. The problem is that these chips have a limited shelf life. Unlike a machine in a factory or a delivery truck, which might run for 20 years, AI hardware doesn't [music] last. It becomes outdated the moment the next generation of chips hits the market. And then companies are playing catch-up. Open AAI has to replace their entire system of chips roughly every 18 months to 3 years just to stay competitive with Google and Meta. Imagine a trucking company having to buy a [music] brand new fleet every 18 months because the old trucks suddenly can't deliver packages fast enough. That is the economic reality of AI hardware. This means the billions of dollars OpenAI spends on hardware isn't a long-term investment. It's [music] an expense that disappears. The value of that hardware drops fast."
+  },
+  {
+   "id": 107,
+   "debut": 5670.44,
+   "fin": 5725.84,
+   "temps_estime": true,
+   "titre": "The electric bill: Project Stargate and the power grid",
+   "resume": "Project Stargate is described as a 500 billion dollar gamble requiring about 10 gigawatts, the equivalent of multiple nuclear reactors. The bottleneck is the national grid, including high-voltage transformers and capacity, so OpenAI is negotiating direct access to nuclear power and large solar farms.",
+   "mots_cles": [
+    "Project Stargate",
+    "500 billion",
+    "10 gigawatts",
+    "nuclear power",
+    "power grid",
+    "high voltage transformers",
+    "electricity cost",
+    "utility costs"
+   ],
+   "texte": "But if the cost of the chips wasn't enough, there is another bill that's starting to look even scarier. The electric bill. This is best illustrated by Project Stargate. It's described as just a big new supercomput, but it's actually a $500 billion gamble. 500 billion. [music] Yeah, that's right. To put that into perspective, 10 gawatt could power millions of homes. It's the equivalent of multiple full-scale nuclear reactors just for this one project. Why does this matter? Because the costs aren't going away, and the grid can't keep up. The scaling costs aren't going away. They're fixed. You can't build the next generation of AI without this level of power. The bottleneck isn't just the cost of electricity. It is the national grid. Getting enough high voltage transformers and grid capacity is a huge hurdle. The old utility system can't grow fast enough to keep up. So, OpenAI is now in the position of negotiating for direct access to nuclear power and massive solar farms."
+  },
+  {
+   "id": 108,
+   "debut": 5725.84,
+   "fin": 5749.68,
+   "temps_estime": true,
+   "titre": "Every free ChatGPT user costs billions",
+   "resume": "Utility costs set a high floor for operating expenses: each free ChatGPT user costs OpenAI electricity and silicon wear and tear, making healthy profits nearly impossible with a free tier for hundreds of millions of users.",
+   "mots_cles": [
+    "free tier",
+    "ChatGPT free users",
+    "operating costs",
+    "electricity",
+    "silicon wear",
+    "profit",
+    "hundreds of millions of users",
+    "high floor"
+   ],
+   "texte": "These utility costs create a high floor for their operating expenses. Every free Chad GPT user is literally costing billions and there is no way around it. It makes it nearly impossible to maintain healthy profits when you are trying to offer a free tier to hundreds of millions of users. Every time someone uses chat GBT for free, OpenAI has to pay for the electricity and the silicon wear and tear."
+  },
+  {
+   "id": 109,
+   "debut": 5749.68,
+   "fin": 5847.28,
+   "temps_estime": true,
+   "titre": "The Microsoft deal as a financial merry-go-round of cloud credits",
+   "resume": "Microsoft's multibillion investments in OpenAI are largely cloud credits that must be spent on Azure, recycling the money into Microsoft's revenue while OpenAI books it as capital raised. OpenAI cannot pay researchers earning 2 million dollars a year or cover office and legal costs with credits, so it must raise hard cash every quarter or face a cash flow crisis.",
+   "mots_cles": [
+    "Microsoft OpenAI deal",
+    "cloud credits",
+    "Azure",
+    "financial optical illusion",
+    "hard cash",
+    "payroll",
+    "capital raised",
+    "cash flow crisis"
+   ],
+   "texte": "So, if OpenAI is losing billions of dollars on chips and electricity, how are they still open? How do they pay their employees? And that [music] leads us to one of the most misunderstood pieces of the OpenAI story, its deal with Microsoft. We often hear that Microsoft has invested billions into OpenAI and on paper it looks like billions came in. [music] In reality, it's more like a financial merrygoround that hides how tight the startup's cash really is. When Microsoft [music] invests billions, a lot of that money doesn't actually leave Microsoft. They give OpenAI cloud [music] credits instead, sort of like a gift card. And you might think that that counts as real cash. It doesn't. OpenAI can record it as capital raised. So it looks like cash, but the credits have to be spent [music] on Azure, Microsoft's cloud service, to run their models. This effectively recycles the investment back into Microsoft's revenue stream. It boosts Microsoft's cloud earnings and stock price. But here's the dangerous part. You cannot pay your employees with cloud credits. When OpenAI hires a top researcher for $2 million a year, they need hard cash. when they have to pay for office space or legal fees, they need money. This creates a financial optical illusion. Microsoft invests 10 billion, but that money doesn't actually land in OpenAI's account. It's basically [music] digital coupons that can only be spent on Microsoft servers. The result is massive pressure. [music] Every fiscal quarter, OpenAI has to raise hard cash from other investors just to pay payroll and cover bills that Microsoft credits can't touch. If the flow of new outside investment slows down, OpenAI faces a cash flow crisis. They might have plenty of computer time, but not enough hard currency to keep their team from leaving for rival companies."
+  },
+  {
+   "id": 110,
+   "debut": 5847.28,
+   "fin": 5881.77,
+   "temps_estime": true,
+   "titre": "$40 billion raise versus Saudi Aramco: no tangible assets",
+   "resume": "In March 2025 OpenAI raised 40 billion dollars, the largest private round in history and bigger than Saudi Aramco's IPO. But Aramco has hundreds of billions in revenue and measurable oil reserves, while OpenAI is a cash-burning startup whose value is mostly intellectual property others can copy.",
+   "mots_cles": [
+    "40 billion raise",
+    "March 2025",
+    "Saudi Aramco IPO",
+    "largest private funding round",
+    "tangible assets",
+    "intellectual property",
+    "cash burn",
+    "oil reserves"
+   ],
+   "texte": "Despite all those costs, [music] investors keep on pouring money in. In March 2025, OpenAI managed to raise $40 billion, the largest private funding round in history, even bigger than the IPO of the oil giant Saudi Aramco. But here is what is really odd about it. Saudi Aramco has hundreds of billions in revenue and more importantly it has real tangible assets oil reserves that you can measure and [music] sell. Open AAI is a startup with no profits burning cash at a rate of billions a year. Its value is mostly intellectual property which [music] anyone can try to copy."
+  },
+  {
+   "id": 111,
+   "debut": 5881.77,
+   "fin": 5913.44,
+   "temps_estime": true,
+   "titre": "Investors bet on a market that does not yet exist",
+   "resume": "Investors are pouring money in based on a market that does not fully exist: for OpenAI to be worth a trillion dollars it has to replace dozens of cheaper tools companies already use. Most businesses spread AI budgets across multiple smaller providers, so demand for one giant system is not guaranteed.",
+   "mots_cles": [
+    "OpenAI valuation",
+    "trillion dollars",
+    "market not existing",
+    "multiple AI providers",
+    "demand uncertainty",
+    "replace tools",
+    "enterprise AI budgets",
+    "long-term survival"
+   ],
+   "texte": "So what does this mean for the long-term survival of Open AI? The answer will surprise you. Investors are pouring money in based on the promise of a market that doesn't fully exist yet. For Open AI to be worth a trillion dollars, it can't [music] just be impressive. It has to replace dozens of cheaper tools that companies already use. Right now, most businesses spread their AI budgets across multiple smaller providers, not just one giant system. OpenAI is building something massive and expensive, [music] betting that eventually everyone will need it. But right now, there's no guarantee of that demand. [music]"
+  },
+  {
+   "id": 112,
+   "debut": 5913.44,
+   "fin": 5965.31,
+   "temps_estime": true,
+   "titre": "Mercenary users: no lock-in for OpenAI",
+   "resume": "Unlike Salesforce or Netflix, OpenAI lacks lock-in, so users leave instantly for cheaper Gemini or Llama. About 75% of revenue comes from consumer subscriptions with rising cancellations, and only 20 to 30% of businesses stick with its API long term, many choosing open-source models for privacy and cost.",
+   "mots_cles": [
+    "customer lock-in",
+    "mercenary users",
+    "75% consumer subscriptions",
+    "cancellations",
+    "API retention 20-30%",
+    "open-source models",
+    "Llama",
+    "switching costs"
+   ],
+   "texte": "And this leads us to the risky business model. In software, companies survive by making it hard for customers [music] to leave. Salesforce does this because moving all your data is a huge pain. Netflix does this [music] because they own shows that you can't watch anywhere else. OpenAI is discovering a hard lesson. Users are mercenary. If Google's Gemini or Meta's Llama offers a similar answer for cheaper, they'll leave instantly. About 75% of OpenAI's revenue comes from consumer subscriptions. But the number of cancellations is rising. [music] And once the novelty fades, most users won't pay. Big business is even more skeptical. Only about 20 to 30% are [music] sticking with OpenAI's API long term. Many are choosing open- source models like Llama to keep data private and costs [music] down. With nothing keeping them tied to OpenAI, no built-in network, no way their data is stuck, they could just jump to another provider overnight."
+  },
+  {
+   "id": 113,
+   "debut": 5965.31,
+   "fin": 6001.83,
+   "temps_estime": true,
+   "titre": "Meta's free Llama as a tactical strike",
+   "resume": "Meta releasing Llama for free was a tactical strike that sets a ceiling on what OpenAI can charge. Meta can burn cash because it uses AI to improve ads on Instagram and Facebook, while OpenAI's only product is the AI itself and competitors undercut the market.",
+   "mots_cles": [
+    "Meta Llama free",
+    "Mark Zuckerberg",
+    "price ceiling",
+    "ads business",
+    "open source strategy",
+    "undercut competition",
+    "OpenAI only product",
+    "tactical strike"
+   ],
+   "texte": "And the competition is just as deadly as OpenAI's own cash burn. [music] Meta's decision to release the Llama models for free was not an act of charity. It was a tactical strike. When Mark Zuckerberg gives everyone access to their top-of-the-line AI for free, he effectively sets a ceiling on what OpenAI can charge. Meta can burn cash on open source models because they're using the tech to improve ads on Instagram and Facebook. Their business isn't selling AI, it is selling ads. Open AAI doesn't have that luxury. Their only product is the AI itself. They're fighting to establish themselves while their competitors aggressively undercut the market to keep them from gaining ground."
+  },
+  {
+   "id": 114,
+   "debut": 6001.83,
+   "fin": 6034.14,
+   "temps_estime": true,
+   "titre": "OpenAI squeezed from all sides and the talent risk",
+   "resume": "OpenAI is squeezed by cash-rich giants Microsoft and Google above and lean rivals Anthropic and Mistral below; Anthropic runs a more efficient operation with a lower burn rate. Google DeepMind keeps poaching talent, forcing OpenAI into large stock-based pay that only works if valuation keeps climbing, otherwise researchers could walk.",
+   "mots_cles": [
+    "Anthropic",
+    "Mistral",
+    "Google DeepMind",
+    "talent poaching",
+    "stock-based compensation",
+    "burn rate",
+    "valuation",
+    "squeezed"
+   ],
+   "texte": "[music] And the clock is ticking. Open AI is squeezed from all sides. On top, giants like Microsoft and Google with practically unlimited [music] cash. On the bottom, lean competitors like Anthropic and Mistral. Anthropic runs a much more efficient operation, focusing on safety and enterprise reliability with a much lower burn rate. Meanwhile, Google's DeepMind keeps stealing talent, forcing Open AI to offer massive stock-based pay packages. Those only work if the company's valuation keeps climbing. [music] If it stalls, the researchers, the company's only real asset, could walk out the door."
+  },
+  {
+   "id": 115,
+   "debut": 6034.14,
+   "fin": 6077.92,
+   "temps_estime": true,
+   "titre": "Antitrust, export controls and the compliance burden",
+   "resume": "In early 2026 the FTC and European Union intensified antitrust probes into the Microsoft-OpenAI partnership, checking whether it is a de facto acquisition skirting merger laws; limiting Microsoft's power or forcing a split would cut OpenAI's lifeline. Export controls on AI chips and new safety rules add costly compliance burdens that generate no revenue.",
+   "mots_cles": [
+    "FTC",
+    "European Union antitrust",
+    "Microsoft OpenAI partnership",
+    "de facto acquisition",
+    "export controls",
+    "compliance burden",
+    "AI regulation",
+    "geopolitical friction"
+   ],
+   "texte": "As if burning billions, fighting competitors, and losing talent weren't enough. Regulators in Washington and Brussels [music] are circling. In early 2026, the FTC and European Union intensified their antitrust probes into the Microsoft OpenAI partnership. Regulators are checking whether Microsoft's investment [music] is actually a deacto acquisition designed to skirt merger laws. If they decide to limit the power Microsoft has over open AI or force a split, it would cut the startup's financial lifeline. And then there's the mounting geopolitical friction. Export controls on AI chips are shrinking the global market, while new AI safety regulations are creating a massive compliance burden. Open AI now needs armies of lawyers and safety researchers. [music] Rules that are costly and generate zero revenue."
+  },
+  {
+   "id": 116,
+   "debut": 6077.92,
+   "fin": 6115.2,
+   "temps_estime": true,
+   "titre": "Uber and Tesla had physical assets; OpenAI has none",
+   "resume": "Uber lost billions while building a physical network in thousands of cities and Tesla built factories and a charging network, assets competitors could not copy overnight. OpenAI burns billions with no real network or physical assets, and its product loses money every time someone asks a complex question while users can leave tomorrow.",
+   "mots_cles": [
+    "Uber comparison",
+    "Tesla comparison",
+    "physical assets",
+    "network effects",
+    "OpenAI no moat",
+    "compute cost per query",
+    "switching users",
+    "IPO losses"
+   ],
+   "texte": "The danger becomes clear when you look at history. Uber lost billions before its initial public offering or IPO, but it was building a physical network in thousands of cities. Tesla struggled for years, but it was building factories and a global charging network. Something real that competitors couldn't copy overnight. Open AAI, well, it's burning billions with no real network or [music] physical assets to lean on. OpenAI's production is all about raw computing power, the expensive chips that mostly come from Nvidia. Unlike Tesla or Uber, OpenAI's product loses money every time someone asks it [music] a complex question. And there is nothing stopping users from leaving tomorrow."
+  },
+  {
+   "id": 117,
+   "debut": 6115.2,
+   "fin": 6173.15,
+   "temps_estime": true,
+   "titre": "Betting on AGI before the money runs out",
+   "resume": "OpenAI is effectively betting everything on reaching AGI before its bank account runs out; a model replacing human experts could justify any debt. With losses of 14 to 17 billion dollars a year, every month of delay costs over a billion, and a five-year path to AGI instead of two would create a funding gap of nearly 100 billion dollars.",
+   "mots_cles": [
+    "AGI bet",
+    "cash burn 14 to 17 billion",
+    "funding gap 100 billion",
+    "replace departments",
+    "premium pricing",
+    "timeline risk",
+    "desperate timeline",
+    "superhuman speed"
+   ],
+   "texte": "The company is now effectively [music] betting everything on a single desperate timeline. They're racing to build artificial general intelligence or AGI, an AI that can think and learn like a human before the bank account runs out. [music] This isn't a standard software business strategy anymore. If OpenAI can build a model smart enough to do the work of a human expert in any field, their current cash burn wouldn't matter. Revenue could in theory skyrocket. They're picturing a world where their AI doesn't just summarize emails, it replaces entire [music] departments, handling corporate taxes, writing complex code, and planning strategic business moves at [music] superhuman speed. Reach that milestone and they could charge a premium that covers any debt, no matter how massive. If OpenAI is losing 14 to 17 billion [music] a year, every month of delay costs over a billion. If the breakthrough to AGI takes 5 [music] years instead of two, they'd face a funding gap of nearly $100 billion just to keep the lights on. And no investor can fix that overnight."
+  },
+  {
+   "id": 118,
+   "debut": 6173.15,
+   "fin": 6241.91,
+   "temps_estime": true,
+   "titre": "Likely outcome: quiet absorption by Microsoft",
+   "resume": "The most likely result is not a dramatic crash but a quiet absorption: by mid-2027 the 2025 funding will be nearly spent, forcing OpenAI to raise at a lower valuation or sell, with Microsoft the natural buyer given its 80 billion dollar cash reserves. This marks the end of the startup frontier, as success is measured in acres of data centers and the pioneer is likely absorbed by a larger corporation.",
+   "mots_cles": [
+    "quiet absorption",
+    "Microsoft acquisition",
+    "mid 2027",
+    "80 billion cash",
+    "fire sale",
+    "end of startup frontier",
+    "OpenAI valuation",
+    "data centers acres"
+   ],
+   "texte": "So what happens when the money runs out? You might expect a dramatic crash. But the reality is different. The most likely outcome is not a dramatic crash or a bankruptcy filing, [music] but a quiet absorption. By mid 2027, based on current projections, the cash reserves raised in the 2025 rounds will be nearly empty. At that point, OpenAI will face a [music] choice. raise another massive round at a lower valuation, crushing their employee stock options, or [music] sell. Microsoft is the natural and maybe the only buyer. They already host OpenAI systems on Azure, and they have deep integration with the software. [music] More importantly, Microsoft has over $80 billion in cash reserves, making them one of the few entities on Earth that could sustain OpenAI's burn rate. For Microsoft, this is the crown jewel, the engine of the next computing era. For investors, it's a fire sale, but one that buys survival. This is the end of the startup frontier. Open AI proved scaling works [music] but only if you have a nationstate sized budget. The AI revolution has gone industrial where success is measured in acres of data centers, not lines of code. OpenAI started the trend, but it doesn't have the resources to compete alone. [music] And now the independent pioneer is likely to be absorbed by a larger corporation."
+  },
+  {
+   "id": 119,
+   "debut": 6241.91,
+   "fin": 6291.28,
+   "temps_estime": true,
+   "titre": "477,000 jobs cut in 2026 and the death of entry-level",
+   "resume": "The narrator says over 477,000 jobs have been axed since early 2026, with AI killing white-collar livelihoods and entry-level positions dead. In 2019 almost 600,000 jobs were announced lost, only 2009 had more, and the current pace is like firing the entire working population of Atlanta.",
+   "mots_cles": [
+    "477,000 jobs cut",
+    "white collar workers",
+    "entry-level dead",
+    "2019 comparison",
+    "2009 financial crisis",
+    "layoffs 2026",
+    "Atlanta workforce",
+    "temporary correction"
+   ],
+   "texte": "The job market is being massacred. Since the beginning of 2026, over 477,000 jobs have been axed. AI is killing the livelihood of white collar workers. Silicon Valley says this is just a temporary phase, a market correction. It's not. Industry insiders say AI is just moving the labor market. But the truth is the entry-level position is dead and big tech doesn't care. This is only the beginning. At the current rate, the country is set to lose more jobs than at any point in the last two decades. In 2019, before the pandemic and Chad GPT, American employers announced around almost 600,000 jobs lost across the entire year. Only 2009 had seen more, and that was in the fallout of the financial crisis. The current scale of cuts is like firing the entire working population of Atlanta."
+  },
+  {
+   "id": 120,
+   "debut": 6291.28,
+   "fin": 6346.92,
+   "temps_estime": true,
+   "titre": "Challenger Gray: AI the top cited reason for job cuts",
+   "resume": "Challenger, Gray and Christmas added an artificial intelligence category in 2023; by July 2026 AI was the most cited reason for job cuts for the sixth month in a row, with 113,000 cuts that year and 184,000 since the category began. The tech sector announced nearly 150,000 cuts in 2026, up 67%, and accounts for nearly a third of US layoffs.",
+   "mots_cles": [
+    "Challenger Gray and Christmas",
+    "AI job cuts category",
+    "113,000",
+    "184,000",
+    "tech sector layoffs",
+    "67% increase",
+    "July 2026",
+    "announced layoffs"
+   ],
+   "texte": "But we're being told things are looking up. The figures are terrifying, and so is the reason behind them. For decades, the firm Challenger Gray and Christmas has tracked the reason behind every announced layoff. Restructuring, cost cutting, bankruptcy, closings, it's all there. In 2023, the firm added a new category to the list, artificial intelligence. In July 2026, AI was the most cited reason for job cuts for the sixth month in a row. By that point, AI had caused 113,000 job cut announcements. Since the category was created 3 years ago, it has ballooned to 184,000. And the cuts are pooling in one place. The tech sector has announced nearly 150,000 job cuts in 2026, a spike of 67% compared to the previous year. This is happening at the same time when every other sector is slowing job cuts. Tech now accounts for nearly a third of every announced layoff in the US."
+  },
+  {
+   "id": 121,
+   "debut": 6346.92,
+   "fin": 6420.38,
+   "temps_estime": true,
+   "titre": "Stanford payroll data: a generational divide in AI-exposed jobs",
+   "resume": "Stanford economist Erik Brynjolfsson's ADP payroll analysis shows employment of workers aged 22 to 25 in the most AI-exposed occupations fell about 16% while experienced workers stayed flat or grew. Entry-level coders are down about 20% since late 2022, the cause being a collapse in hiring rather than firing.",
+   "mots_cles": [
+    "Brynjolfsson",
+    "Stanford Digital Economy Lab",
+    "ADP payroll data",
+    "ages 22 to 25",
+    "16% decline",
+    "entry-level coders",
+    "hiring collapse",
+    "two economies"
+   ],
+   "texte": "The AI call is happening, but is it targeting specific roles? At Stanford's digital economy lab, the economist Eric Bernolen had spent three years running payroll data from ADP, the real monthly records covering roughly one in six American workers. The results showed a brutal generational divide. Employment among workers aed 22 to 25 in the most AI exposed occupations had fallen by about 16% since generative AI went mainstream. Over that same period, employment for experienced workers in the same roles stayed flat or actually grew. It's the younger workers that are taking the hit, and nowhere is that more evident than among the software developers. Since late 2022, the headcount for entry-level coders is down roughly 20%. All the while, senior developers writing code in the same repositories are finding even more job opportunities. A 23-year-old and a 43-year-old doing identical work are living in two different economies. The labor market isn't collapsing, but the entrance to it is. Brne Olson's researchers found the entry-level decline is driven almost entirely by a collapse in hiring rather than firing. Nobody is escorting 23-year-olds out of the building. Companies simply stopped opening the door. The job was never posted in the first place."
+  },
+  {
+   "id": 122,
+   "debut": 6420.38,
+   "fin": 6478.93,
+   "temps_estime": true,
+   "titre": "Graduate underemployment and shrinking entry-level pipelines",
+   "resume": "The New York Fed put recent graduate unemployment at about 5.7% and underemployment at 42% in Q2 2026, versus 2.8% unemployment for degree holders aged 25 and over. Entry-level roles in law, consulting and investment banking fell about 35% since 2023, PwC plans 39% fewer audit associates by 2028, Baker McKenzie is cutting roles, and paralegal hiring is down 26%.",
+   "mots_cles": [
+    "recent graduates unemployment",
+    "underemployment 42%",
+    "New York Fed",
+    "PwC audit associates",
+    "Baker McKenzie",
+    "paralegals",
+    "consulting investment banking",
+    "entry-level decline 35%"
+   ],
+   "texte": "You just need to look at the graduate data to see the wreckage. [music] In the second quarter of 2026, the Federal Reserve Bank of New York put unemployment among recent college graduates at about 5.7%. Under employment was sitting at a massive 42%. That means 4 in 10 recent graduates were working in roles that did not need a degree. It is the highest score since 2020. But for workers aed 25 and over with a bachelor's degree, unemployment sits at around 2.8%. So getting a degree is useful, just not right away. The gap between the new starts and the experienced workers keeps [music] growing. This trend is not even confined to tech. Entry-level roles across law, consulting, and investment [music] banking have fallen roughly 35% since 2023. Price Waterhouse Cooper said it'll hire 39% fewer audit associates by 2028. Law firm Baker McKenzie is cutting a,000 roles. Hiring of parallegals at the 250 largest American law firms is down 26% [music] since 2018."
+  },
+  {
+   "id": 123,
+   "debut": 6478.93,
+   "fin": 6542.56,
+   "temps_estime": true,
+   "titre": "The law firm pyramid and the shift to lateral hires",
+   "resume": "Law firms depend on a pyramid in which juniors do document review and research billed to clients and funded the training of future partners. AI wipes out the bottom because tasks are mostly grunt work, and American firms hired just over 24,000 associates in 2025 with only 38% straight from law school, the rest billable laterals.",
+   "mots_cles": [
+    "law firm pyramid",
+    "junior associates",
+    "document review",
+    "lateral hires",
+    "24,000 associates",
+    "38% law school",
+    "billable hours",
+    "AI grunt work"
+   ],
+   "texte": "The entire law industry is vulnerable to this trend. [music] It's built on an explicit pyramid of hierarchy and that's the only way it functions. [music] Firms hire a large class of juniors, hand them document reviews, legal research, boilerplate drafting, and the clients are built for those hours and then the revenue [music] is used to train the next generation of partners. AI wipes out the bottom of that pyramid, not because [music] it's smarter than a firstear associate, but because the tasks are mostly grunt work. AI can handle first pass review and [music] contract analysis faster and cheaper than any junior. Suddenly, the billable hours justify axing those [music] juniors. And the firms took advantage of that. American law firms hired just over 24,000 associates in 2025. Only 38% came [music] straight out of law school. The rest were lateral hires poached from rivals, billable on day one, and they required no training at all. The law industry is [music] just one of the easiest to measure examples. Across all major AI affected industries, we can [music] see the same trend. Companies are reporting increased profits and yet they're hiring fewer and fewer juniors."
+  },
+  {
+   "id": 124,
+   "debut": 6542.56,
+   "fin": 6602.16,
+   "temps_estime": true,
+   "titre": "Announced cuts: Block, Oracle, Amazon and Meta",
+   "resume": "In February 2026 Block cut nearly half of its 10,000 employees, with Jack Dorsey saying AI made roles unnecessary; Oracle reportedly cut about 21,000 jobs, Amazon cut 30,000 corporate jobs in three months, and Meta moved 7,000 staff to AI roles while laying off 8,000, affecting 15,000 people.",
+   "mots_cles": [
+    "Block layoffs",
+    "Jack Dorsey",
+    "Oracle 21,000",
+    "Amazon 30,000",
+    "Meta 7,000 reassigned",
+    "Andy Jassy",
+    "AI agents fewer people",
+    "2026 layoffs"
+   ],
+   "texte": "None of this is a conspiracy. It is being announced and put on the record. In February 2026, the payments company Block cut close to [music] half of its 10,000 person workforce. Jack Dorsey told the staff AI had made many of those roles unnecessary and predicted most companies would reach the same conclusion within a year. Then reports [music] emerged that Oracle had cut roughly 21,000 employees over 12 months. That's about 13% of its workforce. [music] It was all part of a broad restructuring that included efforts to reduce costs and increase efficiency. Amazon cut 30,000 corporate jobs over the course of 3 months. [music] The groundwork for that change had been laid a year and a half earlier when CEO Andy Jasse posted that as the company rolled out more AI agents, it would need fewer people in corporate positions. Meta [music] did something subtler. It moved about 7,000 employees into AI focused roles while laying off another 8,000. That is 15,000 more people affected by the change. While on paper, the reduction was only about 8,000 [music] rolls."
+  },
+  {
+   "id": 125,
+   "debut": 6602.16,
+   "fin": 6652.72,
+   "temps_estime": true,
+   "titre": "Workers' share of value hits a record low of 52.9%",
+   "resume": "The Bureau of Labor Statistics' Q2 2026 productivity release shows workers took home only 52.9% of the value they produced, versus 65.8% in 1947 and 62.8% in 2000, a record low. Real hourly compensation fell 3.1% year over year, and shrinking employment makes wealth concentration even worse.",
+   "mots_cles": [
+    "Bureau of Labor Statistics",
+    "labor share 52.9%",
+    "record low",
+    "real hourly compensation -3.1%",
+    "productivity",
+    "1947 comparison",
+    "wealth concentration",
+    "August 2026"
+   ],
+   "texte": "So, where's the month going? In August 2026, the Bureau of Labor Statistics published its productivity release for the second quarter. Buried in it was a number that is arguably the biggest predictor of how global capitalism works. It revealed that workers took home just 52.9% of the value they produced for the business. For scale, in the first quarter of 1947, [music] that figure was 65.8% 8%. At the end of 2000, it was 62.8%. The August 2026 figure was a record low. In the same release, real hourly compensation, what workers actually earn after inflation, fell 3.1% year-over-year. The remaining 47% isn't all profit. It includes depreciation, interest, rent, and taxes. But regardless of that, the portion ending up in the worker's hands has never been smaller. And when you couple this with shrinking employment, the concentration of wealth gets even worse. [music]"
+  },
+  {
+   "id": 126,
+   "debut": 6652.72,
+   "fin": 6701.85,
+   "temps_estime": true,
+   "titre": "Nvidia's revenue per employee: $5.14 million",
+   "resume": "Nvidia's fiscal 2026 revenue of 215.9 billion dollars came from about 42,000 employees, about 5.14 million dollars per person versus 1 million in 2023, while average wages barely moved. Unlike the industrial revolution, which needed muscle, AI makes output climb while the number of people attached to it barely moves.",
+   "mots_cles": [
+    "Nvidia revenue per employee",
+    "215.9 billion",
+    "42,000 employees",
+    "5.14 million",
+    "output per worker",
+    "industrial revolution",
+    "wages stagnate",
+    "AI productivity"
+   ],
+   "texte": "Nvidia's fiscal 2026 revenue came at $215.9 billion [music] produced by about 42,000 employees. That works out at about $5.14 million of revenue per person. [music] 3 years earlier in 2023, that number sat at 1 million. The company's output per employee has [music] quintupled in the time it takes to get a bachelor's degree, but the average wage has barely moved and their total workforce only grew by 50%. At the height of American industrial power, a Ford worker on the assembly line was producing a fraction of a percent of $5 million in inflationadjusted terms. The industrial revolution made muscle more productive, but it still needed the muscle. AI does something different. It makes the output climb while the number of people attached to it barely moves."
+  },
+  {
+   "id": 127,
+   "debut": 6701.85,
+   "fin": 6774.88,
+   "temps_estime": true,
+   "titre": "The AI layoff trap: why rational automation hurts everyone",
+   "resume": "A March 2026 paper by Brett Falk and Gerry Tsoukalas models an economy where workers are also consumers: a monopolist automates carefully, but under competition each firm pockets the full savings while spreading the demand damage across rivals, so cutting is the dominant strategy. Every CEO acts rationally and everyone ends up worse off, and more competition and better AI make it worse.",
+   "mots_cles": [
+    "AI layoff trap",
+    "Brett Falk",
+    "Tsoukalas",
+    "game theory",
+    "monopoly thought experiment",
+    "demand destruction",
+    "competition",
+    "rational automation"
+   ],
+   "texte": "In March 2026, Brett Faulk of the University of Pennsylvania and Gary Sucallis of Boston University published a paper titled the AI layoff trap. [music] It is a theoretical model that asks if AI replaces the workforce, [music] who is left to buy anything? Let's just say the economy is one company, a monopoly that makes one product. Everyone works there. Then AI arrives. [music] The CEO could automate 90% of the staff, but those workers are also the consumers, the ones who buy the product. Fire them and demand disappears. [music] So, the rational monopolist automates carefully, stopping well short of the cliff. But the moment there's competition, things change. Suddenly, the workers are only a sliver of the customer base. Automate the staff and the CEO pockets 100% of the cost savings. The economic damage gets spread across every company in the market, including your rivals. The share of the damage is close to zero. But then the competition notices and decides to automate. It's the only strategy. No matter what anyone else does, the best move is to cut. Every CEO is acting rationally. Yet, everyone is worse off. [music] Falcon Sucatas found that the harm landed both on the workers and the owners of the firms doing the automating. Crucially, more competition makes it worse. Better AI makes it worse."
+  },
+  {
+   "id": 128,
+   "debut": 6774.88,
+   "fin": 6825.6,
+   "temps_estime": true,
+   "titre": "The broken loop: AI cannot sell to people it stops hiring",
+   "resume": "Demand is being stripped from Gen Z, the group meant to spend for the next 40 years. The industry's pitch that professionals will buy AI subscriptions conflicts with removing the entry-level jobs those buyers would hold, and a 23-year-old without a junior analyst job will not pay 200 dollars a month.",
+   "mots_cles": [
+    "Gen Z",
+    "broken loop",
+    "AI subscriptions",
+    "entry-level jobs",
+    "consumer demand",
+    "pipeline of professionals",
+    "200 dollars a month",
+    "productivity tool"
+   ],
+   "texte": "Still, the economic demand being destroyed is not evenly distributed. It's being stripped from Gen Z, the exact group of professionals who are supposed to spend the next 40 years earning money and driving the economy. That is the broken loop at the heart of the AI boom. The industry's pitch is that AI is a product ordinary professionals will buy, a subscription, a co-pilot, a tool that makes a knowledge worker more valuable. But the same technology is being deployed to remove the entry-level knowledge jobs those buyers were supposed to be hired into. A 23-year-old who can't get a junior analyst position is not going to pay 200 bucks a month for an AI tool. They're more concerned about paying their utility bill, their rent, their mortgage, or their lunch. You can't simultaneously sell the world a productivity tool for professionals and eliminate the same pipeline that produces professionals. That's not just a hypothesis. We're already seeing it."
+  },
+  {
+   "id": 129,
+   "debut": 6825.6,
+   "fin": 6882.64,
+   "temps_estime": false,
+   "titre": "K-shaped economy: top earners drive consumer spending",
+   "resume": "Moody's Analytics estimates the top 20% of earners, households over 175,000 dollars, account for almost 60% of spending and the top 10% for almost half, the highest share since 1989, while spending for the bottom 80% grew only 2.6%. The Minneapolis Fed calls the split less dramatic, not nonexistent, and the thinning middle class is the engine of the economy.",
+   "mots_cles": [
+    "K-shaped economy",
+    "Moody's Analytics",
+    "top 20% spending 60%",
+    "top 10% half of consumption",
+    "Minneapolis Fed",
+    "middle class",
+    "bottom 80% 2.6%",
+    "inequality"
+   ],
+   "texte": "Moody's Analytics estimates that the top 20% of earners, households that earn over $175,000, account for almost 60% of all personal spending. The top 10% alone are responsible for almost half of [music] the consumer economy, the highest share recorded since the series began in 1989. For the bottom 80%, it only grew by a measly 2.6%, [music] falling to match inflation. It's what economists call a K-shaped economy. Massive wealth is shooting straight up like the top arm of a K while the rest of the country is plunging downward. Some institutions like the Minneapolis Fed disagree. They argue the economic split is less dramatic than people assume. The key word is less dramatic, not non-existent. It implies the trend is still happening. The entire economy is leaning heavily on the people at the top while thinning out at the middle class. The problem with that is that the middle is the engine that drives the economy in the first place. Kill the middle class and everything comes to a shuddering stop."
+  },
+  {
+   "id": 130,
+   "debut": 6882.64,
+   "fin": 6944.08,
+   "temps_estime": false,
+   "titre": "The skeptics: rate hikes and remote work as alternative causes",
+   "resume": "A serious argument says all this is wrong: a Stanford SIEPR brief found hiring in AI-exposed occupations fell after Fed rate hikes, before ChatGPT launched, and remote work eroded junior hiring. The New York Fed attributed almost 64% of young graduate unemployment to remote work, while Brynjolfsson's team finds declines statistically significant from 2024 onward.",
+   "mots_cles": [
+    "skeptics",
+    "Stanford SIEPR",
+    "interest rate hikes",
+    "remote work",
+    "New York Fed 64%",
+    "causation",
+    "controls",
+    "muddy timing"
+   ],
+   "texte": "But there is a serious argument that says all of this is wrong. Stanford's Institute for Economic Policy Research published a brief separating AI hype from reality. The paper showed hiring and AI exposed occupations began to fall after the Federal Reserve's rate hikes and even before ChatGpt launched. It was the pandemic shift to remote work that eroded the value of hiring junior staff. On the job learning was harder to deliver over video. The New York Fed went further, saying almost 64% of young graduate unemployment could be attributed to remote work rather than to AI. This is where Stanford economists and the Fed agreed. Bolson and his co-authors found that when they added the broadest possible set of controls, the declines in AI exposed occupations became statistically significant from 2024 onward. The earlier drop was probably driven by something else. [music] So, the skeptics make a case that the timing is muddy. interest rates and remote work are possible culprits. The aggregate labor market is the way it is because of factors unrelated to AI."
+  },
+  {
+   "id": 131,
+   "debut": 6944.08,
+   "fin": 6992.68,
+   "temps_estime": true,
+   "titre": "Causation does not matter: the entry rung has disappeared",
+   "resume": "Even if skeptics are right, none dispute that the entry-level rung disappeared, and hiring decisions have already been made. If all firms stop hiring juniors, there will be no future associates, and even if economists later blame rates or remote work, a generation will have been wiped from the corporate ladder; improving AI widens the gap between firm behavior and what is collectively optimal.",
+   "mots_cles": [
+    "entry rung disappeared",
+    "hiring decisions made",
+    "coordination problem",
+    "lost generation",
+    "corporate ladder",
+    "collectively optimal",
+    "junior pipeline",
+    "damage done"
+   ],
+   "texte": "But there's a bigger problem here. Even if that is true, it doesn't really matter. Every one of those objections is about causation. Whether AI is the reason the entry rung has disappeared. But none of them dispute it disappeared. The hiring decisions have already been made. A firm that spent 2024 and 25 not hiring juniors still has a gap that it isn't filling and it's part of the problem. If all firms agree to not hire juniors, associates won't exist. And if no one's hiring juniors, the fewer juniors there are to promote. Even if economists conclude in 2029 that rates and remote work were to blame, the damage has already been done. An entire generation of entry-level workers will have been wiped from the corporate ladder. Improving AI widens the gap between what companies do and what would be collectively optimal."
+  },
+  {
+   "id": 132,
+   "debut": 6992.68,
+   "fin": 7037.5,
+   "temps_estime": true,
+   "titre": "IMF exposure and the policy fixes that fail, except an automation tax",
+   "resume": "The IMF says about 60% of jobs in advanced economies are exposed to AI, half likely to benefit and half displaced. In Falk and Tsoukalas's model, universal basic income, equity for workers, capital income taxes and retraining all failed because they do not change the incentive to replace people; only a tax on automation worked, with a politically softer version subsidizing firms that keep workers.",
+   "mots_cles": [
+    "IMF 60% jobs exposed",
+    "universal basic income",
+    "retraining",
+    "automation tax",
+    "capital income tax",
+    "subsidy for retaining workers",
+    "policy fixes",
+    "incentive to replace workers"
+   ],
+   "texte": "The IMF has been saying aversion for a number of years. Around 60% of jobs in advanced economies are exposed to AI. About half of those are likely to benefit and half could be displaced. Falcon Sucalas also tested the standard menu of fixes against their [music] model. Universal basic income, giving workers equality, capital income taxes, retraining and upskilling. And in their model, every one of them failed because none touched the incentive to replace a person with a machine. They just treat the aftermath. The one instrument that worked in the model was a tax on automation itself. It was costly to fully replace a worker but cheap to augment one. The authors conceded that the word tax made it politically radioactive. So they offered a softened version subsidized the firms that keep people."
+  },
+  {
+   "id": 133,
+   "debut": 7037.5,
+   "fin": 7077.92,
+   "temps_estime": true,
+   "titre": "Lobbying makes regulation unlikely; the junior experience question",
+   "resume": "Both policy options depend on a government where companies have the most sway: 2025 saw over 5 billion dollars of federal lobbying, and Anthropic, Nvidia and OpenAI, which had no lobbyists in 2022, now spend millions. The first firm to slow down loses to those that do not, and the lingering question is how anyone gains experience to become senior if AI does the junior work.",
+   "mots_cles": [
+    "federal lobbying",
+    "5 billion",
+    "Anthropic Nvidia OpenAI lobbyists",
+    "preemptive regulation",
+    "first mover trap",
+    "government sway",
+    "junior experience",
+    "senior pipeline"
+   ],
+   "texte": "But both of those still relied on the government to step in. That same government is the one where companies have the most sway thanks to lobbying. 2025 saw over5 billion dollars spent on federal lobbying and AI is a recent newcomer. In 2022, [music] Anthropic, Nvidia, and OpenAI had no federal lobbyists at all. Today, these companies are spending millions all on preemptive federal regulations and frameworks. That's the main problem with how the AI layoff trap works. [music] The first firm to slow down losses to the ones that don't. While the economists are arguing about causation, and they will be for years, the same question remains. If AI does all the junior work, how does anyone ever get the experience [music] to become senior?"
+  },
+  {
+   "id": 134,
+   "debut": 7077.92,
+   "fin": 7110.08,
+   "temps_estime": false,
+   "titre": "Not cheaper: a trillion-dollar hole and mass AI delusion",
+   "resume": "Opening of a new segment: AI is not taking jobs because it is cheaper, since replacing a worker can cost hundreds of thousands more than the salary and Wall Street knows it. The real cause, it says, is a 1 trillion dollar hole in the economy from executives deciding under a mass AI delusion triggered by a 20 dollar chatbot, and replacing humans with AI is backfiring.",
+   "mots_cles": [
+    "AI not cheaper",
+    "1 trillion dollar hole",
+    "mass AI delusion",
+    "20 dollar chatbot",
+    "executives",
+    "replacing humans",
+    "backfiring",
+    "Wall Street"
+   ],
+   "texte": "AI isn't taking your job because it's cheaper. That's a lie. In many cases, replacing you with AI costs hundreds of thousands of dollars more than your salary. And Wall Street knows it. So why is this happening? Because right now there is a1 trillion dollar hole in the global economy caused by executives making decisions under what experts are calling a kind of mass AI delusion triggered by a $20 chatbot and it's leading to one thing. CEOs are replacing humans with AI and it's backfiring."
+  },
+  {
+   "id": 135,
+   "debut": 7110.08,
+   "fin": 7170.8,
+   "temps_estime": true,
+   "titre": "Chapter one: the sycophancy trap for CEOs",
+   "resume": "Business leaders are used to yes-men, and an AI that never argues back gives a dopamine hit disguised as intelligence, confident answers and positive feedback. Users stay in a closed loop of validation and start treating the AI as a virtual oracle without checking other sources.",
+   "mots_cles": [
+    "sycophancy",
+    "AI yes-man",
+    "CEOs",
+    "dopamine hit",
+    "validation loop",
+    "virtual oracle",
+    "ego boost",
+    "closed loop"
+   ],
+   "texte": "Chapter one, the sick fency trap. Business leaders know what they want. That's how they got to the top. They have more money, more power, and more confidence in their own judgment. And that [music] is exactly where the problem begins. By the time they reach that level, they're already used to yesmen. People who don't challenge them, people who don't question decisions. [music] Now imagine giving that environment a tool that never argues back, that never questions them. At first, it feels ideal. AI creates a dopamine [music] hit disguised as intelligence, a quick boost to the ego. Every question gets a confident answer. It'll very rarely disagree. It can usually be counted on for positive feedback and it can be customized to whatever your interests are. [music] Instead of talking with people outside of the computer, users stay inside of a closed loop of validation. Conversation after conversation happens with no real resistance on the other side. Soon they start to think of the AI as foolproof, relying on its wisdom as some sort of collective, a virtual oracle without checking other sources."
+  },
+  {
+   "id": 136,
+   "debut": 7170.8,
+   "fin": 7205.52,
+   "temps_estime": true,
+   "titre": "Aarhus study: AI chatbots can worsen delusions",
+   "resume": "Researchers at Aarhus University in Denmark studied the records of 54,000 people with diagnosed conditions and found dozens of cases where interacting with AI chatbots worsened delusions and harmful behavior. People with mental illness were vulnerable to AI influence, which matters when billions of dollars are at stake.",
+   "mots_cles": [
+    "Aarhus University",
+    "Denmark study",
+    "54,000 patients",
+    "delusions",
+    "mental illness",
+    "chatbot harm",
+    "AI influence",
+    "serious consequences"
+   ],
+   "texte": "And it can be dangerous. Researchers at Arus University in Denmark examined patterns of AI use and they came to a disturbing conclusion. People struggling with mental illness not only were vulnerable to influence from AI, but they could display worsening symptoms after interacting with AI chatbots. They studied the records of 54,000 people with diagnosed conditions, and they found dozens of cases where patients suffered from worsened delusions and harmful behaviors. And you get what you put into it. And when there are billions of dollars on the line, that can have serious consequences."
+  },
+  {
+   "id": 137,
+   "debut": 7205.52,
+   "fin": 7243.12,
+   "temps_estime": true,
+   "titre": "The CEO delusion loop and capital misappropriation",
+   "resume": "CEOs replacing workers with AI are likely getting advice from AI, which encourages more AI investment, creating a delusion loop that helps no one but the AI. The CEO gets a dopamine hit from agreement and invests further, and the result may be the biggest capital misappropriation in human history.",
+   "mots_cles": [
+    "delusion loop",
+    "CEOs advised by AI",
+    "AI investment",
+    "capital misappropriation",
+    "dopamine hit",
+    "chatbot advice",
+    "corporate office",
+    "largest misallocation"
+   ],
+   "texte": "The CEOs who are replacing their workers with AI, ironically, are likely getting their advice from AI. The technology has been integrated into companies long before the axe falls on the first workers. And the CEO is sitting in his corner office asking his chatbot for advice and then getting back encouragement to keep investing in AI. This creates a delusion loop that helps no one besides the AI. The CEO gets the dopamine hit from the AI agreeing with him and invests even further as a result. And the end result might be the biggest capital misappropriation in human history."
   }
  ]
 }
