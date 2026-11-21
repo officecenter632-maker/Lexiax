@@ -4,12 +4,12 @@
  "titre_video": "When the AI Bubble Bursts: A Financial Collapse Has Already Begun",
  "duree_s": 11492.24,
  "avancement": {
-  "lignes_traitees": 3434,
-  "fin_traitee_s": 7243.12,
+  "lignes_traitees": 4275,
+  "fin_traitee_s": 9085.76,
   "nb_lignes_total": 5363,
   "complet": false
  },
- "nb_segments": 137,
+ "nb_segments": 178,
  "segments": [
   {
    "id": 1,
@@ -2613,6 +2613,784 @@
     "largest misallocation"
    ],
    "texte": "The CEOs who are replacing their workers with AI, ironically, are likely getting their advice from AI. The technology has been integrated into companies long before the axe falls on the first workers. And the CEO is sitting in his corner office asking his chatbot for advice and then getting back encouragement to keep investing in AI. This creates a delusion loop that helps no one besides the AI. The CEO gets the dopamine hit from the AI agreeing with him and invests even further as a result. And the end result might be the biggest capital misappropriation in human history."
+  },
+  {
+   "id": 138,
+   "debut": 7243.12,
+   "fin": 7325.29,
+   "temps_estime": true,
+   "titre": "OpenAI and Nvidia: a trillion dollars of AI deals",
+   "resume": "OpenAI keeps signing deals worth about $1 trillion, mostly planned investments, a level of trust unheard of even in Silicon Valley. Only 15 companies have a trillion-dollar market cap and only Nvidia has reached $5 trillion, so OpenAI (intelligence) and Nvidia (hardware) appear in nearly every major deal. The investment is larger than many big tech market caps, yet an eminent economist says it has contributed nothing so far.",
+   "mots_cles": [
+    "OpenAI",
+    "Nvidia",
+    "$1 trillion deals",
+    "Sam Altman",
+    "GPUs",
+    "market cap",
+    "AI investment",
+    "Amazon Microsoft Meta"
+   ],
+   "texte": "Across the tech world, AI investment is in full swing. And while there are several major AI companies seeking to take advantage, it helps to be the first. The biggest gun in the AI world is still Sam Alman's Open AI. The company continues to cut massive deals with other companies to the tune of $1 trillion so far. Most of this is still planned investments, but it is a level of trust in this new technology that is unheard of. This kind of money is huge, even for Silicon Valley. There are only 15 companies with a trillion dollar market cap and only one that has reached the $5 trillion point. Nvidia, its GPUs and semiconductors have become the backbone of the AI boom. And that changes everything. Because as major companies race to build the future of artificial intelligence, two names keep appearing in almost every major deal. Open AI and Nvidia. One supplies the intelligence, the other supplies the hardware. And if all of that investment plays out, it's going to make a lot of people unfathomably wealthy. Just how much is a trillion dollars? It's roughly the cost of building 10 international space stations. This total AI investment alone is larger than the market cap of many big [music] tech companies. Amazon, Microsoft, Meta, and other big names dropped heavy investment into AI in 2025. And so far, according to one of the biggest names in economics, it's contributed nothing. And now people are starting to get worried."
+  },
+  {
+   "id": 139,
+   "debut": 7325.29,
+   "fin": 7372.58,
+   "temps_estime": true,
+   "titre": "Chapter 2: the trillion-dollar hallucination, 92% of GDP growth",
+   "resume": "Goldman Sachs sounds the alarm, citing Harvard economist Jason Furman: data processing is only 4% of US GDP but accounted for 92% of GDP growth in the first half of 2025. Every other sector is helping AI grow while AI is not lifting them, which raises the question of how long this golden goose will last.",
+   "mots_cles": [
+    "Goldman Sachs",
+    "Jason Furman",
+    "92% of GDP growth",
+    "data processing",
+    "US GDP",
+    "stock market",
+    "AI investment",
+    "golden goose"
+   ],
+   "texte": "Chapter 2, the trillion dollar hallucination. The warning bell is ringing. Goldman Sachs is one of the most trusted sources for economic and investment news, and they are sounding the alarm. According to Harvard economics professor Jason Ferman, while the data processing sector of the economy is only 4% of American GDP, it accounted for 92% of GDP growth [music] in the first half of 2025. It is the only area where the economy is actually growing. That means every other business is helping AI grow, but AI isn't lifting those other sectors with it. At least not yet. And everyone is watching the stock market very carefully. If AI is getting heavy investment, but so far hasn't resulted in any boost to the US GDP, how long is this golden goose going to last?"
+  },
+  {
+   "id": 140,
+   "debut": 7372.58,
+   "fin": 7408.57,
+   "temps_estime": true,
+   "titre": "Bubble warning: circular investment and wealth transfer",
+   "resume": "Goldman Sachs does not call AI a bad investment but urges caution and expects no significant economic impact before 2027. Savvy investors warn of a bubble: if the circular wave of investment stops, stocks and heavily invested companies could fall fast, in the worst case a massive market crash, since the AI economy is a wealth transfer between tech companies.",
+   "mots_cles": [
+    "AI bubble",
+    "circular investment",
+    "market crash",
+    "Goldman Sachs",
+    "2027",
+    "wealth transfer",
+    "stocks",
+    "loss of faith"
+   ],
+   "texte": "Goldman [music] Sachs didn't outright say that AI is a bad investment. But it did encourage caution. They didn't think AI would have a significant impact on the economy until 2027. But if people start to lose faith, things could unravel fast. Savvy investors are starting to warn about a possible AI bubble. If the circular wave of investment simply stops, stocks will take a dive and other companies that are now heavily invested in its success [music] will go with it. In the worst case scenarios, people worry that this could result in a massive market crash because right now the AI economy is just a massive wealth transfer from one tech company to another."
+  },
+  {
+   "id": 141,
+   "debut": 7408.57,
+   "fin": 7448.72,
+   "temps_estime": true,
+   "titre": "Electricity, data centers and outsourced labor",
+   "resume": "Data farms keep large parts of the internet running, and a ChatGPT query uses at least 10 times and up to 60 times the electricity of a search. AI in search makes the demand constant, straining power grids, while the human labor that trains the models is outsourced to low-income areas overseas, so people ask who benefits.",
+   "mots_cles": [
+    "ChatGPT electricity",
+    "data centers",
+    "power grid",
+    "60 times energy",
+    "Google AI search",
+    "outsourced labor",
+    "low-income countries",
+    "who benefits"
+   ],
+   "texte": "And it's not even staying in the US economy. Without the energy generated from data farms, large parts of the internet could be taken down by heavy AI use. While it might seem the same as asking a search engine, a chat GPT query can use at least 10 times as much electricity and as much as 60 times depending on the task. And with sites like Google now incorporating AI into their search engines, the demand is constant. All of this increases the demand for data centers. These are straining power grids and wealthy nations with the human labor required to train these models quietly outsourced to lower inome areas overseas, which has a lot of people asking who is benefiting."
+  },
+  {
+   "id": 142,
+   "debut": 7448.72,
+   "fin": 7479.85,
+   "temps_estime": true,
+   "titre": "A financial house of cards with an unknown outcome",
+   "resume": "The technology is not growing the economy right now and feels like a house of cards. It might end as a curiosity, as a dangerous singularity or as an unpredictable economic revolution; either way companies already act as if there is no going back.",
+   "mots_cles": [
+    "house of cards",
+    "singularity",
+    "long-term game changer",
+    "economic revolution",
+    "AI future",
+    "uncertain investment",
+    "no going back"
+   ],
+   "texte": "The technology isn't growing the economy right now. To many people, it feels like a financial house of cards. With every investment going into a new technology that no one is sure will be a long-term gamecher, it could wind up being a curiosity. It could wind up hitting a singularity that could put us all in danger. Or it could revolutionize the economy in a way that no one could predict. In one way, it already has because the companies are already acting like this is the future and there is no going back. and a whole lot of people are losing their jobs."
+  },
+  {
+   "id": 143,
+   "debut": 7479.85,
+   "fin": 7542.25,
+   "temps_estime": true,
+   "titre": "Chapter 3: the efficiency lie, AI layoffs and hard re-employment",
+   "resume": "2025 was the year AI layoffs hit home: Challenger, Gray and Christmas counted 55,000 US layoffs directly attributed to AI, out of about 1.17 million total, the worst since the Covid pandemic. In April 2026 Goldman Sachs warned displaced workers to expect a long job search, lower pay and worse conditions as available jobs shrink.",
+   "mots_cles": [
+    "Challenger Gray Christmas",
+    "55,000 AI layoffs",
+    "1.17 million layoffs",
+    "Goldman Sachs April 2026",
+    "job search",
+    "lower pay",
+    "efficiency lie",
+    "tech layoffs"
+   ],
+   "texte": "Chapter 3, the efficiency lie. 2025 was the year when AI job layoffs hit home and it became a dark year for the tech sector. According to consulting firm Challenger Gray in Christmas, there were 55,000 layoffs in the US directly [music] attributed to AI investments. However, that was only a small percentage of the overall layoffs. approximately 1.17 [music] million, the worst number for jobs since the CO9 pandemic shuttered large portions of the economy. There is a real human cost to the decisions the companies are making right now and it might not be slowing down anytime [music] soon. Amidst the worries about mass layoffs, Goldman Sachs issued a blunt warning in April 2026 for the workers being pushed out by AI. Don't expect it to be an easy [music] road back. They stated that these workers might face a long search to secure a new job in their current field with the odds being that it'll pay less and have less [music] desirable conditions than the one they left. The field of available jobs is shrinking all the time as companies seek to put AI to work for them to save money."
+  },
+  {
+   "id": 144,
+   "debut": 7542.25,
+   "fin": 7594.75,
+   "temps_estime": true,
+   "titre": "A bet on a future that has not happened: AI is costly and energy-hungry",
+   "resume": "All AI investment is a bet on AI becoming as smart as people, but today it is imperfect and costly. ChatGPT handled about 2.5 billion queries a day in July 2025, needing roughly one nuclear reactor of energy, and training next-generation models would need up to 10 reactors per day for data centers that burn around the clock.",
+   "mots_cles": [
+    "2.5 billion queries",
+    "nuclear reactor",
+    "energy consumption",
+    "data centers",
+    "training models",
+    "ChatGPT",
+    "Gemini",
+    "AI costs"
+   ],
+   "texte": "All AI investment right now is essentially a bet on a future that hasn't happened so far. Companies talk about AI becoming as [music] smart as people being able to do tasks in seconds that would take humans hours to accomplish. But right now, AI is imperfect [music] and costly. The technology is a massive energy eater. As of July 2025, ChatGpt was processing around 2.5 billion queries per day with Gemini and other AI portals dealing with similar traffic and using the same technology. That requires the energy use of roughly a full nuclear reactor to keep them running daily. to train the next generation of model. Supercomputer data centers will require the energy use of up to 10 nuclear reactors each day. Data centers burn round the [music] clock to keep these services up and running. And the demand only grows as companies incorporate it in more and more services, and few of them actually work."
+  },
+  {
+   "id": 145,
+   "debut": 7594.75,
+   "fin": 7622.32,
+   "temps_estime": true,
+   "titre": "AI is not thinking: errors force companies back to people",
+   "resume": "AI is a predictive model drawing on other sources rather than actually thinking. Companies have been criticized for flawed AI art and error-ridden AI text that needs editors, so they invest heavily and still fall back on human workers.",
+   "mots_cles": [
+    "predictive model",
+    "AI errors",
+    "flawed AI art",
+    "AI text editors",
+    "human workers",
+    "AI limits",
+    "investment",
+    "hype"
+   ],
+   "texte": "For [music] the average person, AI looks impressive. But behind the scenes, there are still serious problems. The technology isn't actually thinking. It's a predictive model pulling from other sources. Companies have been criticized for posting flawed AI art with glaring errors. And AI generated text has been found to be riddled with errors, requiring the use of editors to ensure it passes muster. So companies must put all of this investment into AI only to have to fall back on people anyway."
+  },
+  {
+   "id": 146,
+   "debut": 7622.32,
+   "fin": 7659.57,
+   "temps_estime": true,
+   "titre": "CEOs become the first true believers of their own AI",
+   "resume": "Unlike past CEOs who saw their product's flaws, such as Zuckerberg keeping his children off social media, AI CEOs get new agents before the public and get pulled in by them. They become the first true believer of their pet project and are very hard to pull out of its orbit, even knowing it.",
+   "mots_cles": [
+    "AI CEOs",
+    "first true believer",
+    "Mark Zuckerberg",
+    "social media children",
+    "AI agents",
+    "pet project",
+    "investment not slowing"
+   ],
+   "texte": "[music] Despite that, the investment isn't slowing down. In fact, it is quite the opposite. In the past, CEOs were often distanced from their product and they could see its flaws. Famously, Mark Zuckerberg said he wouldn't allow his children on social media until they were teenagers. But in the case of new AI technology, that's often not the case. AI CEOs have access to new AI agents before the general public does. And they don't just interact with them, they get pulled in by them. They become their first true believer. And once they're in that deep with their new pet project, it's very hard to pull them out of the orbit. And they know this, but it's not stopping them."
+  },
+  {
+   "id": 147,
+   "debut": 7659.57,
+   "fin": 7701.68,
+   "temps_estime": true,
+   "titre": "Chapter 4: psychosis in the corner office, Garry Tan and cyber psychosis",
+   "resume": "Garry Tan, CEO of Y Combinator, popularized the term cyber psychosis, but described himself in gleeful terms: sleeping only 4 hours a night, no longer needing the drug modafinil because AI gives him energy. The term describes what happens when people spend too much time chatting with an AI.",
+   "mots_cles": [
+    "Garry Tan",
+    "Y Combinator",
+    "cyber psychosis",
+    "4 hours of sleep",
+    "modafinil",
+    "AI agents",
+    "corner office",
+    "startup hours"
+   ],
+   "texte": "Chapter 4. Psychosis in the corner office. Gary Tan, CEO of Y Combinator, has been involved in many of the biggest tech companies over the last few decades, and he is all in on AI. But he wound up in the news recently for popularizing a new term, cyber psychosis. It's something that emerges when people spend too much time chatting with an AI. But Tan wasn't warning of it. He was describing himself in gleeful terms. He described how he was so excited to work with AI agents that he was only sleeping 4 hours a night. In the past, he relied on the sleeprevention drug medapanil to survive grueling startup hours. But now, he doesn't even need to pop pills because the AI provides him with so much energy."
+  },
+  {
+   "id": 148,
+   "debut": 7701.68,
+   "fin": 7766.82,
+   "temps_estime": true,
+   "titre": "God mode: believing prompts approach a thinking mind",
+   "resume": "Tan publicly released code built with Anthropic's Claude, seen as a dramatic example of AI's effect on the mind: heavy exposure leads people to believe they created something revolutionary, a feeling called god mode. In fact AI rests on structured text prompts and code, nothing like a thinking mind, and cyber psychosis is reported as increasingly common as the arms race escalates.",
+   "mots_cles": [
+    "god mode",
+    "Claude",
+    "Garry Tan",
+    "singularity",
+    "text prompts",
+    "prompt workflows",
+    "cyber psychosis",
+    "AI arms race"
+   ],
+   "texte": "Tan's public display of faith in AI, in which he publicly released some of the code that he was developing on Anthropics Claude, was seen as one of the most dramatic displays of how AI affects the mind. He's been working with AI prompts extensively and the more exposure someone has to the technology, the more they are prone to believing that they've created [music] something truly revolutionary. In fact, there is even a term many of them use, god mode, where they believe they're getting closer to that fabled singularity of truly autonomous AI. But under the hood, it's a lot more fragile. Ultimately, AI is based around a series of text prompts. [music] The more complex the prompt workflows, the more precise AI appears and the more complex tasks it can [music] accomplish. But each feature relies on a highly structured series of code and none of the current technology approximates the actual process of a thinking mind. However, the more time a CEO spends with their own technology, the more it appears to be otherwise. Anecdotal reports from people working in the tech industry report that cyber psychosis is increasingly common as the development of the technology speeds up and the arms race escalates."
+  },
+  {
+   "id": 149,
+   "debut": 7766.82,
+   "fin": 7803.54,
+   "temps_estime": true,
+   "titre": "MIT study: only 5% of AI pilots affect profit",
+   "resume": "A late-2025 MIT study examined 300 public AI implementations and found the news bleaker than expected: the vast majority of AI enterprises are not profitable, only 5% of integrated pilots show significant impact on profit, and most never reached the public or even got off the ground.",
+   "mots_cles": [
+    "MIT study",
+    "300 implementations",
+    "5% of pilots",
+    "AI profitability",
+    "enterprise AI",
+    "late 2025",
+    "AI pilots",
+    "failed projects"
+   ],
+   "texte": "But success is hard to achieve and even rarer. In late 2025, an MIT study looked into the state of AI in business and examined 300 public implementations of the technology. It was well known that the technology was still in an early state, but the news was bleaker than anyone expected. It found that the vast majority of AI enterprises were still not profitable. Only 5% of integrated AI pilots showed any significant impact on company profit and the vast majority never even reached the phase where the public can have a say on whether they work or not. In fact, most never even got off the ground at all."
+  },
+  {
+   "id": 150,
+   "debut": 7803.54,
+   "fin": 7840.97,
+   "temps_estime": true,
+   "titre": "AI success is consumer-side; enterprise funnel of 60%, 20%, 5%",
+   "resume": "AI successes mostly target individual consumers: ChatGPT and Gemini have millions of daily users but most are free and only a small share pay. For companies, 60% evaluate tools, only 20% reach a pilot and only 5% reach production, so most invested money fades away.",
+   "mots_cles": [
+    "ChatGPT",
+    "Gemini",
+    "free users",
+    "paid subscribers",
+    "60% evaluate",
+    "20% pilot",
+    "5% production",
+    "wasted investment"
+   ],
+   "texte": "The vast majority of successes in AI are geared toward individual consumers. Chat GPT and Gemini are used by millions of people a day, but most users are free users. only a small percentage are paid subscribers. These AI services do most of their business by partnering with other companies and those companies then develop ways to incorporate the technology into their services. But while 60% of companies evaluate tools, only 20% of those take the project to the pilot stage and only 5% make it to the final stage and are deployed on the production or service line. That means the vast majority of money invested in AI just fades away."
+  },
+  {
+   "id": 151,
+   "debut": 7840.97,
+   "fin": 7894.4,
+   "temps_estime": true,
+   "titre": "The AI economy balances on the head of a pin",
+   "resume": "Investments keep coming because leading AI firms convinced others they are the future, and most companies fall back on big players like OpenAI instead of building their own tools, yet few see dividends. If 19 of 20 revolutionary projects end in the garbage can it is unsustainable; investors and laid-off tech workers watch as the bubble might burst.",
+   "mots_cles": [
+    "AI economy",
+    "OpenAI",
+    "dividends",
+    "critical mass",
+    "failed projects",
+    "investors nervous",
+    "laid-off tech workers",
+    "bubble burst"
+   ],
+   "texte": "Right now, the entire AI economy is balancing on the head of a pin. The investments keep coming because the companies spearheading the roll out have convinced other companies that they are the future. It doesn't make sense for most companies to try to develop their own AI tool, so they fall back on working with one of the established big guns like OpenAI. But those investments haven't delivered dividends for most of these companies yet. The bills keep on racking up and the layoffs keep on hitting their employees and it may all be about to hit critical mass. If 20 revolutionary projects are announced and 19 of them wind up in the garbage can, that's not sustainable. If AI continues to fail to deliver for its clients, the tech workers laid off might not be the only ones out of work. Investors are watching nervously. Meanwhile, laid-off tech workers are watching hopefully that the bubble might be about to burst, which might not be that far off."
+  },
+  {
+   "id": 152,
+   "debut": 7894.4,
+   "fin": 7950.33,
+   "temps_estime": true,
+   "titre": "Chapter 5: the great reversal, Klarna replaces staff with a chatbot",
+   "resume": "Early AI adopters are test cases. Klarna, a digital bank whose CEO Sebastian Siemiatkowski was confident in 2024 that AI could take over many jobs, froze hiring and cut its workforce by almost 40%, from 5,500 to 3,400, replacing staff with a chatbot said to do the work of over 700 customer service agents.",
+   "mots_cles": [
+    "Klarna",
+    "Sebastian Siemiatkowski",
+    "AI chatbot",
+    "customer service",
+    "40% workforce cut",
+    "5,500 to 3,400",
+    "hiring freeze",
+    "great reversal"
+   ],
+   "texte": "Chapter 5, the great reversal. There will always be early adopters, and most of the companies to adopt AI most aggressively have been tech-based, but that [music] makes them test cases, and those tests don't always work out. Clara, the digital bank and financial services company, was ahead of the curve. Its CEO, Sebastian Seatkovski, was confident in 2024 that AI could take over many of the human jobs. It was a good test case because many of its functions are very repetitive and predictable. Then the axe started to fall. The company froze hiring for over a year. Its workforce was heavily slashed by almost 40%, dropping from 5,500 to 3,400. Their replacement, an AI chatbot who was supposedly doing the work of over 700 customer service agents handling hundreds of financial transactions simultaneously. It was one of the first big tests of whether AI could actually take over mass numbers of jobs."
+  },
+  {
+   "id": 153,
+   "debut": 7950.33,
+   "fin": 7994.17,
+   "temps_estime": true,
+   "titre": "Klarna reverses course and companies make AI U-turns",
+   "resume": "Klarna customers were unhappy: the chatbot handled simple tasks but not complex issues, causing frustration and loss of trust, one of the biggest embarrassments of the AI era. The company had to retrain other staff, even engineers and marketers answering calls, until it could rehire, a pattern of U-turns across companies.",
+   "mots_cles": [
+    "Klarna",
+    "chatbot failure",
+    "customer trust",
+    "rehiring",
+    "engineers answering calls",
+    "U-turn",
+    "AI embarrassment",
+    "customer service"
+   ],
+   "texte": "The results soon started flowing in from CLA customers and they were not happy. The chatbot performed simple tasks fine, but it couldn't deal with complex issues. Customers grew frustrated and lacked trust in the company. It was one of the biggest embarrassments for a tech company in the new AI era. CLA was soon forced to reverse course, having laid off most of their customer service staff. They were forced to quickly pivot and train their other staff to handle these positions until they could rehire. That led to the spectacle of engineers and marketing staff answering customer calls, but they might have done a better job than the automated version. It's a pattern that's been happening across the board. Companies that invested in AI are starting to perform U-turns. The only question is how low it can go."
+  },
+  {
+   "id": 154,
+   "debut": 7994.17,
+   "fin": 8046.66,
+   "temps_estime": true,
+   "titre": "Forrester: half of AI-related layoffs will be reversed by 2027",
+   "resume": "Tech research firm Forrester, usually negative about the AI shift, predicts that firing employees en masse left companies without the brain trust to use the technology, like an airline firing its pilot to save weight. Many will need to rehire humans, half of AI-related layoffs will be reversed by 2027, and 55% of employers already regret cutting staff.",
+   "mots_cles": [
+    "Forrester",
+    "AI layoffs reversed",
+    "2027",
+    "55% of employers regret",
+    "rehiring",
+    "brain trust",
+    "airline pilot analogy",
+    "employee readiness"
+   ],
+   "texte": "The tech research firm Forester has been studying the shift to AI over the last few years, and their forecasts have rarely been positive. They've studied how unready employees are to adjust to the new AI paradigm, as well as how employees aren't benefiting from the shift yet. But they're now ready to make a big prediction. Companies have been firing employees on mass, hoping to replace them with AI, but that's left them without the brain trust they need to know how to use the technology effectively. It's like an airline firing their pilot to save money on cargo weight and then realizing they need someone to fly the plane. So all those employees are looking for new jobs, they might just want to go look where they started. Forester predicts that not only will many of these companies need to hire more humans, but that half of all AI related layoffs will be reversed by 2027. 55% of employers already regret their decision to cut staff."
+  },
+  {
+   "id": 155,
+   "debut": 8046.66,
+   "fin": 8094.48,
+   "temps_estime": true,
+   "titre": "AI convinces people it is indispensable while the feedback loop says all is great",
+   "resume": "Laid-off staff who built the tech infrastructure may be needed again to avoid disaster, if CEOs notice it in time. AI is not yet profitable or indispensable but has convinced people it is: users and CEOs vibe coding get positive feedback from the AI, keep investing, and the stock tracker and dopamine keep rising until it stops.",
+   "mots_cles": [
+    "X factor",
+    "AI not profitable",
+    "vibe coding",
+    "AI feedback",
+    "dopamine",
+    "stock tracker",
+    "laid-off tech workers",
+    "CEOs"
+   ],
+   "texte": "That might put [music] the axed staff back in the driver's seat. These are people who built much of the modern tech infrastructure and then were forced out. And now in order to avoid disaster, those same brains are needed to reverse the slide. Assuming that the CEOs know when disaster is about to occur. That is [music] the big X factor in the current AI paradigm. AI hasn't become profitable yet. It hasn't made itself indispensable for the companies. But it has done an amazing job of convincing people it has. [music] From the people pumping dozens of queries into chat GPT a day to the CEOs in the suite vibe coding the next innovation, [music] they're primarily getting feedback from the AI and it's continuing to tell them everything is great. They keep investing and the numbers in the stock tracker keep going up and so do the dopamine receptors. It's all great until it isn't."
+  },
+  {
+   "id": 156,
+   "debut": 8094.48,
+   "fin": 8129.73,
+   "temps_estime": true,
+   "titre": "Fired workers back in the driver's seat; CEOs guided by their own chatbots",
+   "resume": "The most likely outcome is that people fired for AI return with expertise and may negotiate new salaries. Analysts know this but CEOs might not: leadership is lacking with top tech minds taking guidance from chatbots they coded themselves, until the house of cards falls. It raises the question of what happens when AI moves into systems where stakes are consequences, not profits.",
+   "mots_cles": [
+    "rehired workers",
+    "salary negotiation",
+    "lack of leadership",
+    "chatbot guidance",
+    "house of cards",
+    "CEOs",
+    "AI consequences",
+    "tech expertise"
+   ],
+   "texte": "Right now, the most likely outcome is that people [music] fired for AI will be in the driver's seat. The company needs their expertise and they might be able to negotiate a new salary when they come back. Analysts know this [music] is necessary. The CEOs might not. There's a lack of leadership at the top right now with some of the smartest people in tech [music] taking their guidance from chat bots that they coded themselves. And they might just keep doing so until the whole house of cards comes crashing down. But it raises a much bigger question. What happens when that same tool moves beyond tech companies and into systems where the stakes aren't profits, but consequences?"
+  },
+  {
+   "id": 157,
+   "debut": 8129.73,
+   "fin": 8164.36,
+   "temps_estime": true,
+   "titre": "AI hype as a replay of the dot-com bubble: 'this time it's different'",
+   "resume": "The speaker asks whether AI is really new, arguing that the billionaire class that rode the 1999 dot-com bubble is back under a different name. Money pours in early because no one wants to miss out, with the mantra 'this time it's different', and ordinary people will pay the tab.",
+   "mots_cles": [
+    "dot-com bubble",
+    "1999",
+    "this time it's different",
+    "billionaire class",
+    "hype",
+    "fear of missing out",
+    "AI bubble",
+    "tab"
+   ],
+   "texte": "We're told that AI is a brand new technology led by a generation of geniuses. But what if it's not new at all? What if we've seen this exact story before? Because behind the hype, the same billionaire class that rode the dot bubble of 1999 is back, just under a different name. Money is pouring in early, long before anyone knows where the peak really is, because no one wants to miss out. And through this hype, one phrase keeps getting repeated like a mantra. This time, it's different. Except it's not, and it's you that'll be left to pick up the tab."
+  },
+  {
+   "id": 158,
+   "debut": 8164.36,
+   "fin": 8207.92,
+   "temps_estime": true,
+   "titre": "The human cost of the dot-com crash: retirement accounts and foreclosures",
+   "resume": "The dot-com crash drained $5 trillion from the NASDAQ between March 2000 and October 2002. Retirement accounts heavy in internet stocks lost about 78% over two and a half years, a Vanguard study found millions of 401(k)s down at least 20% by end of 2002, and workers who borrowed on their homes for Pets.com and Webvan got margin calls and foreclosures.",
+   "mots_cles": [
+    "dot-com crash",
+    "$5 trillion NASDAQ",
+    "401k losses",
+    "Vanguard study",
+    "78% loss",
+    "Pets.com",
+    "Webvan",
+    "foreclosures",
+    "margin calls"
+   ],
+   "texte": "The dot bubble promised global connectivity. Instead, it drained $5 trillion out of the NASDAQ between March 20th and October 2002. Ordinary Americans bore the brunt of that. Retirement accounts loaded up with internet stocks lost about 78% of their value over two and a half years. A Vanguard study found that by the end of 2002, millions of 401k accounts had lost at least 20% of their value. Heavily tech [music] exposed portfolios were hit even harder. Across the country, tens of millions of American workers were left holding the bag. These were the people who pulled cash out of their homes to chase Pets.com and Web Van and then got margin calls instead of returns. Fore foreclosures followed, destroying lives all across the country. Most of them never made the news."
+  },
+  {
+   "id": 159,
+   "debut": 8207.92,
+   "fin": 8224.87,
+   "temps_estime": true,
+   "titre": "NASDAQ from 5,000 to 1,000 and 18 years to recover",
+   "resume": "The NASDAQ peaked just over 5,000 on March 10, 2000 and plummeted to around 1,000. Adjusted for inflation it did not regain its peak until 2018, 18 years of lost growth for those who clung to the dot-com bubble.",
+   "mots_cles": [
+    "NASDAQ peak",
+    "March 10 2000",
+    "5,000 to 1,000",
+    "inflation adjusted",
+    "2018 recovery",
+    "18 years lost",
+    "dot-com bubble"
+   ],
+   "texte": "The [music] NASDAQ peaked at just over 5,000 on March 10th, 2000. And then the crash happened, and it plummeted to around 1,000. Once you account for inflation, it didn't get back to the peak level until 2018. That is 18 years of lost growth for the people who clung to the.com bubble."
+  },
+  {
+   "id": 160,
+   "debut": 8224.87,
+   "fin": 8237.88,
+   "temps_estime": true,
+   "titre": "Big tech spends over $300 billion a year on AI, concentrated in few hands",
+   "resume": "The speaker says the same gun is aimed again: big tech spending on AI data centers and chips is over $300 billion a year, and the value built on top of it sits in fewer hands than at any time since the dot-com years.",
+   "mots_cles": [
+    "$300 billion",
+    "AI data centers",
+    "chips",
+    "concentration of wealth",
+    "dot-com years",
+    "big tech spending",
+    "AI spending"
+   ],
+   "texte": "And now we're staring down the barrel of the same gun. Big tech spending on AI data centers and chips is now over $300 billion a year. The value piled on top of that spending sits [music] in fewer hands than at any time since the dotcom years."
+  },
+  {
+   "id": 161,
+   "debut": 8237.88,
+   "fin": 8296.88,
+   "temps_estime": true,
+   "titre": "Same people, same fingerprints: Hoffman, Khosla and Andreessen",
+   "resume": "The AI movement is framed as a rebellion by hoodie-wearing newcomers, but the people setting the pace are mostly the same as last time, now with 25 more years of contacts and government access. Reid Hoffman (PayPal) backed OpenAI, Vinod Khosla (Sun Microsystems) followed him, and Marc Andreessen (Netscape IPO 1995) now runs Andreessen Horowitz, funding AI labs.",
+   "mots_cles": [
+    "Reid Hoffman",
+    "Vinod Khosla",
+    "Marc Andreessen",
+    "Andreessen Horowitz",
+    "Netscape",
+    "PayPal",
+    "OpenAI",
+    "venture capital",
+    "same fingerprints"
+   ],
+   "texte": "Most people assume that this is a brand new cast of characters. It is not. The AI movement is framed as a fresh rebellion led by hoodiewearing newcomers in San Francisco. The people setting the pace today are mostly the same people who set the pace last time. only they have 25 more years of contacts, government access, and investors lined up behind them. During the original mania, Reed Hoffman made his fortune through PayPal. [music] Now he's an early backer and former board member of OpenAI. Venode Kosla rode his son Microsystem stake through the late 1990s hardware wave. He followed Hoffman into OpenAI. Mark Andre [music] built Netscape and took it public at 24 years old in August 1995. That IPO is what most people see as the official starting point of the dotcom era. Today, he runs the venture firm [music] Andre Horowits, which has poured billions into the current crop of AI labs. What looks like a technological revolution may be something closer to a very expensive piece of theater, and the same [music] fingerprints keep showing up at every stage."
+  },
+  {
+   "id": 162,
+   "debut": 8296.88,
+   "fin": 8329.42,
+   "temps_estime": true,
+   "titre": "The dot-com mania: NASDAQ up 400% when profit was outdated",
+   "resume": "When big tech promised the internet would erase distance, money poured into anything with dot in its name: between 1995 and March 2000 the NASDAQ rose about 400%. Investors stopped asking whether companies made money, revenue barely mattered and Wall Street cared only about speed, growth and dominance, until the crash came.",
+   "mots_cles": [
+    "NASDAQ 400%",
+    "1995 to 2000",
+    "dot-com mania",
+    "profit outdated",
+    "Wall Street",
+    "growth over revenue",
+    "business model",
+    "crash"
+   ],
+   "texte": "When big tech promised the internet would erase distance forever, it felt like a defining moment [music] in history. Money poured into anything with dot in the name. Between 1995 and the March 2000 peak, the NASDAQ exploded roughly 400%. Investors stopped asking whether the companies made money. Revenue barely mattered. Profit was considered outdated. The only thing Wall Street cared about was speed. They wanted to grow and attract customers. They wanted to dominate the sector. The business model and logistics could come later. And then came the crash."
+  },
+  {
+   "id": 163,
+   "debut": 8329.42,
+   "fin": 8376.88,
+   "temps_estime": true,
+   "titre": "The AI explosion revives the same energy, with Nvidia as biggest winner",
+   "resume": "AI revives the dot-com energy with smarter machines instead of websites: huge data centers burn electricity to train ever stronger models, and money flows to a select group of companies. Nvidia, whose chips every serious AI company needs, saw its valuation soar by 2024, not quite as extreme as Cisco at the dot-com peak but moving in a familiar direction, with cash coming from big tech's own accounts.",
+   "mots_cles": [
+    "Nvidia valuation",
+    "data centers",
+    "AI chips",
+    "Cisco",
+    "dot-com comparison",
+    "big tech cash",
+    "venture capital",
+    "model training"
+   ],
+   "texte": "Now the AI explosion is reviving that same energy with just smarter machines instead of websites. Massive data centers are burning through electricity to train models that get more powerful every month. And again, nearly all of the money is flooding into a select group of companies. The biggest winner so far is Nvidia. Every serious AI company needs its chips. [music] That demand pushed Nvidia's valuation into territory that would have sounded insane just a few years ago. By 2024, investors were throwing money at Nvidia the same way they were once plying it into internet stocks before the dot crash. It's not quite as extreme as Cisco at the peak of the do-com bubble, but it is moving in a direction that feels very familiar. The cash this time is coming mostly from big tech's own bank accounts, not solely venture capital, but it all ends up in the same place."
+  },
+  {
+   "id": 164,
+   "debut": 8376.88,
+   "fin": 8439.5,
+   "temps_estime": true,
+   "titre": "Cisco in 1999: 72% of routing, $555 billion and a P/E of 201",
+   "resume": "In 1999 Cisco owned 72% of the enterprise routing and switching market, the backbone of the internet, and earned nearly $18.9 billion in fiscal 2000. On March 27, 2000 it hit $80 a share and over $555 billion in market value, briefly the most valuable company, at a P/E ratio of about 201, like paying $100 for a lemonade stand earning $1.25 a year.",
+   "mots_cles": [
+    "Cisco",
+    "72% market share",
+    "$555 billion",
+    "P/E ratio 201",
+    "lemonade stand analogy",
+    "March 2000",
+    "routers",
+    "dot-com peak"
+   ],
+   "texte": "Every bubble sounds good while it's inflating. But which one is the ultimate trap? To understand that, we need to look at the various factors that shaped the bubbles. In 1999, Cisco Systems owned 72% of the enterprise routing and switching market. That means Cisco sold the physical boxes that made the internet work. It was selling the backbone of the internet itself. Every company rushing online needed Cisco's hardware, and the money pouring in proved it. By fiscal year 2000, Cisco was generating nearly $18.9 billion in annual revenue. On March 27th, 2000, Cisco hit $80 a share. Its market value surged past $555 billion. For a brief moment, Cisco became the most valuable company on Earth, overtaking Microsoft. Investors weren't just buying into a successful company. At its peak, Cisco traded at a price to earnings or PE ratio of 2011. Imagine paying $100 for a lemonade stand that only earns you. 125 a year. The stand might be incredible, but the numbers border on fantasy."
+  },
+  {
+   "id": 165,
+   "debut": 8439.5,
+   "fin": 8467.51,
+   "temps_estime": true,
+   "titre": "Cisco's fall: 80% drop and 26 years to recover",
+   "resume": "The Cisco boom rested on venture capital continuing to flow to startups buying routers. When funding froze in spring 2000 orders dried up and the stock fell about 80% over 30 months; it took nearly 26 years, until December 2025, to regain $80, and buyers at the top still lost more than half in real terms.",
+   "mots_cles": [
+    "Cisco crash",
+    "venture capital froze",
+    "80% drop",
+    "26 years recovery",
+    "December 2025",
+    "inflation",
+    "buy at the top",
+    "orders dried up"
+   ],
+   "texte": "The whole thing rested on venture capital continuing to flow to the startups buying the routers. When that funding [music] froze in the spring of 2000, the orders dried up. Cisco couldn't handle it. The stock fell about 80% from its peak over the next 30 months. It took Cisco almost 26 years to climb back to that $80 mark. The recovery hit in December 2025. Anyone who bought at the top and held it all the way still lost more than half of what their money could buy. Inflation ate the rest."
+  },
+  {
+   "id": 166,
+   "debut": 8467.51,
+   "fin": 8544.38,
+   "temps_estime": true,
+   "titre": "Nvidia in 2024 looks like Cisco at the dot-com peak",
+   "resume": "Nvidia's chips ship by the truckload, but many customers are AI labs and startups burning investor cash and tech giants spending on belief rather than existing profits. Overlaid, Nvidia's 2024 valuation surge and Cisco's pre-2000 climb follow the same curve; having real hardware revenue did not protect Cisco, since the crash came when the check writers ran out of money.",
+   "mots_cles": [
+    "Nvidia",
+    "Cisco comparison",
+    "valuation curve",
+    "AI labs burning cash",
+    "hardware revenue",
+    "demand cliff",
+    "GPU demand",
+    "2000 crash"
+   ],
+   "texte": "Nvidia in 2024 looks eerily similar to Cisco at the peak of the dot era. Its chips are shipped by the truckload. Data centers across the world are stuffing racks with Nvidia GPUs as [music] fast as they can get them. The demand looks unstoppable, but the reality is a lot more fragile. Many of Nvidia's biggest customers are AI labs and startups burning through investor cash at historic speeds. The rest are tech giants spending billions because they believe AI has to work, not because the profits already exist. That's the part that makes veteran investors nervous. When analysts overlay Nvidia's 2024 valuation surge against Cisco's climb before the 2000 crash, the curves follow the same trajectory. When two bubbles separated by 25 years begin drawing the same shape, people who lived through the first one tend to pay attention. Most people assume Nvidia is safe because unlike the dot flameouts, it has real hardware revenue. But Cisco had real hardware revenue and a dominant market share. The 2000 crash didn't come because the router stopped working. It came because the people writing the checks ran out of money. Cisco's peak was actually sharper than anything Nvidia's touched so far. It should be a warning. The number tells you just how much further the current cycle could still inflate [music] before that same demand cliff shows up."
+  },
+  {
+   "id": 167,
+   "debut": 8544.38,
+   "fin": 8595.3,
+   "temps_estime": true,
+   "titre": "Late-1990s insiders quietly sold $43 billion of stock",
+   "resume": "In the late 1990s tech executives told investors that the internet had changed everything and old rules on profit and valuation no longer applied, while insiders sold stock in small amounts to avoid alarms. Between September 1999 and July 2000 insiders cashed out $43 billion of their own stock, twice the rate of 1997 and 1998.",
+   "mots_cles": [
+    "insider selling",
+    "$43 billion",
+    "1999 2000",
+    "tech executives",
+    "stock sales",
+    "valuation",
+    "dot-com bubble",
+    "hype"
+   ],
+   "texte": "So, the machinery looks familiar, but the more revealing comparison is the people making the decisions behind it. During the late 1990s, executives at the biggest tech companies kept telling investors the same story. The internet had changed everything. The old rules about profits and valuation no longer applied. Earnings would eventually catch up to the hype. Meanwhile, behind the scenes, insiders were selling stock. They were small sales, just enough to avoid setting off alarms. At the time, almost nobody paid attention. It only became suspicious years later after the bubble burst and someone looked closer. The numbers when they finally came out were ugly. Between September 1999 and July 2000, Insiders cashed out $43 billion of their own company stock. That was [music] twice the rate they had been selling at in 1997 and 1998."
+  },
+  {
+   "id": 168,
+   "debut": 8595.3,
+   "fin": 8646.37,
+   "temps_estime": true,
+   "titre": "The February 2024 cash-out: Bezos, Walton, Dimon, Black, Zuckerberg",
+   "resume": "In February 2024 the camouflage came off: in a nine-day window Jeff Bezos sold $8.5 billion of Amazon stock, the Walton Family Trust $1.5 billion of Walmart, Jamie Dimon $150 million of JPMorgan (first sale in 18 years) and Leon Black $172.8 million (his first ever), about $11 billion in one month. Mark Zuckerberg sold roughly $2 billion of Meta over four months; each sale looked normal but together the people closest to the numbers were cashing out at once.",
+   "mots_cles": [
+    "Jeff Bezos",
+    "Walton Family Trust",
+    "Jamie Dimon",
+    "Leon Black",
+    "Mark Zuckerberg",
+    "insider sales",
+    "February 2024",
+    "$11 billion",
+    "Meta stock"
+   ],
+   "texte": "February 2024 was a different animal. The camouflage came off. In a single 9-day window that month, Jeff Bezos sold 8.5 billion dollars of Amazon stock. The Walton Family Trust, dumped $1.5 billion of Walmart shares over that same stretch. Jaime Diamond, the CEO of JP Morgan, sold $150 million of his own bank stock. That was his first sale in 18 years on the job. Leon Black, the Apollo co-founder, unloaded $172.8 [music] million, his first sale ever. The combined number for that one month came to 11 billion. But it didn't stop there. Mark Zuckerberg offloaded roughly 2 billion of Meta Stock across the four months heading into that window. One at a time, the moves all looked normal. They were nothing out of the ordinary, but stacked side by side, the people closest to the numbers were cashing out at the same moment."
+  },
+  {
+   "id": 169,
+   "debut": 8646.37,
+   "fin": 8686.56,
+   "temps_estime": true,
+   "titre": "Bullish interviews, selling filings: Fortune's 'The Great Cash Out'",
+   "resume": "Publicly executives stayed bullish, talking about decade-long opportunities and the future of AI, while privately cashing out near the highs: the interview said confidence, the filing said take the money. Fortune ran the headline 'The Great Cash Out' on February 27, 2024; unlike 1999 the selling is faster and larger and boom builders look like they are preparing to survive its end.",
+   "mots_cles": [
+    "The Great Cash Out",
+    "Fortune",
+    "insider selling",
+    "bullish messaging",
+    "AI future",
+    "executives",
+    "filings",
+    "bubble risks"
+   ],
+   "texte": "The whole time, public messaging from those same executives stayed bullish, belief in the project. Publicly, they talked about decadel long opportunities and the future of AI. Privately, they were cashing out near the highs. The interview said confidence. The filing said, \"Take the money.\" Fortune ran the headline, \"The great cash out,\" on February 27th, 2024. It was a fitting title. When the people closest to the boom started taking money off the table, [music] it usually means they understand the risks better than everyone else. And unlike 1999, the selling is happening faster and in larger amounts, the people building the boom increasingly look like the people preparing to survive the end of it."
+  },
+  {
+   "id": 170,
+   "debut": 8686.56,
+   "fin": 8749.25,
+   "temps_estime": true,
+   "titre": "Webvan, Pets.com and Stability AI: burning money on demand that never came",
+   "resume": "Asking who still buys at these prices, the speaker recalls Webvan's refrigerated warehouses and Pets.com's memorable ads built for demand that never showed up. Stability AI is the modern version: in 2023 it spent about $99 million on compute and $54 million on running costs against $11 million of revenue, a burn ratio above 14 to 1, and was behind on its AWS bills.",
+   "mots_cles": [
+    "Webvan",
+    "Pets.com",
+    "Stability AI",
+    "burn rate",
+    "AWS bill",
+    "compute costs",
+    "$11 million revenue",
+    "14 to 1 ratio"
+   ],
+   "texte": "But if insiders are selling, who is still buying enough stock to keep prices floating at these levels? In 1999, Web Van built refrigerated warehouses for customers who didn't exist yet. Pets.com made television commercials that turned out to be more memorable than its actual orders. Both companies poured cash into buildings, trucks, and ad campaigns shaped around demand that never showed up. Both became case studies in burning money because neither made it to its second birthday on the public markets. Stability AI is the modern version of those companies. In 2023, it spent roughly $99 million renting compute power from AWS, Google Cloud, and Coree. On top of that, another $54 million went to salaries and running costs. Their total revenue for the year, $11 million. That's a burn-to-revenue ratio north of 14 to1. By July 2023, Stability AI was already short on its AWS bill by $1 million. Internal reporting later showed the company had no real plan to pay the $7 million August invoice either,"
+  },
+  {
+   "id": 171,
+   "debut": 8749.25,
+   "fin": 8779.83,
+   "temps_estime": true,
+   "titre": "The circular economy: venture money looping through Nvidia and Microsoft",
+   "resume": "Venture firms wire capital to AI startups, which hand it to Nvidia for chips and Microsoft Azure for cloud time; big tech books that as revenue, boosting stock prices, which justifies bigger venture commitments and the next round through the same pipe. Insiders call this the circular economy.",
+   "mots_cles": [
+    "circular economy",
+    "venture capital",
+    "AI startups",
+    "Nvidia chips",
+    "Microsoft Azure",
+    "booked revenue",
+    "stock prices",
+    "funding loop"
+   ],
+   "texte": "but the cash didn't vanish into a black hole. It moved on a specific traceable route. Venture firms wired fresh capital into AI startups. The startups turned around and handed that capital straight to Nvidia for chips and to Microsoft Azure for cloud time. Big tech then booked that spend as their own revenue, pushing their stock prices higher. The higher stock prices justified bigger venture commitments and the next round of money flowed right back through that same pipe. It's what people inside the industry call the circular economy."
+  },
+  {
+   "id": 172,
+   "debut": 8779.83,
+   "fin": 8822.56,
+   "temps_estime": true,
+   "titre": "One dollar, one loop: the same capital moving between five companies",
+   "resume": "A dollar leaving Silicon Valley lands at an AI startup and within weeks shows up on Jensen Huang's earnings call as growth, lifting Nvidia stock and making the next venture fund easier to raise. Most money does not come from customers who cannot live without AI; much of OpenAI-type revenue measures the same capital moving among five connected companies.",
+   "mots_cles": [
+    "Jensen Huang",
+    "Nvidia earnings",
+    "circular funding",
+    "OpenAI revenue",
+    "venture fund",
+    "capital loop",
+    "five connected companies",
+    "AI customers"
+   ],
+   "texte": "It might be the single most important trick in the current boom. A dollar leaves a Silicon Valley account and lands in some AI startup's bank account, but it doesn't sit there for long. Within a few weeks, that same dollar usually shows up on Jensen Hong's earning call as growth. And then it helps push Nvidia stock higher. and that [music] makes the next venture fund easier to raise. Then another dollar gets sent through the same loop. Most of the money isn't coming from everyday customers buying AI tools because they can't live without them yet. Sure, companies like OpenAI have concrete revenue, but a large part of the money doesn't measure how many people actually use the products. It's measuring the same pool of capital moving back and forth between five connected companies."
+  },
+  {
+   "id": 173,
+   "debut": 8822.56,
+   "fin": 8862.95,
+   "temps_estime": true,
+   "titre": "Inflection AI: investors cashed out while Microsoft absorbed the company",
+   "resume": "Inflection AI raised about $1.3 billion at roughly a $4 billion valuation in June 2023 from Microsoft, Nvidia, Bill Gates, Eric Schmidt and Reid Hoffman. In March 2024 Microsoft effectively absorbed it for about $650 million, hiring most of the team and licensing the technology, so the investors left with about 1.5 times their money since the cash had already passed through Nvidia's orders and Microsoft's cloud invoices; only late buyers lost.",
+   "mots_cles": [
+    "Inflection AI",
+    "Microsoft",
+    "Nvidia",
+    "$1.3 billion raise",
+    "$650 million",
+    "Reid Hoffman",
+    "Bill Gates",
+    "Eric Schmidt",
+    "investors returns"
+   ],
+   "texte": "A good example is Inflection AI. In June 2023, it raised about $1.3 billion at a valuation of roughly four billion. The investor list read like a who's who of the AI boom. Microsoft, Nvidia, Bill Gates, Eric Schmidt, Reed Hoffman. Then less than a year later in March 2024, Microsoft effectively absorbed the company. It paid around $650 million, hired most of the team, and licensed the core technology. Inflection as a standalone [music] business was finished. The investors though walked away with one and a half times what they'd put in. The cash had already passed through Nvidia's order book and Microsoft's cloud invoices on the way down. The only people who lost out were the late buyers."
+  },
+  {
+   "id": 174,
+   "debut": 8862.95,
+   "fin": 8884.24,
+   "temps_estime": true,
+   "titre": "A more coordinated cash loop than the dot-com failures: who holds the losses?",
+   "resume": "The speed and design of the AI cash loop go beyond what Webvan-style failures did: Webvan was sloppy in a way the market eventually figured out, while AI looks more coordinated, less an accident and more a system. The speaker asks who benefits while it works and who holds the losses when it stops.",
+   "mots_cles": [
+    "cash loop",
+    "coordinated system",
+    "Webvan",
+    "who benefits",
+    "who holds losses",
+    "AI bubble",
+    "dot-com comparison"
+   ],
+   "texte": "The speed and design of this cash loop go way past anything the failures pulled off. Web van was sloppy in a way the market eventually figured out. What's happening around AI feels different. It's more coordinated. It's less of an accident and more of a system. So, who benefits while it works? and who is left holding the losses when it [music] stops."
+  },
+  {
+   "id": 175,
+   "debut": 8884.24,
+   "fin": 8918.93,
+   "temps_estime": true,
+   "titre": "1999 retail traders on margin absorbed the market",
+   "resume": "In 1999 day traders opened online brokerage accounts for the first time and rushed into IPOs and internet stocks, often on margin, amplifying every rise. The biggest institutions were backing off, yet the market kept rising because retail traders, seeing rising charts and fearing missing out, were buying at higher prices and absorbing the market.",
+   "mots_cles": [
+    "day traders",
+    "online brokerage",
+    "margin",
+    "IPOs",
+    "retail investors",
+    "institutions selling",
+    "fear of missing out",
+    "1999"
+   ],
+   "texte": "In 1999, day traders opened online brokerage accounts for the first time and rushed into anything that was moving. They were snapping up things like IPOs and internet stocks. Many were buying on margin or borrowed money. So, every rise felt amplified. At the same time, the biggest institutions were backing off. But the market didn't fall immediately. It kept going because there was still someone willing to buy at higher prices. that someone was the retail traders. Except they didn't know that. They just saw rising charts and they didn't want to miss out. Instead, they were absorbing the market."
+  },
+  {
+   "id": 176,
+   "debut": 8918.93,
+   "fin": 8976.86,
+   "temps_estime": true,
+   "titre": "2024 retail: same-day options trading and Robinhood",
+   "resume": "The 2024 version is worse: a huge share of trading is bets expiring the same day, which Cboe says approached half of S&P 500 options activity, more than the 2021 meme-stock frenzy. Robinhood ran TV ads in 2023 and 2024 pushing options, reported over 25 million funded accounts by end of 2024, mostly under 35, with peaks above 50 million contracts, so the favorite retail tool is a leveraged same-day bet.",
+   "mots_cles": [
+    "0DTE options",
+    "Cboe",
+    "S&P 500 options",
+    "Robinhood",
+    "meme stocks",
+    "leveraged bets",
+    "retail traders under 35",
+    "25 million accounts"
+   ],
+   "texte": "The 2024 version is worse. Trading wasn't just about buying and holding stocks anymore. A huge share of activity was people making bets that expired the very same day they were placed. SIBO [music] Global Markets reported that this kind of ultrash short trading became so common it was approaching half of all activity tied to the S&P 500 options market on typical days. Even the 2021 meme stock frenzy didn't reach [music] that level. The market was being gamed in real time minute. Robin Hood spent 2023 and 24 running television ads that pushed options trading into the mainstream. Your cousin, your neighbor, that guy at the gym. The platform was reporting more than 25.2 2 million funded accounts by the end of 2024. The user base skewed heavily toward traders under 35, clearing more than 50 million contracts at peak [music] times. The favorite tool of the retail trader is no longer the stock itself. It is a leveraged bet, a bet that the price will go up or down by closing time that same afternoon."
+  },
+  {
+   "id": 177,
+   "debut": 8976.86,
+   "fin": 9043.73,
+   "temps_estime": true,
+   "titre": "A fast-moving crowd absorbs insider selling, until the buyer flow slows",
+   "resume": "Same-day options trading is like a stadium betting life savings on a coin toss every hour; the public now acts as a fast crowd stepping in and out, able to absorb selling without realizing. Unlike the simpler late-90s retail, it reacts instantly to price swings, so early winners and insiders can sell without a dramatic exit window, and the question is what happens if the buyer flow slows.",
+   "mots_cles": [
+    "same-day options",
+    "coin toss analogy",
+    "retail liquidity",
+    "insider selling",
+    "exit window",
+    "buyer flow",
+    "market absorption",
+    "1999 comparison"
+   ],
+   "texte": "Most people assume the average investor in 2024 is just like a day trader from 1999, just with a slicker app. But the truth is, it's not even close. Imagine a stadium full of people betting their life savings on a single coin toss every hour. And then they make another bet before the previous coin has even hit the floor. That's roughly the speed of same day options trading in the current cycle. The public isn't acting like a slow, steady pool of long-term buyers anymore. It's acting like a fastmoving crowd stepping in and out so quickly that it can absorb selling without even realizing it's doing so. That changes the whole system. In the late 90s, retail was loud but relatively simple. Today, it moves faster and reacts instantly to price swings. That means it can absorb a surprising amount of selling without the market immediately breaking. So, when early winners and insiders sell now, they don't need a dramatic exit window. There's already a constant churn of buyers underneath them stepping in and out quickly enough to take the other side without noticing it in real time. But what happens if that flow of buyers suddenly slows down?"
+  },
+  {
+   "id": 178,
+   "debut": 9043.73,
+   "fin": 9085.76,
+   "temps_estime": true,
+   "titre": "From antitrust fights to lobbying: OpenAI and Anthropic spending jumps",
+   "resume": "In the late 1990s Microsoft fought a US antitrust battle over bundling Internet Explorer with Windows and the industry saw Washington as a problem. By 2024 the stance flipped: OpenAI's federal lobbying rose from $260,000 in 2023 to $1.76 million, nearly sevenfold, and Anthropic more than doubled its spend from $280,000 to $720,000.",
+   "mots_cles": [
+    "Microsoft antitrust",
+    "Internet Explorer",
+    "lobbying",
+    "OpenAI lobbying spend",
+    "Anthropic lobbying",
+    "$1.76 million",
+    "Washington",
+    "1998 vs 2024"
+   ],
+   "texte": "In the late9s, big tech was at war. Microsoft spent much of the decade locked in an antitrust battle with the US government. The fight was over its decision to bundle Internet Explorer with Windows. The broader industry treated Washington as a problem to manage, not a [music] partner. Lobbying budgets existed mostly to keep federal hands off of the fortunes being made. By 2024, the stance had completely flipped. OpenAI's federal lobbying spend jumped from $260,000 in 2023 to 1.76 million in 2024. That is close to a sevenfold [music] rise in a single year. Anthropic more than doubled its own spend over the same window from 280,000 to 720,000."
   }
  ]
 }
