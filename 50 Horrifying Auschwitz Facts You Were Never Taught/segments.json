@@ -4,12 +4,12 @@
   "titre_video": "50 Horrifying Auschwitz Facts You Were Never Taught",
   "duree_s": 2010.03,
   "avancement": {
-    "lignes_traitees": 445,
-    "fin_traitee_s": 1789.76,
+    "lignes_traitees": 501,
+    "fin_traitee_s": 2010.03,
     "nb_lignes_total": 501,
-    "complet": false
+    "complet": true
   },
-  "nb_segments": 47,
+  "nb_segments": 54,
   "segments": [
     {
       "id": 1,
@@ -903,6 +903,139 @@
         "false confession"
       ],
       "texte": "One man had tried to warn the world about all of this years before Soviet soldiers ever reached the gates. What his own country did to him afterward is almost impossible to believe. 7. After escaping Auschwitz and telling the world about the horrors, Witold Pilecki didn’t stop fighting. He continued working as a resistance operative, this time against the Soviet-backed communist regime that had taken over Poland. He was arrested by the Polish communist secret police in 1947 and tortured into signing a false confession. After a show trial, 47 year old Pilecki was executed with a single bullet to the back of the head on May 25th, 1948. His name was suppressed by the communist government for decades, but was posthumously rehabilitated in 1990. He’s now widely regarded as one of Poland's greatest national heroes."
+    },
+    {
+      "id": 48,
+      "debut": 1789.76,
+      "fin": 1830.0,
+      "temps_estime": false,
+      "titre": "Fact 6: German prosecutions of SS guards into the 21st century",
+      "resume": "German courts were still prosecuting SS personnel well into the 21st century. In June 2022, 77 years after the war, a German court sentenced a 101-year-old man to 5 years in prison for serving as a guard at a camp and aiding in the murder of over 3,500 prisoners, a man who had lived as an ordinary civilian and denied everything.",
+      "mots_cles": [
+        "SS prosecutions",
+        "June 2022",
+        "101-year-old guard",
+        "5 years in prison",
+        "3,500 prisoners",
+        "German courts",
+        "late justice",
+        "Holocaust trials"
+      ],
+      "texte": "Meanwhile, the legal reckoning for what happened at Auschwitz kept grinding forward, even decades after the world had moved on. 6. If you thought the accounting of justice ended in the 1940s, think again. German courts were still actively prosecuting SS personnel well into the 21st century. In June 2022, 77 years after the war, a German court sentenced a 101-year-old man to 5 years in prison for serving as a guard at a camp and aiding in the murder of over 3,500 prisoners. He had spent the intervening decades as an ordinary civilian. He denied everything. The case shows how prosecutors are determined that no one escapes justice, especially those at Auschwitz."
+    },
+    {
+      "id": 49,
+      "debut": 1830.0,
+      "fin": 1862.96,
+      "temps_estime": false,
+      "titre": "Fact 5: The town of Oświęcim and the world that did not know",
+      "resume": "Auschwitz was not hidden: the town of Oświęcim sat adjacent to the camp, and residents could see smoke from the crematoria, smell the burning and watch the trains. The operation ran five years in plain view with thousands of SS personnel and civilian contractors, which challenges the idea that the surrounding world did not know.",
+      "mots_cles": [
+        "Oświęcim",
+        "town beside camp",
+        "smoke from crematoria",
+        "trains in plain view",
+        "civilian contractors",
+        "bystanders",
+        "did not know claim",
+        "historians"
+      ],
+      "texte": "But for the world outside the wire, there was no trial at all. 5. Auschwitz wasn't some remote, hidden facility tucked away from the world. The town of Oświęcim sat adjacent to the camp. Residents could see the smoke rising from the crematoria, smell the burning on the wind, and watch the trains rolling in and out. The operation ran for 5 years, in plain view, with thousands of SS personnel and civilian contractors involved. The notion that the surrounding world didn't know what was happening has been challenged by historians for decades. The evidence suggests otherwise."
+    },
+    {
+      "id": 50,
+      "debut": 1862.96,
+      "fin": 1903.2,
+      "temps_estime": false,
+      "titre": "Fact 4: Topf & Sons and the crematoria contractors",
+      "resume": "Auschwitz relied on hundreds of civilian contractors, including German oven manufacturer Topf & Sons, whose engineers supplied the crematoria and visited regularly to increase throughput at the SS's request. A Topf engineer's service report called the room under Crematorium II the undressing room instead of the SS cover term morgue, proving he knew its purpose, and no one from the company was ever convicted.",
+      "mots_cles": [
+        "Topf & Sons",
+        "crematoria ovens",
+        "civilian contractors",
+        "Crematorium II",
+        "undressing room",
+        "service report",
+        "morgue cover term",
+        "no convictions"
+      ],
+      "texte": "4. Auschwitz needed hundreds of civilian contractors and suppliers during the construction process. Among them was Topf & Sons, a German oven manufacturer whose engineers supplied the crematoria and visited the camp regularly to increase their throughput… at the SS's request. When one Topf engineer was installing ventilation systems in Crematorium II, he filed a service report which referred to the room beneath the building as the “undressing room”. The SS official cover term was the “morgue.” That single phrase in a routine service document proves he knew what the space was for. Topf & Sons continued operating after the war. No one from the company was ever convicted of a crime."
+    },
+    {
+      "id": 51,
+      "debut": 1903.2,
+      "fin": 1945.44,
+      "temps_estime": false,
+      "titre": "Fact 3: The Allies knew and rejected bombing Auschwitz",
+      "resume": "In June 1944, after the Vrba-Wetzler Report, the BBC broadcast details of the killings, the New York Times ran stories and the War Refugee Board in Washington received intelligence including the location of the rail lines carrying Hungarian Jews. Proposals to bomb the rail lines or crematoria were rejected as not feasible or a waste of assets, and whether bombing could have saved lives is still contested.",
+      "mots_cles": [
+        "Allied bombing",
+        "Vrba-Wetzler Report",
+        "BBC broadcast",
+        "War Refugee Board",
+        "rail lines",
+        "bombing rejected",
+        "Hungarian Jews",
+        "Allied knowledge"
+      ],
+      "texte": "3. In June 1944, following the publication of the Vrba-Wetzler Report, the BBC broadcast details of the mass killings at Auschwitz. The New York Times ran stories. The War Refugee Board in Washington received specific, actionable intelligence including the location of the rail lines that carried hundreds of thousands of Hungarian Jews to their deaths. Proposals to bomb those rail lines, or the crematoria themselves, were considered… and rejected. Military planners argued the raids were not feasible, or that the military assets were better used elsewhere. Whether bombing the lines could have saved lives and whether the decision remains a bitterly contested question in Holocaust history. What is not contested is that the information was there and ready to be acted upon."
+    },
+    {
+      "id": 52,
+      "debut": 1945.44,
+      "fin": 1972.8,
+      "temps_estime": false,
+      "titre": "Fact 2: International Holocaust Remembrance Day",
+      "resume": "In 2005 the United Nations designated January 27 as International Holocaust Remembrance Day, the anniversary of Soviet soldiers entering Auschwitz-Birkenau in 1945. The camp became the defining symbol of the Holocaust and of the mechanized scale of the Final Solution, and more than a million stories ended there.",
+      "mots_cles": [
+        "International Holocaust Remembrance Day",
+        "January 27",
+        "United Nations 2005",
+        "Soviet liberation",
+        "defining symbol",
+        "Final Solution",
+        "remembrance",
+        "Auschwitz-Birkenau"
+      ],
+      "texte": "2. In 2005, the United Nations designated January 27 as International Holocaust Remembrance Day. The choice was deliberate. It marks the anniversary of the day in 1945, when Soviet soldiers walked through the gates of Auschwitz-Birkenau. The camp had become the defining symbol of the Holocaust. No other location embodied the mechanized scale of the Nazi’s Final Solution. More than a million stories ended at Auschwitz, and we only know a fraction of them."
+    },
+    {
+      "id": 53,
+      "debut": 1972.8,
+      "fin": 1995.84,
+      "temps_estime": false,
+      "titre": "Fact 1: Every number is a person",
+      "resume": "The most important thing about Auschwitz is that every number represents a specific person. Most victims left no record because the Nazis did not record those they killed immediately, so they arrived, were murdered and the world moved on without knowing their names.",
+      "mots_cles": [
+        "every number a person",
+        "unrecorded victims",
+        "names lost",
+        "Nazi record keeping",
+        "statistics and testimony",
+        "remembrance",
+        "murdered on arrival",
+        "Auschwitz victims"
+      ],
+      "texte": "1. For all the statistics, the facts, testimonies and investigations, the single most important thing about Auschwitz is also the thing hardest to hold onto. That every single number represents a specific person. Most of them left no record, because the Nazis didn't bother recording the ones they killed immediately. They arrived. They were murdered. And the world moved on without knowing their names."
+    },
+    {
+      "id": 54,
+      "debut": 1995.84,
+      "fin": 2010.03,
+      "temps_estime": false,
+      "titre": "Closing line and promotion of the gas chambers video",
+      "resume": "The video closes by calling Auschwitz a scar on human history, engineered down to the exact second a train arrived. It points viewers to the video How Nazi Gas Chambers Actually Worked to learn about the methods the Nazis used.",
+      "mots_cles": [
+        "scar on human history",
+        "engineered killing",
+        "How Nazi Gas Chambers Actually Worked",
+        "call to action",
+        "outro",
+        "Nazi methods",
+        "promotion",
+        "Auschwitz"
+      ],
+      "texte": "The events at Auschwitz remain a scar on human history. But what took place there was engineered down to the exact second a train arrived. Find out the brutal methods the Nazis employed, watch “How Nazi Gas Chambers Actually Worked”. Or click on this video."
     }
   ]
 }

@@ -3,7 +3,8 @@
 Départ : début de la vidéo (aucun segments.json existant). Speech : 501 lignes, 2010,03 s (≈ 33,5 min), langue « en », source manuelle. La vidéo est un compte à rebours de 50 faits : les marqueurs « 50. », « 49. »… sont des lignes à part dans le speech.
 
 ## Tranches
-- Tranche 1 : lignes 1 à 445 (0,16 s à 1789,76 s, ≈ 29,8 min), 47 segments (id 1 à 47). Fin de tranche choisie à la fin du fait 7 (Pilecki sous le régime communiste), avant la transition « Meanwhile, the legal reckoning… » qui ouvre le fait 6. Aucun temps estimé. Vérification : OK.
+- Tranche 1 : lignes 1 à 445 (0,16 s à 1789,76 s, ≈ 29,8 min), 47 segments (id 1 à 47). Fin de tranche choisie à la fin du fait 7 (Pilecki sous le régime communiste), avant la transition « Meanwhile, the legal reckoning… » qui ouvre le fait 6. Aucun temps estimé. Vérification : OK. Poussée : commit beb6059.
+- Tranche 2 : lignes 446 à 501 (1789,76 s à 2010,03 s, ≈ 3,7 min), 7 segments (id 48 à 54), dernière tranche. Faits 6 à 1 et conclusion avec la promotion de la vidéo « How Nazi Gas Chambers Actually Worked ». Aucun temps estimé. Vérification : OK.
 
 ## Méthode et décisions de style (à suivre pour la tranche suivante)
 - Lecture du speech par blocs d'environ 75 lignes, puis découpage par idées : en général un segment par fait numéroté. Les faits qui mélangent deux points sont scindés (faits 46 et 45).
@@ -16,4 +17,11 @@ Départ : début de la vidéo (aucun segments.json existant). Speech : 501 ligne
 ## Remarques
 - Speech : sous-titres manuels, quelques fautes gardées telles quelles (« Auschwirtz », « beaurocracy », « Högestrom », « surgical sewed », « they just could accept », « In , Romani »).
 - Sujet : histoire de la Shoah, contenu documentaire et factuel. Les résumés suivent ce que dit la vidéo, sans vérification des faits.
-- Point d'arrêt : ligne 445 sur 501, « complet » = false. Prochaine étape : reprendre à la ligne 446 (« Meanwhile, the legal reckoning for what happened at Auschwitz kept grinding forward… », début du fait 6), id 48.
+- Le dernier segment (54) isole la phrase de conclusion et la promotion finale (lignes 499-501) du fait 1.
+
+## Bilan final
+- Segments : 54 (47 + 7). Plus court : 14,19 s (segment 54, conclusion et promotion). Plus long : 69,04 s (segment 25, évasion de Vrba et Wetzler).
+- Temps estimés : aucun, toutes les coupures tombent en début de ligne.
+- Speech douteux : voir la liste de fautes de sous-titres ci-dessus, gardées telles quelles. Aucune vérification des faits historiques.
+- Problèmes rencontrés : aucun.
+- Point d'arrêt : ligne 501 sur 501, « complet » = true. Prochaine étape : aucune.
