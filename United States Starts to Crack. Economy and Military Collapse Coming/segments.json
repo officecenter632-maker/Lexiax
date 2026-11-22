@@ -4,12 +4,12 @@
   "titre_video": "United States Starts to Crack. Economy and Military Collapse Coming",
   "duree_s": 10537.11,
   "avancement": {
-    "lignes_traitees": 4496,
-    "fin_traitee_s": 8973.99,
+    "lignes_traitees": 5265,
+    "fin_traitee_s": 10537.11,
     "nb_lignes_total": 5265,
-    "complet": false
+    "complet": true
   },
-  "nb_segments": 221,
+  "nb_segments": 276,
   "segments": [
     {
       "id": 1,
@@ -4207,6 +4207,1045 @@
         "frontier"
       ],
       "texte": "And there was a boom on the horizon. Lincoln's Homestead Act had offered western land for free to settlers who farmed it, while factories were about to push the USA into an age of growth. Hundreds of thousands of people used the Homestead Act to claim land. Immigrants poured in from abroad, while Native Americans were pushed onto reservations, their bison slaughtered and communities shattered. As railroads and ranches consumed the frontier, millions of acres of native land were seized. Vice"
+    },
+    {
+      "id": 222,
+      "debut": 8973.99,
+      "fin": 9010.39,
+      "temps_estime": false,
+      "titre": "Andrew Johnson's lenient Reconstruction and the Black Codes",
+      "resume": "Vice President Andrew Johnson, a Tennessee southerner loyal to the Union, becomes president, dislikes the planter elite but opposes equal rights for freed black Americans. His lenient presidential Reconstruction pardons former Confederate leaders who quickly return to power, and Southern legislatures pass the Black Codes restricting where black Americans can live and work, imposing curfews and vagrancy laws, and letting authorities arrest the unemployed and hire out their labor.",
+      "mots_cles": [
+        "Andrew Johnson",
+        "presidential Reconstruction",
+        "Black Codes",
+        "pardoned Confederate leaders",
+        "vagrancy laws",
+        "curfews",
+        "convict labor",
+        "freed people"
+      ],
+      "texte": "President Andrew Johnson became the president, a southerner from Tennessee who had stayed loyal to the Union. He disliked the planter elite, but he opposed equal rights for freed black Americans. Under his lenient presidential [music] reconstruction, former Confederate leaders were pardoned and quickly returned to power. Southern legislatures passed the Black [music] Codes, laws designed to control nearly every aspect of black life and force freed people into conditions barely removed from slavery. These codes [music] restricted where black Americans could live and work, imposed curfews and vagrancy laws, and [music] they allowed authorities to arrest unemployed black people and hire out their labor. If poor"
+    },
+    {
+      "id": 223,
+      "debut": 9010.39,
+      "fin": 9038.49,
+      "temps_estime": false,
+      "titre": "Jim Crow, lynching and freedom on paper",
+      "resume": "While poor whites were angry about job competition, black Americans faced the birth of the Jim Crow system: through segregation, disenfranchisement and violent terror Southern states built a radical caste system that lasted until 1965. Lynchings became a tool of terror, entire communities lived under constant threat, and freedom had been won on paper but was far off in practice.",
+      "mots_cles": [
+        "Jim Crow",
+        "segregation",
+        "disenfranchisement",
+        "lynching",
+        "caste system",
+        "racial terror",
+        "1965",
+        "freedom on paper"
+      ],
+      "texte": "whites were angry about rising competition for jobs, black Americans faced something much worse, the birth of the Jim Crow system. Through segregation, disenfranchisement, and violent terror, southern states built a radical caste system that lasted until 1965. Lynchings became a tool of terror. Being in the wrong town without permission could get a black person beaten, jailed, or even murdered. Entire communities lived under constant threat. Freedom had been won on paper, but it was way off in practice. [music] Still,"
+    },
+    {
+      "id": 224,
+      "debut": 9038.49,
+      "fin": 9067.59,
+      "temps_estime": false,
+      "titre": "Radical Republicans, the 14th Amendment and Johnson's impeachment",
+      "resume": "Congress, led by the Radical Republicans, rebelled against President Johnson's leniency toward Confederates, overriding his vetoes, passing the Civil Rights Act of 1866 and approving the 14th Amendment granting citizenship and equal protection to anyone born in the United States. Johnson refused to enforce them and in 1868 became the first president ever impeached, delaying real freedom for millions.",
+      "mots_cles": [
+        "Radical Republicans",
+        "Civil Rights Act of 1866",
+        "14th Amendment",
+        "citizenship",
+        "equal protection",
+        "Johnson impeachment 1868",
+        "veto override",
+        "Reconstruction"
+      ],
+      "texte": "Congress, led by the Radical Republicans, rebelled against what they saw as President Johnson's leniency toward the Confederates. Congress overrode his vetoes, passed the Civil Rights Act of 1866, and [music] approved the 14th Amendment, which granted citizenship and equal protection to anyone born in the United [music] States. Johnson refused to enforce them, and in 1868 became the first president ever impeached. So although Johnson inherited a nation that had abolished slavery, [music] his actions delayed genuine freedom for millions of newly"
+    },
+    {
+      "id": 225,
+      "debut": 9067.59,
+      "fin": 9088.59,
+      "temps_estime": false,
+      "titre": "White supremacy as divide and conquer: Douglass on dividing both races",
+      "resume": "White supremacy spread across the South like wildfire as Southern elites told whites they were superior by skin color, giving impoverished whites the illusion of status while keeping them nearly as poor and keeping both races from uniting for better pay. Frederick Douglass put it bluntly: they divided both to conquer each.",
+      "mots_cles": [
+        "white supremacy",
+        "divide and conquer",
+        "Frederick Douglass",
+        "poor whites",
+        "illusion of status",
+        "racial division",
+        "Southern elites",
+        "labor solidarity"
+      ],
+      "texte": "freed people. White supremacy spread across the South like wildfire. Meanwhile, whites were told by Southern elites that they were superior by virtue of the color of their skin. It gave impoverished whites the illusion of status while keeping them nearly as poor as before, and it kept both races from uniting for better pay. Frederick Douglass put it bluntly. They divided both to conquer each. Hundreds [music]"
+    },
+    {
+      "id": 226,
+      "debut": 9088.59,
+      "fin": 9112.39,
+      "temps_estime": false,
+      "titre": "Black workers after emancipation and President Garfield's assassination",
+      "resume": "Hundreds of thousands of freed black Americans soon worked in factories, shipyards, quarries and on railroads, and by 1870 the black population reached roughly 4 million, more than a tenth of the country. James Garfield, who grew up poor and supported civil rights, became president in 1881 but, like Lincoln, was assassinated by an assassin with delusions of grandeur.",
+      "mots_cles": [
+        "freed black workers",
+        "1870 black population",
+        "4 million",
+        "James Garfield",
+        "1881",
+        "presidential assassination",
+        "civil rights",
+        "railroads and shipyards"
+      ],
+      "texte": "of thousands of freed black Americans soon worked in factories, shipyards, quarries, and on railroads. By 1870, the black population had reached roughly 4 million, more than a tenth of the entire country. James Garfield, who had grown up poor, was a supporter of civil rights when he became president in 1881. He [music] wasn't in office for long, though. Like Lincoln, he was assassinated, this time by an assassin with delusions of grandeur. They were"
+    },
+    {
+      "id": 227,
+      "debut": 9112.39,
+      "fin": 9150.09,
+      "temps_estime": false,
+      "titre": "The Gilded Age: industrial growth, the Statue of Liberty and the climb of the ladder",
+      "resume": "Despite violent times the US enters an astonishing age of industrial growth, a beacon of liberal ideals symbolized by the Statue of Liberty, a gift from the French after the end of slavery. The Gilded Age brought staggering fortunes and slums, yet Americans believed they could climb the ladder, and the country went from subsistence settlements to a continental economy that was a powerhouse by the early 20th century.",
+      "mots_cles": [
+        "Gilded Age",
+        "industrial growth",
+        "Statue of Liberty",
+        "staggering fortunes",
+        "slums",
+        "social mobility",
+        "continental economy",
+        "powerhouse"
+      ],
+      "texte": "violent times, but [music] the US was entering an astonishing age of industrial growth. The country was making good on its promises, a beacon of liberal ideals symbolized in the Statue of Liberty, a gift from the French after ending slavery. The Gilded Age was in full swing. Industrialists accumulated staggering fortunes. [music] Like Europe, America had slums, but many Americans still believed that they could climb the ladder, and they could compared to the underclass in most other nations. America had gone from subsistence settlements and scattered frontier hunters to a continental economy close to rivaling the world's richest civilizations. By the early 20th century, it was a powerhouse. Men"
+    },
+    {
+      "id": 228,
+      "debut": 9150.09,
+      "fin": 9168.49,
+      "temps_estime": false,
+      "titre": "Robber barons: Rockefeller, Carnegie, Vanderbilt and Morgan",
+      "resume": "Men amassed fortunes in the Gilded Age: John D. Rockefeller in oil, Andrew Carnegie in steel, Cornelius Vanderbilt in shipping and railroads, and J. P. Morgan in finance. That wealth came with a flourishing of free thought and dissent and the idea that individuals could reshape the world through effort and innovation, defining the American spirit of creativity.",
+      "mots_cles": [
+        "John D. Rockefeller",
+        "Andrew Carnegie",
+        "Cornelius Vanderbilt",
+        "J. P. Morgan",
+        "oil steel railroads finance",
+        "industrialists",
+        "innovation",
+        "American spirit"
+      ],
+      "texte": "amassed fortunes, John D. Rockefeller in oil, Andrew Carnegie [music] in steel, Cornelius Vanderbilt in shipping and railroads, and J. P. Morgan in finance. With that wealth came a flourishing of free thought and dissent. It was a time where individuals could reshape the world through effort and innovation. That philosophy defined the American spirit of creativity. [music]"
+    },
+    {
+      "id": 229,
+      "debut": 9168.49,
+      "fin": 9199.99,
+      "temps_estime": false,
+      "titre": "Manifest destiny and the Treaty of Guadalupe Hidalgo",
+      "resume": "Many Americans believed their country was the future of humanity, a manifest destiny and divine right to expand, and leaders insisted they were not building an empire though that was not entirely true. Indigenous peoples had been pushed off their lands, and Mexico was forced to sign the Treaty of Guadalupe Hidalgo, surrendering half its territory including modern California, Nevada, Utah, Arizona, New Mexico and parts of Colorado and Wyoming.",
+      "mots_cles": [
+        "manifest destiny",
+        "Treaty of Guadalupe Hidalgo",
+        "Mexico territory",
+        "American empire",
+        "indigenous removal",
+        "California Nevada Utah Arizona",
+        "divine right to expand",
+        "westward expansion"
+      ],
+      "texte": "This was a world where anything was possible, where buildings would soon reach the sky. Many Americans believed their country was the future of humanity, a manifest [music] destiny, America's divine right to expand. US leaders had often insisted they were not building an empire, but that wasn't entirely true. [music] Indigenous peoples had already been pushed off their lands. Mexico had been forced to sign the Treaty of Guadalupe Hidalgo, surrendering half of its modern California, Nevada, Utah, Arizona, New Mexico, and parts of Colorado and Wyoming. Hundreds of"
+    },
+    {
+      "id": 230,
+      "debut": 9199.99,
+      "fin": 9228.99,
+      "temps_estime": false,
+      "titre": "Gold rush boom towns, the Wild West and Chinese migrants",
+      "resume": "Hundreds of thousands scrambled west during the gold rush into boom towns of boarding houses, brothels, saloons and camps where crime flourished and sheriffs and marshals struggled to impose order in what became the wild west. Nearly 200,000 Chinese migrants arrived to mine, build railroads or open businesses, manifest destiny in action, often violent and corrupt yet wrapped in the language of freedom, opportunity and national unity.",
+      "mots_cles": [
+        "gold rush",
+        "boom towns",
+        "Wild West",
+        "crime",
+        "Chinese migrants",
+        "200,000",
+        "railroads",
+        "manifest destiny in action"
+      ],
+      "texte": "thousands scrambled to the [music] west during the gold rush, flooding into the boom towns of boarding houses, brothels, saloons, and makeshift camps. Crime flourished. Sheriffs and marshals struggled to impose order on what was quickly becoming the wild west. Nearly 200,000 Chinese migrants arrived, mostly heading west to mine, build railroads, or open small businesses. It was manifest destiny in action, often violent and [music] deeply corrupt, yet always wrapped up in the language of freedom, opportunity, and national"
+    },
+    {
+      "id": 231,
+      "debut": 9228.99,
+      "fin": 9247.49,
+      "temps_estime": false,
+      "titre": "The West as American mythology and the outlaw hero",
+      "resume": "The West became the core of American mythology, with stories of cowboys, Indians, Billy the Kid and Buffalo Bill loosely based on real figures but wrapped in fantasy and leaving out the harsh realities for the frontier poor. It was the birth of the American outlaw hero, a character still admired today.",
+      "mots_cles": [
+        "Wild West mythology",
+        "cowboys and Indians",
+        "Billy the Kid",
+        "Buffalo Bill",
+        "outlaw hero",
+        "frontier poor",
+        "American folklore",
+        "fantasy"
+      ],
+      "texte": "unity. This west became the core of American mythology. The stories of cowboys, Indians, [music] Billy the Kid, and Buffalo Bill were loosely based on real figures, but wrapped up in fantasy. They often left out the harsh realities for many of the poor on the frontier. Still, this [music] was the birth of the American outlaw hero, a character that"
+    },
+    {
+      "id": 232,
+      "debut": 9247.49,
+      "fin": 9280.59,
+      "temps_estime": false,
+      "titre": "American empire: Spanish-American War, the Philippines and the Monroe Doctrine",
+      "resume": "By the late 19th and early 20th centuries the US acted like a true empire: after beating Spain in 1898 it seized Guam and Puerto Rico, and in the Philippines it promised liberty while crushing the independence movement in a brutal counter-insurgency that killed hundreds of thousands. In Central America and the Caribbean it invoked the Monroe Doctrine, sent Marines to Nicaragua, Haiti and the Dominican Republic and backed dictators favorable to American corporations.",
+      "mots_cles": [
+        "Spanish-American War 1898",
+        "Guam and Puerto Rico",
+        "Philippines",
+        "Monroe Doctrine",
+        "Marines",
+        "Banana Wars",
+        "US imperialism",
+        "Caribbean dictators"
+      ],
+      "texte": "is still admired today. By the late 19th and early 20th centuries, the country began acting like a true empire. After defeating Spain in 1898, the US seized Guam and Puerto Rico. In the Philippines, they promised civilization and liberty while crushing the Filipino independence movement in a brutal counter insurgency that killed hundreds of thousands. In Central America and the Caribbean, the US invoked the Monroe Doctrine, that the Americas were under US protection and influence. It sent Marines to Nicaragua, Haiti, and the Dominican Republic and backed dictators favorable to American corporations. The"
+    },
+    {
+      "id": 233,
+      "debut": 9280.59,
+      "fin": 9307.79,
+      "temps_estime": false,
+      "titre": "Smedley Butler's critique and the Business Plot",
+      "resume": "Major General Smedley Butler, the US's most decorated soldier, pulled the veil back and kicked off decades of foreign policy skepticism, lamenting that he had been an attack dog for imperialists. He was also part of a plot by big business leaders to overthrow President Roosevelt that never got off the ground, an early reminder of corporate power in the USA.",
+      "mots_cles": [
+        "Smedley Butler",
+        "attack dog for imperialists",
+        "Business Plot",
+        "overthrow Roosevelt",
+        "corporate power",
+        "foreign policy skepticism",
+        "most decorated soldier",
+        "imperialism critique"
+      ],
+      "texte": "reality, as always, was far more complicated. Smedley Butler, a major general who became the US's most decorated soldier, [music] pulled the veil back and kicked off what would become decades of foreign policy skepticism. At the end of his distinguished career, he lamented that he'd been an attack dog for imperialists. [music] He was even a part of a plot that never got off the ground by big business leaders to overthrow President Roosevelt, [music] an early reminder of the power that corporations would come to have in the"
+    },
+    {
+      "id": 234,
+      "debut": 9307.79,
+      "fin": 9346.4,
+      "temps_estime": false,
+      "titre": "World War I: the US becomes Europe's creditor and the economic victor",
+      "resume": "World War I was the US's coming out party on the global stage: it entered in 1917, tipped the balance against Germany, and by 1918 was a creditor to Europe having showcased its industrial capacity, with over 116,000 Americans dead and more than 200,000 wounded. The real victory was economic and geopolitical, since the old empires were broke and the US, holding the purse strings, needed dollars, diplomacy and covert influence rather than colonies.",
+      "mots_cles": [
+        "World War I",
+        "1917",
+        "creditor to Europe",
+        "116,000 dead",
+        "industrial capacity",
+        "economic victory",
+        "purse strings",
+        "dollar diplomacy"
+      ],
+      "texte": "USA. World War I was the US's coming out party on the stage of major global warfare. It entered the war in 1917, tipping the balance against Germany and proving itself a global heavyweight. When the guns [music] fell silent in 1918, America was no longer just a distant observer. It was a creditor [music] to Europe, having showcased his exceptional industrial capacity. Over 116,000 Americans died and more than 200,000 [music] were wounded. But the real victory wasn't military. It was economic and geopolitical. The old empires were broke. The US held the purse strings. It wouldn't need colonies to control the world. Dollars, diplomacy, and covert influence would do"
+    },
+    {
+      "id": 235,
+      "debut": 9346.4,
+      "fin": 9376.09,
+      "temps_estime": false,
+      "titre": "The Roaring Twenties: corporations, cities, jazz and electricity",
+      "resume": "The 1920s were a golden era on the surface: corporations flourished, cities grew at dizzying speed with taller buildings, and people danced to jazz and the blues, art forms born from African-American creativity. It was the age of electricity as power grids spread and new mass industries transformed daily life with inventions once shown at world fairs, putting the US in the driving seat of the future.",
+      "mots_cles": [
+        "1920s",
+        "Roaring Twenties",
+        "jazz",
+        "electricity",
+        "power grids",
+        "skyscrapers",
+        "corporations",
+        "mass industries"
+      ],
+      "texte": "the job just fine. The 1920s were a golden era, at least on the surface. Corporations flourished even more. Cities [music] grew at dizzying speed as the buildings grew taller. People danced through the nights to jazz, a revolutionary art form born from African-American creativity alongside the blues. [music] This was the age of electricity when power grids spread across the nation and new mass industries transformed daily life. The country [music] had come alive with the inventions previously shown off at the world fairs, putting the US firmly in the driving seat of the"
+    },
+    {
+      "id": 236,
+      "debut": 9376.09,
+      "fin": 9405.0,
+      "temps_estime": false,
+      "titre": "Edward Bernays, consumer culture and worker discontent",
+      "resume": "Thanks to Edward Bernays, the father of public relations, advertising shifted from describing what products did to selling how they made you subconsciously feel, in a century of self that suited individualist America. A growing middle class embraced this culture, but millions of workers stayed in poverty, fueling labor activism and interest in socialist and communist ideas that would bump into fascism and set the world on fire.",
+      "mots_cles": [
+        "Edward Bernays",
+        "public relations",
+        "advertising",
+        "consumer culture",
+        "middle class",
+        "labor activism",
+        "socialism and communism",
+        "fascism"
+      ],
+      "texte": "future. Thanks to Edward Bernays, the father of public relations, advertising shifted from describing what products did to selling how they made you subconsciously feel. It was the century of self, and that suited individualist America right down to the ground. A growing middle class embraced this new culture, but millions of workers remained trapped in poverty, feeling labor activism and a raising interest in socialist and communist ideas. It was these ideas that would soon set the world on fire when they bumped head"
+    },
+    {
+      "id": 237,
+      "debut": 9405.0,
+      "fin": 9445.5,
+      "temps_estime": false,
+      "titre": "The 1929 crash and the Great Depression",
+      "resume": "Rampant speculation fueled by easy credit, margin loans and lightly regulated banks triggers the catastrophic crash of 1929 when 16 million shares are dumped in a single day. Thousands of banks fail, about a quarter of Americans are unemployed (40 to 50% in some industrial cities), Hoovervilles spread across the country, and the optimism of the century dissolves into crime, hardship and disillusionment with capitalism.",
+      "mots_cles": [
+        "1929 stock market crash",
+        "Great Depression",
+        "margin loans",
+        "bank failures",
+        "unemployment",
+        "Hoovervilles",
+        "speculation",
+        "disillusionment with capitalism"
+      ],
+      "texte": "first into fascism. Then came the fall. Rampant speculation, much of it fueled by easy credit, margin loans, and lightly regulated banks triggered the catastrophic crash of 1929 when 16 million shares were dumped in a [music] single day. Wall Street collapsed. Thousands of banks failed, wiping out life savings overnight. The Great Depression that followed left roughly a quarter of Americans unemployed, and in some industrial cities, unemployment soared [music] to 40 to 50%. Shanty towns known as Hoovervilles spread across the country like open sores that exposed [music] sickness within. For many, the optimism of the 20th century dissolved into crime, hardship, and disillusionment with capitalism."
+    },
+    {
+      "id": 238,
+      "debut": 9445.5,
+      "fin": 9502.5,
+      "temps_estime": false,
+      "titre": "Prohibition, the black market and the American drug trade",
+      "resume": "Prohibition from 1920 to 1933 intended to improve morality but created a vast black market, with moonshiners, immigrant gangs and mafia syndicates turning bootlegging into a multi-million dollar industry while narcotics spread through poorer communities. Opium addiction dated from Civil War veterans, morphine and heroin appeared, and later US foreign policy made it worse when intelligence agencies tolerated or enabled allied regimes whose trafficking flooded American cities with heroin and cocaine.",
+      "mots_cles": [
+        "Prohibition",
+        "bootlegging",
+        "mafia",
+        "black market",
+        "opium morphine heroin",
+        "war on drugs",
+        "intelligence agencies drug trafficking",
+        "cocaine"
+      ],
+      "texte": "Prohibition from 1920 to 1933 intended to improve morality and reduce violence, but it did [music] the exact opposite. Drinking initially dipped, but a vast black market emerged. Poor moonshiners, [music] Irish and Italian immigrant gangs and syndicates led by mafia figures turned bootlegging into a multi-million dollar industry. At the same time, narcotics [music] spread through poorer communities. Opium had been widespread ever since the hundreds of thousands [music] of injured and traumatized Civil War veterans became addicted. But now morphine and later heroin were making appearances. The war against drugs created a monster because the profits were [music] all too alluring and the demand too wide. In the decades that followed, US foreign policy only made the problem worse. Intelligence agencies at times [music] tolerated or directly enabled allied regimes whose trafficking networks flooded American cities with heroin and later cocaine. Drugs had become a major chapter in the American story, and it seemed on every page things just got worse. The glittering"
+    },
+    {
+      "id": 239,
+      "debut": 9502.5,
+      "fin": 9540.0,
+      "temps_estime": false,
+      "titre": "Extremism rises: Hitler's view of America and Henry Ford",
+      "resume": "When the glittering 1920s dream collapsed, extremism rushed into the vacuum: in broken postwar Germany Adolf Hitler rose from fringe radical to leader, blaming international finance and the Jews and promising revival through racial purity and authoritarian rule. His relationship with the US was complicated, calling it a mongrel nation but praising Henry Ford in Mein Kampf for his anti-Semitic writings, and Ford accepted a medal from the Nazi regime in 1938.",
+      "mots_cles": [
+        "Adolf Hitler",
+        "Mein Kampf",
+        "Henry Ford",
+        "Nazi medal 1938",
+        "postwar Germany",
+        "extremism",
+        "anti-Semitism",
+        "racial purity"
+      ],
+      "texte": "1920s had promised a paradise of pleasure, technology, and freedom. But when that dream collapsed, extremism rushed into the vacuum of lost hope. In a broken postwar Germany, Adolf Hitler rose from fringe radical to national leader. He blamed Germany's humiliation on international finance, taking aim at the Jews, and promised revival through racial purity and authoritarian rule. His relationship with the US was complicated. He called it a mongrel nation with degenerate music, [music] but there was much he liked, too. He praised Henry Ford in Mein Kampf for his anti-Semitic [music] writings. Ford, who did a lot of business with the Nazis, accepted a medal from the Nazi regime in 1938."
+    },
+    {
+      "id": 240,
+      "debut": 9540.0,
+      "fin": 9567.0,
+      "temps_estime": false,
+      "titre": "American eugenics and the Rockefeller Foundation",
+      "resume": "Hitler drew inspiration from American eugenics: in the late 19th and early 20th centuries prominent US scientists and progressive politicians promoted sterilization of people labeled feeble-minded, defective, criminal or parasites, claiming poor whites, blacks and indigenous people held America back. 32 states passed sterilization laws and the Rockefeller Foundation funded early German eugenics research.",
+      "mots_cles": [
+        "eugenics",
+        "forced sterilization",
+        "32 states",
+        "Rockefeller Foundation",
+        "Nazi inspiration",
+        "progressive politicians",
+        "feeble-minded",
+        "racial science"
+      ],
+      "texte": "Hitler also drew inspiration from American eugenics. In the late 19th and early 20th centuries, prominent US [music] scientists and progressive politicians promoted sterilization of people labeled as feeble-minded, defective, criminal, promiscuous, [music] and parasites. They claimed poor whites, along with minorities, mostly blacks and indigenous people, were holding America back. 32 states [music] passed sterilization laws and the Rockefeller Foundation funded early German eugenics"
+    },
+    {
+      "id": 241,
+      "debut": 9567.0,
+      "fin": 9596.52,
+      "temps_estime": false,
+      "titre": "Isolationism, Pearl Harbor and the cost of World War II for the US",
+      "resume": "By 1939 as Hitler invaded Poland the US wanted nothing to do with Europe's wars: a Gallup poll showed only 8% favored sending troops overseas, World War I was seen as a catastrophic mistake, and Roosevelt publicly criticized European colonial powers. Japan's attack on Pearl Harbor on December 7, 1941 flipped public opinion overnight, and over 407,000 Americans died in the war with 671,000 wounded.",
+      "mots_cles": [
+        "isolationism",
+        "Gallup poll 8%",
+        "invasion of Poland 1939",
+        "Pearl Harbor",
+        "December 7 1941",
+        "American casualties",
+        "public opinion",
+        "World War II"
+      ],
+      "texte": "research. By 1939 as Hitler invaded Poland, the US wanted nothing to do with Europe's wars. A Gallup poll showed just 8% favored [music] sending US troops overseas. World War I was seen as a catastrophic mistake. Isolationism ruled as Roosevelt publicly criticized European colonial powers. [music] But events forced a change. Japan attacked Pearl Harbor on December 7th, 1941 and public opinion flipped almost overnight. Over 407,000 Americans died during the war with 671,000 wounded. In Europe, the"
+    },
+    {
+      "id": 242,
+      "debut": 9596.52,
+      "fin": 9614.2,
+      "temps_estime": false,
+      "titre": "The Eastern Front: where Hitler ultimately lost the war",
+      "resume": "In Europe the bloodshed was catastrophic: on the Eastern front alone roughly 27 million Soviet citizens were killed, including at least 7 to 9 million children, and Germany lost more than 4 million. Cities starved, armies froze and atrocities were constant, which is where Hitler ultimately lost the war.",
+      "mots_cles": [
+        "Eastern Front",
+        "27 million Soviet deaths",
+        "Germany losses",
+        "Hitler's defeat",
+        "World War II casualties",
+        "children killed",
+        "starvation",
+        "Soviet Union"
+      ],
+      "texte": "scale of bloodshed was catastrophic. [music] On the Eastern front alone, roughly 27 million Soviet citizens were killed, soldiers, civilians, and at least 7 to 9 million children. Germany lost more than 4 million. Cities starved, armies [music] froze, atrocities were constant, and that is where Hitler ultimately lost the war."
+    },
+    {
+      "id": 243,
+      "debut": 9614.2,
+      "fin": 9639.5,
+      "temps_estime": false,
+      "titre": "US war production, wartime inequality and fear of communism",
+      "resume": "The US played a decisive role by supplying Britain and the USSR with weapons, food, tanks and trucks on a massive scale, and American industry roared back to life, ending the Depression. Wartime prosperity also deepened inequality, and over 6 million American workers participated in strikes over wages and conditions, fueling postwar fears that the public and politicians might embrace socialism or communism.",
+      "mots_cles": [
+        "Lend-Lease supplies",
+        "American industry",
+        "end of the Depression",
+        "wartime inequality",
+        "6 million strikers",
+        "fear of socialism",
+        "communism",
+        "Britain and USSR"
+      ],
+      "texte": "The US played a decisive [music] role. It supplied Britain and the USSR with weapons, food, tanks, and trucks on a massive scale. American industry roared back to life ending the depression, but wartime prosperity also deepened inequality. Over 6 million American workers had participated in strikes [music] over wages and conditions. It fueled postwar fears that the public and politicians might start embracing socialism or worse, communism."
+    },
+    {
+      "id": 244,
+      "debut": 9639.5,
+      "fin": 9661.1,
+      "temps_estime": false,
+      "titre": "Postwar carve-up, Soviet dominance and the Manhattan Project",
+      "resume": "Churchill, Roosevelt and Stalin carved up the postwar world and a new storm was forming as Soviet troops dominated Eastern Europe and American planners feared communism would spread. The Americans, with scientists from all over the world in the Manhattan Project, tested an atomic bomb that changed humanity overnight, highlighting American strength and opening a new chapter in world history.",
+      "mots_cles": [
+        "postwar world",
+        "Churchill Roosevelt Stalin",
+        "Soviet troops Eastern Europe",
+        "communism fears",
+        "Manhattan Project",
+        "atomic bomb test",
+        "Cold War origins"
+      ],
+      "texte": "Churchill, Roosevelt, and Stalin carved up the postwar world [music] and a new storm was already forming. Soviet troops dominated Eastern Europe. American planners feared that communism would spread. The Americans with scientists from all over the world working on their Manhattan Project had tested an atomic bomb. It changed humanity overnight. It highlighted American strength, but it also opened a new chapter in world"
+    },
+    {
+      "id": 245,
+      "debut": 9661.1,
+      "fin": 9702.4,
+      "temps_estime": false,
+      "titre": "Roosevelt's New Deal and the radical alternatives of Wallace and Long",
+      "resume": "Before his death Roosevelt had become an American hero whose New Deal pulled the country out of its deepest crisis and made ordinary Americans feel the government was on their side, while business elites warned of creeping socialism. Left-wing populists like Henry Wallace and Huey Long pushed universal healthcare, stronger social programs and major wealth redistribution, but Wallace was pushed aside in what some called a bloodless coup and Long was assassinated.",
+      "mots_cles": [
+        "New Deal",
+        "Franklin Roosevelt",
+        "Henry Wallace",
+        "Huey Long",
+        "universal healthcare",
+        "wealth redistribution",
+        "left-wing populism",
+        "creeping socialism"
+      ],
+      "texte": "history. Before his [music] death, Roosevelt had become an American hero to millions. His New Deal had pulled the country out of its deepest crisis [music] and gave ordinary Americans a sense that the government was on their side. His critics, especially business elites, warned of creeping socialism. The era was politically explosive with left-wing populists arguing Roosevelt hadn't gone far enough. Men of the people like Henry Wallace and Huey Long pushed far more radical ideas, universal healthcare, stronger social programs, and a major redistribution of wealth. [music] Wallace was pushed aside in what some called a bloodless coup, and Long was assassinated. One thing that you could say about the USA was it was never boring, and it was about to get crazy."
+    },
+    {
+      "id": 246,
+      "debut": 9702.4,
+      "fin": 9734.0,
+      "temps_estime": false,
+      "titre": "Churchill's suspicion and Truman's anti-communism",
+      "resume": "Roosevelt believed the postwar world could be built on cooperation between great powers including Stalin's USSR, but Churchill, whose Britain was bled dry, feared the Red Army occupying Eastern Europe would dominate the continent. He and American planners were already thinking about destroying Russia with nukes once they were made, and when Truman took office he aligned with Churchill's view as blunt, anti-communist and convinced Stalin's regime would expand.",
+      "mots_cles": [
+        "Roosevelt cooperation",
+        "Churchill",
+        "Red Army Eastern Europe",
+        "Harry Truman",
+        "anti-communism",
+        "nuclear threat to Russia",
+        "Stalin",
+        "Cold War beginnings"
+      ],
+      "texte": "Roosevelt had believed the postwar world could be built on cooperation between the great powers, including Stalin's Soviet Union. Churchill, though, came out of the war far more suspicious. Britain had bled itself dry fighting Hitler, and Churchill feared that the Red Army, now occupying Eastern Europe, would dominate the continent. Both he and the American planners were already thinking about how to destroy Russia with nukes. Well, once they were made. When Truman took office, he aligned more closely with Churchill's view. He was blunt, anti-communist, and convinced [music] that Stalin's brutal regime would expand its influence wherever it"
+    },
+    {
+      "id": 247,
+      "debut": 9734.0,
+      "fin": 9755.9,
+      "temps_estime": false,
+      "titre": "The Soviet atomic bomb of 1949 and the start of the arms race",
+      "resume": "Intelligence reports deepened Truman's fears, and in 1949 US analysts detected radioactive contamination over the Pacific, so Truman announced that the Soviet Union had tested an atomic bomb. The monopoly America had held since Hiroshima and Nagasaki was gone and the arms race began.",
+      "mots_cles": [
+        "Soviet atomic bomb 1949",
+        "radioactive contamination",
+        "arms race",
+        "Truman announcement",
+        "Hiroshima and Nagasaki",
+        "nuclear monopoly",
+        "Cold War"
+      ],
+      "texte": "could. Intelligence reports soon deepened [music] his fears. In 1949, US analysts detected radioactive contamination drifting over the Pacific. Truman announced the cause. The Soviet Union had tested an atomic bomb. The monopoly America had enjoyed since Hiroshima and Nagasaki was gone. The arms race began in what would become an action-packed 20th century. In 1950,"
+    },
+    {
+      "id": 248,
+      "debut": 9755.9,
+      "fin": 9789.6,
+      "temps_estime": false,
+      "titre": "The Korean War and the police action euphemism",
+      "resume": "In 1950 North Korea, backed by Stalin and later China, invaded the South, and policy makers feared Japan and Southeast Asia would follow if South Korea fell. Millions of Koreans, hundreds of thousands of Chinese soldiers and over 36,000 Americans died and the war ended in a 1953 armistice that still holds, with Truman calling it a police action, a euphemism later administrations would use to wage limited war without declaring it.",
+      "mots_cles": [
+        "Korean War",
+        "1950",
+        "1953 armistice",
+        "36,000 Americans died",
+        "police action",
+        "limited war",
+        "Truman",
+        "domino theory"
+      ],
+      "texte": "North Korea, backed by Stalin and later China, invaded the South. Americans were exhausted from World War II, but policy makers feared that if South Korea fell, Japan and Southeast Asia might follow. The war was catastrophic. Millions of Koreans died, hundreds of thousands of Chinese soldiers were killed, and over 36,000 Americans died. It ended not in a victory, but in a 1953 armistice that still holds today. Truman called it a police action, a kind of euphemism future administrations would use to wage limited war without officially declaring one. The USSR would later follow suit."
+    },
+    {
+      "id": 249,
+      "debut": 9789.6,
+      "fin": 9822.8,
+      "temps_estime": false,
+      "titre": "1950s prosperity: Hollywood, suburbs and car culture",
+      "resume": "At home the US entered an era of dazzling prosperity and cultural dominance: Hollywood spread American imagery globally, jazz, rock and roll and the Beat writers shaped global culture, and by 1960 over 60% of Americans owned a home as car ownership became nearly universal. Suburbs exploded, the white picket fence became the national symbol, and the car symbolized freedom as in Kerouac's On the Road.",
+      "mots_cles": [
+        "1950s prosperity",
+        "Hollywood",
+        "rock and roll",
+        "Beat writers",
+        "suburbs",
+        "home ownership",
+        "car culture",
+        "Jack Kerouac On the Road"
+      ],
+      "texte": "But at home, far from the nightmare of Korea, the US was entering an era of dazzling prosperity and cultural dominance. Hollywood films spread American imagery to every corner of the globe. Jazz, rock and roll, and the Beat writers shaped global culture. Home ownership soared. By 1960, [music] over 60% of Americans owned a and car ownership became nearly universal. Suburbs exploded across the map. [music] The white picket fence became the national symbol. The car symbolized freedom as immortalized in Jack Kerouac's novel On the Road. This was America, endless, beautiful, wild,"
+    },
+    {
+      "id": 250,
+      "debut": 9822.8,
+      "fin": 9862.1,
+      "temps_estime": false,
+      "titre": "Cracks beneath the prosperity: redlining and a fractured America",
+      "resume": "As black Americans fled Jim Crow for northern and western cities they met new discrimination, with neighborhoods divided by red lines on maps where banks refused loans, insurers denied coverage and investors stayed away. Crime rose in those underfunded segregated places; economists like Thomas Sowell argue the picture was more complicated, but redlining and discriminatory policing undeniably deepened hostility, leaving a wealthy, confident America fractured as the 1960s civil rights struggle showed.",
+      "mots_cles": [
+        "redlining",
+        "Great Migration",
+        "Jim Crow",
+        "segregated neighborhoods",
+        "discriminatory policing",
+        "Thomas Sowell",
+        "civil rights movement",
+        "urban riots"
+      ],
+      "texte": "and brutal. But beneath the optimism, cracks were still there. As black Americans fled Jim Crow for northern and western cities, they encountered new forms of discrimination. Neighborhoods were divided by red lines on the maps, areas where banks refused loans, insurance companies denied coverage, and investors stayed away. Crime rose in those underfunded, [music] segregated places, some later home to mass riots. Some economists like Thomas Sowell later argued that the picture was more complicated, but redlining and discriminatory policing undeniably deepened hostility. America was wealthy, confident, and culturally vibrant, but it was also fractured, evident in the civil rights structures of the 1960s. At"
+    },
+    {
+      "id": 251,
+      "debut": 9862.1,
+      "fin": 9896.7,
+      "temps_estime": false,
+      "titre": "Cold War paranoia: CIA coups, anti-communist hysteria and secret files",
+      "resume": "The Cold War brought fear, secrecy and paranoia: the CIA, founded in 1947, overthrew governments in Iran and Guatemala to protect American economic interests and contain the Soviet Union, a policy some call stunning hypocrisy. At home anti-communist hysteria smeared politicians as commies, the FBI and CIA compiled secret files on thousands of citizens, and journalists chipped away at the secrecy.",
+      "mots_cles": [
+        "CIA founded 1947",
+        "Iran coup",
+        "Guatemala coup",
+        "anti-communist hysteria",
+        "secret files",
+        "FBI and CIA surveillance",
+        "Cold War paranoia",
+        "hypocrisy"
+      ],
+      "texte": "that [music] same time, the Cold War brought fear, secrecy, and paranoia. Founded in 1947, the CIA overthrew governments in Iran and Guatemala to protect American economic interests and contain the Soviet Union, along with leftist and democratic independence movements. Some would later call this a stunning hypocrisy. At home, anti-communist hysteria had been present since the war. Politicians were smeared as [music] commies and even homosexuals. The FBI and CIA compiled secret files on thousands of citizens. Journalists chipped away at the secrecy, exposing CIA activities despite [music] the agency trying to suppress them."
+    },
+    {
+      "id": 252,
+      "debut": 9896.7,
+      "fin": 9919.4,
+      "temps_estime": false,
+      "titre": "Eisenhower's military-industrial complex warning and JFK's assassination",
+      "resume": "President Dwight D. Eisenhower, a five-star general, warned in his January 17, 1961 farewell address of the rise of a military-industrial complex that could distort democracy. Three days later John F. Kennedy took office, and he was assassinated in Dallas on November 22, 1963, which some called the day America lost its innocence.",
+      "mots_cles": [
+        "Eisenhower farewell address",
+        "military-industrial complex",
+        "John F. Kennedy",
+        "Dallas assassination",
+        "November 22 1963",
+        "lost innocence",
+        "democracy distortion"
+      ],
+      "texte": "Skepticism grew. President Dwight D. Eisenhower, a five-star general, gave a stunning [music] warning in his farewell address on January 17th, 1961, the rise of a military-industrial complex that could distort democracy. Three days later, John F. Kennedy took office. Kennedy was assassinated in Dallas on November 22nd, 1963. Some called it the day America lost its innocence. [music]"
+    },
+    {
+      "id": 253,
+      "debut": 9919.4,
+      "fin": 9955.0,
+      "temps_estime": false,
+      "titre": "Conspiracy era and the 1960s assassinations",
+      "resume": "After Kennedy's death America plunged into an era of doubt and conspiracy, with lawyers, journalists and former intelligence officers arguing that his enemies may have played a role, and the House Select Committee on Assassinations later said JFK was probably assassinated as a result of a conspiracy. The nightmare worsened with the assassinations of Malcolm X in 1965 and Martin Luther King Jr. and Robert F. Kennedy in 1968, each spawning theories that the violence was not random.",
+      "mots_cles": [
+        "JFK conspiracy",
+        "House Select Committee on Assassinations",
+        "Malcolm X",
+        "Martin Luther King Jr.",
+        "Robert F. Kennedy",
+        "1968",
+        "assassination theories",
+        "national trauma"
+      ],
+      "texte": "In the aftermath, America plunged into an era of doubt and conspiracy. Lawyers, journalists, and former intelligence officers spent decades arguing that Kennedy's enemies, foreign or [music] domestic, may have played a role in his death. The House Select Committee on Assassination years later would indeed say JFK was quote probably assassinated as the result of a conspiracy. The nation felt haunted and that nightmare got worse as Malcolm [music] X in 1965, Martin Luther King Jr. in 1968, and Robert F. Kennedy in 1968 were also assassinated. Each killing spawned theories that the violence was not"
+    },
+    {
+      "id": 254,
+      "debut": 9955.0,
+      "fin": 9996.2,
+      "temps_estime": false,
+      "titre": "The 1960s counterculture: hippies, Woodstock, Altamont",
+      "resume": "Despite the sense that the party was over, the late 1960s were an explosion of hope and cultural brilliance: psychedelics seeped into youth culture, hippies embraced free love and rejection of authority, and Timothy Leary urged people to turn on, tune in, drop out. Civil rights and women's rights advanced, Woodstock in 1969 symbolized the era's beauty and Altamont, where a young man was stabbed by Hell's Angels, symbolized its collapse, the wave having broken and rolled back as Hunter S. Thompson said.",
+      "mots_cles": [
+        "hippie movement",
+        "psychedelics",
+        "Timothy Leary",
+        "Woodstock 1969",
+        "Altamont",
+        "Hell's Angels",
+        "Hunter S. Thompson",
+        "counterculture"
+      ],
+      "texte": "random, but symmetric. It felt like the party was over. And yet the late 1960s were also an explosion of hope and cultural brilliance. Psychedelic seeped into youth culture. The hippie movement embraced long hair, free love, and a rejection of authority. Harvard hippie Timothy Leary urged [music] people to turn on, tune in, and drop out. The '50s were well and truly buried. Civil rights made historic gains. Women's [music] rights advanced. The Woodstock Music Festival in 1969 symbolized the beauty of an era. Altamont, [music] later that same year, symbolized its collapse when a young man was stabbed by the Hell's Angels just after the Rolling Stones had sung [music] Sympathy for the Devil. As the writer Hunter S. Thompson later said, the wave had broken and rolled"
+    },
+    {
+      "id": 255,
+      "debut": 9996.2,
+      "fin": 10023.3,
+      "temps_estime": false,
+      "titre": "Vietnam War protests, FBI surveillance and domestic terror",
+      "resume": "The Vietnam War tore the country apart as photos and film of napalm, massacres and burned villages contradicted the claim that the war was needed to stop communism, and protests surged. J. Edgar Hoover's FBI targeted civil rights leaders, anti-war activists and ordinary citizens with wiretaps, smears and illegal surveillance, while the Ku Klux Klan terrorized black families and far-left militants bombed government buildings.",
+      "mots_cles": [
+        "Vietnam War",
+        "napalm",
+        "anti-war protests",
+        "J. Edgar Hoover",
+        "FBI surveillance",
+        "wiretaps",
+        "Ku Klux Klan",
+        "far-left bombings"
+      ],
+      "texte": "back. Meanwhile, the Vietnam War tore the country apart. Americans had been told the war was necessary to stop communism, but photos and film of napalm, massacres, and burned villages told a different story. Protests surged. J. Edgar Hoover's FBI targeted civil rights leaders, anti-war activists, and ordinary citizens alike using wiretaps, smears, and illegal surveillance. The Ku Klux Klan terrorized black families in the South. Far-left militants [music] bombed government buildings. And if"
+    },
+    {
+      "id": 256,
+      "debut": 10023.3,
+      "fin": 10049.4,
+      "temps_estime": false,
+      "titre": "CIA secrets exposed: MK Ultra mind control",
+      "resume": "Journalists blew the lid off the secrets of the CIA, and most shocking was MK Ultra, one of the CIA's mind control programs that lasted over 30 years. Thousands of Americans in prisons and hospitals were tested on with LSD to try to extract information or create an assassin, a Manchurian candidate, making the US government look like science fiction.",
+      "mots_cles": [
+        "MK Ultra",
+        "CIA mind control",
+        "LSD experiments",
+        "Manchurian candidate",
+        "CIA exposed",
+        "human testing",
+        "30 years",
+        "prisons and hospitals"
+      ],
+      "texte": "things couldn't get any worse, journalists blew the lid off of the secrets of the CIA. Maybe most shocking of all was MK Ultra, one of the CIA's mind control programs that together lasted over 30 years. Thousands of Americans in prisons and hospitals had been tested on, their minds blitzed with LSD in an effort to see if they could extract information or create [music] an assassin, a Manchurian candidate. The US government looked like science fiction."
+    },
+    {
+      "id": 257,
+      "debut": 10049.4,
+      "fin": 10069.3,
+      "temps_estime": false,
+      "titre": "Vietnam's outcome, Watergate and Ford's long national nightmare",
+      "resume": "Vietnam ended united under a communist government after two to three million Asians died and around 58,000 Americans did not come home, a war that ended in complete failure. After the Watergate scandal President Richard Nixon resigned and President Gerald Ford tried to reassure the country that the long national nightmare was over.",
+      "mots_cles": [
+        "Vietnam War outcome",
+        "58,000 American deaths",
+        "communist Vietnam",
+        "Watergate",
+        "Richard Nixon resignation",
+        "Gerald Ford",
+        "long national nightmare",
+        "failure"
+      ],
+      "texte": "And by In Vietnam was united under a communist government. Two to three million Asians dead and around 58,000 Americans who didn't come home, all for a war that ended in a complete failure. After the Watergate scandal, President Richard Nixon had resigned and President Gerald Ford tried to reassure the country, our long national nightmare is over. The"
+    },
+    {
+      "id": 258,
+      "debut": 10069.3,
+      "fin": 10092.7,
+      "temps_estime": false,
+      "titre": "The chaotic 1970s: inflation, crime and the turn to order",
+      "resume": "The 1970s felt chaotic: inflation surged into double digits, working-class wages stagnated, crime rose and cities like New York hovered near bankruptcy and looked like violent anarchy. Many Americans turned toward conservatism craving order, and Hollywood reflected the mood with tough cop heroes like Clint Eastwood's Dirty Harry and regular guys taking the law into their own hands.",
+      "mots_cles": [
+        "1970s",
+        "inflation",
+        "wage stagnation",
+        "New York bankruptcy",
+        "crime wave",
+        "conservatism",
+        "Dirty Harry",
+        "vigilante heroes"
+      ],
+      "texte": "1970s [music] felt chaotic in other ways. Inflation surged into double digits, working class wages stagnated, [music] crime rose, cities such as New York hovered near bankruptcy and looked like violent anarchy. Many Americans turned toward conservatism, craving order. Hollywood reflected the mood with tough cop heroes like Clint Eastwood's Dirty Harry or regular guys who had to take the law into their own hands."
+    },
+    {
+      "id": 259,
+      "debut": 10092.7,
+      "fin": 10108.9,
+      "temps_estime": false,
+      "titre": "Deindustrialization and the Rust Belt",
+      "resume": "Deindustrialization tore through the country: Detroit's manufacturing workforce fell from 338,000 to around 153,000 over three decades and the entire Rust Belt felt the shock. Globalization, automation and foreign competition accelerated the decline.",
+      "mots_cles": [
+        "deindustrialization",
+        "Detroit",
+        "Rust Belt",
+        "manufacturing decline",
+        "338,000 to 153,000",
+        "globalization",
+        "automation",
+        "foreign competition"
+      ],
+      "texte": "Deindustrialization tore through the country. Detroit's manufacturing workforce fell from 338,000 [music] to around 153,000 over three decades. The entire Rust Belt felt the shock. Globalization, automation, and foreign competition accelerated the decline. By"
+    },
+    {
+      "id": 260,
+      "debut": 10108.9,
+      "fin": 10157.3,
+      "temps_estime": false,
+      "titre": "Reaganomics: optimism, tax cuts and widening inequality",
+      "resume": "In 1981 Ronald Reagan offered a new story of optimism, lower taxes, deregulation and national pride, with Reaganomics cutting taxes especially at the top and reducing regulation of finance and industry. Supporters credit him with ending inflation, restoring confidence and pressuring the Soviet Union toward collapse, while critics note the national debt tripled, unions were weakened, homelessness rose and by the late 1980s the top fifth gained while the bottom half stagnated.",
+      "mots_cles": [
+        "Ronald Reagan",
+        "Reaganomics",
+        "tax cuts",
+        "deregulation",
+        "national debt tripled",
+        "weakened unions",
+        "homelessness",
+        "income inequality"
+      ],
+      "texte": "the time the '80s arrived, America was desperate for a new story and the new president offered one. In 1981, Ronald Reagan promised optimism, lower taxes, deregulation, [music] and a revived sense of national pride. His policies known as Reaganomics cut taxes, especially at the top, and reduced regulations on finance and industry. Supporters [music] credit him with ending the inflation crisis, restoring America's confidence, and helping pressure the Soviet Union toward collapse. The economy boomed. Millions of jobs were created and home ownership expanded. But critics [music] point out the costs. The national debt tripled, unions were weakened, homelessness rose, and inequality widened. The rich and the middle class gained, but the blue-collar workers continued to [music] struggle. By the late 1980s, the top fifth of households enjoyed rising incomes while the bottom half stagnated or declined."
+    },
+    {
+      "id": 261,
+      "debut": 10157.3,
+      "fin": 10192.5,
+      "temps_estime": false,
+      "titre": "AIDS, Iran-Contra, the crack epidemic and neoliberalism",
+      "resume": "The 1980s were shaped by crises: AIDS swept through major cities with more than 20,000 Americans dying before the government fully mobilized, and in the Iran-Contra affair senior officials secretly sold weapons to Iran to fund Contra rebels in Nicaragua. Journalism showed the CIA turned a blind eye to Contra cocaine trafficking that caused a crack epidemic mostly in black ghettos, and neoliberalism promised trickle-down wealth.",
+      "mots_cles": [
+        "AIDS crisis",
+        "Iran-Contra affair",
+        "Contra rebels",
+        "CIA cocaine trafficking",
+        "crack epidemic",
+        "neoliberalism",
+        "trickle-down",
+        "1980s"
+      ],
+      "texte": "The decade was also [music] shaped by two major crises. AIDS swept through major cities as disco music and cocaine energized nightlife. More than 20,000 Americans died before the government fully mobilized. Then came the Iran-Contra affair. Senior US officials secretly sold weapons to Iran and used the proceeds to fund the Contra rebels in Nicaragua. Investigative journalism then showed that the CIA had at least turned a blind eye to contra cocaine trafficking that caused a crack epidemic mostly in black ghettos. The philosophy of neoliberalism promised wealth would trickle down, but critics argued it"
+    },
+    {
+      "id": 262,
+      "debut": 10192.5,
+      "fin": 10219.51,
+      "temps_estime": false,
+      "titre": "End of the Cold War and America's unipolar moment",
+      "resume": "The Cold War ended in 1990 when the Soviet Union collapsed, relieving fears of mutually assured destruction, while Russia imploded and the corrupt rich took off with the country's money. Meanwhile China's Deng Xiaoping built an economic miracle thanks largely to US consumerism, and America looked invincible as the world's only superpower, though the unipolar moment might not last forever.",
+      "mots_cles": [
+        "end of the Cold War",
+        "Soviet collapse",
+        "Russia oligarchs",
+        "Deng Xiaoping",
+        "China economic miracle",
+        "sole superpower",
+        "unipolar moment",
+        "mutually assured destruction"
+      ],
+      "texte": "didn't trickle enough. The Cold War ended in 1990 when the Soviet Union collapsed. [music] Americans could breathe easy after decades of fearing mutually assured destruction. Russia imploded and the corrupt [music] rich took off with the country's money. Meanwhile, China's chairman Deng Xiaoping turned his country into an economic miracle, thanks largely to US consumerism. [music] America looked invincible. It was the world's only superpower, but would this unipolar moment last forever? When Iraq"
+    },
+    {
+      "id": 263,
+      "debut": 10219.51,
+      "fin": 10234.2,
+      "temps_estime": false,
+      "titre": "Gulf War precedent and the cost of the war on terror",
+      "resume": "When Iraq invaded Kuwait in 1990 Congress authorized President George H. W. Bush to intervene, setting precedents that would shape the war on terror, a two-decade conflict costing American taxpayers at least $8 trillion and ushering in an era of mass surveillance.",
+      "mots_cles": [
+        "Gulf War",
+        "Iraq invasion of Kuwait",
+        "George H. W. Bush",
+        "congressional authorization",
+        "war on terror",
+        "$8 trillion",
+        "mass surveillance"
+      ],
+      "texte": "invaded Kuwait in 1990, [music] Congress authorized President George H. W. Bush to intervene, setting precedents that would later shape the war on terror, a two-decade conflict that would cost the American taxpayers at least $8 trillion and usher in an era of mass"
+    },
+    {
+      "id": 264,
+      "debut": 10234.2,
+      "fin": 10250.6,
+      "temps_estime": false,
+      "titre": "The 1990s: new music, tech companies and the internet",
+      "resume": "For many the 1990s were a brighter time: electronic music, grunge and rap replaced the sugary pop of the '80s, and tech companies like Microsoft, Apple and later Google transformed daily life. The rise of the internet changed humanity as profoundly as the printing press.",
+      "mots_cles": [
+        "1990s",
+        "grunge",
+        "rap",
+        "Microsoft Apple Google",
+        "internet",
+        "printing press",
+        "tech boom",
+        "culture"
+      ],
+      "texte": "surveillance. But for many, the 1990s were a brighter time. Electronic music, grunge, and rap replaced the sugary pop of the '80s. Tech companies like Microsoft, Apple, and later Google transformed daily life. The rise of the internet changed humanity as profoundly as [music] the printing press had. But"
+    },
+    {
+      "id": 265,
+      "debut": 10250.6,
+      "fin": 10289.31,
+      "temps_estime": false,
+      "titre": "Cracks of the 1990s: mass incarceration, NAFTA and immigration",
+      "resume": "Beneath the surface crack cocaine still devastated black neighborhoods, meth and heroin gripped poorer white communities, and President Clinton signed harsh drug and crime bills that accelerated mass incarceration. NAFTA was supposed to create stable jobs in Mexico but millions migrated north as US blue-collar wages floundered, with the foreign-born share rising from 7.9% to 12.9% between 1990 and 2010 and undocumented immigrants from 3.5 million to over 11 million.",
+      "mots_cles": [
+        "crack cocaine",
+        "mass incarceration",
+        "Clinton crime bill",
+        "NAFTA",
+        "immigration",
+        "undocumented immigrants",
+        "foreign-born share 12.9%",
+        "blue-collar wages"
+      ],
+      "texte": "beneath the surface, cracks widened. Crack cocaine still devastated black neighborhoods. Meth and heroin gripped poorer white communities. President Clinton signed harsh drug and crime bills that accelerated mass incarceration. Free trade policies like NAFTA were supposed to create stable jobs in Mexico. Instead, millions migrated north, legally and illegally, seeking a better life as US blue-collar wages floundered. Between 1990 and 2010, the foreign-born share of the US population rose from 7.9% to 12.9%, and the number of undocumented immigrants climbed [music] from 3 and 1/2 million to over 11 million, and it would climb much higher a decade later. The decade"
+    },
+    {
+      "id": 266,
+      "debut": 10289.31,
+      "fin": 10314.91,
+      "temps_estime": false,
+      "titre": "9/11 and the justification of the Iraq War",
+      "resume": "The 1990s ended with the dot-com boom and bust, then Al-Qaeda terrorists flew planes into the Twin Towers and President George W. Bush promised to make things right, leading to one of America's most controversial wars, Iraq part two. It was justified by faulty intelligence, claims that Saddam Hussein had weapons of mass destruction and ties to 9/11, both of which were false.",
+      "mots_cles": [
+        "9/11",
+        "Al-Qaeda",
+        "George W. Bush",
+        "Iraq War",
+        "weapons of mass destruction",
+        "Saddam Hussein",
+        "faulty intelligence",
+        "dot-com bust"
+      ],
+      "texte": "ended with the dot-com boom and bust, and then everything changed again, and the shock that came next would rewrite the entire 21st century. Al-Qaeda terrorists flew planes into the Twin Towers and [music] President George W. Bush promised to make things right. This led to one of America's most controversial wars, Iraq [music] part two. It was justified by faulty intelligence, claims that Saddam Hussein had weapons of mass destruction and [music] ties to 9/11. Both were false."
+    },
+    {
+      "id": 267,
+      "debut": 10314.91,
+      "fin": 10340.71,
+      "temps_estime": false,
+      "titre": "Iraq War toll, ISIS and public skepticism",
+      "resume": "The invasion went forward anyway, killing at least 200,000 to 300,000 Iraqi civilians or more and over 4,500 US troops and contractors and displacing over a million people. As the country collapsed into chaos and insurgents like ISIS emerged, public skepticism grew, and many saw not freedom and security but a blueprint for US dominance across the Middle East.",
+      "mots_cles": [
+        "Iraq War casualties",
+        "Iraqi civilians killed",
+        "4,500 US troops",
+        "displaced people",
+        "ISIS",
+        "public skepticism",
+        "Middle East dominance",
+        "chaos"
+      ],
+      "texte": "Still, the invasion went forward, killing at least 200,000 to 300,000 Iraqi civilians or more and over 4,500 US troops and contractors. Over a million people were displaced. As the country collapsed into chaos [music] and insurgents like ISIS emerged from the ruins, public skepticism grew. Americans were told it was about freedom and security, but to many it looked like something else, a blueprint for US dominance across the Middle East. The"
+    },
+    {
+      "id": 268,
+      "debut": 10340.71,
+      "fin": 10355.31,
+      "temps_estime": false,
+      "titre": "The Afghanistan War: 20 years and the debate over its value",
+      "resume": "The Afghanistan war was launched in 2001 to destroy Al-Qaeda and topple the Taliban and lasted 20 years, the longest in US history. Debates raged over whether these wars benefited the world, were strategically successful or benefited the American public.",
+      "mots_cles": [
+        "Afghanistan War",
+        "2001",
+        "Taliban",
+        "Al-Qaeda",
+        "longest war",
+        "20 years",
+        "strategic success",
+        "war debate"
+      ],
+      "texte": "Afghanistan war was launched in 2001 to destroy Al-Qaeda and topple the Taliban. It would last 20 years, the longest in US history. Debates raged. Did these wars benefit the world? Were they strategically successful? Did they benefit the American public? As the US"
+    },
+    {
+      "id": 269,
+      "debut": 10355.31,
+      "fin": 10379.9,
+      "temps_estime": false,
+      "titre": "Obama, online activism and the deep state",
+      "resume": "The US elected its first black president, Barack Obama, in 2008 and 2012 as activism moved online; for many he symbolized renewal after years of war, while others ended in frustration as his ambitions were constrained by entrenched interests in what many called the deep state. Polls showed trust in government, left or right, at an all-time low.",
+      "mots_cles": [
+        "Barack Obama",
+        "first black president",
+        "online activism",
+        "deep state",
+        "entrenched interests",
+        "trust in government",
+        "2008 and 2012",
+        "frustration"
+      ],
+      "texte": "elected its first black president, Barack Obama, in 2008 and again [music] in 2012, activism moved online. For many, Obama symbolized renewal after years of war. For others, his presidency ended in frustration. His grand ambitions, many said, had been constrained by entrenched interests [music] in what many were now calling the deep state. Polls showed that trust in government, whether left or right, was at an all-time low. In 2008, the"
+    },
+    {
+      "id": 270,
+      "debut": 10379.9,
+      "fin": 10402.17,
+      "temps_estime": false,
+      "titre": "The 2008 crash, foreclosures and the power of lobbyists",
+      "resume": "In 2008 the financial crash plunged the world into recession: 8.7 million US jobs were lost over two years and there were 10 million home foreclosures, while many of the very wealthy saw their net worths increase. Critics also cited the power of lobbyists and campaign donations as weakening democracy and hurting the people.",
+      "mots_cles": [
+        "2008 financial crash",
+        "8.7 million jobs lost",
+        "10 million foreclosures",
+        "wealthy gained",
+        "lobbyists",
+        "campaign donations",
+        "weakening democracy",
+        "recession"
+      ],
+      "texte": "financial crash plunged the world [music] into a recession. 8.7 million jobs were lost in the US over the next two years and there were 10 million home foreclosures, but many of the very wealthy saw their net worths increase. One of the major criticisms of the late 20th century [music] was the power of lobbyists and campaign donations, which critics said were weakening democracy and hurting the people. Mistrust of"
+    },
+    {
+      "id": 271,
+      "debut": 10402.17,
+      "fin": 10422.01,
+      "temps_estime": false,
+      "titre": "Mistrust of elites and Donald Trump's 2016 win",
+      "resume": "Mistrust of political elites and the media set the stage for Donald Trump, a real estate magnate and television celebrity who promised to make America great again by rebuilding industry and curbing immigration. To many working-class voters it was the first time in years someone had spoken directly to their anger, and he won the 2016 election, stunning the establishment.",
+      "mots_cles": [
+        "Donald Trump",
+        "Make America Great Again",
+        "2016 election",
+        "working-class voters",
+        "mistrust of elites",
+        "immigration",
+        "rebuild industry",
+        "establishment shock"
+      ],
+      "texte": "political elites and the media set [music] the stage for Donald Trump, the real estate magnet and television celebrity. He promised to make America great again, vowing to rebuild industry and curb immigration. To many working-class voters, it was the first time in years someone had spoken directly to their anger. He won the 2016 election, stunning the establishment."
+    },
+    {
+      "id": 272,
+      "debut": 10422.01,
+      "fin": 10449.81,
+      "temps_estime": false,
+      "titre": "Polarization, Biden and the COVID wealth transfer",
+      "resume": "Polarization intensified as journalism became a partisan battleground and identity politics inflamed division, driven by algorithms rewarding outrage over nuance. Trump's blunt populism and combative style deepened the national divide as Joe Biden became president amid the COVID-19 pandemic, whose lockdowns triggered the largest transfer of wealth in modern history from the poor to the rich.",
+      "mots_cles": [
+        "polarization",
+        "partisan media",
+        "identity politics",
+        "algorithms and outrage",
+        "Joe Biden",
+        "COVID-19 lockdowns",
+        "wealth transfer",
+        "American carnage"
+      ],
+      "texte": "Polarization intensified as journalism became a partisan battleground. Identity politics inflamed division, driven by algorithms rewarding outrage over nuance. Trump pledged to end the American carnage, but his blunt populism and combative style deepened the national divide as Joe Biden then became president. This had come with another shock, the COVID-19 pandemic, whose lockdowns triggered the largest [music] transfer of wealth in modern history from the poor to the rich. In the years"
+    },
+    {
+      "id": 273,
+      "debut": 10449.81,
+      "fin": 10475.41,
+      "temps_estime": false,
+      "titre": "The 2020s: AI, cost of living, birth rates, brain rot and fragile peace",
+      "resume": "In the 2020s science fiction became reality with AI but also job insecurity, while the cost of living rose, wages stagnated, birth rates fell, mass immigration arguments exploded and addictive technologies caused brain rot, in line with the first average IQ drop in the US since records began. By the mid 2020s global peace looked fragile with wars in Ukraine and the Middle East and an intensifying US-China rivalry.",
+      "mots_cles": [
+        "artificial intelligence",
+        "job insecurity",
+        "cost of living",
+        "falling birth rates",
+        "brain rot",
+        "IQ drop",
+        "Ukraine and Middle East wars",
+        "US-China rivalry"
+      ],
+      "texte": "that followed, science fiction became reality with AI, but with that came job insecurity. The cost of living increased, wages stayed stagnant, birth rates fell, arguments over mass immigration exploded, addictive technologies caused brain rot in line with the first average IQ drop in the US [music] since records began. And by the mid 2020s, global peace looked very fragile with wars in Ukraine and the Middle East and the US-China rivalry"
+    },
+    {
+      "id": 274,
+      "debut": 10475.41,
+      "fin": 10497.61,
+      "temps_estime": false,
+      "titre": "Epstein, cynicism and record-low faith in the system",
+      "resume": "American cynicism and deep distrust of establishment politics went into overdrive because of Jeffrey Epstein. The US was still on top of the world and life was good and easier than in the past for many people, but polls showed faith in the system was as low as it had ever been in modern history.",
+      "mots_cles": [
+        "Jeffrey Epstein",
+        "American cynicism",
+        "distrust of establishment",
+        "faith in the system",
+        "polls",
+        "record low trust",
+        "superpower",
+        "modern history"
+      ],
+      "texte": "intensifying. [music] In that American cynicism, people's deep distrust of establishment politics they'd had now for so long went into overdrive because of a man named Jeffrey Epstein. The US was still on top of the world. Life was good for so [music] many people, so much easier than times in the past, but polls showed faith in the system was as low as it had ever been in modern history. So"
+    },
+    {
+      "id": 275,
+      "debut": 10497.61,
+      "fin": 10530.56,
+      "temps_estime": false,
+      "titre": "After 250 years: what America looks like today and what Americans still chase",
+      "resume": "After 250 years of upheaval, ambition, crisis and reinvention, new generations live in a world of constant connection yet deep disconnection, growing wealth gaps and rising social anxiety, while older Americans lament the loss of simpler times though the past was never simple or perfect. Americans still chase what the founders promised, fairness, freedom, a share in the spoils, leaders who serve the public good, and hope, the most American thing of all.",
+      "mots_cles": [
+        "250 years of American history",
+        "new generations",
+        "wealth gaps",
+        "social anxiety",
+        "founders' promise",
+        "fairness and freedom",
+        "hope",
+        "conclusion"
+      ],
+      "texte": "after 250 years of upheaval, ambition, crisis, and reinvention, [music] what does America look like today? New generations were born into a world nothing like their parents, a world of constant connection, [music] yet deep disconnection, growing wealth gaps, and rising social anxiety. Older Americans lamented the [music] loss of simpler times, but the truth is times were never simple. The past was never perfect and the future won't be either, but Americans [music] still chase what the founders promised, fairness, freedom, and a share in the spoils, leaders who serve the public good, and hope, the most American thing of all. Now go watch"
+    },
+    {
+      "id": 276,
+      "debut": 10530.56,
+      "fin": 10537.11,
+      "temps_estime": false,
+      "titre": "Outro: USA Today, if the South won the Civil War",
+      "resume": "The narrator invites viewers to watch the video \"USA Today if the South won the Civil War\" to see the alternate America that could have existed, or to click on another video instead.",
+      "mots_cles": [
+        "outro",
+        "USA Today if the South won the Civil War",
+        "alternate history",
+        "Civil War",
+        "next video",
+        "recommended video"
+      ],
+      "texte": "USA Today if the South won the Civil [music] War to see the alternate America that could have existed or click on this video instead."
     }
   ]
 }
