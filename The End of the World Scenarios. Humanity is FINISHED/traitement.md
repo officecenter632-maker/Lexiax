@@ -33,3 +33,14 @@ Départ : début de la vidéo (aucun segments.json existant). Speech : 6858 lign
 
 ## Point d'arrêt (mis à jour)
 - Dernière ligne traitée : 5832 (« leaving them in a zombie-like trance. »). Prochaine étape : reprendre à la ligne 5833 (« Could this create a zombie plague? In a word, no. »), id suivant : 209.
+
+## Tranche 7 (dernière) : lignes 5833 à 6858
+- Lignes 5833 à 6858 (sur 6858), minutes couvertes 185,3 à 218,0 (13080,84 s), 45 segments (id 209 à 253). Contenu : fin de la partie « could the zombie apocalypse actually happen » (champignons Ophiocordyceps, guêpes parasites, phytoplasmes, Toxoplasma, prions et vache folle, 28 Days Later, pithovirus, neurogenèse, nanobots : id 209 à 233), puis dernière partie sur la tempête solaire et l'« internet apocalypse » (id 234 à 253).
+- Remarques : le segment 233 se termine sur « of the future. The sun's gases » (début du thème suivant dans la ligne de coupure, temps non estimés). Les sous-titres automatiques contiennent des erreurs (par exemple « Cordyceps unilateralis » pour la toxine haïtienne, « Sangeeta Abdul Jyoti » pour la chercheuse), conservées mot pour mot dans les textes. Les résumés reprennent l'orthographe du speech sauf mention.
+
+## Bilan final
+- Méthode : lecture du speech par morceaux d'environ 240 lignes ; coupures posées en fin de ligne (aucun temps estimé, temps_estime false partout) ; textes générés par script mot pour mot à partir des lignes du speech (aucune retouche) ; titres en anglais, résumés factuels en français, 5 à 10 mots-clés ; vérification par script avant chaque push.
+- Nombre de segments : 253 (id 1 à 253), lignes 1 à 6858 couvertes, durée totale 13080,84 s.
+- Segment le plus court : id 190 (14,8 s) ; le plus long : id 22 (105,1 s).
+- Passages douteux : voir remarques ci-dessus (coupures 205 et 233 qui finissent sur l'amorce du thème suivant, sous-titres automatiques erronés).
+- Travail terminé : « complet » est à true dans segments.json.

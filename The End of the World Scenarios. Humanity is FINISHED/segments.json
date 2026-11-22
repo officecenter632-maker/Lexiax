@@ -4,12 +4,12 @@
   "titre_video": "The End of the World Scenarios. Humanity is FINISHED.",
   "duree_s": 13080.84,
   "avancement": {
-    "lignes_traitees": 5832,
-    "fin_traitee_s": 11120.31,
+    "lignes_traitees": 6858,
+    "fin_traitee_s": 13080.84,
     "nb_lignes_total": 6858,
-    "complet": false
+    "complet": true
   },
-  "nb_segments": 208,
+  "nb_segments": 253,
   "segments": [
     {
       "id": 1,
@@ -3827,6 +3827,841 @@
         "suggestible"
       ],
       "texte": "believed to be an odd tale from a traditional voodoo religion, but during the US occupation of Haiti, they were surprised to discover that people were actually reporting to no residents who were turned into zombies. People would show up after being missing for years and would claim they'd been enslaved by witch doctors with only fitful memories of the missing time. Scientists looked into these claims and found a possible explanation for this. Right down to the supposed return from the dead, these people might have been given a powerful neurotoxin that would have paralyzed them completely and slowed down their body functions to the point of appearing dead. Followed by the application of the toxin Datura stramonium, derived from jimsonweed, this can cause long-term disorientation that would leave someone in a fugue state and highly suggestible, leaving them in a zombie-like trance."
+    },
+    {
+      "id": 209,
+      "debut": 11120.31,
+      "fin": 11169.52,
+      "temps_estime": false,
+      "titre": "Could Haiti's zombie cases cause a zombie plague? No",
+      "resume": "Les cas haïtiens sont l'un des seuls exemples de comportement zombie chez l'humain mais le moins terrifiant : pas d'études de cas détaillées à long terme, des scientifiques doutent qu'ils soient durables, une dose manquée rend les facultés et un léger surdosage de jimsonweed peut tuer. Ce sont des cas d'enlèvement et d'esclavage, pas contagieux, et une morsure ne causerait qu'une infection bactérienne.",
+      "mots_cles": [
+        "zombie plague",
+        "case studies doubted",
+        "missed dose",
+        "jimsonweed overdose",
+        "kidnapping and enslavement",
+        "not contagious",
+        "bite infection"
+      ],
+      "texte": "Could this create a zombie plague? In a word, no. While this is one of the only cases known of actual zombie-like behavior in humans, it might be the least terrifying prospect. For one thing, there are no detailed case studies of this behavior long-term, just stories of it happening in the past. Many of the case studies have been doubted by scientists who think [music] it couldn't be sustained long-term. If these chemicals were applied effectively, it would only take one missed dose for the person to start regaining their full mental faculties, and a slight overdose of the toxic jimsonweed extract could kill. These cases aren't the precursor to a zombie apocalypse. They're a case of kidnapping and enslavement. More importantly, they're not contagious in any way. If someone under the effects of that Cordyceps unilateralis bit an unaffected person, all that might happen is a nasty infection from the bacteria [music] in the person's mouth. But outside of the human world, more threatening cases"
+    },
+    {
+      "id": 210,
+      "debut": 11169.52,
+      "fin": 11219.91,
+      "temps_estime": false,
+      "titre": "Fungi that control animals: Ophiocordyceps unilateralis infects ants",
+      "resume": "Parmi les champignons, certains sont parasites et manipulent d'autres organismes, comme Ophiocordyceps unilateralis qui cible les fourmis des canopées tropicales. Quand elles descendent au sol, les spores se fixent sur leur exosquelette, les enzymes l'affaiblissent et le champignon s'installe dans le corps puis atteint le cerveau.",
+      "mots_cles": [
+        "fungi",
+        "Ophiocordyceps unilateralis",
+        "parasitic fungus",
+        "tropical forest ants",
+        "spores",
+        "exoskeleton",
+        "enzymes",
+        "ant brain"
+      ],
+      "texte": "await. Fungi, they take many forms like mushrooms that grow on trees and make for a tasty topping on pizza. But in the fungal kingdom, a surprising number of them are parasitic and some display a disturbing ability to affect other organisms. That's the case for Ophiocordyceps unilateralis, an insect pathogenic fungus that spreads itself in a disturbing fashion and it has a particular target, the ants crawling around the canopies of tropical forests. They crawl through the trees except when the tree gaps become impossible to cross and they head down to the forest floor. That's where this sinister fungi is waiting, spreading its spores. They attach to the exoskeleton of the ant and start growing there, using enzymes to weaken the exoskeleton and allow them to take root in the ant's body. And once they've worked their way in, that's when the transformation truly begins because the fungus doesn't just affect the ant's body, it affects their brain. The fungus"
+    },
+    {
+      "id": 211,
+      "debut": 11219.91,
+      "fin": 11268.02,
+      "temps_estime": false,
+      "titre": "Zombie ants: seizures, death grip on a leaf and the fungal garden",
+      "resume": "Le champignon produit des composés qui provoquent des convulsions faisant tomber la fourmi au sol, où elle n'a plus qu'une fonction : propager le champignon. Avant de mourir elle s'accroche à une feuille avec ses mandibules, et en 4 à 10 jours elle devient un organisme dédié à la survie d'une autre espèce, d'où le surnom de fourmis zombies.",
+      "mots_cles": [
+        "zombie ants",
+        "seizure-like convulsions",
+        "mandibles",
+        "leaf",
+        "fungal spores",
+        "4 to 10 days",
+        "dead ants garden",
+        "mind control"
+      ],
+      "texte": "yeast spreads through the ant's body and starts generating compounds that affect the ant's behavior, starting with causing it to have seizure-like convulsions that knock [music] it from its usual perch down to the forest floor. And there it stays because it now has one function, to spread the fungus growing off of its body. When the ant is about to reach the end of its life cycle, it will attach itself to a leaf with its mandibles and die there, spreading the fungal spores from the massive growth on its head. This creates a morbid garden of dead ants to infect the entire [music] population of ants in the area. And as the ant dies, the fungus continues to grow until the ant is covered in a large growth of fungus. In between 4 to [music] 10 days, the ant transforms from a creature with its own mind to one solely devoted to propagating another species survival. [music] This has led scientists to give these creatures a disturbing nickname, zombie ants. But could they jump species"
+    },
+    {
+      "id": 212,
+      "debut": 11268.02,
+      "fin": 11315.62,
+      "temps_estime": false,
+      "titre": "Could the zombie ant fungus jump to humans? Unlikely",
+      "resume": "Les chances que le champignon franchisse la barrière d'espèce sont limitées : il cible de petits animaux à exosquelette, des insectes ou araignées plus grands tout au plus, alors que les humains ont des os plus durs à percer. Les humains remarquent aussi les anomalies de leur corps bien mieux que les fourmis, et retireraient le champignon ou iraient chez le médecin.",
+      "mots_cles": [
+        "species barrier",
+        "exoskeleton",
+        "bones",
+        "fungal infection brain",
+        "doctor",
+        "mind-controlled zombies",
+        "mushroom hat"
+      ],
+      "texte": "to bigger targets? While the idea of a fungal infection targeting our brains is terrifying, the odds of them breaking that species barrier are limited. For one thing, the fungus is designed to target small animals with an exoskeleton. And if they jumped species, it would be to a larger insect or a spider. Humans don't have an exoskeleton. We have bones which are much harder to break through. While humans do have some weak, unprotected points like our eyes, there's another element that protects us from a fungal zombie infection like this. We can notice and react to weird things happening to our body much easier than ants can. If we see a weird fungal infection coming out of our body, we'll either pull it off or go see a doctor. So the odds are that even if a fungus did start affecting humans, it would never be able to transform any of us into mind-controlled zombies, assuming no one decided they liked their new mushroom hat and just let it grow. But"
+    },
+    {
+      "id": 213,
+      "debut": 11315.62,
+      "fin": 11362.82,
+      "temps_estime": false,
+      "titre": "Parasitic wasps lay eggs inside living hosts: Zatypota percontatoria",
+      "resume": "Beaucoup de guêpes pondent dans une créature vivante, souvent un gros insecte ou une araignée, et les œufs éclosent et la mangent de l'intérieur, l'hôte étant habituellement paralysé par le venin. Zatypota percontatoria a le même dard et ovipositeur mais ne paralyse pas complètement l'hôte pendant la gestation, ce qui pourrait être pire.",
+      "mots_cles": [
+        "parasitic wasps",
+        "eggs in living host",
+        "venom paralysis",
+        "Zatypota percontatoria",
+        "ovipositor",
+        "spiders",
+        "larvae",
+        "murder hornets"
+      ],
+      "texte": "some species more terrifying than fungi are using the same tactics. Pretty much everyone hates wasps, from those nasty yellow jackets that haunt every summer picnic to terrifying murder hornets of Japan. But smaller creatures have far more reason to fear them because many wasps have a truly disturbing method of reproducing. They lay their eggs inside a still-living creature, usually a large insect or spider, and the eggs hatch inside and eat the creature from the inside out. Usually the wasp uses its venom to paralyze the creature before laying eggs and just uses it as a cocoon. But one wasp named Zatypota percontatoria might have taken this tactic to the next level. It has the same sting and ovipositor that its larger, more dangerous counterpart does, but it doesn't render the host completely paralyzed while the larvae are gestating. Instead, it might do something worse. [music]"
+    },
+    {
+      "id": 214,
+      "debut": 11362.82,
+      "fin": 11407.72,
+      "temps_estime": false,
+      "titre": "The wasp larva that steers a spider's behavior",
+      "resume": "La guêpe cible surtout de jeunes araignées. L'araignée semble consciente des larves mais incapable de les retirer et finit par tisser un cocon qui l'immobilise pendant que la larve émerge et la dévore. Les scientifiques pensent maintenant que la larve émet des hormones guidant le comportement, plutôt qu'une atteinte directe du cerveau.",
+      "mots_cles": [
+        "spider",
+        "larva",
+        "cocoon",
+        "hormones",
+        "behavior manipulation",
+        "host consumed",
+        "brain",
+        "one survivor"
+      ],
+      "texte": "It mostly targets small spiders, usually younger ones, but as the larvae grow inside the spider's body, something unusual happens. The spider might be aware of the creatures growing within it, but it finds itself unable to affect or remove them. As the growth of the larva advances, the spider will eventually build a cocoon to immobilize itself while the larva emerges and consumes its host. The initial thought was that the wasp was directly affecting the brain of the spider, which would be a terrifying prospect. But now scientists believe it's more likely the larva exudes hormones that guide the behavior of the spider in a certain direction. Until the end, the spider doesn't behave in ways that are completely atypical for the species, but instead seems to mutually be protecting itself in the wasp. Of course, there is only going to be one survivor at the end, exactly the way the wasp wants it."
+    },
+    {
+      "id": 215,
+      "debut": 11407.72,
+      "fin": 11457.72,
+      "temps_estime": false,
+      "titre": "Could parasitic wasps zombify humans? No",
+      "resume": "Cette guêpe est bien plus petite que celles qui attaquent les humains, mais le frelon géant asiatique, surnommé tueur de yaks, tue des dizaines d'humains par an, surtout en défense. Aucune guêpe n'a parasité un humain, car la personne se ferait retirer les œufs par un médecin et un proche remarquerait un changement de comportement, et l'œstre ne fait que des infections superficielles.",
+      "mots_cles": [
+        "Asian giant hornet",
+        "yak killer",
+        "defensive attacks",
+        "parasitize a human",
+        "botfly",
+        "doctor removes eggs",
+        "wasp zombies"
+      ],
+      "texte": "But is this deadly wasp a threat to humans? The wasp is a much smaller wasp than the ones that attack humans, but there are wasps that pose a serious threat to large animals. The Asian giant hornet even has the nickname yak killer because a swarm of them can kill a massive animal with their stings, and they do kill dozens of humans a year. But these attacks are usually defensive, [music] seeking to drive humans away from them. No wasp has ever tried to parasitize a human for the same reason no fungi has ever made a go of that big game. If a wasp injected a human with eggs, the human would likely go to the doctor and get them removed. And even if hormones were affecting their behavior to make them want to protect their carry on, the odds are another person would notice and get them some help. That's why the species that do lay their eggs in humans, like the botfly, mostly do surface-level infections and hope the person just doesn't notice. So no wasp zombies coming anytime soon. But is a"
+    },
+    {
+      "id": 216,
+      "debut": 11457.72,
+      "fin": 11502.22,
+      "temps_estime": false,
+      "titre": "Plant parasites: phytoplasma bacteria and their spread by insects",
+      "resume": "Les plantes, base de l'écosystème, sont vulnérables aux parasites : les phytoplasmes, connus depuis les années 1600 et d'abord pris pour des virus, provoquent flétrissement et excroissances anormales. La bactérie passe de la plante aux insectes puis à d'autres plantes pollinisées, avec pour signes des feuilles jaunes et des excroissances attirant les insectes.",
+      "mots_cles": [
+        "plants",
+        "phytoplasma",
+        "blight",
+        "abnormal growths",
+        "insect vectors",
+        "yellow leaves",
+        "pollination",
+        "1600s"
+      ],
+      "texte": "far deadlier threat lurking under our noses? Plants. [music] They make our yard beautiful and they make for a lot of work pulling weeds. But these leafy organisms are the backbone of the global ecosystem, and that makes them uniquely vulnerable to parasites. [music] A bacteria known as phytoplasma has been affecting plants since it was discovered in the 1600s, but at first they were assumed to be plant viruses. They create fast-spreading blight, abnormal plant growth, and odd growths that seem to have one purpose, spread the bacteria further. The bacteria starts in plants, spreads through insects, and moves back to plants [music] once they've been pollinated by exposed insects. Some of the signs include yellow leaves and growths that attract insects, but otherwise the plants just seem to continue existing fine [music] regardless of the bacteria parasitizing them. But the truth goes deeper. These"
+    },
+    {
+      "id": 217,
+      "debut": 11502.22,
+      "fin": 11542.62,
+      "temps_estime": false,
+      "titre": "How phytoplasma rewrites plants into puppets",
+      "resume": "La bactérie réécrit la morphologie de la plante, remplaçant fleurs saines par des excroissances feuillues qui propagent la bactérie, changeant sa fonction de base malgré l'absence de cerveau. Cela nuit à la plante mais certains éleveurs apprécient l'aspect touffu qui donne plus de fleurs ; à l'état sauvage, chaque plante infectée devient un pantin et chaque insecte un vecteur.",
+      "mots_cles": [
+        "morphology",
+        "plant growths",
+        "puppet",
+        "disease vector",
+        "bushy plants",
+        "breeding",
+        "flowers",
+        "bacteria"
+      ],
+      "texte": "bacteria literally rewrite the morphology of the plant, switching it from growing flowers that would help it spread healthy plants to growing odd leafy growths [music] that spread the bacteria. While the plants lack any brain function, the bacteria manages to get deep down to the base components of the plant and permanently change its core function. This is considered dangerous to the health of the plant, but it doesn't have all negative consequences for those who cultivate plants. The bushy appearances of infected plants can actually be desirable for those breeding certain plants because they can then [music] produce more flowers. But in the wild, these bacteria spread fast and furious, turning every plant they infect into [music] a puppet of their spread and every insect that touches them into a disease vector. But could this affect"
+    },
+    {
+      "id": 218,
+      "debut": 11542.62,
+      "fin": 11585.82,
+      "temps_estime": false,
+      "titre": "Could phytoplasma bacteria zombify humans? Not likely",
+      "resume": "C'est peut-être le cas le plus dangereux car les humains sont aussi vulnérables aux bactéries que n'importe quel être vivant, mais utiliser l'humain comme vecteur ne le transformerait pas en zombie, faute des outils nécessaires. La bactérie ne ferait que voyager sur nous comme sur un insecte, sans que nous le sachions, et seules les plantes ont à s'en inquiéter.",
+      "mots_cles": [
+        "phytoplasma",
+        "bacteria",
+        "human vector",
+        "insect-shaped bus",
+        "diseases",
+        "science fiction",
+        "zombie transformation"
+      ],
+      "texte": "humans and [music] create a zombie apocalypse? This is probably the most dangerous case yet because unlike parasitic wasps and fungi, humans are just as vulnerable to bacteria as anything else. Countless diseases start from bacteria and devastate populations. But if this bacteria started using humans as a vector, it's not likely to turn us into zombies the way it does plants. That's because we lack the tools it needs to spread and any change where it makes people start growing plant growths is the stuff of science fiction. What it could do is hit a ride on us and use us to spread it the way it does insects. But it doesn't use the insects in any way besides being an insect-shaped bus. So if this bacteria could infect us, the odds are we wouldn't even know it. And the only ones who need to be worried about the phytoplasmas are the plants. But at"
+    },
+    {
+      "id": 219,
+      "debut": 11585.82,
+      "fin": 11639.32,
+      "temps_estime": false,
+      "titre": "Toxoplasma gondii: a widespread parasite that infects warm-blooded animals",
+      "resume": "Après les parasites vermifugés des animaux domestiques, la vidéo présente Toxoplasma gondii, un parasite très répandu, surtout dans les pays en développement, dont jusqu'à 50 % de la population mondiale aurait été exposée. Il cause peu de symptômes, parfois grippaux, et infecte presque tous les animaux à sang chaud, mais son interaction avec deux animaux courants le rend inquiétant.",
+      "mots_cles": [
+        "Toxoplasma gondii",
+        "parasite",
+        "50% global population",
+        "flu-like symptoms",
+        "warm-blooded animals",
+        "pets",
+        "dewormer"
+      ],
+      "texte": "least none of these have made the jump to mammals, right? Parasites are everywhere, as any pet owner knows when they have to give their beloved [music] Phyto or Fluffy the dewormer medicine. Your cat might have just turned into a furry buzz saw as soon as you uncapped [music] those pills, but at least they're not infected with a zombie parasite, right? Well, probably. But a parasite making the [music] rounds is actually displaying a terrifying ability to puppet the largest animals yet. Toxoplasma gondii isn't some new parasite [music] that's just making its way into the population. It's a widely spread parasite common in developing countries, [music] and it's estimated that as many as 50% of the global population may have been exposed. The good news is it's not too serious in most cases. It can cause flu-like symptoms, but most humans who get [music] infected might not even know it. What is scary about it is that it can infect almost any warm-blooded animal, including pets. But it's the interaction with two common animals that gives it a [music] disturbing X factor."
+    },
+    {
+      "id": 220,
+      "debut": 11639.32,
+      "fin": 11686.62,
+      "temps_estime": false,
+      "titre": "Toxoplasma and mice: reduced fear that gets them eaten by cats",
+      "resume": "Toxoplasma gondii ne se reproduit sexuellement que dans le tube digestif d'un chat domestique. Chez la souris, il réduit l'anxiété et l'instinct de conservation, les souris infectées se cachant moins et explorant des zones risquées, donc plus souvent mangées par des chats, avec un effet proportionnel à la charge parasitaire.",
+      "mots_cles": [
+        "Toxoplasma gondii",
+        "domestic cat",
+        "mice",
+        "reduced anxiety",
+        "self-preservation",
+        "parasite load",
+        "brain manipulation",
+        "reproduction"
+      ],
+      "texte": "While Toxoplasma gondii can affect almost any mammal, its sexual reproduction needs much more specific [music] conditions. It can only reproduce in the digestive tract of a domestic cat. It doesn't affect the cat much, but how it gets there is what's terrifying. When it infects mice, it has an unusual effect that's unlike anything else it does. It affects the mouse brains, reducing their sense of anxiety and self-preservation. Infected [music] mice are less likely to hide when confronted by danger and more likely to explore risky areas. This puts them at a greater risk of getting eaten by, you guessed it, cats, who now have the infected mouse meat in their digestive tract. The heavier the parasite load is in the mice, the more they're affected. This microscopic parasite does everything short of [music] making the mice deposit themselves directly in the cat's mouth. Could it do the same to"
+    },
+    {
+      "id": 221,
+      "debut": 11686.62,
+      "fin": 11731.92,
+      "temps_estime": false,
+      "titre": "Could Toxoplasma turn humans into zombies? Unlikely",
+      "resume": "Contrairement aux autres candidats, Toxoplasma infecte déjà les humains et agit sur la chimie du cerveau des mammifères, et nous partageons de l'ADN avec les souris. Mais une mutation est improbable car cibler les humains n'a pas de sens dans son cycle de vie, qui exige de cibler des proies de chats comme oiseaux et rongeurs.",
+      "mots_cles": [
+        "Toxoplasma gondii",
+        "humans",
+        "brain chemistry",
+        "mutation",
+        "life cycle",
+        "cats",
+        "birds rodents",
+        "risky behavior"
+      ],
+      "texte": "humans? Unlike the previous four zombie apocalypse candidates, [music] Toxoplasma gondii has one scary advantage. It's already able to infect humans and it's already shown the ability to affect mammal brain chemistry. We share a lot of common DNA with mice and [music] it's not hard to make humans do risky things, as every episode of a popular TV stunt show indicates. Parasites can mutate quite easily, especially with fast reproduction, but the odds of this particular parasite mutating are slim to none for one reason. Targeting humans doesn't make sense for its life cycle. With the parasite only being able to reproduce inside [music] cats, it only makes sense to evolve to target something that cats eat. Birds and other small rodents might be at risk, but Fluffy probably can't eat you, even if they seem like they like to every time you're 3 minutes late with dinner. But"
+    },
+    {
+      "id": 222,
+      "debut": 11731.92,
+      "fin": 11778.92,
+      "temps_estime": false,
+      "titre": "Mad cow disease: a prion disease with zombie-like effects",
+      "resume": "La maladie de la vache folle n'est ni virus ni bactérie mais une maladie à prions qui fait muter les prions du cerveau de la même manière, avec troubles de la mémoire, du comportement, maladresse, visions, puis cécité, démence, coma et mort, invariablement fatale. Devenue célèbre dans les années 1990 via du bœuf contaminé, elle rappelle à beaucoup les zombies.",
+      "mots_cles": [
+        "mad cow disease",
+        "prion disease",
+        "memory problems",
+        "dementia",
+        "invariably fatal",
+        "contaminated beef",
+        "1990s",
+        "degenerative"
+      ],
+      "texte": "one potential zombie plague creator is already among us. It's one of the most terrifying diseases in the world, mad cow disease. Unlike most diseases, it's not a virus or a bacteria. It's a prion disease that affects other prions [music] in the brain, causing them to all mutate in the same way. Its effects are terrible, memory problems, behavior changes, [music] clumsiness, visions, and eventually blindness, dementia, coma, and death. The disease is [music] mysterious, degenerative, untreatable, and invariably fatal. While the small number of cases are inherited or caused by genetic factors, it became infamous in the 1990s when it spread [music] due to contaminated beef. One bite of a bad hamburger could kickstart someone's slow decline, [music] and before the end, things could get terrible, not just for the victim, but for the people around them. And many people say it reminds them of something terrifying. Most"
+    },
+    {
+      "id": 223,
+      "debut": 11778.92,
+      "fin": 11826.12,
+      "temps_estime": false,
+      "titre": "28 Days Later: the rage virus and its mad cow-like origin",
+      "resume": "La plupart des films montrent des zombies lents et décomposés qui veulent des cerveaux, mais 28 Days Later a introduit des infectés rapides, intelligents et vivants, contaminés par un virus de la rage transmis par contact et morsure. L'origine, un chimpanzé libéré porteur d'un agent pathogène passé à l'humain, a été jugée plus scientifique que d'habitude et proche de la façon dont la vache folle est arrivée dans la population.",
+      "mots_cles": [
+        "28 Days Later",
+        "rage virus",
+        "infected zombies",
+        "chimpanzee",
+        "pathogen jump",
+        "zombie films",
+        "fast zombies",
+        "mad cow origin"
+      ],
+      "texte": "zombie films have [music] a standard type of zombie, slow, shambling, decomposing. They usually want brains. But a movie series starting with 28 [music] Days Later introduced us to a different kind of zombie. They were fast, smart, and technically still alive. They were infected with a rage virus that made them viciously attack anyone they encountered, [music] and the virus could spread rapidly through contact, including biting. While there were no actual undead zombies in the movie, the world that resulted looked a lot like a zombie apocalypse, and the origin was a released chimpanzee carrying a pathogen that jumped to humans. While it was all fiction, it was more scientific than most zombie outbreak plots, and many people pointed out that this origin sounded a lot like how mad cow disease made its [music] way into the population. Could it turn into"
+    },
+    {
+      "id": 224,
+      "debut": 11826.12,
+      "fin": 11877.92,
+      "temps_estime": false,
+      "titre": "Could mad cow disease get deadlier? Contagion, blood donation and mutation risk",
+      "resume": "La maladie de Creutzfeldt-Jakob variante tue toujours en quelques années et se transmet par le bœuf, les transfusions, peut-être le sperme et la consommation de cervelle d'écureuil. Elle n'a pas de désir actif de se propager car le déclin incapacite les malades, mais une mutation pourrait la rendre plus rapide et agressive, d'où le contrôle des gouvernements, comme l'interdiction du don du sang aux Britanniques de l'époque en Finlande.",
+      "mots_cles": [
+        "variant Creutzfeldt-Jakob",
+        "contagious",
+        "blood transfusions",
+        "squirrel brains",
+        "mutation",
+        "aggressive behavior",
+        "Finland blood ban",
+        "dormant carriers"
+      ],
+      "texte": "something deadlier? Mad cow disease, also known as variant Creutzfeldt-Jakob disease, is already pretty deadly, invariably killing anyone it infects over a period of years. It's also highly contagious, being spread not just through contact with tainted beef, but through blood transfusions and potentially even donated sperm. It can also be contracted through eating squirrel brains, so sorry to say to anyone who appreciates [music] that delicacy. What it doesn't have right now is the active desire to spread. The slow decline of victims usually incapacitates them and makes it unlikely they'll actively spread it after being diagnosed, but a mutation could make it faster acting and make victims display more aggressive behavior. It's no surprise that governments around the world are determined to keep a lid on this horrible disease. With the disease [music] staying dormant for years, it's hard to tell if anyone's a carrier, and countries like Finland even banned British residents during the '90s from donating blood for life. But buried deep"
+    },
+    {
+      "id": 225,
+      "debut": 11877.92,
+      "fin": 11943.72,
+      "temps_estime": false,
+      "titre": "Pithovirus: a giant virus revived from Siberian permafrost",
+      "resume": "En 2000, des scientifiques explorant la glace sibérienne ont vu des amibes mourir au contact d'un échantillon de berge, qui contenait le plus grand virus connu, Pithovirus, de 1 500 nanomètres, en nid d'abeilles, actif comme si le temps n'avait pas passé. Il a environ 500 gènes contre 12 pour le VIH et cible de petits organismes unicellulaires.",
+      "mots_cles": [
+        "pithovirus",
+        "Siberian permafrost",
+        "amoebas",
+        "giant virus",
+        "1,500 nanometers",
+        "500 genes",
+        "HIV 12 genes",
+        "30,000 years"
+      ],
+      "texte": "in the Arctic might be the start of a horror movie. The year was 2000 when scientists were exploring ancient ice in the Siberian [music] permafrost. Saria has not defrosted for tens of thousands of years and provides a rare time capsule into a world long gone. But when a sample taken from a river bank was exposed to some test amoebas, scientists noticed something disturbing. The amoebas were rapidly dying off. A series of tests revealed that the permafrost contained a virus, but not just any virus. It was the largest virus humans had ever discovered, a creature named pithovirus that measured a whopping 1,500 nanometers. Looking vaguely like a honeycomb when examined, it was unlike any other virus in the modern day. It was active and killing its target like no time had passed since it was frozen. Unlike most viruses, it could easily be seen under a microscope, and it [music] contained as many as 500 unique genes, each of those ripe for a possible mutation. Already deadly viruses like the ones that cause HIV only contain about 12 genes. While this virus doesn't affect humans, that's only for a lack of opportunity. It may have evolved in time before humans and developed to target small single-celled organisms."
+    },
+    {
+      "id": 226,
+      "debut": 11943.72,
+      "fin": 11985.92,
+      "temps_estime": false,
+      "titre": "Studying pithovirus: a modern relative and why it likely won't target humans",
+      "resume": "Les scientifiques français qui l'ont découvert l'étudient depuis, et une espèce moderne du même genre trouvée en 2016 a un ADN très proche, ce qui indique que ce virus géant a peu de chances d'évoluer pour cibler l'humain, sa place dans la chaîne alimentaire étant très éloignée de nous comme des amibes.",
+      "mots_cles": [
+        "pithovirus",
+        "French scientists",
+        "2016 modern species",
+        "similar DNA",
+        "giant virus",
+        "amoebas",
+        "food chain",
+        "not human-targeting"
+      ],
+      "texte": "Naturally, humans responded to this in a sensible way, throwing the samples back into the permafrost and backing away slowly from the resurrected virus that had been waiting 30,000 years. Right? [music] Not so much. The French scientists who discovered pithovirus have been examining it since and testing its interactions with its targets to figure out how it's most likely to affect people in the modern day. The good news is it's purely a relic of the past, right? Not so much. A modern species of the same genus [music] was found in 2016 and studies indicate it has very similar DNA to its ancient counterpart. The good news is this indicates the giant virus is not likely to evolve to target humans in any way. It has a very specific spot in the food chain, and humans couldn't be further away from amoebas. What worries"
+    },
+    {
+      "id": 227,
+      "debut": 11985.92,
+      "fin": 12011.02,
+      "temps_estime": false,
+      "titre": "Permafrost relics: why scientists urge caution with ancient frozen viruses",
+      "resume": "Ce qui inquiète les scientifiques avec le pithovirus n'est pas ce virus mais le fait que des virus vieux de dizaines de milliers d'années subsistent dans le pergélisol et que certains pourraient infecter l'humain. Il n'y a aucune preuve actuelle d'un virus capable de déclencher une apocalypse zombie, mais les chercheurs conseillent la prudence, alors que la glace fond avec le réchauffement.",
+      "mots_cles": [
+        "permafrost",
+        "ancient viruses",
+        "caution",
+        "zombie apocalypse",
+        "frozen organisms",
+        "ice melting",
+        "climate warming"
+      ],
+      "texte": "scientists about the pithovirus isn't this specific virus, [music] it's that viruses from tens of thousands of years ago are still hanging around in the permafrost. Could [music] something down there be more likely to affect humans? Entirely possible. Although there's no current evidence of any virus [music] that would create a zombie apocalypse, scientists are advocating caution when possibly disturbing those frozen organisms. Good thing is the ice is staying right where it is, right? Hey, why is it feeling so hot lately?"
+    },
+    {
+      "id": 228,
+      "debut": 12011.02,
+      "fin": 12061.43,
+      "temps_estime": false,
+      "titre": "Neurogenesis and stem cells: the nervous system's limited ability to heal",
+      "resume": "Le corps se régénère bien (peau, os), mais le système nerveux pose problème : une fracture du cou peut condamner au fauteuil roulant et un choc à la tête laisser dans le coma. Guérir cerveau et moelle épinière en déclenchant leur régénération est l'une des dernières frontières de la médecine, les cellules souches pouvant peut-être recréer des neurones morts.",
+      "mots_cles": [
+        "neurogenesis",
+        "nervous system",
+        "spinal cord injury",
+        "coma",
+        "stem cells",
+        "regeneration",
+        "brain repair",
+        "medicine"
+      ],
+      "texte": "But scientists might not just uncover the source of a plague, they may even create it. The human body is incredible at regenerating itself. If you cut yourself, there'll be a fresh layer of skin over it in a week. A broken bone will knit itself together after a few months in a cast, but there are some areas that cause a little more problems, namely anything in the nervous system. While the process of neurogenesis, the generation of new neurons does happen naturally, the body is incapable of healing certain injuries. A person who breaks their neck might be in a wheelchair for life, while someone who hits their head in the wrong way might never wake up from a coma. This has been one of the last frontiers in medicine, curing brain and spinal cord injuries through triggering the body to regenerate. The key to this might be stem cells, cells that can adapt to become any other type of cell. When applied in the right way, they might be able to recreate dead nerve cells, but can they rewire the brain itself? So"
+    },
+    {
+      "id": 229,
+      "debut": 12061.43,
+      "fin": 12104.02,
+      "temps_estime": false,
+      "titre": "Cryogenics and stem cells: attempts to revive the dead",
+      "resume": "La cryogénie conserve des milliers de corps dans l'espoir d'une réanimation future, mais on ignore les dommages causés par la congélation au corps et au cerveau, d'où l'idée de scientifiques peu éthiques d'utiliser des cellules souches pour inverser la mort cérébrale ou expérimenter sur des défunts. La question est de savoir ce qui arriverait au cerveau.",
+      "mots_cles": [
+        "cryogenics",
+        "frozen bodies",
+        "resuscitation",
+        "stem cells",
+        "brain death",
+        "unethical scientists",
+        "freezing damage"
+      ],
+      "texte": "far, this is [music] very much in the realm of science fiction, but scientists have been trying to figure out how to beat death for decades. Cryogenics research has been ongoing with thousands of people volunteering [music] to have their bodies frozen in hopes of being awoken at a later date when scientists develop the means to resuscitate them. The problem is no one knows what kind of damage the freezing process has done to either the [music] body or the brain tissue, which is why any resurrection attempt would require some additional help. That's where stem cells come in, as some less than ethical scientists have proposed using this treatment to reverse brain death [music] or experiment with already deceased. After all, these cells can regenerate dead cells in other parts of the body. What about the most complicated machine the human body has ever produced? What would"
+    },
+    {
+      "id": 230,
+      "debut": 12104.02,
+      "fin": 12147.73,
+      "temps_estime": false,
+      "titre": "Could regenerating the brain create zombie-like compliant people?",
+      "resume": "Régénérer du tissu cérébral pourrait réinitialiser une personne et la rendre très influençable, une version moderne des victimes de la toxine du zombie haïtien, utile à un savant fou pour obtenir une main-d'œuvre docile. Ce n'est pas une épidémie zombie, faute de pathogène à propager et de fonctions cérébrales pour attaquer, et ce scénario reste lointain.",
+      "mots_cles": [
+        "brain regeneration",
+        "factory reset",
+        "suggestible",
+        "Haitian zombie toxin",
+        "mad scientist",
+        "compliant labor",
+        "no pathogen",
+        "far-off scenario"
+      ],
+      "texte": "happen? Well, that's the scary part. The human brain is still a mystery in many ways, and one tiny thing going wrong can [music] result in an entirely different person. Regenerating new tissue in the brain might essentially do a factory reset [music] on a person, creating someone highly suggestible. The result could make for a high-tech modern version of the people who are under the effect of the toxin in the rumored Haitian zombie plague. Could this be a great way for an unethical mad scientist to create compliant labor? Possibly. [music] Could it be a zombie plague? There's no evidence of that because there's no pathogen the zombie would want to spread, and it's unlikely someone in this situation would have the higher brain function to attack anyone. This scenario is the most far-off in the future, [music] as research into neurogenesis is focusing more on reversing short-term damage at the moment. But be careful"
+    },
+    {
+      "id": 231,
+      "debut": 12147.73,
+      "fin": 12207.13,
+      "temps_estime": false,
+      "titre": "Nanorobotics: swarms of tiny machines and their medical uses",
+      "resume": "La technologie rétrécit, et la nanorobotique crée des machines d'environ un nanomètre, programmées depuis un point central et lâchées par milliers ou millions pour accomplir ensemble une tâche, comme réparer des zones difficiles d'accès (espace, océan, corps humain) ou faire de la chirurgie mini-invasive.",
+      "mots_cles": [
+        "nanorobotics",
+        "nanobots",
+        "nanometer",
+        "swarm",
+        "central programming",
+        "minimally invasive surgery",
+        "repair",
+        "research and development"
+      ],
+      "texte": "what you wish for, because the most deadly [music] scenario for a zombie apocalypse could be developing as we speak. Technology is getting smaller all the time. Remember when a cell phone was a big, bulky thing that barely fit in your pocket? Now a smartphone is basically a thin sheet that shatters if you drop it. The same is happening to robots at a much smaller scale. Nanorobotics is a fast-developing field that creates tiny machines that are roughly a nanometer. So, what could these do? Not much, but a whole lot of them could make a big difference. These devices are mostly in the research and development phase right now, but the basic theory is that they could all be programmed with the same function from a central point, then released in thousands or millions to tackle a task. Each one would attack a certain point, but together the cloud of them would have a huge effect. This could be used to repair damage in areas where it's not easy for humans to go, like outer space or deep in the ocean, or even in the human body. These microscopic robots could be used to perform minimally invasive surgery if programmed right, or even perform long-range repair [music] while staying in the body. But some"
+    },
+    {
+      "id": 232,
+      "debut": 12207.13,
+      "fin": 12254.23,
+      "temps_estime": false,
+      "titre": "Self-replicating nanobots and the University of Nebraska zombie virus",
+      "resume": "Des nanobots auto-répliquants sont à l'étude, ainsi que leur fusion avec des organismes vivants : à l'Université du Nebraska, une puce de silicone intégrée à un virus l'a tué mais a continué de fonctionner comme hygromètre pendant un mois, un virus zombie. Ce nanobot n'était pas programmé pour se reproduire, mais ce ne sera pas toujours le cas.",
+      "mots_cles": [
+        "self-replicating nanobots",
+        "University of Nebraska",
+        "silicone chip",
+        "virus",
+        "humidity gauge",
+        "zombie virus",
+        "living organisms"
+      ],
+      "texte": "experiments scientists are doing are much more worrisome. Designs are in the works for nanobots to not just repair things, but to build more of their own system, essentially becoming self-replicating. But scientists weren't satisfied with designing the self-replicating smart robots too tiny for anyone to see. They're trying to see how they can be fused with living organisms. Scientists at the University of Nebraska experimented on integrating a silicone chip into a virus and discovered that the virus died, but the mechanical component still kept running as a humidity gauge for a month after its death. That's right. The University of Nebraska successfully created a zombie virus. What could go wrong? Is this going to create a zombie outbreak now? No, the nanobot wasn't programmed [music] to reproduce, and its function was limited, but that won't always be the case. One of the areas scientists"
+    },
+    {
+      "id": 233,
+      "debut": 12254.23,
+      "fin": 12288.23,
+      "temps_estime": false,
+      "titre": "Nanobots in the brain: a possible future zombie technology",
+      "resume": "Les chercheurs veulent utiliser des nanobots pour réparer le tissu cérébral, ce qui exige l'auto-réplication : dans quelques années des gens pourraient avoir des robots intelligents auto-répliquants dans le cerveau, régulés par un ordinateur central, et si ceux-ci déviaient et voulaient se propager, les conséquences seraient imprévisibles. L'origine des zombies pourrait passer du folklore haïtien à la technologie du futur.",
+      "mots_cles": [
+        "nanobots brain",
+        "self-replication",
+        "central computer",
+        "cybernetic neurogenesis",
+        "rewiring brain chemistry",
+        "Haitian folklore",
+        "technology of the future"
+      ],
+      "texte": "are most interested in is using nanobots to potentially repair brain tissue, neurogenesis with a cybernetic twist. To do this, the nanobots would need to be able to self-replicate. So, in a few years, there could be people with self-replicating intelligent robots in their brains, rewiring their brain chemistry. A central computer would be regulating their function unless something went horribly wrong because if the nanorobots went off their designated function and wanted to spread, who knows what they'd be capable of. So, while the origin of zombies might have started in Haitian folklore, it may be headed somewhere much different. The technology of the future. The sun's [music] gases"
+    },
+    {
+      "id": 234,
+      "debut": 12288.23,
+      "fin": 12346.73,
+      "temps_estime": false,
+      "titre": "New topic: the solar storm and the so-called internet apocalypse",
+      "resume": "Un satellite de la NASA détecte une masse noire immense sur le soleil et alerte d'une tempête solaire imminente : le message met 8 minutes 20 secondes à arriver, trop tard. Certains conspirationnistes y voient une apocalypse, mais la réalité de l'« internet apocalypse » diffère des absurdités du web : les tempêtes solaires sont fréquentes et ne nous ramèneront probablement pas à l'âge de pierre.",
+      "mots_cles": [
+        "solar storm",
+        "NASA satellite",
+        "internet apocalypse",
+        "8 minutes 20 seconds",
+        "coronal mass ejection",
+        "solar flare",
+        "conspiracy theorists",
+        "Stone Age"
+      ],
+      "texte": "and plasma swirl like currents in the ocean. Suddenly, an orbiting NASA satellite records a black mass thousands of times the size of the Earth. The satellite sends an ominous warning signal back to its home world. Solar storm imminent. Prepare for blackout. It takes 8 minutes and 20 seconds for the message to reach Earth. By the time it arrives, it's too late. [music] A massive ejection of radiation, electromagnetic waves, and high energy particles is about to slam into the Earth. And when it hits, a full-on apocalypse could commence. At least that's what some conspiracy theorists and doomsayers would have you believe on the internet. The reality of what has been named the internet apocalypse is much different than the nonsense that's been spewed across the World Wide Web recently. Is the Earth in danger of being hit by a solar storm in the future? Absolutely. Actually, it happens more frequently than you might think. And there is always a risk that the sun will release a solar flare or a mass coronal ejection that could hit the Earth. Will this solar event send us back to the Stone Age? [music] Probably not. Let's take a more in-depth look at"
+    },
+    {
+      "id": 235,
+      "debut": 12346.73,
+      "fin": 12394.43,
+      "temps_estime": false,
+      "titre": "Internet apocalypse: threat to power grids and plan of the explanation",
+      "resume": "Une forte tempête solaire pourrait couper les réseaux électriques et donc l'internet de la planète, dont nous dépendons pour communiquer et pour la banque. L'apocalypse internet ne détruirait pas la civilisation mais causerait de graves problèmes ; la vidéo présente d'abord le scénario qui fait croire à des gens que le monde finira d'ici un ou deux ans, puis explique pourquoi c'est improbable mais inquiétant.",
+      "mots_cles": [
+        "internet apocalypse",
+        "electricity grids",
+        "internet access",
+        "banking",
+        "civilization",
+        "solar storm",
+        "scenario explanation"
+      ],
+      "texte": "what scientists and experts have to say about the imminent internet apocalypse and its effects on the world. Even though the fantastical claims you'll find on the internet when researching this topic [music] are mostly untrue, there is some cause for alarm. A strong solar storm could knock out electricity grids and with it internet access across the planet. As a species, we rely heavily on the internet for everything from communicating with one another to more vital things such as banking. The internet apocalypse may not destroy civilization, but could cause some serious problems. We're first going to go over the scenario that has led an alarming number of people to believe the world will end in the next year or two. Then we'll explain why this is unlikely to happen, but why there is still cause for concern. We can only hope that you watch this video before the internet apocalypse commences. Otherwise, you won't be prepared. this hypothetical"
+    },
+    {
+      "id": 236,
+      "debut": 12394.43,
+      "fin": 12427.13,
+      "temps_estime": false,
+      "titre": "The hypothetical internet apocalypse: a superstorm hits Earth",
+      "resume": "Dans ce scénario, une gigantesque tempête est éjectée du soleil vers la Terre, ses particules et ondes électromagnétiques frappent le champ magnétique en provoquant des aurores, puis traversent la protection et déchirent les infrastructures : on passe de l'ère numérique à l'âge de pierre.",
+      "mots_cles": [
+        "superstorm",
+        "high energy particles",
+        "magnetic field",
+        "aurora borealis",
+        "aurora australis",
+        "infrastructure",
+        "Stone Age",
+        "electromagnetic waves"
+      ],
+      "texte": "doomsday scenario, the perfect series of events would need to occur within and around the surface of the sun. A giant superstorm is ejected from the star and heads straight [music] toward the Earth. The high energy particles and electromagnetic waves slam into our planet's magnetic field, causing brilliant displays of the aurora borealis and aurora australis across the planet. Unfortunately, the immense amount of electromagnetic waves penetrate the Earth's protective field and rip through the infrastructure of our society. One moment the world is in the [music] age of digital information, the next it's back to the Stone Age."
+    },
+    {
+      "id": 237,
+      "debut": 12427.13,
+      "fin": 12465.33,
+      "temps_estime": false,
+      "titre": "Effects on living things and the chaos without the internet",
+      "resume": "La plupart des êtres vivants, dont les humains, sont épargnés, mais les porteurs de stimulateurs cardiaques sont en danger et les animaux qui s'orientent avec le champ magnétique, oiseaux et tortues marines, se perdent. Tous les appareils électroniques sont grillés, le monde sombre dans le chaos et l'anarchie, les réseaux électriques des grandes villes étant surchargés.",
+      "mots_cles": [
+        "pacemakers",
+        "birds sea turtles",
+        "magnetic navigation",
+        "electronics fried",
+        "chaos",
+        "anarchy",
+        "electrical infrastructure",
+        "internet apocalypse"
+      ],
+      "texte": "Most living things, including humans, are unaffected by the solar storm, but people who rely on pacemakers or heart monitors could be in big trouble. That being said, any organism that [music] uses the Earth's magnetic field as a means to navigate, such as birds and sea turtles, becomes lost. [music] Every electronic device on the planet has been fried by the solar storm. Without the internet, the world plunges into chaos. People don't know how to act without their faces glued to a screen. [music] Anarchy breaks out and due to the fact that the electrical infrastructure of every major city on the planet has been overloaded, getting everyone under control becomes a huge challenge. This is what's been dubbed the internet apocalypse by many online. But now,"
+    },
+    {
+      "id": 238,
+      "debut": 12465.33,
+      "fin": 12530.03,
+      "temps_estime": false,
+      "titre": "Origin of the term: Sangeeta Abdul Jyoti's 2021 paper on solar superstorms",
+      "resume": "Sangeeta Abdul Jyoti, professeure d'informatique à l'Université de Californie à Irvine, a écrit en 2021 « Solar Superstorms: Planning for an Internet Apocalypse », un outil pour les universitaires sur la préparation à une panne d'internet majeure, pas une prédiction. Elle regrette le terme « internet apocalypse » qui a attiré des lecteurs ayant détourné son travail pour de la désinformation.",
+      "mots_cles": [
+        "Sangeeta Abdul Jyoti",
+        "University of California Irvine",
+        "Solar Superstorms paper",
+        "2021",
+        "internet apocalypse",
+        "regret",
+        "misinformation",
+        "internet outage"
+      ],
+      "texte": "let's examine exactly where the term comes from and what it means and if we're actually at risk of being thrown back into the analog era. Sangeeta Abdul Jyoti is a computer science professor at the University of California, Irvine. She wrote a paper in 2021 entitled Solar Superstorms: Planning for an Internet Apocalypse. The paper itself was a means for Jyoti to examine how ready the planet is for a disaster that may disrupt access to the internet. The paper was meant to be a tool for other academics in her field to help them consider the consequences of a major internet outage and the steps that governments and companies should take to mitigate [music] these problems if a solar storm or some other form of disruption in connectivity were to occur in the future. The paper was not supposed to be seen as a prediction of an imminent doomsday scenario. Jyoti has even said she regrets using the term internet apocalypse in her title as it brought far too much attention to the paper, especially from groups of people who misunderstood her work or didn't even bother to read it and used her writing as fuel to spread their messages of misinformation about the world coming to an end. This all came to a head in"
+    },
+    {
+      "id": 239,
+      "debut": 12530.03,
+      "fin": 12584.43,
+      "temps_estime": false,
+      "titre": "March 2023: Parker Solar Probe data misconstrued by conspiracy theorists",
+      "resume": "En mars 2023, des internautes ont trouvé un article de la NASA basé sur les données de la sonde Parker Solar Probe, lancée en 2018, sur les vents solaires et la reconnexion magnétique. Ces informations ont été détournées par des conspirationnistes affirmant que la NASA utilisait l'IA pour prédire les superorages solaires et annonçant une apocalypse internet, ce que le rapport ne dit pas.",
+      "mots_cles": [
+        "March 2023",
+        "NASA article",
+        "Parker Solar Probe",
+        "solar winds",
+        "magnetic reconnection",
+        "artificial intelligence",
+        "conspiracy theories",
+        "misinformation"
+      ],
+      "texte": "March of 2023 when internet sleuths stumbled upon an article published by NASA that included information gathered by the Parker Solar Probe, which was launched in 2018. This satellite orbits the sun to collect data on the physics and atmosphere of our star. Scientists published new data provided by the Parker Solar Probe about solar winds, which were discovered to be the result of a natural phenomenon known as magnetic reconnection. Typically, changes in the sun happen slowly over long periods of time. However, magnetic reconnection is a sudden change that can result in a burst of energy. This information was then misconstrued and incorporated into the rants of conspiracy theorists and people on the internet. They stated that NASA was using artificial intelligence to predict when solar superstorms would strike the earth. The conclusion of these misinformed personalities [music] was that there was an impending internet apocalypse and the world would be hurtled back into the Stone Age because of [music] it. Needless to say, none of"
+    },
+    {
+      "id": 240,
+      "debut": 12584.43,
+      "fin": 12617.63,
+      "temps_estime": false,
+      "titre": "Solar maximum 2024 and the claims of an imminent apocalypse",
+      "resume": "Les théories ont aussi exploité une étude disant que le maximum solaire arriverait en 2024, un an plus tôt que prévu. Les scientifiques prévoient plus de tempêtes solaires dans les prochaines années mais aucune preuve qu'un superorage coupe tout internet bientôt.",
+      "mots_cles": [
+        "solar maximum",
+        "2024",
+        "peer-reviewed paper",
+        "solar storms increase",
+        "internet frenzy",
+        "no evidence",
+        "superstorm"
+      ],
+      "texte": "these things were mentioned in the original NASA report. These conspiracy theories quickly spread and began to use a peer-reviewed research paper that suggested [music] the sun's solar maximum or the time period when it's most active will occur in 2024, one year earlier than previously predicted. This again sent [music] the internet into a frenzy as the coming apocalypse was now just around the corner. And although scientists do believe that the number of solar storms will increase in the next couple of years, there's no evidence to suggest a solar [music] superstorm will knock out the entire internet anytime soon. So, is there any truth to the"
+    },
+    {
+      "id": 241,
+      "debut": 12617.63,
+      "fin": 12642.3,
+      "temps_estime": false,
+      "titre": "Is there any truth to the internet apocalypse? Understanding solar storms",
+      "resume": "Il y a une part de vérité : même si cela ne mènerait pas à l'apocalypse décrite par les conspirationnistes, les scientifiques ont de vraies inquiétudes sur l'impact des tempêtes solaires sur la société, et il faut d'abord comprendre ce qu'est une tempête solaire et les dégâts qu'elle peut causer.",
+      "mots_cles": [
+        "internet apocalypse truth",
+        "solar storm",
+        "scientists concerns",
+        "society impact",
+        "conspiracy theorists",
+        "damage"
+      ],
+      "texte": "claims that there is an imminent internet apocalypse? Surprisingly, [music] yes. But before we can discuss what future solar events may hold for our planet, we need to understand a solar storm is and what damage it [music] can cause. Even though it likely wouldn't lead to an apocalypse in the same way conspiracy theorists [music] on the internet would have you believe, there are still some major concerns that scientists have about solar storms and how they could impact our society. Solar"
+    },
+    {
+      "id": 242,
+      "debut": 12642.3,
+      "fin": 12669.23,
+      "temps_estime": false,
+      "titre": "Solar flares versus coronal mass ejections",
+      "resume": "Les éruptions solaires et les éjections de masse coronale sont deux types d'éruptions à la surface du soleil, qui libèrent d'énormes quantités d'énergie ensemble ou séparément. Une éruption libère de l'énergie magnétique et des photons presque sur tout le spectre, une éjection de masse coronale du gaz et des champs magnétiques.",
+      "mots_cles": [
+        "solar flare",
+        "coronal mass ejection",
+        "solar storm",
+        "photons",
+        "magnetic energy",
+        "gas",
+        "magnetic fields",
+        "sun eruptions"
+      ],
+      "texte": "flares and coronal mass ejections [music] can cause solar storms at any moment. These are two different types of eruptions that occur on the surface of the sun. Both result in humongous explosions of energy and can happen [music] simultaneously or independently of each other. However, each event emits different things. A solar flare releases magnetic energy along with photons at almost every wavelength of the spectrum, while a coronal mass ejection releases gas and magnetic [music] fields. The sun"
+    },
+    {
+      "id": 243,
+      "debut": 12669.23,
+      "fin": 12714.03,
+      "temps_estime": false,
+      "titre": "The 11-year solar cycle and the rubber band analogy",
+      "resume": "Le soleil suit un cycle d'environ 11 ans d'activité croissante puis décroissante. Il tourne plus vite à l'équateur qu'aux pôles, ce qui tord les champs magnétiques comme un élastique dont la rupture provoque les éruptions solaires, les plus grosses explosions du système solaire, dont l'énergie atteint la Terre en un peu plus de 8 minutes.",
+      "mots_cles": [
+        "11-year solar cycle",
+        "differential rotation",
+        "equator poles",
+        "magnetic fields",
+        "rubber band",
+        "solar flares",
+        "8 minutes",
+        "largest explosions"
+      ],
+      "texte": "goes through a cycle that's about 11 years long where its activity becomes more frequent [music] and intense before slowing down until the next solar maximum. Since the sun is not solid, it [music] rotates faster around its equator than at its poles. It's this difference in rotational speeds that can cause the sun's [music] magnetic fields to bend and energy to build up. Oftentimes, scientists explain what's happening on the surface of the sun as [music] being analogous to a rubber band. As different regions of the sun rotate at different speeds, the magnetic fields begin to twist [music] like a rubber band. The tension builds and builds until the rubber band snaps. On the sun, the snapping of the [music] electrical fields results in solar flares, which are the largest explosions in our solar system and can release electromagnetic energy that reaches the earth in just over 8 minutes. What has"
+    },
+    {
+      "id": 244,
+      "debut": 12714.03,
+      "fin": 12757.43,
+      "temps_estime": false,
+      "titre": "Is the next solar maximum more dangerous than other times?",
+      "resume": "Le prochain maximum solaire est attendu dans un an ou deux, mais le soleil était déjà au maximum il y a environ 10 ans et nous sommes toujours là. Il peut y avoir jusqu'à 2 000 éruptions par cycle, toutes ne croisant pas la Terre, et des événements extrêmes peuvent survenir à tout moment : la planète n'est pas beaucoup plus en danger.",
+      "mots_cles": [
+        "solar maximum",
+        "sunspots",
+        "2,000 solar flares",
+        "11-year cycle",
+        "extreme solar events",
+        "Earth path",
+        "risk"
+      ],
+      "texte": "the internet concerned is that our sun is estimated to reach its next solar maximum within a year or two. But it's most important to remember that only 10 or so years ago, the sun was also at its solar maximum and we're still here today. Scientists are seeing more sunspots which are indicative of ejections and the twisting of the sun's magnetic fields. It's estimated that there can be as many as 2,000 solar flares in the sun's 11-year cycle, but since they happen across the entire surface of the star, not all will cross earth's path. Scientists also warn that although solar storms are more common during the solar maximum, extreme solar events can happen at any point in the cycle. So, in reality, the planet isn' in much more danger in the next two years than it is at any other point in time. So, what happens when these high"
+    },
+    {
+      "id": 245,
+      "debut": 12757.43,
+      "fin": 12812.83,
+      "temps_estime": false,
+      "titre": "Solar storms and the ionosphere: radio disruptions for polar flights",
+      "resume": "Les particules et ondes solaires passent près de la Terre en permanence, d'où les aurores presque toute l'année. Lors d'un gros événement, la tempête frappe l'ionosphère et dégrade les signaux radio haute fréquence, ce qui peut faire perdre radios et navigation aux avions près des pôles pendant minutes à heures.",
+      "mots_cles": [
+        "ionosphere",
+        "high frequency radio",
+        "polar flights",
+        "aurora",
+        "solar radiation",
+        "navigation",
+        "pilots",
+        "solar storm"
+      ],
+      "texte": "energy particles and electromagnetic waves do reach Earth? Solar radiation, waves, and particles are passing by Earth almost all the time. This is why the aurora borealis in the northern hemisphere and the aurora australis in the southern hemisphere can be seen pretty much all year round. However, problems arise when there's an abundance of high energy particles and electromagnetic energy as a result of a massive solar flare or coronal mass ejection. When this happens, a solar storm forms that can slam into the outermost layer of the Earth's atmosphere known as the ionosphere. When the ionosphere is impacted by a strong solar storm, it can cause a degradation in high frequency radio signals. This is a problem because it can cause planes flying near the poles to lose their radios and navigation. Depending on how strong the solar storm is, this disruption could last anywhere from minutes to hours, which isn't a big deal for the rest of the planet, but for the pilots, it would be an unnerving period of time. But what about exceptionally"
+    },
+    {
+      "id": 246,
+      "debut": 12812.83,
+      "fin": 12865.73,
+      "temps_estime": false,
+      "titre": "Extremely strong solar storms: satellites, power grids and the internet",
+      "resume": "Une tempête exceptionnelle peut changer la forme du champ électromagnétique terrestre, nuire aux satellites, navires et à la Station spatiale internationale, et induire des courants dans les réseaux électriques, causant de vastes pannes et donc une forme d'apocalypse internet. Les serveurs, sur générateurs et souvent enterrés, seraient indemnes et l'accès reviendrait avec le courant.",
+      "mots_cles": [
+        "electromagnetic field",
+        "satellites",
+        "International Space Station",
+        "power grids",
+        "blackouts",
+        "internet servers",
+        "backup generators",
+        "underground servers"
+      ],
+      "texte": "strong solar storms? Scientists know that if strong electromagnetic waves and high energy particles impact Earth's atmosphere, it can actually change the shape of the planet's electromagnetic field. This can have a detrimental effect on spacecraft such as satellites, ships, and the International Space Station. Down on Earth, the electrical currents in the atmosphere [music] caused by the solar storm could be picked up by conductors within power grids across the planet. If this were to happen, the power infrastructure around the world could be compromised, leading to large scale blackouts and outages. This would in turn technically lead to a type of internet apocalypse where when the power infrastructure went down, no one would be able to [music] access the internet. However, the servers would likely be connected to backup generators, and since most are housed deep underground, would be unharmed by the solar storm. Once the power came back on, the world would once again have access to the internet at their fingertips. However, restoring power"
+    },
+    {
+      "id": 247,
+      "debut": 12865.73,
+      "fin": 12896.63,
+      "temps_estime": false,
+      "titre": "Restoring power after a solar superstorm could take weeks or months",
+      "resume": "Rétablir le courant serait plus difficile qu'il n'y paraît : si la tempête surcharge les conducteurs, les dégâts collatéraux seraient étendus et remettre en marche les réseaux de New York, Paris, Pékin ou Tokyo pourrait prendre des semaines voire des mois. Les gens n'auraient plus que la parole ou l'écrit pour communiquer, ce qui est grave en hiver ou par météo extrême.",
+      "mots_cles": [
+        "power grid restoration",
+        "weeks or months",
+        "New York Paris Beijing Tokyo",
+        "collateral damage",
+        "no communications",
+        "winter",
+        "blackout"
+      ],
+      "texte": "might be easier said than done. If the solar storm were strong enough to overload conductors and cause massive power [music] outages, the collateral damage would be extensive. It could take weeks or even months to bring major power grids back on, like New York City, Paris, Beijing, Tokyo, and every other major metropolis. This [music] means people would be without power and without any way to receive communications other than by written or verbal word. This poses a significant problem for areas that might be in the throes of winter or experiencing intense weather. When we think about how reliant"
+    },
+    {
+      "id": 248,
+      "debut": 12896.63,
+      "fin": 12924.73,
+      "temps_estime": false,
+      "titre": "Consequences of a grid failure: hospitals, traffic lights, GPS and emergency response",
+      "resume": "Sans réseau électrique, les hôpitaux fonctionneraient sur générateurs, les véhicules marcheraient mais sans feux de signalisation ni GPS, et la communication avec les secours serait fortement gênée. Une tempête solaire intense ne causerait pas l'apocalypse mais ferait des blessés et des morts.",
+      "mots_cles": [
+        "hospitals backup generators",
+        "traffic lights",
+        "GPS",
+        "emergency responders",
+        "injuries and deaths",
+        "grid down",
+        "electronics reliance"
+      ],
+      "texte": "we've become on electronics, the thought of losing power to a solar storm is a frightening proposition. If the power grid went down as a result of a solar superstorm, hospitals would need to run off backup generators until the problem was resolved. Cars and other vehicles would still work, but traffic lights would be out and GPS would be non-existent. Communication between emergency responders and those who need help would also be severely inhibited. An intense solar storm might not cause the apocalypse, but it would certainly lead to injuries and deaths. It's"
+    },
+    {
+      "id": 249,
+      "debut": 12924.73,
+      "fin": 12966.13,
+      "temps_estime": false,
+      "titre": "Past solar storms: the Carrington Event, Quebec 1989 and the 2012 near miss",
+      "resume": "L'événement Carrington de 1859 a fait surtendre les lignes télégraphiques, étincelles et opérateurs électrocutés, avec des aurores jusqu'en Jamaïque. En 1989 un orage solaire a plongé Québec dans le noir pendant des heures, et en 2012 une tempête massive a manqué la Terre de peu.",
+      "mots_cles": [
+        "Carrington Event",
+        "1859",
+        "telegraph lines",
+        "aurora Jamaica",
+        "Quebec 1989",
+        "2012 near miss",
+        "solar storm history"
+      ],
+      "texte": "important to note that major solar storms have hit Earth in the past and some yielded significant [music] damage. For example, the solar storm known as the Carrington Event occurred in 1859 and resulted in a surge of power through [music] telegraph lines that caused the wires to spark and even electrocuted operators. This solar storm caused the aurora borealis to descend as far south as Jamaica. [music] In 1989, another solar storm overloaded the Quebec power grid, plunging the city into darkness for hours. [music] Then in 2012, scientists reported that a massive solar storm just missed the Earth. The difference between the [music] solar storms of the past and the impact such an event would have on our planet today is that we're much more reliant on electronics than ever before. 1989 might"
+    },
+    {
+      "id": 250,
+      "debut": 12966.13,
+      "fin": 12987.83,
+      "temps_estime": false,
+      "titre": "Why a modern solar storm would be worse: our reliance on electronics",
+      "resume": "La différence avec les tempêtes passées est que nous dépendons beaucoup plus de l'électronique : en 1989 l'internet n'était pas encore courant avant 1995 et le premier iPhone n'est sorti qu'en 2007. Cette dépendance pourrait rendre un superorage solaire dévastateur.",
+      "mots_cles": [
+        "electronics reliance",
+        "1989",
+        "internet mainstream 1995",
+        "iPhone 2007",
+        "electrical power",
+        "devastating consequences",
+        "solar superstorm"
+      ],
+      "texte": "not seem like that long ago, [music] but we have to remember that the internet didn't really become mainstream until 1995 and the first iPhone didn't hit markets until [music] 2007. The human species is much more reliant on electronics and electrical power now than at any point in the past, which is why a powerful solar superstorm could have devastating consequences for our planet. Scientists and other researchers"
+    },
+    {
+      "id": 251,
+      "debut": 12987.83,
+      "fin": 13023.44,
+      "temps_estime": false,
+      "titre": "Untested infrastructure and the economic cost of a long outage",
+      "resume": "Les chercheurs avertissent que malgré notre dépendance, l'infrastructure n'a pas été testée face à une tempête solaire, alors que des simulations en laboratoire sont possibles et que entreprises et gouvernements n'ont pas évalué les dégâts sur leurs réseaux. Au pire, des régions resteraient sans électricité ni internet longtemps, une panne aux États-Unis coûtant 11 milliards de dollars par jour.",
+      "mots_cles": [
+        "infrastructure testing",
+        "lab simulation",
+        "power grids",
+        "worst-case scenario",
+        "$11 billion per day",
+        "US economy",
+        "extended outage"
+      ],
+      "texte": "also warn that even though we've become extremely reliant on electronics and technology, we have failed to thoroughly test much of our infrastructure to see how it would respond to such an event as a solar storm. These conditions can be simulated in labs, yet companies and governments have not considered the damage a strong solar storm could do to their power grids and operations that rely heavily on electrical components. In a worst-case scenario, parts of the world could be left without electricity or internet for extended periods of time. It's estimated that such a power outage in the US would cause the economy to lose $11 billion every day that the power grid was offline. What it comes"
+    },
+    {
+      "id": 252,
+      "debut": 13023.44,
+      "fin": 13045.14,
+      "temps_estime": false,
+      "titre": "Conclusion: a solar superstorm is unlikely to bring the apocalypse",
+      "resume": "Un superorage solaire pourrait causer de gros dégâts et le chaos, mais il est très improbable qu'elle provoque l'apocalypse : une fois conducteurs et câbles réparés, l'électricité reviendrait et les gens retrouveraient leurs réseaux sociaux et sites.",
+      "mots_cles": [
+        "solar superstorm",
+        "apocalypse unlikely",
+        "power restored",
+        "conductors repaired",
+        "internet access",
+        "chaos",
+        "social media"
+      ],
+      "texte": "down to is that the solar super storm could cause some serious damage and lead to chaos on our planet. However, it is highly unlikely that such an event would bring about the apocalypse. Yes, if the power grid went down, people would lose access to the internet, but once the conductors and wires were repaired, electricity would be restored and people could once again gain access to their favorite social media apps and websites."
+    },
+    {
+      "id": 253,
+      "debut": 13045.14,
+      "fin": 13080.84,
+      "temps_estime": false,
+      "titre": "Internet withdrawal and the closing recommendations",
+      "resume": "L'internet est si ancré dans la vie quotidienne qu'une coupure brutale aurait de vraies conséquences : le corps libère de la dopamine lors d'un like, comme une drogue, et le sevrage d'internet existe, donc la perte d'accès pourrait ressembler à la fin du monde pour certains. La vidéo se termine en renvoyant vers « les 60 dernières minutes avant l'impact d'un astéroïde » et « pourquoi l'apocalypse zombie est inévitable ».",
+      "mots_cles": [
+        "internet withdrawal",
+        "dopamine",
+        "likes",
+        "addiction",
+        "cold turkey",
+        "end of the world feeling",
+        "asteroid impact video",
+        "zombie apocalypse inevitable"
+      ],
+      "texte": "That being said, the internet has become so ingrained in our daily lives that cutting people off cold turkey could lead to some very real consequences. The internet can literally be a drug. In some cases, the body releases dopamine, the pleasure hormone, when a person receives a like on a post. This experience can also be analogous to an addictive drug. Internet withdrawal is a real thing, and although a solar super storm is unlikely to lead to a global apocalypse, it could feel like the end of the world to some people if they lose access to the internet. Now watch the last 60 minutes before asteroid impacts with Earth or check out why a zombie apocalypse is inevitable."
     }
   ]
 }
