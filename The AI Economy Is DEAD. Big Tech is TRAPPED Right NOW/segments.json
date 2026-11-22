@@ -4,12 +4,12 @@
   "titre_video": "The AI Economy Is DEAD. Big Tech is TRAPPED Right NOW",
   "duree_s": 13009.34,
   "avancement": {
-    "lignes_traitees": 5241,
-    "fin_traitee_s": 11074.71,
+    "lignes_traitees": 6188,
+    "fin_traitee_s": 13009.34,
     "nb_lignes_total": 6188,
-    "complet": false
+    "complet": true
   },
-  "nb_segments": 201,
+  "nb_segments": 236,
   "segments": [
     {
       "id": 1,
@@ -3827,6 +3827,679 @@
         "skeptics' nightmare"
       ],
       "texte": "What keeps AI skeptics up at night is a world where AI adoption continues full speed ahead. Companies and governments heavily incorporate it into essential infrastructure, trusting it to make millions of decisions a day. And then something goes wrong. A stumbling block turns into a cascading series of events that could potentially crash the economy, the internet, or the power grid as the AI tries to unscramble its flawed logic. And this is an all too realistic situation. After all, would you trust your country's power grid to a technology that still can't read an"
+    },
+    {
+      "id": 202,
+      "debut": 11074.71,
+      "fin": 11132.51,
+      "temps_estime": false,
+      "titre": "Nvidia, the most dangerous safe stock: unpaid chips on the books",
+      "resume": "Governments are integrating AI into military planning, and the narrator turns to Nvidia as a stock that looks safe and cash-rich. It has $27.8 to $33 billion in accounts receivable, meaning chips shipped but not paid for, and some big customers use the chips as collateral for loans they may not repay.",
+      "mots_cles": [
+        "Nvidia",
+        "accounts receivable",
+        "$27.8 to $33 billion",
+        "chip collateral",
+        "loans",
+        "AI bubble burst",
+        "safe stock",
+        "retirement risk",
+        "military AI planning"
+      ],
+      "texte": "analog clock? Some sectors aren't waiting for AI to be perfect before deploying it. They're pushing ahead anyway. Governments are integrating AI into military planning, and the results are ominous. Nvidia might be the most dangerous safe stock in the market right now. You've seen the headlines. You've watched the stock climb. It's a no-brainer, smart money invested in a safe, cash-rich fortress at the perfect time. [music] At least that's what you thought. Right now, the graphics card titan has somewhere between $27.8 and $33 billion sitting in a column called accounts receivable. That means the chips are built, packaged, and shipped. They just haven't been paid for. And some of Nvidia's biggest customers are using those same chips as collateral for loans they may never be able to repay. Now, one company's next payment or missed payment could decide whether Nvidia keeps climbing or crashes your retirement and costs you your job. This is what happens if the AI bubble bursts."
+    },
+    {
+      "id": 203,
+      "debut": 11132.51,
+      "fin": 11207.32,
+      "temps_estime": false,
+      "titre": "CoreWeave on a Sunday night: IPO and a 5.27 debt-to-equity ratio",
+      "resume": "The scenario starts 12 hours before the markets open, at CoreWeave's operations center in Livingston, New Jersey, after its IPO valued it in the tens of billions. Its debt-to-equity ratio of 5.27 means over $5 of debt for every dollar of value, far above the level of two considered high.",
+      "mots_cles": [
+        "CoreWeave",
+        "debt to equity 5.27",
+        "IPO",
+        "AI infrastructure",
+        "Livingston New Jersey",
+        "ticking time bomb",
+        "Nvidia shareholders",
+        "AI bubble scenario",
+        "financial statements"
+      ],
+      "texte": "T minus 12 hours. It's Sunday, 9:47 p.m. in Livingston, New Jersey. The lights are still on in the CoreWeave operations center, which is strange. Sunday nights in the data infrastructure business tend to be quiet. When you're a company that's made it by every public measure, there are automated systems and skeleton crews that keep your machinery humming. CoreWeave went public earlier that year. The IPO was, depending on who you asked, a triumph or a warning sign. Investors smiled and clapped as the stock opened on Wall Street. [music] The company was now officially a publicly traded AI infrastructure provider valued in the tens of billions. But the people still at their desks on Sunday night aren't celebrating. They know that in 12 hours the markets in Tokyo, London, and New York will open, and buried inside a CoreWeave financial statements is a number that should terrify every NVIDIA shareholder. It is public and it's easy to find, and for months [music] the people who understand what it means have been watching it like a ticking time bomb. CoreWeave's debt to equity ratio sits at 5.27 for the last [music] quarter on record. What that means in plain English is that for every single dollar of actual value the company owns, it owes over $5 in debt. A debt to equity ratio above two is considered high for many industries, and the AI sector is not known for its conservative borrowing habits. You'd probably assume"
+    },
+    {
+      "id": 204,
+      "debut": 11207.32,
+      "fin": 11278.42,
+      "temps_estime": false,
+      "titre": "CoreWeave's origin: from Ethereum mining to AI cloud",
+      "resume": "CoreWeave was founded in 2017 by three commodities and hedge fund traders who began as Atlantic Crypto with GPUs for Ethereum mining. When Ethereum changed its model in 2019 they pivoted to renting GPU capacity to AI researchers and within four years became the backbone of generative AI and the largest US tech IPO since 2021.",
+      "mots_cles": [
+        "CoreWeave history",
+        "Atlantic Crypto",
+        "Ethereum mining",
+        "GPU rental",
+        "AI researchers",
+        "pivot",
+        "largest tech IPO since 2021",
+        "commodities traders",
+        "2019 Ethereum shift"
+      ],
+      "texte": "CoreWeave was founded by veteran cloud engineers, maybe former Amazon executives, maybe a group of MIT graduates with a master plan to reinvent data centers. You would be wrong. It was founded in 2017 by three commodities traders, hedge fund people, the kind of people who bought a single GPU in 2016 to experiment with Ethereum mining out of a garage in New Jersey. Their original company was called Atlantic Crypto, and they were good at what they did. They kept buying GPUs and the chips soon paid for themselves at the height of the crypto boom. Then in 2019 Ethereum shifted away from the mining model that had made them all handsomely rich. Almost overnight CoreWeave was stuck with warehouses full of graphics cards that were becoming worthless for the one thing they bought them to do. So they pivoted. They looked at what they had, and what they had in abundance was [music] physical machines, power infrastructure, cooling systems, and technical expertise in running dense GPU clusters. They decided to rent it to AI researchers instead. That was [music] the right call. The timing was almost impossibly good. Within four years they went from a crypto mining operation nobody had heard of to the backbone of the generative AI revolution. Soon they'd become the largest US tech IPO"
+    },
+    {
+      "id": 205,
+      "debut": 11278.42,
+      "fin": 11325.82,
+      "temps_estime": false,
+      "titre": "The GPU-collateral debt model and the $50,000 H100",
+      "resume": "The common AI infrastructure model is to borrow billions to buy Nvidia GPUs, rent them to AI companies, and use the same GPUs as collateral for more borrowing. It depends on GPUs holding value, such as the H100 that sold for about $50,000 at peak scarcity in 2024, a number embedded in loan agreements and bank spreadsheets.",
+      "mots_cles": [
+        "GPU collateral",
+        "H100",
+        "$50,000",
+        "leverage",
+        "AI infrastructure debt",
+        "secondary market GPU price",
+        "bank loans",
+        "Nvidia GPUs",
+        "circular financing"
+      ],
+      "texte": "since 2021. The way Coreweave built itself was not unusual in the AI infrastructure space. That's part of what makes it so alarming. The model you're familiar with today is simple. Borrow billions to buy Nvidia GPUs, rent those GPUs to AI companies, and then use those very same GPUs as collateral to borrow even more money. The GPUs are both the product and the security behind the debt. That means the entire structure depends on those GPUs continuing to hold their value, and the companies renting them will keep paying indefinitely. Nvidia's H100 GPU, the chip at the center of the story, was selling on the secondary market for around $50,000 at peak scarcity in 2024. That number was embedded into all kinds of loan agreements, leverage ratios, and spreadsheets from every bank that financed the infrastructure build out."
+    },
+    {
+      "id": 206,
+      "debut": 11325.82,
+      "fin": 11433.62,
+      "temps_estime": false,
+      "titre": "Nvidia's customer A and customer B: 39% of revenue",
+      "resume": "Two anonymous buyers, customer A and customer B in filings, account for 39% of Nvidia's quarterly revenue, like a supermarket chain relying on two families who now buy on credit. Analysts guess they are Taiwanese ODMs such as Quanta or integrators like Dell, middlemen that sell racks to end users, so Nvidia cannot always know who the end buyer is.",
+      "mots_cles": [
+        "Nvidia customer concentration",
+        "customer A and B",
+        "39% of revenue",
+        "ODMs",
+        "Quanta Computer",
+        "Dell",
+        "middlemen",
+        "end user unknown",
+        "concentration risk"
+      ],
+      "texte": "But the people in the Coreweave office that night know something else. Nvidia's revenue isn't spread across thousands of customers in a comfortable, diversified way. Two anonymous buyers referred to in regulatory filings only as customer A and customer B account for 39% of Nvidia's total quarterly revenue. What does that mean? One of the most valuable companies in the history of the stock market has built its quarterly income around two people who would rather remain nameless. Financially, it's like running a global supermarket chain and discovering that nearly half of your revenue comes from just two families, and now both have suddenly started buying their groceries on borrowed money. Nobody outside Nvidia knows who they are. The company won't say, and Nvidia spokesperson has declined to comment every time the question has been asked. The best guesses among analysts and supply chain reporters point toward Taiwanese original design manufacturers or ODMs, companies like Quanta Computer, which assembles finished server systems and sells them to data centers, [music] or large system integrators like Dell. It's important to note that these two mysterious clients are not cloud companies or AI startups. They are the middlemen, hardware assemblers who buy chips in enormous quantities and sell the racks to end users who then run the AI workloads. That distinction matters because it means the concentration risk runs even deeper than it appears. [music] That means that Nvidia doesn't always know or can only estimate who the ultimate end user buyer of its chips actually is. The filing says so explicitly. [music] The chips move through a chain of hands before they arrive at their final destination, a destination that in many cases is a data center owned by a company like CoreWeave. CoreWeave's entire business model is built on Nvidia chips. Everything from its debt structure to its revenue and existence as a public company hinges on them. The team in the"
+    },
+    {
+      "id": 207,
+      "debut": 11433.62,
+      "fin": 11508.62,
+      "temps_estime": false,
+      "titre": "The $600 billion question and $700 billion of AI capex",
+      "resume": "CoreWeave's staff see the AI revenue gap clearly: Sequoia Capital's $600 billion question asks how infrastructure spending compares to AI revenue. Over $700 billion of AI capital expenditure is projected for 2026 from Microsoft, Google, Meta, Amazon and Oracle, while almost no AI company earns enough to justify it.",
+      "mots_cles": [
+        "Sequoia Capital",
+        "$600 billion question",
+        "AI capex",
+        "$700 billion 2026",
+        "AI revenue gap",
+        "Microsoft Google Meta Amazon Oracle",
+        "Burj Khalifa comparison",
+        "data center spending"
+      ],
+      "texte": "office isn't panicking. Panic would require surprise. What they have instead is arguably something worse, clarity. CoreWeave's employees have watched the AI revenue problem emerge over the past year like a slow tide. Sequoia Capital published a piece calling it the $600 billion question. What is the gap between what the AI industry is spending on infrastructure and what it actually generates in revenue? And the math was not encouraging. The industry is projected to pour over $700 billion in capital expenditure into AI in 2026 alone. All of the giants, Microsoft, Google, Meta, Amazon, and Oracle are building, buying, and expanding. It's enough spending in a single calendar year to build several hundred Burj Khalifas, the world's tallest building. But building the data centers was only half the challenge. The real question was whether they could ever pay for them because at the time almost none of these AI companies were making enough money to justify the billions they were spending. Companies like CoreWeave are the central pillars of that ecosystem, and somewhere in the next 12 hours the markets are going to open. Every analyst on the trading desk in every time zone is going to look at the same sets of numbers that the people in the office have been staring at all weekend. The difference is that the people in the office already know what those numbers mean. The analysts do not."
+    },
+    {
+      "id": 208,
+      "debut": 11508.62,
+      "fin": 11570.52,
+      "temps_estime": false,
+      "titre": "Monday 10:17 a.m.: CoreWeave misses a debt payment",
+      "resume": "On Monday the markets open normally and Nvidia is slightly down, until at 10:17 a.m. Eastern a payment fails to clear and CoreWeave misses a scheduled debt payment. It is not a company-ending default, but delayed settlement triggers automated risk models and warnings across institutions exposed to its debt.",
+      "mots_cles": [
+        "missed debt payment",
+        "CoreWeave",
+        "10:17 a.m.",
+        "interbank settlement",
+        "risk models",
+        "market open",
+        "debt exposure",
+        "AI bubble scenario",
+        "Monday"
+      ],
+      "texte": "Day one, the markets open on Monday at 9:30 AM Eastern Time. For about 45 minutes nothing happens. This is pretty normal. [music] The first hour or so of any trading day is often a kind of financial small talk. Prices get adjusted and algorithms recalibrate. It takes some time for the humans to catch up with the machines. Nvidia opens slightly down. Coreweave is flat. The AI sector, broadly speaking, is doing what it's done for most of the past two years, quietly inflating. Then, at 10:17 a.m. Eastern, a single line item fails to appear in a single bank's clearing system. Coreweave misses a scheduled debt payment. The missed payment [music] doesn't trigger alarms. It's nothing catastrophic. This isn't a company-ending default. There's no need to issue a press release or strong-arm their CEO into issuing a public statement. A payment that was supposed to clear overnight didn't. [music] Now, the payment is sitting somewhere in the interbank settlement system, delayed just long enough for automated risk models to start paying attention. Within minutes, warnings begin to fire through a dozen institutions with exposure to Coreweave's debt. Those institutions"
+    },
+    {
+      "id": 209,
+      "debut": 11570.52,
+      "fin": 11633.22,
+      "temps_estime": false,
+      "titre": "Interest costs and the first sell-off: CoreWeave -11%, Nvidia -4%",
+      "resume": "CoreWeave was paying $311 million in interest, tripled in under 12 months, and its IPO target was cut from $2.7 billion to $1.5 billion. By noon CoreWeave drops 11% and Nvidia 4%, between $204 and $216 billion of its $5 trillion market capitalization.",
+      "mots_cles": [
+        "CoreWeave interest $311 million",
+        "IPO cut $1.5 billion",
+        "analyst notes",
+        "Nvidia drops 4%",
+        "$5 trillion market cap",
+        "$204 to $216 billion",
+        "stock sell-off",
+        "debt payments"
+      ],
+      "texte": "have every reason to be nervous. By the end of its third quarter of operations as a public company, Coreweave was paying $311 million in interest. [music] That figure had tripled in less than 12 months. The company's IPO, which it originally targeted to raise $2.7 billion, was slashed to 1 and 1/2 billion after investors looked at the balance sheet and got cold feet. And that hurt. By 10:30 a.m., trading desks know what's going on. By 11, [music] the first analyst notes are circulating. They're draped in cautious language, hedge everything kind of prose. It's the financial equivalent of someone quietly skirting to the door [music] at a party where something has or may well soon go very, very wrong. Coreweave drops 11% before lunch. Nvidia, whose largest cloud customers are also Coreweave's largest lenders, drops 4% by noon. 4% of Nvidia's $5 trillion market capitalization is not a small number. Depending on the [music] exact moment you measure it, it could be between $204 and $216 billion. All of that gone by lunchtime on a Monday. At this point, the market is"
+    },
+    {
+      "id": 210,
+      "debut": 11633.22,
+      "fin": 11664.42,
+      "temps_estime": false,
+      "titre": "The market denial: a contained event",
+      "resume": "The market tells itself that CoreWeave is only a speed bump because the AI build-out is too large, strategic and well-funded to fail, and that someone will step in. The problem with the story is that everyone is also ignoring the GPUs that serve as collateral.",
+      "mots_cles": [
+        "market denial",
+        "contained event",
+        "speed bump",
+        "AI build-out",
+        "AI ecosystem risk",
+        "GPU collateral",
+        "complacency",
+        "CoreWeave"
+      ],
+      "texte": "still in denial. The story goes something like this. Coreweave [music] is just a speed bump, an isolated issue in an AI boom that remains fundamentally intact. After all, the AI build-out is too large, too strategic, and backed by too much capital for one infrastructure company to threaten the entire ecosystem. This is a contained event. These things happen. Someone will step in and order will be restored. The problem with telling yourself that story over and over again is that everyone in the market is simultaneously trying to ignore one other thing, the GPUs. Core"
+    },
+    {
+      "id": 211,
+      "debut": 11664.42,
+      "fin": 11728.62,
+      "temps_estime": false,
+      "titre": "GPU collateral collapses: from $50,000 to $5,000-$10,000",
+      "resume": "Loans were written when H100s were worth $50,000, but secondary-market prices drifted lower as new chips arrived and demand slowed, with estimates now at $5,000 to $10,000, a 90% drop. The GPUs underpinning the AI revolution are worth cents on the dollar against the loans, and lenders ask who moves first.",
+      "mots_cles": [
+        "H100 price collapse",
+        "90% drop",
+        "GPU collateral value",
+        "secondary GPU market",
+        "lenders",
+        "liquidation",
+        "Bitcoin miner comparison",
+        "loans at peak prices",
+        "who moves first"
+      ],
+      "texte": "we've borrowed the money to buy the chips. The chips were collateral. The loans were written when H100 GPUs were worth $50,000 each, but the market has changed. For months, prices in the secondary GPU market had been drifting lower as new chips arrived and demand began to slow. Suddenly, lenders were asking if they had to seize and liquidate the collateral. What were these GPUs actually worth? The estimates being discussed weren't anywhere near $50,000. They were closer to 5,000 or 10,000. That is a 90% drop on loans written at peak prices. A Bitcoin miner who bought his rigs at the top of the 2021 cycle and then tried to sell them in 2022 would have also found themselves in a similar situation. The point is that anything at Nvidia scale is no longer a niche collector's market. The GPUs are the physical backbone of the artificial intelligence revolution, and now they're worth cents on the dollar compared to the prices that justified the loans that built the machine's infrastructure. The lenders know this, and they have for a while. The question nobody wants to answer out loud is who moves first? At 2:14 p.m. Eastern, a"
+    },
+    {
+      "id": 212,
+      "debut": 11728.62,
+      "fin": 11798.22,
+      "temps_estime": false,
+      "titre": "Margin call and Tuesday's repossession of CoreWeave's GPUs",
+      "resume": "At 2:14 p.m. a private credit firm holding much of CoreWeave's debt begins margin call proceedings, and by Tuesday at 6:00 a.m. a security guard at a New Jersey data center carries instructions that the H100 racks now belong to the lender. Engineers scramble to move workloads off the machines before access disappears, like repossession while moving the furniture out.",
+      "mots_cles": [
+        "margin call",
+        "CoreWeave",
+        "collateral seizure",
+        "H100 racks",
+        "private credit firm",
+        "data center repossession",
+        "New Jersey",
+        "Tuesday 6:00 a.m.",
+        "legal instructions"
+      ],
+      "texte": "private credit firm that holds a significant portion of Core Weave's debt [music] instructs its legal team to begin margin call proceedings. The clock already running now begins to accelerate. Day two. It's now Tuesday, [music] 6:00 a.m. at a data center in New Jersey when the phones begin to ring. It's not even sunrise yet. It's a moment not unlike the beginning of many other financial crises. They're rarely as dramatic as you would expect. Nobody is shouting or hurling insults. There is, however, a man holding a clipboard in a security uniform. On it are a set of instructions prepared by a law firm that doesn't make mistakes. The instructions say that the company's collateral, specifically the racks of Nvidia H100 GPUs, which have been running AI workloads the past 18 months, are now the property of the lending institution. They will need to be cataloged, [music] tagged, disconnected, and prepared for liquidation. The people at the data center don't fight this. They can't. They have seen the paperwork. They know what's coming. Since 4:00 a.m., engineers have been scrambling to move active workloads off the affected machines before access disappears. One veteran engineer later describes the experience like having someone repossess your house while you're still trying to move the furniture out. Most people have never"
+    },
+    {
+      "id": 213,
+      "debut": 11798.22,
+      "fin": 11894.02,
+      "temps_estime": false,
+      "titre": "The physical logistics of seizing 4,000 GPU servers",
+      "resume": "A GPU server cannot just be carried out: a loaded H100 server weighs about 400 lbs, needs industrial cooling and is wired into the facility's power and networking. With about 4,000 servers at $30,000 per rack unit and up to $8.8 million for a full multi-GPU setup, a third-party asset manager runs a multi-day military-style logistics operation, and thousands of servers are offline by 9:00 a.m.",
+      "mots_cles": [
+        "GPU server removal",
+        "H100 server weight",
+        "400 lbs",
+        "$8.8 million",
+        "4,000 servers",
+        "asset manager",
+        "liquidation logistics",
+        "crypto mining collapse 2022",
+        "data center cooling"
+      ],
+      "texte": "stopped to think about what this process might actually look like. A GPU server isn't just a laptop. Good luck sticking it in a bag and walking home. An H100 server weighs 36 lbs per rack unit. Build out a fully loaded NVIDIA H100 AI server, we're talking 400 lbs of static weight. These machines are designed to be moved. They require industrial scale cooling just to stay operational. They're also connected directly into the facility's power and networking systems. The cabling, the conduit, and supporting infrastructure were installed when the building was originally fitted out. To disconnect one, you'd have to power it off, log and tag every component, disconnect fiber and copper in the right sequence, and then you would have to use specialized lifting equipment to move it without destroying the hardware. They're made up of reinforced steel frames and are taller, more rigid, and deeper than your average server rack. Each individual rack unit can cost $30,000 with a fully integrated multi GPU setup costing up to $8.8 million. This particular New Jersey facility has around 4,000 servers or so, which means removing them becomes a multi-day operation that resembles something akin to a military logistics exercise. The lawyers have arranged for a third-party asset manager firm to handle the physical side. [music] They have done this before in smaller venues during the crypto mining collapse of 2022. They have the equipment and the manifests, the insurance riders. They are efficient and completely indifferent to what's happening in the building around them. Engineers who built these systems are now watching them get boxed [music] up and prepared for auction. By 9:00 a.m., thousands of servers are offline in New Jersey alone. The significance of this"
+    },
+    {
+      "id": 214,
+      "debut": 11894.02,
+      "fin": 11941.72,
+      "temps_estime": false,
+      "titre": "Knock-on outages for AI companies built on CoreWeave",
+      "resume": "Every AI company running workloads on the seized machines gets an error message as its paid-for compute vanishes from product roadmaps and revenue projections. A legal document review startup must warn customers of an outage and an AI marketing platform goes dark for 6 hours, small events but alarming signals.",
+      "mots_cles": [
+        "AI compute outage",
+        "CoreWeave customers",
+        "startup outage",
+        "AI infrastructure dependency",
+        "secondary effects",
+        "product roadmaps",
+        "legal review tool",
+        "AI marketing platform"
+      ],
+      "texte": "goes beyond the servers themselves. Every AI company running workloads on those machines is now getting a very unhappy error message. The compute they paid for and accounted for in internal revenue projections and product roadmaps has vanished. Now the companies who built their own products on top of CoreWeave's infrastructure have to do something that is structurally very difficult in the AI industry. They have got to stop. Customers start to notice. The secondary effects take only hours to become apparent. A startup that's been using CoreWeave's compute to power a legal document review tool sends an email to its customers explaining the unexpected outage. Another company whose AI generated marketing platform runs on those same servers goes dark for 6 hours. Again, it's not world ending stuff for either company, but the signals are alarming. At Nvidia, there"
+    },
+    {
+      "id": 215,
+      "debut": 11941.72,
+      "fin": 11991.32,
+      "temps_estime": false,
+      "titre": "Nvidia's accounts receivable are a promise, not cash",
+      "resume": "At Nvidia, $27.8 to $33 billion in accounts receivable has already been recognized as revenue and used to justify valuations, but it is a promise from companies now struggling to keep it. Customer A and B, 39% of quarterly earnings, include one that just missed a payment, and the CFO's calm message to investors hides a worse one.",
+      "mots_cles": [
+        "Nvidia accounts receivable",
+        "customer A and B",
+        "39% of earnings",
+        "missed payment",
+        "CFO investor call",
+        "revenue recognition",
+        "valuation risk",
+        "AI bubble scenario"
+      ],
+      "texte": "are other alarming signals. They've got $27.8 to $33 billion sitting in accounts receivable right now. It's all the money that they're owed. Revenue that's already been recognized. It is passed through the income statement. It's been celebrated on earnings calls and used to justify valuations to otherwise hallucinatory levels. But anyone who knows anything knows that accounts receivable is not cash. It's more like a promise. One made in large part by companies that are now finding it extremely difficult to keep that promise. Two anonymous customers account for 39% of Nvidia's quarterly earnings, customer A and customer B. And one of those just missed a payment. That afternoon, Nvidia's CFO speaks with investors on a call. In careful language, they deliver a calm message. The underlying message stripped of its hedging is not. Day four. You're sitting"
+    },
+    {
+      "id": 216,
+      "debut": 11991.32,
+      "fin": 12062.62,
+      "temps_estime": false,
+      "titre": "Day four: the S&P 500 is concentrated in 10 AI-linked stocks",
+      "resume": "On Wednesday morning an ordinary index-fund investor learns that the top 10 stocks make up 40% of the S&P 500, the most concentrated in almost 60 years, compared with 26% at the peak of the dot-com bubble in 2000. Most of those top 10 are tied to the AI trade, so the diversification promised by index funds is weaker than assumed.",
+      "mots_cles": [
+        "S&P 500 concentration",
+        "top 10 stocks 40%",
+        "index fund",
+        "dot-com bubble 26%",
+        "diversification myth",
+        "401k exposure",
+        "AI trade",
+        "market concentration"
+      ],
+      "texte": "in your kitchen on a Wednesday morning. It's 7:45 a.m. Maybe you don't work in finance. Maybe you work in something tech adjacent. Maybe you're a teacher or you run a small business or you work for a global healthcare conglomerate. But somewhere in the past few years, probably encouraged by every podcast and YouTube channel you've ever encountered, you've been putting money into an index fund. One that tracks the S&P 500. You were told to diversify your holdings, spread your money across companies. Never put your eggs in one basket. If one fails, who cares? The market will hold true to the end, which means you can sleep well at night. Few people today, including you, actually realized that the top 10 stocks in the S&P 500 now account [music] for 40% of the entire index's value. Why should you care? Well, in almost 60 years of market history, the S&P 500 has never been this concentrated. The last time a technology mania pushed stock prices to seemingly implausible levels was during the dot com bubble. At its peak in 2000, the 10 largest stocks accounted for 26% of the index. And then reality caught up. What followed was a very unpleasant few years for investors. Well, we are past that now. Most of those top 10 stocks are in one way or another in the AI trade. You"
+    },
+    {
+      "id": 217,
+      "debut": 12062.62,
+      "fin": 12155.13,
+      "temps_estime": false,
+      "titre": "S&P 500 falls 6.4% in 11 minutes: a 401k loses $9,600",
+      "resume": "The investor sees the S&P 500 down 6.4%, the biggest drop since March 2020, wiping $9,600 from a $150,000 401k in 11 minutes. With 40% of the index riding on 10 stocks and one story, the AI revolution paying for its debt, CoreWeave's default is the first evidence the timeline is fundamentally wrong.",
+      "mots_cles": [
+        "S&P 500 drop 6.4%",
+        "March 2020 comparison",
+        "401k loss $9,600",
+        "AI revolution belief",
+        "CoreWeave default",
+        "market not diversified",
+        "single story market",
+        "retail investor"
+      ],
+      "texte": "pull out your phone that morning and you open your brokerage app. You've been watching the news with detached concern. Core weaves missed payment and NVIDIA being slightly down only matters to rich people at large institutions. It doesn't apply to you and your [music] sibling who occasionally talk about meme stocks over coffee, but you notice that the S&P 500 is down 6.4% this morning. You rack your brain and then it hits you. The last time you saw a drop like that was in March 2020 in the early days of the global pandemic when nobody knew how bad things were going to get. The time the world briefly stopped and the market [music] fell off a cliff in real time. You remember that because you lived through it. You saw how it affected neighbors and friends and your parents. [music] You remember the conversation with your sibling where they begged you to hold and not sell since the market would come back stronger than ever. And it did come back that time. You take a second to do the math. If you're like most of your mildly affluent peers, you've spent a decade or two building up to $150,000 in your 401k. $9,600 has been erased. The market has been open for just 11 minutes. There's a reason why it's happening so fast and it's always the same. When 40% of the S&P 500 is riding on just 10 [music] stocks, all depending on the same story being true, the market stops being diversified. It starts living and dying by a single idea, the AI revolution. The belief again is that artificial intelligence will soon generate enough revenue to justify the debt that built [music] it. The core we've default is the first real piece of evidence that the timeline might be wrong. Not slightly wrong, fundamentally"
+    },
+    {
+      "id": 218,
+      "debut": 12155.13,
+      "fin": 12205.83,
+      "temps_estime": false,
+      "titre": "Noon: S&P down 8.1% and why 'stay the course' ignores the structure",
+      "resume": "By noon on Wednesday the S&P 500 is down 8.1% and the financial advisor sends the usual advice to stay the course and not panic sell. The narrator notes the advice ignores the structural problem that Nvidia, Microsoft, Apple, Amazon, Alphabet and Meta are all exposed to whether $700 billion of AI infrastructure spending will pay off.",
+      "mots_cles": [
+        "S&P down 8.1%",
+        "financial advisor",
+        "stay the course",
+        "market recovers",
+        "Magnificent Seven exposure",
+        "$700 billion AI spending",
+        "not diversified",
+        "panic selling"
+      ],
+      "texte": "wrong. By noon on Wednesday, the S&P 500 is down 8.1%. You call your financial advisor. The call goes straight to voicemail. [music] Their advice when it comes will be the same as it always is. Stay the course. Don't panic sell. The markets always recover. It's true historically, but it's way easier to give advice when you're not the one watching the numbers plummet. Also, that advice rarely acknowledges the specific structural problem underneath this particular drop. The fact that the fund you were told to invest in was not actually diversified like you thought it was. Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, these are the names bankrolling the AI boom. They make up a disproportionate share of what you own in the market, and they are all exposed to the question of whether the $700 billion is being spent on AI infrastructure this year will produce revenue that justifies the spend. Day"
+    },
+    {
+      "id": 219,
+      "debut": 12205.83,
+      "fin": 12271.83,
+      "temps_estime": false,
+      "titre": "Day five: an Austin AI startup cuts 35% of its staff",
+      "resume": "On Thursday an AI software company in Austin that easily raised $200 million 18 months earlier calls an all-hands meeting, and its 37-year-old CEO announces a 35% headcount cut, 140 of 400 employees. Employees open HR calendar invites like a death sentence, many still paying student loans for degrees that look less relevant.",
+      "mots_cles": [
+        "AI layoffs",
+        "Austin startup",
+        "35% headcount cut",
+        "140 employees",
+        "$200 million venture capital",
+        "student loans",
+        "CEO announcement",
+        "HR calendar invite"
+      ],
+      "texte": "five. On Thursday morning, a mid-sized AI software company at a nondescript tech campus in Austin calls an all-hands meeting. They're no different than many companies like them. It felt almost criminal how easy it been to raise $200 million in venture capital 18 months ago. All it took was a compelling demo and a revenue growth chart that pointed mostly upward. The meeting is virtual. The company has 400 employees across three time zones. The CEO, who is 37 years old and has built and sold one company before this one, has the look of somebody who hasn't slept. He announces the company is immediately reducing headcount by 35%. Soon, 140 people will receive a calendar invite from HR. That's all he can say right now, the legal team has advised, and the meeting ends. In a conference room and in home offices and in coffee shops and in parked cars, [music] 140 people open their calendar invites like a death sentence. Some of them have been at the company for three years, others for three months, having moved across the country securing their dream AI tech job. Many of these are still paying off student loans that they took out to get the degrees that got them hired, degrees that increasingly are looking less and less relevant or necessary. The [snorts]"
+    },
+    {
+      "id": 220,
+      "debut": 12271.83,
+      "fin": 12308.53,
+      "temps_estime": false,
+      "titre": "The AI gold-rush mindset and the market catching up",
+      "resume": "The AI industry ran on a willingness not to look closely at revenue: compute costs were high, burn rates high, but demand felt insatiable and there was always another 18 to 24 months of runway. For early investors it felt like the California gold rush, and the market has now figured it out.",
+      "mots_cles": [
+        "AI gold rush",
+        "burn rate",
+        "runway",
+        "venture capital patience",
+        "AI startup economics",
+        "insatiable demand",
+        "revenue scrutiny",
+        "market correction"
+      ],
+      "texte": "AI industry's version of doing fine has always required a certain willingness to not look too closely at the faces behind the revenue numbers, to say nothing of the revenue numbers themselves. The compute costs were high, but demand felt [music] insatiable. The burn rate was high, but there was always another 18 to 24 months of runway. Investors were patient and the models kept improving, and [music] with each breakthrough the payoff felt closer. For the people who got in early, it felt less like investing in a technology company and more like showing up in California at the start of the gold rush. For any setbacks that came, the market would figure it out. And the market, as it turns out, has figured it out. The"
+    },
+    {
+      "id": 221,
+      "debut": 12308.53,
+      "fin": 12367.53,
+      "temps_estime": false,
+      "titre": "Layoffs spread to San Francisco, Seattle and New York",
+      "resume": "The Austin firings repeat across the US: San Francisco AI startups give back office space, Seattle firms orbiting Microsoft's AI ambitions feel the shock waves, and New York firms built on other companies' AI products learn how fragile that dependency is. In Q1 2026 more than 50,000 AI-industry tech workers lost jobs, the highest Q1 since 2023, and the number passed 120,000 by mid-year.",
+      "mots_cles": [
+        "tech layoffs 2026",
+        "50,000 tech workers",
+        "120,000 job losses",
+        "San Francisco",
+        "Seattle Microsoft",
+        "New York AI startups",
+        "AI dependency",
+        "AI industry downturn"
+      ],
+      "texte": "Austin firings repeat themselves all over the US. It's happening in San Francisco where AI startups that were expanding just months ago were quietly giving back office space and cutting costs. It's happening in Seattle where hundreds of companies were pulled into orbit by Microsoft's AI ambitions. Now they're discovering that when the center contracts, the shock waves travel outward. And it's happening in New York where AI infrastructure investors build entire businesses on top of other companies' AI products. They are learning how fragile that dependency can be. Each of these geographic centers are running their own math this Thursday morning. They are not loving what they find. The numbers are far from reassuring. In the first quarter of 2026 alone, before any of this week's events had been fully processed, somewhere north of 50,000 tech workers in the AI industry had already lost their jobs. It was the highest Q1 job loss since 2023. [music] Halfway through the year, that number had already climbed past 120,000. The numbers are startling and worrying."
+    },
+    {
+      "id": 222,
+      "debut": 12367.53,
+      "fin": 12397.43,
+      "temps_estime": false,
+      "titre": "IBM, Salesforce and Microsoft: AI justifies cutting staff",
+      "resume": "IBM replaced hundreds of HR positions with AI chatbots, Salesforce cut 4,000 people citing AI, and Microsoft laid off 15,000 in 2025, with its CEO calling it a new era shaped by AI. The common thread is corporate doublespeak, since technology meant to create abundance justifies eliminating the people who built it.",
+      "mots_cles": [
+        "IBM HR layoffs",
+        "Salesforce 4,000 cuts",
+        "Microsoft 15,000 layoffs",
+        "AI chatbots",
+        "corporate doublespeak",
+        "AI job cuts",
+        "tech workers",
+        "new era shaped by AI"
+      ],
+      "texte": "IBM has eliminated hundreds of HR positions and replaced them with AI chatbots. Salesforce cut 4,000 people and said AI had reduced the need for staff. Microsoft, which laid off 15,000 people in 2025, had its CEO tell employees that this was a new era shaped by AI. What all the job cut announcements had in common was a particular kind of corporate doublespeak. In the short term, the same technology that was supposed to create abundance was being used to justify the elimination of the people who had helped to build it. Everyone in the tech"
+    },
+    {
+      "id": 223,
+      "debut": 12397.43,
+      "fin": 12459.33,
+      "temps_estime": false,
+      "titre": "Why this tech correction differs: physical AI infrastructure",
+      "resume": "Tech has gone through downturns before, in 2001, 2008 and 2022, with laid-off workers eventually re-employed, but this time the correction centers on physical infrastructure built for demand that had not yet materialized. Chips, data centers, power contracts and fiber cables are far harder to unwind than SaaS subscriptions, and workers with narrow AI skills cannot be redirected quickly.",
+      "mots_cles": [
+        "tech downturn cycles",
+        "2001 2008 2022",
+        "AI infrastructure unwinding",
+        "data centers",
+        "17,000 GPUs",
+        "power contracts",
+        "SaaS comparison",
+        "skills mismatch",
+        "AI correction"
+      ],
+      "texte": "industry knows it has always been cyclic. There have been plenty of downturns before, 2001, 2008, 2022. People got laid off, found other jobs eventually. The industry contracts and expands eventually. This time, the question is whether eventually has a reliable timeline or whether this particular correction is different in character from the ones that came before. That's because [music] this time the correction centers on the nature of the AI revolution's physical infrastructure. Everything that got built in the boom based on demand that had not yet materialized. Physical things like chips, data centers, power contracts, and fiber optic cables are much harder to unwind than overpriced SaaS subscriptions. You just can't turn off a data center. You can't return 17,000 GPUs to the store, and you can't immediately redirect the careers of hundreds of thousands of people who spent the last few years specializing in skills that were until recently in extremely high demand. The 140 people in Austin are right now beginning to find that out. Day five. It's 9:00 a.m. on"
+    },
+    {
+      "id": 224,
+      "debut": 12459.33,
+      "fin": 12543.23,
+      "temps_estime": false,
+      "titre": "A coffee shop in Austin feels the secondary shock",
+      "resume": "A coffee shop owner on South Congress Avenue sees her regulars disappear because the AI campus across the street, her main revenue source, is now 35% smaller. Her Friday rush is half of budget and a corporate catering contract will vanish, all because of AI infrastructure being repossessed in New Jersey.",
+      "mots_cles": [
+        "Austin coffee shop",
+        "secondary shock",
+        "AI campus layoffs",
+        "South Congress Avenue",
+        "catering contract",
+        "small business impact",
+        "35% smaller",
+        "ripple effects"
+      ],
+      "texte": "Friday in a coffee shop on the corner of Austin's South Congress Avenue. It's been open for 11 years, open before the tech companies came en masse. The owner has watched the neighborhood change over that time. On the one hand, she's grateful the tech workers came. They spend some money, buy the $12 lattes. They frequently have meetings and run tabs on their corporate cards, tipping the help staff well when they expense it. On the other hand, she's uneasy. She's noticed that over the past 6 months some of her regulars have stopped coming. Gradually fewer faces file in through the sun-drenched door each morning. She's chalked it up to remote work or new coffee shops in the area. The tech crowd always felt transient and temporary, the way college undergraduates turn over every 4 years. One thing she hadn't thought to connect their absence to was an obscure debt-to-equity ratio she never even heard of. The AI campus across the street from her shop, which has been her single most important revenue source, is now 35% smaller than it was the day before. The Friday coffee rush that she's always relied on, planned for, and staffed for, is about half of what she budgeted. She doesn't know it yet either, but this will be the way next Friday is too, and the Friday after that, and the next. The corporate catering contract she signed in January is about to become non-existent, not because of anything she did, but because the company on the other side of the agreement relied on AI infrastructure that's now being repossessed in New Jersey. She's thinking about next Saturday and whether she should call her part-time staff or adjust her milk"
+    },
+    {
+      "id": 225,
+      "debut": 12543.23,
+      "fin": 12587.53,
+      "temps_estime": false,
+      "titre": "Pete's Coffee and Starbucks close Bay Area locations",
+      "resume": "Pete's Coffee, serving San Francisco since 1966, announced the closure of about 30 Bay Area locations, and Starbucks also closed multiple stores. Placer AI found San Francisco had the lowest office visit rate of any major US city, over 50% below pre-pandemic levels, and the coffee shops absorbed that decline rather than causing it.",
+      "mots_cles": [
+        "Pete's Coffee closures",
+        "Starbucks closures",
+        "San Francisco",
+        "Placer AI",
+        "office visit rate",
+        "foot traffic",
+        "50% below pre-pandemic",
+        "Bay Area"
+      ],
+      "texte": "order. In San Francisco, Pete's Coffee, a Bay Area institution that's been serving the city since 1966, long before the city's eventual tech dominance, announced the closure of roughly 30 Bay Area locations. They cited what a spokesperson called long-term growth priorities and current market conditions. Starbucks was in a similar boat in San Francisco. They too closed multiple locations simultaneously. It included stores and corridors that served the daily ritual of thousands of office workers whose offices were now half empty. Foot traffic analytics firm Placer AI found that San Francisco had the lowest office visit rate of any major American city. It was more than 50% lower from pre-pandemic levels and still falling. The coffee shops didn't cause that. They absorbed it. Economists"
+    },
+    {
+      "id": 226,
+      "debut": 12587.53,
+      "fin": 12632.93,
+      "temps_estime": false,
+      "titre": "Secondary shocks and the dot-com comparison",
+      "resume": "Economists call it a secondary shock when a financial crisis spreads from institutions to people with no direct exposure, because money has to flow somewhere. The dot-com crash cost about $5 trillion but the internet survived, and the question is whether the same holds when the collateral is physical computing hardware being repossessed.",
+      "mots_cles": [
+        "secondary shock",
+        "financial contagion",
+        "dot-com crash $5 trillion",
+        "internet survived",
+        "physical hardware collateral",
+        "repossession",
+        "economists",
+        "crisis spread"
+      ],
+      "texte": "call this a secondary shock. It is the moment when a financial crisis moves from the institutions of origin to the people and businesses who had no direct exposure to the bad bets. People connected by proximity, dependency, or just the sad fact that the money has to flow somewhere or it stops flowing everywhere. In previous tech contractions, the secondary shock was real but bounded. The dot-com crash cost about $5 trillion in market value, but the internet itself survived and the companies that rebuilt on its foundation eventually generated far more than what was lost. Will the same thing be true when the collateral isn't just internet domain registrations and vaporware business plans? Will it be true about physical computing hardware that is not in the earliest stages of being repossessed by teams with clipboards dispatched to data centers before dawn,"
+    },
+    {
+      "id": 227,
+      "debut": 12632.93,
+      "fin": 12666.63,
+      "temps_estime": false,
+      "titre": "Days 7 to 14: retirement accounts down 15 to 22%",
+      "resume": "By the following Monday the S&P 500 has fallen by a number destined for business school case studies, with retirement accounts down 15 to 22% depending on tech concentration. Workers in their 50s, five to ten years from retirement, face working longer to recover, and they are the ones who can least afford to absorb the loss.",
+      "mots_cles": [
+        "retirement accounts losses",
+        "15 to 22% decline",
+        "S&P 500 crash",
+        "workers in their 50s",
+        "retirement delay",
+        "financial crisis burden",
+        "401k",
+        "AI bubble scenario aftermath"
+      ],
+      "texte": "day seven to 14. By the following Monday, the S&P 500 has given back a number that will be cited in business school case [music] studies for a generation. Retirement accounts that took decades to build are down 15 to 22% depending on their concentration in tech. Workers in their 50s now five, maybe 10 years from the finish line, are doing the grim arithmetic. They're coming to terms with the reality that they'll have to work longer, perhaps indefinitely, to make up the difference. These are the people who can least afford to absorb the loss. These are the ones who, true to most financial crises, are going to be forced to absorb the"
+    },
+    {
+      "id": 228,
+      "debut": 12666.63,
+      "fin": 12709.23,
+      "temps_estime": false,
+      "titre": "Nvidia survives down 28%, but its receivables remain uncertain",
+      "resume": "Nvidia stock is down 28% from its peak but it remains profitable, makes real chips that real industries depend on, and is not tied to a dot-com style collapse. Nobody knows whether the $33 billion in accounts receivable, including from customers A and B and other leveraged cloud firms, will ever be collected, so the price reflects uncertainty.",
+      "mots_cles": [
+        "Nvidia down 28%",
+        "Nvidia survives",
+        "accounts receivable $33 billion",
+        "customers A and B",
+        "leveraged cloud companies",
+        "stock uncertainty",
+        "real chips",
+        "dot-com comparison"
+      ],
+      "texte": "brunt of it. Nvidia stock is down 28% from its peak, but it's still a wildly profitable company, make no mistake. It bears reemphasizing that Nvidia, for all of its foibles, continues to make real chips and GPUs that do real things that real industries depend on. Their fate isn't inextricably linked to the dot com crash. Nvidia will survive this. Still, nobody at the company knows this early whether the $33 billion they're owed in accounts receivable will ever get collected, whether customers A and B and the rest of the highly leveraged cloud infrastructure companies can actually pay the bills they've already racked up. This is a question that'll take months or years to fully answer, and in the meantime, the stock price reflects the uncertainty of the moment, not the long-term thesis. The banks that funded"
+    },
+    {
+      "id": 229,
+      "debut": 12709.23,
+      "fin": 12754.03,
+      "temps_estime": false,
+      "titre": "Banks, private credit and pension funds exposed to the GPU build-out",
+      "resume": "The banks that funded the GPU build-out run stress tests, private credit firms reassess their portfolios, and venture funds face calls from endowments and pension funds. Public employee retirement systems for teachers, firefighters and sanitation workers find their security tied to whether a New Jersey data center can be liquidated to cover a margin call.",
+      "mots_cles": [
+        "private credit exposure",
+        "bank stress tests",
+        "venture funds",
+        "pension funds",
+        "public employee retirement",
+        "GPU financing",
+        "margin call",
+        "institutional investors",
+        "contagion"
+      ],
+      "texte": "the GPU build out are running their own stress tests. Private credit firms who issued the debt to AI infrastructure now look at their portfolios, once fat with perceived profits, very much differently now. The venture funds who bankrolled all this are now facing calls with institutional investors and endowments and pension funds who want to know what their portfolio is really worth. Some of the pension funds are public employee retirement systems, people like teachers, firefighters, and sanitation workers who have nothing to do with the AI revolution. They've never even heard of CoreWeave or made any investment decisions of consequence except the decision to invest at all. They're coming to terms still with the fact that their future security is quite literally tied to whether a New Jersey data center can be liquidated efficiently enough to cover a margin call. The California"
+    },
+    {
+      "id": 230,
+      "debut": 12754.03,
+      "fin": 12818.23,
+      "temps_estime": false,
+      "titre": "CalPERS and how financial contagion travels",
+      "resume": "CalPERS, the largest US public pension fund with almost half a trillion dollars for about 2 million public workers, has an index-heavy equity portfolio, so a 20% drop costs roughly the GDP of a mid-sized state. A 63-year-old school teacher in Fresno is told the picture has changed, showing how contagion echoes through connected systems.",
+      "mots_cles": [
+        "CalPERS",
+        "public pension fund",
+        "index-heavy portfolio",
+        "20% stock drop",
+        "retiring teacher",
+        "financial contagion",
+        "AI bubble",
+        "human cost",
+        "state worker pensions"
+      ],
+      "texte": "Public Employees Retirement System, or CalPERS, is the largest public pension fund in the United States. It manages almost half a trillion dollars in assets on behalf of roughly 2 million teachers, police officers, and state workers. Its equity portfolio, like most institutional portfolios at scale, is awfully index heavy, which means that anyone who wanted it this way or not is severely exposed. When those stocks drop 20%, CalPERS loses roughly the GDP of a mid-sized American state. The pension board will have to issue a statement to the effect that the quote long-term investment horizon has suddenly shifted. It'll be accurate and irrelevant to the 63-year-old retiring school teacher in Fresno who is planning to stop working this year. They're now being told by a benefits administrator that the picture has changed. Modern financial contagions don't travel in straight lines. This is the architecture. It travels and it echoes through every system that is connected to every other financial system, just as the AI bubble of the early 2020s is now connected to almost everything we see and do. And the human cost is real. How to save the future?"
+    },
+    {
+      "id": 231,
+      "debut": 12818.23,
+      "fin": 12857.63,
+      "temps_estime": false,
+      "titre": "No villain: why an AI crash differs from 2008",
+      "resume": "Financial crises usually have a face, as 2008 had mortgage brokers, loan officers and ratings agencies and executives to blame, which offers some comfort. An AI crash has no obvious villain, fraud or single bad decision.",
+      "mots_cles": [
+        "2008 financial crisis villains",
+        "no one to blame",
+        "AI crash",
+        "financial crisis blame",
+        "mortgage brokers",
+        "ratings agencies",
+        "accountability",
+        "prosecution"
+      ],
+      "texte": "The most disorienting thing about a situation like this is that there is nobody really to be angry at. Financial crises are supposed to have a face. There was a CEO, a trader, a bank, somebody asleep at the wheel. You could feel confident attaching their name to the damage. 2008 had its villains, real and constructed, the mortgage brokers, the loan officers, the ratings agencies in bed with the banks, whoever. The knowledge that someone somewhere had looked at the machine and just decided to run with it anyway is a form of comfort, even if it's just a single executive that gets prosecuted and the public gets to pay for the damages. That's exactly what happened in 2008, but an AI crash like this is different."
+    },
+    {
+      "id": 232,
+      "debut": 12857.63,
+      "fin": 12911.33,
+      "temps_estime": false,
+      "titre": "A chain of individually rational decisions",
+      "resume": "The crash would be the combined result of rational choices: pension managers overweighted tech because the benchmark did, and the benchmark did because money flowed there. The revenue was real but the debt assumed faster growth, the collateral looked solid because chips were scarce, and tightly coupled links left no slack, which is what unstable systems look like from inside.",
+      "mots_cles": [
+        "systemic risk",
+        "rational decisions",
+        "tightly coupled system",
+        "benchmark overweight tech",
+        "debt assumes growth",
+        "collateral chips scarce",
+        "unstable structures",
+        "AI debt chain"
+      ],
+      "texte": "There's nobody obvious to blame, no villain, no fraud, no single bad decision. What happened was the combined results of thousands of choices that taken individually were completely rational. The pension fund manager overweight tech because that's what the benchmark did. The benchmark overweight attack, because that's where the market's money was flowing. The money flowed there because the analysts believed the growth justified it. The analysts believed that because the revenue was real. The problem wasn't that the revenue was fake. It's that the debt was built on the assumption that the revenue would grow even faster. The debt looked safe because the collateral supported it. The collateral looked solid because the chips were scarce, valuable, and in extraordinary demand. Every step made sense. Every link in the chain was responding rationally to the one before it, and that's what made it dangerous. This is what systematically unstable structures look like from the inside, tightly coupled in the same direction with no slack or wiggle room."
+    },
+    {
+      "id": 233,
+      "debut": 12911.33,
+      "fin": 12931.63,
+      "temps_estime": false,
+      "titre": "After the crash: post-mortems and reforms that never happen",
+      "resume": "Eventually assets change hands and the market finds a bottom, experts publish post-mortems and commentators outline reforms. The reforms will not happen because those with the power to implement them did well under the old system, and by the time everyone agrees what went wrong they are building the next bubble.",
+      "mots_cles": [
+        "market bottom",
+        "post mortems",
+        "reforms blocked",
+        "regulatory inaction",
+        "next bubble",
+        "beneficiaries of old system",
+        "financial crises cycle"
+      ],
+      "texte": "Eventually, the assets will change hands and the market will find a bottom. Experts will publish post mortems. Commentators will outline the reforms that should have happened. They won't happen because the people with the power to implement those changes are often the same people who did very well under the old system. And by the time everyone agrees on what went wrong, they're already busy building the next one."
+    },
+    {
+      "id": 234,
+      "debut": 12931.63,
+      "fin": 12967.43,
+      "temps_estime": false,
+      "titre": "The thesis may be right but the timing wrong",
+      "resume": "Silicon Valley was not stupid: the technology works, the compute is real and what the models do is extraordinary, so the claim that AI will eventually generate the promised revenue may not be crazy. It might be that only the timing was wrong, which matters very differently to a venture capitalist with a 15-year fund than to a 51-year-old electrician nine years from retirement.",
+      "mots_cles": [
+        "AI thesis vs timing",
+        "Silicon Valley",
+        "AI revenue promise",
+        "venture capitalist",
+        "electrician retirement",
+        "AI technology works",
+        "compute real",
+        "AI crash risk"
+      ],
+      "texte": "Silicon Valley was not stupid about any of this. It was in a specific and important sense the right way to approach the AI revolution. The technology works. The compute is real. What the models can do are extraordinary human achievements. We're not hallucinating any of this. It is the future, and it may truly be that the rationalization that AI will generate the revenue it promised eventually is actually not crazy. It might turn out that the timing was the only thing wrong, not the thesis. But that lands very differently depending on whether you're a venture capitalist with a 15-year fund life or a 51-year-old electrician nine years from retirement."
+    },
+    {
+      "id": 235,
+      "debut": 12967.43,
+      "fin": 12995.14,
+      "temps_estime": false,
+      "titre": "An AI crash is not the end of AI: gains concentrated, losses distributed",
+      "resume": "An eventual AI crash would not end artificial intelligence, just as 2001 did not end the internet, and what follows will probably be built on cleaner foundations with more honest math. The people who build it will differ from those who built this one, and as in the oldest economic stories the gains are concentrated and the losses distributed.",
+      "mots_cles": [
+        "AI crash aftermath",
+        "2001 internet comparison",
+        "next version of AI",
+        "honest math",
+        "gains concentrated losses distributed",
+        "economic history",
+        "AI survives crash"
+      ],
+      "texte": "The eventual AI crash, if that's what we're calling it, is not the end of artificial intelligence anymore than 2001 was the end of the internet. What comes after will probably be better, built on cleaner and cleaner foundations with more honest math. The people who build the next version won't be the same people who built this one, and the people who suffer the consequences usually won't be the people who made the original decisions. That's one of the oldest stories in economic history. The gains are concentrated. The losses are"
+    },
+    {
+      "id": 236,
+      "debut": 12995.14,
+      "fin": 13009.34,
+      "temps_estime": false,
+      "titre": "Outro: has the AI bubble already burst?",
+      "resume": "The video ends by asking whether the bubble has already burst without anyone realizing it, and points viewers to another video, 'The $115 billion burn rate, the AI bubble just popped', on an industry balanced on a knife's edge. It also suggests watching the next video.",
+      "mots_cles": [
+        "AI bubble popped",
+        "$115 billion burn rate",
+        "knife's edge",
+        "recommended video",
+        "outro",
+        "AI industry risk"
+      ],
+      "texte": "distributed. But if the bubble has already burst and we just haven't realized it yet? Watch the $115 billion burn rate, the AI bubble just popped, to see how the entire industry may be balanced on a knife's edge. Or watch this next video."
     }
   ]
 }
