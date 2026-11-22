@@ -1,0 +1,493 @@
+{
+  "version": 1,
+  "video_id": "Jq-aPTb4gb4",
+  "titre_video": "Windows users are freaking out now...",
+  "duree_s": 846.39,
+  "avancement": {
+    "lignes_traitees": 176,
+    "fin_traitee_s": 846.39,
+    "nb_lignes_total": 176,
+    "complet": true
+  },
+  "nb_segments": 26,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.16,
+      "fin": 18.08,
+      "temps_estime": false,
+      "titre": "Hook: a digital control grid sneaking onto your PC",
+      "resume": "The narrator opens by saying that conspiracy theorists long warned of a digital control grid, and claims it is arriving disguised as something harmless rather than as an open law. Once accepted, users will regret turning on their computer.",
+      "mots_cles": [
+        "digital control grid",
+        "conspiracy theorists",
+        "disguised",
+        "Windows",
+        "intro",
+        "hook"
+      ],
+      "texte": "For years, conspiracy theorists warned that a digital control grid to enslave humanity was coming. It is. And it won’t arrive as law… It’s going to sneak onto your computer disguised as something else. Something completely harmless. And once you accept, you’ll wish you never turned your computer on."
+    },
+    {
+      "id": 2,
+      "debut": 18.08,
+      "fin": 48.08,
+      "temps_estime": false,
+      "titre": "California law: OS must send age bracket to apps from January 1, 2027",
+      "resume": "A new California law turns the operating system into a permanent digital gatekeeper. From January 1st, 2027, tech companies must give app developers real-time information on the user's age bracket, not a name, birthdate or ID, and Microsoft has already built the machinery to enforce it.",
+      "mots_cles": [
+        "California",
+        "age bracket",
+        "operating system",
+        "January 1 2027",
+        "gatekeeper",
+        "app developers",
+        "age verification"
+      ],
+      "texte": "A new law introduced by California legislators plans to turn your computer’s operating system into a permanent digital gatekeeper. On January 1st, 2027, tech companies will be legally forced to hand over real time information to any app developer, telling them which age bracket you fall into. Not a name. Not a birthdate. Not an ID document. Just the age bracket… at least for now. But that Californian statute is just the tip of the iceberg. Because while politicians debate the law, Microsoft has been busy built"
+    },
+    {
+      "id": 3,
+      "debut": 48.08,
+      "fin": 92.24,
+      "temps_estime": false,
+      "titre": "Microsoft adds Windows 11 age APIs (September 8, 2026)",
+      "resume": "On September 8th, 2026, Microsoft's Windows 11 documentation added two new APIs, a verification status API and an age status API, next to an older age-tracking tool. When an app opens, Windows will send the age bracket (under 10, 10 to 17, 18 and over) and whether it is verified.",
+      "mots_cles": [
+        "Windows 11",
+        "age status API",
+        "verification status API",
+        "Microsoft documentation",
+        "age bracket",
+        "September 8 2026",
+        "enforcement tools"
+      ],
+      "texte": "the machinery to enforce it. On September 8th, 2026, a subtle change appeared in the official Windows 11 documentation. Microsoft added a new set of application programming interfaces, or APIs. Alongside an older tool used to track your age, there were 2 new versions: a verification status API and an age status API. Both are expected to arrive in a future Window’s update. These aren’t innocent lines of code. They’re digital enforcement tools designed to use your age as a way of controlling what you can and can’t access on your own PC. The moment you open an app, it will send a message to your system. Windows will hand over your age bracket, under 10, between 10 and 17, or 18 and over, alongside a note on whether that age has been verified."
+    },
+    {
+      "id": 4,
+      "debut": 92.24,
+      "fin": 119.04,
+      "temps_estime": false,
+      "titre": "Microsoft's 2024 warning vs. the Windows Age API framework",
+      "resume": "The narrator asks who controls your computer. In January 2024 Microsoft's policy team warned that no obvious technical age-verification solution avoided security, privacy and human rights risks, yet two years later the company shipped the Windows Age API framework.",
+      "mots_cles": [
+        "Microsoft policy team",
+        "January 2024",
+        "human rights risks",
+        "privacy",
+        "Windows Age API",
+        "who controls your computer",
+        "hypocrisy"
+      ],
+      "texte": "The mere existence of these APIs raises an uncomfortable question: Who is actually in control of your computer? In January 2024, Microsoft’s own policy team issued a warning. In a blog post they said that there was no obvious technical solution to age verification that wouldn’t create “potential security, privacy, and human rights risks.” 2 years later, the company shipped one anyway: the Windows Age API framework. But whether those “human rights risks”"
+    },
+    {
+      "id": 5,
+      "debut": 119.04,
+      "fin": 143.52,
+      "temps_estime": false,
+      "titre": "What California's AB 1043 actually does",
+      "resume": "California's Digital Age Assurance Act (AB 1043) takes effect January 1st, 2027. It is milder than online conspiracy theories (no mandatory digital ID cards, biometric databases or scanners at every website), but still hard to walk away from.",
+      "mots_cles": [
+        "AB 1043",
+        "Digital Age Assurance Act",
+        "California",
+        "digital ID",
+        "biometric",
+        "conspiracy theories",
+        "January 1 2027"
+      ],
+      "texte": "magically disappeared is up for debate. On January 1st 2027, California’s Digital Age Assurance Act (AB 1043) comes into force. What it actually entails is a downgrade from the conspiracy theories circulating online: mandatory digital ID cards to access the internet, biometric databases or a scanner at the door of every website. It’s not that bad. But what is coming is considerably harder to walk away from."
+    },
+    {
+      "id": 6,
+      "debut": 143.52,
+      "fin": 166.88,
+      "temps_estime": false,
+      "titre": "OS as informant: fines and deadline for existing devices",
+      "resume": "The law makes the operating system an informant: you declare your age at setup and Windows handles the rest. The California Attorney General can fine non-compliant companies up to $7,500 per child for an intentional violation, and existing devices have until July 1st, 2027.",
+      "mots_cles": [
+        "informant",
+        "Attorney General",
+        "$7,500 per child",
+        "fines",
+        "July 1 2027",
+        "existing devices",
+        "compliance"
+      ],
+      "texte": "The law forces your operating system to become an informant. You hand over your age at the start and Windows does the rest. If companies don’t comply, the California Attorney General can hit them with fines of up to $7,500 per child for an intentional violation. Devices already in people’s hands get until July 1st, 2027, to force this interface onto your screen. But the background signal"
+    },
+    {
+      "id": 7,
+      "debut": 166.88,
+      "fin": 189.36,
+      "temps_estime": false,
+      "titre": "Newsom's child-safety laws tied to the OS age framework",
+      "resume": "Governor Newsom signed child-safety regulations on September 10th, 2026, including a law restricting 'addictive features' for under-16s. Its verification tracking relies on the operating system framework, so California has built the foundation for future censorship laws.",
+      "mots_cles": [
+        "Newsom",
+        "September 10 2026",
+        "addictive features",
+        "under 16",
+        "child safety",
+        "censorship",
+        "California"
+      ],
+      "texte": "was never meant to be for apps alone. When Governor Newsom signed a batch of child-safety regulations on September 10th, 2026, he signed a law restricting platforms from offering “addictive features” to under 16s. And it ties its verification tracking back to this operating system framework. In other words, California has built the foundation that future censorship laws are written against."
+    },
+    {
+      "id": 8,
+      "debut": 189.36,
+      "fin": 212.16,
+      "temps_estime": false,
+      "titre": "Broad definition of 'operating system provider'",
+      "resume": "The law defines an operating system provider as anyone who develops, licenses or controls the software on a computer, mobile device or any general purpose computing device. That covers macOS, iOS and Android as well, even though Microsoft is not named.",
+      "mots_cles": [
+        "operating system provider",
+        "macOS",
+        "iOS",
+        "Android",
+        "legal definition",
+        "general purpose computing device",
+        "Microsoft"
+      ],
+      "texte": "The law doesn’t just target Microsoft. Their legal definition of “operating system provider” is anyone who “develops, licenses, or controls” the software on “a computer, mobile device, or any other general purpose computing device.” That casts a huge net over the entire tech industry, covering macOS, iOS and Android. While the law never specifically named Microsoft,"
+    },
+    {
+      "id": 9,
+      "debut": 212.16,
+      "fin": 237.92,
+      "temps_estime": false,
+      "titre": "Microsoft's 'chain of custody': account, age signal, controls",
+      "resume": "In a PR post titled 'Helping families and educators support safer experiences and healthier habits on Windows', Microsoft's Windows Experience team described the chain: user account, then age signal, then age-appropriate experience and controls, before you reach your computer.",
+      "mots_cles": [
+        "Windows Experience team",
+        "chain of custody",
+        "user account",
+        "age signal",
+        "parental controls",
+        "Microsoft blog post",
+        "safer experiences"
+      ],
+      "texte": "they went ahead and built the digital cage. Under a wholesome PR post titled “Helping families and educators support safer experiences and healthier habits on Windows,” the company’s Windows Experience team revealed how the system works. Microsoft describes a terrifying chain of custody. First comes the user account, then age signal, then age-appropriate experience and controls. Only then do you get access to your computer."
+    },
+    {
+      "id": 10,
+      "debut": 237.92,
+      "fin": 262.8,
+      "temps_estime": false,
+      "titre": "'Verify once, use everywhere' and the Microsoft account requirement",
+      "resume": "Microsoft's phrase is 'verify once, use everywhere', turning your account into an ID card shown to every app. Per its documentation the age signal exists only with a Microsoft account; local accounts have no age signal, which the narrator says does not add up.",
+      "mots_cles": [
+        "verify once use everywhere",
+        "Microsoft account",
+        "local account",
+        "age signal",
+        "ID card",
+        "documentation",
+        "contradiction"
+      ],
+      "texte": "Microsoft’s own phrase for that is “verify once, use everywhere.” So, your account becomes the ID card that’s flashed to every app that opens. According to Microsoft’s own documentation, the age signal is only available when you're signed in with a Microsoft account. If you use a local account, the kind that exists only on the machine and is not tied to an online profile, there’s no age signal at all. Except that doesn’t add up."
+    },
+    {
+      "id": 11,
+      "debut": 262.8,
+      "fin": 290.48,
+      "temps_estime": false,
+      "titre": "Age signal live for Insiders, coming to all Windows users",
+      "resume": "California requires a mandatory signal but Microsoft can only pull it from a Microsoft account. The trackers are live for Windows Insiders, developers are told to build fallbacks now, and the signal will go live for everyone when the law takes effect.",
+      "mots_cles": [
+        "Windows Insiders",
+        "developers",
+        "fallbacks",
+        "Microsoft account",
+        "age signal",
+        "not yet live",
+        "law takes effect"
+      ],
+      "texte": "California requires a mandatory signal tracker, but Microsoft can only pull that from a Microsoft account. Right now, these trackers are live for Windows Insiders. But Microsoft warns they will reach all Windows users sooner or later. They’re advising developers to build their fallbacks now. So for now, Windows is not telling apps how old you are. The capability exists, it’s primed, but not quite live. Yet. When the new law does come into force, the age signal will go live with it."
+    },
+    {
+      "id": 12,
+      "debut": 290.48,
+      "fin": 308.32,
+      "temps_estime": false,
+      "titre": "The real threat: ownership and forced cloud accounts",
+      "resume": "Despite California's noble intentions around child safety and data control, the narrator says the real issue is ownership. A legally required age signal that exists only in a signed-in cloud account forces users to have such an account.",
+      "mots_cles": [
+        "ownership",
+        "cloud account",
+        "child safety",
+        "digital sovereignty",
+        "signed-in account",
+        "forced",
+        "Microsoft account"
+      ],
+      "texte": "California’s intentions are noble. They’re thinking of child safety, data control and digital sovereignty. But the real threat goes beyond this. It’s about ownership. An age signal required by law that can only exist inside a signed-in cloud account isn’t a feature of that account. It is forcing you to have one in the first place."
+    },
+    {
+      "id": 13,
+      "debut": 308.32,
+      "fin": 363.84,
+      "temps_estime": false,
+      "titre": "Microsoft killing local-account workarounds (2025)",
+      "resume": "Over two years Microsoft has removed workarounds for avoiding cloud profiles during Windows setup. A backdoor command to skip the network screen was blocked in March 2025, another workaround was disabled in October 2025, and only a few options remain for administrators.",
+      "mots_cles": [
+        "out-of-the-box experience",
+        "local account",
+        "workaround",
+        "March 2025",
+        "October 2025",
+        "network screen",
+        "release notes",
+        "setup"
+      ],
+      "texte": "And behind the scenes, Microsoft has spent the last 2 years systematically hunting down and killing every workaround to avoid creating cloud profiles. They are fundamentally changing the out-of-the-box experience: that first 20 minutes with a new machine where you decide what kind of computer you’re going to have. Users could utilize a backdoor command that let them skip the network screen and create a local account. Microsoft blocked that route in March 2025. They stated that the change “ensures that all users exit setup with internet connectivity and a Microsoft Account.” Then, in October 2025, they disabled another workaround, claiming users were “inadvertently [skipping] critical setup screens.” Each new workaround method has been systematically removed in release notes most users never read. A few still remain, mainly for system administrators, but the rest are gone. And now the age check process threatens to tighten the screws on privacy and access to Windows 11 even further."
+    },
+    {
+      "id": 14,
+      "debut": 363.84,
+      "fin": 413.04,
+      "temps_estime": false,
+      "titre": "Logged-in OS: from product you own to service you are enrolled in",
+      "resume": "The problem is the substrate the age check sits on: being logged in means personalized rather than anonymized data harvesting. An OS refusing to boot without a cloud profile becomes a service; Apple and Google also ship age-range APIs, but the legal deadline to log in is new.",
+      "mots_cles": [
+        "cloud profile",
+        "logged in",
+        "personalized data",
+        "service",
+        "Apple",
+        "Google",
+        "age-range APIs",
+        "privacy"
+      ],
+      "texte": "The problem isn’t actually the age check itself. Few would argue with the justifications. The real issue, not immediately apparent, is about the substrate the age check sits on. Every platform that wants to know something about you benefits from you being logged in. When you’re logged in, it’s no longer largely anonymized data that’s being harvested, but highly personalized data. An operating system that refuses to boot up without a cloud profile has stopped being a product you own and started being a service you are enrolled in. Microsoft is not the only company tying an operating system to an online identity. Apple and Google have already started shipping their own age-range APIs as well. The move toward age verification among OS providers is nothing new. What is new is the compulsion to log in with a legal deadline attached, right on your desktop."
+    },
+    {
+      "id": 15,
+      "debut": 413.04,
+      "fin": 462.48,
+      "temps_estime": false,
+      "titre": "Schleswig-Holstein's migration from Microsoft to open source",
+      "resume": "Users must choose between workarounds Microsoft will close or leaving the platform, and institutions have already chosen. Schleswig-Holstein, Germany's northernmost state, announced a shift in April 2024 and by October 2025 had moved about 44,000 mailboxes, with LibreOffice at 77 to 80% of workplaces and over 200 Linux desktops.",
+      "mots_cles": [
+        "Schleswig-Holstein",
+        "Germany",
+        "LibreOffice",
+        "Linux",
+        "44,000 mailboxes",
+        "open source migration",
+        "state chancellery",
+        "Microsoft"
+      ],
+      "texte": "Users will be left with a decision. Do they keep trying to find workarounds that Microsoft will eventually close? Or do they drop the platform entirely. That decision has already been made at an institutional level. Schleswig-Holstein is Germany’s northernmost state and for decades, its administration ran exclusively on Microsoft’s software. But then, in April 2024, the state chancellery published a plan to shift away from Windows. By October 2025, a massive migration saw around 44,000 mailboxes and more than 100 million items moved off Microsoft’s mail platform and onto open-source alternatives. Today, LibreOffice, the popular open-source Office alternative, runs on 77 to 80% of workplaces, with the remainder on temporary exceptions. Linux desktops are already up and running too, with more than 200 active in the state chancellery itself."
+    },
+    {
+      "id": 16,
+      "debut": 462.48,
+      "fin": 491.68,
+      "temps_estime": false,
+      "titre": "Why leaving Microsoft is slow and hard",
+      "resume": "Switching may save license costs but is constrained by procurement, unions and legacy databases. The Schleswig-Holstein case shows it takes years, not a weekend, though more organizations are seriously considering open source.",
+      "mots_cles": [
+        "license costs",
+        "procurement",
+        "legacy databases",
+        "unions",
+        "migration timescale",
+        "open source",
+        "bureaucracy"
+      ],
+      "texte": "But breaking free from the tech giant isn’t simple. Jumping ship may save money on license costs, but it comes with problems. The alternative may be “free,” but it still functions inside a bureaucracy and is subject to procurement, unions, issues with legacy databases, and other constraints. The Schleswig-Holstein example also illustrates the timescale required to make such a major switch. This isn’t something you can pull off over a weekend. It takes years. Despite this, more and more organizations"
+    },
+    {
+      "id": 17,
+      "debut": 491.68,
+      "fin": 511.84,
+      "temps_estime": false,
+      "titre": "Lenovo ships 2026 ThinkPads with Linux",
+      "resume": "Lenovo's model list shows 2026 ThinkPad laptops preloaded with Ubuntu, Fedora and Red Hat Enterprise Linux, almost unthinkable a few years ago. This matters for people who object to an OS age gate and want to switch.",
+      "mots_cles": [
+        "Lenovo",
+        "ThinkPad",
+        "Ubuntu",
+        "Fedora",
+        "Red Hat Enterprise Linux",
+        "preinstalled Linux",
+        "age gate"
+      ],
+      "texte": "are seriously contemplating the switch to open-source. Lenovo’s own model list shows 2026 ThinkPad laptops preloaded with Ubuntu, Fedora and Red Hat Enterprise Linux. That was almost unthinkable just a few years ago. And it matters, especially for people who object to an age gate on their operating system and want to go elsewhere."
+    },
+    {
+      "id": 18,
+      "debut": 511.84,
+      "fin": 557.68,
+      "temps_estime": false,
+      "titre": "AB 1856 open-source loophole and its ambiguity",
+      "resume": "The amendment AB 1856 redefines 'operating system provider' to exclude software under licenses allowing copying, redistribution and modification, implying Linux is exempt. But lawmakers never used the words open source, Linux or Valve, so legality depends on how lawyers interpret the license category.",
+      "mots_cles": [
+        "AB 1856",
+        "loophole",
+        "open source exemption",
+        "Linux",
+        "license terms",
+        "Valve",
+        "legal interpretation",
+        "California"
+      ],
+      "texte": "That’s why people are pointing to a possible loophole in California’s new law, an amendment known as AB 1856. It rewrites the definition of an “operating system provider” so that software distributed under license terms permitting a recipient to copy, redistribute, and modify it falls outside the mandate. That implies that open-source OSes like Linux are off the hook. But the reality is more nuanced. The lawmakers didn’t explicitly write an exemption for open source. Instead, they created a political puzzle. The bill doesn’t mention Linux once. It doesn’t name Valve. It doesn’t even use the phrase “open source.” It describes a vague category of license. Which means your computer system is safe or illegal depending how a bunch of lawyers decide to interpret the code."
+    },
+    {
+      "id": 19,
+      "debut": 557.68,
+      "fin": 611.92,
+      "temps_estime": false,
+      "titre": "SteamOS in limbo, EFF and the California-only exemption",
+      "resume": "The status of SteamOS is uncertain. The EFF first opposed the bill over age-bracketing for browsers and websites, withdrew after an amendment, yet its analysts note it is unclear how the law treats open-source OSes inside commercial products; the exemption exists only in California, from votes in August and September 2026.",
+      "mots_cles": [
+        "SteamOS",
+        "Electronic Frontier Foundation",
+        "EFF",
+        "exemption",
+        "open source",
+        "commercial product",
+        "California",
+        "legislative vote"
+      ],
+      "texte": "And that leaves the status of SteamOS in limbo. The Electronic Frontier Foundation initially fought the bill, warning that it would extend age-bracketing beyond operating systems and app stores to browsers and websites. Online speech, privacy and anonymity would be destroyed. They only withdrew their opposition after an amendment forced them to scale back the damage. But even as the Foundation called the exemption a win for independent developers, their own analysts are sounding the alarm. It still remains unclear how the law applies when an open-source operating system is incorporated into a commercial product or service. More importantly, the exemption isn’t a rule. Currently, it only exists in California. And that’s because of a legislative vote taken in August and September of 2026. Other U.S. states and nations are enacting similar legislation, and it’s by no means clear that it will apply in those jurisdictions as well. It’s only really happening in California."
+    },
+    {
+      "id": 20,
+      "debut": 611.92,
+      "fin": 637.44,
+      "temps_estime": false,
+      "titre": "Other jurisdictions: Illinois, Brazil, Colorado, Parents Decide Act",
+      "resume": "Illinois enacted the same architecture without the loophole, Brazil's Digital ECA has none and threatens fines up to 10% of Brazilian revenue, Colorado passed its own version, and the federal Parents Decide Act is pending. The exemption is a lobbying outcome that can be narrowed.",
+      "mots_cles": [
+        "Illinois",
+        "Brazil",
+        "Digital ECA",
+        "Colorado",
+        "Parents Decide Act",
+        "lobbying",
+        "10% revenue fines",
+        "state laws"
+      ],
+      "texte": "Illinois enacted the same architecture with no such loopholes. Brazil’s Digital ECA has none either, threatening tech giants with fines of up to 10% of their entire Brazilian revenue. Colorado has passed its own version, and a federal bill called the Parents Decide Act is already waiting in Washington. So, that special exception isn’t a global guarantee. It’s a lobbying outcome, won in one state, in one legislature, in one afternoon."
+    },
+    {
+      "id": 21,
+      "debut": 637.44,
+      "fin": 691.12,
+      "temps_estime": false,
+      "titre": "Linux adds a birthdate field to its user database (March 2026)",
+      "resume": "In March 2026 an update to the initialization system used by most Linux distributions added a birth date field to the user database, citing California, Colorado and Brazil. It was approved and shipped, and the debate grew so heated that forum admins locked the thread.",
+      "mots_cles": [
+        "Linux",
+        "init system",
+        "birth date field",
+        "user database",
+        "March 2026",
+        "California Colorado Brazil",
+        "age verification",
+        "forum thread locked"
+      ],
+      "texte": "And it can be narrowed just as abruptly. For Windows users hoping to switch to Linux, the news doesn’t get any better. The trouble with an architectural sanctuary is that the architects of that sanctuary are already moving. And it’s in a direction that will kill any optimism. In March 2026, a code update landed in the initialization system used by most Linux distributions. The update added a birth date field to the system’s user database, and it cited California, Colorado and Brazil as the reason it exists. That’s right. Linux, the supposed sanctuary, seems to be bracing itself for compliance with age verification laws. That code was approved in March 2026 and shipped out. In other words, it’s already live. When developers realized what was happening, the debate got so heated forum admins locked the thread just to stop the fighting. That suggests Linux developers are being dragged into this against their will and being forced to comply nonetheless."
+    },
+    {
+      "id": 22,
+      "debut": 691.12,
+      "fin": 723.52,
+      "temps_estime": false,
+      "titre": "Accounts portal proposals and Canonical's non-committal stance",
+      "resume": "Open draft proposals exist for an Accounts portal supporting age-related and parental-control queries. Canonical's VP of engineering Jon Seager said the company is reviewing the legislation with legal counsel and has no concrete plans for Ubuntu, which the narrator calls reasonable hedging.",
+      "mots_cles": [
+        "Accounts portal",
+        "parental controls",
+        "Canonical",
+        "Ubuntu",
+        "Jon Seager",
+        "legal counsel",
+        "Linux",
+        "compliance"
+      ],
+      "texte": "But the Linux change isn’t the only sign that age verification is inevitably coming for Linux as well as Windows. There are already open draft proposals for an Accounts portal that would support age-related and parental-control queries. And Canonical, the company behind Ubuntu, has declined to rule out compliance. Jon Seager, its vice president of engineering, said the company is aware of the legislation and reviewing it with legal counsel. He added that there are no concrete plans on how, or even whether, Ubuntu will change in response. It sounds a lot like hedging, but that’s a reasonable response."
+    },
+    {
+      "id": 23,
+      "debut": 723.52,
+      "fin": 742.64,
+      "temps_estime": false,
+      "titre": "One compliance path: California's signal switched on for everyone",
+      "resume": "With a billion-device market under a patchwork of state laws, software companies build one path and call it compliance rather than separate OSes per state. So a signal designed for California will be enabled everywhere, and expecting it to stay in California is naive.",
+      "mots_cles": [
+        "compliance",
+        "patchwork of state laws",
+        "one path",
+        "California",
+        "global rollout",
+        "software companies",
+        "age signal"
+      ],
+      "texte": "When a market of a billion devices is governed by a patchwork of state laws, software companies build one path and call it compliance. They don’t build separate operating systems for separate states. So a signal designed for California will be switched on for everyone, everywhere. In other words, expecting what happens in California to stay in California is naïve."
+    },
+    {
+      "id": 24,
+      "debut": 742.64,
+      "fin": 782.56,
+      "temps_estime": false,
+      "titre": "Administrators can override the age signal on managed machines",
+      "resume": "Per Microsoft's documentation, on computers belonging to a company, school or organization the administrator controls the age signal and can set whatever age bracket the device reports, via a setting whose name is unpublished. On managed machines the reported age is chosen by admins, not the user.",
+      "mots_cles": [
+        "system administrator",
+        "managed devices",
+        "age signal override",
+        "school",
+        "organization",
+        "Microsoft documentation",
+        "age bracket",
+        "control"
+      ],
+      "texte": "But just as this infrastructure falls into place, a line in Microsoft’s own documentation, changes what the tracking signal means. According to Microsoft, if your computer belongs to a company, a school or an organization, you don’t control the signal. Your system administrator does. They have been given a backdoor setting that can override your real identity. It allows them to dictate whatever age bracket you want your computer to send. The setting’s name isn’t published anywhere in Microsoft’s documents, just the capability. The implication is profound. On a managed machine, the age the operating system reports can be chosen by administrators, not the user. Your access to Windows on these machines might be taken out of your hands entirely."
+    },
+    {
+      "id": 25,
+      "debut": 782.56,
+      "fin": 834.48,
+      "temps_estime": false,
+      "titre": "Documented timeline of escalation and conclusion",
+      "resume": "The narrator lists the sequence: Microsoft's January 2024 warning, workarounds destroyed by October 2025, Linux's birthdate field in March 2026, and the September 2026 tracking API fused to a signed-in account. He calls it a documented escalation toward gated access to your own computer, even on Linux.",
+      "mots_cles": [
+        "timeline",
+        "January 2024",
+        "October 2025",
+        "March 2026",
+        "September 2026",
+        "tracking API",
+        "digital dystopia",
+        "nowhere to hide",
+        "Linux"
+      ],
+      "texte": "And that’s what’s causing the conspiracy theories to be adding another layer of tinfoil to their hats. Put the documented steps in order, and you can see how they're ending up at a“digital dystopia”. It started in January 2024 when Microsoft warned that platform level age tracking created severe human rights and privacy risks. Yet, by October 2025, Microsoft had destroyed the workarounds to use Windows offline. By March 2026, Linux users were forced to add a birthdate field to databases. And in September 2026, the tracking API was shipped, fused to a signed-in account. That’s not a conspiracy. That’s a documented, calculated escalation toward a world where access to your own computer exists behind a corporate gate Even on Linux. It looks like there isn’t going to be anywhere left to hide. Maybe it’s time to stock up on tinfoil, or fake IDs. Or both."
+    },
+    {
+      "id": 26,
+      "debut": 834.48,
+      "fin": 846.39,
+      "temps_estime": false,
+      "titre": "Outro: Microsoft's decline and related video",
+      "resume": "The narrator notes Microsoft was once the undisputed king of computing until Apple and Google challenged it, and points viewers to the video 'Something Is VERY Wrong With Microsoft Windows 11'.",
+      "mots_cles": [
+        "Microsoft",
+        "Apple",
+        "Google",
+        "Windows 11",
+        "related video",
+        "outro",
+        "call to action"
+      ],
+      "texte": "Microsoft used to be the undisputed king of computing, but when Apple and Google challenged their reign, things got desperate. Watch “Something Is VERY Wrong With Microsoft Windows 11” to see how bad things have gotten. Or click on this."
+    }
+  ]
+}
