@@ -4,12 +4,12 @@
   "titre_video": "World War 3 Protocol. Why Global Nuclear Annihilation Is Inevitable.",
   "duree_s": 11483.66,
   "avancement": {
-    "lignes_traitees": 4761,
-    "fin_traitee_s": 9434.27,
+    "lignes_traitees": 5693,
+    "fin_traitee_s": 11139.21,
     "nb_lignes_total": 5891,
     "complet": false
   },
-  "nb_segments": 195,
+  "nb_segments": 236,
   "segments": [
     {
       "id": 1,
@@ -3713,6 +3713,785 @@
         "escalation"
       ],
       "texte": "nukes could be used by an extremist group to orchestrate a major conflict between nations. The clever deployment of nuclear weapons could be used to simulate an attack by a hostile nation. While there is little chance of fooling the early warning systems of a modern nation into believing a nuclear launch had taken place, there are plausible scenarios where they could be used to make it seem as if a rival nation had smuggled the weapons physically to their detonation points. One such operation in South Korea, targeting American bases for instance, would be in line with this plan as it's already a credible possibility that North Korean special forces would carry out such an attack. From there, there is no telling how far things could spiral completely out of control. [music] The date is March 4th,"
+    },
+    {
+      "id": 196,
+      "debut": 9434.27,
+      "fin": 9466.8,
+      "temps_estime": false,
+      "titre": "March 4, 2022 scenario: Georgia and Bosnia join NATO",
+      "resume": "In a fictional scenario dated March 4, 2022, Georgia and Bosnia-Herzegovina are accepted as full NATO partners and Ukraine renews its push for membership. Russia, which had warned of military action for six months, masses forces on its western border, gambling that NATO will reconsider or not fight for brand new members.",
+      "mots_cles": [
+        "March 4 2022 scenario",
+        "Georgia",
+        "Bosnia-Herzegovina",
+        "NATO membership",
+        "Ukraine",
+        "Russia",
+        "massing forces",
+        "western border"
+      ],
+      "texte": "2022 and after years of deliberation both Georgia and Bosnia-Herzegovina have officially been accepted as full NATO partners. Ukraine now reinvigorates its push for NATO membership, while Russia has for the last 6 months [music] warned of military action, alarmed by what it views as encroachment of NATO on its borders. Russia at last responds to the ascension of Bosnia and Herzegovina and Georgia by massing forces on its western border. Russia is gambling that the other NATO nations will reconsider admitting the two new members, [music] or at least not be willing to go to war over the defense of brand new members to"
+    },
+    {
+      "id": 197,
+      "debut": 9466.8,
+      "fin": 9506.68,
+      "temps_estime": false,
+      "titre": "Article 5 and the Russian invasion of the Baltics",
+      "resume": "Russia underestimates NATO's solidarity as the alliance warns that an attack on one ally is an attack on all under Article 5 and sends troops to Estonia, Latvia and Lithuania. Russia sees this as an unacceptable show of force, and its armor pours into Latvia and Lithuania to link up with Kaliningrad, starting World War III.",
+      "mots_cles": [
+        "Article 5",
+        "NATO troops",
+        "Estonia Latvia Lithuania",
+        "Kaliningrad",
+        "Russian armor",
+        "World War III",
+        "show of force",
+        "alliance solidarity"
+      ],
+      "texte": "the alliance. Russia, however, has completely underestimated the solidarity of the alliance, realizing that NATO is in essence a worthless entity unless Article 5 of the treaty is immediately enforced. NATO warns Russia that an attack on one ally is considered an attack on all allies. To reinforce the point, NATO troops are sent into Estonia, Latvia, and Lithuania, the alliance's most vulnerable members given their direct proximity to Russia. Russia, however, sees this as an unacceptable show of force, and the move proves to be the straw that breaks the camel's back. Without warning, Russian armor pours into Latvia and Lithuania, linking up with forces in Kaliningrad. World War III has officially begun. For"
+    },
+    {
+      "id": 198,
+      "debut": 9506.68,
+      "fin": 9551.12,
+      "temps_estime": false,
+      "titre": "Stalled offensive and Russia's gamble on Berlin",
+      "resume": "After a month, the Russian offensive reaches as far as Poland before stalling as NATO finishes mobilizing, and American forces land in France and Germany while the US Navy and a Marine Expeditionary Force head for Russia's east coast. Facing defeat, Russia authorizes a single nuclear strike on Berlin, betting the Americans will not risk their own cities for European allies.",
+      "mots_cles": [
+        "Poland",
+        "NATO mobilization",
+        "American troops France Germany",
+        "Marine Expeditionary Force",
+        "second front",
+        "losing war",
+        "nuclear strike on Berlin",
+        "European arsenals"
+      ],
+      "texte": "the first month of fighting, Russian forces pushes far west as Poland, but the offensive grinds to a halt as NATO members [music] finish mobilizing and their resistance solidifies. With American troops and equipment making landfall in France and Germany, NATO is now launching vicious counterattacks against Russia's forces in Poland. In the Pacific, the American Navy steams towards Russia's eastern coast, bringing with [music] it a Marine Expeditionary Force meant to open a second front in the war and split Russia's forces. Russia is faced with [music] a losing proposition and decides to gamble. It authorizes a single nuclear strike against Berlin, betting that while European NATO members may retaliate with their limited nuclear arsenals, [music] the Americans won't risk the destruction of their cities to support their European allies."
+    },
+    {
+      "id": 199,
+      "debut": 9551.12,
+      "fin": 9570.28,
+      "temps_estime": false,
+      "titre": "April 12, 0205 Zulu: ICBM launch detected",
+      "resume": "American and Chinese infrared satellites detect the plume of an ICBM launch from a missile farm in southern Russia. Two minutes later the American president is woken and told that Russia has launched a single nuclear device of unknown payload, likely aimed at Western Europe.",
+      "mots_cles": [
+        "April 12",
+        "0205 Zulu",
+        "infrared satellites",
+        "ICBM launch",
+        "missile farm",
+        "American president",
+        "single nuclear device",
+        "Western Europe"
+      ],
+      "texte": "The date is now April 12th, 0205 hours Zulu. American and Chinese infrared recon satellites both pick up the telltale fiery plume of an ICBM launch from a missile farm in the south of Russia. 2 minutes later, the American president is awoken from his sleep and given the news. Russia has [music] launched a single nuclear device, unknown payload, likely target in"
+    },
+    {
+      "id": 200,
+      "debut": 9570.28,
+      "fin": 9624.12,
+      "temps_estime": false,
+      "titre": "Bomber alert: Global Strike Command and the positive control point",
+      "resume": "Global Strike Command has flown B-52 nuclear alert patrols for weeks, as Strategic Air Command once did, and a priority flash goes to airborne and ground alert forces. Crews review the single integrated operational plan with two primary and two alternate targets each, launch within minutes, and head for the positive control turnaround point near Russia.",
+      "mots_cles": [
+        "Global Strike Command",
+        "B-52 bombers",
+        "nuclear alert",
+        "Strategic Air Command",
+        "priority flash",
+        "single integrated operational plan",
+        "positive control turnaround point",
+        "alternate targets"
+      ],
+      "texte": "Western Europe. The US Air Force's Global Strike Command has for weeks been flying nuclear alert missions with its fleet of B-52 bombers, maintaining a nuclear armed force in the air 24 hours a day, 7 days a week, as its predecessor, the Strategic Air Command, once did for decades during the Cold War. With the detected launch of a Russian nuclear weapon, a priority flash is immediately dispatched to the airborne forces and alert forces on the ground. Flight crews stationed overseas in Japan, on the west coast of the United States, [music] and in Europe, all review their single integrated operational plan, which lays out the exact flight route, refueling track, and targets for each of the bomber crews. Most aircraft have two primary targets with two alternate targets to be struck should they be unable to make it to their primary targets. Within minutes, the crews are in the air, and those already on alert patrols immediately set their course for the positive control turnaround point, a pre-planned point near Russia where the air crews will automatically turn around unless they receive an order to strike."
+    },
+    {
+      "id": 201,
+      "debut": 9624.12,
+      "fin": 9667.6,
+      "temps_estime": false,
+      "titre": "ICBM silos: security forces and two-man launch authentication",
+      "resume": "At Midwest missile sites, concrete shutters over the silos roll back and security forces go on full alert, ordered to defend the silos until every missile is launched. Missile operators rehearse launch procedures, and only two of four operators are needed to authenticate a launch order in case two refuse to start Armageddon.",
+      "mots_cles": [
+        "ICBM silos",
+        "American Midwest",
+        "concrete shutters",
+        "security forces",
+        "missile crews",
+        "launch authentication",
+        "two of four operators",
+        "priority target"
+      ],
+      "texte": ">> [music] >> At missile sites across the American Midwest, the giant concrete shutters that protect the buried missiles inside their launch facilities are automatically rolled back, and security forces personnel tasked with defending those sites go on full alert. Their orders are to defend the silos until every missile has been launched, after which they are to escort surviving missile crews out and back to a rendezvous [music] point well away from the missile farm, for these sites will be a priority target for incoming Russian missiles. Inside underground bunkers, missile operators rehearse launch procedures, each man [music] responsible for a group of missiles. The entire system only requires two out of four of the operators to authenticate a launch order, just in case two of the men get cold feet about launching a nuclear Armageddon and refuse their orders."
+    },
+    {
+      "id": 202,
+      "debut": 9667.6,
+      "fin": 9716.32,
+      "temps_estime": false,
+      "titre": "Ballistic missile submarines and the hunt for Russia's nuke boats",
+      "resume": "A low-frequency communication system alerts America's ballistic missile submarines, each carrying 24 Trident missiles with up to eight 475-kiloton warheads. US hunter-killer submarines have been eliminating Russia's aging ballistic missile subs, and now head for Russia's coast to destroy the survivors, at heavy cost against Russian air and naval defenses.",
+      "mots_cles": [
+        "ballistic missile submarines",
+        "Trident missiles",
+        "475 kilotons",
+        "extremely low frequency",
+        "hunter-killer submarines",
+        "Russian nuke boats",
+        "anti-submarine",
+        "submarine fleet"
+      ],
+      "texte": "Deep in the Arctic, Pacific, and Atlantic Ocean, the US's extremely low frequency communication system flashes a nuclear alert to America's ballistic missile submarine fleet. Each sub carries 24 Trident missiles, and each missile carries up to eight independently targetable warheads with a yield of 475 kilotons. [music] America's fleet of hunter-killer attack submarines have for weeks been stalking and eliminating Russia's aging ballistic missile submarines, and the survivors are bottled up near the Russian shore where they can be protected with shore-based firepower and anti-submarine patrols. Now, America's attack submarines set course for Russia's coast, and their mission is to eliminate Russia's surviving nuke boats, though it will cost America's submarine fleet dearly as Russia's Air Force and surface navy fiercely defend their surviving ballistic missile subs."
+    },
+    {
+      "id": 203,
+      "debut": 9716.32,
+      "fin": 9747.92,
+      "temps_estime": false,
+      "titre": "0209: Berlin destroyed and the president's decision",
+      "resume": "At 0209 the US president learns that Berlin, a city of 3.6 million, was destroyed by an older single-warhead ICBM, and Britain is already issuing a fire order to retaliate. The president understands the strike was a Russian gamble that the US would not risk escalation to defend Europe.",
+      "mots_cles": [
+        "Berlin nuclear detonation",
+        "3.6 million",
+        "British prime minister",
+        "UK retaliation",
+        "fire order",
+        "Russian gamble",
+        "escalation",
+        "US president"
+      ],
+      "texte": "At 0209 hours, the American president is told that the American recon assets have positive confirmation of a nuclear detonation in Berlin. The Russians have fired an older single warhead ICBM, yet with a yield large enough to completely destroy the city of 3.6 million. On a hotline direct with the prime minister of the United Kingdom, the president is told that Britain is already issuing a fire order to retaliate for the attack. The president [music] knows that the attack on Berlin was a gamble by the Russians who don't believe that the US will risk an escalation and attacks on its own cities to defend Europe. An"
+    },
+    {
+      "id": 204,
+      "debut": 9747.92,
+      "fin": 9789.32,
+      "temps_estime": false,
+      "titre": "Trident II launch from beneath the North Pole",
+      "resume": "An emergency flash through the ELF system reaches an Ohio-class submarine under the polar ice, which breaches the five-foot ice and opens a launch tube. A steam generator ignites the Trident II rocket motor, ejects the missile through chilled water and the first stage fires as it climbs toward space.",
+      "mots_cles": [
+        "Ohio-class submarine",
+        "Trident II",
+        "North Pole",
+        "ice breach",
+        "launch tube",
+        "steam generator",
+        "ELF communication",
+        "missile launch"
+      ],
+      "texte": "emergency flash is dispatched by the US's ELF communication system to a lurking Ohio-class submarine currently on station deep beneath the ice of the North Pole. After authenticating the order, the sub breaches through the 5-ft thick ice and the door on a single dorsally mounted launch tube props open. The [music] navigation system on the Trident II missile located inside the launch tube is activated, and a mission trajectory is automatically loaded into the flight computer. Then, a steam generator ignites a solid grain rocket motor, which feeds superheated exhaust into a tank of chilled water. The water evaporates and expands, forcing the missile within the launch tube to be launched upwards and out, after which the first stage motor ignites and the missile screams upward and towards space. [music]"
+    },
+    {
+      "id": 205,
+      "debut": 9789.32,
+      "fin": 9826.12,
+      "temps_estime": false,
+      "titre": "NATO retaliation: Russian missile base, Ekaterinburg and Novosibirsk",
+      "resume": "The Trident uses astro-inertial star guidance because GPS is unreliable after Russian attacks on satellites, and eight 475-kiloton warheads destroy the Russian missile facility that launched the Berlin attack. A British strike hits Ekaterinburg and Novosibirsk, showing NATO responded in kind and that America will stand with its allies.",
+      "mots_cles": [
+        "astro-inertial guidance",
+        "GPS unreliable",
+        "475-kiloton warheads",
+        "Russian missile facility",
+        "British strike",
+        "Ekaterinburg",
+        "Novosibirsk",
+        "NATO response"
+      ],
+      "texte": "An astro-inertial guidance system on board the missile uses star positioning to fine-tune the accuracy of its trajectory, as GPS has long been unreliable due to Russian attacks on NATO satellites. The Russians have bet wrong, and minutes later, eight 475-kiloton warheads detonate over the Russian missile facility which launched the Berlin attack. Simultaneously, a British attack strikes the cities of Ekaterinburg and Novosibirsk with a population of 1 and 1/2 million or 3 million together. NATO has responded in kind [music] to the Berlin attack, and America has both punished Russia's nuclear forces for the attack and shown that it will stand with its allies."
+    },
+    {
+      "id": 206,
+      "debut": 9826.12,
+      "fin": 9853.96,
+      "temps_estime": false,
+      "titre": "Kremlin power struggle after losing subs and ICBMs",
+      "resume": "In the Kremlin a desperate power struggle plays out as 3 million Russians are dead, a major missile facility is gone and Russia's ballistic missile submarines have been decimated, though the US lost 12 subs. Military leaders clash with civilian leaders and demand retaliation against American missile facilities.",
+      "mots_cles": [
+        "Kremlin",
+        "power struggle",
+        "3 million dead",
+        "nuclear triad",
+        "ballistic submarines",
+        "12 American subs lost",
+        "military leadership",
+        "retaliatory attack"
+      ],
+      "texte": "In the halls of the Kremlin, a desperate power struggle plays out. 3 million Russians lie dead, and the US has obliterated one of Russia's major nuclear missile [music] facilities, destroying dozens of ICBMs in place. Russian ballistic submarines, considered to be the most survivable element of the nuclear triad, have also been decimated by American attack submarines. Though the US has lost 12 subs of its own in its quest to eliminate the remaining Russian boats, military leadership clashes with the civilian leadership and demands a retaliatory attack on American missile facilities."
+    },
+    {
+      "id": 207,
+      "debut": 9853.96,
+      "fin": 9910.12,
+      "temps_estime": false,
+      "titre": "Russian coup and tactical nuclear strikes on NATO forces",
+      "resume": "Russian battlefield commanders losing ground in Poland demand release of nuclear weapons, and when denied the military stages a coup that removes the Russian president. A dozen tactical weapons are authorized and strike NATO troop concentrations in Poland, reinforcements massing around Ramstein, the Marine force staged in Japan and two carrier battle groups.",
+      "mots_cles": [
+        "Russian coup",
+        "tactical nuclear weapons",
+        "Poland",
+        "Ramstein",
+        "Marine Expeditionary Force",
+        "carrier battle groups",
+        "low-yield nuclear attacks",
+        "NATO forces"
+      ],
+      "texte": ">> [music] >> With US reinforcements in force on the western front and Russians starting to lose ground in Poland, battlefield commanders have for the last week been requesting a release on strategic nuclear weapons to use against American infantry and tanks. The fierce debate on the use of tactical weapons is reignited, and when further nuclear attacks are denied, Russian military leadership stages a stunning coup. The Russian president is removed from power, and Russian commanders receive authorization for the use of a dozen tactical weapons against NATO forces in Europe. Within a half hour, NATO troop concentrations in Poland are hammered by low-yield nuclear attacks, killing tens of thousands. American reinforcements fresh from the states in currently massing around the Ramstein military facilities in Germany are hit with three tactical devices. The Marine Expeditionary Force in the Pacific [music] staging out of Japan is also struck by a single device, as are the two naval carrier battle groups supporting the invasion. By 9:00 a.m.,"
+    },
+    {
+      "id": 208,
+      "debut": 9910.12,
+      "fin": 9957.32,
+      "temps_estime": false,
+      "titre": "US casualties and the lack of tactical nuclear options",
+      "resume": "By 9:00 a.m. American forces have suffered more casualties than in all wars since World War II combined, and NATO can no longer push Russia back in Poland. Russia kept low-yield tactical weapons, while the US has not kept an active inventory for decades, so any American retaliation with ICBMs, submarine missiles or cruise missiles would look like a full-blown attack.",
+      "mots_cles": [
+        "American casualties",
+        "tactical nuclear weapons",
+        "low-yield",
+        "retaliation options",
+        "dial-down yield",
+        "ICBMs",
+        "escalation to total war",
+        "conventional firepower"
+      ],
+      "texte": "American military forces have suffered more casualties than all wars since [music] World War II combined, and the ability for NATO to push back Russian forces in Poland [music] is eliminated. While Russia has maintained an inventory of low-yield tactical nuclear weapons to counter America's overwhelming conventional firepower advantage, the United States has not kept an active inventory of tactical devices for decades. This leaves the American president with few options for a comparable retaliatory attack. While the yields on America's airborne, submarine, and ground-launched [music] nuclear devices can be dialed down, there's no way to broadcast that fact to the Russians, and little chance they'd believe it. An attack with traditional ICBMs, submarine-launched missiles, or airborne nuclear cruise missiles will seem to Russia like a full-blown attack and risk escalating the war into a total nuclear confrontation. Yet, the"
+    },
+    {
+      "id": 209,
+      "debut": 9957.32,
+      "fin": 9993.92,
+      "temps_estime": false,
+      "titre": "The president orders a limited ICBM retaliation",
+      "resume": "Tens of thousands of American service members are dead, US forces in Europe are badly damaged, and both carrier groups and the Okinawa Marine force are combat ineffective, with four divisions reporting over 55% casualties. The president orders a retaliatory strike with ground-based ICBMs while bombers hold at their fail-safe points.",
+      "mots_cles": [
+        "Okinawa",
+        "Marine invasion force",
+        "55% casualties",
+        "retaliatory attack",
+        "ground-based ICBMs",
+        "Global Strike Command",
+        "fail-safe points",
+        "president orders"
+      ],
+      "texte": "president has little choice. Tens of thousands of American service members are dead. US forces in Europe have been badly damaged by the attacks, and both carrier battle groups supporting the Pacific invasion are reporting major losses of ships, aircraft, and personnel. [music] The Marine invasion force in Okinawa is combat ineffective. Four divisions reporting over 55% casualties each. Resigning himself to a list of terrible options, the president orders a retaliatory attack using ground-based ICBMs. The Air Force's [music] Global Strike Command nuclear bomber fleet is to approach and hold at their fail-safe points, ready to proceed to their targets should Russia retaliate again."
+    },
+    {
+      "id": 210,
+      "debut": 9993.92,
+      "fin": 10049.04,
+      "temps_estime": false,
+      "titre": "Minuteman III launch from Minot and warhead flight",
+      "resume": "At Minot Air Force Base a two-man crew authorizes a launch and a Minuteman III roars into the night, with its stages separating at 60-second intervals until it reaches space and releases three warheads. Penetration aids shower space with reflective aluminum and decoys, and with no real Russian anti-ballistic missile defense the warheads reenter unharmed.",
+      "mots_cles": [
+        "Minot Air Force Base",
+        "Minuteman III",
+        "launch crew",
+        "stage separation",
+        "penetration aids",
+        "aluminum chaff",
+        "decoys",
+        "reentry"
+      ],
+      "texte": "At Minot Air Force Base in North Dakota, a launch order is authorized by the two-man Minuteman launch crew, and a single Minuteman III missile roars into the night sky. 60 seconds later, the second stage of the missile ignites, separating from the spent first booster stage. Adjustments using the second stage thrust vector control keeps the missile on its course, and another 60 seconds later, the flight computer separates the second stage and fires the engine on the third and final stage. By now, the missile has reached space, and as the third stage engine burns out, reverse thrust separates the three warheads and their penetration aids from the launch vehicle. Some of the penetration aids explode, showering space with millions [music] of pieces of reflective aluminum, which wreak havoc on radar used by missile interceptors, while other aids simulate the real warheads and serve as dummy targets for any Russian interceptors. With no [music] real Russian anti-ballistic missile defense programs, though, the warheads and the dummies all reenter the Earth's atmosphere completely unharmed."
+    },
+    {
+      "id": 211,
+      "debut": 10049.04,
+      "fin": 10066.56,
+      "temps_estime": false,
+      "titre": "Strike on Poland and a Russian missile facility",
+      "resume": "Twenty-three minutes after launch three 475-kiloton explosions hit Eastern Europe, obliterating Russian forces in Poland with two strikes far larger than those used on NATO and hitting another Russian nuclear missile facility with the third warhead.",
+      "mots_cles": [
+        "23 minutes after launch",
+        "475-kiloton",
+        "Eastern Europe",
+        "Russian forces in Poland",
+        "nuclear missile facility",
+        "three warheads",
+        "retaliation",
+        "Poland"
+      ],
+      "texte": "23 minutes after launch, three separate 475-kiloton nuclear explosions rock Eastern Europe. Russian forces in Poland are obliterated by two nuclear strikes many times greater in magnitude than those used against NATO [music] forces, while yet another Russian nuclear missile facility is struck by the third warhead."
+    },
+    {
+      "id": 212,
+      "debut": 10066.56,
+      "fin": 10100.76,
+      "temps_estime": false,
+      "titre": "The order for a full nuclear response",
+      "resume": "With Russia's missile fields being eliminated, the final order for a full-blown response is given, as American satellites and eavesdropping assets detect Russian launch preparations. Launch officers in North Dakota, Wyoming and Montana receive the order, bombers get an emergency flash and ballistic missile subs breach the polar ice or rise below the waves.",
+      "mots_cles": [
+        "full-blown nuclear response",
+        "launch preparations",
+        "launch officers",
+        "North Dakota Wyoming Montana",
+        "emergency flash",
+        "full nuclear release",
+        "ballistic missile submarines",
+        "reconnaissance satellites"
+      ],
+      "texte": "With American weapons targeting their missile fields and systematically eliminating Russia's ability [music] to respond to nuclear attacks, the final order is given for a full-blown nuclear response. American reconnaissance satellites and electronic eavesdropping assets all pick up the telltale signs of preparatory operations for a nuclear launch across Russia's remaining missile farms. The order to attack is mirrored in the US and launch officers in North Dakota, Wyoming, and Montana receive the order to launch. Simultaneously, American airborne assets receive an emergency flash, which when authenticated authorizes the air crews to proceed to their targets with full"
+    },
+    {
+      "id": 213,
+      "debut": 10100.76,
+      "fin": 10143.08,
+      "temps_estime": false,
+      "titre": "US submarine missiles try to stop Russian launches",
+      "resume": "As Russian missiles clear their silos, American ballistic missile subs launch the first retaliatory wave at Russia's remaining missile fields, but for the most part fail to stop the launches. Secondary targets such as major bases, supply depots, staging areas and airfields are obliterated within 10 minutes of the Russian attack.",
+      "mots_cles": [
+        "Russian ICBMs",
+        "submarine-launched missiles",
+        "missile fields",
+        "first retaliatory wave",
+        "secondary targets",
+        "military bases",
+        "airfields",
+        "10 minutes"
+      ],
+      "texte": "nuclear release. American ballistic missile submarines breach through the thick polar ice or rise to 25 ft below the waves of the Pacific and the North Sea. As Russian missiles clear their silos, it's America's nuclear ballistic missile subs which launch the first wave of retaliatory attacks. Almost as fast as Russian ground forces, American submarine-launched missiles target Russia's remaining missile fields in a desperate hope to destroy them before they can finish launch operations. But for the most part, the American strikes fail to stop the launches. Secondary military targets are then struck with major Russian military bases, supply depots, troop staging areas, and airfields all being obliterated in nuclear fire within 10 minutes of the start of the Russian attack."
+    },
+    {
+      "id": 214,
+      "debut": 10143.08,
+      "fin": 10186.16,
+      "temps_estime": false,
+      "titre": "American ballistic missile defense: lasers and interceptors",
+      "resume": "As Russian ICBMs climb, America's missile defense systems, built with billions spent since the 1980s on Reagan's Star Wars concept, spring into action. Airborne lasers in Europe and the Pacific superheat a handful of missiles during ascent, and West Coast ground-based interceptors fire to destroy warheads by kinetic impact.",
+      "mots_cles": [
+        "ballistic missile defense",
+        "Star Wars",
+        "Reagan",
+        "airborne laser",
+        "ground-based interceptors",
+        "West Coast",
+        "kinetic impact",
+        "ascent phase"
+      ],
+      "texte": "As Russia's ICBMs climb into the atmosphere, a wave of American ballistic missile defense systems immediately spring into action. Having spent billions on ballistic missile defense since the 1980s, all in a bid to make Reagan's Star Wars concept a reality, America now attacks the incoming missiles with [music] a variety of tools. Airborne laser systems in Europe and flying in the Pacific manage to strike at a handful of ICBMs during their vulnerable ascent stage, superheating the missile body from hundreds of miles away with a powerful aircraft-mounted laser system. As the missiles climb into space, ballistic missile defense sites across the West Coast of the United States launch their ground-based interceptors. Using a powerful radar, the interceptors scream toward the incoming missiles in a bid to destroy them through kinetic impact before they can reenter the atmosphere."
+    },
+    {
+      "id": 215,
+      "debut": 10186.16,
+      "fin": 10223.28,
+      "temps_estime": false,
+      "titre": "Chaff, dummy warheads and only 60 interceptors",
+      "resume": "Russian missiles release billions of pieces of aluminum chaff that blind the interceptor radar, forcing a switch to visual identification. Half of the interceptors miss, a third of the successful intercepts hit dummy warheads, and the roughly 60 interceptors available are overwhelmed by hundreds of independently targeted warheads.",
+      "mots_cles": [
+        "aluminum chaff",
+        "interceptor radar",
+        "dummy warheads",
+        "interceptors miss",
+        "60 interceptors",
+        "independently targeted warheads",
+        "visual interception",
+        "missile defense failure"
+      ],
+      "texte": "The Russian missiles, however, immediately disperse their own penetration aids, and a shower of billions of pieces of aluminum chaff wreaks hell on American interceptor radar. The interceptors switch to their visual interception systems, and advanced computer programs frantically scramble to identify the incoming warheads visually, ignoring the clouds of chaff. Half of the interceptors miss their targets. The other half manage to strike, yet of the successful intercepts, a full third are of dummy warheads. To make matters worse, [music] the US only has an inventory of about 60 interceptors ready to fire, and are completely overwhelmed by an incoming horde of hundreds of independently targeted warheads."
+    },
+    {
+      "id": 216,
+      "debut": 10223.28,
+      "fin": 10280.44,
+      "temps_estime": false,
+      "titre": "Russian strikes on the West Coast and the American Midwest",
+      "resume": "Twenty-four minutes after launch, megaton strikes obliterate Los Angeles, Seattle and Portland, with follow-on strikes on the Los Angeles harbor, San Diego, Edwards and Vandenberg. Minutes later NORAD at Peterson is incinerated, Cheyenne Mountain survives two penetrating strikes, and ground bursts of 300-kiloton warheads scatter radioactive dirt over the American farm belt.",
+      "mots_cles": [
+        "West Coast strike",
+        "Los Angeles",
+        "Seattle Portland",
+        "San Diego",
+        "Peterson Air Force Base",
+        "Cheyenne Mountain",
+        "farm belt",
+        "ground bursts"
+      ],
+      "texte": "24 minutes after launch, the West Coast is the first hit. One megaton strikes against Los Angeles, Seattle, Portland, and others obliterate the most populated cities on the American West Coast. A follow-on 450 kiloton strike destroys the Los Angeles harbor area, along with tens of thousands of homes, and the naval base at San Diego. Edwards Air Force Base in the California [music] desert is struck by two 450 kiloton strikes, as is Vandenberg Air Force Base. Three minutes later, nuclear impacts strike the American Midwest. North American Aerospace Defense Command at Peterson Air Force Base is incinerated by a megaton blast, and the Cheyenne Mountain Complex is struck by two ground-penetration munitions. Though the blasts manage to do little damage to the deeply buried facility. Strikes continue to roll eastwards, and a saturation of 300 kiloton strikes decimates the American farm belt. These munitions are programmed to be ground bursts, resulting in the scattering of millions of tons of highly radioactive dirt across America's most fertile"
+    },
+    {
+      "id": 217,
+      "debut": 10280.44,
+      "fin": 10300.77,
+      "temps_estime": false,
+      "titre": "East Coast strikes and the president on the Doomsday plane",
+      "resume": "Three minutes later the East Coast is hit, with Washington and New York City each destroyed by two megaton blasts. The president, safe aboard the airborne command post nicknamed the Doomsday plane, can still manage America's remaining military and civilian forces.",
+      "mots_cles": [
+        "East Coast",
+        "Washington destroyed",
+        "New York City",
+        "megaton blasts",
+        "Doomsday plane",
+        "airborne command post",
+        "president safe",
+        "civilian forces"
+      ],
+      "texte": "farmland. Another 3 minutes later, and the East Coast is struck by the Russian ICBMs. Washington is [music] obliterated by two separate megaton blasts, as is New York City, the financial heart of America. The American president, however, is safe from the nuclear blasts. He has long ago boarded what is nicknamed the Doomsday [music] plane, an airborne command post from which he can still manage America's remaining military and civilian forces."
+    },
+    {
+      "id": 218,
+      "debut": 10300.77,
+      "fin": 10329.41,
+      "temps_estime": false,
+      "titre": "Airborne command network and the president's supercarrier",
+      "resume": "With satellite and ground communications eradicated, a fleet of Air Force planes forms a global command and control system linking surviving forces with the president. He will land at an intact airfield and be helicoptered to a surviving supercarrier to command the survivors and oversee any reconstruction from the Atlantic Ocean.",
+      "mots_cles": [
+        "command and control",
+        "Air Force planes",
+        "surviving forces",
+        "intact airfield",
+        "supercarrier",
+        "Atlantic Ocean",
+        "reconstruction",
+        "communications destroyed"
+      ],
+      "texte": ">> [music] >> With satellite and ground communications completely eradicated, a fleet of Air Force planes now makes up a global command and control [music] system linking up surviving military forces with the president. Soon, his plane will land at an intact airfield and he'll be helicoptered out to a surviving supercarrier from which he will continue to command the survivors of America's military and [music] oversee the reconstruction, if any possible, of what remains of America all from the safety of the Atlantic Ocean. Boom. Blinding"
+    },
+    {
+      "id": 219,
+      "debut": 10329.41,
+      "fin": 10374.01,
+      "temps_estime": false,
+      "titre": "One second in: blinding light and the electromagnetic pulse",
+      "resume": "Blinding light washes out the landscape, and within a second an electromagnetic pulse kills all unshielded electronics, including modern vehicles, computers, cell phones and pacemakers within a 40-mile radius. The power grid is ruined and would take years to replace.",
+      "mots_cles": [
+        "detonation",
+        "blinding light",
+        "electromagnetic pulse",
+        "unshielded electronics",
+        "power grid",
+        "vehicles",
+        "pacemakers",
+        "40-mile radius"
+      ],
+      "texte": "light washes out the landscape around you. Several things all happen within a second. >> [music] >> First, your vehicle dies as an electromagnetic pulse spreads at the speed of light killing all unshielded electronics. In [music] the civilian world, that means practically everything. If you were not blinded by the flash of the explosion, you'd see sparks dancing [music] along the high voltage wires overhead as they're overloaded with electricity. All modern vehicles that rely on [music] fancy computers and electronic gadgets that make them super are now just useless [music] hunks of junk on four wheels. Personal computers, cell phones, even pacemakers are all instantly shut down across a 40-mi radius and they'll never come back online again. The power grid is absolutely [music] ruined and will need to be completely replaced before it's ever operational again, a task that will take years."
+    },
+    {
+      "id": 220,
+      "debut": 10374.01,
+      "fin": 10413.41,
+      "temps_estime": false,
+      "titre": "The second sun: flash blindness",
+      "resume": "The airburst a mile above the city is a second sun that burns for milliseconds yet releases a billion joules, much of it visible light that sears the eyes of anyone looking toward it. People within 2 to 3 miles are blinded permanently, while those farther away are blinded for minutes or hours and many suffer some vision loss.",
+      "mots_cles": [
+        "second sun",
+        "airburst",
+        "flash blindness",
+        "visible light",
+        "billion joules",
+        "permanent blindness",
+        "2-3 mile radius",
+        "vision loss"
+      ],
+      "texte": "You're lucky that you were driving in [music] the opposite direction of the detonation point because if not, you would have been facing toward it. What's just happened about a mile above your city is the birth of a second [music] sun that burns brightly for just a few milliseconds. That's all that's needed to unleash a billion joules of [music] energy though and much of that energy is in the visible wavelength and searing the eyes of anyone who happened to be even glancing in its general direction at detonation. Those within a 2-3 [music] mi radius will be blind forever, assuming they survive what's coming next. While anyone outside of that area might be blind for a matter [music] of hours or minutes depending on the distance. Even those who avoided being permanently blinded >> [music] >> will likely suffer at least some vision loss as a result. You're safely out of"
+    },
+    {
+      "id": 221,
+      "debut": 10413.41,
+      "fin": 10440.97,
+      "temps_estime": false,
+      "titre": "Ionizing radiation: DNA destroyed within half a mile",
+      "resume": "Ionizing radiation tears through bodies near the detonation, unraveling DNA like millions of microscopic shotgun blasts that destroy the instructions for life. Most people within half a mile die immediately from radiation exposure, and the effects of radiation poisoning fall off steeply with distance.",
+      "mots_cles": [
+        "ionizing radiation",
+        "DNA damage",
+        "radiation exposure",
+        "half a mile",
+        "radiation poisoning",
+        "microscopic shotgun",
+        "immediate death",
+        "distance"
+      ],
+      "texte": "the immediate impact area, but for those who aren't, ionizing radiation tears through their bodies from the detonation. Their DNA is completely unraveled [music] as the ionizing radiation rips through them. It's like taking millions of microscopic shotgun blasts, only these pellets completely [music] disintegrate the very instructions for life. Most people within a half a mile will die immediately from the radiation exposure if what comes in [music] the next few seconds doesn't kill them, of course. Outside of that range, the effects of radiation poisoning fall off [music]"
+    },
+    {
+      "id": 222,
+      "debut": 10440.97,
+      "fin": 10503.69,
+      "temps_estime": false,
+      "titre": "Thermal radiation: burns and fires",
+      "resume": "Some 35 percent of a nuclear explosion's energy is released as heat, causing third-degree burns on anyone in the open up to 5 miles away, and shock and imminent death if burns cover 24 or 30 percent of the body. Flammable materials ignite, paint evaporates, tires burst, billboards burn, and people's clothes and hair catch fire.",
+      "mots_cles": [
+        "thermal radiation",
+        "35% of energy",
+        "third-degree burns",
+        "5 miles",
+        "second-degree burns",
+        "fires",
+        "tires burst",
+        "clothes ignite"
+      ],
+      "texte": "steeply. You were in your car, which protected you from a lot of the thermal radiation, but not all of it. Your arm was hanging out the window, and even at over 2 miles from the detonation point, your arm has suffered some pretty nasty [music] second-degree burns. You're lucky. 35% of the energy from a nuclear explosion is released as heat, [music] and anyone caught out in the open can suffer third-degree burns at a distance of up to 5 miles. >> [music] >> If third-degree burns cover 24% of the person's body, or second-degree burns cover 30% of their body, those individuals will go into serious shock, with [music] death imminent. All flammable material directly under and surrounding the blast site catch on fire [music] because of the intense heat. Even at 2 miles out, some of the paint on your car evaporates, and the car door becomes painfully hot to the touch. Tires on vehicles all around you burst as the [music] rubber softens and weakens, while billboards catch on fire. People caught out in the open are consumed in flames as their clothes ignite while they're still [music] wearing them. Some people's hair is literally seared off their heads, leaving behind painful [music] second-degree burns across their scalp. This has just been 1 second into a"
+    },
+    {
+      "id": 223,
+      "debut": 10503.69,
+      "fin": 10540.38,
+      "temps_estime": false,
+      "titre": "The pressure wave and why airbursts are the worst",
+      "resume": "An invisible tsunami of pressure radiates from the detonation point, and because an ICBM warhead explodes a few hundred meters above the city, the wave travels unimpeded by terrain and buildings. A ground impact would be less damaging because buildings and terrain absorb much of the pressure wave.",
+      "mots_cles": [
+        "pressure wave",
+        "airburst",
+        "ICBM warhead",
+        "blast wave",
+        "terrain absorption",
+        "ground impact",
+        "detonation altitude",
+        "car spins out"
+      ],
+      "texte": "nuclear detonation. Your car spins out of [music] control as the tires go flat, but you're lucky to come to an abrupt, but mostly safe stop. You've barely enough time to look into the rearview mirror before you see what's coming next. Like [music] an invisible tsunami, the pressure wave is now smashing its way across the landscape, starting from the detonation point and radiating outwards. This has been a nuclear attack using [music] an intercontinental ballistic missile, so the explosion took place a few hundred meters above the city. This [music] way, the pressure wave could expand outwards unimpeded by terrain and buildings. A ground impact is highly unfavorable, >> [music] >> as it leads to buildings or terrain features absorbing much of the pressure wave and limiting the damage"
+    },
+    {
+      "id": 224,
+      "debut": 10540.38,
+      "fin": 10593.53,
+      "temps_estime": false,
+      "titre": "Blast damage by distance from ground zero",
+      "resume": "Within a mile of the detonation destruction is complete: buildings are flattened, skyscrapers reduced to skeletal cores and sewers and subway tunnels collapse, trapping or killing hundreds. Beyond a mile, multi-story buildings are badly damaged and small buildings lose windows and roofs, and almost nobody caught in the open up to 2 miles out survives.",
+      "mots_cles": [
+        "blast damage zones",
+        "one mile",
+        "skyscrapers",
+        "tunnels collapse",
+        "windows blown out",
+        "roofs collapse",
+        "2 miles",
+        "survival in the open"
+      ],
+      "texte": "dramatically. Directly below and up [music] to a mile away from the detonation point, the destruction is complete. Buildings are flattened and tall [music] skyscrapers are annihilated, leaving behind only the very core of each building jetting up a few hundred feet like [music] a shattered skeletal figure. Plenty of sewers and service tunnels crisscross a modern city, not to mention transportation tunnels in the sub. All of these are collapsed, [music] killing hundreds stuck below or trapping them with no hope of rescue. Outside of a mile, the damage falls [music] off, but is still severe. Multiple story buildings are seriously damaged, leading to many simply collapsing in on themselves or against [music] their neighbors. Buildings with only a few stories are less severely affected, but have every single window blown out and many of their roofs collapse, killing anyone below. At least the tunnels and sewers that crisscross the city here are safe from collapse. [music] Only a few are seriously damaged. Almost no human beings up to 2 miles out survive if caught out in the open."
+    },
+    {
+      "id": 225,
+      "debut": 10593.53,
+      "fin": 10653.37,
+      "temps_estime": false,
+      "titre": "Just over two miles out: debris, deafness and the mushroom cloud",
+      "resume": "At just over 2 miles windows are blown out and some roofs and walls collapse, but buildings generally stay standing, and the narrator's car is tossed like a toy by a 300-mph wind. Hearing is temporarily lost, and five seconds after detonation a strange silence falls under the mushroom cloud before screaming starts from tens of thousands of injured.",
+      "mots_cles": [
+        "2 miles from detonation",
+        "300-mph wind",
+        "debris",
+        "hearing loss",
+        "mushroom cloud",
+        "car tossed",
+        "silence",
+        "injured"
+      ],
+      "texte": "You're just over 2 miles out from detonation, and here the damage falls off once again. [music] Windows are blown out and some roofs and walls collapse, but generally buildings remain standing. As the pressure wave catches up to you, your car is physically picked [music] up and tossed like an angry kid playing with their Hot Wheels cars. The pressure wave blows your car over and threatens to tip it, but you're too far away and your car comes crashing [music] back down onto all four wheels. Debris pelts the landscape around you, and you're mostly safe inside [music] your car. A few people standing out in the street get taken out by chunks of concrete hurled through the air by a 300-mph wind. The roar of a second sun coming [music] to life above your city has been so incredibly loud that you've temporarily lost all hearing. It'll probably return in time, but for those closer to detonation, [music] they could experience permanent or severe hearing loss. A strange silence falls over the city 5 seconds after detonation as a massive mushroom cloud slowly drifts up into the sky. Then the screaming starts. Tens of thousands of people seriously injured, tens [music]"
+    },
+    {
+      "id": 226,
+      "debut": 10653.37,
+      "fin": 10713.61,
+      "temps_estime": false,
+      "titre": "Fifteen minutes to live: how the fallout forms",
+      "resume": "The survivor is on a ticking clock because radiation penetrated the city's building materials, which the thermal flash and pressure wave pulverized into fine dust. The fireball's heat creates convection currents that suck billions of tons of radioactive dust into the mushroom cloud, which begins falling back in about 15 minutes.",
+      "mots_cles": [
+        "fallout",
+        "15 minutes",
+        "radioactive dust",
+        "mushroom cloud",
+        "convection currents",
+        "ionizing radiation",
+        "building materials",
+        "ecological disaster"
+      ],
+      "texte": "of thousands less so. You're now on a ticking clock because you've survived the initial explosion through sheer luck, but surviving what comes next is going to take skills, knowledge, and quick thinking. Tick tock. Tick [music] tock. You've got 15 minutes before you're dead. What's currently happening and what will kill even more people than the initial explosion is that an ecological disaster is in the brew and about to break out all over you and every survivor in your city. The detonation of a nuclear weapon above your city has sent ionizing radiation all over the landscape penetrating into the very building materials of the city itself. [music] The thermal flash and pressure wave pulverized all of that irradiated material and turned it into a very fine dust. Then the incredible heat reaching as much as the surface of the sun for a few milliseconds creates [music] huge convection currents that suck up gargantuan quantities of air and sends it roaring upward into the sky, hence the [music] mushroom cloud. But all that air is impregnated with billions of tons of highly radioactive dust and in approximately 15 minutes that dust is going [music] to start falling all around you. You panic"
+    },
+    {
+      "id": 227,
+      "debut": 10713.61,
+      "fin": 10750.65,
+      "temps_estime": false,
+      "titre": "Why fleeing the fallout cloud by car fails",
+      "resume": "A survivor might try to find a working vehicle and outrun the fallout, as many suburban residents are doing, but the cloud moves with upper-atmosphere winds faster than all but the fastest sports cars. Roads will be choked with other fleeing drivers, and the particles in the stem of the mushroom cloud fall back where they were picked up.",
+      "mots_cles": [
+        "outrun fallout",
+        "fleeing the city",
+        "vehicles",
+        "choked highways",
+        "upper atmosphere winds",
+        "mushroom cloud stem",
+        "fallout cloud",
+        "survival choice"
+      ],
+      "texte": "because you know what's coming, but you've got a choice to make. You could probably find a working vehicle somewhere and take that to flee the city [music] trying to outrun the fallout cloud that's about to break over your head. In fact, many people along the suburbs right now are climbing into their cars to do just that, but [music] you're smarter than that. You know that even if you found a working vehicle in the next minute you could never outrun the cloud of fallout looming overhead. It's being propelled [music] along by winds in the upper atmosphere and will outpace anything but the fastest sports car. Plus the roads and highways are inevitably going to be choked [music] up with vehicles and other people with the same idea. The particles in the stem of the mushroom cloud will [music] end up falling right back down where they were"
+    },
+    {
+      "id": 228,
+      "debut": 10750.65,
+      "fin": 10794.21,
+      "temps_estime": false,
+      "titre": "Fallout drifts for hundreds of miles, even back into Russia",
+      "resume": "Few die under the stem of the mushroom cloud since they are already dead, and the danger is the rest of the billowing cloud, whose fallout reaches the upper atmosphere and poisons communities hundreds of miles and states away. This is why Russian tactical nuclear weapons in Ukraine would backfire, since prevailing winds carry the fallout back into Russia.",
+      "mots_cles": [
+        "radioactive fallout",
+        "upper atmosphere",
+        "hundreds of miles",
+        "poisoned communities",
+        "prevailing winds",
+        "tactical nuclear weapons Ukraine",
+        "Russia",
+        "mushroom cloud"
+      ],
+      "texte": "picked up. Not many people will die from them, but that's pretty much only because anyone [music] under the growing thick black stem of a massive mushroom cloud is already dead from the initial explosion. [music] It's the rest of the billowing cloud that you have to worry about because what goes up definitely comes down. But you're not the only one in danger as [music] much of the radioactive fallout will reach the uppermost layers of the atmosphere where it will be carried along by strong winds. Massive plumes of radiation will fall for hundreds of miles from the detonation point poisoning communities entire states [music] away. This is the very reason why Russia might saber-rattle and talk tough about using tactical nuclear weapons in Ukraine, but in reality it would only be shooting itself in the foot as prevailing winds would carry much of the fallout right back into Russia itself. [music]"
+    },
+    {
+      "id": 229,
+      "debut": 10794.21,
+      "fin": 10834.65,
+      "temps_estime": false,
+      "titre": "Time, distance and shielding",
+      "resume": "Avoiding radiation poisoning comes down to time, distance and shielding: more time away lets short-lived fission byproducts decay, more distance and more barriers reduce exposure. Lacking one requires compensating with the other two, and surviving a nuclear attack means using all three.",
+      "mots_cles": [
+        "radiation poisoning",
+        "time distance shielding",
+        "fission byproducts",
+        "radioactive decay",
+        "shielding barriers",
+        "exposure",
+        "survival",
+        "nuclear attack"
+      ],
+      "texte": "To avoid dying in the next 15 minutes, you have a choice to make. Avoiding radiation poisoning is about three [music] things: time, distance, and shielding. The more time you spend away from a radiation source, the safer you'll be as the radioactive [music] decay, especially in fission byproducts of nuclear explosions, tends to make dangerous particles extremely short-lived. [music] The greater the distance between you and an unshielded radio- active source also means you'll be exposed to less radiation. Meanwhile, shielding takes into account placing barriers [music] between yourself and a radioactive source. If you can't meet the requirements of one, time, distance, or shielding, [music] then you must compensate by adding even more of the other two requirements. To survive a nuclear attack, you're going [music] to have to do all three, though. First,"
+    },
+    {
+      "id": 230,
+      "debut": 10834.65,
+      "fin": 10883.81,
+      "temps_estime": false,
+      "titre": "Worst shelter choice: staying in your car",
+      "resume": "Staying in a vehicle is the worst option but still gives some distance and shielding, since fallout is only hazardous when close to the body. All windows must be closed and vents stuffed with no cracks, because sand-sized particles fall first and finer dust follows, and a dust coating on objects reveals fallout.",
+      "mots_cles": [
+        "car shelter",
+        "close windows",
+        "seal vents",
+        "fallout particles",
+        "grains of sand",
+        "fine dust",
+        "detect fallout",
+        "vehicle shielding"
+      ],
+      "texte": "take a look around you. Your first choice, and the absolute worst, is to remain in your vehicle. This will put some shielding and distance between yourself and the fallout. The only good [music] news is that the radioactive debris about to rain down on you is only hazardous if it's extremely close to your body. So, if your car can simply physically keep it away from you, odds of survival have greatly increased. [music] You need to put all the windows up and close all the vents, stuffing them with anything that you have available. You can't let there be a single crack. The [music] first radioactive particles to fall will be the size of grains of sand or salt, and these should be easy to keep out. However, over time, the finer radioactive debris will begin to descend, [music] and this can be as small as specs of dust. In fact, you can detect the presence of radioactive fallout after a nuclear explosion [music] simply by seeing coatings of dust on objects. A car is a terrible survival choice, but it's better than nothing."
+    },
+    {
+      "id": 231,
+      "debut": 10883.81,
+      "fin": 10914.65,
+      "temps_estime": false,
+      "titre": "Better shelters: basements and the core of a building",
+      "resume": "A building basement with few entrances sealed as best as possible is better than a car, even though fine debris settles in low places. Because basements are rare in cities like Southern California, the next best option is to shelter in the center of a home or building, adding distance and shielding from fallout.",
+      "mots_cles": [
+        "basement shelter",
+        "few entrances",
+        "seal entrances",
+        "center of building",
+        "shelter in place",
+        "SoCal",
+        "distance and shielding",
+        "fine debris"
+      ],
+      "texte": "However, an even better choice [music] is sheltering inside a building with a basement if possible. Basements might not seem like the best choice since [music] so much of the fine debris is going to settle in low places, but the key is to choose a basement with as few entrances as possible, and then to seal those entrances [music] as best you can. However, in many modern cities, especially in sunny SoCal, basements are rare. In that case, you want to move to the centermost area of a home or a building and shelter [music] in place there. Staying at the core of a building will add distance and shielding between yourself and the harmful fallout. But,"
+    },
+    {
+      "id": 232,
+      "debut": 10914.65,
+      "fin": 10946.01,
+      "temps_estime": false,
+      "titre": "Sealing the shelter with duct tape",
+      "resume": "Before the dust falls, seal all windows and doors with duct tape, since even closed windows leak and finer particles ride in on air currents. The shelter should be as far from windows as possible, ideally past several closed doors.",
+      "mots_cles": [
+        "duct tape",
+        "seal windows and doors",
+        "leaky windows",
+        "air currents",
+        "fine particles",
+        "shelter location",
+        "closed doors",
+        "securing the shelter"
+      ],
+      "texte": "if you're going to survive, you're going to have to take [music] some precautions before the radioactive dust starts falling. Hopefully, you've got duct tape available nearby, in which case you need to immediately seal [music] all windows and doors with duct tape. A closed window will be fine to protect you from the initial [music] larger grains of debris that falls down first, but every window is leaky, and the finer particles will ride in on those [music] air currents, potentially poisoning you inside your shelter. This is why it's important to seal windows and doors with [music] tape, and to make your shelter as far away from any window as possible, ideally past several closed doors. Your"
+    },
+    {
+      "id": 233,
+      "debut": 10946.01,
+      "fin": 10989.89,
+      "temps_estime": false,
+      "titre": "Strip off contaminated clothing and bag it",
+      "resume": "Survivors who were outside have likely contaminated their clothes with radioactive debris, so they must remove all outer garments, seal them in a plastic bag, put that inside a second bag and store it far away, telling everyone where it is. Taking this step avoids a nasty death by radiation poisoning.",
+      "mots_cles": [
+        "contaminated clothing",
+        "remove outer garments",
+        "plastic bag",
+        "double bag",
+        "radioactive particles",
+        "radiation poisoning",
+        "outdoor exposure",
+        "containment"
+      ],
+      "texte": "first priority is securing your shelter, and luckily, you found an intact office building to hide inside along [music] with a few other survivors. Working quickly, you seal off all exterior windows, and then taped up the doors leading to the inner core. But, now that you're somewhat safe, it's time to get naked. No, you're not repopulating the Earth already, [music] you're avoiding a very nasty death by radiation poisoning. If you were outside at the time of detonation, there's a serious risk that you've [music] already contaminated your clothing with radioactive particle debris. That's why any of you who were outside when the bomb went off need to immediately [music] remove all outer garments, and put them in a plastic bag of some kind, then seal the bag off. If possible, put that [music] first bag inside a second plastic bag, and store it somewhere far away from you, and make sure everyone is aware of its location."
+    },
+    {
+      "id": 234,
+      "debut": 10989.89,
+      "fin": 11044.49,
+      "temps_estime": false,
+      "titre": "Decontamination: wiping down and avoiding internal contamination",
+      "resume": "Survivors should wipe each other down using a buddy system, with soap and water or simply a clean cloth, to remove exterior contamination before it damages skin. The wiping material goes into another containment bag that is never reopened, and the next threat is interior contamination from fine debris in wounds, lungs or the esophagus.",
+      "mots_cles": [
+        "decontamination",
+        "buddy system",
+        "soap and water",
+        "exterior contamination",
+        "containment bag",
+        "interior contamination",
+        "wounds",
+        "lungs"
+      ],
+      "texte": "You're also going to immediately want to start wiping everyone down. This means [music] using the buddy system to get in those hard-to-reach spots that you can't get by yourself. You're going to be stuck with your new friends for a while, [music] so what better ice breaker than to get naked and give each other a quick wipe down. You need to remove all exterior contamination from your body, so that it doesn't rest against your skin [music] and damage your body with ionizing radiation. You can do this with simple soap and water to scrub away any grime, [music] but even just brushing off with a clean cloth is enough. Afterwards, though, anything that you used to clean each other off with is going to have to go into another [music] containment bag. Never reuse or reopen an old containment bag already full of contaminated material. Now that you've avoided the [music] most imminent hazard, exterior contamination, your next greatest threat, and one that will persist for a while, is interior [music] contamination. This will come from the finer radioactive debris that can get inside wounds or be breathed in and settle into your lungs >> [music] >> or along your esophagus. Inside your"
+    },
+    {
+      "id": 235,
+      "debut": 11044.49,
+      "fin": 11102.09,
+      "temps_estime": false,
+      "titre": "Shelter in place: decay rate, 72 hours and the CDC's 7 days",
+      "resume": "Inside the shelter, adding time to distance and shielding gives good odds, since fallout gives off 80 percent of its energy in the first day and dose rates drop tenfold for every sevenfold increase in time. Staying 72 hours is ideal, but the CDC recommends waiting a full 7 days because a ruined city will keep the survivor in constant contact with debris.",
+      "mots_cles": [
+        "shelter in place",
+        "fallout decay",
+        "80% first day",
+        "seven-ten rule",
+        "72 hours",
+        "CDC",
+        "7 days",
+        "radioactive debris"
+      ],
+      "texte": "shelter, your odds of survival are good, but only if you stay in place. You've created distance and shielding, but now you need [music] to add time to the equation. Fallout contamination decays very quickly, with it giving off 80% of its [music] energy in the very first day. However, the debris is still energetic enough to be deadly even after one day. For every sevenfold [music] factor of time, dose rates decreases by a factor of 10. 2 hours after detonation, the fallout will have lost half its energy, [music] but this can still be extremely deadly. Ideally, you'll want to shelter in place for a full 72 hours [music] before leaving your shelter, at which rate remaining radioactive debris will still be harmful, but only if you remain in contact with it for long amounts of time. [music] Unfortunately, your city is going to be a hell-blasted nuclear landscape after an attack, [music] so you'll be in constant contact with radioactive debris even after 3 days. That's why the CDC [music] recommends you wait a full 7 days before leaving your shelter, as this will give you the best survival rates. By that time, radioactive fallout will have a [music] fraction of its original energy and be much less"
+    },
+    {
+      "id": 236,
+      "debut": 11102.09,
+      "fin": 11139.21,
+      "temps_estime": false,
+      "titre": "Leaving the shelter: protect against inhaling fallout",
+      "resume": "After a week external contamination is unlikely to be a serious threat, but debris lodged in wounds or lungs can still be deadly or cause long-term health risks. Surgical masks are not ideal, so survivors should wrap a wet t-shirt or cloth over both nose and mouth, keeping it wet so moisture traps fine particles.",
+      "mots_cles": [
+        "internal contamination",
+        "leaving shelter",
+        "wet cloth",
+        "face mask",
+        "coronavirus masks",
+        "fine radioactive particles",
+        "nose and mouth",
+        "long-term health risks"
+      ],
+      "texte": "dangerous. At this point, external contamination is unlikely to be a serious [music] threat anymore, but the biggest threat comes from internal contamination. Too weak to penetrate [music] the skin at this point, radioactive debris that gets lodged into wounds or inside your lungs can still be deadly or pose serious [music] long-term health risks. So, when you leave your shelter, you want to take cautions against breathing in fine radioactive particles. Face masks [music] like the type we've been wearing due to the coronavirus outbreak are okay, but not great for this. You'd be better off wetting a t-shirt or other large cloth and wrapping it over your mouth and nose. It's important to keep it wet, as the [music] moisture will attract fine particles and trap them, and important to cover both your nose and mouth."
     }
   ]
 }
