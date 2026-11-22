@@ -1,0 +1,835 @@
+{
+  "version": 1,
+  "video_id": "jbNtXEPs7a4",
+  "titre_video": "How Nazi Regime Finally Collapsed",
+  "duree_s": 2384.25,
+  "avancement": {
+    "lignes_traitees": 374,
+    "fin_traitee_s": 1794.64,
+    "nb_lignes_total": 496,
+    "complet": false
+  },
+  "nb_segments": 44,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.08,
+      "fin": 31.52,
+      "temps_estime": false,
+      "titre": "Oxen towing jets: the myth of Nazi efficiency",
+      "resume": "By the end of WWII the Luftwaffe was reduced to using oxen to tow Me-262 jet fighters. The Nazi regime is often imagined as the peak of industrial efficiency, but it was crippled by bureaucracy, shortages and Hitler overruling his own experts as fuel, transport and supplies ran out.",
+      "mots_cles": [
+        "Nazi Germany",
+        "Luftwaffe",
+        "Me-262",
+        "oxen",
+        "propaganda",
+        "bureaucracy",
+        "shortages",
+        "Hitler"
+      ],
+      "texte": "By the end of World War II, the most advanced air force on Earth was reduced to using teams of oxen to tow Me-262 jet fighters to the runway. People often imagine the Nazi regime as the pinnacle of industrial efficiency. But behind the propaganda was a system crippled by bureaucracy, chronic shortages, and desperate decisions. Germany had world-class engineers, yet Hitler repeatedly overruled his own experts as fuel, transport, and supplies ran out. Germany looked unstoppable… until the Allies exposed its fatal weaknesses."
+    },
+    {
+      "id": 2,
+      "debut": 31.52,
+      "fin": 73.2,
+      "temps_estime": false,
+      "titre": "Speer sees oxen pulling trucks in Italy",
+      "resume": "In October 1944 Armaments Minister Albert Speer visited an airfield near the Po River in Italy and saw advanced planes pulled by cows and horses, and a column of 150 trucks pulled by oxen. The cause was the oil shortage, which was losing Germany the war on both the Western and Eastern fronts.",
+      "mots_cles": [
+        "Albert Speer",
+        "Po River",
+        "Italy",
+        "oxen",
+        "oil shortage",
+        "fuel",
+        "Army Group Centre",
+        "Red Army"
+      ],
+      "texte": "In October 1944, Adolf Hitler’s Minister of Armaments and War Production, Albert Speer, visited a airfield near the Po River in Italy. He could barely believe what he was seeing. Some of Germany’s most advanced planes were being pulled down the runway by cows and horses. The problem was oil. Or the lack of it. Speer later wrote he saw a colon of 150 trucks, with 4 oxen hitched to each one. It was clear evidence of how an oil shortage was losing Germany the war. On the Western Front, German army groups were being obliterated by Allied attacks because they didn’t have enough fuel to move. In the east, the situation was even worse. The Red Army had shattered Army Group Centre and was driving the surviving German forces back toward the Reich."
+    },
+    {
+      "id": 3,
+      "debut": 73.2,
+      "fin": 118.96,
+      "temps_estime": false,
+      "titre": "The Allied Oil Campaign",
+      "resume": "Allied bombers pounded Germany's synthetic fuel plants month after month, cutting output to about 21% of normal. Fuel use was restricted by threat of court-martial, and finished weapons sat idle because they had no fuel.",
+      "mots_cles": [
+        "Allied Oil Campaign",
+        "bombing",
+        "synthetic fuel plants",
+        "fuel shortage",
+        "court-martial",
+        "21% output",
+        "German war machine"
+      ],
+      "texte": "One of the main reasons was the Allied Oil Campaign. Month after month, thousands of Allied bombers pounded Germany's synthetic fuel plants. Tens of thousands of tons of bombs were dropped, starving the Reich of the fuel it needed to fight. Things became so desperate that in November, the order came down -- “Anyone using fuel for purposes other than the immediate conduct of operations will be considered a saboteur and court-martialed without mercy.” During this time, production levels were floundering at about 21% of their regular output. Future historians would call it a gradual but “fatal decline.” The once-formidable Germany war machine had been rendered a hopeless cripple. The Reich’s weapons continued to fly off assembly lines, but the finished products, the machines that had once gripped the whole of Europe in fear, were sitting idle."
+    },
+    {
+      "id": 4,
+      "debut": 118.96,
+      "fin": 154.4,
+      "temps_estime": false,
+      "titre": "Me 262 jets dragged by animals and poorly trained pilots",
+      "resume": "The Me 262, the first operational jet fighter, was dragged around airfields by farm animals, an ugly image for a regime proud of its technology. About 1,400 Me 262s were built by October 1944 but fuel shortages left pilots badly trained, so more aircraft were lost in accidents than in combat.",
+      "mots_cles": [
+        "Messerschmitt Me 262",
+        "jet fighter",
+        "Luftwaffe",
+        "pilot training",
+        "accidents",
+        "fuel shortage",
+        "Hitler"
+      ],
+      "texte": "One of the most advanced aircraft of the war — the Messerschmitt Me 262, the world's first operational jet fighter — was being dragged around a German airfield by a farm animal. Hitler would be seething. For a regime that prided itself on its technological prowess, the optics were ugly. Germany, the self-proclaimed superpower of the future, looked as though it had slipped back into the Dark Ages. In October that year, the Germans built around 1,400 ME 262s and placed them operation squadrons but with such severe fuel shortages, the pilots were badly trained. More aircraft were lost in accidents than were shot down in combat."
+    },
+    {
+      "id": 5,
+      "debut": 154.4,
+      "fin": 183.92,
+      "temps_estime": false,
+      "titre": "Galland on the fatal blow to the Luftwaffe",
+      "resume": "It took the Allies five years to find Germany's pressure point and they underestimated its dependence on oil plants. General Adolf Galland said the attack on fuel supply was the fatal blow for the Luftwaffe, which was the first branch of the military crippled by shortages.",
+      "mots_cles": [
+        "Adolf Galland",
+        "Luftwaffe",
+        "fuel supply",
+        "oil plants",
+        "Allied bombing",
+        "fatal blow",
+        "fuel shortage"
+      ],
+      "texte": "It took 5 years of war for the Allies to figure out Germany’s pressure point. They severely underestimated how dependent Germany had become on its oil plants. Flying ace General Adolf Galland later admitted: “The most successful operation… was against the German fuel supply. This was… the fatal blow for the Luftwaffe!” Galland could never understand why the Allies had not concentrated on it sooner. The fuel shortage, he said, was “unbearable.” The Luftwaffe was the first branch of the German military to be crippled by it. The rest would follow."
+    },
+    {
+      "id": 6,
+      "debut": 183.92,
+      "fin": 246.8,
+      "temps_estime": false,
+      "titre": "Synthetic fuel from coal and IG Farben",
+      "resume": "By 1944 about 90% of German aviation fuel and over half of its petroleum products came from synthetic fuel plants, which produced 5 to 6 million tons a year. Because Germany lacked oil fields, companies such as IG Farben turned coal into gasoline, diesel, lubricants and aviation fuel, a technology Hitler expanded after 1933 for self-sufficiency.",
+      "mots_cles": [
+        "synthetic fuel",
+        "coal",
+        "IG Farben",
+        "aviation fuel",
+        "self-sufficiency",
+        "gasoline",
+        "diesel",
+        "1933"
+      ],
+      "texte": "But something else was wrecking Germany’s war effort and it was far from the burning oil plants at home. By 1944, around 90% of Germany's aviation fuel and more than half of its total petroleum products came from synthetic fuel plants. It was those plants that Allied bombers had been dropping bombs on. Prior to the devastating raids, the plants had produced around 5 to 6 million tons of fuel each year. Without them, Germany could never have waged war on the scale that it did. It didn't have much natural petroleum but what it did have was… coal. Unlike Britain, the US and the Soviet Union, which all had access to large domestic oil fields or reliable overseas supplies, Germany’s coal was pivotal to its war effort. It was coal that could be transformed into synthetic liquid fuel. Companies such as IG Farben converted it into gasoline, diesel, lubricants and aviation fuel. The technology had been developed before Hitler came to power, but after 1933 his government invested heavily in expanding it as part of its drive towards economic self-sufficiency. For Hitler, this was his ticket to expansion."
+    },
+    {
+      "id": 7,
+      "debut": 246.8,
+      "fin": 307.2,
+      "temps_estime": false,
+      "titre": "Conquest for resources: why Hitler needed the East",
+      "resume": "Synthetic fuel could sustain rearmament but not a huge global war, so Germany had to conquer resource-rich territory such as the Soviet Union's grain, coal, iron ore and Caucasus oil. Hitler annexed Austria, occupied Czechoslovakia and invaded Poland; General Georg Thomas estimated war would need about 3 million tons of oil a year.",
+      "mots_cles": [
+        "Caucasus oil",
+        "Soviet Union",
+        "Georg Thomas",
+        "Austria",
+        "Czechoslovakia",
+        "Poland",
+        "resources",
+        "economic self-sufficiency"
+      ],
+      "texte": "He was planning to head out East. Beyond the borders of Poland lay the vast natural resources of the Soviet Union: grain from Ukraine, massive coal reserves, iron ore and the oil fields of the Caucasus. Germany's synthetic fuel industry could sustain rearmament, but it could never fully meet the demands of a huge global conflict. So, to become economically self-sufficient, Germany had to conquer resource-rich territory. Hitler first annexed Austria and occupied Czechoslovakia, which brought valuable industry, raw materials and manpower. Poland would bring more, but that eventually triggered war with Britain and France. General Georg Thomas, responsible for Germany's war economy, estimated that such a conflict would require around 3 million tons of oil every year to satisfy both military and civilian demand. Wars are won as much by resources as by battles. Without oil, steel, coal, or food, major conflicts can’t be sustained for long. That’s why today, countries still fight over resources even if they don’t always admit it. Hitler was no different."
+    },
+    {
+      "id": 8,
+      "debut": 307.2,
+      "fin": 350.88,
+      "temps_estime": false,
+      "titre": "Fuel in the Battle of Britain: coal versus American oil",
+      "resume": "U-boats ran on diesel and German aircraft in the Battle of Britain depended on high-octane fuel made from coal. British Spitfires and Hurricanes flew on 100-octane fuel imported from the US, a better fuel than Germany's synthetic product.",
+      "mots_cles": [
+        "Battle of Britain",
+        "U-boats",
+        "Spitfire",
+        "Hurricane",
+        "100-octane",
+        "aviation fuel",
+        "Churchill",
+        "synthetic oil"
+      ],
+      "texte": "In the Atlantic, the machines the British leader, Winston Churchill, said he feared most — the dreaded U-boats — ran on diesel fuel. Beneath the waves they switched to electric motors powered by batteries, but they could only be recharged by diesel engines on the surface. During the Battle of Britain, Germany committed around 2,500 bombers and 1,500 fighters. Every aircraft depended on high-octane aviation fuel that could only be made with coal. Britain actually had an edge on Germany because its Mark II Spitfires. The new “work-horses”, the Hurricanes, ran on 100-octane aviation fuel imported from the US, which was a more high-performance fuel than Germany’s synthetic oil. Britain's fighters flew on American oil. Germany’s effectively flew on coal."
+    },
+    {
+      "id": 9,
+      "debut": 350.88,
+      "fin": 391.76,
+      "temps_estime": false,
+      "titre": "Coal-hungry armored forces and the vulnerability of self-sufficiency",
+      "resume": "Germany produced 26,000 to 45,000 tanks and huge numbers of other vehicles, which depended on petrol and diesel beyond the railheads, and on petroleum products to build. For much of the war Germany was self-sufficient, but that self-sufficiency became a vulnerability.",
+      "mots_cles": [
+        "tanks",
+        "trucks",
+        "railways",
+        "steam locomotives",
+        "petroleum products",
+        "synthetic rubber",
+        "self-sufficiency",
+        "vulnerability"
+      ],
+      "texte": "Then there were Germany's coal-hungry armored forces. During the war the country produced between 26,000 and 45,000 tanks, along with hundreds of thousands of trucks, half-tracks, motorcycles and other military vehicles. Railways carried much of the army's supplies using coal-fired steam locomotives. But once soldiers, fuel and ammunition left the railway, they depended on petrol and diesel to reach the front. Even building those machines required vast quantities of petroleum products, from lubricants and hydraulic fluids to synthetic rubber and industrial chemicals. But for much of the war, Germany could meet the demand. It really was self-sufficient. Tthen it all went wrong. Self-sufficiency came vulnerability."
+    },
+    {
+      "id": 10,
+      "debut": 391.76,
+      "fin": 446.96,
+      "temps_estime": false,
+      "titre": "Synthetic fuel output collapses in 1944",
+      "resume": "Synthetic plants produced about 316,000 tons in April 1944, 107,000 in June and just 17,000 in September as the Allied oil offensive systematically dismantled the industry. Speer pleaded for fighters and anti-aircraft guns, but the fuel collapse was only one reason the war was unwinnable in 1944.",
+      "mots_cles": [
+        "synthetic fuel production",
+        "April 1944",
+        "September 1944",
+        "Allied oil offensive",
+        "Albert Speer",
+        "anti-aircraft",
+        "retreat",
+        "Soviet Union"
+      ],
+      "texte": "In April 1944, Germany’s synthetic plants produced around 316,000 tons of fuel. It was enough to keep the system functioning. Then the Allied oil offensive kicked off. By June, production had fallen to around 107,000 tons. By September, it was down to just 17,000. The figures varied from month to month as damaged plants were repaired and bombed again. But the overall outlook was grim. Germany’s artificial oil industry was being systematically dismantled. Albert Speer pleaded for more fighters and anti-aircraft guns to protect the plants. Without them, Germany could still build tanks and aircraft, but if there wasn’t enough fuel, then the shiny new vehicles were useless. Of course, this collapsing fuel supply wasn’t the only reason the war had become unwinnable. Bad news was everywhere for the Nazis in ‘44. German armies were retreating in the Soviet Union. The Western Allies had established themselves in France. Germany’s cities and industries were being hammered from the air."
+    },
+    {
+      "id": 11,
+      "debut": 446.96,
+      "fin": 488.24,
+      "temps_estime": false,
+      "titre": "The July 20th plot against Hitler",
+      "resume": "A group of senior officers and civilians concluded that Hitler, detached from reality and stubborn, was leading Germany to total destruction. On July 20th, 1944 they tried to assassinate him and came close, but he survived and many conspirators were shot, though their assessment of Germany's position was correct.",
+      "mots_cles": [
+        "July 20 plot",
+        "assassination attempt",
+        "Hitler",
+        "conspirators",
+        "1944",
+        "firing squad",
+        "resistance",
+        "officers"
+      ],
+      "texte": "That’s why a group of senior officers and civilian conspirators decided that Hitler was leading the country towards total destruction. The man was detached from reality, and stubborn. He was obsessed with destiny, but often overlooked the hard facts. Some of those conspirators had opposed him for years. Some were against the horrific mass killings of Jews, Slavs, and civilians. Now time was running out. Germany was on the brink. So, on July 20th, 1944, they did the previously unthinkable. They tried to assassinate him. They came close, too. But Hitler survived. Many of the conspirators were soon staring down the barrels of a firing squad. Their attempt might have failed, but their assessment of Germany’s position was spot on."
+    },
+    {
+      "id": 12,
+      "debut": 488.24,
+      "fin": 541.84,
+      "temps_estime": false,
+      "titre": "Vistula–Oder Offensive and the loss of Upper Silesia",
+      "resume": "On January 12th, 1945 the Red Army launched the Vistula–Oder Offensive and Konev's 1st Ukrainian Front reached Upper Silesia, a key coal-mining and industrial region. Its mines supplied almost a quarter of Germany's coal, 81% of its zinc and 34% of its lead, and losing it deprived the Reich of resources and factories.",
+      "mots_cles": [
+        "Vistula–Oder Offensive",
+        "Ivan Konev",
+        "Upper Silesia",
+        "coal",
+        "zinc",
+        "industrial region",
+        "Red Army",
+        "January 1945"
+      ],
+      "texte": "6 months later, the Reich lost another foundation of its remaining power. On January 12th, 1945, the Red Army launched the Vistula–Oder Offensive. Soviet forces tore through the German front and advanced hundreds of miles in a matter of weeks. Just one week later, Marshal Ivan Konev’s 1st Ukrainian Front reached the approaches to Upper Silesia, one of Germany’s most important coal-mining and industrial regions. Given the importance of the region, the Germans had prepared defensive positions and committed substantial forces to protecting it. The mines were responsible for almost a quarter of Germany's annual output of coal, 81% of its zinc and 34% of its lead. The coke works, steel mills and metal-processing plants were some of the last major industrial assets feeding Germany’s collapsing war economy. Losing them would deprive the Reich not only of valuable resources, but the factories that turned those resources into weapons. All of it was lost."
+    },
+    {
+      "id": 13,
+      "debut": 541.84,
+      "fin": 568.16,
+      "temps_estime": false,
+      "titre": "Scorched earth and Soviet violence against Germans in Silesia",
+      "resume": "The Germans failed to complete their scorched earth policy in the region. For local Germans the Soviet advance was not liberation: in Miechowice about 380 people were massacred, and looting, sexual violence, deportations and killings followed in other German areas.",
+      "mots_cles": [
+        "scorched earth",
+        "Silesia",
+        "Miechowice",
+        "Bytom",
+        "Soviet atrocities",
+        "sexual violence",
+        "deportations",
+        "Red Army"
+      ],
+      "texte": "The Germans didn’t even manage to complete their scorched Earth policy and blow up all the facilities. It was also bad news for the Germans who lived in that region. Polish sources state that since the Soviets considered the region German, not Polish, this wasn’t liberation. In Miechowice, a district of Bytom, the Soviets massacred about 380 people. Looting, sexual violence, deportations and more killings followed in other German areas. It was a brutal advance."
+    },
+    {
+      "id": 14,
+      "debut": 568.16,
+      "fin": 595.36,
+      "temps_estime": false,
+      "titre": "The Red Army reaches Auschwitz",
+      "resume": "In Upper Silesia the Red Army reached Auschwitz. Although the SS had evacuated tens of thousands of prisoners and destroyed parts of the camp, the Soviets found gas chambers, crematoria, warehouses of victims' belongings and emaciated prisoners including Primo Levi.",
+      "mots_cles": [
+        "Auschwitz",
+        "liberation",
+        "Primo Levi",
+        "gas chambers",
+        "SS",
+        "Holocaust",
+        "Red Army",
+        "concentration camp"
+      ],
+      "texte": "Yet it was here, in Upper Silesia, that the Red Army reached Auschwitz. The SS had tried to erase the evidence by evacuating tens of thousands of prisoners and destroying parts of the camp. Even so, the Soviets found gas chambers and crematoria, warehouses filled with victims' belongings, and thousands of prisoners so emaciated they looked like the living dead. One of them was Primo Levi, too ill to be evacuated. He would go on to tell the world what had happened there."
+    },
+    {
+      "id": 15,
+      "debut": 595.36,
+      "fin": 637.04,
+      "temps_estime": false,
+      "titre": "Upper Silesian Offensive and the loss of Polish oil",
+      "resume": "Konev's Upper Silesian Offensive with over 400,000 troops cost Germany almost all access to the region's coal and metals by the end of March 1945. Germany also lost the Polish oil fields, which yielded only about 3,000 barrels a day for Germany, as the Red Army moved west.",
+      "mots_cles": [
+        "Upper Silesian Offensive",
+        "Konev",
+        "March 1945",
+        "Polish oil fields",
+        "barrels",
+        "Romania",
+        "Caucasus",
+        "industrial centers"
+      ],
+      "texte": "In March, Konev launched a separate Upper Silesian Offensive involving more than 400,000 Soviet troops. By the end of month, Germany had lost almost all practical access to the region whose coal and metals had helped sustain its war machine. Poland had oil reserves, too. At the start of the war, it was producing about 10,500 barrels a day. Because the Soviets had split Poland with Germany, Germany would only gain about 3,000 barrels after it took control of the wells. It wasn’t much compared with the oil of Romania or the Caucasus, but every barrel mattered in a total war. As the Red Army advanced westward in 1945, Germany lost those fields as well. As one vital industrial center after another was left in flames or taken whole,"
+    },
+    {
+      "id": 16,
+      "debut": 637.04,
+      "fin": 704.16,
+      "temps_estime": false,
+      "titre": "The Panther tank at Kursk",
+      "resume": "The Panther, a formidable tank that made Hitler proud, arrived as Germany was losing the fuel to run it. About 200 Panthers made their debut at Kursk, the largest tank battle in history, where Germany committed 2,500 to 3,000 tanks, about 70% of its usable arsenal, against the Soviet T-34.",
+      "mots_cles": [
+        "Panther tank",
+        "Battle of Kursk",
+        "Tiger",
+        "Panzer IV",
+        "T-34",
+        "Operation Citadel",
+        "tank battle",
+        "Hitler"
+      ],
+      "texte": "Germany had another problem. A serious tank problem. Germany had created one of the most formidable killing machines in the Panther. It was a machine that made Hitler proud. Unfortunately, it arrived just as Germany was beginning to lose the fuel needed to run it. After rolling off the production line in 1943, the Panther made its combat debut at the Battle of Kursk. Around 200 were committed to the offensive, reportedly accounting for about 10% percent of Germany's armored force taking part. Often described as the largest tank battle in history, Kursk saw around 2.8 million soldiers and thousands of tanks thrown into combat. Germany committed 2,500 to 3,000, about 70% of its total usable arsenal. That required a lot of fuel. Hitler desperately needed a victory. Not just to regain the initiative, but to convince the public, and maybe himself, the war was still winnable. The Panther fought alongside the fearsome Tiger and the Panzer IV, still the backbone of Germany's armored forces. Waiting for them was the Soviet workhorse, the T-34. On paper, the Panther was the superior fighting machine to them all. In reality, there was one really big problem."
+    },
+    {
+      "id": 17,
+      "debut": 704.16,
+      "fin": 740.24,
+      "temps_estime": false,
+      "titre": "The Panther's mechanical failures",
+      "resume": "The Panthers kept breaking down: engines overheated, bearings and transmissions failed, and leaks sometimes caused fires. When they worked they were devastating, but more were lost to mechanical failure than to Soviet fire, and fuel problems persisted.",
+      "mots_cles": [
+        "Panther",
+        "mechanical failure",
+        "engine overheating",
+        "transmission",
+        "fires",
+        "Kursk",
+        "breakdowns",
+        "fuel"
+      ],
+      "texte": "It didn’t work. They kept breaking down. The engines overheated. Bearings failed. Transmissions gave out. Fuel and oil leaks sometimes sparked fires in the engine compartment, turning the tank into a death trap for its crew. But when they did work, they were devastating. Some accounts credit the Panthers with destroying hundreds of Soviet tanks during the battle while suffering comparatively few losses in direct tank-versus-tank combat. But the Panthers greatest enemy was itself. More were lost to mechanical failure than to Soviet fire. They were recalled but the issues remained in one form or another. And again, there was an issue with fuel."
+    },
+    {
+      "id": 18,
+      "debut": 740.24,
+      "fin": 773.68,
+      "temps_estime": false,
+      "titre": "Fuel shortages and Panther losses during Operation Citadel",
+      "resume": "Colonel Helmut Ritgen of Panzer Lehr wrote that crews training for Operation Citadel were forbidden to exercise with their tanks for lack of fuel. German documents show 184 Panthers operational on July 5th but only 10 four days later, with 25 written off and 100 needing repair.",
+      "mots_cles": [
+        "Helmut Ritgen",
+        "Panzer Lehr",
+        "Operation Citadel",
+        "Panther losses",
+        "fuel shortage",
+        "training",
+        "July 5",
+        "write-offs"
+      ],
+      "texte": "In his memoir, Colonel Helmut Ritgen of the Panzer Lehr Division explained that quote, “during the war, we actually used every free minute of the day to train the men.” But when the men were training for Kursk, known as Operation Citadel, they “were forbidden to exercise” with their tanks because there wasn’t enough fuel. German documents show that on July 5th, Operation Citadel had 184 Panthers in operation. Four days later, there were only 10 remaining. 25 Panthers had been lost as total write-offs and 100 were in desperate need of repair either through hits or mechanical failures."
+    },
+    {
+      "id": 19,
+      "debut": 773.68,
+      "fin": 796.48,
+      "temps_estime": false,
+      "titre": "Tiger losses and abandoned tanks",
+      "resume": "Research shows only 40% of nearly 1,700 Tiger I and Tiger II losses were combat losses. Fuel shortages made things worse but were only part of the collapse; many tanks were abandoned in the mud or blown up by their crews to avoid capture.",
+      "mots_cles": [
+        "Tiger I",
+        "Tiger II",
+        "non-combat losses",
+        "abandoned tanks",
+        "demolition charges",
+        "mud",
+        "fuel shortage"
+      ],
+      "texte": "It wasn’t just the Panthers that suffered. Research shows that out of nearly 1,700 Tiger I and Tiger II losses, only 40% were listed as combat losses. Fuel shortages made everything worse, but they were only one part of the collapse. Many of the tanks were just left there, in the mud. Crews abandoned them or placed demolition charges inside the fighting compartment so that they couldn’t be captured intact."
+    },
+    {
+      "id": 20,
+      "debut": 796.48,
+      "fin": 828.8,
+      "temps_estime": false,
+      "titre": "The cost of Tigers and Panthers",
+      "resume": "The Tiger I may have taken 200,000 man-hours and cost about $100,000, nearly $2 million today, and the Tiger II almost three times as much. The Panther needed around 93,600 man-hours and cost less than half a Tiger, but tanks dumped in the mud wasted steel, labor and scarce resources Germany could not afford.",
+      "mots_cles": [
+        "Tiger I cost",
+        "Tiger II",
+        "Panther",
+        "man-hours",
+        "cost",
+        "steel",
+        "labor",
+        "waste of resources"
+      ],
+      "texte": "Modern reports say the Tiger I might have taken 200,000 man-hours to build and cost in the region of $100,000, maybe more. That’s almost $2 million today, and the Tiger II was almost 3 times as much. The Panther might have taken 93,600 man-hours to build and cost less than half of the Tiger I. That was good for the Germans, but all those dumped in the mud had taken an enormous investment of steel, labour and scarce resources. Germany wasn’t in a financial position to lose these machines. It needed every last penny it"
+    },
+    {
+      "id": 21,
+      "debut": 828.8,
+      "fin": 870.64,
+      "temps_estime": false,
+      "titre": "Allied disbelief and the first V-2 strike on Chiswick",
+      "resume": "Germany was building one of the century's most advanced weapons, a rocket able to hit England from Germany, and Churchill's scientific adviser Lord Cherwell dismissed it as impossible. On September 8th, 1944 a V-2 exploded on Staveley Road in Chiswick, London, killing a toddler, an elderly woman and a Royal Engineers soldier.",
+      "mots_cles": [
+        "V-2 rocket",
+        "Lord Cherwell",
+        "Chiswick",
+        "Staveley Road",
+        "September 1944",
+        "London",
+        "Churchill",
+        "wonder weapon"
+      ],
+      "texte": "could muster. It was busy making one of the most technologically advanced weapons of the century. A weapon so advanced in fact that the Allies would not quite believe what they were seeing. Soon, intel reached England that the Germans had a high-powered rocket that could reach England when fired from Germany. Lord Cherwell, the chief scientific advisor to Winston Churchill during the war, said something like, “Balderdash.” Such a thing is impossible, he confidently remarked. He was wrong. At about 7pm on Friday 8th September 1944, after there was a massive explosion that tore through Staveley Road in Chiswick, London. The casualties included a toddler, an elderly lady and a soldier from the Royal Engineers. The public were left wondering what had hit them."
+    },
+    {
+      "id": 22,
+      "debut": 870.64,
+      "fin": 926.56,
+      "temps_estime": false,
+      "titre": "The V-1 flying bomb (Doodlebug)",
+      "resume": "About 10,000 V-1 Doodlebugs were fired at England, 2,419 landed in London killing around 6,000 people, and some reached Manchester and Yorkshire, including an attack in Oldham that killed 27. Guided by a pre-set compass and odometer, they could initially target only an area about 19 miles across, later improved to around 7 miles.",
+      "mots_cles": [
+        "V-1",
+        "Doodlebug",
+        "flying bomb",
+        "London",
+        "Oldham",
+        "guidance",
+        "terror weapon",
+        "England"
+      ],
+      "texte": "British people had already watched in fear as Doodlebugs had flown in the sky above their heads and landed unpredictably. About 10,000 of them were fired at England. 2,419 landed in London, killing about 6,1200 people and injuring 18,000 more. Some made it to Greater Manchester and Yorkshire, the worst attack in the north hitting Abbey Hills Road in Oldham, killing 27 people and injuring 49. People just never knew where they would land. As a woman in Oldham said, “We heard the flying bomb going round and round. Everything went quiet for a short time and then came the shattering bang.” These things were absolutely terrifying, like nothing the English public had experienced. Thankfully, many were intercepted or landed harmlessly where people didn’t live. Guided only by a pre-set compass, odometer, and a fixed amount of fuel, the Nazis could initially target only an area about 19 miles (31 km) across, later improving the accuracy to around 7 miles (11km). The Brits called them Doodlebugs,"
+    },
+    {
+      "id": 23,
+      "debut": 926.56,
+      "fin": 976.8,
+      "temps_estime": false,
+      "titre": "V-2 strikes and the gas main cover story",
+      "resume": "The V-2 made no buzzing sound and appeared to come from nowhere, leaving giant craters. The British government invented a gas mains explosion story to avoid panic, and the same weapon hit the Rex Cinema in Antwerp on December 16th, 1944, killing 567 people including 296 Allied soldiers.",
+      "mots_cles": [
+        "V-2",
+        "gas mains explosion",
+        "cover story",
+        "Rex Cinema",
+        "Antwerp",
+        "December 1944",
+        "crater",
+        "British government"
+      ],
+      "texte": "but their official name was the V-1. But whatever had made that crater in Chiswick was an entirely different beast. It didn’t buzz in the sky. It didn’t just drop. It was a ghost. Not long after the Chiswick attack, about 25 miles (40 km) away, another blast seemingly came out of nowhere and reduced buildings to rubble in seconds. Soon after, residents were looking into a giant crater. What kind of weapon could do that? Nothing the public had ever heard of, that was for sure. The British government, not wanting to cause panic, made up a story of a gas mains explosion. The people weren’t buying it. Belgians were just as shocked when the same type of weapon hit a Rex Cinema in Antwerp on December 16th, 1944. 567 people were killed: Belgian civilians and 296 Allied soldiers from Britain, the US, Poland, and Canada. The Nazis might have been losing the war,"
+    },
+    {
+      "id": 24,
+      "debut": 976.8,
+      "fin": 1006.4,
+      "temps_estime": false,
+      "titre": "Wernher von Braun, the Nazi rocket engineer",
+      "resume": "The V-2 was the work of aerospace engineer and Nazi party member Wernher von Braun, a controversial figure who became a hero of NASA and father of the American lunar program despite being an SS officer. His Nazi past and alleged war crimes were downplayed after the war because he was useful.",
+      "mots_cles": [
+        "Wernher von Braun",
+        "V-2",
+        "SS officer",
+        "NASA",
+        "lunar program",
+        "war crimes",
+        "Nazi party",
+        "aerospace engineer"
+      ],
+      "texte": "but they were about to rain vengeance down on London. And it was all thanks to the brilliant mind of a German aerospace engineer, a dedicated Nazi party member with a touch of genius. Wernher von Braun. He would become one of the most controversial figures of the 20th century. Controversial, because he would become a future hero of NASA, the “father of the American lunar program”, yet he’d also been an SS officer. A man whose Nazi past and -- some say -- war crimes, were downplayed after the war because he was useful."
+    },
+    {
+      "id": 25,
+      "debut": 1006.4,
+      "fin": 1028.4,
+      "temps_estime": false,
+      "titre": "Slave labor at Mittelwerk and Mittelbau-Dora",
+      "resume": "V-2 rockets were built at the underground Mittelwerk factory by concentration camp prisoners from Mittelbau-Dora, where tens of thousands of slave laborers endured starvation, beatings and death. Classified documents show von Braun ordered more of them; the Germans simply needed manpower.",
+      "mots_cles": [
+        "Mittelwerk",
+        "Mittelbau-Dora",
+        "slave labor",
+        "concentration camp prisoners",
+        "von Braun",
+        "V-2 production",
+        "manpower"
+      ],
+      "texte": "His V-2 rockets were built at the underground Mittelwerk factory by concentration camp prisoners from nearby Mittelbau-Dora. Tens of thousands of slave laborers endured starvation, beatings, exhaustion, and sometimes death. Highly-classified documents would show how von Braun had ordered more of them. The deaths didn’t matter to the Germans. They just needed manpower. What mattered more was that"
+    },
+    {
+      "id": 26,
+      "debut": 1028.4,
+      "fin": 1061.76,
+      "temps_estime": false,
+      "titre": "Allies capture a complete V-2 in the Coesfeld forest",
+      "resume": "German technology was perhaps a decade ahead of Allied military science, and British and American officers tried hard to understand it. In 1944 they found a complete V-2 with a 2,000-pound warhead at a secret site in the Coesfeld forest, the first time they saw one intact.",
+      "mots_cles": [
+        "V-2",
+        "Coesfeld forest",
+        "captured rocket",
+        "Allied intelligence",
+        "German technology",
+        "warhead",
+        "1944"
+      ],
+      "texte": "the Nazis had technology that was maybe a decade or more ahead of Allied military science. British and American officers were desperately trying to understand German military technology. And in 1944, they found the Holy Grail at a secret site in the Coesfeld forest. A full V-2 rocket with a 2,000-pound warhead in all its terrifying glory. They’d already studied the weapon as much as possible. They’d captured components and had intelligence, but this was the first time they got to see one in its perfect form. It was like finding a miracle. They were virtually unstoppable."
+    },
+    {
+      "id": 27,
+      "debut": 1061.76,
+      "fin": 1096.64,
+      "temps_estime": false,
+      "titre": "Why Hitler never used chemical or biological weapons on V-2s",
+      "resume": "Britain feared Germany would put chemical or biological warheads on V-2s. Although the Nazis ran gas chambers, Hitler was never on board with chemical or biological warfare and knew the Allies had vast arsenals of their own and could retaliate; V-2s alone could not win the war.",
+      "mots_cles": [
+        "chemical weapons",
+        "biological weapons",
+        "V-2",
+        "Hitler",
+        "gas chambers",
+        "retaliation",
+        "Allied arsenals",
+        "Britain"
+      ],
+      "texte": "Britain’s greatest fear was that Germany would attach chemical or biological weapons to them and launch them at densely-populated areas in England. If that happened the damage would be incalculable. The Nazis ran gas chambers where they murdered millions, but Hitler was never on-board with chemical or biological weapons warfare. Even if he had been, he knew the Allies had vast chemical and biological arsenals of their own and the last thing he needed was a massive counter-strike as Germany already lay in flames. Such a retaliation in any form his country would not survive. As great as the V-2s were, Germany could not win the war with them."
+    },
+    {
+      "id": 28,
+      "debut": 1096.64,
+      "fin": 1126.72,
+      "temps_estime": false,
+      "titre": "V-2 performance and numbers fired",
+      "resume": "Germany had about 6,000 V-2s that no one could stop, each with a one-thousand-pound warhead traveling at nearly 3,600 mph to the edge of space, a feat the Americans and Soviets later tried to replicate. Close to 1,409 were fired at London and 1,700 at Antwerp, raising the question of why not tens of thousands more.",
+      "mots_cles": [
+        "V-2 numbers",
+        "3,600 mph",
+        "warhead",
+        "London",
+        "Antwerp",
+        "Americans and Soviets",
+        "rocket technology"
+      ],
+      "texte": "Still, they had about 6,000 that neither the British nor the Americans nor the Russians could do anything to stop. A thousand pounds of warhead traveling at almost 3,600 mph (5,793 km/h) that could reach the edge of space. It was a major feat of scientific endeavor that after the war, the Americans and Soviets would be desperate to replicate. The Germans fired close to 1,409 at London and another 1,700 at Antwerp. So why didn't they launch tens of thousands more? Especially as Germany was already losing the war."
+    },
+    {
+      "id": 29,
+      "debut": 1126.72,
+      "fin": 1159.12,
+      "temps_estime": false,
+      "titre": "V-2 accuracy: a weapon of terror, not precision",
+      "resume": "The V-2 lacked a sophisticated guidance system and could be aimed at a city but not a specific building; early missiles landed 6 to 12 miles off target, later around 3 miles. British studies found about 12% landed harmlessly and many were rejected as defective before launch.",
+      "mots_cles": [
+        "V-2 guidance",
+        "accuracy",
+        "terror weapon",
+        "House of Commons",
+        "Churchill",
+        "defective rockets",
+        "British post-war studies"
+      ],
+      "texte": "First, the V-2 lacked a sophisticated guidance system. It could be aimed at a city, but not at a specific building like the House of Commons or Winston Churchill's residence. Early in the campaign, missiles often landed 6–12 miles (10–20 km) from their intended target. Improvements to the guidance system later reduced that to around 3 miles (5 km). It was a weapon of terror rather than precision. British post-war studies found that around 12% landed harmlessly in the sea or remote countryside. Many never reached the launch pad at all because they were rejected as defective or unstable."
+    },
+    {
+      "id": 30,
+      "debut": 1159.12,
+      "fin": 1198.72,
+      "temps_estime": false,
+      "titre": "V-2 logistics and cost",
+      "resume": "Each V-2 needed enormous quantities of fuel, liquid oxygen, precision parts and skilled labor, at a time when Germany could barely keep tanks and aircraft moving. Germany spent about $2 billion on V-2s in 1944, comparable to the Manhattan Project, with each rocket costing about $4.4 million today, roughly 20 times a V-1.",
+      "mots_cles": [
+        "V-2 cost",
+        "logistics",
+        "liquid oxygen",
+        "Manhattan Project",
+        "$2 billion",
+        "V-1",
+        "fuel",
+        "industrial effort"
+      ],
+      "texte": "The V-2 was an engineering marvel but a logistical nightmare. Each rocket demanded enormous quantities of fuel, liquid oxygen, precision components and skilled labor. At a time when Germany could barely keep its tanks moving and aircraft in the air, producing enough V-2s to alter the course of the war was barely even conceivable. And on top of that, they were expensive. Very expensive. The Germans spent about $2 billion on them in 1944. That’s about $35 billion to $40 billion today, a similar cost to the Manhattan Project. Each one in today’s money might have cost $4.4 million, about 20 times more than the V-1 but not worth it considering the damage they caused."
+    },
+    {
+      "id": 31,
+      "debut": 1198.72,
+      "fin": 1251.04,
+      "temps_estime": false,
+      "titre": "Human and resource cost of V-2 production: slave labor and potato alcohol",
+      "resume": "About 20,000 slave laborers built V-2s and 12,000 died, over four times the number killed by V-2 attacks on London. The rocket fuel was 75% ethanol from potatoes, about 30 tons per launch, so the program consumed roughly a third of Germany's industrial alcohol while soldiers and civilians went hungry.",
+      "mots_cles": [
+        "V-2 slave laborers",
+        "12,000 deaths",
+        "ethanol",
+        "potatoes",
+        "industrial alcohol",
+        "synthetic oil",
+        "coal",
+        "starvation"
+      ],
+      "texte": "The Germans also needed 20,000 slave laborers to build them, some who’d been executed for laziness in what was brutal around-the-clock labor. 12,000 died in total, more than four times more people than were killed in V-2 attacks on London. They didn’t run on gasoline but it took coal and synthetic oil to power much of the industrial process that went into production. They were greedy, too. The fuel was a mixture of 75% ethyl alcohol (ethanol) and 25% water, mixed with liquid oxygen. That alcohol came from potatoes, 30 tons or thereabouts for just one launch. Researchers have said the V-2 program devoured about one-third of Germany's entire industrial alcohol production. That was during a time when soldiers on the battlefield needed feeding, when civilians were going hungry and when prisoners were being executed because they no longer had the calories to render them useful."
+    },
+    {
+      "id": 32,
+      "debut": 1251.04,
+      "fin": 1299.68,
+      "temps_estime": false,
+      "titre": "The blitzkrieg image and the invasion of Poland",
+      "resume": "Germany presented itself as the fast, mechanized army of the future, with the opening blitzkrieg powered by superior weapons and methamphetamines. Poland's ambassador Count Raczyński called the military situation hopeless and Władysław Anders said the nature of the new war was already clear.",
+      "mots_cles": [
+        "blitzkrieg",
+        "Poland invasion 1939",
+        "methamphetamines",
+        "Edward Raczyński",
+        "Władysław Anders",
+        "mechanized warfare",
+        "Wehrmacht"
+      ],
+      "texte": "The V-2 was a marvel. But in 1944, German wonder weapons were about to be joined by technology from the Dark Ages. Germany liked to present itself as the army of the future -- fast, mechanized and unstoppable. The blitzkrieg across Europe at the start of the war was ample proof they weren’t overestimating themselves. They were powered by superior weapons and methamphetamines that gave German soldiers that extra edge. Poland's ambassador to Britain, Count Edward Bernard Raczyński, saw the writing on the wall. He described Poland’s military situation as “hopeless” when German tanks and infantry poured across the border. The devastation of those machines with men who barely seemed to sleep was beyond anything ever seen. As the Polish First World War veteran Władysław Anders later said after witnessing the fighting, “The nature of the new war was already clear.”"
+    },
+    {
+      "id": 33,
+      "debut": 1299.68,
+      "fin": 1336.16,
+      "temps_estime": false,
+      "titre": "The Battle of Krojanty and the Polish cavalry myth",
+      "resume": "At Krojanty Polish cavalry charged German infantry, then German armored vehicles forced them to retreat under machine-gun fire. The story that horsemen charged tanks with lances was untrue but became propaganda portraying Poles as outdated, and for Poles a symbol of courage: the new versus the old.",
+      "mots_cles": [
+        "Battle of Krojanty",
+        "Polish cavalry",
+        "lances",
+        "propaganda",
+        "myth",
+        "German tanks",
+        "1939"
+      ],
+      "texte": "Nowhere did it seem more obvious than at the Battle of Krojanty. Polish cavalry charged a surprised German infantry battalion, scattering the soldiers. Moments later, German armored vehicles emerged from the trees and forced the cavalry into retreat, horsemen and horses alike falling under machine-gun fire. Reports soon spread that the Polish cavalry had charged German tanks, their lances against steel armor. The story wasn't true, but it proved useful propaganda. For the Germans, it portrayed the Poles as hopelessly outdated. For many Poles, it became a symbol of courage against impossible odds. For everyone, it was a statement. The new versus the old."
+    },
+    {
+      "id": 34,
+      "debut": 1336.16,
+      "fin": 1420.64,
+      "temps_estime": false,
+      "titre": "Horses remained vital to the German army",
+      "resume": "Horses were not obsolete: Germany used about 2.75 million over the war, second only to the Soviet Union's 3.5 million, and they hauled 50% to 70% of Wehrmacht supplies, being cheap and dependable on mud and forest terrain. About 200,000 died during Operation Barbarossa, but Hitler kept them out of newsreels since animal power was bad for morale.",
+      "mots_cles": [
+        "horses",
+        "Wehrmacht",
+        "2.75 million horses",
+        "Operation Barbarossa",
+        "supply transport",
+        "propaganda newsreels",
+        "Soviet Union",
+        "animal power"
+      ],
+      "texte": "What the newspapers and propaganda left out was that horses weren't obsolete, far from it. In fact, they remained absolutely vital to every major army in the war. During the 6 years of fighting, Germany relied on about 2.75 million horses, second only to the Soviet Union, which used around 3.5 million. Tanks may have spearheaded the advance, but horses hauled the food, ammunition, artillery and supplies that kept entire armies on the move. On muddy roads, through forests and across terrain where vehicles bogged down or broke apart, a horse was often far more dependable than a fuel-hungry truck. They were fairly cheap, too. Their fuel was nature: grass and grain. The problem, of course, is they didn’t fire weapons. They also needed tending to. Bullets didn’t bounce off their skin and loud noises tended to spook them. So, they weren’t always good in the thick of the fighting, but in the background, they were excellent additions to the army. At various points throughout the war, Germany’s horses pulled between 50% and 70% of Wehrmacht’s military supplies. During the entirety of Operation Barbarossa, close to 200,000 horses didn’t make it out alive. They died from wounds, starvation or exposure. But without them Germany’s offensive hesitated or came to a stop. That didn't usually make it into Nazi propaganda news reels. Hitler didn’t want his people seeing German officers on horseback. Animal power wasn’t good for morale. Tiger tanks and flying aces were. But the fact was, without horses, the machines,"
+    },
+    {
+      "id": 35,
+      "debut": 1420.64,
+      "fin": 1456.88,
+      "temps_estime": false,
+      "titre": "The fodder burden of the German horse army",
+      "resume": "Each horse consumed about 20 pounds of hay and oats a day, so a division needed roughly 30 tons of fodder daily, 9 tons more than the men's food. Fodder outweighed soldiers' rations by 275% and exceeded vehicle fuel needs by 165%, creating a logistical problem of bulk.",
+      "mots_cles": [
+        "horse fodder",
+        "logistics",
+        "hay and oats",
+        "division supplies",
+        "30 tons",
+        "rations",
+        "gasoline"
+      ],
+      "texte": "and the humans, ceased to function. That didn't mean they weren't a logistical problem. Each horse consumed about 20 pounds (9 kg) of hay and oats a day. For a single division, that meant hauling roughly 30 tons of fodder every day, 9 tons more than the food for the men. In fact, the horses ate so much that their fodder outweighed the soldiers' rations by 275%. They even exceeded the fuel needed for the division's vehicles by 165%. The problem was bulk. And that bulk had to travel to the battlefield on ships and in vehicles. So, while gasoline was a problem, so was making sure horses had the energy to do the grunt work."
+    },
+    {
+      "id": 36,
+      "debut": 1456.88,
+      "fin": 1480.72,
+      "temps_estime": false,
+      "titre": "Hitler dismisses logistics, then relies on animals",
+      "resume": "Hitler brushed aside officers who raised logistical problems, reportedly complaining they made everything too complicated. When the oil ran out he found himself relying on animals more than expected, becoming desperate and about to scrape the bottom of the barrel.",
+      "mots_cles": [
+        "Hitler",
+        "logistics",
+        "oil shortage",
+        "horses",
+        "desperation",
+        "officers",
+        "supply problems"
+      ],
+      "texte": "But whenever such logistical problems were raised with the boss, Hitler often brushed them aside. He reportedly complained that officers who brought up the issue “made everything too complicated.” Then when the oil started to go, he suddenly found himself relying on these animals more than he’d ever imagined he would. He was becoming desperate. Every cow, every hungry horse, was proof. And he was about to scrape the bottom of the barrel."
+    },
+    {
+      "id": 37,
+      "debut": 1480.72,
+      "fin": 1527.28,
+      "temps_estime": false,
+      "titre": "Goebbels' Werewolf Broadcast",
+      "resume": "As the Soviets and Western Allies entered Germany, Goebbels appealed in his Werewolf Broadcast for an underground resistance of assassinations, sabotage and terror against occupiers. Very few Germans wanted to become terrorists, and the Werwolf campaign amounted to little more than bluster.",
+      "mots_cles": [
+        "Werwolf",
+        "Joseph Goebbels",
+        "Werewolf Broadcast",
+        "guerrilla resistance",
+        "sabotage",
+        "occupation",
+        "propaganda",
+        "1945"
+      ],
+      "texte": "The Soviets and Western Allies began to enter Germany from opposite directions. So, Propaganda Minister Joseph Goebbels appealed to his people in his infamous “Werewolf Broadcast” to form an underground resistance. Like guerrillas, they were to assassinate occupation officials, sabotage railways and communications, destroy supplies and wreak havoc wherever the foreign occupiers settled. “We Werewolves,” he barked in one broadcast, “consider it our supreme duty to kill, to kill and to kill – employing every cunning and wile in the darkness of night, crawling, groping through towns and villages like wolves.” In reality, very few Germans wanted to become terrorists. Beyond a handful of assassinations and isolated acts of sabotage, the Werwolf campaign amounted to not much more than poetic bluster."
+    },
+    {
+      "id": 38,
+      "debut": 1527.28,
+      "fin": 1576.4,
+      "temps_estime": false,
+      "titre": "Allied suspicion of German civilians",
+      "resume": "Allied radio warned soldiers that every friendly German civilian was a disguised soldier of hate, though most Germans wanted the nightmare to end and some women greeted Allied trucks with smiles and flowers. Fear of hidden resistance fed massacres and suffering among German women, while in the east the Red Army unleashed extreme violence.",
+      "mots_cles": [
+        "Allied radio",
+        "German civilians",
+        "Werwolf fear",
+        "suspicion",
+        "massacres",
+        "German women",
+        "Red Army violence",
+        "occupation"
+      ],
+      "texte": "But Allied radio didn’t think so. It still warned its soldiers that every German civilian could be a potential killer, a wolf in sheep’s clothing. “Every friendly German civilian is a disguised soldier of hate,” one broadcast blared. “Their hatred and their anger ... are deeply buried in their blood. A smile is their weapon by which to disarm you ... In heart, body and spirit every German is Hitler.” That was far from the truth. Most German civilians at that point just wanted the nightmare to end. When American or British trucks of handsome soldiers passed, German women sometimes greeted them with smiles and flowers. Yet fear of hidden resistance made many Allied soldiers deeply suspicious. That was one of the reasons for massacres and the suffering German women experienced. Meanwhile, in the east, the advancing Red Army unleashed a wave of extreme violence."
+    },
+    {
+      "id": 39,
+      "debut": 1576.4,
+      "fin": 1630.32,
+      "temps_estime": false,
+      "titre": "The Volkssturm and the fear of annihilation",
+      "resume": "Many Germans took up arms believing they fought for national survival, including the Volkssturm, a people's militia of men aged 16 to 60 that was poorly equipped and Germany's last line of defense. Since Stalingrad and Goebbels' Total War speech of 1943, propaganda said surrender meant annihilation by Judeo-Bolshevism.",
+      "mots_cles": [
+        "Volkssturm",
+        "people's militia",
+        "Goebbels",
+        "Total War speech",
+        "Stalingrad",
+        "Judeo-Bolshevism",
+        "boy soldiers",
+        "propaganda"
+      ],
+      "texte": "But the broadcasts were right about one thing. The Allies did have a reason to be suspicious. Many Germans had taken up arms because they believed they were fighting for their country's survival. Often, they were little more than boys, their helmets too big for their heads, usually cut down with heartbreaking ease when faced with fighting grown men. These weren't the feared Werewolves, but the Volkssturm, a people's militia made up of men aged 16 to 60 who weren't already serving in the armed forces. Often poorly equipped, they were Germany's last desperate line of defense. For years, Nazi propaganda had warned that defeat would bring Germany's destruction at the hands of Judeo-Bolshevism and what they said was Jewish-controlled capitalism. Ever since Stalingrad and Goebbels' famous “Total War” speech in 1943, Germans had been told that surrender meant complete annihilation. These evil forces would take over all of Europe and end their way of life."
+    },
+    {
+      "id": 40,
+      "debut": 1630.32,
+      "fin": 1665.28,
+      "temps_estime": false,
+      "titre": "Bicycle squadrons: from Total War to Desperate War",
+      "resume": "Badly trained Volkssturm members rode through ruined streets with anti-tank weapons fitted to bicycles, showing how Total War had become Desperate War, from V-2s to Panthers, horses and bicycles. Bicycles avoided fuel and fodder needs but were of little use against Allied firepower.",
+      "mots_cles": [
+        "bicycles",
+        "Volkssturm",
+        "anti-tank weapons",
+        "Desperate War",
+        "Total War",
+        "logistics",
+        "no fuel needed"
+      ],
+      "texte": "Whether Germans at home believed it is another matter. Some obviously did, but some were sceptical. Badly trained, the ones that did fight could sometimes be seen riding through streets full of rubble with anti-tank weapons fitted to the front of their bicycles. The bicycle squadron. From V-2 weapons, to Panther tanks, to horses, to the bicycle. Total War had become Desperate War. But bicycles at least bypassed the logistical hurdles that had plagued Germany in 1944. Unlike machines, they needed no coal or oil to move them. And unlike horses, they didn’t require bales of hay or sacks of oats and they didn’t buck at the sound of explosion."
+    },
+    {
+      "id": 41,
+      "debut": 1665.28,
+      "fin": 1702.88,
+      "temps_estime": false,
+      "titre": "Volkssturm numbers and Allied bombing toll",
+      "resume": "The Allies destroyed 3.6 million German homes and killed 350,000 to 600,000 civilians in bombing, so teenage boys on bicycles could not change anything. Hitler dreamed of 6 million Volkssturm men but only 600,000 to one million served, some bullying neighbors and others committing war crimes, making it largely a symbol of desperation.",
+      "mots_cles": [
+        "Volkssturm",
+        "Allied bombing",
+        "3.6 million homes",
+        "civilian deaths",
+        "6 million men",
+        "war crimes",
+        "teenage boys"
+      ],
+      "texte": "But they were effectively little use against Allied firepower. The Allies would destroy 3.6 million German homes. Between 350,000 and 600,000 civilians would be killed in Allied bombing campaigns, and another 800,000 wounded. Teenage boys riding bicycles with rockets attached were never going to prevent any of that from happening. Even so, Hitler had dreamed of raising 6 million men, the number available if every eligible civilian joined the Volkssturm. In reality, perhaps 600,000 to one million served. Some bullied reluctant neighbors into joining. Others committed war crimes. But as a military force, they were little more than"
+    },
+    {
+      "id": 42,
+      "debut": 1702.88,
+      "fin": 1734.24,
+      "temps_estime": false,
+      "titre": "Volkssturm in the Battle of Berlin and Hitler's contempt",
+      "resume": "About 60,000 Volkssturm fought in the hopeless defense of Berlin against overwhelming Soviet forces, and Hitler was furious in his bunker that many hid, calling them cowards. Like all military leaders he had never faced a tank himself and stayed safely far from the bullets.",
+      "mots_cles": [
+        "Battle of Berlin",
+        "Volkssturm",
+        "Hitler bunker",
+        "cowards",
+        "Soviet forces",
+        "hopeless defense",
+        "April 1945"
+      ],
+      "texte": "a symbol of Germany's desperation. During the Battle of Berlin, around 60,000 Volkssturm found themselves fighting as part of a hopeless defense against an overwhelming Soviet force. It’s believed Hitler was furious in his bunker when he heard many members chose to hide rather than take on the Russian Goliath. Cowards, he called them. They should have been happy to die for the cause. That was the noble thing to do. Of course, he’d never himself stared down the turret of a tank. Like all military leaders on all sides, he sat safely far away from the bullets and bombs."
+    },
+    {
+      "id": 43,
+      "debut": 1734.24,
+      "fin": 1767.12,
+      "temps_estime": false,
+      "titre": "The cost to ordinary Germans of Hitler's fight-to-the-end order",
+      "resume": "Historians estimate Hitler's order for every German to fight led to the needless deaths of 1.23 million citizens, some shot or hanged for refusing and many sent to Soviet gulags, with hundreds of thousands never returning. Hitler did not care what happened to Germans once he knew the war was lost.",
+      "mots_cles": [
+        "1.23 million deaths",
+        "German civilians",
+        "Hitler",
+        "gulags",
+        "forced fighting",
+        "Soviet captivity",
+        "end of the war"
+      ],
+      "texte": "If modern historians are right, his order to encourage every last German to fight led to the needless deaths of 1.23 million citizens. Some didn’t have a choice. They were sometimes shot or hanged if they refused to fight. When the Soviets arrived, many were killed or captured and sent to the gulags. Hundreds of thousands of them went East and never returned. It wasn’t easy being German at the war’s end. It didn’t matter if you’d never supported Hitler, or the war, or if you weren’t antisemitic. The biggest insult was, Hitler didn’t care about what happened to them once he knew the war was lost."
+    },
+    {
+      "id": 44,
+      "debut": 1767.12,
+      "fin": 1794.64,
+      "temps_estime": false,
+      "titre": "Crossing the Rhine at Remagen and Germany's last shot",
+      "resume": "On March 7th Allied troops crossed the Rhine and captured the Ludendorff Bridge, breaching Germany's last major defensive barrier despite failed demolition attempts, taken by the U.S. 9th Armored Division. Germany's last offensive, Operation Spring Awakening in Hungary, was crushed nine days later, and Germany had fired its last shot.",
+      "mots_cles": [
+        "Ludendorff Bridge",
+        "Rhine crossing",
+        "March 7 1945",
+        "9th Armored Division",
+        "Operation Spring Awakening",
+        "Hungary",
+        "last offensive",
+        "Red Army"
+      ],
+      "texte": "On March 7th, Allied troops flooded over the Rhine and captured the Ludendorff Bridge. The Nazi’s last major defensive barrier had been breached allowing Allied forces to pour into Germany. Although German engineers tried to demolish the bridge, they failed before soldiers of the U.S. 9th Armored Division seized it. Germany’s last offensive of the war, Operation Spring Awakening in Hungary against the Red Army, was crushed nine days later. It was over. Germany had fired its last shot."
+    }
+  ]
+}
