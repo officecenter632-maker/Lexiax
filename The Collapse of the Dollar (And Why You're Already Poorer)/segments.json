@@ -4,12 +4,12 @@
   "titre_video": "The Collapse of the Dollar (And Why You're Already Poorer)",
   "duree_s": 13885.44,
   "avancement": {
-    "lignes_traitees": 6253,
-    "fin_traitee_s": 12565.36,
+    "lignes_traitees": 6916,
+    "fin_traitee_s": 13885.44,
     "nb_lignes_total": 6916,
-    "complet": false
+    "complet": true
   },
-  "nb_segments": 321,
+  "nb_segments": 355,
   "segments": [
     {
       "id": 1,
@@ -5914,6 +5914,652 @@
         "money facts"
       ],
       "texte": "one, people initially didn't want to put faces of presidents or other famous people on their coins in the US. Initially, they were all going to have more non-representational symbols of America, like Lady Liberty [music] and the bald eagle. And this was because British coinage featured the faces of monarchs and the newly independent US. Well, they didn't feel like repeating old mistakes. [music]"
+    },
+    {
+      "id": 322,
+      "debut": 12565.36,
+      "fin": 12588.72,
+      "temps_estime": false,
+      "titre": "Intro: you will probably never be rich, the ladder has been pulled up",
+      "resume": "A new Infographics Show episode asks whether you are rich and answers that, unless you were born into money, the odds of becoming wealthy are slim, not for lack of hard work: the ladder everyone was told to climb has been pulled up and replaced by a system keeping the rich on top. It promises to reveal why you will never be rich and how the game was rigged.",
+      "mots_cles": [
+        "will never be rich",
+        "ladder pulled up",
+        "rigged system",
+        "odds of becoming wealthy",
+        "born into money",
+        "Infographics Show",
+        "wealth inequality",
+        "intro"
+      ],
+      "texte": "Are you rich? Chances are you never will be. If you weren't born into money, the odds of becoming wealthy are slim. And it's not [music] because you didn't work hard enough. The truth is, the ladder we were all told to climb has been pulled up. In its place is a system designed to keep the rich on top and everyone else locked out. On today's episode of the Infographic Show, we'll reveal why you will never be rich [music] and how the game was rigged from the start. Money"
+    },
+    {
+      "id": 323,
+      "debut": 12588.72,
+      "fin": 12620.24,
+      "temps_estime": false,
+      "titre": "Oxfam: the richest 1% took two thirds of $42 trillion in new wealth",
+      "resume": "Money has been flowing to the top of the socioeconomic ladder for decades and lately it has gotten worse: in 2023 Oxfam found that of $42 trillion of new wealth created since 2020, the richest 1% got two thirds and the other 99% the leftovers. For those working full time just to cover rent, saving for a rainy day feels nearly impossible.",
+      "mots_cles": [
+        "Oxfam 2023",
+        "$42 trillion new wealth",
+        "richest 1% two thirds",
+        "99% leftovers",
+        "wealth concentration",
+        "cost of rent",
+        "saving money",
+        "socioeconomic ladder"
+      ],
+      "texte": "has increasingly been going to the top of the socioeconomic ladder for decades [music] now. Though lately the problem has gotten real bad. In 2023, Oxfam found out [music] that of $42 trillion of new wealth created since 2020, the richest 1% [music] got 2/3 of it. Meanwhile, the other 99% of the population got the leftovers. And if [music] you have been grinding away at a full-time job just to cover the rent and bills in a major city, you already know building wealth or even saving for [music] a rainy day or unexpected doctor's visit feels next to impossible."
+    },
+    {
+      "id": 324,
+      "debut": 12620.24,
+      "fin": 12642.32,
+      "temps_estime": false,
+      "titre": "Wages stagnation: hourly earnings peaked in 1973 according to Pew",
+      "resume": "Wages are not keeping up with the cost of living: according to the Pew Research Center average hourly earnings peaked in 1973 at $4.30 an hour, equivalent to $23.68 in 2018, so adjusted for inflation people today have about the same purchasing power as in the 1970s.",
+      "mots_cles": [
+        "wage stagnation",
+        "Pew Research Center",
+        "1973 peak hourly earnings",
+        "$23.68 in 2018",
+        "purchasing power",
+        "inflation adjusted wages",
+        "cost of living",
+        "1970s"
+      ],
+      "texte": "For one, wages are not keeping up with the cost of living. According to the Pew [music] Research Center, average hourly earnings peaked in 1973 at $4.3 [music] an hour, a rate equivalent to $23.68 in 2018. Adjusting for inflation, [music] that means that the people today have about the same purchasing power as they did in the '7s. Why aren't wages"
+    },
+    {
+      "id": 325,
+      "debut": 12642.32,
+      "fin": 12687.2,
+      "temps_estime": false,
+      "titre": "Why wages lag: union decline and corporate concentration",
+      "resume": "Reasons wages don't keep up: the decline of unions and more labor competing for fewer companies, as small businesses are run out and large companies merge into conglomerates. Economists found that since the 1930s the top 1% of companies' share of the US economy rose from 70% to 90%, and the top 0.1% asset share from 47% to 88%, an oligopoly.",
+      "mots_cles": [
+        "decline of unions",
+        "corporate concentration",
+        "oligopoly",
+        "conglomerates",
+        "top 1% of companies 90%",
+        "top 0.1% companies 88%",
+        "small businesses",
+        "wages"
+      ],
+      "texte": "keeping up? Well, the decline of unions, for one, then there's an increasing amount of labor in competition for fewer and fewer companies. Independent [music] and small businesses are increasingly run out of town and large companies grow and merge to form even bigger conglomerates. Prominent [music] economists from several universities calculated that since the 1930s the share of the US economy dominated the top 1% of companies that [music] has increased to 90% up from 70%. Meanwhile, the asset share of the top 0.1% of companies [music] has risen to 88% up from 47%. These companies are now running the market with an iron fist as the competition of just a handful of corporations [music] and oligopoly isn't really much of a competition at all. That is bad news for"
+    },
+    {
+      "id": 326,
+      "debut": 12687.2,
+      "fin": 12735.52,
+      "temps_estime": false,
+      "titre": "Entrepreneurship as a path to wealth is now tied to starting money",
+      "resume": "Building a company used to be a decent route into the upper class: median net worth of self-employed families was $380,000 in 2019 versus $90,000 for worker families. But startup costs have risen, about $40,000 for the first year and hundreds of thousands for a store or restaurant, so entrepreneurship increasingly depends on money available since birth.",
+      "mots_cles": [
+        "entrepreneurship",
+        "self-employed net worth $380,000",
+        "startup costs $40,000",
+        "brick-and-mortar store",
+        "inflation",
+        "inherited money",
+        "upper class",
+        "starting a business"
+      ],
+      "texte": "startups [music] and independently owned businesses, which is also bad news if you're trying to be rich. After all, being an entrepreneur and building [music] your own company from the ground up used to be a decent method to earn your way into the upper class if [music] you were successful. According to Brian Head, the median net worth of self-employed families at $380,000 in 2019 [music] was over four times that of families of workers at $90,000. However, startup costs have increased with time because of inflation and the consumer price index. The average cost of a startup is now estimated to be $40,000 for the first year, [music] and that turns into hundreds of thousands if you want to start a brick-and-mortar store or restaurant. That means that even the ability to be an entrepreneur is increasingly tied to how much money you have available to you since birth, no matter [music] what Instagram accounts with cigar holding men will tell you."
+    },
+    {
+      "id": 327,
+      "debut": 12735.52,
+      "fin": 12754.96,
+      "temps_estime": false,
+      "titre": "Decline of American entrepreneurship: Kauffman Foundation figures",
+      "resume": "The Ewing Marion Kauffman Foundation found that startups made up more than 12% of US companies in 1980 but only 8% by 2012, and went from providing 4% of all jobs to 2% over the period.",
+      "mots_cles": [
+        "Kauffman Foundation",
+        "startups decline",
+        "12% of companies 1980",
+        "8% in 2012",
+        "startup job share",
+        "American entrepreneurship",
+        "new businesses",
+        "job creation"
+      ],
+      "texte": "Perhaps that's why American entrepreneurship has been declining. The Euing Marian Kaufman Foundation found that though startups made up more than 12% of US companies in 1980, by 2012 they only made up 8%. In addition, startups [music] went from providing 4% of all jobs in the same time period to 2% more than three decades later."
+    },
+    {
+      "id": 328,
+      "debut": 12754.96,
+      "fin": 12791.04,
+      "temps_estime": false,
+      "titre": "The ultra wealthy earn most income from investments and businesses (Brookings)",
+      "resume": "According to the Brookings Institution the top 0.01% make 82% of their income from investments and businesses, nearly 60% from investments alone; the top 0.001% make 88%, over 70% from investments. The bottom 80% of households make on average only 7% of income from the same sources.",
+      "mots_cles": [
+        "Brookings Institution",
+        "top 0.01% income",
+        "top 0.001% income",
+        "investment income",
+        "business income",
+        "bottom 80% households 7%",
+        "capital income",
+        "ultra wealthy"
+      ],
+      "texte": "According to the Brookings Institution, the ultra wealthy don't earn their money from jobs like the rest of us. The top 0.01% make 82% of their income from investments and businesses, [music] nearly 60% from investments alone. Meanwhile, the top 0.001% [music] made 88% of their income from investments and businesses with more than 70.44% coming from investments. You know, like the investment that you don't have the money to make and the businesses that you don't have the money to start. That's why the bottom 80% of households on average made only 7% of their money from the same sources. And [music] part"
+    },
+    {
+      "id": 329,
+      "debut": 12791.04,
+      "fin": 12834.88,
+      "temps_estime": false,
+      "titre": "Tax advantage: wages are taxed more than capital gains",
+      "resume": "High wages are taxed differently from capital gains: Brookings notes top effective marginal rates on wages exceed 40% while much business income is taxed below 30% and dividends and realized capital gains below 25%. A high earner gives away almost half in taxes while the super wealthy with investments pay less than a quarter, preserving their status.",
+      "mots_cles": [
+        "capital gains tax",
+        "wage taxation",
+        "marginal tax rate 40%",
+        "business income tax 30%",
+        "dividends tax 25%",
+        "Brookings",
+        "tax advantage wealthy",
+        "top 0.001%"
+      ],
+      "texte": "of the reason the ultra wealthy stay ultra wealthy is because high wages are taxed differently than capital gains or the profit that you get off an investment. [music] The Brookings Institution points out that the highest effective marginal income tax rates on wages exceed [music] 40%. Whereas much business income is taxed at a top rate below 30%. Dividends and realized capital gains are taxed below 25%. That means that if you work your way up to a really highpaying job, you're [music] probably giving away almost half of your income in taxes. But if you are super wealthy [music] with multiple investments, the government is seeing less than a quarter of that. This allows you to maintain your status [music] as the top 0.001% while everyone else around you fruitlessly tries to fight their way up."
+    },
+    {
+      "id": 330,
+      "debut": 12834.88,
+      "fin": 12857.84,
+      "temps_estime": false,
+      "titre": "Capital gains as a wealth-building tool you can't access unless already rich",
+      "resume": "Capital gains and returns from real estate, stocks and investment portfolios are a perfect wealth-building tool you probably can't access unless you are already rich; the alternative is investing from day one to get similar returns, which requires starting very young and is almost impossible.",
+      "mots_cles": [
+        "capital gains",
+        "real estate stocks portfolios",
+        "money breeds money",
+        "investing from day one",
+        "wealth building tool",
+        "access to investing",
+        "starting young",
+        "inequality"
+      ],
+      "texte": "Capital gains and similar returns from real estate assets, [music] stocks, as well as investment portfolios are therefore a perfect wealth-b buildinging tool and one you probably [music] can't access unless you're already rich. As money breeds money, the alternative is investing from day one to get anywhere near those returns. But you have to start at a really young age as you'll soon see and that's [music] going to be almost impossible. Experts analyzed data"
+    },
+    {
+      "id": 331,
+      "debut": 12857.84,
+      "fin": 12879.76,
+      "temps_estime": false,
+      "titre": "Norway study: the richest households were already rich in their 20s",
+      "resume": "Experts analyzing Norwegian data found the wealthiest 0.1% of households were already rich in their 20s and invested heavily in equity while saving much of their income. By contrast the average person is stuck paying rent, bills, food and a car, with a couple hundred dollars left for nights out and a shirt or two.",
+      "mots_cles": [
+        "Norway data",
+        "wealthiest 0.1% households",
+        "rich in their 20s",
+        "equity investing",
+        "saving income",
+        "rent bills",
+        "inherited wealth",
+        "wealth inequality"
+      ],
+      "texte": "from Norway and they found that the wealthiest 0.1% of households [music] were already rich in their 20s. But more importantly, they invested heavily in equity and saved much of their income. You, on the other hand, are stuck [music] paying for rent, bills, food, and your car, leaving, if you're lucky, a couple hundred bucks for a couple nights out with friends [music] and a new shirt or two. If it makes you feel"
+    },
+    {
+      "id": 332,
+      "debut": 12879.76,
+      "fin": 12914.72,
+      "temps_estime": false,
+      "titre": "The Atlantic: what households keep after taxes and basic needs",
+      "resume": "According to The Atlantic, people making over $150,000 keep about 40% of income after taxes and basic needs like housing, food and transportation, while lower earners keep around 15% of a small paycheck in a good month. After healthcare and education, the poorest Americans spend 98% of income, leaving $367, about a dollar a day.",
+      "mots_cles": [
+        "The Atlantic",
+        "$150,000 income keeps 40%",
+        "lower earners 15%",
+        "poorest Americans 98% of income",
+        "$367 left",
+        "a dollar a day",
+        "healthcare education costs",
+        "disposable income"
+      ],
+      "texte": "any better, it's not just you. According to The Atlantic, people making over 150,000 a year keep about 40% of their income after taxes and basic needs like housing, food, and transportation. But those earning much less often have around 15% of their already small paycheck to cover everything else, and that is on a good month. However, that doesn't take all expenses into account, like healthcare and education. After those costs are covered, the poorest Americans have spent 98% of their income. That leaves only $367 in income that they could use for other things or about a dollar a day. Chances are that"
+    },
+    {
+      "id": 333,
+      "debut": 12914.72,
+      "fin": 12969.12,
+      "temps_estime": false,
+      "titre": "Financial advisers are not interested in non-affluent clients",
+      "resume": "Even if poorer people save enough to see a financial adviser, most advisers and firms won't serve them: a Financial Literacy Group report and Pinnacle Advisory Group's research director say non-affluent investors don't bring in enough to justify the time and advisers would take a pay cut. Advisers also move in wealthy circles, so those earning below six figures rarely come across them.",
+      "mots_cles": [
+        "financial advisers",
+        "non-affluent investors",
+        "Financial Literacy Group",
+        "Pinnacle Advisory Group",
+        "advisers' fees",
+        "wealthy circles",
+        "access to financial advice",
+        "networks"
+      ],
+      "texte": "is not going to be turned into a mutual fund investment. And even if they somehow did put enough money together to speak with a financial adviser, the awful truth is most advisers and firms wouldn't be interested [music] in serving them. A report by the Financial Literacy Group highlights a harsh truth. Most financial adviserss aren't interested in clients with serious money. Michael E. Kites, director [music] of research at Pinnacle Advisory Group, agrees, pointing out that non-affluent investors simply don't bring in enough [music] to justify the time. To most advisers, the returns just aren't worth the effort. Or, as the report states, the brutal truth is that financial adviserss in order to serve the non-afluent [music] would have to accept a substantial pay decrease. Not to mention, financial adviserss make a hefty sum and therefore tend to move in wealthy circles where they can pick up prospective clients. If you're not making well into the six figures, it's much less likely that you'll come across someone like [music] that, as they tend to be located outside of your network."
+    },
+    {
+      "id": 334,
+      "debut": 12969.12,
+      "fin": 12997.52,
+      "temps_estime": false,
+      "titre": "Complexity aversion: fear of investing is the biggest barrier",
+      "resume": "Coming from a background where investing wasn't a thing is itself a barrier: Amos Nabler, PhD in behavioral finance and neuroeconomics, calls it complexity aversion, a fear of investing when you've never done it, and says it is the biggest barrier to building wealth for people who have never invested.",
+      "mots_cles": [
+        "complexity aversion",
+        "behavioral finance",
+        "neuroeconomics",
+        "Amos Nabler",
+        "fear of investing",
+        "barrier to building wealth",
+        "first-time investors",
+        "investing background"
+      ],
+      "texte": "Even if you get past all the initial financial and connection hurdles, coming from a background in which investing simply wasn't a thing is a barrier in and of itself. [music] Amos Nabler, who has a PhD in behavioral finance and neuroeconomics, describes it as a complexity aversion, i.e. a kind of fear of investing if you've never done it before and you don't know much about it. According to him, it is [music] the biggest barrier to building wealth for people who are not in markets or who have never invested before. [music] For"
+    },
+    {
+      "id": 335,
+      "debut": 12997.52,
+      "fin": 13038.96,
+      "temps_estime": false,
+      "titre": "Starting to invest early: $1.25 million versus $830,000 versus $547,000",
+      "resume": "Starting investing later makes significant wealth far less likely. With an 8% annualized return and $200 a month, someone starting at 20 reaches about $1.25 million at retirement, starting five years later only $830,000 and five years after that $547,000, which puts people not born into wealth at a major disadvantage.",
+      "mots_cles": [
+        "compound interest",
+        "investing early",
+        "8% annualized return",
+        "$200 a month",
+        "$1.25 million retirement",
+        "retirement portfolio",
+        "start at 20",
+        "disadvantage"
+      ],
+      "texte": "those who do invest, starting later in life, whether because it took you time to build enough income or simply not knowing how, makes [music] it far less likely that you'll build significant wealth. One article uses the example of someone investing in a retirement portfolio with an annualized total return of 8%. [music] If that person starts at 20 years old and invests $200 a month, they'll have $1.25 $25 million saved away by the time they're ready to retire. If they start just [music] 5 years later, they'll only have $830,000. Another 5 years after that, $547,000. [music] Clearly, having the disposable income and knowledge to start investing early makes all the difference. And that puts people not [music] born into wealth at a major disadvantage. Not to mention, the"
+    },
+    {
+      "id": 336,
+      "debut": 13038.96,
+      "fin": 13085.6,
+      "temps_estime": false,
+      "titre": "Student loan debt: $38,000 average and interest eating the payments",
+      "resume": "The college degree everyone recommends starts many Americans deep in debt: average federal student debt is around $38,000 and far more for elite schools or law and medicine. Debt is a drag on building wealth since you start at a negative amount, and with a low monthly plan payments cover mostly interest, at a federal rate of 6.39%.",
+      "mots_cles": [
+        "student loan debt",
+        "$38,000 average federal debt",
+        "college degree",
+        "interest rate 6.39%",
+        "elite school",
+        "advanced degree law medicine",
+        "negative net worth",
+        "debt drag"
+      ],
+      "texte": "thing that everyone tells you to do to earn money in life, get a college degree, starts off many Americans lives deeply in debt. The average federal student loan debt is around $38,000. If you choose [music] to go to an elite school and you can't get financial aid, or you need an advanced degree for a money-making profession like law or medicine, you'll soon see it can be a lot more than that. Student debt [music] is a huge drag on someone's ability to build up their personal wealth. As you're starting off your professional life, not even at zero, but at a negative amount. And student debt interest rates mean that if you can only choose a relatively low monthly payment plan, [music] you're barely going to make a dent in the amount you owe. All of your money will be covering the interest. The current federal interest rate is [music] 6.39% rather than the principle of the loan."
+    },
+    {
+      "id": 337,
+      "debut": 13085.6,
+      "fin": 13108.8,
+      "temps_estime": false,
+      "titre": "David Dennis Jr.: $80,000 loans become $200,000, and no savings for a home",
+      "resume": "Journalist David Dennis Jr. gave up paying off loans: $80,000 of school debt will turn into $200,000 in payments at 8% interest. Using leftover money for debt means you can't save to invest in assets, especially a home, which used to help most American families build wealth.",
+      "mots_cles": [
+        "David Dennis Jr.",
+        "student debt $80,000",
+        "$200,000 in payments",
+        "8% interest",
+        "repayment plan",
+        "paying down debt",
+        "home as asset",
+        "saving to invest"
+      ],
+      "texte": "One journalist, David Dennis Jr., has given up on paying off his loans. [music] The $80,000 he racked up in school will turn into $200,000 in payments thanks to an 8% interest rate and the length of his repayment plan. [music] Not to mention using any leftover money to pay down debt means that you can't save up to invest in assets, especially the one that used to help most American families build [music] up wealth, a home. Now, the"
+    },
+    {
+      "id": 338,
+      "debut": 13108.8,
+      "fin": 13164.64,
+      "temps_estime": false,
+      "titre": "Homes cost 5.8 times income: 1984 versus 2022",
+      "resume": "Older people say they bought a house at 26 as a waiter, but it's harder for millennials and Gen Z. In 1984 median household income was about $22,400 and median home price $78,200, 3.5 times income; by 2022 income was about $74,600 and the median home $433,100, 5.8 times income, needing over $100,000 income to buy an average home and three to four times that in big cities.",
+      "mots_cles": [
+        "home prices vs income",
+        "1984 vs 2022",
+        "median home price $433,100",
+        "median income $74,600",
+        "5.8 times income",
+        "millennials Gen Z",
+        "home ownership",
+        "$100,000 to buy a home"
+      ],
+      "texte": "counterpoint usually brought up by older people falls along the lines of, \"I bought my first house when I was 26 working as a waiter. Why can't you?\" But things actually aren't that easy for millennials and Gen Z trying [music] to work their way up to home ownership in today's economy. In 1984, the median annual household income in the US was just over 22,400, while the median home sale price [music] was 78,200. So, an average home was around 3 1/2 times a household income. By 2022, the median household income had gone up to just under 74,600 per year, while the median [music] home sale price was now 433,100. In other words, 5.8 times the average annual household income. According [music] to the income rules many realtors go by, that means as of 2022, an American household needs to make above $100,000 to buy an [music] average home in their city. And in some of the nation's biggest cities, they'll need to make three to four [music] times that."
+    },
+    {
+      "id": 339,
+      "debut": 13164.64,
+      "fin": 13193.2,
+      "temps_estime": false,
+      "titre": "Housing shortage: 3 million homes short and its causes",
+      "resume": "As of 2022 the US is more than 3 million homes short of demand, which is why browsing Zillow has become the millennial version of reading fantasy novels. Causes include labor shortages for building, NIMBY policies blocking new construction, high materials costs from supply chain shocks and inflation, and rising interest rates.",
+      "mots_cles": [
+        "housing shortage",
+        "3 million homes short",
+        "Zillow",
+        "labor shortages",
+        "NIMBY zoning",
+        "construction costs",
+        "supply chain shocks",
+        "rising interest rates"
+      ],
+      "texte": "That's partly due to housing shortages. As of 2022, the US is more than [music] 3 million homes short of the demand from wouldbe home buyers, which is why browsing Zillow has become the millennial version of reading fantasy novels. >> [music] >> The shortage is caused by a combination of factors. There's the labor shortages needed to build them, nimi policies blocking new construction in existing neighborhoods, [music] and the high cost of materials thanks to global supply chain shocks and inflation. Rising interest rates haven't helped matters."
+    },
+    {
+      "id": 340,
+      "debut": 13193.2,
+      "fin": 13230.72,
+      "temps_estime": false,
+      "titre": "Mortgage rates at 6.76% and boomers staying in their homes",
+      "resume": "After two decades of low rates, mortgage rates were raised to fight pandemic-related inflation, with 30-year fixed rates around 6.76%, almost double 2016. Buyers need more money, and empty nester boomers and Gen X, reluctant to buy at higher rates, stay in their paid-off homes, keeping supply off the market and worsening the shortage.",
+      "mots_cles": [
+        "mortgage rates 6.76%",
+        "30-year fixed mortgage",
+        "baby boomers",
+        "Gen X empty nesters",
+        "housing supply",
+        "pandemic inflation",
+        "interest rates 2016",
+        "housing market"
+      ],
+      "texte": "After over two decades of relatively low interest rates on home mortgages, the rates got jacked up to combat [music] the inflation caused by pandemic relief efforts. This led to current 30-year fixed rate mortgage [music] interest rates hovering around 6.76% almost double what it was in 2016. [music] That means that not only do people need much more money available to buy a house as they'll be paying higher interest rates on mortgages, but empty neester boomers and Gen X who would generally be downsizing at this point are less likely to go buy a new expensive property for a much higher interest rate. So, they continue to live in their paid off homes, keeping it off the market and worsening the [music] housing shortage."
+    },
+    {
+      "id": 341,
+      "debut": 13230.72,
+      "fin": 13296.48,
+      "temps_estime": false,
+      "titre": "Home ownership builds wealth, renters fall behind",
+      "resume": "Not being able to buy a house limits how much wealth you and your descendants can build. A National Association of Realtors report found middle-income homeowners accumulated $122,100 in wealth by 2023 with 68% property appreciation since 2012; Lawrence Yun says a mortgage is forced savings giving homeowners about 40 times a renter's net worth. In 2022 renters spent 30% of income on rent and the owner-renter wealth gap grew 70% in three decades (Bremer Bank).",
+      "mots_cles": [
+        "home ownership wealth",
+        "National Association of Realtors",
+        "$122,100 wealth",
+        "68% appreciation",
+        "Lawrence Yun",
+        "renters 30% of income",
+        "Bremer Bank wealth gap",
+        "mortgage forced savings"
+      ],
+      "texte": "People's inability to buy a house and invest in property that's going to appreciate makes a huge impact on how much wealth you can build in your life and [music] how much wealth your children and grandchildren can build. Home ownership itself helps people build wealth by giving them the ability to take out loans [music] against their property that they can use to invest or build up something of their own. A report by the National Association of Realtors found out that [music] by 2023, middleincome homeowners had accumulated $122,100 in wealth due to an average of 68% appreciation in their property value since [music] 2012. N chief economist Lawrence Yun says a monthly mortgage payment is often considered [music] a forced savings account that helps homeowners build a net worth about 40 times higher than that of a renter. In the meantime, [music] the potential of renters to build a path toward home ownership is becoming more and more bleak. In 2022, [music] renters in the US spent an average of 30% of their income on rent, a record high that's only continued to rise. According to Bremer Bank, that's led to a 70% increase [music] in the wealth gap between owners and renters in the last three decades. Now, people born rich"
+    },
+    {
+      "id": 342,
+      "debut": 13296.48,
+      "fin": 13341.68,
+      "temps_estime": false,
+      "titre": "Rich kids learn financial literacy early",
+      "resume": "Being born rich gives more than money: many rich kids meet their parents' financial advisers, manage small portfolios and receive dividends from a young age, and learn which financial instruments and loopholes build wealth before finishing high school. Moneyzen found 58% of Americans earning over $100,000 are financially literate, while literacy in the general population is at a low and most people lack a team of managers and lawyers.",
+      "mots_cles": [
+        "financial literacy",
+        "rich kids",
+        "parents' financial advisers",
+        "small portfolios",
+        "Moneyzen 58%",
+        "$100,000 earners",
+        "financial instruments loopholes",
+        "wealth advantages"
+      ],
+      "texte": "have an obvious advantage when it comes to becoming rich themselves, money. But being born into a wealthy family actually gives you a lot more advantages than that. Starting with [music] financial literacy. Many rich kids are having meetings with their parents' financial adviserss. Given [music] small portfolios to manage and get interest dividends from a young age. They're told exactly what financial instruments and loopholes can help them accumulate wealth before they've even graduated high school. Which is perhaps why Moneyzen found that 58% of Americans who earn over $100,000 are financially literate. On the other hand, financial literacy among the general population is at an all-time low. And without a team of [music] business managers, advisers, and lawyers to tell most people what to do and how to plan out their financial future, who can blame them? That's why"
+    },
+    {
+      "id": 343,
+      "debut": 13341.68,
+      "fin": 13381.28,
+      "temps_estime": false,
+      "titre": "Low financial literacy among low earners and Gen Z; why people don't invest",
+      "resume": "Only 28% of Americans earning under $25,000 are financially literate, finance isn't taught in most high schools, many graduates can't explain mortgages or IRAs, and Gen Z has the lowest literacy rate, 38% knowing anything about investments. A World Economic Forum survey found 40% of non-investors don't invest because they don't know how and 70% would invest with better education.",
+      "mots_cles": [
+        "financial literacy low income",
+        "28% under $25,000",
+        "Gen Z 38%",
+        "World Economic Forum survey",
+        "40% don't know how to invest",
+        "financial education",
+        "IRAs mortgages",
+        "high school finance"
+      ],
+      "texte": "only 28% of Americans [music] with an income of less than $25,000 are financially literate. After all, it's not like managing your finances is taught in most high schools. Most people graduating college can't even fully explain how mortgages or IAS work. Gen Z has the lowest overall financial literacy rate [music] with only 38% knowing anything about investments. Not knowing what you're doing is a big problem. A survey by the World Economic Forum found that 40% of people who choose not to invest, implying those who have some money to do so, [music] don't invest because they don't know how. 70% of people surveyed said they'd be more likely to invest with better financial education. [music] Well-off parents are"
+    },
+    {
+      "id": 344,
+      "debut": 13381.28,
+      "fin": 13433.28,
+      "temps_estime": false,
+      "titre": "Credit score advantage: authorized users and piggybacking for privileged kids",
+      "resume": "Well-off parents also build their kids' credit: a 2019 creditcards.com poll found 8% of 1,500 parents added children as authorized users, often without the children knowing, and parents can co-sign loans while peers struggle above a 600 score. This piggybacking is one way the credit system favors consumers from privileged, high-income, predominantly white neighborhoods, per economist Ying Lei.",
+      "mots_cles": [
+        "credit score",
+        "authorized users",
+        "piggybacking credit",
+        "creditcards.com 2019 poll",
+        "co-sign loans",
+        "privileged backgrounds",
+        "credit system bias",
+        "parents' credit cards"
+      ],
+      "texte": "using that financial literacy to set up their kids for life in another way as well. by building up their credit score. One 2019 poll by creditcards.com found that 8% of 1500 American parents surveyed had their children added onto their credit cards as authorized users. This [music] was to gain the system and to help them build up their credit. Many of the kids didn't even know that they were on their parents' cards, [music] but that good score was building up for them regardless. Those same parents will also be able to co-sign loans with their kids while their peers are still trying to raise their score above a 600. [music] This is called piggybacking, meaning when people get a good credit score by piggybacking off someone else with good credit to build up their own. And as economist Yingly shares, it's just [music] one of the many ways in which the credit score system in general favors consumers that come from more privileged backgrounds, [music] from highincome households, and from predominantly white neighborhoods. On"
+    },
+    {
+      "id": 345,
+      "debut": 13433.28,
+      "fin": 13463.52,
+      "temps_estime": false,
+      "titre": "Poor credit means worse terms: punished for being poor",
+      "resume": "For people with no wealth or assets, building credit is a minefield: it is hard to get credit cards with decent limits, renting a decent apartment is an uphill battle, and cards come with worse interest rates because they are riskier, so unpaid balances cost more than for those with money and good credit.",
+      "mots_cles": [
+        "building credit",
+        "credit card limits",
+        "high interest rates",
+        "renting apartment credit",
+        "risk premium",
+        "poverty penalty",
+        "credit score",
+        "punished for being poor"
+      ],
+      "texte": "the other hand, for people [music] with no wealth or assets, building up credit can be a minefield. It's almost impossible to get approved for credit cards with any decent limit. Renting a decent [music] apartment becomes an uphill battle. And if you do get a credit card, you'll be offered way worse interest rates than someone with good established credit [music] since you are considered more of a risk. That means that if you can't pay off the full amount in any one month, you'll [music] get dinged more than a person with more money and a good credit score. In other words, you'll be punished for being poor. The other advantage that rich kids"
+    },
+    {
+      "id": 346,
+      "debut": 13463.52,
+      "fin": 13522.64,
+      "temps_estime": false,
+      "titre": "Education advantage: rich kids get better schooling from early childhood",
+      "resume": "Rich kids have access to better education from the start of life. The World Bank links each year of primary and secondary schooling to about 9.1% higher income, but returns differ: a New York Times report found sixth graders in the richest districts four grade levels ahead of those in the poorest, and the Center for Economic Policy Research found childhood investments drive intergenerational earnings persistence.",
+      "mots_cles": [
+        "education inequality",
+        "World Bank 9.1% return",
+        "school districts gap",
+        "New York Times report",
+        "four grade levels",
+        "intergenerational earnings",
+        "childhood investment",
+        "Center for Economic Policy Research"
+      ],
+      "texte": "have over others when it comes to eventually attaining wealth involves access to better education starting at the very beginning of a child's life. According to the World Bank, there is a clear global link between education and earnings. On average, each year of primary and secondary schooling boosts future income by about 9.1%. [music] But in many countries, particularly rich ones like the US, the returns on education aren't the same for everyone. A New York Times [music] report found that sixth graders in the richest school districts are four grade levels ahead of students in the poorest school [music] districts. If by the time you've entered middle school, the wealth of your neighborhood has already determined if you're jetting ahead or being left behind, it becomes really hard to make up that gap later in life. The Center for Economic Policy Research analyzed intergenerational earnings and concluded that the main driver of intergenerational earnings persistence are [music] differences in investments received during childhood, which subsequently leads to improved [music] cognition and more years spent in education. Then people born into money"
+    },
+    {
+      "id": 347,
+      "debut": 13522.64,
+      "fin": 13567.28,
+      "temps_estime": false,
+      "titre": "Elite colleges: less than 1% of students, outsized share of CEOs and top earners",
+      "resume": "A general college degree may not raise earnings much while adding debt, but an elite degree almost certainly does. Less than 1% of students attend the 12 most elite universities (eight Ivy League schools, Stanford, Duke, MIT, University of Chicago), yet 12% of Fortune 500 CEOs and 13% of the top 0.1% of earners are alumni, partly because the rich get better grades with tutors and SAT prep.",
+      "mots_cles": [
+        "elite universities",
+        "Ivy League",
+        "Fortune 500 CEOs 12%",
+        "top 0.1% earners 13%",
+        "college degree value",
+        "SAT prep tutors",
+        "Stanford Duke MIT",
+        "student debt"
+      ],
+      "texte": "have another major advantage, the opportunity to attend one of the world's best colleges. [music] Because while getting a general college degree might not make that much of a difference in earnings anymore while saddling you with debt, getting an elite college degree almost certainly will. Less [music] than 1% of all American college students will ever attend one of the nation's 12 most elite universities, [music] the eight Ivy League schools, plus Stanford, Duke, MIT, and the University of Chicago. Yet [music] 12% of Fortune 500 CEOs are alumni of those schools. And among the top 0.1% of earners, 13% [music] hold degrees from one of them. And it's not just because the rich get better grades. Though that certainly is part of it thanks to more resources, support, and [music] access to tutors and SAT prep."
+    },
+    {
+      "id": 348,
+      "debut": 13567.28,
+      "fin": 13623.76,
+      "temps_estime": false,
+      "titre": "Opportunity Insights: elite admissions favor the top 1% and top 0.1%",
+      "resume": "Harvard's Opportunity Insights found that with the same SAT or ACT score children of the top 1% were 34% more likely to be admitted and those of the top 0.1% twice as likely. Explanations include legacy applicants, wooing large donors, subconscious bias and extracurricular support, amounting to affirmative action for children of families earning over $611,000.",
+      "mots_cles": [
+        "Opportunity Insights",
+        "college admissions",
+        "top 1% 34% more likely",
+        "top 0.1% twice as likely",
+        "legacy applicants",
+        "donors",
+        "affirmative action for the rich",
+        "$611,000 income"
+      ],
+      "texte": "Harvard's Opportunity Insights group conducted research that showed for applicants with the same SAT or ACT score, children from families in the top 1% were 34% more likely to be admitted than the average applicant. Those in the top 0.1% were [music] twice as likely to be admitted as the average applicant. Though the study didn't fully explain the gap in admissions, it pointed to items like legacy applicants, kids whose parents went to the school, and universities desire to forge relationships with potential large donors. Other experts suggest that subconscious bias [music] toward considering wealthy candidates better suited may also play a role. So too is the fact [music] that wealthy kids had more money and support for extracurricular activities and other distinctions that could impress admission boards. But no matter what the reason, university admissions policies essentially amounted to affirmative action for the children of the 1% whose parents can earn more than $611,000 a year. Most depressingly for those coming"
+    },
+    {
+      "id": 349,
+      "debut": 13623.76,
+      "fin": 13666.48,
+      "temps_estime": false,
+      "titre": "Elite admissions: middle class less likely to get in, poorest mostly never apply",
+      "resume": "The lopsided admissions process does nothing for middle and upper-middle class applicants, who were less likely than average to be accepted at an elite university. The poorest were more likely to be admitted than average only because so few applied; many lacked a competitive application or the confidence to apply, and the biggest barrier is the cost of attendance.",
+      "mots_cles": [
+        "elite university admissions",
+        "middle class less likely accepted",
+        "low-income applicants",
+        "few apply",
+        "confidence to apply",
+        "cost of attendance",
+        "working-class families",
+        "admissions gap"
+      ],
+      "texte": "from middle and upper class families, this lopsided [music] admissions process does nothing to help their acceptance at all. In fact, just the opposite. Children from middle and upper class families were less likely to get accepted [music] into an elite university compared to the average applicant. Children from the poorest families were actually more likely to be admitted than the average applicant, but only because so few [music] applied in the first place. Most never had the chance to build a competitive application. Many qualified low-income students lacked the confidence to apply at all. And overshadowing it all was the biggest barrier to entry. [music] The staggering cost of attendance, which shuts out countless working-class and low-income families before the process even begins. These universities are"
+    },
+    {
+      "id": 350,
+      "debut": 13666.48,
+      "fin": 13705.84,
+      "temps_estime": false,
+      "titre": "Harvard costs almost $87,000 a year, up $30,000 in ten years",
+      "resume": "Harvard's 2025-2026 tuition including room and board is almost $87,000 a year, over $347,700 across four years if prices stayed flat, which means taking student loans. In 2015 it was $58,600, an increase of almost $30,000 in ten years.",
+      "mots_cles": [
+        "Harvard tuition",
+        "$87,000 per year",
+        "$347,700 four years",
+        "room and board",
+        "tuition increase since 2015",
+        "$58,600 in 2015",
+        "student loans",
+        "cost of elite education"
+      ],
+      "texte": "expensive, more than your salary expensive. The annual tuition for Harvard University for the 2025 2026 school year, including room and board, is almost $87,000 per year. So, assuming that number doesn't change [music] at all during the four years of your attendance, that means you will owe over $347,700 to the university, or rather the student loan company extorting you so [music] you could go to the university. But don't count on your tuition not changing at all. In 2015, Harvard's tuition included room and board was 58,600. [music] That's almost a $30,000 increase for annual tuition over just 10 years."
+    },
+    {
+      "id": 351,
+      "debut": 13705.84,
+      "fin": 13754.56,
+      "temps_estime": false,
+      "titre": "Networks: alumni connections and the hidden job market",
+      "resume": "Wealthy kids have huge networks from family and elite universities; half the reason to attend is the alumni network. A Science Direct paper found university networks have significant power connecting graduates to the labor market, and per CNBC research 80% of jobs are filled through personal and professional connections and 70% are never published publicly.",
+      "mots_cles": [
+        "alumni network",
+        "elite university networking",
+        "Science Direct paper",
+        "80% of jobs through connections",
+        "70% of jobs unpublished",
+        "CNBC",
+        "labor market connections",
+        "job hiring"
+      ],
+      "texte": "Wealthy kids have a huge leg up when it comes to the massive interpersonal networks from [music] their family and top tier elite universities. Half of the reason for going to an insanely expensive elite university in the first place is to be able to access [music] their generally successful alumni network in order to smile your way into a job. One paper on Science Direct looked at the literature on the subject of networking in elite universities. It [music] found that higher educational institutional networks, often overlooked, have significant power in connecting graduates to the labor market. [music] And these networks are powerful because, as CNBC reported, according to research, 80% of jobs are filled through personal and professional connections. In fact, 70% of all jobs aren't even published publicly. So, you can pretty much only get hired for them via networking. Connections play such a"
+    },
+    {
+      "id": 352,
+      "debut": 13754.56,
+      "fin": 13779.68,
+      "temps_estime": false,
+      "titre": "Nature study: poor children with wealthy friends earn 20% more",
+      "resume": "A study published in Nature found poor children with wealthy friends later earned on average 20% more than children of the same class without wealthy friends. The idea that becoming rich is just about being smartest or hardest-working is crumbling around the world, especially in the USA, which promoted it the most.",
+      "mots_cles": [
+        "Nature study",
+        "wealthy friends",
+        "20% higher income",
+        "social connections",
+        "poor children",
+        "hard work myth",
+        "socioeconomic class",
+        "American dream myth"
+      ],
+      "texte": "big role in life and future earnings. A study published in Nature found that poor children with wealthy friends were able to obtain an average income later in life that was 20% higher than [music] kids from their same socioeconomic class without wealthy friends. One thing is clear, the idea that becoming rich is all about being the smartest or hardest working is quickly crumbling around the world. And this is evident in the country that promoted it the hardest of all, the USA. [music]"
+    },
+    {
+      "id": 353,
+      "debut": 13779.68,
+      "fin": 13824.56,
+      "temps_estime": false,
+      "titre": "Declining social mobility in the US: only 50% earn more than their parents",
+      "resume": "Opportunity Insights found that more than 90% of children born in 1940 earned more than their parents but only 50% of those born in the mid-1980s; the Brookings Institution found only 6% of children from the bottom income move to the top. The US ranked 27th in social mobility in 2020 per World Population Review, between Lithuania and Spain.",
+      "mots_cles": [
+        "social mobility",
+        "Opportunity Insights",
+        "children born in 1940 earn more than parents",
+        "mid-1980s 50% chance",
+        "Brookings 6% bottom to top",
+        "World Population Review 27th",
+        "American dream",
+        "intergenerational income"
+      ],
+      "texte": "This is reflected in the sharp decline of social mobility in the US. The nonpartisan research center Opportunity Insights found [music] that more than 90% of children born in 1940 earned more than their parents did. But those born in the mid1 1980s only had a 50% chance of doing so. Today, [music] the Brookings Institution found that only 6% of children born to parents with family income at the very bottom move up to the very top. Though the opportunities people have to move on up in life are generally decreasing throughout the rich world, the US has got it especially bad. According to World Population Review, it was ranked 27th globally in social mobility in 2020, sandwiched [music] between Lithuania and Spain. Hardly a big win for the home of the American dream. So, what does this mean for"
+    },
+    {
+      "id": 354,
+      "debut": 13824.56,
+      "fin": 13862.64,
+      "temps_estime": false,
+      "titre": "Five generations to reach average income in the US versus two in Denmark",
+      "resume": "In Denmark, the most socially mobile country, it takes a person born low-income two generations to reach the average income; in the United States it takes five. It is also hard for the richest to fall: the World Economic Forum found less than 10% of the richest 25% had low-income fathers while almost 50% had high-income fathers.",
+      "mots_cles": [
+        "Denmark social mobility",
+        "generations to reach average income",
+        "United States five generations",
+        "World Economic Forum",
+        "richest 25%",
+        "low-income fathers",
+        "high-income fathers",
+        "intergenerational mobility"
+      ],
+      "texte": "people on the ground? Well, in the most socially mobile country, Denmark, it takes the average [music] person born into a low-income family two generations to reach the mean average income. In the United [music] States, it takes five. Instead of your grandkid doing well, your great great great grandkid will get by just fine, maybe. [music] And it's not just that it's hard to break into the top. It's hard for the richest to fall to the bottom level as well. When looking at the richest 25% [music] of people in US society, the World Economic Forum further found that less than 10% of them had lowincome fathers. On the other hand, almost 50% of them had notably high income fathers. Both stats"
+    },
+    {
+      "id": 355,
+      "debut": 13862.64,
+      "fin": 13885.44,
+      "temps_estime": false,
+      "titre": "Conclusion: wealth is about access, not discipline, and a teaser for the next video",
+      "resume": "Becoming rich is not just about discipline or hard work but access to wealth, credit building, assets and connections; for many people real wealth was never meant to be within reach. The last lines tease a video on the richest man who ever lived and ask viewers to check out another video.",
+      "mots_cles": [
+        "access to wealth",
+        "credit building",
+        "assets connections",
+        "hard work myth",
+        "wealth inequality",
+        "never meant to be rich",
+        "richest man that ever lived",
+        "conclusion"
+      ],
+      "texte": "and real life examples show us that becoming rich [music] is not just about discipline or hard work. It's about access to wealth, to credit building, to assets, to connections. For [music] many people, obtaining real wealth isn't just challenging. It was never meant to be within their reach to begin [music] with. If you think modern billionaires have it made, just wait until you learn about the richest man that ever lived. Or check out this video instead."
     }
   ]
 }
