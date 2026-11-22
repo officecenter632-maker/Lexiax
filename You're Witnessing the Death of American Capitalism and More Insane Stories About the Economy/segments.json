@@ -4,12 +4,12 @@
   "titre_video": "You're Witnessing the Death of American Capitalism and More Insane Stories About the Economy",
   "duree_s": 11029.12,
   "avancement": {
-    "lignes_traitees": 3612,
-    "fin_traitee_s": 7330.68,
+    "lignes_traitees": 4539,
+    "fin_traitee_s": 9215.48,
     "nb_lignes_total": 5541,
     "complet": false
   },
-  "nb_segments": 133,
+  "nb_segments": 165,
   "segments": [
     {
       "id": 1,
@@ -2502,6 +2502,600 @@
         "reserve currency risk"
       ],
       "texte": "Unlike most of the rest of the world, the United States exports more oil than it imports, mostly from either Mexico or Canada. It's a convenient closed North American circuit. What you may not know is that the United States is currently the single largest oil producer on the earth, producing more than it consumes. So, while the US doesn't need to buy oil in dollars, it needs the rest of the world to buy oil in dollars. In fact, it depends on it. It's a completely different problem, and one the United"
+    },
+    {
+      "id": 134,
+      "debut": 7330.68,
+      "fin": 7364.84,
+      "temps_estime": false,
+      "titre": "Chapter 2: Bretton Woods and the dollar pegged to gold",
+      "resume": "In 1944 the US gathered 44 countries at Bretton Woods, New Hampshire, with its factories, most of the gold and military power. Every currency was pegged to the dollar and the dollar to gold at $35 an ounce, making a dollar a claim on real gold.",
+      "mots_cles": [
+        "Bretton Woods",
+        "1944",
+        "gold standard",
+        "$35 an ounce",
+        "dollar peg",
+        "44 countries",
+        "1974 secret handshake",
+        "currency system"
+      ],
+      "texte": "States is currently losing. Chapter 2, the 1974 [music] secret handshake. In 1944, the United States gathered 44 countries in Bretton Woods, New Hampshire, and they made them an offer. America had all these factories, most of the gold, and a global military posture that could politely discourage disagreement. The deal was simple. Everyone would peg their currency to the dollar. The dollar would be pegged to gold at $35 an ounce. In other words, a dollar represented more than just a piece of paper. It could be a claim on something real, real gold. And for about 20 years, it worked"
+    },
+    {
+      "id": 135,
+      "debut": 7364.84,
+      "fin": 7416.16,
+      "temps_estime": false,
+      "titre": "Deficits, French gold repatriation and the end of the peg",
+      "resume": "Vietnam, the Great Society, the space race and defense spending led the US to print dollars faster than it had gold by the late 1960s. The French and others cashed dollars in for gold, France repatriating over 3,000 tons, and US gold reserves, once 80% of the world's supply, drained until 1971.",
+      "mots_cles": [
+        "US deficits",
+        "Vietnam War",
+        "Great Society",
+        "France gold repatriation",
+        "3,000 tons of gold",
+        "gold reserves drain",
+        "dollar printing",
+        "1971"
+      ],
+      "texte": "beautifully. Then the cracks started to show. America made some expensive investments. Vietnam, the Great Society, the space race, a defense budget that would make a Las Vegas whale blush. By the late 1960s, the US was running deficits and printing dollars faster than it had gold to back them. That's when the Europeans, the French in particular, started doing the math. They started looking at how many dollars were actually circulating, and then they looked at America's gold reserves. And [music] they decided those numbers were not adding up. So, they started cashing out, literally. They loaded dollars into hundreds of planes and ships, and they came back with gold. Over 3 years, France repatriated over 3,000 tons of gold to its vaults. Other countries followed. America's gold reserves, once 80% of the world's supply, started draining fast. By 1971, the jig was up."
+    },
+    {
+      "id": 136,
+      "debut": 7416.16,
+      "fin": 7455.6,
+      "temps_estime": false,
+      "titre": "The Nixon shock of 1971",
+      "resume": "Richard Nixon closed the gold window in 1971, ending dollar convertibility to gold and cancelling Bretton Woods without warning or a vote. Currencies then floated against each other without an anchor, producing a spike in inflation and a system based on trust in America.",
+      "mots_cles": [
+        "Nixon shock",
+        "closed the gold window",
+        "end of Bretton Woods",
+        "dollar convertibility",
+        "floating currencies",
+        "1971",
+        "inflation spike",
+        "trust in the dollar"
+      ],
+      "texte": "So, Richard Nixon went on television and closed the gold window. He announced that effective immediately, US dollars were no longer convertible to gold. He canceled [music] Bretton Woods with no warning and no vote. The Americans called it the Nixon shock. The French called it several things that don't translate politely. Suddenly, the global financial system, previously tied to gold, was now built on, well, a vague sense of trust that America would behave responsibly. Given the preceding decade, it was quite a lot to ask. Over the next few years, things got weird. Currencies floated against each other with no anchor, which led to a massive spike in inflation. The system was held together by good vibes and crossed fingers. Then"
+    },
+    {
+      "id": 137,
+      "debut": 7455.6,
+      "fin": 7495.16,
+      "temps_estime": false,
+      "titre": "1973 OPEC oil embargo and Kissinger steps in",
+      "resume": "In October 1973 the Arab members of OPEC led by Saudi Arabia imposed an oil embargo, quadrupling prices and causing gas lines. With the dollar unbacked and the economy wobbling, Henry Kissinger was tasked with finding a new reason for the world to want dollars.",
+      "mots_cles": [
+        "OPEC oil embargo 1973",
+        "Saudi Arabia",
+        "oil prices quadrupled",
+        "gas lines",
+        "Henry Kissinger",
+        "dollar without gold",
+        "energy crisis"
+      ],
+      "texte": "in October 1973, [music] the Arab members of OPEC, led by Saudi Arabia, declared an oil embargo against the United States. Prices quadrupled. Gas stations ran dry. Americans lined up around city blocks hoping to fill their tanks. The [music] economy, already limping, took a chair to the knees, which is when Henry Kissinger stepped in. Kissinger, depending on your perspective, was either a master strategist or a war criminal with excellent table manners. What he undeniably was was effective, something that was in short supply in 1974. The dollar had just lost its gold backing. [music] The economy was wobbling. The US needed a new reason for the world to want its currency, and fast. [music]"
+    },
+    {
+      "id": 138,
+      "debut": 7495.16,
+      "fin": 7573.4,
+      "temps_estime": false,
+      "titre": "The Kissinger-Saudi petrodollar deal of 1974",
+      "resume": "Kissinger proposed backing the dollar with oil: Saudi Arabia would sell oil exclusively in dollars, so every country needing oil would first need dollars, in exchange for US security guarantees. Every major oil producer followed within a year, and parts of the arrangement stayed classified until 2016.",
+      "mots_cles": [
+        "petrodollar",
+        "Kissinger",
+        "Saudi Arabia",
+        "oil priced in dollars",
+        "security guarantee",
+        "1974 agreement",
+        "classified until 2016",
+        "OPEC producers"
+      ],
+      "texte": "Kissinger's solution was almost absurd in its simplicity. If you can't back the dollar with gold, back it with oil, something every single country needs every single day. With this idea floating around in his head, he went to Saudi Arabia under the pretense of helping modernize infrastructure. But behind closed doors, the real deal took shape. Saudi Arabia would sell its oil exclusively in US dollars, which meant that every country on the earth that needed oil would first need dollars to buy it with. And just like that, a country that had quietly walked away from gold had created a new rule. If you want energy, you need dollars. In exchange, the US guaranteed Saudi Arabia's security. The Saudis essentially got the most powerful bodyguard in history. America got its monetary mojo back. Both parties went home [music] happy. Within a year, every major oil producer followed suit. No grand vote, no global summit. Saudi Arabia moved, and it made sense, and everyone else fell in line. And the wildest part? Well, some parts of this arrangement stayed classified for over 40 years. The deal that quietly determined the cost of energy, housing, and groceries for half a century >> [music] >> wasn't publicly confirmed until 2016, which tells you something. But by then, the system had already been working almost perfectly without interruption for half of a century. Until now."
+    },
+    {
+      "id": 139,
+      "debut": 7573.4,
+      "fin": 7617.4,
+      "temps_estime": false,
+      "titre": "Chapter 3: the petrodollar as a toll booth on the global economy",
+      "resume": "Pricing oil in dollars turned America's currency weakness into a strategic weapon: countries held dollar reserves and invested them in US Treasury bonds, financing Washington. The US funded highways, wars and its military this way, like a toll booth on the global economy.",
+      "mots_cles": [
+        "petrodollar system",
+        "US Treasury bonds",
+        "dollar reserves",
+        "financing US government",
+        "Cold War",
+        "toll booth",
+        "foreign debt purchases"
+      ],
+      "texte": "Chapter 3: Enter the Dragon. What Kissinger built did something remarkable. It took America's greatest vulnerability, a currency that was no longer backed by anything physical, and it turned it into its greatest strategic weapon. Once oil was priced in dollars, countries no longer used up their dollar reserves. They held on to them. And when they held on to them, they invested them mostly into US Treasury bonds, which meant that every time a foreign government bought American debt, they were effectively financing Washington's federal government. The US [music] built highways, funded wars, expanded its military, and won the Cold War, all while the rest of the world helped foot the bill. It was like installing a toll booth on the global economy, and then making every country pass through it just to turn on their lights. For 50"
+    },
+    {
+      "id": 140,
+      "debut": 7617.4,
+      "fin": 7650.08,
+      "temps_estime": false,
+      "titre": "China as Saudi Arabia's largest oil customer",
+      "resume": "China builds a road around the toll booth: it imports nearly 2 million barrels a day from Saudi Arabia, about 127 Olympic pools of crude daily, and is the kingdom's largest customer. It has paid in dollars, feeding the US system, but a quieter technical development revealed its plan.",
+      "mots_cles": [
+        "China oil imports",
+        "Saudi Arabia largest customer",
+        "2 million barrels per day",
+        "paid in dollars",
+        "toll booth",
+        "China strategy"
+      ],
+      "texte": "years, the toll booth held. Then China decided to build a road around it. China currently imports nearly 2 million barrels of oil per day from Saudi Arabia alone. That's enough to fill approximately 127 Olympic-size swimming pools with crude oil every 24 hours. China's now Saudi Arabia's single largest customer. [music] For years, it's paid for all of that oil in dollars. For each barrel purchased, an invisible fee flowed back into the US system, all because of that deal in the '70s. But it was a different development, quieter and more technical,"
+    },
+    {
+      "id": 141,
+      "debut": 7650.08,
+      "fin": 7723.0,
+      "temps_estime": false,
+      "titre": "mBridge, SWIFT and the freezing of Russian reserves",
+      "resume": "mBridge, launched in 2021 from the Bank for International Settlements in Basel, lets countries move money directly using central bank digital currencies without US oversight. Today payments route through Western banks and SWIFT, which the US weaponized in 2022 by expelling Russian banks and freezing about $300 billion of Russian reserves.",
+      "mots_cles": [
+        "mBridge",
+        "CBDC",
+        "Bank for International Settlements",
+        "SWIFT",
+        "Russia sanctions 2022",
+        "$300 billion frozen",
+        "G7",
+        "central bank digital currencies"
+      ],
+      "texte": "that revealed China's true game plan. In 2021, a project launched out of Basel, Switzerland's Bank for International Settlements. It was called mBridge, the Multiple Central Bank Digital Currency, or CBDC Bridge. That name is forgettable. The idea is not. mBridge is a system that lets countries move money directly between each other using digital currencies issued by their own central banks. It avoids intermediaries, detours, and most critically, any US oversight. To understand why that matters, you have to understand how things work today. Right now, if Thailand wants to send money to China, it must bounce it through a chain of banks, most of them Western, and then ultimately settle the transaction in dollars using Swift. Swift is the messaging system that banks use to talk to each other. It processes about $5 a day, and because it operates under Western oversight, the US has enormous influence over it, which means it can be weaponized, and it has been. When Russia invaded Ukraine in February 2022, the G7 kicked the Russian banks out of Swift and froze approximately $300 billion in Russian Western reserves. If you're another country watching that happen, like China, India, or Saudi Arabia, you start to ask uncomfortable questions."
+    },
+    {
+      "id": 142,
+      "debut": 7723.0,
+      "fin": 7769.64,
+      "temps_estime": false,
+      "titre": "China built its own exit: mBridge growth",
+      "resume": "After the Russian freeze, China, India and Saudi Arabia asked what if they were next, and China built a payment system that bypasses SWIFT. mBridge went live in 2024 and processed over 4,000 transactions worth $55 billion by late 2025, still tiny but a way around the dollar toll booth.",
+      "mots_cles": [
+        "mBridge transactions",
+        "$55 billion",
+        "bypass SWIFT",
+        "China payment system",
+        "2024 launch",
+        "US financial weapon",
+        "sanctions risk"
+      ],
+      "texte": "What happens if we're next? China didn't write a strongly worded letter in response. It simply just built its own [music] exit. And that's the gist of InBridge, a payment system that routes around Swift entirely. It went live in 2024. By late 2025, InBridge had processed over 4,000 transactions worth $55 billion, a massive increase from its early tests. But, [music] it is still tiny compared to Swift. InBridge wasn't designed to force its users to ask the West's permission to make transactions. It was designed to avoid that, which makes it something entirely new. It's not a replacement for the toll booth, but it is certainly a way around it. America's financial nuclear weapon, its ability to cut off any country from the global economy, doesn't look so unavoidable anymore. And this is where things get"
+    },
+    {
+      "id": 143,
+      "debut": 7769.64,
+      "fin": 7819.8,
+      "temps_estime": false,
+      "titre": "Chapter 4: the myth of the expired petrodollar agreement",
+      "resume": "In June 2024 news claimed Saudi Arabia let the petrodollar agreement expire, but the 1974 bilateral agreement had technically expired in 2001 and was never a treaty. The petrodollar was a self-reinforcing structural habit of mutual dependency that is unraveling one yuan-denominated oil transaction at a time.",
+      "mots_cles": [
+        "Saudi petrodollar expiry",
+        "June 2024",
+        "1974 agreement",
+        "never a treaty",
+        "yuan oil trade",
+        "structural dependency",
+        "dedollarization"
+      ],
+      "texte": "scary. Chapter 4, the slow bleed. In June 2024, news exploded across the internet claiming that [music] Saudi Arabia had allowed its petrodollar agreement to expire. The deal was dead. It was time for the dollar to pack its bags. The Saudis were ready to receive payments from a grab bag of currencies, including the euro, the rupee, and even the Chinese yuan. It's a bit of a stretch to say that there was ever a binding legal contract at all. The 1974 bilateral economic agreement between the US and Saudi Arabia had technically expired in 2001, and it was never the legal foundation of anything. The petrodollar system was never a treaty, but a structural agreement, a self-reinforcing habit of mutual dependency. It didn't need to be renewed. It was simply baked into the architecture of global trade itself. That system, though, is undeniably unraveling, one yuan-denominated oil"
+    },
+    {
+      "id": 144,
+      "debut": 7819.8,
+      "fin": 7875.52,
+      "temps_estime": false,
+      "titre": "Pozsar's Bretton Woods 3 and the slow bleed of the dollar",
+      "resume": "Economist Zoltan Pozsar's Bretton Woods 3 says the world is shifting from inside money, such as Treasury bonds, to outside money like gold and commodities. After the G7 froze Russia's reserves, dollar assets looked confiscatable, and the dollar's share of foreign reserves fell from about 85% in the 1970s to roughly 58%, a two-decade low.",
+      "mots_cles": [
+        "Zoltan Pozsar",
+        "Bretton Woods 3",
+        "inside money",
+        "outside money",
+        "commodities as collateral",
+        "dedollarization",
+        "dollar reserve share 58%",
+        "frozen Russian reserves"
+      ],
+      "texte": "transaction at a time. Economist Zoltan Pozsar called this transition Bretton Woods 3. His argument, first made in March 2022, is that the world is shifting from what he calls inside money, paper claims on governments like US Treasury bonds, to outside money, physical stuff like gold and commodities. His punchline was commodities are collateral and collateral is money. When the G7 froze Russia's reserves, it didn't merely punish Russia. It told every non-Western central bank on Earth that dollar-denominated assets could be confiscated, and that changed the calculus permanently. In practice, dedollarization, as it's been called, looks more like a slow bleed than an outright crash. The dollar share of global foreign exchange reserves has dropped from [music] around 85% in the 1970s to roughly 58% today. Sure, it took 50 years to get to a number that's still nothing to balk at, but that number it is the lowest point in two [music] decades. And here is where all"
+    },
+    {
+      "id": 145,
+      "debut": 7875.52,
+      "fin": 7938.2,
+      "temps_estime": false,
+      "titre": "How dedollarization could hit mortgage rates and Treasury yields",
+      "resume": "The US pays over a trillion dollars a year in interest, kept in check by foreign governments buying Treasuries. Mortgage rates track Treasury yields; if fewer countries need dollars for oil, fewer Treasuries are bought, yields rise and mortgage rates follow, as when rates rose from 2.65% to 7.79% in 2021-2023.",
+      "mots_cles": [
+        "US debt interest",
+        "Treasury yields",
+        "mortgage rates",
+        "2.65% to 7.79%",
+        "foreign Treasury demand",
+        "Federal Reserve",
+        "$400,000 loan",
+        "bond prices"
+      ],
+      "texte": "of this might land in your life. The US government currently pays over a trillion dollars a year in interest on its debt. That is more than the annual spend of the entire defense and education budgets combined. The number is kept from being even more catastrophic because foreign governments are constantly buying US Treasury bonds. It keeps [music] the bond prices up and yields, and therefore interest rates, down. Mortgage rates track Treasury yields almost exactly. When rates moved from 2.65% to 7.79% between 2021 and 2023, the monthly payment on a $400,000 loan jumped by almost $1,300, putting car payments and family vacations in jeopardy. Now, imagine that instead of the Fed raising rates deliberately, [music] the driver is simply fewer countries needing to buy dollars for oil. With fewer dollars needed, that's fewer Treasuries purchased. Bond prices [music] quickly fall and yields rise, as mortgage rates follow. The Fed can cut the federal funds rate all it wants, but it can't force central banks to keep absorbing American debt. And [music] if they stop,"
+    },
+    {
+      "id": 146,
+      "debut": 7938.2,
+      "fin": 8010.52,
+      "temps_estime": false,
+      "titre": "Chapter 5: every reserve currency eventually falls",
+      "resume": "Every global reserve currency in history, from the Roman denarius to the Dutch guilder and the British pound, lost its status as the logic behind it faded. Britain's decline came through decades of inflation, bailouts and a falling relative standard of living, a template for the dollar even though the dollar is more embedded than sterling was.",
+      "mots_cles": [
+        "reserve currency history",
+        "Roman denarius",
+        "Dutch guilder",
+        "British pound",
+        "decline of sterling",
+        "final domino",
+        "dollar future",
+        "inflation and bailouts"
+      ],
+      "texte": "that bill lands on you. Chapter 5, the final domino. Every global reserve currency in history has eventually lost that status, every single one. The Roman denarius, the Dutch guilder, the British pound sterling, each one was in its era the operating system of global commerce, and each one fell when the underlying economic logic that made everyone want that currency slowly stopped being true. Reserve currencies have the same problem as bad software. Everyone knows a better option exists, but switching is a pain. So, you keep on running the old version until you absolutely can't anymore. When Britain finally lost reserve currency status, it didn't go quietly all at once in a big apocalyptic bang. It went through decades of inflation, emergency bailouts, and a standard of living that steadily declined relative to the rest of the developed world. The pound just slowly became less and less relevant. British citizens absorbed the cost in ways that never quite showed up on a single front page. That is the template for the dollar today. The US is not Britain in 1945. The dollar is vastly more embedded in global finance than sterling ever was, but the pattern is the same. Build global demand for your currency, and then watch that demand erode. Britain did it through empire."
+    },
+    {
+      "id": 147,
+      "debut": 8010.52,
+      "fin": 8090.96,
+      "temps_estime": false,
+      "titre": "BRICS, mBridge and CIPS route around the dollar",
+      "resume": "BRICS accounts for about 36% of global GDP and 44% of oil production, CIPS connects 109 countries, India buys Russian oil in yuan and rupees, and Brazil and China ditched the dollar in bilateral trade. Saudi Arabia uses mBridge while not joining BRICS, and the risk is not a perfect alternative but the world deciding a good-enough one lets trillions move, hitting interest rates and asset prices.",
+      "mots_cles": [
+        "BRICS",
+        "36% of global GDP",
+        "CIPS",
+        "109 countries",
+        "mBridge",
+        "yuan and rupee oil trade",
+        "Saudi strategic ambiguity",
+        "$39 trillion debt"
+      ],
+      "texte": "America did it through oil. Now, that system is being routed around. BRICS now represents almost 36% of global GDP and 44% of global oil production. The block includes most of the world's largest oil producers. MBridge works, CIPS, China's alternative to SWIFT, connects 109 countries. India is buying Russian oil in yuan and rupees. Brazil and China ditched the dollar in their bilateral trade. Saudi Arabia is conducting transactions on MBridge while simultaneously declining to formally join BRICS. It's exactly the kind of strategic ambiguity a country maintains when it's keeping its options open. None of these systems are the dollar. None of them replace SWIFT on their own, but the dollar didn't take over the world overnight either. It won because for decades the rules were simple. The world runs on oil and oil is priced in dollars. So, if you want an energy, you needed dollars. That's the part [music] that's starting to crack. America's $39 trillion in debt only works because the rest of the world keeps needing dollars. The real question isn't whether China builds a perfect alternative. It's what happens when the world decides what it's built is good enough and starts moving those trillions somewhere else. Because if that shift actually begins, it doesn't stay contained to currency markets. It spills into interest rates, asset prices, and eventually real life. And [music] at that point, the system doesn't slowly adjust."
+    },
+    {
+      "id": 148,
+      "debut": 8090.96,
+      "fin": 8118.28,
+      "temps_estime": false,
+      "titre": "Intro: warning signs of a US economic crash (The Infographic Show)",
+      "resume": "A new section from The Infographic Show begins, warning that layoffs, inflation and struggling industries signal the American economy lurching toward a cliff. The episode explores why economists predict a US economic crash and when it might hit.",
+      "mots_cles": [
+        "The Infographic Show",
+        "US economic crash",
+        "layoffs",
+        "inflation",
+        "economists predict",
+        "warning signs",
+        "recession"
+      ],
+      "texte": ">> The warning signs are flashing red. Layoffs are piling up, inflation is biting harder than ever, and entire industries are bracing for impact. The American economy isn't just slowing down, it is lurching toward the edge of [music] a cliff. And if you think this is just another downturn, think again. Because the crash that's coming could be worse than [music] you've imagined. In this episode of The Infographic Show, we're uncovering why economists predict a US economic crash and when they think it will hit. First, [music] are things"
+    },
+    {
+      "id": 149,
+      "debut": 8118.28,
+      "fin": 8187.6,
+      "temps_estime": false,
+      "titre": "BLS chief firing and the collapsing jobs numbers",
+      "resume": "After the August 2025 firing of the Bureau of Labor Statistics chief, the agency reversed its reports, admitting May and June gains of over 331,000 jobs never happened. Arizona State's Seidman Institute puts 2025 job growth at about 0.45% against 1.04% in 2024, and July 2025 showed only 73,000 jobs created.",
+      "mots_cles": [
+        "Bureau of Labor Statistics",
+        "BLS chief fired",
+        "job growth 2025",
+        "Seidman Institute",
+        "331,000 jobs revision",
+        "73,000 jobs July 2025",
+        "labor data"
+      ],
+      "texte": "really that bad? Before the controversial firing of the Bureau of Labor Statistics Chief in August [music] 2025, the agency responsible for telling the public and government how healthy the economy is quietly reversed its own reports. In May and June, it had claimed the US added over 331,000 jobs, but then it admitted [music] those gains never happened. According to Arizona State University's Seidman Institute, job growth for 2025 is just over 0.45% [music] down from 1.04% in 2024. That is far below the post-COVID high of 2021, where job growth was seen [music] at 5.77%. The sudden sharp downturn is an extremely troubling indicator. But as you'll soon [music] see, it gets much worse when you see the full picture. Like a splash of cold water, the Bureau's pre-firing jobs report amended the expected job growth forecast by reporting in July 2025 that [music] only 73,000 jobs were created, defeating even the most pessimistic economic predictions. This [music] sudden collapse is an indicator of what's coming, a significant economic downturn largely driven by American foreign policy. But before we get into that,"
+    },
+    {
+      "id": 150,
+      "debut": 8187.6,
+      "fin": 8244.2,
+      "temps_estime": false,
+      "titre": "Can the US run out of money? Trust, reserve currency and the gold standard",
+      "resume": "The government cannot literally run out of money since it can print more, but that threatens trust, one of the three pillars of the dollar's value. The dollar is the global reserve currency, giving the US a trade advantage, and since leaving the gold standard it is propped up by ephemeral things that can collapse.",
+      "mots_cles": [
+        "US government finances",
+        "printing money",
+        "trust in the dollar",
+        "global reserve currency",
+        "gold standard",
+        "dollar value pillars",
+        "trade advantage"
+      ],
+      "texte": "let's talk about government finances and what happens if the US government [music] suddenly can't pay its bills anymore. Technically, the government can't just run out of money as it simply [music] could print more of it. This, however, could undermine one of the three pillars that make up the true value of American dollars, trust. The dollar is the global reserve currency, meaning that most global trade is done in dollars as opposed to other currencies. This gives the US a significant economic advantage, especially when negotiating trade deals of its own. It has been a hallmark of global economic stability since the void caused by the collapse of the great European powers in the post-World War II age. >> [music] >> However, for the dollar's true potential to be exploited, it had to be moved off of the gold standard. Basically, US dollars are no longer backed by actual gold equal in value to a portion of the currency issued, a historical tradition. In the age of globalism, the dollar is propped up by far more ephemeral things, and these things can come crashing down at the first sign of trouble. [music]"
+    },
+    {
+      "id": 151,
+      "debut": 8244.2,
+      "fin": 8332.44,
+      "temps_estime": false,
+      "titre": "Three pillars backing the dollar: government, economy and global demand",
+      "resume": "The dollar is backed by the government's legally binding debt guarantees, which erode if the US ignores international norms; by the productivity of the US economy, which lets it collect taxes and repay debt; and by global demand because trade deals are priced in dollars. Together these give creditors confidence in American debt.",
+      "mots_cles": [
+        "dollar backing",
+        "government debt guarantees",
+        "international norms",
+        "US economy productivity",
+        "global demand for dollars",
+        "trade payment currency",
+        "creditor confidence"
+      ],
+      "texte": "The first thing backing the dollar is the government itself. Basically, when the government takes on debt, it promises to repay it, but not in a pinky swear kind of way, rather with legally binding guarantees. However, if the US goes rogue or starts ignoring international norms, faith in these guarantees is greatly diminished. This is why it's important to be a good faith [music] actor in international relations. This is especially true when it comes to fair trade, the use of military force, and the respect for international institutions. [music] If the world loses faith in the US's willingness to play by the international rules, then their faith that the debts will be repaid also collapses, reducing the value of the dollar. Second, the American dollar is backed directly by the economy itself. >> [music] >> The US economy is the most productive in the world, which is a pretty solid guarantee that it'll be able to pay its debts. As [music] long as the economy is roaring, the government can collect taxes and repay debts, and creditors know this. This is why the world at large pays such close attention to the American economy. It's also why so many countries have happily bought up America's debt, knowing that administrations come and go, but the economy continues to be robust and powerful. Next, a global demand for the dollar creates value. The dollar is the primary currency for negotiating payment on trade deals, and while this massively [music] helps the US, it also helps the world. By simplifying trade, importers and exporters have guarantees of payment >> [music] >> in a currency that is not just widely accepted, but backed by the American economy itself and the government's adherence to international norms. To see"
+    },
+    {
+      "id": 152,
+      "debut": 8332.44,
+      "fin": 8364.2,
+      "temps_estime": false,
+      "titre": "Russia's ruble collapse as a cautionary example",
+      "resume": "Russia's ruble is in free fall and its economy unraveling, with even allies refusing to trade in it. India and China demand energy trades in their own currencies, leaving Russia holding rupees it can do little with.",
+      "mots_cles": [
+        "Russia ruble",
+        "ruble in free fall",
+        "India",
+        "China",
+        "energy trades in local currency",
+        "rupees",
+        "currency rejection"
+      ],
+      "texte": "how this can go horribly wrong, one need only look at Russia in the present age. With the ruble's value in free fall and Russia's economy unraveling, even its remaining allies are turning away. Many are now refusing to trade in its currency as political instability grows at home. India and China have both demanded that all energy trades are conducted in their own currency, which is good for them, but bad for Russia. Currently, Russia's sitting on a lot of rupees that it can do little with because it doesn't need [music] many goods from India, and not many international entities are willing to accept the currency in trade. So, what"
+    },
+    {
+      "id": 153,
+      "debut": 8364.2,
+      "fin": 8435.08,
+      "temps_estime": false,
+      "titre": "Printing dollars: controlled stimulus versus inflation",
+      "resume": "Printing money during a recession, in limited controlled amounts, can stimulate the economy without hurting the dollar, as with the 2008 stimulus checks. Outside recession or if too aggressive, it causes inflation, higher interest rates demanded by creditors and sales of US debt for other currencies, making them less willing to finance the government.",
+      "mots_cles": [
+        "printing money",
+        "inflation",
+        "money supply",
+        "2008 stimulus",
+        "creditors raise interest rates",
+        "selling US debt",
+        "economic growth",
+        "dilution of dollar value"
+      ],
+      "texte": "happens if the government decides to simply print more dollars as a way of dealing with its debts? Sometimes, nothing at all, but if taken to an extreme, disaster. During a recession, sometimes the government will print more dollars as long as the printing is done over a controlled period of time and in limited quantities. The overall value of the dollar is largely unaffected. Meanwhile, the extra currency in circulation can be used by workers and companies to stimulate the economy. We saw a version of this during the stimulus checks handed out in 2008 during the economic crash. However, if the economy is not in recession, printing more dollars dilutes its value and thus causes [music] prices to increase in what's known as inflation. The key is to print new dollars in line with steady economic growth, so the money supply matches the real value being created. As long as the economy grows, the US can use freshly printed dollars to cover debts, but if it prints too aggressively, creditors will notice fast and raise interest rates. They might also opt to sell their debt off to third parties in exchange for different, more stable currencies. And in the end, creditors are left burned and with a sour taste in their mouth when it comes to the US debt. This makes them less likely to buy more in the future and thus help the government finance itself."
+    },
+    {
+      "id": 154,
+      "debut": 8435.08,
+      "fin": 8484.36,
+      "temps_estime": false,
+      "titre": "US budget deficits: when borrowing is healthy",
+      "resume": "In 50 years the US ran a budget surplus only four times, yet deficits tied to a growing economy are often healthy. The problem comes when the economic engine crashes to a stop.",
+      "mots_cles": [
+        "budget deficit",
+        "budget surplus four times",
+        "46 of 50 years",
+        "deficit borrowing",
+        "economic growth",
+        "national debt",
+        "fiscal policy"
+      ],
+      "texte": "All right, so let's talk about America's debt and how it's generated and handled, which has dire implications for America's future. In the last 50 years, the government budget has run a surplus [music] only four times, a shocking statistic. But the truth is that isn't necessarily a bad thing. See, when you run a budget deficit for [music] 46 out of 50 years, it's a disaster. But the US can't just afford to run a deficit, often it's actually healthy [music] for it to do so. And that's because deficit borrowing is often tied to an economy that historically has had [music] healthy growth. As long as the economy continues growing, running deficits isn't necessarily [music] a bad thing. But when that economic engine comes to a crashing stop, we have got serious problems. In 2024, [music] the government collected $4.92 trillion and spent $6.75 trillion, >> [music]"
+    },
+    {
+      "id": 155,
+      "debut": 8484.36,
+      "fin": 8577.56,
+      "temps_estime": false,
+      "titre": "2024 deficit, Treasuries and the interest-cost spiral",
+      "resume": "In 2024 the government collected $4.92 trillion and spent $6.75 trillion, a $1.83 trillion deficit financed by Treasuries backed by full faith and credit. Interest costs of about $881 billion heading to $1 trillion in 2026 now exceed defense and Medicare, and if creditors lose faith they demand higher rates, creating a vicious cycle of more borrowing.",
+      "mots_cles": [
+        "2024 deficit $1.83 trillion",
+        "Treasury securities",
+        "interest payments $881 billion",
+        "debt interest 1 trillion 2026",
+        "vicious cycle",
+        "jobs report revision",
+        "tax revenue",
+        "higher interest rates"
+      ],
+      "texte": ">> a deficit of $1.83 trillion. To cover the gap, the US Treasury issued securities, allowing private investors to [music] lend money to the government in exchange for a guaranteed return backed by the full faith and credit of the United [music] States. This reliability has made US Treasuries the world's most sought-after investment, but that could change [music] with some bad financial decisions. As the US issues more of these IOUs, investors can start to get nervous, [music] and this is a point we're rapidly approaching. As debt mounts, a growth share of the US budget goes toward paying interest alone. Currently, the US spending over 881 billion dollars on interest repayments, and this is predicted to hit 1 trillion dollars in 2026. The US is rapidly nearing the point where a full 25% of its tax revenue goes just to interest on its debt. Debt repayment is already the second largest item in the federal budget, only behind the one and a half trillion spent on social security. [music] America now pays more in interest than it does on national defense or Medicare. A fact that [music] is deeply unsettling to creditors. Right now, America enjoys low interest rates from creditors, but this is likely to change very soon. [music] The GDP seems to be faltering. Think back on that incredible jobs report that was corrected for over 225,000 jobs. This means that future tax revenues [music] could be at risk of not keeping up with today's debt interest. And if creditors lose confidence in the future of the economy, then they'll demand higher interest rates. This creates a vicious cycle. Higher interest rates means more spending on debt, which forces [music] the US to borrow even more at those same high interest rates, driving debt costs"
+    },
+    {
+      "id": 156,
+      "debut": 8577.56,
+      "fin": 8658.6,
+      "temps_estime": false,
+      "titre": "External threats: BRICS, China and Russia",
+      "resume": "China and Russia are cooperating on financial matters, with BRICS (Brazil, India, China, Russia, South Africa, Egypt, Ethiopia, Iran, UAE) seen as a counterbalance to the dollar-denominated order. It offers funding to nations uninterested in human rights and democratic values, while China promotes a multi-currency world, arguing single-currency dependence magnifies risk.",
+      "mots_cles": [
+        "BRICS members",
+        "anti-dollar bloc",
+        "China and Russia",
+        "multi-currency world order",
+        "People's Bank of China",
+        "dollar-denominated order",
+        "alternative financing",
+        "external threats"
+      ],
+      "texte": "up again and again. So, what is driving a future economic collapse? Multiple factors, but the most crucial threats are both internal and external. Let's [music] start with the external threats, China and Russia. It's no secret that the US has an extremely adversarial relationship with both nations, but lately the two have been cooperating to an alarming degree, especially in financial matters. BRICS, an [music] economic union of nations including Brazil, India, China, Russia, South Africa, Egypt, Ethiopia, Iran, and the United Arab Emirates, is seen as a counterbalance to the dollar-denominated global economic order. BRICS was created not only to challenge American influence, but to offer funding to nations uninterested in the liberal world order's focus [music] on human rights, free speech, and other democratic values. Under the current US dominated economic order, nations who flagrantly violate these values can have trouble finding international financing, [music] but BRICS is here to save the day. And as the US grows more transactional and drifts from the norms it once upheld, the need for BRICS is debated. [music] For now, the anti-dollar block remains united in offering an alternative to American currency dominance. But China, its largest member, has its own agenda. Beijing publicly promotes a multi-currency [music] world order with the People's Bank of China arguing that competing currencies would balance one another and boost [music] stability. In China's view, dependence on a single currency only magnifies global financial risks."
+    },
+    {
+      "id": 157,
+      "debut": 8658.6,
+      "fin": 8706.64,
+      "temps_estime": false,
+      "titre": "Dollar dominance as a benevolent Leviathan",
+      "resume": "Although US shocks spread worldwide through dollar dominance, 80 years of history show little inherent instability in a reserve currency tied to the biggest economy and a stable superpower. The dollar acts like Thomas Hobbes' benevolent Leviathan, benefiting America and the world as long as Washington upholds liberal democratic commitments.",
+      "mots_cles": [
+        "dollar dominance",
+        "benevolent Leviathan",
+        "Thomas Hobbes",
+        "reserve currency stability",
+        "superpower",
+        "liberal democratic values",
+        "global financial stability"
+      ],
+      "texte": ">> [music] >> Now, there is some truth to what China says. Economic shocks in the United States have had effects around the world [music] due to dollar dominance. However, 80 years of financial history since the end of World War II shows that inherently there is little instability about the global reserve currency being tied to the world's biggest economy, >> [music] >> especially one belonging to a superpower with the political and military might to remain stable despite global upheavals. In many ways, the United States dollar acts much as English philosopher Thomas Hobbes' proposed benevolent Leviathan, providing stability that greatly benefits [music] America both financially and politically. While the US enjoys major benefits from its global economic edge, so does the rest of the world, provided Washington continues to uphold, or at least appear to uphold, its traditional commitment to liberal"
+    },
+    {
+      "id": 158,
+      "debut": 8706.64,
+      "fin": 8773.6,
+      "temps_estime": false,
+      "titre": "Why China wants to unseat the dollar",
+      "resume": "China seeks to unseat the dollar because it has no interest in promoting liberal values and sees reduced human rights as vital to the Communist Party. The video argues a multi-currency world would be unstable and conflict-prone, and that Xi Jinping's talk of balance is bait for moderates with the yuan replacing the dollar as the true goal.",
+      "mots_cles": [
+        "China yuan replace dollar",
+        "Xi Jinping",
+        "authoritarianism",
+        "multi-currency instability",
+        "Chinese Communist Party",
+        "single currency world",
+        "domination",
+        "internal threats"
+      ],
+      "texte": "democratic values. This is why China seeks to unseat the dollar, as it has no interest in using its global [music] economic might to push liberal democratic values. In fact, it is quite the opposite. China favors authoritarianism, and it sees a reduction in global liberal values and human rights as critical for the survival of the Chinese Communist Party. So, China attacks the US dollar as [music] vigorously as it can, pushing its own currency to either replace it or at least match the United States dollar. Its professed dream of a world with multiple equal currencies is in [music] fact inherently unstable, promoting unhealthy competition and manipulation or outright sabotage that inevitably could lead to armed conflict. For better or worse, a world unified by a single currency is easier to control >> [music] >> and conflict easier to mitigate, and China's ambitions are of course not actually about balance, but domination. If President Xi Jinping has his own way, China's yuan would replace the dollar entirely. The talk of balance is simply bait for moderates around the world, quickly discarded once the goal is reached. Foreign attacks on the dollar aren't the only thing pushing the US to the brink, because America's doing a fine job sabotaging itself internally."
+    },
+    {
+      "id": 159,
+      "debut": 8773.6,
+      "fin": 8810.88,
+      "temps_estime": false,
+      "titre": "Tariffs explained: a tax on American importers and consumers",
+      "resume": "America's Liberation Day tariffs were meant to usher in a golden economic era, but tariffs are taxes paid by US importers, who pass the cost to consumers. A tariff is effectively a federal tax on American businesses directly.",
+      "mots_cles": [
+        "tariffs",
+        "Liberation Day",
+        "import tax",
+        "importers pay",
+        "consumer prices",
+        "federal tax on businesses",
+        "tariff policy"
+      ],
+      "texte": "We talked about America's debt, but currently there's another major driver of the economic downturn, tariffs. America's liberation day was supposed to pronounce a new golden economic era, but the data is already proving the opposite. To refresh how tariffs work, they're basically a tax imposed by the federal government on all imports from certain countries. That tax is not paid by the exporter, but rather by the importers here in the US, which are often US-based businesses. Thus, for American businesses to get back into the black, they pass a portion or all of that cost down to the consumer. So, a tariff is essentially a federal tax on American businesses [music] directly."
+    },
+    {
+      "id": 160,
+      "debut": 8810.88,
+      "fin": 8885.68,
+      "temps_estime": false,
+      "titre": "Tariff effects, weak manufacturing base and stagnant wages",
+      "resume": "Tariffs can help if companies build production in the US, but offshoring left a weak manufacturing base the Department of Defense calls a critical vulnerability, and rebuilding would take years. Americans will pay more as wealth disparity grows, housing becomes unaffordable and wages have stagnated since the 1970s.",
+      "mots_cles": [
+        "tariff cracks",
+        "manufacturing base",
+        "offshoring",
+        "national vulnerability",
+        "stagnant wages",
+        "wealth disparity",
+        "housing affordability",
+        "BLS credibility"
+      ],
+      "texte": "Tariffs on foreign goods can boost domestic business if companies invest in making those products in the US, but America's current tariff policy is showing cracks, driving alarming economic indicators. And soon, you may not even see those warnings as the Bureau of Labor Statistics itself is on the verge of losing credibility. For starters, the US simply does not have a strong manufacturing base. The offshoring of manufacturing during the era of globalism enriched the wealthy elite, but it also stripped the US of a core economic strength, and [music] so much so that the Department of Defense now considers it a critical national vulnerability in the event of a major war. Starting up domestic production of goods and services affected by tariffs is not a realistic response, and even if it was, it would take years to take effect. This means, barring no changes to tariff policy, the US is facing an economic downturn as Americans pay more for the goods and services they've relied on for years. And this couldn't come at a worst time [music] as the US struggles with ever-increasing wealth disparity and a housing and rent market that is on the verge of being completely unaffordable. Stagnant wages, which haven't kept pace with inflation since the 1970s, magnify the looming problems faced by Americans and worsened by the current sanctions regime, all boiling over into a disastrous cocktail. Also"
+    },
+    {
+      "id": 161,
+      "debut": 8885.68,
+      "fin": 8969.08,
+      "temps_estime": false,
+      "titre": "Food price inflation: supply chains, Ukraine war and weather",
+      "resume": "Prices of housing, health care and food remain overheated, with staples like milk, butter and bread about 20% higher than in 2019 and egg prices hit by chicken disease. Causes include pandemic supply chains, fuel costs from the Ukraine war, grain and cooking oil prices, and extreme weather, with 2022-2023 drought cutting wheat output by 37%.",
+      "mots_cles": [
+        "food prices",
+        "egg prices",
+        "20% higher since 2019",
+        "supply chain disruptions",
+        "Ukraine war grain",
+        "drought wheat 37%",
+        "Dust Bowl",
+        "inflation"
+      ],
+      "texte": "affecting Americans today are inflation pressures from the COVID era. Despite inflation cooling significantly since 2021 and 2022, prices of housing, health care, and food remain overheated. Grocery prices have faced a significant upturn and disasters like disease amongst egg-laying chickens has heightened the burden by driving up the cost of a core necessity, eggs. Everything from milk to butter to bread prices remains inflated, on average 20% across the board since 2019. For many Americans, that extra burden has proven too much, leading some to fear a nutrition crisis along with an economic one. The factors affecting one of the most important economic factors in America, food prices, are multifaceted. Leading among them are supply chain disruptions from the pandemic era, which still affect us today. However, rising fuel prices means higher transportation costs with the war in Ukraine and subsequent sanctions against Russia spiking global oil prices. The Ukraine war has also increased the price of several grains and cooking oils. Ukraine is one of the largest agricultural states in the world [music] and the heaviest fighting is taking place along its richest farmlands. Then there's also the effect of global warming with an uptick in extreme weather such as hurricanes, droughts, and flooding, all hitting agricultural regions the hardest. During the 2022-2023 growing season, drought affected domestic wheat output [music] by 37%, which has been compared to the effect of the infamous Dust Bowl era. Then there's"
+    },
+    {
+      "id": 162,
+      "debut": 8969.08,
+      "fin": 9032.8,
+      "temps_estime": false,
+      "titre": "Immigration enforcement and the farm labor shortage",
+      "resume": "Over 50% of US agricultural labor, up to 70% in places, is immigrants, and immigration raids, including deportations of legal workers, have spread fear among laborers. Peak-season labor fell from an estimated 85% of needed workers in 2024 to 62% in 2025 despite H-2A visas.",
+      "mots_cles": [
+        "agricultural labor shortage",
+        "immigration enforcement",
+        "deportations",
+        "H-2A visas",
+        "85% to 62% laborers",
+        "farm workers",
+        "productivity",
+        "fear of raids"
+      ],
+      "texte": "labor shortages which have affected the world and now are seriously affecting the US. The current immigration enforcement regime has most seriously affected the ranks of agricultural laborers across America. Ranches and farms across the nation are reporting their workforce has been rounded up for deportation or are not showing up for fear of being apprehended. Over 50% of agricultural labor in the US is filled by immigrants [music] and in some places it's as high as 70%. Despite programs like the H-2A, which allow for temporary visas for immigrant laborers, US agriculture still faces a significant labor shortage and thus turns to illegal immigrants. But American immigration officials have routinely rounded up and even deported individuals who are in the country legally, leading to widespread fear of being targeted amongst laborers. [music] This has had a profound effect on the availability of labor and American productivity. In 2024, during peak harvesting and planting season, the US had an estimated 85% of needed laborers. However, in 2025, that has dropped to 62%, which has some serious economic"
+    },
+    {
+      "id": 163,
+      "debut": 9032.8,
+      "fin": 9084.12,
+      "temps_estime": false,
+      "titre": "Crop losses from ICE raids and the tariff double punch",
+      "resume": "Crop yields shrank 14% in one year, production costs per acre rose almost $500 and food prices rose 8%. ICE raids caused $3-7 billion of crop losses in California, $140 million in Georgia, and a projected $30-60 billion output drop, pushing reliance on imports that face tariffs.",
+      "mots_cles": [
+        "ICE raids",
+        "crop yields down 14%",
+        "California crop losses",
+        "Georgia $140 million",
+        "agricultural output decline",
+        "imports and tariffs",
+        "food price rise 8%",
+        "farm economy"
+      ],
+      "texte": "impacts. Crop yields have shrunk by 14% in just 1 year and production [music] costs per acre increased by almost $500. This has led to an overall 8% increase in food prices so far with an even greater disruption predicted given the ongoing nature of raids. In California, ICE raids led to crop losses between 3 and [music] 7 billion dollars depending on the crop with prices spiking between 5 and 12%. Georgia experienced $140 million in lost crops and agricultural output is predicted to drop between 30 and 60 billion dollars if all illegal immigrant laborers removed from American farms. Ironically, American crop losses due to immigration raids are leading to reliance on imports, which are then subject to the current tariff regime, further increasing the cost to the American consumer. It's a one-two punch to an American economy still on shaky ground after the COVID pandemic. The"
+    },
+    {
+      "id": 164,
+      "debut": 9084.12,
+      "fin": 9134.92,
+      "temps_estime": false,
+      "titre": "How the crash converges: debt, tariffs and lost dollar status",
+      "resume": "The predicted crash will have no single cause or bank failure, but several sectors failing together: federal budget, agriculture and workers. Rising debt payments, tariffs burdening consumers and doubts over default could make creditors demand higher rates and cause the dollar to lose reserve currency popularity.",
+      "mots_cles": [
+        "economic crash causes",
+        "federal budget",
+        "debt payments",
+        "tariffs burden consumers",
+        "default fears",
+        "dollar reserve status",
+        "creditor confidence",
+        "cycle of destruction"
+      ],
+      "texte": "pending American economic crash won't have a single factor to blame and it won't start [music] with banks failing. The seeds of America's economic downfall will sprout simultaneously in several key sectors: the federal budget, US agriculture, and American [music] workers. As the US pours more money into debt payments while dragging down its own GDP with poor economic and domestic policies, creditors will eventually demand higher interest rates. With no other choice, increasing borrowing will lead to the cycle of destruction we discussed earlier as lenders lose faith in the US economy. The current tariff regime only weakens the US by putting the [music] cost directly onto the consumer, further slowing down the economy, and creating uncertainty in the minds of creditors. [music] International fear over a US default on its loans would see the dollar quickly lose popularity as a global reserve currency. [music] This would erode America's financial advantage in the world markets and only compound the economic downturn."
+    },
+    {
+      "id": 165,
+      "debut": 9134.92,
+      "fin": 9215.48,
+      "temps_estime": false,
+      "titre": "Agriculture collapse, war with China and a possible 2027-2028 crash",
+      "resume": "Farm losses force reliance on costly imports and bankruptcies, raising food and housing costs, cooling the economy and causing job losses just when the US is most vulnerable to a shock such as a pandemic, disaster or war. The video notes the Department of Defense is preparing for war with China and that experts predict a crash in 2027 or 2028 in the midst of a costly war.",
+      "mots_cles": [
+        "US agriculture collapse",
+        "food prices",
+        "job losses",
+        "war with China",
+        "Department of Defense",
+        "2027 or 2028 crash",
+        "economic shock",
+        "superpower decline"
+      ],
+      "texte": ">> [music] >> The staggering losses in US agriculture will also weaken the US economy, forcing Americans to rely on expensive [music] imports. US businesses will begin to face bankruptcy with some farms and ranches across America already facing economic collapse due to the fleeing of migrant labor. As the US agricultural sector slowly collapses, it only forces an ever greater reliance on more expensive [music] overseas alternatives, putting ever-increasing strain on Americans. All these factors add up to increased costs across the board, further driving up the costs of housing which are already at catastrophic levels. In the end, Americans will face exponentially higher food prices, decreased international buying power, and a cooling of the US economy [music] with mounting job losses. At that precise moment, the United States is most vulnerable to a major economic shock, such as a new pandemic, major natural disasters, or [music] even war. And one of these is practically guaranteed because the Department of Defense is even now fully preparing for [music] war with China in the Pacific. As America faces its first major conflict in nearly a century, it is more economically vulnerable than it has ever been. Experts [music] predict that 2027 or 2028 could be the year that the American economy crashes in the midst of a very costly war. America's superpower status may have had its day in the sun, and [music] its failure will be its own fault. A lot has happened in"
     }
   ]
 }

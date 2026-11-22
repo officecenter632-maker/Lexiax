@@ -17,3 +17,11 @@ Speech : 5541 lignes, 11029,12 s (~3 h 04), sous-titres automatiques (anglais), 
 
 ## Point d'arrêt
 - Dernière ligne traitée : 3612 (fin 7330,68 s). Prochaine étape : tranche 5 à partir de la ligne 3613 (« States is currently losing. Chapter 2, the 1974 secret handshake… », accord Kissinger / pétrodollar).
+
+## Reprise à la ligne 3613 (agent suivant)
+- Segments 1 à 133 (lignes 1 à 3612) vérifiés par script avant reprise : OK, non modifiés.
+- Tranche 5 : lignes 3613 à 4539 (122,2 à 153,6 min, soit ≈ 31,4 min), 32 segments (id 134 à 165). Remarques : chapitres 2 à 5 de la section sur le pétrodollar (Bretton Woods, choc Nixon de 1971, accord Kissinger-Arabie saoudite de 1974, mBridge/SWIFT, mythe de l'expiration de 2024, Pozsar, BRICS), puis une nouvelle section « The Infographic Show » sur un krach économique américain (BLS, piliers du dollar, dette, BRICS/Chine, droits de douane, prix alimentaires, main-d'œuvre agricole, guerre avec la Chine). La tranche s'arrête à la ligne 4539, fin de cette section (« its failure will be its own fault »). Coupures en fin de ligne, temps_estime false partout ; certaines coupures tombent au milieu d'une phrase car les lignes de sous-titres automatiques sont courtes.
+- Même style que les tranches précédentes : titres courts en anglais, idées de ~15 à ~110 s, textes recopiés par script.
+
+## Point d'arrêt (mis à jour)
+- Dernière ligne traitée : 4539 (fin 9215,48 s). Prochaine étape : tranche 6 à partir de la ligne 4540 (« the last few years, from a global pandemic to Russia invading Ukraine… », section récession contre dépression), id à partir de 166.
