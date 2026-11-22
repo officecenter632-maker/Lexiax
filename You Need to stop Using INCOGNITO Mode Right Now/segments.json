@@ -1,0 +1,390 @@
+{
+  "version": 1,
+  "video_id": "5153vDFmwBs",
+  "titre_video": "You Need to stop Using INCOGNITO Mode Right Now",
+  "duree_s": 807.74,
+  "avancement": {
+    "lignes_traitees": 186,
+    "fin_traitee_s": 807.74,
+    "nb_lignes_total": 186,
+    "complet": true
+  },
+  "nb_segments": 21,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.16,
+      "fin": 28.72,
+      "temps_estime": false,
+      "titre": "Incognito mode is an illusion of privacy",
+      "resume": "Opening hook: people assume an incognito tab makes browsing invisible, but the internet provider, the boss and Google can still see every click and site. Google's privacy shield is an illusion that blindfolds users, and incognito mode was never designed to protect privacy.",
+      "mots_cles": [
+        "incognito mode",
+        "private browsing",
+        "Google Chrome",
+        "illusion of privacy",
+        "internet provider",
+        "tracking",
+        "browsing data"
+      ],
+      "texte": "When you open an incognito tab, you assume your browsing is completely invisible. But right now, your internet provider, your boss and Google can see every click you make. Every site you visit. Google’s so called privacy shield is nothing more than an illusion. Something to make you feel better while you browse. You aren’t protected… you’re blindfolded. So what’s actually happening to your data the second you open that tab? Turns out incognito mode was never meant to protect your privacy… it was designed to track you."
+    },
+    {
+      "id": 2,
+      "debut": 28.72,
+      "fin": 73.6,
+      "temps_estime": false,
+      "titre": "The $5 billion lawsuit against Google",
+      "resume": "A federal class-action lawsuit demanded $5 billion from Google for tracking millions of users who believed they were browsing in secret. Google, with $182 billion in 2020 revenue, fought for three and a half years before settling, because the suit exposed it tracking users of a feature meant to stop tracking.",
+      "mots_cles": [
+        "$5 billion lawsuit",
+        "class action",
+        "Google settlement",
+        "Google revenue",
+        "tracking users",
+        "private browsing lawsuit",
+        "ad revenue"
+      ],
+      "texte": "$5 BILLION dollars. That’s what a federal class-action lawsuit filed demanded from Google for tracking millions of users who believed they were browsing in secret. 5 billion dollars is roughly the GDP of Liberia. And Google, a company that earned $182 billion in revenue in 2020 alone, decided to fight it for three and a half years before bending to the knee and settling. Why even fight the lawsuit when they make more than $5 billion a week in ad revenue in less than a week? Because the lawsuit exposed something sinister. Something far more nefarious than a software hack or data breach. The lawsuit accused Google of doing exactly what Google was designed to do: tracking people who used a feature that was meant to stop tracking."
+    },
+    {
+      "id": 3,
+      "debut": 73.6,
+      "fin": 100.96,
+      "temps_estime": false,
+      "titre": "What Chrome's incognito promises",
+      "resume": "Clicking the spy icon in Chrome says it is safe to browse privately, that history will not be saved and cookies will be wiped on closing. A disclaimer mentions employers and schools, but the core promise is private browsing, which millions of Americans believe.",
+      "mots_cles": [
+        "incognito promise",
+        "spy icon",
+        "history not saved",
+        "cookies wiped",
+        "employer tracking",
+        "private browsing claim",
+        "Chrome"
+      ],
+      "texte": "What do you think happens when you open an incognito tab? You click the little spy icon in Google Chrome, and it tells you it’s safe to browse privately. It promises you that your history won’t be saved and your cookies will be wiped the second you close the window. Sure, it might say your employer, or your school, might be able to track you. But it buries the lede. The core promise, the one the little spy-hat icon is selling, is private browsing. And millions of Americans believe it."
+    },
+    {
+      "id": 4,
+      "debut": 100.96,
+      "fin": 136.0,
+      "temps_estime": false,
+      "titre": "What incognito actually does and doesn't do",
+      "resume": "Chrome only deletes the local history file when you finish, while your IP address, server requests, ad trackers and Google Analytics logging stay intact. Incognito does not encrypt traffic, mask location or block tracking scripts, so it clears your local diary and leaves a copy with Google.",
+      "mots_cles": [
+        "local history",
+        "IP address",
+        "no encryption",
+        "tracking scripts",
+        "Google Analytics",
+        "location not masked",
+        "ad trackers"
+      ],
+      "texte": "What happens behind the scenes is straightforward. Chrome just deletes your local history file when you’re done. That’s it. Your IP address, your server requests, Google’s ad trackers and the Google Analytics code logging your visit all remained intact. But let's be clear about what incognito mode doesn’t do. It doesn’t encrypt your internet traffic. It doesn’t mask your location. And it doesn’t let you opt out of tracking scripts that are running on the website you’re visiting. Its real life function is to clear out your browser's local diary while leaving a carbon copy at the office for safe keeping. Not your office… Google’s."
+    },
+    {
+      "id": 5,
+      "debut": 136.0,
+      "fin": 183.2,
+      "temps_estime": false,
+      "titre": "Brown v. Google and Google's defense",
+      "resume": "Four California residents sued in Brown v. Google, arguing the feature was marketed as a privacy shield while harvesting data via Google's advertiser tools. Google argued it never said private and that private meant from local users, which the speaker calls corporate gaslighting.",
+      "mots_cles": [
+        "Brown v. Google",
+        "misrepresentation",
+        "corporate gaslighting",
+        "incognito definition",
+        "disclaimer",
+        "Google defense",
+        "California residents"
+      ],
+      "texte": "It was this deception that triggered the Brown v. Google lawsuit. Four California residents argued Google misrepresented the feature. It was marketed as a privacy shield while simultaneously harvesting user data through the very tools Google sells to advertisers. It’s a pretty big deal. But the word “incognito” is technically defined as “having one’s identity concealed.” It’s reasonable to assume the product would do that. Google’s defense was corporate gaslighting. “We never told you it was private,” they claimed. They pointed to the vague disclaimer, the one about websites and employers. They argued that sophisticated users understood the limitations. According to Google, \"private\" in \"private browsing\" referred to privacy from local users, not the tech giant watching you in secret."
+    },
+    {
+      "id": 6,
+      "debut": 183.2,
+      "fin": 220.16,
+      "temps_estime": false,
+      "titre": "Your browser hands over a resume of technical data",
+      "resume": "Even in incognito, loading a page makes the browser identify itself, revealing screen resolution, browser version, operating system, timezone, language, installed fonts, ad blocking status and graphics card. This routine handshake data seems innocuous on its own.",
+      "mots_cles": [
+        "browser handshake",
+        "screen resolution",
+        "installed fonts",
+        "operating system",
+        "user agent data",
+        "graphics card",
+        "web server"
+      ],
+      "texte": "Every time your browser loads a page, it secretly hands off a resumé of exactly who you are. Even with incognito mode on, your cookies cleared and history wiped, your browser has to identify itself to a web server. In a fraction of a second, it spits out an insane amount of information: your screen resolution, browser version and operating system, timezone, language, every font installed on your system, whether you're blocking ads and your graphics card model.. None of this is a secret. They’re just technical stats that get thrown around as part of routine handshake data. On the surface, it’s boring, functional, even innocuous."
+    },
+    {
+      "id": 7,
+      "debut": 220.16,
+      "fin": 272.24,
+      "temps_estime": false,
+      "titre": "Browser fingerprinting makes you identifiable",
+      "resume": "Combined, those data points are nearly unique to one device. The EFF's tool Panopticlick, later Cover Your Tracks, found 83% of hundreds of thousands of browsers were unique, so deleting cookies or opening a private window does not stop a fingerprinting script.",
+      "mots_cles": [
+        "browser fingerprinting",
+        "EFF",
+        "Panopticlick",
+        "Cover Your Tracks",
+        "83% unique",
+        "cookies deleted",
+        "unique device identifier"
+      ],
+      "texte": "But when you combine them all together, something interesting happens. The odds that any other device in the world produces that exact combination are actually astronomically low. The Electronic Frontier Foundation tested this with their fingerprinting tool, called Panopticlick, later renamed to Cover Your Tracks. It measured how many browsers in their database exactly matched a given fingerprint. Across hundreds of thousands of browsers tested, 83% were entirely unique, identifiable to a single device. Every piece of technical data your computer pings off points directly back to you. This whole process is called browser fingerprinting. It’s the reason Incognito Mode is nothing more than digital decoration. You can delete every cookie in Chrome's storage. You can open a fresh private window with a clean slate. The moment your browser loads a page running a fingerprinting script, you’ve signed your real name."
+    },
+    {
+      "id": 8,
+      "debut": 272.24,
+      "fin": 327.12,
+      "temps_estime": false,
+      "titre": "Canvas fingerprinting",
+      "resume": "Canvas fingerprinting has a script make the browser draw an invisible image with the HTML5 canvas element. Differences in GPU, driver and font rendering give each computer a slightly different image, which is hashed into a unique ID; incognito and cookie blocking have no effect, and advertisers have used it since about 2012.",
+      "mots_cles": [
+        "canvas fingerprinting",
+        "HTML5 canvas",
+        "GPU rendering",
+        "hash identifier",
+        "data brokers",
+        "advertisers",
+        "cookie blocking ineffective"
+      ],
+      "texte": "But that’s just the beginning. There’s a version that should really worry you. Canvas fingerprinting is when a tracking script instructs your browser to draw an invisible image from strings of text and gradients using HTML5’s canvas element. Your browser draws it instantly. Because graphics rendering depends on your GPU, your graphics driver, and your operating system's font rendering engine, the image the computer draws is microscopically different from every other computer on Earth. The script reads the pixel-level output and hashes it into a unique identifier. This happens in milliseconds. You never see it. Disabling cookies has no effect. Incognito mode has no effect. Advertisers and data brokers have known about this since about 2012. It's one of the tools that made their fortunes. Your hardware drew them the pictures they needed to sell better advertisements and extract better data. And they kept the picture for themselves."
+    },
+    {
+      "id": 9,
+      "debut": 327.12,
+      "fin": 367.04,
+      "temps_estime": false,
+      "titre": "HTTPS and the padlock only protect content",
+      "resume": "The padlock means a connection uses HTTPS, which encrypts what you send, such as bank passwords and medical records, against hackers in the middle. But it does not hide the fact that you are talking to that server.",
+      "mots_cles": [
+        "HTTPS",
+        "padlock icon",
+        "encryption",
+        "address bar",
+        "hackers",
+        "encrypted connection",
+        "network"
+      ],
+      "texte": "But before Chrome has rendered a single pixel, your device must cross a network to find the server it’s looking for. That’s where the next problem lies. The padlock icon in your address bar appears whenever a website's connection is encrypted. It means the data traveling between you and the server is scrambled well enough that nobody in the middle can read it. It’s called Hypertext Transfer Protocol Secure, or HTTPS. HTTPS protects the text you send, your bank password, medical records and the content of your request. It’s all encrypted. HTTPS is great for stopping hackers, but it doesn’t protect the fact that you're talking to that server in the first place."
+    },
+    {
+      "id": 10,
+      "debut": 367.04,
+      "fin": 410.16,
+      "temps_estime": false,
+      "titre": "SNI: your ISP sees every domain you visit",
+      "resume": "Before encryption starts, the browser announces the site's domain in plain text through Server Name Indication (SNI). Internet providers like Comcast, AT&T and Verizon see every domain, timestamp, visit frequency and sometimes data volume, even in incognito mode.",
+      "mots_cles": [
+        "Server Name Indication",
+        "SNI",
+        "ISP visibility",
+        "Comcast AT&T Verizon",
+        "domain names",
+        "plain text",
+        "browsing metadata"
+      ],
+      "texte": "When your browser reaches out to load a website, it has to announce the site's domain name before the encrypted connection is established. This is a technical requirement called the Server Name Indication, or SNI. Because the encryption hasn't started yet, the SNI field is sent in plain text. That means your Internet Service Provider, be it Comcast, AT&T, Verizon, or whoever is running the pipe your internet traffic flows through, can see every domain name you visit. They can’t see the specific pages or content you see. But every site, timestamp, frequency with which you visit, and in some cases the volume of data transferred is visible. And in some cases, it’s enough to make educated guesses about what you were doing there. That’s also true in incognito mode."
+    },
+    {
+      "id": 11,
+      "debut": 410.16,
+      "fin": 443.28,
+      "temps_estime": false,
+      "titre": "ISPs can sell your data after the 2017 repeal",
+      "resume": "The ISP sits upstream from Chrome's cookie jar, so clearing local data does not matter to it. In 2017 Congress repealed the FCC broadband privacy rules, removing the consent requirement for sharing browsing data; providers promised not to sell it but kept collecting it.",
+      "mots_cles": [
+        "ISP data selling",
+        "2017 repeal",
+        "FCC broadband privacy rules",
+        "Congress",
+        "consent",
+        "data collection",
+        "packets"
+      ],
+      "texte": "Your ISP is upstream from Chrome’s cookie jar. Chrome can clear whatever it wants after your because your ISP never cared about your local file system. It only cared about the packets of data traveling through their pipes. ISPs can legally sell those packets in the United States. In 2017, Congress repealed the FCC’s broadband privacy rules, stripping away the requirement for ISPs to get your consent before sharing browsing data. The major providers immediately promised they wouldn’t voluntarily sell their end-users’ information. But it didn’t stop them from collecting it."
+    },
+    {
+      "id": 12,
+      "debut": 443.28,
+      "fin": 481.04,
+      "temps_estime": false,
+      "titre": "ISP opt-outs: Comcast Xfinity example",
+      "resume": "ISPs collect data by default and bury the opt-out; as of 2024 Comcast's Xfinity auto-enrolled customers in storing sensitive personal information used for personalized ads. Even with the opt-out, the company says it may still use that information, making incognito a closed curtain on a glass house.",
+      "mots_cles": [
+        "Comcast Xfinity",
+        "opt-out",
+        "sensitive personal information",
+        "personalized ads",
+        "default data collection",
+        "2024",
+        "glass house"
+      ],
+      "texte": "Instead they switched to a system where your ISP collects your data by default and buries the opt-out. As of 2024, Comcast's Xfinity, for instance, was automatically opting customers into the storage of what it classifies as sensitive personal information. Comcast doesn't sell this data outright, but it does use it to serve personalized ads and recommendations. If you manage to find the hidden opt out setting, you get the disclaimer: \"Even when off, we may still use your sensitive personal information for certain purposes.\" It’s the exact same corporate gaslighting as Chrome. In this environment, incognito mode becomes a closed curtain on a glass house."
+    },
+    {
+      "id": 13,
+      "debut": 481.04,
+      "fin": 532.4,
+      "temps_estime": false,
+      "titre": "Google Analytics loads on most of the web",
+      "resume": "Opening a news site in an incognito tab with the F12 network tab shows a request to Google Analytics before any headline is read. It runs on over half of the top 1 million sites, including news, recipe blogs, nonprofits and hospital portals, and builds a behavioral profile.",
+      "mots_cles": [
+        "Google Analytics",
+        "F12 network requests",
+        "top 1 million websites",
+        "behavioral profile",
+        "hospital portals",
+        "embedded tracking",
+        "free analytics"
+      ],
+      "texte": "Open any major news website in an incognito tab in Chrome and hit F12. Look at the network requests firing the moment the page loads. Ignore the requests going to the news site, look at the other ones. Before you've read a single headline, you'll find a request going to Google Analytics. Because the code is embedded directly into the site, Google Analytics loads automatically and pings Google's servers instantly. The scale of this tracking is immense. Google Analytics runs on more than half of the top 1 million websites on the internet. It runs on news sites, recipe blogs, nonprofit homepages and even hospital patient portals. Website owners rely on it to understand their traffic and because it’s free. Most of them are too indifferent to care about what Google does with its data on the back end. What Google actually does is build a behavioral profile of your life across the internet."
+    },
+    {
+      "id": 14,
+      "debut": 532.4,
+      "fin": 556.64,
+      "temps_estime": false,
+      "titre": "You can't hide from Google embedded in sites",
+      "resume": "Incognito may hide you from peers or the site, but not from Google, which is embedded in the site. Chrome wipes cookies on closing, but Google's database keeps the site request tied to your fingerprint and IP address, recorded to the second.",
+      "mots_cles": [
+        "Google embedded in sites",
+        "fingerprint",
+        "IP address",
+        "cookies wiped",
+        "Google database",
+        "incognito limits"
+      ],
+      "texte": "This is part of why incognito mode is broken as a privacy tool. You might be trying to hide from your peers, or from the site you are visiting. But you’re also trying to hide from Google, which is embedded in the site you're visiting. When you close the incognito window, Chrome will wipe its cookies. But Google’s database will still have the initial site request cross-referenced against your fingerprint and associated with your IP address, recorded to the second."
+    },
+    {
+      "id": 15,
+      "debut": 556.64,
+      "fin": 607.52,
+      "temps_estime": false,
+      "titre": "Google Ad Manager targets you without cookies",
+      "resume": "Google Ad Manager scans the browser, runs targeting logic and picks an ad inside the incognito tab, because fingerprints replace cookies. Data can bleed from logged-in Google products, and tens of billions of daily impressions are tied to user identifiers that advertisers can use.",
+      "mots_cles": [
+        "Google Ad Manager",
+        "ad targeting",
+        "fingerprint instead of cookies",
+        "impressions",
+        "logged-in Google account",
+        "user identifier",
+        "ad network"
+      ],
+      "texte": "Google Ad Manager compounds this process. If the site displays ads, Google’s ad code immediately scans your browser, runs the targeting logic, and selects an ad based on the automated inference of who you are. And all of that happened inside the incognito tab, without any cookies to speak of. The ads don’t need cookies when it has your fingerprint. If you've been logged into any Google product in any browser tab during your session, that data can bleed across in ways that are technically defensible under Google's terms of service. The tracking machine processes tens of billions of impressions per day. Each impression is a data point tied to a user identifier. Advertisers don't need to know who you are specifically. They just need to know that you visited a certain site on a certain day so they target you with an ad. Browser fingerprints hand it to them on a silver platter. And you can't stop it."
+    },
+    {
+      "id": 16,
+      "debut": 607.52,
+      "fin": 658.56,
+      "temps_estime": false,
+      "titre": "Internal documents: Google knew Incognito was misleading",
+      "resume": "In 2021 a federal judge unsealed internal Google communications from Brown v. Google. In 2019 CMO Lorraine Twohill urged CEO Sundar Pichai to make Incognito truly private, but he shelved it to avoid putting it under the spotlight, and employees called it a confusing mess.",
+      "mots_cles": [
+        "Lorraine Twohill",
+        "Sundar Pichai",
+        "unsealed documents",
+        "2019 emails",
+        "confusing mess",
+        "discovery",
+        "Brown v. Google"
+      ],
+      "texte": "Documents produced in federal litigation proved Google was aware of this deception. In 2021, a federal judge ordered the unsealing of internal Google communications produced during discovery in Brown v. Google. Those documents revealed the company’s own “Spy Guy” icon was misleading. In 2019, Google's own Chief Marketing Officer, Lorraine Twohill, wrote directly to CEO Sundar Pichai arguing the company should “make Incognito Mode truly private”. The alternative was relying on “fuzzy, hedging language.” Pichai was informed that calling it private ran “the risk of exacerbating known misconceptions.” His response was to shelve the issue because he “didn't want to put incognito under the spotlight.” Internal filings quoted employees describing the product as “a confusing mess.” Google chose to protect its bottom line rather than its user."
+    },
+    {
+      "id": 17,
+      "debut": 658.56,
+      "fin": 683.6,
+      "temps_estime": false,
+      "titre": "Google kept the name and icon; fine-print defense",
+      "resume": "Google tweaked the splash screen wording but kept the name and icon and never disclosed that its ad and analytics infrastructure keeps running in the private window. When caught, it claimed the fine print was accurate and users did not read it, and the court did not buy that.",
+      "mots_cles": [
+        "splash screen",
+        "incognito icon",
+        "fine print defense",
+        "Google double-speak",
+        "analytics infrastructure",
+        "user misconceptions",
+        "federal court"
+      ],
+      "texte": "They made adjustments to the splash screen wording over the years. But they didn’t change the name or change the icon. They didn’t bother to add a disclaimer that Google’s advertising and analytics infrastructure would continue operating inside the private window. The data was too valuable to give up. When they were caught, they served up classic corporate double-speak. They claimed the fine print was accurate and that users hadn’t read it properly. The Federal Court didn’t buy it."
+    },
+    {
+      "id": 18,
+      "debut": 683.6,
+      "fin": 738.88,
+      "temps_estime": false,
+      "titre": "December 2023 settlement terms",
+      "resume": "In December 2023 Google settled after three and a half years, with no payment to the hundreds of millions of users. It agreed to destroy billions of stored incognito records, block third-party cookies in incognito for 5 years, end its private-browsing detection signal and update the splash screen, with no admission of wrongdoing and no change to how incognito works.",
+      "mots_cles": [
+        "settlement December 2023",
+        "destroy data records",
+        "third-party cookies blocked",
+        "private browsing detection",
+        "splash screen update",
+        "no admission of wrongdoing",
+        "no payout"
+      ],
+      "texte": "In December 2023, after 3 and a half years of litigation, Google settled. The settlement didn’t include a single cent for the hundred of millions of users Google systematically lied to for 7 straight years. Instead, Google agreed to destroy billions of stored data records from incognito-mode browsing activity. They were forced to block third-party cookies in incognito by default for 5 years. And they were ordered to kill the private-browsing detection signal they built to detect when you switched to private browsing. To comply with the ruling, Google also updated its incognito splash screen. It now acknowledges that websites and Google may still collect your data even in private mode. The word “may\" appears where a more accurate “will” would ordinarily live. Google never admitted wrongdoing. The settlement changed nothing about how incognito mode works today. The technical architecture, including the fingerprinting, the ad network integration, and the ISP visibility remains fully operational."
+    },
+    {
+      "id": 19,
+      "debut": 738.88,
+      "fin": 777.76,
+      "temps_estime": false,
+      "titre": "What protects you: an arms race and no magic button",
+      "resume": "No single tool protects you; a digital arms race is under way between trackers and tools like VPNs, specialized browsers and encrypted DNS. Tech giants alter browsers to hinder ad blockers, and companies use vague wording because user data is worth billions and fines are cheaper.",
+      "mots_cles": [
+        "VPN",
+        "encrypted DNS",
+        "privacy browsers",
+        "ad blockers",
+        "tracking arms race",
+        "regulatory fines",
+        "privacy tools"
+      ],
+      "texte": "If incognito mode doesn't protect you, what does? The honest answer is there’s no single magic button. Instead, a digital arms race is unfolding being tracking networks and privacy tools like VPNs, specialized browsers and encrypted DNS protocols. The fallout of this is a deeply fractured internet. Tech giants are altering browsers to stop popular ad blockers and tracking protections. They want to make sure their data harvesting remains unobstructed. Because the legal system moves at a crawl, companies will continue to rely on vague wording and fine print. It’s worth the risk when the user data is worth billions of dollars. The profits outweigh any regulatory fines or class actions that come their way."
+    },
+    {
+      "id": 20,
+      "debut": 777.76,
+      "fin": 796.4,
+      "temps_estime": false,
+      "titre": "If the site is free, you are the product",
+      "resume": "As tracking moves from cookies to invisible fingerprints, the burden of privacy falls on the user. Closing statement: if the site is free the user is the product, and Google's private window was always one way.",
+      "mots_cles": [
+        "user is the product",
+        "digital fingerprints",
+        "privacy burden",
+        "free sites",
+        "conclusion",
+        "one-way window"
+      ],
+      "texte": "As tracking mechanisms evolve from basic cookies to invisible digital fingerprints, the burden of privacy is put on you, the user. The reality of the modern internet is simple… If the site is free, the user is the product. You thought Google built you a private window to protect you. That window was always one way."
+    },
+    {
+      "id": 21,
+      "debut": 796.4,
+      "fin": 807.74,
+      "temps_estime": false,
+      "titre": "Call to action: Google Just Killed Websites",
+      "resume": "The speaker says Google helped build the internet but is now destroying it, and points viewers to another video, Google Just Killed Websites. It's Not Good, about how its AI is reshaping the web.",
+      "mots_cles": [
+        "call to action",
+        "Google AI",
+        "Google Just Killed Websites",
+        "web reshaped",
+        "follow-up video",
+        "outro"
+      ],
+      "texte": "Google helped build the internet we browse today. But now, they're doing the opposite, they’re actively destroying it. Watch “Google Just Killed Websites. It's Not Good.” to see how their AI is reshaping the web."
+    }
+  ]
+}
