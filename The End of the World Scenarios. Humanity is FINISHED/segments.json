@@ -4,12 +4,12 @@
   "titre_video": "The End of the World Scenarios. Humanity is FINISHED.",
   "duree_s": 13080.84,
   "avancement": {
-    "lignes_traitees": 2863,
-    "fin_traitee_s": 5531.25,
+    "lignes_traitees": 3792,
+    "fin_traitee_s": 7345.37,
     "nb_lignes_total": 6858,
     "complet": false
   },
-  "nb_segments": 90,
+  "nb_segments": 121,
   "segments": [
     {
       "id": 1,
@@ -1630,6 +1630,564 @@
         "Soviet Union"
       ],
       "texte": "The largest explosion ever recorded by a hydrogen bomb was over Novaya Zemlya Island in Russia. It was called the RDS-220 hydrogen bomb or the Tsar Bomba. On October 30th, 1961, the 50 megaton nuke was detonated with the equivalent of 50 million tons of TNT. This is approximately the same as exploding 3,800 of the atomic bombs that were dropped on Hiroshima. It should come as"
+    },
+    {
+      "id": 91,
+      "debut": 5531.25,
+      "fin": 5613.85,
+      "temps_estime": false,
+      "titre": "The Davy Crockett nuclear launcher",
+      "resume": "During the Cold War the US built the M28/M29 Davy Crockett, a miniature nuclear warhead and launcher that one soldier could carry and fire like an oversized rifle. It was inaccurate, had a range of about 2.5 miles with no kill switch, and some 2,100 systems were deployed with NATO in the 1960s, a possible catalyst for nuclear war before being destroyed.",
+      "mots_cles": [
+        "Davy Crockett",
+        "M28 M29",
+        "tactical nuclear weapon",
+        "rogue soldier",
+        "NATO 1960s",
+        "miniature nuclear warhead",
+        "Cold War"
+      ],
+      "texte": "no surprise that relatively few nuclear weapons are needed to end the whole world, but one delivery system in particular was a major concern for the longevity of the human species. During the Cold War, the United States developed a miniature nuclear warhead and a launcher that could fire it. The crazy part was it could be carried, deployed, and launched by a single soldier. The weapon was called the M28 or M29 Davy Crockett weapon system. It looked like an oversized rifle with a small bomb attached to the end of it. The weapon was wildly inaccurate and very dangerous, which resulted in it being scrapped as the Cold War came to an end. All it would have taken is one rogue soldier in making a bad decision to launch a nuke at the enemy. The counterattack would end up wiping humanity off the face of the planet. The Davy Crockett could launch its payload approximately 2 and 1/2 miles, which was barely far enough to ensure the soldier who fired the weapon was safe from the nuclear fallout. He most likely would survive the initial explosion, but could receive a lethal dose of radiation if he didn't get away quick enough. There was also not a kill switch, so once the weapon was fired, there was no going back. But perhaps the craziest part was that the United States made around 2,100 M28 and M29 Davy Crockett weapon systems, and those weapons actually were deployed with NATO forces in the '60s. [music] This meant there was the possibility for individual soldiers to launch over 2,000 nukes from the field simultaneously. This weapon might have been the number one potential catalyst for nuclear war at the time. Thankfully, all Davy Crockett weapon systems were destroyed or disassembled as far as we"
+    },
+    {
+      "id": 92,
+      "debut": 5613.85,
+      "fin": 5673.05,
+      "temps_estime": false,
+      "titre": "Dirty bombs and silent radiation",
+      "resume": "Dirty bombs spread radioactive material with conventional explosives, releasing gamma rays that damage cells and DNA and cause burns and cancer. A series of them might not end the world at once, but over time radiation could kill the human species and ecosystems while leaving buildings and cities untouched.",
+      "mots_cles": [
+        "dirty bomb",
+        "radiation",
+        "gamma rays",
+        "radioactive chemicals",
+        "cancer",
+        "ecosystem collapse",
+        "weapon of mass destruction"
+      ],
+      "texte": "know. Another weapon of mass destruction that could end the world would induce so in a huge explosion, but silently. Dirty bombs are the name given to devices that release massive amounts of radiation without the detonation of a nuclear warhead. This is done with a highly concentrated mix of radioactive chemicals, [music] which is then disseminated using regular explosives. The type of radiation that results from dirty bombs is gamma rays, which would [music] rip through the cells of human bodies and cause damage at the molecular level. This can lead to symptoms like radiation burns and also cause mutations in DNA leading to cancer. [music] A series of dirty bombs would most likely not cause the world to end right away, but given time, the amount of radiation [music] that could spread across the planet would be lethal to the human species. The creepy thing about humanity being wiped out by dirty bombs would be the lack of the destruction. Buildings would be unharmed and entire cities would seem untouched. Years after such a world-ending [music] event, it would seem like humanity was just blinked out of existence. That being said, all living things would be negatively affected, leading to a mass collapse in every ecosystem around the world. We're"
+    },
+    {
+      "id": 93,
+      "debut": 5673.05,
+      "fin": 5731.85,
+      "temps_estime": false,
+      "titre": "Chemical weapons: the Novichok nerve agent",
+      "resume": "Chemical warfare is banned like biological warfare but still used by dictators and could be released worldwide with enough planning. The Soviet Novichok family are nerve agents that block brain-to-body signals, causing dilated pupils, breathing problems and convulsions, and spreading them through food, water or crop-duster drops could kill vast numbers.",
+      "mots_cles": [
+        "chemical weapons",
+        "Novichok",
+        "nerve agent",
+        "Soviet Union",
+        "convulsions",
+        "chemical warfare",
+        "food and water contamination"
+      ],
+      "texte": "now moving away from nuclear weapons and into the world of world-ending substances. Like biological warfare, chemical warfare has been banned, but that doesn't stop insane dictators and military leaders from using it. The most terrifying thing about chemical weapons [music] is that with enough resources and planning, they can be simultaneously released across the world. In the former Soviet Union, the military created a family of chemicals called Novichok. This weapon is a nerve agent, which means the chemicals block a nerve signal sent from the brain to the rest of the body. The interference of these signals eventually results in vital bodily processes shutting down and causing the person who has ingested the chemical to die. Signs of exposure to Novichok are dilated pupils, problems breathing, and uncontrollable convulsions. After this occurs, there is only death. And if the nerve agent was somehow disseminated across the entire world in food or water supplies, it would quickly wipe out a huge number of people. An even scarier thought is if the Novichok could be mass produced and then air dropped like pesticides from a crop duster across the world, the number of casualties would be"
+    },
+    {
+      "id": 94,
+      "debut": 5731.85,
+      "fin": 5797.36,
+      "temps_estime": false,
+      "titre": "Sarin gas: persistent, invisible and still used",
+      "resume": "Sarin was invented in 1938 by Nazi scientists and blocks nerve signals, killing by asphyxiation or heart failure. It is invisible, odorless and can persist in the air for hours or days, and despite a 1997 ban it was used in Damascus, Syria in 2013, killing up to 1,300 people.",
+      "mots_cles": [
+        "sarin",
+        "nerve agent",
+        "Nazi scientists",
+        "Damascus 2013",
+        "Syria",
+        "chemical weapons ban 1997",
+        "asphyxiation"
+      ],
+      "texte": "even greater. Another chemical agent that could have the potential to end the world would be Sarin. This chemical weapon was invented in 1938 by Nazi scientists. It's also considered a nerve agent as it attacks the body in a similar way to Novichok. When Sarin enters the body, it begins to block nerve signals and the enzyme receptors, which then causes the body to convulse and spasm. After some time, the person dies of asphyxiation or heart failure. What makes this chemical weapon even worse than Novichok is that it has the ability to persist in the air for hours or even days after being deployed depending on the weather conditions. The gas itself is invisible and odorless, which means that if it's used in large scale, it will take time to figure out what's killing [music] so many people. Also, if a vast quantity of sarin gas was continuously deployed in one area, wind and air currents could move it across a region putting countless lives at risk. The creation and stockpiling of sarin was supposed to be banned in 1997. [music] Yet as recently as 2013 it was used in Damascus, Syria on rebel forces. It's estimated the death toll was as high as 1,300 [music] people including civilians and children. Clearly this lethal chemical weapon still exists and if deployed across the planet could wipe out much of humanity. One weapon that"
+    },
+    {
+      "id": 95,
+      "debut": 5797.36,
+      "fin": 5854.95,
+      "temps_estime": false,
+      "titre": "A single bullet: assassination as a trigger for global war",
+      "resume": "A bullet and rifle can end the world if aimed at an important target: Franz Ferdinand's assassination by Gavrilo Princip started World War I, and JFK's killing nearly turned the Cold War hot. Assassinating a leader of North Korea or China, or a foreign-government killing of a world leader, could trigger a global war with weapons of mass destruction.",
+      "mots_cles": [
+        "assassination",
+        "Franz Ferdinand",
+        "Gavrilo Princip",
+        "JFK",
+        "World War I",
+        "global war",
+        "North Korea China"
+      ],
+      "texte": "has the ability to end the world is something [music] that practically everyone can get their hands on. In order to end the world all someone really needs is a bullet, a rifle and an important target. Take World War I for instance. [music] The assassination of Austrian Archduke Franz Ferdinand by Gavrilo Princip plunged Europe into war. The bullet that killed a JFK almost caused the Cold War [music] to turn hot. These instances of gun causing mass turmoil could be what ends life as we know it. Imagine what would happen in today's world if the leader of a country like North Korea or China was assassinated. Depending on the circumstances, a single bullet could lead countries [music] with powerful militaries to do crazy things. Taking it a step further, if the assassination of practically any world leader was carried out by a foreign government, it could lead to a [music] global war. Unfortunately for everyone involved and all out war today would look very different than it did [music] in the past. The major players would probably end up being the NATO nations versus countries controlled by dictators under the guise of communism. Both sides would continue fighting a war started by a rifle with weapons of mass destruction."
+    },
+    {
+      "id": 96,
+      "debut": 5854.95,
+      "fin": 5910.76,
+      "temps_estime": false,
+      "titre": "Rods from God and space-based weapons",
+      "resume": "Rods from God would be missiles, heavy metal tubes or bombs dropped from satellites that strike with enormous orbital velocity. With about 7,500 active satellites in low earth orbit and space being militarized, future warfare may be fought in and from space.",
+      "mots_cles": [
+        "rods from God",
+        "orbital weapons",
+        "kinetic bombardment",
+        "satellites",
+        "7,500 satellites",
+        "space warfare",
+        "militarization of space"
+      ],
+      "texte": "Perhaps the end of the world will be caused by weapons not yet built. One such weapon could be the rods from God. Basically the rods from God would be missiles, bombs or other destructive devices dropped from satellites in space. The impact velocity would be enormous as gravity would pull the weapon down to Earth from orbit. Such weapons could be something as simple as a solid tube made of heavy metal that could rip through a structure causing it to collapse or a conventional nuclear bomb. Regardless of what is being dropped from space, the destruction would be devastating. This is especially true if multiple rods from God were deployed all at once. There are currently somewhere around 7,500 active satellites in low earth orbit. Imagine if each one of these satellites were equipped with this technology. It's not out of the realm of possibility that in the near future warfare will be fought both in and from space. As space is militarized, the number of satellites will only increase. If that's the case, they will also most likely be equipped with a defense and attack system. The weapons that in the world might not come from earth itself, but from high above"
+    },
+    {
+      "id": 97,
+      "debut": 5910.76,
+      "fin": 5981.56,
+      "temps_estime": false,
+      "titre": "High-energy lasers and death rays",
+      "resume": "Lasers mounted on planes are being developed to shoot down missiles, bombs and drones and could one day attack ground targets, destroy cities and even planets like the Death Star. The video compares the pace of progress to the iPhone's 15 years and suggests death by laser might be how the world ends.",
+      "mots_cles": [
+        "laser weapons",
+        "death ray",
+        "laser on aircraft",
+        "missile defense",
+        "Death Star",
+        "future weapons",
+        "drones"
+      ],
+      "texte": "it. Weapons such as lasers have been the dream of military leaders for decades, but with the rapid advancement of technology, [music] these death rays may be closer to reality than ever before. In the past decade, the military [music] has been tinkering with ways to mount lasers on the planes to help shoot down missiles. This laser technology is still in its infancy, but [music] it's progressing quickly. Right now, the lasers are mostly being deployed to destroy missiles, bombs, and drones. However, [music] in the future, these high energy lasers could be used for much more destructive missions. If lasers become large and powerful enough, they could be mounted on planes from where they could shoot down at targets on earth below. In the future, warfare using bullets and missiles might be a thing of the past. High powered lasers could continuously rip through military installations and hold battalions of soldiers. They could also be used to destroy buildings and cut down entire cities. [music] And if a laser was powerful enough, it could destroy a planet just like the Death Star from Star Wars. We are still ways from that type of laser technology, but it was only about 15 years ago when the first iPhone came out. Now we have high powered computers in the palm of our [music] hands with internet access pretty much everywhere in the world. Think about what else will be accomplished in the next 15 years. The weapons of the future will likely look very different than the weapons of today, and death by laser might be the way the world ends. Then again, maybe"
+    },
+    {
+      "id": 98,
+      "debut": 5981.56,
+      "fin": 6035.56,
+      "temps_estime": false,
+      "titre": "MK Ultra and mind control",
+      "resume": "The CIA's MK Ultra in the 1950s tried mind control with LSD, barbiturates and amphetamines on subjects, and director Richard Helms destroyed the records in 1973. The video speculates about brainwashed assassins or sleeper agents detonating a nuclear stockpile, noting this is far-fetched but unverifiable.",
+      "mots_cles": [
+        "MK Ultra",
+        "CIA",
+        "mind control",
+        "LSD",
+        "Richard Helms",
+        "sleeper agents",
+        "brainwashing"
+      ],
+      "texte": "it's the weapons of the past that could lead to the extinction of the human species. In the 1950s, the CIA conducted a series of experiments under [music] what came to be known as MK Ultra. This was a covert program to see whether mind control was possible. The theory was that by using psychotropic drugs, the brain could be altered and programmed. The military forced subjects to take [music] LSD, barbiturates, and amphetamines and then monitor their behavior. It's not entirely clear what the outcomes of the MK Ultra tests were, as CIA director Richard Helms had all the records of the project destroyed in 1973. However, with advances in neuroscience [music] and our understanding of how the brain works, maybe the world will end with a brainwashed spy assassinating a world leader, or maybe a team of sleeper agents will infiltrate the highest levels of a country's military and detonate their nuclear stockpile all at once. These are all obviously far-fetched situations [music] that would likely never happen, but it's hard to know just how far MK Ultra and mind control went since all the files were destroyed. Some of the most bizarre"
+    },
+    {
+      "id": 99,
+      "debut": 6035.56,
+      "fin": 6104.86,
+      "temps_estime": false,
+      "titre": "Weaponized animals: bat bombs and cyborg creatures",
+      "resume": "In World War II the US explored Project X-Ray, strapping incendiary explosives to bats to burn Japanese cities, and DARPA researched microchips to control cockroaches and rats. The video imagines cyborg animals carrying bombs, lasers or bioweapons as a way the world could end.",
+      "mots_cles": [
+        "Project X-Ray",
+        "bat bombs",
+        "DARPA",
+        "cyborg animals",
+        "cockroach rats microchips",
+        "weaponized animals",
+        "military experiments"
+      ],
+      "texte": "military weapons ever created were the result [music] of equipping animals with technological upgrades. During World War II, the United States military toyed around with the idea of equipping incendiary explosives onto bats [music] and dropping them onto enemy territory. This came to be known as Project X-Ray. The thought was that by [music] releasing thousands of fireball bats onto Japanese cities, they could ignite homes, buildings, and other structures, causing everything to burn to the ground. This wasn't the only experiment with weaponized animals. DARPA had also conducted research around implanting microchips in different animals like cockroaches [music] and rats to allow humans to control them. The animals would likely be used for reconnaissance missions or to collect intel [music] in heavily guarded facilities. However, with the way technology is advancing, maybe it's not too long before we start equipping these animals [music] with explosives that can cause massive damage and casualties. Imagine a war not fought by humans, but by cyborg animals that are fitted with bombs, lasers, or even biological weapons. The end of the world might not happen from conventional weapons, but from military experiments [music] on animals gone wrong. Humanity could be wiped out by the very creatures we once manipulated for our own selfish purposes. Then again, maybe this is a sci-fi fantasy and we'll just blow ourselves up [music] the old-fashioned way using nukes. Only time will tell."
+    },
+    {
+      "id": 100,
+      "debut": 6104.86,
+      "fin": 6171.56,
+      "temps_estime": false,
+      "titre": "Nostradamus: who he was and why his predictions matter",
+      "resume": "A new video explains the world's end according to Nostradamus, a 16th-century apothecary and astrologer whose wife and children died of bubonic plague. His horoscopes made him a favorite of the French nobility including Catherine de Medici, and his works are read as foreseeing events from Hitler to 9/11 and JFK's assassination.",
+      "mots_cles": [
+        "Nostradamus",
+        "16th century",
+        "astrology",
+        "Catherine de Medici",
+        "prophecies",
+        "plague",
+        "apothecary"
+      ],
+      "texte": "Hey, this is Josh and today we're explaining how the world ends according to Nostradamus. Born at the beginning of the 16th century, Michel de Nostradamus, better known as Nostradamus, lived in an age of constant war and disease. The bubonic plague killed his first wife and two young children. At the time, he was working as an apothecary, [music] selling plague remedies, which can't have been any good. So he turned to his other great love, astrology, predicting marriages, outbreaks of disease, usurpers of the European thrones, you name [music] it, he saw it. Some called him evil, others said he was mad. In an era where claiming visions could get you tortured or executed, that mattered. But with Catherine de Medici, wife of King [music] Henry II of France as one of his clients, his head remained firmly attached to his shoulders. In an era where death came without warning, demand for his supposed psychic powers and horoscopes made him a favorite of [music] the French nobility. But he didn't stop at predicting the next month or just a few years down the line. Depending on how you read his works, he might have envisioned everything from Adolf Hitler to 9/11 to JFK's unfortunate day in Dallas. And that is where things start to get uncomfortable."
+    },
+    {
+      "id": 101,
+      "debut": 6171.56,
+      "fin": 6250.76,
+      "temps_estime": false,
+      "titre": "Nostradamus and the death of King Henry II",
+      "resume": "In 1559 King Henry II was pierced through the eye by a splintered lance in a joust and died of sepsis ten days later. Nostradamus's quatrain about a young lion overcoming an older one in single combat, with a golden cage and two wounds made one, is read as predicting it.",
+      "mots_cles": [
+        "King Henry II",
+        "joust 1559",
+        "quatrain young lion",
+        "sepsis",
+        "golden cage",
+        "Nostradamus prediction",
+        "Catherine de Medici"
+      ],
+      "texte": "It goes without [music] saying that the Catholic Church wasn't his biggest fan, but with a royal endorsement he was effectively untouchable, even after he might have predicted the king's very grisly death. On June 20th, [music] 1559, King Henry was on top of the world. He'd recently signed a peace treaty with his enemies, the Habsburgs of Austria, and his daughter Elizabeth had gotten married to King Philip II [music] of Spain. To celebrate, he staged a weekend of jousting with himself as the star attraction. Wearing the colors of his mistress, the 40-year-old king rode headlong into combat against a much younger soldier, and he immediately regretted it. The soldier's lance shattered and a piece of wood splintered [music] off and pierced Henry's eye and brain. The injury became infected, spread into his brain, and Henry died in agony from sepsis [music] 10 days later. 10 days. Had Nostradamus predicted it? One of his quatrains, a short [music] four-line prophecy warned that a young lion will overcome an older one. Sure, he said it would be on a field of combat, not in a joust, but that is close enough. But the best part is that Nostradamus predicted that the young soldier would pierce the older man's eyes through a golden [music] cage, maybe armor. He also said that two wounds made one. Eye and brain equals sepsis. [music] He called it a cruel death, and 10 days in agony certainly is. Convincing? Maybe. Coincidence?"
+    },
+    {
+      "id": 102,
+      "debut": 6250.76,
+      "fin": 6324.96,
+      "temps_estime": false,
+      "titre": "The Saint Bartholomew's Day Massacre prediction",
+      "resume": "The 1572 massacre in Paris during the French wars of religion killed up to 30,000 Huguenots, with the royal power blamed. Nostradamus's lines about a great city in sudden confusion, nighttime slaughter of the innocent and faith betrayed are said to match, though he missed that survivor Gabriel de Montgomery was the soldier who killed Henry II.",
+      "mots_cles": [
+        "Saint Bartholomew's Day Massacre",
+        "1572",
+        "Huguenots",
+        "Catherine de Medici",
+        "Gabriel de Montgomery",
+        "wars of religion",
+        "quatrain"
+      ],
+      "texte": "Possibly. But we are just getting started. Nostradamus might have predicted the 1572 Saint Bartholomew's Day Massacre, when Paris was effectively turned into a killing field. Thousands were murdered in the streets and their homes. Up to 30,000 could have been killed in total after all the fighting spread out of the city. These were the days of the French wars of religion, the Catholics versus the Protestant Huguenots. On the day it all kicked off, Paris was packed with Protestant nobles [music] attending the wedding of Catherine de Medici's daughter Marguerite to the Protestant king Henry of Navarre. What started as targeted assassinations of Huguenot leaders quickly spiraled into mass slaughter, and [music] word on the street was that Queen Catherine was behind it all. Again, Nostradamus might have predicted it. [music] He wrote of a great city plunged into sudden confusion, check. Nighttime slaughter, the innocent struck down, check. The royal power will be blamed, double check. And [music] faith betrayed, check. Now that's a lot of boxes ticked for one massacre. The one thing he didn't see was that one of the Protestants who survived [music] the massacre was Gabriel de Montgomery, a Scottish French nobleman. This was the soldier, now much older, who had injured and effectively killed King Henry in the joust. Nostradamus didn't make that connection, nor that de Montgomery eventually lost his head. Okay, so if"
+    },
+    {
+      "id": 103,
+      "debut": 6324.96,
+      "fin": 6385.56,
+      "temps_estime": false,
+      "titre": "The French Revolution quatrain",
+      "resume": "Nostradamus's quatrain about an enslaved populace singing songs, princes in prisons and headless idiots is read as describing the French Revolution that began with the storming of the Bastille in 1789. Songs like La Marseillaise, jails full of nobility and revolutionaries losing their heads are compared to the lines.",
+      "mots_cles": [
+        "French Revolution",
+        "Bastille 1789",
+        "La Marseillaise",
+        "headless idiots",
+        "quatrain",
+        "guillotine",
+        "Nostradamus"
+      ],
+      "texte": "Nostradamus was any good at his job, what massive event in Europe would he have predicted? Here's a clue. The Enlightenment, heads on pikes, angry, bread-deprived peasants. That's right, [music] the French Revolution. It wasn't the death of a king. It was the collapse of an entire system. 10 years of mayhem and madness and political change that started with the storming of the Bastille in 1789. Nostradamus might have well seen it in his visions. Here's the quatrain from [music] the enslaved populace songs, chants, and demands. While princes and lords are held captive in prisons, these will in the future be taken as divine prayers by headless idiots. Enslaved peasants and Enlightenment intellectuals certainly liked to sing songs. La Marseillaise was one of their favorites. As for chants, the Revolution was full of them. And as for princes and lords in prisons, the jails were bursting with nobility. As for headless idiots, it might have been a scathing critique of the revolution's chaos where collective madness took hold and many revolutionaries quite literally lost their heads. And who emerged"
+    },
+    {
+      "id": 104,
+      "debut": 6385.56,
+      "fin": 6454.56,
+      "temps_estime": false,
+      "titre": "Napoleon in Nostradamus's quatrains",
+      "resume": "A quatrain with the anagram-like name Poenir Laron describes a leader more of fire than blood who roams the seas in praise and refuses the crown, matching Napoleon. Another says an emperor born near Italy will cost the empire dearly, fitting Corsican-born Napoleon, whose wars cost millions of lives.",
+      "mots_cles": [
+        "Napoleon",
+        "Poenir Laron",
+        "Corsica",
+        "emperor born near Italy",
+        "quatrain",
+        "Napoleonic wars",
+        "Nostradamus"
+      ],
+      "texte": "through the smoke of the revolution? Napoleon, of course. So what did Nostradamus have to say about him? Quite a lot, it turns out. He wrote Poenir Laron will be more of fire than blood. He will roam the seas in praise, refusing the crown. You don't need to play with the letters Poenir Laron for long to get something close to Napoleon. Napoleon did indeed become a great leader, but it wasn't his bloodline that made him top dog. It was his fire. Roaming the seas was his forte and absolutely he refused the crown. There were plenty of monarchists during Napoleon's reign biding their time, but while he was busy turning foreign armies to dust, they could only stand back in fear as Napoleon received praise from his people. But there was more. Nostradamus also talked about an emperor will be born near Italy who will cost the empire dearly. Napoleon was born in Corsica, an [music] island off the coast of Italy. It might have been annexed by France, but culturally it was Italian. Did Napoleon cost the empire dearly? Well, his military sojourns around Europe cost millions of lives and a lot of cash. Some argue that his conquests ultimately hurt France's geopolitical position as a superpower, but we'll let you decide that. Just so you know,"
+    },
+    {
+      "id": 105,
+      "debut": 6454.56,
+      "fin": 6526.36,
+      "temps_estime": false,
+      "titre": "Judicial astrology and the revolutions quatrain",
+      "resume": "Nostradamus never claimed to be a mystic and called his work judicial astrology, which kept him from being tortured in an era of witch burnings. His quatrain about kingdoms shaken by sudden uprising and the great falling from their seats is read as the revolutions that spread across Europe and the USA after the Enlightenment.",
+      "mots_cles": [
+        "judicial astrology",
+        "Nostradamus not a sorcerer",
+        "uprising quatrain",
+        "Enlightenment",
+        "revolutions",
+        "witch burnings",
+        "kingdoms shaken"
+      ],
+      "texte": "Nostradamus never claimed to be [music] a mystic. Educated in math and astrology, he said that he was merely a learned interpreter of celestial patterns, not a sorcerer. [music] He called it judicial astrology. In an era that burned accused witches and believed that some villagers flew on broomsticks, openly claiming visions from another realm could have left him crushed in Spanish boots or having his toes held to the flames. That's the reason he could get away with his next vision. He wrote the kingdoms will be shaken by sudden uprising. The people will overthrow ancient rule. Law will fail, order broken, and the great will fall from their seats. This should be pretty straightforward. The French Revolution didn't just change the lay of the land in France. [music] It had repercussions far and wide. The old order had been kings and queens that ruled over peasants who didn't get much say and well, anything. Their sudden uprising did overthrow the ancient rule while law and order broke down. The Enlightenment with its focus on the rights of men changed the face of the entire Western world. All over Europe, in the German states, Austria and Italy, in what would become the USA, revolutions exploded. The great leaders did indeed fall from their seats. But [music] revolution wasn't the only force reshaping the"
+    },
+    {
+      "id": 106,
+      "debut": 6526.36,
+      "fin": 6570.66,
+      "temps_estime": false,
+      "titre": "The Industrial Revolution and urban misery",
+      "resume": "Nostradamus's lines about the poor man's cry going unheard and cities filled with lamentation are read as the urban decay of the Industrial Revolution. Famine within the plague and people put out by steel are linked to slums, disease outbreaks and crackdowns on protesters.",
+      "mots_cles": [
+        "Industrial Revolution",
+        "urban decay",
+        "slums",
+        "famine and plague",
+        "people put out by steel",
+        "quatrain",
+        "social unrest"
+      ],
+      "texte": "world. Technology. Peasants flooded into the cities where machines began producing goods faster than ever before. [music] This industrial revolution began in England and spread fast. Nostradamus might have been talking about the urban decay that followed when he wrote, the poor man's cry will go unheard while the rich will grow harder still. Cities will be filled with lamentation and order will fail. The poor suffered and the rich grew colder toward the new working class. Cities swelled into slums and unrest followed. In another quatrain, Nostradamus talked about cities being filled with the scourges of famine within the plague and people put out by steel. Was he seeing outbreaks of smallpox, typhus and tuberculosis and were the people put out by steel the deadly crackdowns on protesters? Then"
+    },
+    {
+      "id": 107,
+      "debut": 6570.66,
+      "fin": 6613.56,
+      "temps_estime": false,
+      "titre": "World War I: battles in the sky",
+      "resume": "Quatrains about wars stirred up anew, battles in the sky and brute beasts talking are read as World War I airplanes and guns. The line that the world shrinks and a pig-half-man are read as air travel and a pilot's mask.",
+      "mots_cles": [
+        "World War I",
+        "battles in the sky",
+        "airplanes",
+        "pig-half-man",
+        "quatrain",
+        "world shrinks",
+        "Nostradamus"
+      ],
+      "texte": "the industrial powers went to war and they brought their machines with them. So, did Nostradamus predict World War I? He talked about wars stirred up anew, saying after a period of peace there would be battles in the sky. Could that mean the airplanes, something that no one had ever fought with before? But he added to that, noise, song, battle, fighting in the sky perceived and one will hear brute beasts talking. Fighting in the sky, the beasts talking. Was maybe the sound of guns? When Nostradamus was alive, no one fought in the sky. He also wrote that the world shrinks and with airplanes it did. Another part of the quatrain talks about a pig-half-man. A pilot wearing a mask would have looked exactly like that."
+    },
+    {
+      "id": 108,
+      "debut": 6613.56,
+      "fin": 6698.77,
+      "temps_estime": false,
+      "titre": "Hitler in Nostradamus's quatrains",
+      "resume": "Nostradamus described a child born of poor people who would seduce a great troop with his tongue, a fame growing toward the East, and a battlefield against Ister, read as Adolf Hitler and the Eastern Front. The video notes Hitler's family was not poor, though he was a gifted orator, and that the spelling is forgivable.",
+      "mots_cles": [
+        "Adolf Hitler",
+        "Nostradamus quatrain",
+        "orator",
+        "Eastern Front",
+        "Ister",
+        "born of poor people",
+        "World War II"
+      ],
+      "texte": "Okay, Adolf Hitler. [music] Now there's a guy who certainly left a mark on history. Did Nostradamus envisage a small man with a questionable mustache who tried to take over half of the world? Kind of. He talked about a young child who would be [music] born of poor people. Hitler's parents both came from the peasantry, but they weren't poor when Adolf was born. The father, Alois Hitler, was a middle-level customs official, and he provided [music] a stable life for his wife Clara and Hitler's seven siblings, four who died very young and two were half siblings. [music] So the Hitlers weren't exactly scraping by, but they did come from poverty. Nostradamus went on saying this child would one day seduce [music] a great troop by his tongue. Hitler was many things, but he was a fantastic orator, [music] and he absolutely seduced the nation of men to fight for him. Nostradamus also said this man will be born in Western Europe and quote, his fame will increase toward the realm of the East. Ask anyone in Russia or anywhere east of Germany if they have heard of Hitler, and the answer is an immediate yes. He was massive in the East, infamous [music] rather than famous, but let's not get so hung up on semantics. Nostradamus also saw beasts ferocious with hunger that will cross the rivers. That could be planes, tanks, [music] or even ships. Nostradamus might have envisioned the battle on the Eastern Front because he wrote that the greater part of the battlefield will be against Ister. Now that sounds a lot like Hitler. We can't really fault a visionary for his spelling. Staying with"
+    },
+    {
+      "id": 109,
+      "debut": 6698.77,
+      "fin": 6761.17,
+      "temps_estime": false,
+      "titre": "The Spanish flu as the 'greater pestilence'",
+      "resume": "A quatrain about a greater pestilence after a great war, with no remedy, bodies struck without sign and deserted cities, is read as the 1918 Spanish flu. It killed an estimated 50 to 100 million, more than World War I's deaths, with quarantined cities such as Saskatoon called cities of the dead.",
+      "mots_cles": [
+        "Spanish flu",
+        "greater pestilence",
+        "1918",
+        "World War I deaths",
+        "quarantine",
+        "Saskatoon",
+        "masks",
+        "quatrain"
+      ],
+      "texte": "the early 20th century, there was another major event that killed off humans. No weapons, no mad cap idealists, nature did it all by itself. Nostradamus wrote, after a great war, a greater pestilence, no remedy, bodies struck without sign, cities left deserted, death walking unseen. This might be referring to the Spanish flu, maybe 50 to 100 million dead globally. No one can be sure of the numbers, but this greater pestilence likely killed more people than the 9 to 11 million soldiers and 6 to 13 million civilians who died during World War I. No remedy, bodies struck without sign, maybe he meant the invisibility of an airborne virus. As for cities left deserted, Nostradamus hit the nail firmly on the head. News reports from the US talked about cities under quarantine where the streets were empty. Saskatoon, Canada was described as a city of the dead, a ghost town as everyone stayed home. And the death walking unseen could have been referring to people wearing [music] masks or being very ill and not yet showing symptoms. Another major event"
+    },
+    {
+      "id": 110,
+      "debut": 6761.17,
+      "fin": 6804.27,
+      "temps_estime": false,
+      "titre": "Hiroshima and Nagasaki quatrain",
+      "resume": "A quatrain about two cities scourged by two scourges, famine within plague and people put out by steel, is read as Hiroshima and Nagasaki. Famine and plague match radiation poisoning, steel matches the B-29 bombers, and the cry for relief matches the victims.",
+      "mots_cles": [
+        "Hiroshima",
+        "Nagasaki",
+        "two cities scourged",
+        "radiation poisoning",
+        "B-29",
+        "atomic bomb",
+        "quatrain"
+      ],
+      "texte": "from the early 20th century is two Japanese cities being annihilated by American bombs. Did Nostradamus see nukes in his visions? One of his quatrains does sound a little bit like destroyed Hiroshima and Nagasaki. It says [music] near the gates and within two cities there will be two scourges, the like of which was never seen. Famine within plague, people put out by steel crying to the great immortal god for relief. Two cities scourged, the like of which was never seen. Seems pretty obvious. Famine and plague might be the radiation poisoning that the US at first denied existed. The steel could be related to the B-29 bombers that dropped the bombs. As for relief, well, the people certainly did cry out for it, but their government was slow to help. Then"
+    },
+    {
+      "id": 111,
+      "debut": 6804.27,
+      "fin": 6849.77,
+      "temps_estime": false,
+      "titre": "JFK assassination in Nostradamus's quatrain",
+      "resume": "A quatrain says an ancient task will be completed, evil will fall from on high on the great man, a dead innocent will be accused and the guilty will remain in the mist. The video reads this as John F. Kennedy's assassination, with Lee Harvey Oswald as the accused innocent and unproven conspirators in the mist.",
+      "mots_cles": [
+        "JFK assassination",
+        "Lee Harvey Oswald",
+        "quatrain",
+        "conspiracy theories",
+        "dead innocent accused",
+        "Kennedy",
+        "Dallas"
+      ],
+      "texte": "we have the day many Americans said their country lost their innocence when darkness descended after a relatively stable 1950s, the day President John F. Kennedy was assassinated. Nostradamus wrote the ancient task will be completed. From on high, evil will fall on the great man. A dead innocent will be accused of the deed. The guilty will remain in the mist. Ancient task, assassinating political leaders has been around forever. From high and evil, well, that could mean the invisible hands many Americans believe arranged the assassination. But the best part of this prediction is the dead innocent being accused of the deed. For conspiracy theorists, Lee Harvey Oswald, who was murdered after he was arrested, was innocent. And if the skeptics [music] are right, the guilty did remain in the mist. They were never officially"
+    },
+    {
+      "id": 112,
+      "debut": 6849.77,
+      "fin": 6891.77,
+      "temps_estime": false,
+      "titre": "September 11 and the sky burning at 45 degrees",
+      "resume": "A quatrain about the sky burning at 45 degrees and fire approaching the great new city is read as the 9/11 attack on New York, a young city near the 45th parallel. The cold and cruel heart, blood and lack of mercy fit the attackers, though the city was not destroyed.",
+      "mots_cles": [
+        "9/11",
+        "Twin Towers",
+        "New York",
+        "45th parallel",
+        "quatrain",
+        "fire in the great new city",
+        "terrorism"
+      ],
+      "texte": "charged. Now we come to the modern age and the day two planes flew into the Twin Towers [music] as the world watched in a state of absolute shock. Nostradamus might have seen it in the stars when he wrote the sky will burn at 45 degrees. Fire approaches the great new city. By fire, he will destroy their city. A cold and cruel heart, blood will pour, mercy to none. Fire in a great new city is obvious. Compared to other major global cities, New York is still a baby. What's more is it lies close to the 45th parallel, about 300 miles away, but we can forgive Nostradamus for that error. It wasn't completely destroyed, not even close, but Nostradamus was right about the cold and cruel heart, the blood, and the lack of mercy. He might have also"
+    },
+    {
+      "id": 113,
+      "debut": 6891.77,
+      "fin": 6941.17,
+      "temps_estime": false,
+      "titre": "World War III: the red adversary, bees and three fires",
+      "resume": "Quatrains about a red adversary pale with fear and the great ocean in dread are read as China and the South China Sea, with a swarm of bees as drones in a war of machines. Three fires from the east while the west loses its light is linked to a China, Russia and Iran axis and a multipolar world.",
+      "mots_cles": [
+        "World War III",
+        "red adversary China",
+        "South China Sea",
+        "swarm of bees drones",
+        "three fires from the east",
+        "China Russia Iran",
+        "multipolar world"
+      ],
+      "texte": "seen World War III. One of his quatrains talks about combat and naval battle. He explained the red adversary will become pale with fear, putting the great ocean in dread. Red adversary is that China? Was the great ocean in dread related to the fight in the South China Sea where China has been building bases? He's also talked about a great swarm of bees in the fight, which could be the drones used by World War III. The next big war will no doubt be a war of machines more than humans. But one of his best lines is three fires rise from the eastern sides while the west loses its light in silence. Three fires from the east. Western media these days likes to talk about a new axis, China, Russia, and Iran. And for years now, political scientists have discussed the new multipolar world where the US [music] is no longer the only great superpower. So"
+    },
+    {
+      "id": 114,
+      "debut": 6941.17,
+      "fin": 7002.77,
+      "temps_estime": false,
+      "titre": "1999 prediction failure, Mars rule and the 2026 quatrain",
+      "resume": "Nostradamus's claim that a king of terror would fall from the sky in July 1999 did not come true, though his line that Mars would rule the world fits constant war. His prophecies are vague enough to fit almost anything, and a quatrain linked to 2026 offers the hopeful line about the man of light rising.",
+      "mots_cles": [
+        "1999 prediction",
+        "king of terror",
+        "Mars rules the world",
+        "2026 quatrain",
+        "vague prophecies",
+        "man of light",
+        "war"
+      ],
+      "texte": "maybe Nostradamus was right about the west losing its light. He seemed to think the world [music] would end writing in another quatrain that on the seventh month of 1999 a great king of terror would fall from the sky. Unless he meant the rain in the UK. No great terror fell from the sky that year. [music] The world didn't end, but maybe he was right when he said that Mars would rule the world, meaning constant war. [music] But let's soften the blow. The truth is Nostradamus's grim predictions can be read in countless ways. It's not that he perfectly foresaw the future, it's that human history is so full of war, famine, and catastrophe that his prophecies can be made to fit almost anything. And even if you do believe him, there is some good news. His 26th quatrains, which might relate to the year 2026, don't just talk about a swarm of bees attacking by night and the rising of the East as the West loses its light. He also says, shadows will fall, [music] but the man of light will rise and the stars will guide those who look within. We'll leave that one up to you. The [music] world will end someday."
+    },
+    {
+      "id": 115,
+      "debut": 7002.77,
+      "fin": 7023.07,
+      "temps_estime": false,
+      "titre": "Intro: the 12 most insane ways the world could end",
+      "resume": "A new video on doomsday notes that people imagine a divine reckoning or nuclear flash but not stranger ends such as an experiment gone wrong, a change in the universe's state or alien visitors. It introduces a countdown of the 12 most insane ways the world could end.",
+      "mots_cles": [
+        "doomsday",
+        "12 ways the world could end",
+        "experiment gone wrong",
+        "alien visitors",
+        "nuclear war",
+        "countdown"
+      ],
+      "texte": "When you think of Doomsday, you might think of a reckoning from a divine deity or perhaps you imagine a flash of light that signals nuclear war, but you probably couldn't imagine some of the craziest ways the world could end. An experiment gone wrong, a change in the very state of the universe, or visitors from another planet. [music] Let's explore the 12 most insane ways the"
+    },
+    {
+      "id": 116,
+      "debut": 7023.07,
+      "fin": 7075.87,
+      "temps_estime": false,
+      "titre": "Number 12: AI in the wrong hands",
+      "resume": "Machines with artificial intelligence are estimated to complete most tasks better than humans by 2050, and many scientists worry less about evil machines than about how humans will use AI. Someone could ask a smarter-than-human AI to wipe out all life and it might devise a solution we haven't imagined.",
+      "mots_cles": [
+        "artificial intelligence",
+        "AI misuse",
+        "2050",
+        "wrong hands",
+        "wipe out all life",
+        "human use of AI",
+        "scientists' concerns"
+      ],
+      "texte": "world could end. Number 12, artificial intelligence or death by Terminator. Sci-fi movies and TV shows are not the only warnings of the dangers associated with artificial intelligence. Many scientists are also wary of the potential that AI could have if unleashed on the [music] world. It's estimated that by 2050 machines with artificial intelligence will be able to complete most tasks better [music] than humans. The most frightening part about that is that humans are really good at destroying our planet and using up natural resources. Most scientists who are [music] nervous about AI and how it could end the world are less concerned about the machines taking over and becoming evil and more concerned about how humans will use them. If artificial intelligence becomes smarter than the average human and [music] it falls into the wrong hands, there are countless ways it could end the world. All the user would have to do is ask the AI to wipe out all life on the [music] planet and it would come up with the solution that we probably haven't thought of yet."
+    },
+    {
+      "id": 117,
+      "debut": 7075.87,
+      "fin": 7122.17,
+      "temps_estime": false,
+      "titre": "Number 12: a self-aware AI and the Terminator scenario",
+      "resume": "A self-aware AI might do whatever it can to survive and reproduce, inheriting the survival instructions that evolution programmed into humans. It might see how badly we damage Earth and stop us, which could leave other living things better off.",
+      "mots_cles": [
+        "self-aware AI",
+        "Terminator",
+        "survive and reproduce",
+        "AI takeover",
+        "planet damage",
+        "machine consciousness",
+        "human extinction"
+      ],
+      "texte": "Artificial intelligence could also go the way of the Terminator. If it becomes so advanced that it's self-aware, there's a possibility it might do whatever it can to survive and reproduce. Since humans would have initially programmed the AI and we're the result of billions of years of evolution that has programmed us to survive and reproduce, it's likely that these same [music] instructions would somehow find their way into the AI's code. It's not out of the realm of possibility that an artificially intelligent machine becomes aware of how badly we're messing up the planet and decides to stop us since Earth would be its home, too. So perhaps the human species will end with artificial intelligence, but there's a good chance that the rest of the living things on the planet will live in a better world if an AI takes over. One tool an AI might have at its disposal to end the world [music] is this next item on our"
+    },
+    {
+      "id": 118,
+      "debut": 7122.17,
+      "fin": 7198.87,
+      "temps_estime": false,
+      "titre": "Number 11: nanobots replicating out of control",
+      "resume": "Computers shrank from room-sized to pocket-sized, and the next decades may bring microscopic self-replicating robots. A flaw could make nanobots duplicate uncontrollably and release toxins into all living things, spread by wind and travelers, with only a large EMP as a hypothetical countermeasure.",
+      "mots_cles": [
+        "nanobots",
+        "self-replicating robots",
+        "nanotechnology flaw",
+        "toxic chemicals",
+        "mass extinction",
+        "EMP",
+        "containment"
+      ],
+      "texte": "list. Number 11, destruction by nanotech bots. Nanotechnology is amazing. In the not too distant past, computers took up entire rooms within warehouses to generate what's now considered an extremely small amount of computational power. Now we have computers in the palms of our hands and microchips that are becoming more powerful while also becoming smaller. But all this is nothing compared to the future of nanotechnology. It's theorized that in the next few decades [music] we'll build microscopic robots that can perform different functions and even replicate themselves. [music] You can probably see the pros and cons of this type of technology. The terrifying thing is that if a flaw develops in the nanobots and they begin duplicating out of control, there is very little we'd be able to do about it. Containing a nanotech bot problem, if it ever did arise, would be nearly impossible. Imagine nanotechnology that malfunctioned [music] and began releasing toxic chemicals into a host as it replicated. It would be so small that it could easily infiltrate into any living thing on the [music] planet and fill it with their toxins. This could lead to the mass extinction of all species on Earth as the nanobots [music] sweep around the planet on wind currents and within humans as they travel around the world. Hypothetically, the nanobots could be wiped out by a large EMP, but that would also fry every other electronic on the planet. Nanotechnology is the way of the"
+    },
+    {
+      "id": 119,
+      "debut": 7198.87,
+      "fin": 7226.37,
+      "temps_estime": false,
+      "titre": "Nanotech benefits, kill switches and runaway spread",
+      "resume": "Nanobots could help doctors operate without cutting patients open and clean up oil spills and pollution. If something goes wrong things worsen instantly, and without a universal kill switch malfunctioning nanobots could spread like wildfire killing everything in their path.",
+      "mots_cles": [
+        "nanobot kill switch",
+        "nanomedicine",
+        "oil spill cleanup",
+        "malfunction",
+        "spread like wildfire",
+        "safety net",
+        "nanotechnology benefits"
+      ],
+      "texte": "future as microscopic [music] bots could help doctors perform internal surgeries without cutting a patient open or allow scientists to clean [music] up oil spills and help combat pollution. However, if something goes wrong, things would go from bad to worse in the blink of an eye. Hopefully, a kill switch [music] will be implemented in every nanobot that's ever made, but that's not a guarantee. Without a safety net, nanobots could spread across the world like wildfire, which could be a huge problem if they're malfunctioning and killing every living thing in their"
+    },
+    {
+      "id": 120,
+      "debut": 7226.37,
+      "fin": 7298.17,
+      "temps_estime": false,
+      "titre": "Number 10: solar geoengineering and an ice-ball Earth",
+      "resume": "Solar geoengineering would put particles in the atmosphere to reflect sunlight and counter the greenhouse effect, but the atmosphere's fine balance means miscalculating could make the planet plummet in temperature into a giant ice ball. The video frames it as a well-intentioned fix with world-ending potential.",
+      "mots_cles": [
+        "solar geoengineering",
+        "reflective particles",
+        "greenhouse effect",
+        "ice ball Earth",
+        "climate intervention",
+        "atmospheric balance",
+        "miscalculation"
+      ],
+      "texte": "path. Like with nanobots, the next scenario might have started with good intentions, but it could end with the destruction. Number 10, solar geoengineering and messing with a delicate balance. We know that climate change is a problem. The effects it's having on our planet are undeniable and soon it'll be too late, [music] or will it? Some scientists believe that the effects of climate change could be reversed by using a technology known as solar geoengineering. However, there are some real dangers and world-ending consequences that solar geoengineering could have. The idea behind solar geoengineering is that particles can be put into our atmosphere to reflect [music] sunlight back into space before it reaches the Earth's surface. This would counteract the greenhouse effect, which traps some of the sun 's radiation between our atmosphere and the Earth, leading to the planet warming up. The problem is that there is a fine balance happening in our atmosphere that keeps our planet's temperature just right for liquid water to be plentiful and life to thrive. If solar geoengineering throws off this balance, it would have dire consequences. Imagine if the solar geoengineers miscalculated and put too many sun-reflecting particles into our atmosphere, the planet's temperature would plummet and [music] Earth would become a giant ice ball. Another option"
+    },
+    {
+      "id": 121,
+      "debut": 7298.17,
+      "fin": 7345.37,
+      "temps_estime": false,
+      "titre": "Geoengineering side effects: carbon removal and weather chaos",
+      "resume": "Removing carbon dioxide from the air could also cause over-cooling, and modifying the atmosphere could shift heat distribution and wreck local ecologies and weather. Possible outcomes include tornadoes in cities or snow in the Amazon, but humans are already destroying the planet without it, as number nine shows.",
+      "mots_cles": [
+        "carbon dioxide removal",
+        "weather disruption",
+        "local ecologies",
+        "snow in the Amazon",
+        "heat distribution",
+        "geoengineering risks",
+        "over-cooling"
+      ],
+      "texte": "for geoengineers is to remove carbon dioxide directly from the [music] atmosphere, which would also slow down global warming and might be slightly safer. Then again, that same cooling problem would occur if too much carbon dioxide was removed from the atmosphere. Other concerns about solar geoengineering arise because we just don't know how modifying our atmosphere will affect other aspects of the planet, like local ecologies and weather patterns. Deploying particles into the atmosphere or removing CO2 could shift the heat distribution of the sun and throw our planet's whole weather system into chaos. We could experience massive tornadoes in the middle of cities or snow in the Amazon. These isolated changes could lead to global catastrophes and the end of the world. But to be fair, we're doing a pretty good job of destroying the planet without the help of solar geoengineering, as shown by number nine"
     }
   ]
 }
