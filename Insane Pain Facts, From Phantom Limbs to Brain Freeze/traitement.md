@@ -15,5 +15,7 @@ Speech : 6947 lignes, 0.32 s à 13672.56 s (≈ 3 h 48), langue en, sous-titres 
 
 - Tranche 2 : lignes 977 à 1946 (1801,12 à 3653,68 s, ≈ 30,9 min), 43 segments (id 64 à 106). Contenu : fin de la liste de 50 faits (soulagement de la douleur, douleur plaisante, névralgie du trijumeau, cœur brisé), liste des blessures les plus douloureuses (LCA, ligament collatéral ulnaire, jambe, vertèbres, TBI, calculs rénaux), endroits les plus douloureux pour un coup de poing, puis liste « unbearable » (n° 20 à 16 : poisson-pierre, fourmi balle, goutte, Lego, hernie discale). Remarques : aucune coupure estimée ; les passages longs (≥ 120 s) sont scindés en deux idées.
 
+- Tranche 3 : lignes 1947 à 2909 (3653,68 à 5459,76 s, ≈ 30,1 min), 37 segments (id 107 à 143). Contenu : fin de la liste « unbearable » (n° 15 à 1 : drépanocytose, neuropathie, ours grizzly, péritonite, mal de dents, fémur, épaule luxée, torsion testiculaire, exécutions, calculs, tétanos, brûlures, algie vasculaire, névralgie du trijumeau), puis début de la liste des 15 procédures médicales les plus douloureuses (n° 15 à 8 : liposuccion, gaz du sang artériel, implants dentaires, myomectomie, prothèse de hanche, hémorroïdectomie, greffe de peau, ponction lombaire). Remarques : aucune coupure estimée.
+
 ## Point d'arrêt
-Dernière ligne traitée : 1946. Prochaine étape : tranche 3, à partir de la ligne 1947 (« Now, for something you probably never heard of... Number 15 » : drépanocytose), id 107.
+Dernière ligne traitée : 2909. Prochaine étape : tranche 4, à partir de la ligne 2910 (fin de la ponction lombaire déjà couverte ; reprise sur « body, though. Number seven, gallbladder removal ... » ligne 2910 : « pain of having organs ripped out of your »), id 144.

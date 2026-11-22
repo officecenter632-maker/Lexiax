@@ -4,12 +4,12 @@
   "titre_video": "Insane Pain Facts, From Phantom Limbs to Brain Freeze",
   "duree_s": 13672.56,
   "avancement": {
-    "lignes_traitees": 1946,
-    "fin_traitee_s": 3653.68,
+    "lignes_traitees": 2909,
+    "fin_traitee_s": 5459.76,
     "nb_lignes_total": 6947,
     "complet": false
   },
-  "nb_segments": 106,
+  "nb_segments": 143,
   "segments": [
     {
       "id": 1,
@@ -1863,6 +1863,659 @@
         "strong drugs"
       ],
       "texte": "But when these things play up, when they're at their very worst, the outcome can be horrendous for people. A sufferer on a web forum [music] said he was on very strong drugs, but they weren't doing much for him. So he asked the question, \"How long will I be crawling up the walls in pain, unable to move without [music] screaming?\" One woman replied, alluding to childbirth, saying, \"On occasions, probably the most painful [music] thing I've ever suffered. Yes, even more than that.\" What's terrifying is the fact that some women suffer from a slipped disc while they're pregnant."
+    },
+    {
+      "id": 107,
+      "debut": 3653.68,
+      "fin": 3727.28,
+      "temps_estime": false,
+      "titre": "Sickle cell disease and pain crises",
+      "resume": "Number 15: sickle cell disease is an inherited blood disease where red blood cells are sickle-shaped and block blood flow to the chest, abdomen and joints, causing acute vaso-occlusive pain crises that can last up to a week per the NHS, in hands, legs, spine, pelvis, stomach or ribs.",
+      "mots_cles": [
+        "sickle cell disease",
+        "vaso-occlusive crisis",
+        "red blood cells",
+        "blood flow blocked",
+        "NHS",
+        "pain crisis",
+        "inherited"
+      ],
+      "texte": "We'll pray for them tonight. Now, for something you probably never heard of, and you'll be glad you never have. Number 15. Here's a medical description of the condition before we tell you what it is. The acute vasoclusive pain crisis manifests as an abrupt onset of severe debilitating pain in any part of the body. That doesn't sound very nice at all. That pain is the result of something called cickle cell disease. In short, this is a rare blood disease inherited from parents. It means the red blood cells are not healthy. Usually, these cells are round, but when you have this disease, they look more like a sickle, one of those grain cutting tools used on farms. When this happens, [music] blood flow is blocked to places such as your chest, abdomen, and joints. This can prove extremely painful. The bad news is that this is for most people a lifetime condition. But the better news is the pain only comes [music] in bouts, sometimes called pain crisis. The UK National Health Service calls them [music] severe and says they can last up to a week. These attacks of pain might hit the hands, arms, [music] legs, or feet, but they might also hit the spine, the pelvis, the stomach, the ribs, or the breast bone. Some people [music] might even have just one attack a year or less, but others can have them more often or less often. According to NHS, [music] one bad episode can be horrendous, and we mean crippling. We"
+    },
+    {
+      "id": 108,
+      "debut": 3727.28,
+      "fin": 3771.6,
+      "temps_estime": false,
+      "titre": "How sickle cell pain feels",
+      "resume": "Sufferers on sickle cell forums describe the pain as being stabbed repeatedly while having a migraine, multiple fractures at once, broken bones and glass in the body, tiny iron nails, or a hammer beating on bones.",
+      "mots_cles": [
+        "sickle cell pain",
+        "forum descriptions",
+        "stabbing",
+        "fractures",
+        "broken glass",
+        "hammer",
+        "indescribable pain"
+      ],
+      "texte": "looked at the dedicated sickle [music] cell disease forums to try and figure out how the pain feels. One person wrote, \"I say it feels like being stabbed [music] repeatedly while having a migraine throughout your whole body.\" Ouch. Indeed. Another person said, \"It feels like having multiple fractures all at the same time.\" and another said, \"It was like having broken bones and glass flowing through my body.\" Some more descriptions included lines like a monster seemingly a never-ending torture. You're being poked or stabbed by tiny pointy iron nails. The [music] intensity of the pain is indescribable. And for me, it's like you're beating me with a hammer on my bones. Wow, that sounds [music] painful and it would be hard to top. Nonetheless, you will see that there are pains in this world that can cause a similar amount of distress."
+    },
+    {
+      "id": 109,
+      "debut": 3771.6,
+      "fin": 3823.28,
+      "temps_estime": false,
+      "titre": "Peripheral neuropathy",
+      "resume": "Number 14: peripheral neuropathy, damage to nerves carrying messages to the brain, can feel like walking on razor blades and cause muscle weakness, paralysis and severe pain; some patients are prescribed morphine patches and lose functions like picking things up.",
+      "mots_cles": [
+        "peripheral neuropathy",
+        "nerve damage",
+        "razor blades",
+        "morphine patches",
+        "paralysis",
+        "cramping",
+        "forum"
+      ],
+      "texte": "[music] Number 14. Okay, this one is short but not so sweet. It's called peripheral neuropathy, and [music] a doctor that treats people with it said it can feel like walking on razor blades. It's the result of damaged nerves that carry [music] messages to the brain. When this happens, muscles might not work. A person might even experience paralysis, and of course, there could be lots and lots of severe pain. Like many conditions, it's complex, so its effects can differ, and the level of pain can too. But when it hurts, it hurts bad. One person on forum said, \"I have talked to two young women who are prescribed morphine patches. I had no idea that neuropathy pain was so severe. It's also been called unrelenting and severe, but all the pain is made worse from the constant cramping and loss of some bodily functions, such as simply not being able to pick stuff up. We'll now endeavor to talk about something much more gory. Hold on tight. This is petrifying.\""
+    },
+    {
+      "id": 110,
+      "debut": 3823.28,
+      "fin": 3882.48,
+      "temps_estime": false,
+      "titre": "Grizzly bear attack: Timothy Treadwell and Grizzly Man",
+      "resume": "Number 13: slow deaths from animal attacks cause agonizing pain, as in Timothy Treadwell's fatal grizzly attack, with his companion, recorded on audio he left running. Werner Herzog, who made the documentary Grizzly Man, listened and called it the most terrifying thing he had heard and said it should be destroyed.",
+      "mots_cles": [
+        "grizzly bear attack",
+        "Timothy Treadwell",
+        "Grizzly Man",
+        "Werner Herzog",
+        "audio recording",
+        "animal attack",
+        "slow death"
+      ],
+      "texte": "Number 13. It might seem strange to you that we're putting a regular animal attack on this list, but you have to take into account some animal attacks can be slow. We mean death can be slow. Not that a sloth attack is especially painful. Take for example an attack from a grizzly bear. If the bear doesn't kill you quickly by suffering a main artery, you could be experiencing agonizing pain for some time. That happened to a man named Timothy Treadwell [music] when a grizzly bear attacked him and his female companion. They both died as a result. Treadwell was the focus of an outstanding documentary made by the filmmaker Verer Herzog called Grizzly Man. One of the most disturbing parts of the film is watching Herzog put on a pair of headphones and listen to the [music] audio recording of their deaths. Treadwell had left his camera on when the bear attacked him. Herzog looks in shock listening to what is a sustained attack. He said after, \"It's the most terrifying thing I've heard in my life.\" He later said to one of Treadwell's former girlfriends, \"You should never listen to it and you should rather destroy it.\" So, what do [music] you"
+    },
+    {
+      "id": 111,
+      "debut": 3882.48,
+      "fin": 3932.16,
+      "temps_estime": false,
+      "titre": "Surviving a bear attack: Johan Arthur",
+      "resume": "Being bitten by a bear means bones crushed and skull bitten; survivor Johan Arthur describes fangs in his femur, flesh tearing, 28 wounds, a claw puncture to the eye, a top vertebra broken in five pieces and skin grafts. Adrenaline may have spared him some pain.",
+      "mots_cles": [
+        "bear attack survivor",
+        "Johan Arthur",
+        "grizzly",
+        "28 wounds",
+        "broken vertebra",
+        "skin graft",
+        "adrenaline"
+      ],
+      "texte": "think that bear did to Treadwell? Well, imagine your bones being crushed between a bear's teeth. Imagine being alive as it bites into your skull and perhaps pokes out an eye or two. People have survived bear attacks and live to tell the tale. One such man, Johan Authur, described in detail his date with a hungry bear. He said, \"The grizzly's fangs sunk into my femur and it jerked me all over the trail. It noded on my head and I could feel flesh tearing away.\" Doctors later discovered a total of 28 wounds, including a claw puncture to my right eye. One of my top vertebrae was broken in five pieces, and I would undergo multiple surgeries, including a skin graft from my back onto my scalped head. Okay, so the adrenaline rushing through the body would have saved him from a lot of pain. But if the screams of Treadwell are anything to go by, being eaten by a bear can hurt a fair bit. For that reason, we're okay with adding it [music] to the list. Now for"
+    },
+    {
+      "id": 112,
+      "debut": 3932.16,
+      "fin": 3990.56,
+      "temps_estime": false,
+      "titre": "Peritonitis",
+      "resume": "Number 12: peritonitis is inflammation of the peritoneum lining the abdomen, caused by infection or a burst appendix, and requires urgent care; it can lead to sepsis, which many call the most painful thing they have experienced, starting as a dull ache and becoming hellish agony.",
+      "mots_cles": [
+        "peritonitis",
+        "peritoneum",
+        "appendicitis",
+        "burst appendix",
+        "sepsis",
+        "abdominal pain",
+        "infection"
+      ],
+      "texte": "something way more prosaic and not anywhere near as frightening, but my god, it can sting. Number 12. Peritonitis hurts. Ask anyone who had it. It happens when there's an inflammation in the tissues that line your abdomen or belly. This tissue is called the paratonium. When it's inflamed, it can be deadly. This can happen by way of an infection, but some of you have likely heard it can occur when someone's appendix has burst. Appendicitis by itself can cause pretty severe pain, but you really don't want the thing to rupture. That can mean you might not have long to live if you don't get treated soon. With peritonitis, you really, really need medical help very quickly. One complication of it is sepsis, your body's extreme response to the infection. This is like an all-in-one part of the show because appendicitis can be really painful. But many people who suffered from sepsis have also said it was the most painful thing they've ever experienced in their lives. Peritonitis is no walk in the park either. It might start with a dull ache, but in no time the person will be doubled over in absolute hellish agony."
+    },
+    {
+      "id": 113,
+      "debut": 3990.56,
+      "fin": 4024.8,
+      "temps_estime": false,
+      "titre": "Severe toothache: a Reddit account",
+      "resume": "Number 11: a full-blown toothache is far worse than a mildly uncomfortable sensation; one Reddit user with a high pain tolerance, who had piercings, a deep saw cut, rabies shots and chronic back pain, says nothing compared to her tooth.",
+      "mots_cles": [
+        "toothache",
+        "Reddit",
+        "pain tolerance",
+        "infected tooth",
+        "dental pain",
+        "worst pain"
+      ],
+      "texte": "Now for something we guess many of you can relate to. Number 11. You might laugh when you hear we're going to talk about toothache now. Ha. You think I've had many, but they're a mildly uncomfortable sensation, but the reason you say that is you haven't had a proper hardcore full-blown I feel like jumping out of the window toothach. Here's how one person on Reddit explained her toothache. I consider myself to have a very high pain tolerance. I've had my nipples pierced. I've cut my finger rather deep on a saw once. I've gotten rabies shots twice in my life. I've had chronic back pain for years. But nothing can ever compared to the pain I've had"
+    },
+    {
+      "id": 114,
+      "debut": 4024.8,
+      "fin": 4066.48,
+      "temps_estime": false,
+      "titre": "Why infected teeth hurt so much",
+      "resume": "An infected, inflamed tooth has little space under it, so pressure cannot be relieved and painkillers barely work; another Reddit user says even swallowing makes him writhe, and you cannot think, talk or eat.",
+      "mots_cles": [
+        "infected tooth",
+        "inflammation",
+        "pressure",
+        "painkillers",
+        "swallowing",
+        "monster toothache"
+      ],
+      "texte": "from this tooth. Once a tooth gets infected and inflamed and things start going wrong underneath it, well, there isn't much space there. This is one reason why these kinds of toothaches hurt so much. You can't relieve the pain. And anyone who's had one will know that pain medications don't seem to do much at all. Here's how another Reddit user described his infected tooth and the attendant pain. The pain in the tooth gets so bad that just swallowing puts enough pressure on it to make you wythe in pain. You can't even think about anything else, let alone talk or eat. If you've ever got a really bad one, you'll know what we're talking about. There are regular toothaches and then there are monsters you'll never forget. Okay, time to move on now. Let's talk about the absolutely agonizing sports injuries. [music]"
+    },
+    {
+      "id": 115,
+      "debut": 4066.48,
+      "fin": 4099.2,
+      "temps_estime": false,
+      "titre": "Broken femur: EJ Henderson",
+      "resume": "Number 10: breaking the femur, the strongest bone in the body, is said to cause the worst pain of any break; American football player EJ Henderson's femur snapped in half and teammates cried, though he returned within a year.",
+      "mots_cles": [
+        "femur fracture",
+        "thigh bone",
+        "EJ Henderson",
+        "American football",
+        "strongest bone",
+        "sports injury"
+      ],
+      "texte": "Number 10. Many injuries have been discussed regarding the severity of pain and one that gets a mention quite a lot is breaking of the thigh bone aka the femur. It happened to an American football player named EJ Henderson. This bone is the strongest in the body. So to break it, it takes some effort. In Henderson's case, it snapped in half which caused him immense pain. News reports said that when his teammates saw the pain he was in, some of them were reduced to tears themselves. He recovered and in the end was back playing inside a year. but he'll never forget what it was like to break the bone, which out of all the bone breaks, causes the worst pain. Number nine,"
+    },
+    {
+      "id": 116,
+      "debut": 4099.2,
+      "fin": 4165.85,
+      "temps_estime": false,
+      "titre": "Shoulder dislocation: the builder on 24 Hours in A&E",
+      "resume": "Number 9: on the British TV show 24 Hours in A&E a 6-foot builder who fell backwards into a hole came in screaming, begging for help even after three times the usual pain relief dose, saying it was an 11 on a scale of 10 despite past stabbings and shootings.",
+      "mots_cles": [
+        "shoulder dislocation",
+        "24 Hours in A&E",
+        "builder",
+        "screaming",
+        "pain scale",
+        "British TV",
+        "sports injury"
+      ],
+      "texte": "there are many sports injuries that can lead to significant pain, and one is shoulder dislocation. It could happen while playing sports, but it can also happen at work, as you'll see. Some of you might be thinking, \"This injury isn't so bad.\" But some dislocations are worse than others. There was a show on British TV called 24 hours in A&E, and in one particular episode, a 6-foot builder went into the ER screaming like a banshee. He'd fallen backwards into a hole while at work. [music] We watched every episode of the show and we can say that we never saw anyone in so much pain. His howling [music] was painful to watch. \"Please, please, please,\" the guy shouted. That was after he'd been given three times the usual dose for [music] pain relief. Even a person in the visiting area turned to her friend and remarked, \"Oh my god, that noise.\" The fellow looked pretty tough, too. His body showing all kinds of injuries, including a stab wound from the past. He later said he'd been [music] stabbed, shot, hit with baseball bats and had been to the ER many times in his life, but nothing compared to that shoulder injury. He said, \"I've been in a lot of injuries in my life with pain involved.\" Adding he might have had pain that was at the scale of 10 before, but this one was definitely an 11, but why was this"
+    },
+    {
+      "id": 117,
+      "debut": 4165.85,
+      "fin": 4226.24,
+      "temps_estime": false,
+      "titre": "Rare shoulder dislocation and its reduction",
+      "resume": "The doctor had never seen such a dislocation in 30 years; X-rays showed bones wedged into his ribs, with bone-on-bone pain she called the male equivalent of childbirth. Reducing it took anesthetic and five people wrestling his body, after which he smiled and admitted he was in agony.",
+      "mots_cles": [
+        "shoulder dislocation X-ray",
+        "bone on bone",
+        "male equivalent of childbirth",
+        "reduction",
+        "anesthetic",
+        "doctor"
+      ],
+      "texte": "dislocation so painful? The doctor said [music] he'd actually dislocated his shoulder in a way that was so rare, he'd never seen anything like it in all her 30 years practicing medicine. Looking at the X-rays, [music] she was taken aback, telling the nurses this was interesting radiography. His bones were sticking into his ribs and [music] in other places in a very funny position that she said it would be insanely painful. She said, \"The way his X-ray turned out, I think [music] surprised all of us. Quite an excruciating pain of bone on bone being wedged. It's amazing what people can do to themselves.\" She explained that there are one-offs in the world of [music] injuries and pain, and this was one of them. The funny thing she said is, \"If there's a male equivalent of childbirth, [music] you've just seen it.\" To get the shoulder into the right place, they had to give him an anesthetic. After that, it took five people [music] wrestling his body to do the job. It wasn't easy, but once it was over, the chap smiled again. In what sounded [music] like a cocknney accent, he said, \"It's embarrassing, is it? Coming to the hospital, and you're screaming like a little girl, but you know, it was painful. Hey, I hold my hands up. I was in agony.\" Now, for"
+    },
+    {
+      "id": 118,
+      "debut": 4226.24,
+      "fin": 4276.96,
+      "temps_estime": false,
+      "titre": "Testicular torsion",
+      "resume": "Number 8: testicular torsion occurs when a testicle rotates and twists the spermatic cord, causing severe acute scrotal pain and vomiting, needing medical help; it affects one in 4,000 to 25,000 males a year and often the testicle must be removed.",
+      "mots_cles": [
+        "testicular torsion",
+        "spermatic cord",
+        "scrotal pain",
+        "vomiting",
+        "surgery",
+        "4",
+        "000 to 25",
+        "000",
+        "genital pain"
+      ],
+      "texte": "something so gruesome it'll give you nightmares. Number eight, there are a few things on a body that a man really doesn't want to think could snap or break, [music] and one of them being his John Thomas. While penile fracture can be very painful, it is the balls that dangle below that can cause a person worse pain. By the way, if you don't want to break your raw burgundy, you might try [music] sticking to the missionary position where it's most safe. Unfortunately, in the world of ours, there's something called gonatal [music] torsion. This is when the testicle rotates and that makes the spermatic cord twist. If that doesn't mean much to you, all you need to know is it causes severe acute unilateral scrotal pain. This can lead to a bout of vomiting and it's something that will [music] require medical assistance. It happens to one person in anywhere between 4,000 and 25,000 males a year. And in many cases, [music] it'll mean one of the balls has to be surgically removed. It can"
+    },
+    {
+      "id": 119,
+      "debut": 4276.96,
+      "fin": 4318.48,
+      "temps_estime": false,
+      "titre": "Testicular torsion risks and a forum quip",
+      "resume": "Torsion can be very dangerous, rarely leading to sepsis and gangrene; a forum reply says someone really in torsion would be rolling in agony and phoning a taxi. It can strike anyone at any time, most often between 10 and 25 years old.",
+      "mots_cles": [
+        "torsion risks",
+        "sepsis",
+        "gangrene",
+        "forum reply",
+        "ages 10 to 25",
+        "sudden onset"
+      ],
+      "texte": "actually be very dangerous as well as incredibly painful. [music] In some rare cases, it's led to sepsis and gang green. One person on a forum thought he had it, so he asked others what they thought about his symptoms. One response was this. [music] If you had testicular torsion, trust me, you would not be on an internet forum asking others, giving a [music] weak description of it. You would be rolling around in agony, clutching your berries, and phoning a taxi to go to A&E. Unfortunately, it can happen to anyone, and it seems the cause might [music] just be down to the person's body. One medical website explained, \"Testicular torsion can happen at any time while standing, sleeping, [music] exercising, or sitting, and with no apparent trigger in those who are susceptible. If you're a 10 to 25, you're in the age group that's most likely to get it. But we think this"
+    },
+    {
+      "id": 120,
+      "debut": 4318.48,
+      "fin": 4348.88,
+      "temps_estime": false,
+      "titre": "Brutal historical executions",
+      "resume": "Number 7: history has many brutal executions, from sawing a person in half to roasting inside a bronze bull (whose existence is debated), to crucifixion, which even some Romans thought too barbaric.",
+      "mots_cles": [
+        "executions",
+        "sawing",
+        "bronze bull",
+        "crucifixion",
+        "Romans",
+        "history",
+        "torture"
+      ],
+      "texte": "next pain is much worse. [music] Number seven, there have been many brutal forms of execution throughout history. From simply sawing a person in half to roasting them inside a giant bronze bull. Historians [music] now debate if that last one ever happened, but sawing definitely did. And there are a lot of documents to prove it. Historians are also sure that people were crucified, which even some Romans in ancient times thought was way too barbaric. Yeah, the same people that had elephants squash men. In terms of pain, it's hard to say [music] which was the worst execution. Many of them were awful, but we think we"
+    },
+    {
+      "id": 121,
+      "debut": 4348.88,
+      "fin": 4394.32,
+      "temps_estime": false,
+      "titre": "Flaying",
+      "resume": "Flaying, peeling a person's skin off from the face with nerve endings exposed, was sometimes deliberately slow to keep the victim alive; nobody can say how much it hurt, but the video is sure it would be more painful than childbirth.",
+      "mots_cles": [
+        "flaying",
+        "skin peeling",
+        "execution",
+        "nerve endings",
+        "shock",
+        "torture",
+        "pain"
+      ],
+      "texte": "have to give special mention to flaying. This is when a person had their skin peeled off, a procedure that was sometimes deliberately slow. This is how one person put it. The peeling usually began from the face with every senue of skin being ripped from the nerve endings. The pain experienced is unimaginable. Remember that sometimes the objective was to keep the person alive for as long as possible. Although some folks would just go into shock early on and die. That was a godsend. We can't exactly find out just how much it hurt because there's no one to [music] ask. And it's not as if there are any modern sources that can explain the experience from a firsthand perspective. Still, [music] we know how sensitive the skin is, and we can only imagine what it would feel like if someone started to slice it off. We have no doubt [music] that the experience would be more painful than having a child. Number six,"
+    },
+    {
+      "id": 122,
+      "debut": 4394.32,
+      "fin": 4445.04,
+      "temps_estime": false,
+      "titre": "Gallstones",
+      "resume": "Number 6: gallstones, hardened digestive fluid in the gallbladder, cause horrendous pain radiating from the rib cage to the back, with sweating and vomiting; women, including a 46-year-old, say they were worse than labor.",
+      "mots_cles": [
+        "gallstones",
+        "gallbladder",
+        "rib cage pain",
+        "labor comparison",
+        "vomiting",
+        "painkillers"
+      ],
+      "texte": "many women have talked online about a particular pain that they said hurt a lot more than giving birth. >> [music] >> This pain was the dreaded gall stones. These can appear in the gallbladder when the digestive fluid is hardened. Sometimes [music] they don't cause any pain, but when they do, they are not something a person will forget about easily. One such person described the experience like this. Horrendous pain in the rib cage was radiating to the back. I was being sick and excessively sweating. Painkillers weren't touching it. In fact, we found a few women who had them and compared them to giving birth. One 46-year-old woman had this to say. Gallstone pain is like labor pains. actually a million times worse. [music] They came in waves, gradually getting stronger. I've never felt anything like that pain up until that point, and now I get them about four times [music] a year in the last 2 years. It's terrible. Worse than having children. Okay, so that's pretty good proof that gallstones [music] can indeed hurt more than having a kid."
+    },
+    {
+      "id": 123,
+      "debut": 4445.04,
+      "fin": 4504.8,
+      "temps_estime": false,
+      "titre": "Kidney stones as told by sufferers",
+      "resume": "Number 5: kidney stones cause excruciating pain in the back, abdomen and penis; sufferers describe earthquakes in the abdomen, projectile vomiting, a twisted knife and pain worse than natural childbirth.",
+      "mots_cles": [
+        "kidney stones",
+        "sufferers accounts",
+        "projectile vomiting",
+        "knife in side",
+        "childbirth",
+        "back pain"
+      ],
+      "texte": "Now, for something humanity goes to great lengths to ensure doesn't happen to many people. Number five. As for stones, we think we need to mention them again, except this time it's when they appear in the kidneys. [music] How much do kidney stones hurt? These little stones can cause excruciating pain in the back, the abdomen, and even the penis for men. The pain is incredibly intense in the worst [music] cases. But don't take our word for it. Listen to what former sufferers had to say about their stones. The first stone I had felt like many earthquakes in my lower abdomen. The pain gets so bad I projectile vomit anything, including water. I never felt such pain in all my life. It is indeed, like some say, like having a knife in your side and someone keeps twisting it. I've had many kidney stones and I'm almost 50 years old. I can tell you that the pain is unbearable and definitely worse than natural child birth. This was the worst pain ever. I'm 52 and it was my first stone ever. I hope I never get another one. It was worse than having a baby and I did all natural child birth with my two boys. Worst pain ever. Not many people these"
+    },
+    {
+      "id": 124,
+      "debut": 4504.8,
+      "fin": 4564.88,
+      "temps_estime": false,
+      "titre": "Tetanus: symptoms and statistics",
+      "resume": "Number 4: tetanus is a bacterial infection causing muscle spasms starting in the jaw, so intense they can break bones, lasting months; 25 to 30% die. The US had 264 cases from 2009 to 2017 with 19 deaths, while 2015 saw 209,000 cases and 59,000 deaths worldwide.",
+      "mots_cles": [
+        "tetanus",
+        "muscle spasms",
+        "jaw",
+        "lockjaw",
+        "bacterial infection",
+        "25-30% mortality",
+        "vaccination",
+        "statistics"
+      ],
+      "texte": "days get the next one, but [music] those that do are mentally scarred forever if they make it out of the other end. Number four, it's called tetanus. And while it might not cause acute pain [music] as bad as some of the pains we've talked about, we think you'll agree it's up there when it comes to scary pains. You [music] only need to see images of sufferers, and you won't disagree. This bacterial infection causes the muscles to spasm, which often starts [music] in the jaw and moves to other parts of the body. These spasms can be so intense that they break [music] bones. The spasms happen on and off while the person has it, and it can go on for months. 25 to 30% of people that have it [music] die from it, while the survivors go through absolute hell. According to the National Notifiable Diseases Surveillance System, from 2009 to 2017, there were 264 cases of tetanus in the USA and 19 of those people died. In 2015, there were 209,000 cases globally with 59,000 [music] deaths. So, while humanity has done well in vaccinating people against tetanus, it's still possible that one day you might suffer this living nightmare. If you"
+    },
+    {
+      "id": 125,
+      "debut": 4564.88,
+      "fin": 4634.08,
+      "temps_estime": false,
+      "titre": "Tetanus cases: a landscaper and an Oregon boy",
+      "resume": "In 2009 a 25-year-old landscaper cut himself pruning, developed a painful jaw and spasms and was placed on life support but recovered; in 2017 an Oregon boy almost died from tetanus after a cut and needed a ventilator. A doctor notes spasms cause severe pain and fear.",
+      "mots_cles": [
+        "tetanus case",
+        "landscaper",
+        "Oregon boy 2017",
+        "life support",
+        "ventilator",
+        "muscle spasms",
+        "NBC News"
+      ],
+      "texte": "don't believe us, [music] listen to this. In 2009, a man described as a 25-year-old Hispanic male landscaper cut himself while pruning some bushes in the US. He did all the right things, tending to the wound and applying antibiotic ointment. Still, he soon ended up in the hospital, suffering from a fever and muscle aches. He then found that his jaw became very painful. Soon, he couldn't even open his mouth to eat, and it was hard to breathe. Doctors noted his muscles were spasming, so this guy was soon whisked [music] off to intensive care and put on life support. He was one of the lucky ones because after being given drugs such as dasipam and penicellin, he made a recovery. In 2017, a young boy from Oregon almost died after getting tetanus from a cut. NBC News wrote, \"He started crying and experiencing involuntary muscle spasms and clenching his jaw. Soon, he was arching his neck and suffering back and muscle contractions throughout his body. He survived, but not before those muscle spasms became very intense, and he needed a ventilator to help him breathe. Suffice to say, tetanus is a terrible beast. This is what a doctor said. Because tetanis causes such severe muscle spasms, it also causes severe pain, it can also be frightening to have uncontrolled muscle spasms, especially when it's so severe. Okay, now for"
+    },
+    {
+      "id": 126,
+      "debut": 4634.08,
+      "fin": 4680.0,
+      "temps_estime": false,
+      "titre": "Burns",
+      "resume": "Number 3: burns are very painful, though once nerves are burnt through there is less pain; dressing changes and skin grafts later cause severe pain, as one accident survivor who could not sleep for a week after graft surgery recounts.",
+      "mots_cles": [
+        "burns",
+        "dressing changes",
+        "skin graft",
+        "burnt nerves",
+        "unbearable pain",
+        "burn victim"
+      ],
+      "texte": "something run-of-the-mill, but you can't argue it doesn't deserve a place on the list. Number three, burns. We got to give credit to burns. As you all know, even a minor burn can be very painful, but being on fire is another experience altogether. The strange thing is though, once the burn is so bad that it's burnt through the nerves, there's less pain. Then once the person gets help, they'll have their dressings changed, which according to some victims really, really is painful. One guy who was in an accident with his father explained it like this. I used to face too much pain in every dressing. I was able to see flesh on my leg. After 1 and 1/2 months, I got the graft surgery done. They took skin from my left leg, which was all right, but it gave me too much unbearable pain. Wasn't able to sleep for a week. So yeah, burns need to be here. The next thing is rare, but it"
+    },
+    {
+      "id": 127,
+      "debut": 4680.0,
+      "fin": 4761.36,
+      "temps_estime": false,
+      "titre": "Cluster headaches",
+      "resume": "Number 2: cluster headaches, which lasted 15 minutes to 3 hours and come back repeatedly, often at night, are called the worst pain known to medical science; a burn victim said they were worse than his burns and made him question whether life was worth living.",
+      "mots_cles": [
+        "cluster headache",
+        "worst pain",
+        "NHS",
+        "eye socket",
+        "hot poker",
+        "forum",
+        "burn victim",
+        "morphine"
+      ],
+      "texte": "sounds horrible. Number two, cluster headaches. While we were looking at forums where people described the pain of their burns, we found one [music] guy who'd been burned badly, but said the pain was nothing compared to cluster headaches. His actual words were, \"Nothing compares to the pain of cluster headaches. The pain was so intense that I begged a nurse for morphine, heroin, ketamine, and induced coma if they had to. I have a very high pain tolerance, enough to shrug off migraines, but god damn, those headaches. They made me question if life was worth living at that point. We're going to take his word for it because there are a lot of people and experts out there that put these headaches up [music] there as one of the worst things a human being can experience. Medical websites tell us they often come in the middle of the night, waking a person up in extreme pain. They won't kill you, but they often come back time and again, usually lasting from 15 minutes to [music] 3 hours. Britain's NHS calls them rare, but says they are excruciating attacks of pain. The internet is full of forums where people talk about these headaches, and what we've read is enough to make us pray we never get one. Here are some scary words we found. I will never forget [music] the sheer and sudden agony which woke me up in the early hours of the morning. Someone's jabbed a white hot poker into your eye socket and is holding it there for 45 [music] minutes to an hour and a half. It makes you want to get up and literally run from the pain. This is why some experts have called them the [music] worst pain known to medical science. But as you'll now see, something might beat cluster headaches in the realms of intense pain."
+    },
+    {
+      "id": 128,
+      "debut": 4761.36,
+      "fin": 4826.08,
+      "temps_estime": false,
+      "titre": "Trigeminal neuralgia as number one",
+      "resume": "Number 1: trigeminal neuralgia feels like an electric shock through the face lasting seconds to minutes, possibly hundreds of attacks a day, caused by a blood vessel compressing the trigeminal nerve; it affects about 10 per 100,000 in the UK, and a woman with 25 attacks a day could not brush her teeth or touch her face.",
+      "mots_cles": [
+        "trigeminal neuralgia",
+        "trigeminal nerve",
+        "blood vessel compression",
+        "NHS",
+        "25 attacks a day",
+        "electric shock",
+        "unbearable"
+      ],
+      "texte": "Number one, it's called trigeminal neuralgia. Like cluster headaches, it's something that has made people say [music] they'd rather die than experience the pain again. It's supposed to feel like an electric shock going through the face with attacks lasting from just a few seconds to a couple minutes. The NHS writes, \"People with the condition may experience attacks of pain regularly for days, weeks, or months at a time. In severe cases, attacks might happen hundreds of times a day. This is why they make life so unbearable because they keep coming back and they can't be cured. They're caused when something called the trigeminal nerve is compressed by [music] a blood vessel. And while there are drugs that can help, the attacks might come back. In the UK, they happened to about 10 people in 100,000. As for personal experiences, a woman in the UK said she started having about 25 attacks every day. This greatly affected her well-being. She said the disease had completely consumed my life. I can't brush my hair or my teeth, eat, sleep, stand in the wind, touch my face without feeling like I'm being electrocuted across my face. So, between these [music] and cluster headaches, we really can't say which is the worst, but they both sound equally horrific. From having"
+    },
+    {
+      "id": 129,
+      "debut": 4826.08,
+      "fin": 4839.6,
+      "temps_estime": false,
+      "titre": "Introduction to the 15 most painful medical procedures",
+      "resume": "New list: the 15 most painful medical procedures, from a giant needle in the spine to skin ripped off repeatedly, some of which are not that uncommon.",
+      "mots_cles": [
+        "painful medical procedures",
+        "15 procedures",
+        "spinal needle",
+        "skin ripped off",
+        "medical pain",
+        "list"
+      ],
+      "texte": "a giant needle plunged [music] into your spine to getting your skin ripped off over and over again, these are the 15 most painful medical procedures someone [music] can possibly go through. The crazy thing is, some of them are not all that uncommon. Number 15. The first"
+    },
+    {
+      "id": 130,
+      "debut": 4839.6,
+      "fin": 4880.08,
+      "temps_estime": false,
+      "titre": "Liposuction: preparation and needle",
+      "resume": "Number 15: liposuction, an elective surgery removing fat from areas like underarms and thighs; the needles are inserted in sensitive areas, causing discomfort before the procedure begins.",
+      "mots_cles": [
+        "liposuction",
+        "elective surgery",
+        "fat removal",
+        "needle",
+        "sensitive areas",
+        "cosmetic surgery"
+      ],
+      "texte": "procedure on our list is a type of elective surgery. This means people [music] choose to go through the pain of having it done. Liposuction involves removing fat from the body. This may be done for a couple of reasons. Some people want to change the way they look and feel, so they decide that certain areas of their bodies need to be reshaped. Many people who decide to get liposuction have the fat removed from under the arms or around the thighs. Regardless of where the procedure [music] is occurring, the fat needs to get sucked from the body, and this is going to hurt a lot. The procedure itself starts with the needle being inserted into the area where the liposuction will take place. The problem with this is [music] that people who get lipo often want to remove fat from sensitive areas of the body. This means before the actual procedure even begins, the patient will be in discomfort. The"
+    },
+    {
+      "id": 131,
+      "debut": 4880.08,
+      "fin": 4922.56,
+      "temps_estime": false,
+      "titre": "Liposuction pain during and after",
+      "resume": "A saline needle is inserted and a tube sucks out fat for several hours, usually under local anesthesia, so patients are awake; sloppy placement can suck out connected tissue, and bruising and tenderness last days.",
+      "mots_cles": [
+        "liposuction pain",
+        "saline solution",
+        "local anesthesia",
+        "tube",
+        "bruising",
+        "recovery",
+        "awake"
+      ],
+      "texte": "first step of the procedure is that a needle filled with saline solution to help fluids [music] and fats solidify in the region is stuck into the body. After this happens, the doctor squeezes a tube under the skin and literally sucks out the fat. Depending on the location and amount of fat that needs [music] to be removed, the whole process can take several hours. Most liposuction patients are given local anesthesia, meaning they will remain awake for the entire procedure. But if the tube is not in the right position or the doctor is sloppy, the pain can be excruciating as tissues connected to the fat are also sucked out. Even if all goes well, after [music] the procedure is complete, the area of your body that was operated on will bruise and be tender from the violence of having your insides hoovered out. So, the pain will continue for several more days. If blood or needles"
+    },
+    {
+      "id": 132,
+      "debut": 4922.56,
+      "fin": 4983.68,
+      "temps_estime": false,
+      "titre": "Arterial blood gas test",
+      "resume": "Number 14: arterial blood gas tests draw blood from an artery, at the wrist, groin or inner arm, to measure oxygen; the needle must go deeper than a normal draw and stay in longer to collect enough blood, which hurts.",
+      "mots_cles": [
+        "arterial blood gas",
+        "artery",
+        "needle",
+        "oxygen measurement",
+        "wrist",
+        "groin",
+        "blood draw"
+      ],
+      "texte": "makes [music] you squeamish, this next procedure will probably freak you out. Number 14. Arterial blood gas tests require a medical professional to extract blood from an artery using a syringe. The main difference between this procedure and what happens when you donate blood is the location where the fluid needs to come from. Normally, blood is taken from your veins. But since this test is often used [music] to measure the amount of oxygen in your blood, the needle needs to be stuck into an artery. The most common location for blood to be taken during arterial blood gas tests is from the wrist, but sometimes it needs to be extracted from an artery near the groin or the inside of [music] the arm. Since arteries tend to be slightly further under the skin, the needle needs to puncture deeper into the body than typical blood draw. The deeper the needle goes, the more painful the experience. The other part of an arterial blood gas [music] test that makes it so uncomfortable is that the amount of blood needed to make an accurate assessment means the procedure can take a while. So, if you think a normal blood [music] draw is painful, imagine having to sit through several minutes of a large bore needle buried 2 in into your groin. Like needles, how"
+    },
+    {
+      "id": 133,
+      "debut": 4983.68,
+      "fin": 5030.8,
+      "temps_estime": false,
+      "titre": "Dental implants: the procedure",
+      "resume": "Number 13: dental implants require drilling deep into gums and screwing metal rods into the jawbone; a damaged tooth may first have to be removed and the jawbone grafted, with needle pricks before anesthesia works.",
+      "mots_cles": [
+        "dental implants",
+        "drilling",
+        "jawbone graft",
+        "metal rods",
+        "tooth extraction",
+        "anesthesia",
+        "gums"
+      ],
+      "texte": "about needles and drills in your mouth. Number 13. Having dental [music] work done is rarely pleasant, but there's one oral procedure that hurts more than all the rest. Dental [music] implants that are given to patients who need a part or entire tooth replaced. In order for the fake tooth to function properly and stay in position, the doctor needs [music] to drill deep into the gums, similar to a root canal. Then metal rods are screwed into the tissue and jawbone to keep the fake tooth in place. [music] Unfortunately, this isn't the only painful part of the procedure. Often times, a damaged tooth or root system needs to be removed first, which can be [music] excruciating once the novacaane wears off. Next, the jawbone may need to be grafted to ensure the implant remains secured and resistant to other complications. During each dental implant operation, a needle will puncture the mouth to deliver [music] an anesthetic, but before the drug kicks in, the patient will definitely feel a"
+    },
+    {
+      "id": 134,
+      "debut": 5030.8,
+      "fin": 5064.72,
+      "temps_estime": false,
+      "titre": "Dental implants: recovery pain",
+      "resume": "After implants the mouth aches after each of several visits, with throbbing gums and jaw once anesthesia wears off, and every bite hurts as bone regrows around the implant, taking one or two weeks to heal.",
+      "mots_cles": [
+        "implant recovery",
+        "throbbing",
+        "jaw pain",
+        "eating",
+        "bone regrowth",
+        "healing time"
+      ],
+      "texte": "sharp prick. After that, the actual procedure can begin. These steps typically happen over the course of several visits, which means after [music] each one, the mouth will ache. When the implant is secured and the anesthetic wears off, there's often a painful throbbing in the patients gums and jaw. This is especially true when they need to eat. And although the patient can probably [music] sustain themselves on a liquid or smoothie diet for a while, eventually they will need to go back [music] to eating solid food. As the bone regrows around the implant and the nerves are repaired in the area, every [music] bite after getting dental implants will be painful until the mouth is fully healed. The healing time can vary, but tends [music] to take a week"
+    },
+    {
+      "id": 135,
+      "debut": 5064.72,
+      "fin": 5112.88,
+      "temps_estime": false,
+      "titre": "Myomectomy: removing uterine fibroids",
+      "resume": "Number 12: a myomectomy removes non-cancerous fibroids from the uterus, usually by cutting into the abdomen and cutting up each fibroid inside the reproductive system, and there are often several.",
+      "mots_cles": [
+        "myomectomy",
+        "uterine fibroids",
+        "uterus",
+        "abdominal incision",
+        "surgery",
+        "women's health"
+      ],
+      "texte": "or two to recover completely. Our next spot involves extreme cutting and tearing in the most sensitive part of the body. Number 12. You probably have never heard of a myomectomy, but it can be an incredibly painful procedure that women sometimes need to have done. This surgery takes place in the uterus [music] when fibroids need to be removed. Fibroids are non-cancerous growths that can cause discomfort and bleeding in the uterus. The specific methods of the operation to remove these growths vary, but since [music] access to the uterus is required, the doctor needs to get inside of the sex organ. Normally, this is done by cutting into the abdomen. Once inside the [music] reproductive system, the doctor will need to cut up the fibroids and remove them from the body. It should come as no surprise that cutting up growths [music] within the uterus can be painful, but even worse is that often times there are multiple fibroids that need to be removed. This means that each one needs to be sliced up and extracted. [music]"
+    },
+    {
+      "id": 136,
+      "debut": 5112.88,
+      "fin": 5136.72,
+      "temps_estime": false,
+      "titre": "Myomectomy: post-surgery pain",
+      "resume": "Depending on fibroid number, size and location, the patient gets general or local anesthesia, but the real pain starts when it wears off, with each cut felt, bleeding, cramping and constant pain.",
+      "mots_cles": [
+        "myomectomy recovery",
+        "anesthesia wears off",
+        "cramping",
+        "bleeding",
+        "constant pain"
+      ],
+      "texte": "The patient can be put under general anesthesia or given local anesthesia depending on the number of fibroids, how big they are, and where they're located. However, the real pain begins when the anesthetic wears off. It is at this point that the patient will feel each cut and tear made into her reproductive system. [music] As the body heals, there will likely be bleeding and some cramping in the region along with constant pain. From start to finish, a momectomy is a very painful procedure."
+    },
+    {
+      "id": 137,
+      "debut": 5136.72,
+      "fin": 5195.04,
+      "temps_estime": false,
+      "titre": "Hip replacement: the surgery",
+      "resume": "Number 11: hip replacement is done for arthritis or degeneration but the open surgery, up to 3 hours, cuts through skin and muscle, removes damaged bone and smooths the socket with what looks like an electric sander.",
+      "mots_cles": [
+        "hip replacement",
+        "open hip surgery",
+        "arthritis",
+        "bone removal",
+        "prosthetic",
+        "socket",
+        "incision"
+      ],
+      "texte": "Next, imagine having [music] an entire bone cut out of your body. Number 11. Having a hip replaced is normally a procedure reserved for someone who is in excruciating pain due to arthritis [music] or degeneration of the hipbone. This means having a hip replace should alleviate pain. But unfortunately, the surgery itself can often times increase the pain exponentially [music] until the hip is fully healed. Open hip surgery can take up to 3 hours to complete. The hip [music] is not a small bone, which means the incision to gain access and replace it is larger than in most surgeries. After the skin and muscle is cut away from the hip, the bone itself needs to be removed. All of the damaged bone must be replaced by artificial materials. Depending on how much damage and degradation there is to the hip, a significant amount of bone might need to be removed. The pain associated with having parts of a bone cut off and then a prosthetic reattached [music] can be extreme. The doctor may also need to smooth out the socket where the hip rests [music] so it can rotate freely. This is done by the doctor taking what looks like an electric sander to the patient's bone and buffing [music] it out. Again, this would not feel very"
+    },
+    {
+      "id": 138,
+      "debut": 5195.04,
+      "fin": 5228.24,
+      "temps_estime": false,
+      "titre": "Hip replacement: recovery",
+      "resume": "The patient is asleep during surgery, but full recovery takes 6 to 12 months as nerves, tissue and muscle regrow around the prosthetic, with aching and strain until physical therapy reduces the pain.",
+      "mots_cles": [
+        "hip replacement recovery",
+        "6 to 12 months",
+        "physical therapy",
+        "prosthetic hip",
+        "nerve regrowth",
+        "pain"
+      ],
+      "texte": "good. Thankfully, the patient is asleep for the whole procedure. However, the recovery time for hip [music] replacement surgery is long. It can take somewhere between 6 and 12 months for the patient to fully recover. And during this time, their replacement hip will ache and feel strained. Although the prosthetic is not technically part of the body, nerves, tissue, and muscle will regrow around it. As this happens, the body is literally rebuilding the connection severed and [music] the damage done during the surgery. After months of physical therapy, the pain will lessen. But for those first several months, as the body heals and gets used to the prosthetic hip, the patient will be in a lot of pain. [music] Our next"
+    },
+    {
+      "id": 139,
+      "debut": 5228.24,
+      "fin": 5278.0,
+      "temps_estime": false,
+      "titre": "Hemorrhoidectomy",
+      "resume": "Number 10: hemorrhoid surgery removes swollen veins in the anus by tearing away tissue in the rectum or stapling the hemorrhoids to block blood flow, which the video compares to stapling a finger, applied to the anus.",
+      "mots_cles": [
+        "hemorrhoidectomy",
+        "hemorrhoids",
+        "anal canal",
+        "stapling",
+        "rectum",
+        "surgery",
+        "bleeding"
+      ],
+      "texte": "procedure is embarrassing, but also excruciating. Number 10, hemorrhoids can definitely be painful, but the surgery to remove them can be even worse. This type of procedure is called a hemorrhoidctomy. It is done to remove infected tissue in the anal canal. This is much different from being [music] probed or getting a colonoscopy. The doctor literally has to tear away tissue in the rectum to stop excessive bleeding. [music] Hemorrhoids themselves are swollen veins similar to varicose veins but located in the anus. This is where the whole procedure will take place which means that it's not only painful but can be extremely uncomfortable. Unfortunately, in some situations, the hemorrhoids [music] need to be stapled to block the blood flow in the region. This means that the veins in a patient's rectum might not only be sliced apart, but staples might need to be inserted into anal tissue. And for anyone who has ever accidentally stapled their finger, imagine that feeling happening to your anus. Next, we're"
+    },
+    {
+      "id": 140,
+      "debut": 5278.0,
+      "fin": 5321.84,
+      "temps_estime": false,
+      "titre": "Skin graft: procedure and first pain",
+      "resume": "Number 9: a skin graft moves skin from one body area to another, as for burn victims; patients are asleep for it, but wake up with two painful sites: the donor area and the stitched graft area.",
+      "mots_cles": [
+        "skin graft",
+        "burn victims",
+        "donor site",
+        "general anesthesia",
+        "transplant",
+        "surgery"
+      ],
+      "texte": "going to be ripping flesh off from one part of the body and reattaching it elsewhere. Number nine, a skin graft is a procedure where a piece of skin from one area of the body is cut off [music] and transplanted onto another part of the body. This is sometimes done with burn victims or after a major surgery [music] that has damaged a lot of skin tissue. However, the procedure itself is not the only painful part of the skin graft. Maintaining the cleanliness of where the new skin is attached can be easier said than done. Bandages need to be constantly replaced and if not done properly, there can be some nasty side effects. Since the patient is under general anesthesia and asleep when the actual procedure is happening, the pain doesn't occur until after they wake up. It is [music] then that there will be two major areas of the body that will hurt. The first will be where the skin was removed from, and the second is the location where it's been stitched"
+    },
+    {
+      "id": 141,
+      "debut": 5321.84,
+      "fin": 5372.96,
+      "temps_estime": false,
+      "titre": "Skin graft: recovery complications",
+      "resume": "Recovery may bring rejection with immune system pain, infection that feels like slow burning, and painful bandage changes where dried blood or pus can pull skin off; if the graft fails the procedure may be repeated.",
+      "mots_cles": [
+        "graft rejection",
+        "infection",
+        "bandage removal",
+        "cleaning agent",
+        "pain receptors",
+        "repeat procedure"
+      ],
+      "texte": "[music] back on. However, it's the recovery process that really begins to take its toll on the pain receptors of the body. There's a chance the graft won't take, and the body will attack or destroy the skin that was surgically implanted. In this case, there would be pain from the immune system trying to destroy the skin. Skin grafts can also become infected, meaning that the transplant might inflame, and the area [music] could feel as if it were slowly burning. One of the most painful parts of a skin graft is when the bandages covering the operation site need to be cleaned or replaced. As the bandage is removed, [music] there might be dried blood or pus that's connected it to the skin graft. If the bandage needs to be ripped off, some of the skin could go with it, causing pain to shoot [music] through the area. Then the cleaning agent to prevent the infection will get under the skin and activate the pain receptors which just adds insult to injury. The worst part of the skin graft is that if the body rejects it or it does not heal properly, the patient may need to go through the procedure all"
+    },
+    {
+      "id": 142,
+      "debut": 5372.96,
+      "fin": 5428.4,
+      "temps_estime": false,
+      "titre": "Lumbar puncture (spinal tap): the procedure",
+      "resume": "Number 8: a lumbar puncture inserts a large needle between the third and fourth lumbar vertebrae to draw 5 to 20 ml of cerebrospinal fluid from the subarachnoid space; the needle must stay in the back for a while and be long enough to reach the spinal column.",
+      "mots_cles": [
+        "lumbar puncture",
+        "spinal tap",
+        "cerebrospinal fluid",
+        "needle",
+        "lumbar vertebrae",
+        "subarachnoid space",
+        "spinal cord"
+      ],
+      "texte": "over again. The next procedure is something most you will have to endure sooner or later. Number eight, a lumbar puncture, also known as a spinal tap, can be a painful procedure. It consists of a doctor sticking a very large needle between the third and fourth lumbar vertebrae in the back. The thought of a sharp needle being stuck through your skin and into your spinal cord [music] is definitely a nerve-wracking one. The doctor then uses the syringe to suck cerebral spinal fluid from the subacoid [music] space in the spine. The needle is not supposed to come into contact with any nerves or the spinal column itself. But accidents happen and if the needle manages to tear through any bone or tissue, the pain will be excruciating. Regardless, even if the procedure [music] goes 100% according to plan, the doctor will need to take somewhere between 5 and 20 ml of cerebrros spinal fluid from the body. This means that the needle will be in the [music] patient's back for a decent amount of time. And remember, this isn't just a pin prick. The needle has to be long enough to penetrate the skin, muscle, and slip its way into the spinal"
+    },
+    {
+      "id": 143,
+      "debut": 5428.4,
+      "fin": 5459.76,
+      "temps_estime": false,
+      "titre": "Spinal tap pain and the danger of moving",
+      "resume": "With a skilled doctor the patient may feel only pressure, but many report searing pain shooting up the spine; the body's reflex to move away can drive the needle into nerves or scrape bone, causing intense, unrelenting pain.",
+      "mots_cles": [
+        "spinal tap pain",
+        "searing pain",
+        "nerves",
+        "bone",
+        "movement",
+        "reflex",
+        "needle"
+      ],
+      "texte": "column. Most of the time, with [music] a skilled physician, the patient will only feel a slight pressure in the lower back during a spinal tap. However, many patients also report feeling a searing pain, like a gigantic beast stinging shooting up their spine. When this intense pain occurs, [music] the first reaction of the body is to move and get away from whatever is hurting it. But this can cause even more pain during the procedure. If the patient moves unexpectedly, it could cause the needle to go into the nerves or scrape [music] against the bones in the spinal column. In this scenario, there would be no escaping the pain. It would be intense and unrelenting. Nothing quite beats the"
     }
   ]
 }
