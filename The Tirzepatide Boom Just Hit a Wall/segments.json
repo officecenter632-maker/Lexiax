@@ -1,0 +1,450 @@
+{
+  "version": 1,
+  "video_id": "3pggYUPCK_A",
+  "titre_video": "The Tirzepatide Boom Just Hit a Wall",
+  "duree_s": 841.84,
+  "avancement": {
+    "lignes_traitees": 171,
+    "fin_traitee_s": 841.84,
+    "nb_lignes_total": 171,
+    "complet": true
+  },
+  "nb_segments": 24,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.24,
+      "fin": 31.44,
+      "temps_estime": false,
+      "titre": "Hook: the weight-loss miracle drug and the underground market",
+      "resume": "Opens with millions of people thinking they had found a miracle weight-loss drug in Ozempic while scientists were already building something more powerful. That led to one of the biggest drug launches in pharmaceutical history and an underground market of mystery powders injected at home, introducing the Peptides Explained series.",
+      "mots_cles": [
+        "Ozempic",
+        "weight loss drug",
+        "tirzepatide",
+        "underground market",
+        "peptides",
+        "drug launch",
+        "Peptides Explained"
+      ],
+      "texte": "Millions of people thought they had finally found the miracle drug for weight loss. They were wrong. Not because it failed. It worked better than almost anyone expected. But while the world was celebrating Ozempic, scientists were already building something more powerful. What happened next became one of the biggest drug launches in pharmaceutical history... and somehow created an underground market where thousands of people now buy mystery powders online and inject them at home. How did one scientific breakthrough lead to all of this? This is Peptides Explained."
+    },
+    {
+      "id": 2,
+      "debut": 31.44,
+      "fin": 66.48,
+      "temps_estime": false,
+      "titre": "The body fights dieting: a survival system",
+      "resume": "The body's overriding priority is staying alive, so it treats significant calorie reduction as an emergency after millions of years of starvation. Calorie counting triggers a cascade of hormonal signals that fight the decision, an ancient survival system working as designed.",
+      "mots_cles": [
+        "survival instinct",
+        "starvation response",
+        "calorie restriction",
+        "hormonal signals",
+        "dieting",
+        "body resists weight loss",
+        "metabolism"
+      ],
+      "texte": "Let’s be honest, your body doesn’t care about your fitness goals. Your body has one overriding priority: keeping you alive. For most of human history, that meant surviving periods of starvation. It’s an instinct honed over millions of years, which is why your body treats any significant reduction in calories as a potential emergency. Basically, it doesn’t want you to diet. When you begin calorie counting, your brain starts to fire off a cascade of hormonal signals to fight that decision. It’s not a flaw. It’s an ancient survival system doing exactly what it was designed to do."
+    },
+    {
+      "id": 3,
+      "debut": 66.48,
+      "fin": 89.28,
+      "temps_estime": false,
+      "titre": "The 1944 Minnesota Starvation Experiment",
+      "resume": "In 1944, 36 men had their diets cut roughly in half and walked 22 miles a week, becoming rail-thin and obsessed with food within months. The Minnesota Starvation Experiment showed the body will not negotiate on calorie deprivation.",
+      "mots_cles": [
+        "Minnesota Starvation Experiment",
+        "1944",
+        "calorie deprivation",
+        "36 men",
+        "food obsession",
+        "starvation study",
+        "dieting"
+      ],
+      "texte": "In 1944, 36 men had their diets cut roughly in half, mirroring a very aggressive modern diet. As part of the experiment, they were asked to walk 22 miles a week. Within months, they were rail-thin and obsessed with food. It was known as the Minnesota Starvation Experiment, and it proved that the body will not negotiate when it comes to calorie deprivation."
+    },
+    {
+      "id": 4,
+      "debut": 89.28,
+      "fin": 123.52,
+      "temps_estime": false,
+      "titre": "Semaglutide and GLP-1: making hunger quiet down",
+      "resume": "Semaglutide, the drug behind Ozempic and Wegovy, mimics GLP-1, a gut hormone that tells the brain you are full, turning that signal up. Clinical trials showed average weight loss of about 15%, around 37 pounds for someone weighing 250.",
+      "mots_cles": [
+        "semaglutide",
+        "Ozempic",
+        "Wegovy",
+        "GLP-1",
+        "satiety hormone",
+        "15% weight loss",
+        "clinical trials"
+      ],
+      "texte": "That same principle moved into pharmaceuticals. It’s why semaglutide, the drug behind Ozempic, Wegovy, and the wave of weight-loss ads flooding your feed, was such a breakthrough. It mimics GLP-1, a hormone your gut releases after eating to tell your brain that you’re full. Semaglutide turns that signal up to 11. For millions of people, it did something that years of willpower couldn’t: it made hunger quiet down. Clinical trials showed average weight loss of around 15%, about 37 pounds for someone weighing 250."
+    },
+    {
+      "id": 5,
+      "debut": 123.52,
+      "fin": 158.0,
+      "temps_estime": false,
+      "titre": "The plateau: why one signal hits a ceiling",
+      "resume": "The body fights back as metabolism slows and hunger signals return, so the scale stops moving despite weekly injections, nausea and cost. Scientists realized they were fighting hunger in mono when they needed stereo, amplifying two signals, which led to tirzepatide.",
+      "mots_cles": [
+        "weight loss plateau",
+        "metabolic slowdown",
+        "hunger signals",
+        "single signal ceiling",
+        "tirzepatide",
+        "mono vs stereo",
+        "side effects"
+      ],
+      "texte": "But like we said, the body fights back. Your metabolism slows and the hunger signals return. Even as you continue the weekly injections, suffer through the nausea, and pay through the nose, the needle on the scale stops cooperating. You’ve hit the ceiling of what a single biological signal can do. When scientists looked more closely at the problem, they realized they were fighting hunger in mono, when the type of signal they needed could only work in stereo. They needed something that could amplify both signals. And they found it in tirzepatide."
+    },
+    {
+      "id": 6,
+      "debut": 158.0,
+      "fin": 216.4,
+      "temps_estime": false,
+      "titre": "GIP: the hormone blamed for fat storage",
+      "resume": "Besides GLP-1, the gut and pancreas make GIP (glucose-dependent insulinotropic polypeptide), which triggers insulin release and acts on fat cells and the brain. For nearly 40 years GIP was suspected of promoting fat storage, so drug companies spent billions trying to block it, but they were wrong: GIP was misunderstood.",
+      "mots_cles": [
+        "GIP",
+        "glucose-dependent insulinotropic polypeptide",
+        "GLP-1",
+        "fat storage",
+        "insulin",
+        "obesity research",
+        "GIP blockers"
+      ],
+      "texte": "Your pancreas and gut naturally produce two important hormones: GLP-1, which we all know about. The second is GIP, or glucose-dependent insulinotropic polypeptide. Thankfully, GIP’s job is simpler than the name. It tells your pancreas to release insulin when blood sugar rises, and it talks directly to fat cells and the brain. For nearly 40 years, GIP was suspected of being part of the obesity problem. Scientists thought it helped store fat, taking every calorie you ate and sending it straight into long-term storage. If you needed a villain in the story of weight gain, GIP was an easy target. So pharmaceutical companies did what seemed logical: they tried to block it. If GIP was making people store fat, shutting it down should help people lose it. Billions of dollars went into that idea. Except those scientists were wrong. GIP wasn’t the villain. It was just misunderstood."
+    },
+    {
+      "id": 7,
+      "debut": 216.4,
+      "fin": 256.56,
+      "temps_estime": false,
+      "titre": "Richard DiMarchi and the dual-agonist molecule",
+      "resume": "Biochemist Richard DiMarchi, who developed peptide drugs at Eli Lilly, proposed activating GIP alongside GLP-1 instead of blocking it. His team built a molecule triggering both signals, which was phenomenally effective in rodents and became tirzepatide, a synthetic compound activating two metabolic signals.",
+      "mots_cles": [
+        "Richard DiMarchi",
+        "Eli Lilly",
+        "dual agonist",
+        "tirzepatide",
+        "GIP and GLP-1",
+        "rodent study",
+        "peptide drug design"
+      ],
+      "texte": "Indiana University biochemist Richard DiMarchi spent years developing peptide drugs at Eli Lilly. And he had a radical idea. What if GIP shouldn’t be blocked, but activated alongside GLP-1? His team built a molecule that could trigger both signals at the same time and tested it in rodents. The results were, in DiMarchi’s words, “phenomenally effective.” Two biological conversations, carried by one drug. That molecule became tirzepatide. A synthetic compound engineered in a lab, designed to activate two of the body’s most powerful metabolic signals at once. And it changed the weight loss game forever."
+    },
+    {
+      "id": 8,
+      "debut": 256.56,
+      "fin": 284.64,
+      "temps_estime": false,
+      "titre": "Why tirzepatide works: leaning on GIP to limit side effects",
+      "resume": "Pushing GLP-1 too hard causes nausea and vomiting before the added benefit arrives, while GIP lacks that problem and can be pushed harder. Tirzepatide leans into GIP and uses just enough GLP-1, which is the gamechanger.",
+      "mots_cles": [
+        "GLP-1 side effects",
+        "nausea",
+        "GIP tolerability",
+        "tirzepatide mechanism",
+        "dose limits",
+        "vomiting",
+        "gamechanger"
+      ],
+      "texte": "The GLP-1 signal has a major flaw. Push it too hard, and the side effects start fighting back before you get the added benefit. Nausea, vomiting, the works. GIP doesn’t have that problem. You can push it harder. So instead of maxing out the one signal that fights back, tirzepatide leans into GIP. It uses just enough GLP-1 to get the benefits without triggering the side effects. That's the gamechanger."
+    },
+    {
+      "id": 9,
+      "debut": 284.64,
+      "fin": 314.48,
+      "temps_estime": false,
+      "titre": "Tirzepatide's record sales: Mounjaro and Zepbound outsell Keytruda",
+      "resume": "Sold as Mounjaro and Zepbound, tirzepatide was one of the fastest-growing drug launches ever and by the third quarter of 2025 outsold Keytruda, the best-selling drug on Earth. Combined sales hit $36.5 billion in 2025 alone.",
+      "mots_cles": [
+        "Mounjaro",
+        "Zepbound",
+        "Keytruda",
+        "$36.5 billion",
+        "drug sales 2025",
+        "best-selling drug",
+        "drug launch"
+      ],
+      "texte": "Tirzepatide quickly became one of the fastest-growing drug launches in pharmaceutical history. By the third quarter of 2025, the peptide, sold as Mounjaro and Zepbound, had done the previously unthinkable. It had out-sold Keytruda, the cancer immunotherapy that had been the best-selling drug on Earth. Combined sales hit $36.5 billion in 2025 alone. And it all started with one biochemist asking “what if we'd been wrong about GIP all along?”"
+    },
+    {
+      "id": 10,
+      "debut": 314.48,
+      "fin": 361.28,
+      "temps_estime": false,
+      "titre": "SURMOUNT trials: 22.5% to 26% weight loss",
+      "resume": "The SURMOUNT program ran six clinical trials with over 5,000 people. In SURMOUNT-1 the highest dose led to 22.5% average weight loss over 72 weeks, similar to first-year gastric bypass results, and SURMOUNT-3 and 4 reached about 26% over 88 weeks with lifestyle support.",
+      "mots_cles": [
+        "SURMOUNT program",
+        "SURMOUNT-1",
+        "22.5% weight loss",
+        "26% weight loss",
+        "gastric bypass",
+        "88 weeks",
+        "clinical trial results"
+      ],
+      "texte": "It’s an impressive story. But does it actually work? The answer came from the SURMOUNT program, 6 clinical trials involving more than 5,000 people. In SURMOUNT-1, patients on the highest dose of tirzepatide lost an average of 22.5% of their body weight over 72 weeks. That’s in the same ballpark as first year gastric bypass surgery results, without someone cutting through your abdominal wall. That was just the start. The result got even more impressive. SURMOUNT-3 and SURMOUNT-4 tracked patients for 88 weeks with intensive lifestyle support. Researchers found average weight loss climbed to about 26%. Some patients lost nearly a third of their body weight. That’s numbers that, as recently as 2018, would've involved major surgery."
+    },
+    {
+      "id": 11,
+      "debut": 361.28,
+      "fin": 396.64,
+      "temps_estime": false,
+      "titre": "SURMOUNT-5: tirzepatide versus semaglutide",
+      "resume": "In the head-to-head SURMOUNT-5 trial over 72 weeks, tirzepatide patients lost 20.2% of body weight versus 13.7% on semaglutide. Nearly a third on tirzepatide lost 25% or more, more than double the semaglutide rate.",
+      "mots_cles": [
+        "SURMOUNT-5",
+        "tirzepatide vs semaglutide",
+        "20.2%",
+        "13.7%",
+        "head-to-head trial",
+        "25% weight loss",
+        "comparison"
+      ],
+      "texte": "It looked good. But one question remained. How would it stack up against semaglutide? SURMOUNT-5 was the battle of the… heavyweights. 72 weeks. The same rules. Tirzepatide versus semaglutide. Tirzepatide patients lost 20.2% of their body weight. Semaglutide patients lost 13.7%. Nearly a third of the people on tirzepatide crossed the 25% weight loss mark. That’s more than double the rate of those on semaglutide. It wasn't much of a contest. Which made the side effects even stranger."
+    },
+    {
+      "id": 12,
+      "debut": 396.64,
+      "fin": 415.92,
+      "temps_estime": false,
+      "titre": "Side effects: nausea and surprising tolerability",
+      "resume": "Tirzepatide still causes gastrointestinal side effects, especially early on, but many patients who could not tolerate semaglutide's nausea describe tirzepatide as easier despite being more potent.",
+      "mots_cles": [
+        "gastrointestinal side effects",
+        "nausea",
+        "tolerability",
+        "semaglutide intolerance",
+        "early treatment",
+        "tirzepatide experience"
+      ],
+      "texte": "Ask around, you'll find plenty of people who got slammed by nausea on Ozempic. Tirzepatide still causes gastrointestinal side effects, especially in the early stages. But many patients who couldn't tolerate semaglutide describe tirzepatide, despite being more potent, as somehow easier. Weight loss was only the beginning."
+    },
+    {
+      "id": 13,
+      "debut": 415.92,
+      "fin": 456.16,
+      "temps_estime": false,
+      "titre": "Health benefits beyond weight loss",
+      "resume": "Tirzepatide trials found most patients with obesity-related sleep apnea no longer had symptoms, blood pressure and inflammation markers improved, and metabolic liver disease reversed in most on the highest dose. Among pre-diabetic patients almost none progressed to type 2 diabetes versus more than 1 in 10 on placebo.",
+      "mots_cles": [
+        "sleep apnea",
+        "metabolic liver disease",
+        "prediabetes",
+        "type 2 diabetes prevention",
+        "blood pressure",
+        "inflammation",
+        "2024 study"
+      ],
+      "texte": "A study published in 2024 found that most patients with obesity-related sleep apnea no longer displayed symptoms. Blood pressure fell and inflammation markers improved. In another trial, researchers looked at metabolic liver disease, a condition with few effective treatments. Most patients on the highest dose of tirzepatide saw the disease reverse. Then came what might be the most remarkable result. Among pre-diabetic patients that took tirzepatide, almost none progressed to type 2 diabetes. In the placebo group, more than 1 in 10 did. Suddenly, the numbers on the scales stopped looking important. What mattered was preventing the diseases that came after."
+    },
+    {
+      "id": 14,
+      "debut": 456.16,
+      "fin": 509.84,
+      "temps_estime": false,
+      "titre": "Strings attached: muscle loss with rapid weight loss",
+      "resume": "The body burns whatever tissue it can access, so losing 20% of body weight takes some muscle. About a quarter of the weight lost on tirzepatide in the most detailed study was lean mass, in line with dieting and surgery, which matters most for older or frail people who risk falls and losing independence.",
+      "mots_cles": [
+        "muscle loss",
+        "lean mass",
+        "frailty",
+        "sarcopenia",
+        "weight loss composition",
+        "older adults",
+        "tirzepatide side effects"
+      ],
+      "texte": "But despite tirzepatide looking like a miracle drug, there were strings attached. When you start tirzepatide and the scale starts dropping fast, there’s something you need to understand. Your body doesn’t burn fat because it’s clever. It burns whatever tissue it can access… And it isn’t picky. Your body isn’t thinking, “keep the muscle, lose the fat.” Lose 20% of your body weight, and some of that weight is going to come from muscle whether you like it or not. In the most detailed study we have, about a quarter of the weight people lost on tirzepatide was lean muscle mass. That's actually in line with normal weight loss generally, dieting and surgery, so it's not unique to tirzepatide. Losing muscle mass when you’re young is a setback. But if you're older or already frail, losing muscle can be the difference between staying independent and falling. And that comes with major consequences."
+    },
+    {
+      "id": 15,
+      "debut": 509.84,
+      "fin": 525.76,
+      "temps_estime": false,
+      "titre": "The fix: protein and weight training",
+      "resume": "In a study of 200 people on tirzepatide, a group coached on protein and lifting weights twice a week lost weight at almost the same rate but kept nearly all their muscle.",
+      "mots_cles": [
+        "protein",
+        "resistance training",
+        "weight lifting",
+        "muscle preservation",
+        "200 people",
+        "coaching",
+        "tirzepatide study"
+      ],
+      "texte": "The fix, thankfully, isn’t complicated. Researchers studied 200 people on tirzepatide, with one group receiving basic coaching on protein and lifting weights 2 times a week. They lost weight at almost the same rate as everyone else, but kept nearly all their muscle."
+    },
+    {
+      "id": 16,
+      "debut": 525.76,
+      "fin": 566.48,
+      "temps_estime": false,
+      "titre": "The price problem: list prices and insurance coverage",
+      "resume": "Mounjaro lists at over $1,100 a month and Zepbound can be cheaper by dose and program, but stopping often brings the weight back, so the question is affordability forever. Cost ranges from $25 a month with coverage and savings programs to around $23,000 a year without, rivaling a car payment.",
+      "mots_cles": [
+        "Mounjaro price",
+        "$1,100 a month",
+        "Zepbound cost",
+        "insurance coverage",
+        "$25 a month",
+        "$23,000 a year",
+        "affordability",
+        "weight regain"
+      ],
+      "texte": "The second problem is the price. At list price, Mounjaro costs over $1,100 a month. Zepbound can be cheaper depending on the dose and program, but for many people, the bill is still somewhere in the hundreds, or even thousands, each month. This isn't a one time expense. The moment you stop taking tirzepatide, the weight often starts piling back. So the question is \"Can you afford this forever?\" The answer depends almost entirely on your insurance. Some people with coverage and savings programs can pay as little as $25 a month. Others are looking at a bill in the region of $23,000 a year. The monthly rates start rivaling a car payment."
+    },
+    {
+      "id": 17,
+      "debut": 566.48,
+      "fin": 605.35,
+      "temps_estime": true,
+      "titre": "Eli Lilly's lower-cost options and the Medicare bridge program",
+      "resume": "Eli Lilly offers lower-cost direct options, but access still depends on insurance rules and eligibility, and Medicare and Medicaid historically covered nothing for weight loss. A new government bridge program from mid-2026 offers some Medicare patients a $50 monthly copay for Zepbound, while the same molecule can cost one person $25 and another nearly $2,000.",
+      "mots_cles": [
+        "Eli Lilly direct pricing",
+        "Medicare",
+        "Medicaid",
+        "bridge program",
+        "$50 copay",
+        "Zepbound",
+        "price disparity",
+        "2026"
+      ],
+      "texte": "Eli Lilly has tried to close that gap by offering lower-cost options directly, but access still comes down to a complicated mix of insurance rules, eligibility, and what someone can afford out of pocket. Meanwhile, people on Medicare or Medicaid have historically gotten nothing at all for weight-loss use. But a new government bridge program starting in mid-2026 will offer some Medicare patients a $50 monthly copay for Zepbound. For now, at least. The same molecule, from the same factory, can cost one person $25 a month and another nearly $2,000. And when people are at the higher end of that range. They get desperate."
+    },
+    {
+      "id": 18,
+      "debut": 605.35,
+      "fin": 628.96,
+      "temps_estime": true,
+      "titre": "The black market: raw powder and DIY mixing",
+      "resume": "As tirzepatide got famous and supply could not keep up with demand, forums shared instructions for ordering raw powder from foreign suppliers and mixing it at home with water and a syringe, with powders shipped under different labels to bypass customs. A black market formed around a drug millions wanted but could not get.",
+      "mots_cles": [
+        "black market",
+        "raw powder",
+        "supply shortage",
+        "foreign suppliers",
+        "DIY injection",
+        "customs",
+        "forums",
+        "gray market"
+      ],
+      "texte": "As tirzepatide got famous and supply couldn’t keep up with demand, people started finding their own ways to get it. Forums appeared full of instructions for ordering raw powder from foreign suppliers. There were guides on mixing it at home with water and a syringe. Powders were even shipped under different labels to bypass customs. A black market formed around a drug millions of people suddenly wanted but couldn’t get."
+    },
+    {
+      "id": 19,
+      "debut": 628.96,
+      "fin": 692.48,
+      "temps_estime": false,
+      "titre": "Amy Spencer: mixing tirzepatide at home for $50 a month",
+      "resume": "Amy Spencer, a 50-year-old Missouri mom of two, mixes weight-loss drugs from powder ordered from China for about $50 a month, calling herself a pioneer of the wild west of obesity medicine. After a dosing mistake with a new concentration she took 10 times the intended dose, vomited for hours, could not keep down water for 4 days and lost 7 pounds.",
+      "mots_cles": [
+        "Amy Spencer",
+        "Missouri",
+        "powder from China",
+        "$50 a month",
+        "overdose",
+        "dosing error",
+        "wild west",
+        "home injection"
+      ],
+      "texte": "50 year old Amy Spencer lives in Missouri, has two kids. She’s the epitome of the Midwest mom. Except, every week she stands in her bathroom mixing her own weight-loss drugs from powder she orders online from China. She rolls the vial between her fingers until it dissolves, draws it into a syringe, and injects it into her thigh. The total cost is about $50 a month. This is the \"wild west\" of obesity medicine. A frontier where Amy considers herself a pioneer. By doing this, Amy gets access to the same drug effect people pay hundreds or even thousands of dollars a month to get through traditional channels. So she measures the doses herself, trusts the process… and hopes she got every step right. Except that one time. After switching to a new combination, Amy made a rookie mistake. The concentration was different, and she ended up taking 10 times the dose she intended. Within hours, she was vomiting. She couldn't even keep down water for 4 days. She lost 7 pounds, just not the kind anyone wants."
+    },
+    {
+      "id": 20,
+      "debut": 692.48,
+      "fin": 724.32,
+      "temps_estime": false,
+      "titre": "Telegram forums and pooled lab testing of powders",
+      "resume": "Another Midwestern mother, priced out of compounded tirzepatide at $470 a month after the FDA shut that avenue down, joined a Telegram forum of tens of thousands. She and 52 strangers pooled money to send a vial to an independent lab, which confirmed the powder was genuine, but that does not guarantee the next batch.",
+      "mots_cles": [
+        "Telegram forum",
+        "compounded tirzepatide",
+        "FDA",
+        "independent lab testing",
+        "pooled funds",
+        "vendor tips",
+        "dosage math",
+        "$470 a month"
+      ],
+      "texte": "She’s not alone. Another Midwestern mother started with a compounded pharmacy version of tirzepatide. She was paying around $470 a month until the FDA shut that avenue down. She went on Telegram and found a forum with tens of thousands of users swapping vendor tips and dosage math. She eventually joined 52 strangers who pooled together to ship a sample vial to an independent lab… just to confirm the powder they'd bought was actually what it claimed to be. It was. But that doesn't mean the next batch will."
+    },
+    {
+      "id": 21,
+      "debut": 724.32,
+      "fin": 772.56,
+      "temps_estime": false,
+      "titre": "Unregistered peptide imports and playing pharmacist",
+      "resume": "Shipments of unregistered peptide powders from China jumped 44% in a single month in 2025, likely an undercount since packages under $800 pass customs with little scrutiny. People are not reckless but priced out, and doing the pharmacist's calculations at home means being doctor, pharmacist and FDA inspector without a safety net.",
+      "mots_cles": [
+        "peptide imports",
+        "China shipments",
+        "44% increase",
+        "customs $800",
+        "safety advocate",
+        "compounding risk",
+        "regulatory system",
+        "priced out"
+      ],
+      "texte": "Shipments of unregistered peptide powders from China jumped 44% in a single month in 2025. And that’s almost guaranteed to be on the low end, since anything valued under $800 slips through customs without much scrutiny. As one safety advocate bluntly put it, when you do this yourself, you're playing doctor, pharmacist, and FDA inspector all at once. And there’s no license for any of the three. Nobody in these forums is reckless for fun. They’re ordinary people who are priced out of medicine that works but is unobtainable. The calculations they're doing in their kitchens and bathrooms is the same a licensed pharmacist does under sterile conditions. Except that pharmacist has an entire regulatory system behind them. Only one version has a safety net. The other doesn't."
+    },
+    {
+      "id": 22,
+      "debut": 772.56,
+      "fin": 808.96,
+      "temps_estime": false,
+      "titre": "FDA adverse event reports and deaths from gray-market tirzepatide",
+      "resume": "By mid-2025 the FDA had logged 545 adverse event reports tied to compounded or gray-market tirzepatide, including pancreatitis, kidney damage and dangerously low blood sugar. Around 10 deaths have been linked to homemade GLP-1 preparations, possibly an undercount, and Amy was lucky to recover in four days.",
+      "mots_cles": [
+        "FDA adverse events",
+        "545 reports",
+        "pancreatitis",
+        "kidney damage",
+        "low blood sugar",
+        "10 deaths",
+        "homemade GLP-1",
+        "gray market"
+      ],
+      "texte": "By mid-2025, the FDA had logged 545 adverse event reports tied to compounded or gray-market tirzepatide. Things like pancreatitis, kidney damage and dangerously low blood sugar. Around 10 deaths have been linked to homemade GLP-1 preparations. That number may only be the tip of the iceberg. Linking a medical crisis back to a syringe someone filled themselves at a kitchen counter isn't always easy. Amy got lucky. Four bad days, seven pounds, and she was back on her feet. When you turn medication into a home experiment, not everyone gets the same ending."
+    },
+    {
+      "id": 23,
+      "debut": 808.96,
+      "fin": 833.84,
+      "temps_estime": false,
+      "titre": "Conclusion: tirzepatide is not a cure and access is the challenge",
+      "resume": "Tirzepatide is the reigning champion of non-surgical metabolic medicine but not a cure; it works within a larger reconstruction needing discipline, safe access and healthy habits. Creating the medicine may have been the easier part, and building a system for safe access is the challenge.",
+      "mots_cles": [
+        "tirzepatide not a cure",
+        "non-surgical metabolic medicine",
+        "safe access",
+        "healthy habits",
+        "conclusion",
+        "drug access challenge"
+      ],
+      "texte": "Right now, tirzepatide is the reigning champion of non-surgical metabolic medicine. But tirzepatide is not a cure. It only works as part of a larger reconstruction that requires patients to be disciplined, obtain safe access, and build healthy habits. And as ridiculous as it sounds, creating the medicine may have been the easier part. Building a system where people can actually get it safely remains the challenge."
+    },
+    {
+      "id": 24,
+      "debut": 833.84,
+      "fin": 841.84,
+      "temps_estime": false,
+      "titre": "Outro: more peptide videos",
+      "resume": "Invites viewers to click the on-screen videos about other popular peptides and to subscribe to keep learning about peptides.",
+      "mots_cles": [
+        "peptides",
+        "subscribe",
+        "related videos",
+        "popular peptides",
+        "call to action"
+      ],
+      "texte": "Need more information on some of the most popular peptides? Click one of the videos on screen to learn more, and subscribe to keep learning all things peptides."
+    }
+  ]
+}
