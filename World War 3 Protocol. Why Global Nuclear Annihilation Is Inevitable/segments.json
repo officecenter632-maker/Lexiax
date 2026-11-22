@@ -4,12 +4,12 @@
   "titre_video": "World War 3 Protocol. Why Global Nuclear Annihilation Is Inevitable.",
   "duree_s": 11483.66,
   "avancement": {
-    "lignes_traitees": 1865,
-    "fin_traitee_s": 3712.97,
+    "lignes_traitees": 2880,
+    "fin_traitee_s": 5765.8,
     "nb_lignes_total": 5891,
     "complet": false
   },
-  "nb_segments": 72,
+  "nb_segments": 110,
   "segments": [
     {
       "id": 1,
@@ -1378,6 +1378,726 @@
         "chronic inflammation"
       ],
       "texte": "Beyond cancer, radiation accelerates the aging process and causes [music] other chronic illnesses in your body. Damage to the lymphatic system leads to immune system suppression, leaving you vulnerable to recurring infection and chronic [music] inflammatory diseases for the rest of your life. Recent studies of atomic bomb survivors show that even non-lethal radiation doses can dramatically increase the risk of cardiovascular disease, stroke, and chronic [music] kidney disease decades later. Radiation triggers long-lasting inflammation and scarring in blood [music] vessels, accelerating the hardening and narrowing of arteries far beyond normal aging."
+    },
+    {
+      "id": 73,
+      "debut": 3712.97,
+      "fin": 3784.95,
+      "temps_estime": true,
+      "titre": "Zero hour: missile launches detected worldwide",
+      "resume": "The nuclear apocalypse begins as silos open and missiles climb into the night. Warning satellites over the Pacific and Siberia and early warning radars in Alaska, Greenland and Kaluga detect launches from everywhere at once, and the world's supercomputers first assume a glitch before klaxons blare and ballistic missile submarines receive coded release confirmation.",
+      "mots_cles": [
+        "zero hour",
+        "nuclear apocalypse",
+        "missile launch",
+        "early warning radar",
+        "warning satellites",
+        "silo doors",
+        "ballistic missile submarines",
+        "nuclear triad"
+      ],
+      "texte": "[music] Silo doors groan open. Seconds later, the night explodes. Missiles scream skyward, trailing fire behind them. >> [clears throat] >> Across continents, the horizon burns. Humanity has only minutes left. >> [music] >> The nuclear apocalypse is here. Zero hour. It happens almost too fast to register. Warning satellites over the Pacific and Siberia scream of heat signatures rise through the clouds. Then hundreds, then thousands. Early warning radars in Alaska, Greenland, and Kaluga light up like neon billboards. For a heartbeat, the world supercomputers assume it's all a glitch. That is, until they realize launches are actually coming from everywhere all at once. 30 seconds later, klaxons blare across continents. Deep underground in Wyoming and Orenburg, in the deserts of Inner Mongolia and the plateaus of Rajasthan, silo doors rumble open. Hydraulic arms lift massive steel lids that haven't moved in decades. In the oceans, ballistic missile submarines, the hidden leg of every nuclear triad, receive coded bursts confirming the unthinkable. The other nuclear powers have received full release authorization. Their hatches slide open in turn, columns of seawater exploding upwards as missiles [music] breach the surface, trailing white plumes into the night."
+    },
+    {
+      "id": 74,
+      "debut": 3784.95,
+      "fin": 3842.11,
+      "temps_estime": true,
+      "titre": "T plus 1 minute: bombers scramble and automated retaliation begins",
+      "resume": "One minute in, bombers scramble from Louisiana and Siberia despite few runways or command chains left to return to. Early warning systems feed one another, automated retaliation networks respond in kind, communication networks drown in emergency alerts and some nations detonate warheads prematurely, creating EMP flashes that blind incoming missiles and cut satellite links.",
+      "mots_cles": [
+        "strategic bombers",
+        "automated retaliation",
+        "emergency alerts",
+        "EMP",
+        "premature detonation",
+        "satellite links",
+        "T plus 1 minute",
+        "command chains"
+      ],
+      "texte": "T plus 1 minute. 60 seconds [music] into the dawning apocalypse, the first bombers scramble into the air from bases in Louisiana, Siberia, [music] and >> Once the first missiles already in the air hit their targets, there won't [music] be many viable runways, refueling tankers, or viable command chains left intact for them to return to. It doesn't matter. Training [music] and instinct override their doubts as the engines screech skyward anyway. Then comes a cascade of signal intercepts. Early [music] warning systems feed back into other systems. Automated retaliation networks designed to ensure no country dies alone detect the launches and respond in kind. The world's communication networks openly drowning in emergency alerts >> [music] >> and conflicting orders. EMP flashes ripple through the upper atmosphere as some nations detonate warheads prematurely to blind incoming missiles. >> [music] >> In an instant, satellite links falter and the world's digital gateway to itself begins to vanish."
+    },
+    {
+      "id": 75,
+      "debut": 3842.11,
+      "fin": 3893.89,
+      "temps_estime": true,
+      "titre": "T plus 3 minutes: submarine-launched missiles and the leaders' impossible choice",
+      "resume": "By minute 3 coastal radars pick up submarine-launched ballistic missiles, which need only 10 to 15 minutes to arrive, while ICBMs take 25 to 35 minutes. World leaders have about seven minutes at best to decide whether to retaliate, take revenge or vanish into history, with no time for evacuation.",
+      "mots_cles": [
+        "submarine-launched ballistic missiles",
+        "SLBM",
+        "ICBM flight time",
+        "retaliation decision",
+        "seven minutes",
+        "T plus 3 minutes",
+        "heads of state",
+        "evacuation"
+      ],
+      "texte": "T plus 3 minutes. By minute 3, coastal defense radars pick up submarine launched ballistic missiles rising from every ocean. These are the first ones to hit, needing only 10 to 15 minutes to cross their arcs. Intercontinental missiles take longer, sometimes up to 25 to 35 minutes from launch [music] to impact, but there is no long in this scenario. The burden of impending existential doom leaves little time for comprehension, much less evacuation. When the missiles first rise, the world's leaders have minutes, seven if they're lucky, to decide how they'll be remembered. The early warning systems crunch impossible launch sequences and projected [music] impact zones, offering a wave of data for heads of state that know there will be nowhere to hide. But whether they like it or not, they are still left with a choice, >> [music] >> whether to fire back, retaliate in revenge, or vanish quietly into history."
+    },
+    {
+      "id": 76,
+      "debut": 3893.89,
+      "fin": 3924.22,
+      "temps_estime": false,
+      "titre": "Washington, Moscow and Beijing: nuclear football, Cheget and Dead Hand",
+      "resume": "In Washington the nuclear football opens and the president has about five minutes before command networks fail. In Moscow the Cheget suitcase hums and automated systems like Dead Hand prepare a final salvo, while Beijing's Central Military Commission cannot verify the launch and the missiles fly regardless.",
+      "mots_cles": [
+        "nuclear football",
+        "Cheget suitcase",
+        "Dead Hand",
+        "Central Military Commission",
+        "authorization codes",
+        "automated launch",
+        "Washington Moscow Beijing",
+        "launch decision"
+      ],
+      "texte": "In Washington, the nuclear football opens and authorization codes are read aloud for the last time. The president has perhaps 5 minutes [music] before command networks fail. In Moscow, the Cheget suitcase hums with alerts. >> [music] >> Automated systems like dead hand prepare to unleash their last salvo even if every officer is gone. In Beijing, the Central Military Commission struggles to verify whether the West has truly launched or whether it's all an electronic mirage. In this scenario, there is no time to find out. The math wins and the missiles launch regardless."
+    },
+    {
+      "id": 77,
+      "debut": 3924.22,
+      "fin": 3973.09,
+      "temps_estime": true,
+      "titre": "Royal Navy Vanguard submarines and the letters of last resort",
+      "resume": "Aboard Royal Navy Vanguard-class submarines, each carrying 16 Trident II D5 missiles able to erase 40 cities, the crew cannot call home and listens to the BBC Radio 4 Today programme. If it stops, they open the sealed letter of last resort written by each Prime Minister, whose instructions nobody knows, and wait in silence over the launch keys.",
+      "mots_cles": [
+        "Vanguard class submarine",
+        "Trident II D5",
+        "letter of last resort",
+        "BBC Radio 4 Today programme",
+        "British Prime Minister",
+        "Royal Navy",
+        "submarine crew",
+        "nuclear retaliation"
+      ],
+      "texte": "But nowhere is the decision more haunting than aboard the Royal Navy's Vanguard class submarines. Then patrolling the Indo-Pacific in silence, each carrying 16 Trident 2 D5 missiles, enough to [music] erase 40 cities. The crew can't call home. They rely on a simple test, tuning in to the daily BBC Radio 4 broadcast. If the broadcast of the Today program ever stops, they open the sealed letter of last resort penned by each British Prime [music] Minister on their first full day in office and locked in a safe inside the submarine's control room. Nobody knows what those letters instruct to those crews, whether [music] to retaliate, stand down, or sail to an ally. But one day, someone will have to open them. And for [music] these crews, that day has inexorably come at last. The submariners wait, hands [music] hovering over the launch keys, listening to the static where Britain used to be."
+    },
+    {
+      "id": 78,
+      "debut": 3973.09,
+      "fin": 3994.79,
+      "temps_estime": true,
+      "titre": "Panic in the cities: flight and crashing networks",
+      "resume": "In major cities the few people who see emergency broadcasts rush toward subways and basements while phones no longer connect and cell towers reach their limit. Freeways stop as millions try to flee under contrails of missiles, each carrying the explosive power of a new sun.",
+      "mots_cles": [
+        "emergency broadcasts",
+        "mass panic",
+        "evacuation",
+        "cell towers overloaded",
+        "freeways gridlock",
+        "subways and basements",
+        "civilian reaction",
+        "missile contrails"
+      ],
+      "texte": "In major cities, [music] those few who see emergency broadcasts rush towards subways and basements, clutching phones that no longer connect to anything. The surge of communication stresses cell towers to their absolute limit. Freeways come to a standstill as millions attempt to flee. Above them, contrails of white smoke crisscross [music] the blue, each one carrying the explosive equivalent of a new sun."
+    },
+    {
+      "id": 79,
+      "debut": 3994.79,
+      "fin": 4050.77,
+      "temps_estime": true,
+      "titre": "T plus 5 minutes: first warheads hit the capitals",
+      "resume": "At minute five the first warheads arrive faster than sound and erase Washington D.C., Moscow, Beijing, London and Paris in under a second. Plasma fireballs brighter than the sun devour everything within a 2-mile radius, shockwaves at 1,000 mph crush everything within 10 miles, and thermal radiation ignites everything flammable up to 20 miles away.",
+      "mots_cles": [
+        "nuclear detonation",
+        "fireball",
+        "shockwave",
+        "thermal radiation",
+        "capital cities destroyed",
+        "2-mile radius",
+        "1,000 mph blast",
+        "T plus 5 minutes"
+      ],
+      "texte": "T plus 5 minutes. At 5 minutes, [music] the first warheads arrive. They fall faster than sound, invisible until the air itself [music] begins to scream. The world's priority targets, the epicenters of civilization, vanish both simultaneously and immediately. [music] Washington D.C., Moscow, Beijing, London, Paris, each are erased in less than a second. In their place, [music] expanding spheres of plasma, brighter than the sun, bloom over the earth's surface, devouring everything within a 2-mile radius. The fireballs rise into [music] the stratosphere, pulling the ground upward in liquid form. Shockwaves blast outward at 1,000 mph, [music] crushing everything within 10 miles. Steel girders bend like toy wire and skyscrapers [music] collapse like sand castles. Thermal radiation ignites everything that can burn up to 20 miles [music] away. Trees, cars, clothes, people, and asphalt all liquefy in an instant. Shadows are seared into the pavement where humans [music] once stood."
+    },
+    {
+      "id": 80,
+      "debut": 4050.77,
+      "fin": 4094.16,
+      "temps_estime": true,
+      "titre": "Ground bursts versus air bursts and the first ground zeros",
+      "resume": "Ground bursts hurl millions of tons of radioactive soil into the air and contaminate everything downwind, while air bursts maximize shock and heat over wide areas to destroy cities. At the first ground zeros tens of thousands turn to carbon vapor, and survivors miles away suffer third-degree burns and a storm of supersonic debris.",
+      "mots_cles": [
+        "ground burst",
+        "air burst",
+        "radioactive soil",
+        "ground zero",
+        "third-degree burns",
+        "supersonic debris",
+        "carbon vapor",
+        "blast physics"
+      ],
+      "texte": "The physics of destruction varies with altitude. Ground bursts are notorious for hurling millions of tons of radioactive soil into the air, contaminating everything downwind. [music] Air bursts detonated higher up dole out destruction by maximizing shock and heat over wider areas, perfect for eviscerating cities. Within seconds, [music] tens of thousands of people at the world's first ground zeros turn to carbon vapor. Farther out, victim's skin blisters and melts to the extent that even those miles away suffer third-degree burns. Supersonic debris turns the air into a storm of razors effectively. Buildings themselves become projectiles, a scene replicated scores of times across the world's doorbell cameras, whose feeds somehow survive the blast."
+    },
+    {
+      "id": 81,
+      "debut": 4094.16,
+      "fin": 4118.22,
+      "temps_estime": true,
+      "titre": "Secondary disasters: reactors, refineries and gas lines",
+      "resume": "After the blasts the domino effect begins: nuclear power stations rupture and release radioactive steam, refineries explode like fuel-air bombs, chemical plants spew toxins and buried gas lines burst, engulfing city blocks in secondary firestorms.",
+      "mots_cles": [
+        "domino effect",
+        "nuclear power plants",
+        "refineries",
+        "chemical plants",
+        "gas lines",
+        "secondary firestorms",
+        "radioactive steam",
+        "industrial disaster"
+      ],
+      "texte": "The domino effect is very real after the blast. Nuclear power stations rupture from nearby blasts, releasing plumes of radioactive steam. Refineries ignite, their tanks [music] exploding like fuel-air bombs. Toxins spew into the burning sky from chemical plants hit in the blast. Then, there's the host of buried gas lines, superheated and bursting as city blocks are engulfed in secondary firestorms. [music]"
+    },
+    {
+      "id": 82,
+      "debut": 4118.22,
+      "fin": 4165.8,
+      "temps_estime": true,
+      "titre": "T plus 30 minutes: tens of millions dead and leadership crashes",
+      "resume": "Within 30 minutes tens of millions are dead and millions more stagger through ruins with fatal radiation exposure, with hospitals, fire stations and police gone and global leadership effectively crashed. New York, Los Angeles, Chicago, Houston, Moscow, Tokyo, Delhi, Seoul, Tehran, London, Paris and Berlin are craters and ash.",
+      "mots_cles": [
+        "T plus 30 minutes",
+        "tens of millions dead",
+        "radiation exposure",
+        "city destruction",
+        "global leadership crash",
+        "New York Los Angeles",
+        "Tokyo Delhi",
+        "no rescue"
+      ],
+      "texte": "T plus 30 minutes. In just 30 minutes, tens of millions are dead, vaporized, [music] crushed, or burned beyond recognition. Millions more stagger through ruins with fatal radiation [music] exposure, their skin glowing faintly from the fallout. Hospitals, fire stations, police networks are all gone, and there is no rescue helicopters, no emergency broadcasts, or governments left to respond. Global leadership effectively crashes. New York, Los Angeles, Chicago, Houston, gone. St. Petersburg and Moscow, erased. Tokyo, Delhi, Seoul, Tehran, London, Paris, and Berlin are craters, heat, and ash. [music] It's impossible to know how many millions have perished as the fires continue to spread. It's the first time in history that the skylines of these major capitals [music] have all glowed orange at once."
+    },
+    {
+      "id": 83,
+      "debut": 4165.8,
+      "fin": 4198.68,
+      "temps_estime": true,
+      "titre": "Electromagnetic pulses and the global blackout",
+      "resume": "High-altitude detonations create electromagnetic pulses strong enough to fry everything with a circuit board, hitting planes, hospitals and homes. Power grids collapse like dominoes, aircraft lose avionics mid-flight, and the internet and phones go dark in the strike zones.",
+      "mots_cles": [
+        "electromagnetic pulse",
+        "EMP",
+        "power grid collapse",
+        "avionics failure",
+        "internet blackout",
+        "high-altitude detonation",
+        "electronics destroyed",
+        "airplanes falling"
+      ],
+      "texte": "The electronic aftershocks of the explosions have a life all their own. High-altitude detonations create electromagnetic pulses strong enough [music] to fry everything with a circuit board. EMPs hit planes, hospitals, and residential areas with impunity. Power grids collapse [music] like dominoes. Airplanes lose avionics mid-flight, some of them falling out of the sky like dark [music] streaks, others searching vainly for viable places to land off the cuff, so far from [music] home. The internet and phones all blink out forever. Humanity in the strike zones have all just gone offline."
+    },
+    {
+      "id": 84,
+      "debut": 4198.68,
+      "fin": 4239.22,
+      "temps_estime": true,
+      "titre": "Firestorms and fire tornadoes",
+      "resume": "Thousands of small blazes merge into city-sized infernos that consume oxygen faster than wind can replace it, creating hurricane-force fire tornadoes. Temperatures approach 2,000 degrees Fahrenheit, asphalt runs like tar and people miles away suffocate as oxygen is pulled from the air.",
+      "mots_cles": [
+        "firestorm",
+        "fire tornado",
+        "2,000 degrees",
+        "oxygen depletion",
+        "city-sized infernos",
+        "suffocation",
+        "melting asphalt",
+        "urban fires"
+      ],
+      "texte": "Down below, the firestorms continue their feeding frenzy. Thousands [music] of smaller blazes merge into single city-sized infernos. Flames consume oxygen faster than the wind [music] can replace it, creating hurricane-force cyclones of superheated air and debris, known terrifyingly as fire tornadoes. Temperatures can reach almost 2,000° F as asphalt runs like tar, and glass drips from skyscraper frames like [music] candle wax. The fires cause people miles from the blast zones to suffocate as oxygen is vacuumed from the air. The forecast will simply read fire for the foreseeable future. By [music] the time the first fireballs bloom, the planet has already decided to finish the job."
+    },
+    {
+      "id": 85,
+      "debut": 4239.22,
+      "fin": 4295.1,
+      "temps_estime": true,
+      "titre": "T plus 1 hour: all arsenals empty, 12,000 warheads airborne",
+      "resume": "Within an hour counterstrikes escalate as every retaliatory mechanism and automated protocol fires at once. Submarines receive authenticated release codes, ICBM crews turn launch keys, SLBMs reach coasts in as little as 10 minutes and ICBMs in 10 to 20 more, putting roughly 12,000 warheads, the sum of the world's stockpiles, in the air by the end of the next hour.",
+      "mots_cles": [
+        "T plus 1 hour",
+        "12,000 warheads",
+        "mutual destruction",
+        "arsenals empty",
+        "launch keys",
+        "escalation",
+        "global stockpiles",
+        "release codes"
+      ],
+      "texte": "What began as targeted counterstrikes turn within an hour into a [music] global sacrament of escalation. Every retaliatory mechanism, every automated protocol, [music] every desperate human order is all triggered at once. T + 1 hour. Submarines at patrol depths receive authenticated [music] release codes. Intercontinental ballistic missile crews pull two-man locks and turn launch keys. Bombers that matter are already airborne, navigating the maelstrom of catastrophe unfolding across the Earth. Most deliverables are missiles now, [music] and all of them are about to rain down in multiples over the rest of the Earth. Within this phase, the arsenals empty. SLBMs splash skyward [music] from every oceanic patrol, some arriving at coastlines in as little as 10 minutes. ICBMs will take another 10 to 20 [music] minutes to arrive. Mutual destruction is virtually guaranteed. By the end of the next hour, something on the order of 12,000 warheads, the sum of the world's stockpiles, [music] will be airborne all at once."
+    },
+    {
+      "id": 86,
+      "debut": 4295.1,
+      "fin": 4366.38,
+      "temps_estime": true,
+      "titre": "T plus 3 hours: fallout, shelters and acute radiation syndrome",
+      "resume": "Three hours in, mushroom clouds reach the edge of space and radioactive fallout begins to fall like snow, drifting into jet streams hundreds of miles from blast zones. Survivors in military shelters and Cold War bunkers face dwindling air and rations, while millions suffer acute radiation syndrome with no hospitals, morphine or clean water and rivers contaminated with cesium.",
+      "mots_cles": [
+        "radioactive fallout",
+        "acute radiation syndrome",
+        "bunkers",
+        "cesium",
+        "jet streams",
+        "mushroom clouds",
+        "rations",
+        "T plus 3 hours"
+      ],
+      "texte": "T plus 3 hours. 3 hours in, half of the world is still waking up to its own funeral. The mushroom clouds have climbed to the edge of space, turning the upper atmosphere into a boiling bruise. >> [music] >> Deep inside those clouds, pulverized cities mix with vaporized soil and irradiated ash. Gravity makes things even worse as radioactive fallout begins to fall like snow, glittering faintly in the dawn. It's oddly beautiful, if annihilation could be beautiful. Invisible, odorless, and utterly lethal, the dust drifts into the jet streams, spreading [music] contamination hundreds of miles from the blast zones. Survivors are still discovering that survival is relative. Those who somehow managed to reach [music] deep military shelters or Cold War bunkers are, for now, the lucky few. But safe has an expiration date. [music] Filters will clog and air supplies will dwindle. It's an inevitability. Rations only designed to last a few weeks are suddenly [music] the most valuable currency left on Earth. Millions stumble through ruins with nausea, burns, and bleeding gums, the first signs of acute radiation [music] syndrome. There are no hospitals left, no morphine, and certainly no clean water. >> [music] >> Rivers sparkle faintly with cesium. Every sip is a roll of radioactive dice."
+    },
+    {
+      "id": 87,
+      "debut": 4366.38,
+      "fin": 4431.32,
+      "temps_estime": true,
+      "titre": "Next-wave strikes on infrastructure and space",
+      "resume": "Later waves of nuclear strikes hit command centers, missile fields, ports, refineries, grain hubs, shipping canals, dams, substations, rail junctions and satellite farms, all designed to choke the arteries of civilization. Undersea cables snap, GPS, air traffic control and banking vanish, and anti-satellite weapons turn low Earth orbit into a lethal minefield.",
+      "mots_cles": [
+        "infrastructure strikes",
+        "undersea cables",
+        "GPS outage",
+        "anti-satellite weapons",
+        "space debris",
+        "ports and refineries",
+        "grain hubs",
+        "dams"
+      ],
+      "texte": "Soon, even more civilizational infrastructure will join in on this party of destruction. Undersea cables snap in molten trenches. Satellites [music] detonate in orbit, scattering space debris at 17,000 mph. GPS is gone. Air traffic control is gone. Banking is gone. As the next wave of nukes scream towards targets spread far beyond national capitals, they clear command centers and missile fields. These strikes [music] are expressly designed to choke the arteries of civilization. Ports, refineries, grain hubs, shipping canals, major dams, electric substations, railroad junctions, and satellite farms, all the things essential to sustain modern life have [music] been studied and integrated into contingency plans decades ago. Space will not be spared, either. Anti-satellite weapons and high-altitude detonations blind satellites and turn low Earth orbit into a lethal minefield. The result is absolute saturation. Firestorms from adjacent blasts merge into continent-spanning infernos. EMPs and blast damage [music] collapse grids simultaneously across hemispheres. The world's GPS and comms die in unison."
+    },
+    {
+      "id": 88,
+      "debut": 4431.32,
+      "fin": 4501.12,
+      "temps_estime": true,
+      "titre": "Day one: the environment turns feral and hundreds of millions die",
+      "resume": "Continent-spanning fires burn unchecked, chemical plants pour toxins into the air, smoke from hundreds of cities in India and China merges into a band visible from orbit and abandoned reactors begin to melt down. On day one fatalities reach hundreds of millions and rise into billions as infrastructure fails, and global civilization is reduced to terrified isolated pockets.",
+      "mots_cles": [
+        "day one",
+        "reactor meltdown",
+        "smoke from burning cities",
+        "hundreds of millions dead",
+        "chemical toxins",
+        "collapse of governance",
+        "soot and fallout",
+        "global civilization ends"
+      ],
+      "texte": "The environment itself is turning [music] feral. The fires have no borders now. Entire regions are burning unchecked. Their chemical plants and industries pouring [music] toxins into the air in billows of toxic smoke. In India and China, the smoke columns from hundreds of cities merge into an unbroken band visible from orbit. [music] Nuclear reactors abandoned or damaged by shock waves are beginning to melt down, adding their own isotopic signatures to the global [music] poison cocktail. The sun dims behind a layer of soot and fallout. Night falls prematurely over half of the planet. Day one. Immediate fatalities number in the hundreds of millions cascading [music] into billions as infrastructure failures, radiation, and secondary explosions bite. In a matter of a few hours, the world has been re-engineered into a planet [music] where organized governance is impossible. The launches stop only because there's nothing left to launch from, and because every last authorized finger has already done its dreadful duty. By the end of the first day, global civilization has been replaced by a scattering of terrified pockets, each convinced they are the last ones alive. Outside the world burns in silence except [music] for the crackle of fire and the soft hiss of fallout."
+    },
+    {
+      "id": 89,
+      "debut": 4501.12,
+      "fin": 4595.78,
+      "temps_estime": true,
+      "titre": "Day two: global fallout and radiation sickness in the bunkers",
+      "resume": "Within two days fallout circles the globe, reaching Scandinavia from American dust and raising radiation in Australia and South America. In bunkers radiation sickness arrives in waves with nausea, hair loss, internal bleeding and organ shutdown, water and crops are contaminated with fallout, starvation follows radiation and gunfire replaces conversation.",
+      "mots_cles": [
+        "day two",
+        "global fallout",
+        "Southern Hemisphere radiation",
+        "radiation sickness",
+        "contaminated water",
+        "cesium dust crops",
+        "bunker survival",
+        "starvation"
+      ],
+      "texte": "Day two. The planet is now wrapped in a shimmering invisible shroud. Jet streams drag the fine dust of annihilated cities across every longitude. The atmosphere itself has become a slow-moving tide of poison. Within two days, fallout patterns circle the globe. Scandinavia glows from American dust. Meanwhile, Australia and South America, located in what was long considered the safest hemispheres on Earth, register radiation spikes well higher than normal. Inside [music] bunkers and basements, radiation sickness arrives in waves. Families double over with nausea and fever. [music] Skin starts to blister, hair falls out in clumps. Within days, it'll only get worse. Internal bleeding, organ shutdown, infection. These people are on an island. They can't see a doctor, they can't get a blood transfusion. There's little way to ease the pain. In most cases, the suffering will be tended to by the dying. Some shelters resort to grim mercy by locking the sick inside rooms to conserve [music] air. Others simply go quiet, one by one, until only static remains on their emergency radios. Those who can still stand and move freely contemplate their options for long-term sustenance. They are mostly grim. Bottled water is traded like gold. Rivers and lakes now carry the glowing silt of vaporized infrastructure. Desalination plants are wrecked. Even rain barrels, once a symbol of self-reliance, fill with death from the sky. Food is no better. Crops are coated in cesium dust. Livestock carcasses rot on contaminated soil. Starvation follows radiation in lockstep. [music] Gunfire begins to replace conversation as every can of beans is measured against life itself. [music]"
+    },
+    {
+      "id": 90,
+      "debut": 4595.78,
+      "fin": 4636.65,
+      "temps_estime": true,
+      "titre": "Days four to seven: wildfires, animal die-offs and no nations left",
+      "resume": "By day four wildfires rage uncontrollably, large animals die within days while insects survive, oceans die with oil and radioactive runoff, coral bleaches and seabirds fall from the sky. By day seven the world is no longer divided into nations, only the living and the soon-to-be dead beneath endless fallout.",
+      "mots_cles": [
+        "day four",
+        "wildfires",
+        "animal extinction",
+        "ocean die-off",
+        "coral bleaching",
+        "day seven",
+        "fallout snow",
+        "insects survive"
+      ],
+      "texte": "Day four. Wildfires are now raging uncontrollably across the Earth. Deer, cattle, elephants, and any animal too big to hide and too slow to adapt [music] are all dead in days. Only insects thrive, their hardened DNA resisting the gamma rays. Across the coasts, oceans die quietly, slicked with oil and radioactive runoff. Coral reefs bleach white and fish wash ashore in vast drifts, [music] while seabirds fall from the sky mid-flight. Day seven. By the end of the first week, the world is no longer divided into nations or allies. There's only inside and outside, the living and the soon-to-be dead. And outside, the fallout falls endlessly, a snow that never melts."
+    },
+    {
+      "id": 91,
+      "debut": 4636.65,
+      "fin": 4712.04,
+      "temps_estime": true,
+      "titre": "Week one: soot in the stratosphere and the onset of nuclear winter",
+      "resume": "After a week roughly 12,000 detonations have thrown millions to billions of tons of soot into the stratosphere, more than the asteroid that ended the dinosaurs. Sunlight drops by 90%, temperate zones cool by 25 to 35 degrees Celsius, Kansas wheat fields freeze, photosynthesis nearly halts and humanity's great fire creates its own ice age.",
+      "mots_cles": [
+        "nuclear winter",
+        "stratospheric soot",
+        "sunlight drops 90%",
+        "global cooling",
+        "dinosaur asteroid comparison",
+        "photosynthesis halts",
+        "artificial night",
+        "ice age"
+      ],
+      "texte": "Week one. After the first week, the world becomes a planet-sized chimney. Roughly 12,000 nuclear detonations, or the combined yield of all human arsenals, have thrown [music] millions, if not billions of tons of soot and pulverized carbon into the stratosphere. That's more than the asteroid impact that ended the dinosaurs and higher than any cloud humans could reach or [music] wash away. The black veil circles the globe in days, turning the blue atmosphere into a dirty orange haze. Sunlight drops by 90% and Earth is gradually plunged into an artificial night that stretches across continents. Even at noon, the sky looks like dusk over a coal mine. Temperatures plummet, [music] and for good reason. Decades of scientific models have suggested an average global cooling of 25 to 35° C in the temperate zones, [music] and even steeper plunges near the poles during the onset of a nuclear winter. Summer wheat fields in Kansas [music] freeze solid. The Sahara sand hardens with frost. Rain turns to sleet, sleet to snow, and snow [music] to silence. The oceans cool from the top down, trapping heat beneath a layer of icy sludge. Photosynthesis all but halts. Mid-July in the hottest parts of the globe now feels [music] like mid-January everywhere else. Humanity's great fire has created its own ice age."
+    },
+    {
+      "id": 92,
+      "debut": 4712.04,
+      "fin": 4776.92,
+      "temps_estime": true,
+      "titre": "Weeks two and three: agricultural collapse and bunker starvation",
+      "resume": "In week two crops die from darkness, soil microbes suffocate in the cold and plankton die off so fisheries vanish, with greenhouses running out of power. In week three canned goods bulge and explode in the cold, disease follows hunger, some survivors turn to cannibalism, and psychological collapse mirrors the ecological one.",
+      "mots_cles": [
+        "agricultural collapse",
+        "plankton die-off",
+        "food web collapse",
+        "canned goods spoil",
+        "cannibalism",
+        "psychological collapse",
+        "week two",
+        "week three"
+      ],
+      "texte": "Week two. >> [music] >> The agricultural collapse is total. Crops die from darkness, not drought or heat. Leaves yellow, then [music] blacken. Soil microbes suffocate in the cold. Cows starve, then freeze where they fall. Fisheries vanish as plankton dies off, the food web collapsing from the bottom up. The few remaining pockets of greenery, those under grow lamps or greenhouse glass, will soon run out of power. Week three. Inside bunkers, the starvation crisis accelerates. [music] The old survival manuals never mentioned that canned goods expire faster when you can see your breath indoors. The cans bulge or even explode, compromising the seal. Disease follows hunger hand in hand, and infection [music] spreads through weakened bodies. Some choose cannibalism, others choose not to wake up. Either way, the psychological collapse is as total as the ecological one. Humans are wired for sunrise, for cycles, for meaning. Now their radios are static, and time itself feels [music] broken. Some survivors walk into the snow and never come back. Others hold on out of reflex, whispering prayers to a sky that no longer hears them."
+    },
+    {
+      "id": 93,
+      "debut": 4776.92,
+      "fin": 4805.83,
+      "temps_estime": true,
+      "titre": "Month one: acid rain, ozone loss and frozen oceans",
+      "resume": "After a month global temperatures have plummeted, oceans freeze at the edges, tropical storms become blizzards and rainfall is acidic enough to strip paint off a truck. The ozone layer is so mangled that a short daylight walk gives a third-degree sunburn, a climate equivalent of a nervous breakdown.",
+      "mots_cles": [
+        "month one",
+        "acid rain",
+        "ozone layer destroyed",
+        "sunburn",
+        "frozen oceans",
+        "blizzards",
+        "climate collapse",
+        "nuclear winter effects"
+      ],
+      "texte": "Month one. The world burns [music] in slow motion as time creeps by. Global temperatures have plummeted, a planetary crash nobody signed up for. Oceans remain frozen at the edges, [music] and tropical storms now become blizzards. Want to collect rainfall to drink? Too bad. When it falls, it's acidic enough to strip paint [music] off of a truck. The ozone layer is so mangled that a short walk in daylight now gives a third-degree sunburn. All of that is to say that Earth [music] is now suffering the climate equivalent of a nervous breakdown."
+    },
+    {
+      "id": 94,
+      "debut": 4805.83,
+      "fin": 4869.04,
+      "temps_estime": true,
+      "titre": "Month six: food extinct, disease and ocean collapse",
+      "resume": "By month six food becomes extinct and most remaining humans starve as soil is poisoned or frozen. Antarctic researchers and South Pacific islanders starve last, cholera, typhus, dysentery and cancer rage with immune systems wrecked, phytoplankton die and the atmosphere begins a slow self-suffocation heading toward a sixth mass extinction.",
+      "mots_cles": [
+        "month six",
+        "famine",
+        "cholera typhus dysentery",
+        "phytoplankton die",
+        "ocean acidification",
+        "sixth mass extinction",
+        "Antarctic researchers",
+        "immune system damage"
+      ],
+      "texte": "Month six, food eventually becomes extinct, [music] and with that, the majority of the remaining humans die of starvation. People can't farm, they can't grow crops, there's no sunlight. The soil is poisoned effectively or frozen hard to the extent [music] that the proud survivors of the first month are now fighting over cans of creamed corn that expired years ago. Even remote outposts, like Antarctic researchers and South Pacific Islanders, start to realize they have just won the [music] world's most depressing lottery. They get to starve last. With sanitation gone and immune systems [music] wrecked by radiation, cholera, typhus, dysentery, and cancer rage. Infections become terminal. Paper cuts are basically obituaries in progress. The seas continue to [music] acidify as nuclear winter sets in. Phytoplankton, the oceans' oxygen factories, die en masse. Without them, the atmosphere loses balance. The planet [music] begins its long, slow self-suffocation. Forests will soon collapse, pollinators will vanish, and humanity's last major contribution to the biosphere [music] is a sixth mass extinction. This one proudly homegrown."
+    },
+    {
+      "id": 95,
+      "debut": 4869.04,
+      "fin": 4927.97,
+      "temps_estime": true,
+      "titre": "Year one: fewer than 50 million humans and a slow clearing",
+      "resume": "A year in fewer than 50 million humans remain, mostly sick and mutated, living in shelters or on remote islands. The Southern Hemisphere including Patagonia, Tasmania and New Zealand fares slightly better, the soot slowly settles and sunlight returns to half strength, but the ozone layer stays shredded and crops may grow again only in 5 to 10 years.",
+      "mots_cles": [
+        "year one",
+        "50 million survivors",
+        "Southern Hemisphere",
+        "Patagonia Tasmania New Zealand",
+        "sunlight returns",
+        "ozone layer",
+        "remote islands",
+        "recovery timeline"
+      ],
+      "texte": "Year one, a year in and the nuclear strikes are ancient history. Fewer than 50 million humans remain, most sick, mutated, [music] and spiritually bankrupt. Underground shelters creak under their own recycled air. Remote islands host [music] small tribes that live off fish who glow at night, either divine providence or radiation, no one's sure anymore. The Southern [music] Hemisphere fares slightly better. Patagonia, Tasmania, New Zealand are all basically still breathing. [music] So, better is measured in inches, not miles. Slowly, however, the atmosphere begins to clear [music] marginally. The soot settles and sunlight begins to limp back to half strength, leaving the first patches of blue sky to reappear like some forbidden miracle. [music] It's a welcome sight to the remnant of humanity. Temperatures inch upward, but the ozone layer is so shredded [music] that exposure to daylight remains lethal within minutes. Crops might grow again in 5 or 10 years, assuming anyone who's left remembers how farming once worked. The air smells of rust and iodine. >> [music] >>"
+    },
+    {
+      "id": 96,
+      "debut": 4927.97,
+      "fin": 4969.31,
+      "temps_estime": true,
+      "titre": "The aftermath: Stone Age and a chain reaction of destruction",
+      "resume": "The earth is technically recovering like a corpse cooling nicely: infrastructure is irreparably damaged, the species count is halved in a year, the human genome is bottlenecked and the Stone Age is back. 12,500 warheads erased supply chains, ecosystems and people, as fires breed soot, soot breeds ice, ice breeds famine and civilization dies in a violent chain reaction.",
+      "mots_cles": [
+        "species count halved",
+        "genome bottleneck",
+        "Stone Age",
+        "12,500 warheads",
+        "chain reaction",
+        "soot and famine",
+        "irreparable damage",
+        "end of civilization"
+      ],
+      "texte": "The earth is technically recovering, but like saying a corpse is cooling nicely. Everything once viewed as permanent is gone. The global infrastructure is irreparably damaged. [music] The species count has been halved in the span of a single year. The human genome [music] is bottlenecked to a handful of fragile survivors. And the Stone Age, it's back. 12,500 warheads were launched, [music] a number so large it feels abstract. Each bomb erased away far more than cities. Supply chains, ecosystems, [music] and people that once made the world work went with them. The destruction multiplies exponentially with each blast. [music] Fires breed soot. Soot breeds ice. Ice breeds famine. And civilization dies in a violent chain reaction."
+    },
+    {
+      "id": 97,
+      "debut": 4969.31,
+      "fin": 5016.96,
+      "temps_estime": true,
+      "titre": "What if it started with just one? America's regions in a nuclear war",
+      "resume": "After the all-out scenario the narrator asks what happens if war started with one nuke and says America is not untouchable. The US spends more on nuclear maintenance than Russia did on its whole military before invading Ukraine, Russia and China aim nukes at the US, and the country divides into five regions, the Pacific Coast, Great Plains, Midwest, South and Northeastern Seaboard, which are the most valuable and vulnerable targets.",
+      "mots_cles": [
+        "nuclear war United States",
+        "five US regions",
+        "Pacific Coast Great Plains Midwest",
+        "nuclear maintenance spending",
+        "Russia China nukes",
+        "blast zone",
+        "survival by region",
+        "nuclear targets"
+      ],
+      "texte": "You've seen what [music] happens when every nuke on earth goes off. But what if it started with just one? Think America is untouchable in a nuclear war? You might want to sit down because you're already in the blast zone. The US spends more on nuclear maintenance than Russia did on its entire military before invading Ukraine, giving Americans a false sense of security. But as global tensions rise, the truth is grim. Russia and China have nukes aimed at various parts of the US. So, how long would you survive depending on where you live? The United States can be broken down into five key regions: the Pacific [music] Coast, the Great Plains, the Midwest, the South, and the Northeastern Seaboard. These aren't just geographical zones, they're the backbone of America's military, economic, and political power. And in the event of a nuclear war, they become the most valuable and the most vulnerable targets."
+    },
+    {
+      "id": 98,
+      "debut": 5016.96,
+      "fin": 5030.68,
+      "temps_estime": true,
+      "titre": "Two targeting strategies: counterforce and countervalue",
+      "resume": "Nuclear targeting strategy comes in two main approaches, counterforce and countervalue, which explains why Russia, the US and soon China field so many nuclear weapons.",
+      "mots_cles": [
+        "nuclear targeting strategy",
+        "counterforce",
+        "countervalue",
+        "nuclear arsenal size",
+        "Russia US China",
+        "targeting doctrine"
+      ],
+      "texte": "And that is where nuclear targeting strategy comes in. There [music] are two main approaches to this: counterforce and countervalue. If you've ever wondered why Russia in the US and soon China field an insane number of nuclear weapons, you're about to find out."
+    },
+    {
+      "id": 99,
+      "debut": 5030.68,
+      "fin": 5083.71,
+      "temps_estime": true,
+      "titre": "Counterforce: silos, bases and saturation strikes",
+      "resume": "Counterforce targeting aims to destroy the enemy's ability to fight back by hitting missile silos, air bases, submarine pens and mobile launchers. Silos are spaced at least 1.5 miles apart so a single nuke cannot take out more than one, forcing saturation strikes, and America's heartland missile fields act as missile sponges that soak up hundreds of Russian warheads.",
+      "mots_cles": [
+        "counterforce",
+        "missile silos",
+        "mobile launchers",
+        "saturation strike",
+        "missile sponge",
+        "silo spacing",
+        "air bases",
+        "submarine pens"
+      ],
+      "texte": "Counterforce targeting isn't about hitting cities, >> [music] >> it's about taking out the enemy's ability to fight back. That means going straight for the nuclear infrastructure. >> [music] >> Things like missile silos, air bases, submarine pens, and mobile launchers. For example, [music] the United States has Russia's fixed nuclear silos locked in as targets, but it also [music] targets Russia's mobile missile systems. And that is a lot of targets. But it gets worse. Both the US and Russia don't just want to destroy enemy silos, >> [music] >> they want to annihilate them all and fast. And that's why missile silos are deliberately spaced far apart, typically at least 1 and 1/2 miles. [music] A single nuke can't take out more than one, forcing the enemy to launch multiple warheads in a saturation strike just to be sure. America's vast missile fields spanning across the heartland have been called missile sponges [music] for a reason. Their job is to soak up hundreds of Russian nukes and this [music] spares other targets."
+    },
+    {
+      "id": 100,
+      "debut": 5083.71,
+      "fin": 5133.23,
+      "temps_estime": true,
+      "titre": "Counterforce also targets command, control and conventional forces",
+      "resume": "Counterforce also includes command and control infrastructure, early warning radar, strategic bomber bases and submarine home ports, and in an all-out war conventional concentrations such as troop formations, air bases, naval assets and bases like Fort Benning. US forces in Europe deter Russian aggression but put NATO nations at risk of nuclear attack.",
+      "mots_cles": [
+        "command and control",
+        "early warning radar",
+        "bomber bases",
+        "conventional forces",
+        "Fort Benning",
+        "NATO",
+        "US troops Europe",
+        "military installations"
+      ],
+      "texte": "Counterforce targeting though also includes command and control infrastructure that [music] keeps the nation's arsenal connected and responsive. And also targets early warning radar, strategic bomber bases, and home ports for America's and Russia's nuclear submarine fleets. >> [music] >> In case of all-out doomsday, counterforce targeting would also include concentrations of conventional power. [music] These are military installations that don't have nuclear weapons, but could be used in an ensuing conventional war following the nuclear strikes. Think troop formations, air bases, and naval assets. America's military presence in Europe, for example, is a deterrent against Russian aggression against NATO, but it also puts NATO nations at risk of a nuclear attack. Home bases though here in the mainland are also under nuclear threats, especially important facilities such as Fort Benning in Georgia, a crucial base for various US Army specialties to train at."
+    },
+    {
+      "id": 101,
+      "debut": 5133.23,
+      "fin": 5173.54,
+      "temps_estime": true,
+      "titre": "Countervalue: cities, ports, data centers and farmland",
+      "resume": "Countervalue targeting reduces the enemy's ability to recover by hitting big cities, industrial hubs such as the Los Angeles and Long Beach ports, AI data centers and farmland, which may be hit last. Poisoning these targets is meant to cripple the US economy for decades so it cannot fight another war.",
+      "mots_cles": [
+        "countervalue",
+        "industrial hubs",
+        "Los Angeles Long Beach ports",
+        "AI data centers",
+        "farmland",
+        "economic collapse",
+        "recovery",
+        "city targets"
+      ],
+      "texte": "Countervalue targeting are nuclear attacks meant to reduce the enemy's ability to recover and pose a future threat. You're likely familiar with the fact that if you live in a big city in the US, you're under threat of a a attack. But it's not just cities that make up countervalue targets. In fact, in some types of nuclear war, these would be the last to be hit. Major industrial hubs such as the Los Angeles [music] and Long Beach ports, AI data centers, and even farmland are all countervalue targets. The destruction [music] of these targets and the poisoning of the territory they inhabit is meant to deliver a crippling blow to the US economy. That ensures that no matter what happens in [music] this war, the US will take decades, if not longer, before it's capable of fighting the next."
+    },
+    {
+      "id": 102,
+      "debut": 5173.54,
+      "fin": 5291.99,
+      "temps_estime": true,
+      "titre": "Soviet and US Cold War doctrine: counterforce, tactical weapons and limited war",
+      "resume": "Soviet doctrine saw nuclear weapons as tools to win the next conflict, focusing on counterforce and keeping weapons in reserve, with countervalue reserved for limited exchanges or to force NATO into capitulation. The Soviets expected tactical nuclear use in the opening days, while the US planned tactical weapons only as a last resort and trained special forces to destroy bridges and tunnels in the Eastern Bloc.",
+      "mots_cles": [
+        "Soviet nuclear doctrine",
+        "counterforce",
+        "tactical nuclear weapons",
+        "NATO",
+        "West Germany",
+        "limited nuclear war",
+        "Spetsnaz",
+        "Cold War"
+      ],
+      "texte": "Modern Russian nuclear doctrine has changed somewhat, but it still largely resembles the Soviet Union's. During the Cold War, the Soviet Union's nuclear doctrine differed dramatically from the US's. The Soviets [music] didn't see nuclear weapons as tools of deterrence, but rather as weapons meant to be used in the next great conflict. [music] That meant, unlike America, the Soviet Union focused heavily on counterforce targeting, even keeping weapons in reserve for further military strikes, rather than hitting US cities. The Soviets believed that any conflict with NATO would inevitably become nuclear, largely because they understood that conventionally they significantly outmuscled NATO. The US all but publicly declared that it would use nuclear weapons in the opening stages of an invasion of West Germany, reinforcing the view that Soviet nukes would be used as war-winning tools. Countervalue targeting, meanwhile, was reserved for niche or escalatory scenarios. While the US was fully prepared to nuke every major Soviet city at the start of a nuclear exchange, the Soviets saw their countervalue nuclear weapons as being used in limited nuclear war. A low-scale exchange between the East and West, incinerating two cities in retaliation for the enemy striking one. It was hoped that escalation would allow both sides to achieve political objectives without breaking into a full doomsday war. However, in case a conventional war did not go the Soviet Union's way, they also saw countervalue targeting as a means to force Western forces into capitulation. Hurling nuclear weapons at cities in order to crush the civilian population's will to continue fighting. Even the use of smaller tactical-scale nuclear weapons are seen as a natural part of the opening days of a conflict. Short-range weapons would be launched by missile aircraft or even Spetsnaz forces on key NATO concentrations. The United [music] States, meanwhile, was also committed to using tactical nuclear weapons, but only as a last resort if conventional [music] resistance failed. US special forces were likewise trained to infiltrate into the Eastern [music] Bloc and use tactical weapons to detonate key road and rail infrastructure, bridges, and tunnels."
+    },
+    {
+      "id": 103,
+      "debut": 5291.99,
+      "fin": 5337.67,
+      "temps_estime": false,
+      "titre": "Modern Russian doctrine: escalate to de-escalate",
+      "resume": "Modern Russian doctrine has a smaller but more flexible and capable arsenal and adopts escalate to de-escalate: using limited nuclear strikes to freeze a conventional war Russia cannot win. With fifth-generation NATO aircraft and aging conventional forces, Moscow puts more faith in its warheads and might go nuclear first.",
+      "mots_cles": [
+        "escalate to de-escalate",
+        "Russian nuclear doctrine",
+        "limited nuclear strike",
+        "nuclear first use",
+        "NATO aircraft",
+        "modernization",
+        "conventional weakness",
+        "deterrence"
+      ],
+      "texte": "Where Russia's modern nuclear doctrine diverges [music] from the old Soviet mindset is with the modernization of nuclear weapons. Smaller arsenal, but greater flexibility and capability. Given Russia's [music] ever-weakening geopolitical position, the nation has also adopted an escalate to de-escalate strategy. It's the idea of using limited nuclear strikes to freeze a conventional [music] war that Russia knows it can't win by traditional means. Rather than waiting for the nukes to fly on both sides, Russia might go nuclear first, not to win outright, but to force the enemy into backing off. With the ever-expanding fleets of fifth-generation [music] aircraft amongst NATO forces, it's easy to see why Moscow puts less trust in its aging conventional forces and [music] more faith in its warheads. But if the gloves come off, it's game over for everyone."
+    },
+    {
+      "id": 104,
+      "debut": 5337.67,
+      "fin": 5409.36,
+      "temps_estime": true,
+      "titre": "Pacific Coast: California tech hubs, ports and Seattle",
+      "resume": "The Pacific region from Mexico to Canada is vital militarily and economically. The Bay Area is a prime target for its tech companies, Los Angeles for its population, Hollywood and ports handling up to a third of US imports, San Diego for its naval base, and Oregon and Washington for ports, Seattle's tech and naval infrastructure, oil refineries and the Bonneville Dam.",
+      "mots_cles": [
+        "Pacific Coast",
+        "Bay Area tech",
+        "Los Angeles ports",
+        "San Diego naval base",
+        "Seattle",
+        "Bonneville Dam",
+        "West Coast targets",
+        "US imports"
+      ],
+      "texte": "First up is the Pacific, [music] stretching from Mexico all the way up to the Canadian border. America's western seaboard is of critical military and economic importance, which is why it'll face severe nuclear wrath in the case of an all-out war. In California, you have the all-important cultural and economic centers of Los Angeles, [music] San Diego, and San Francisco. The Bay Area is a prime target due to its high concentration of tech companies, which have become a strategic a target in the modern age >> [music] >> as traditional industry. Los Angeles is important for its population, its cultural significance due to Hollywood, [music] and the Los Angeles and Long Beach ports, which account for as much as a third of all US imports depending on [music] the year. San Diego, meanwhile, is both culturally and militarily significant due to the largest naval base on the West [music] Coast being located there. Oregon and Washington have less nuclear targets, but are still under the threat of nuclear attack due to large port facilities, >> [music] >> which would be crucial in shutting down US trade. Seattle especially is a high priority target due to being another major tech hub of US [music] industry, as well as the location of specialized naval warfare infrastructure. The Seattle and Tacoma area also has major oil refineries, while the Bonneville Dam on the Columbia River provides electricity across the region."
+    },
+    {
+      "id": 105,
+      "debut": 5409.36,
+      "fin": 5436.58,
+      "temps_estime": true,
+      "titre": "West Coast military bases: Edwards, China Lake and Coronado",
+      "resume": "The West Coast is full of naval infrastructure including submarine and carrier bases. Inland are Edwards Air Force Base for experimental aircraft testing and aerospace, China Lake Naval Air Weapons Station for cutting-edge Navy research, and Coronado with much of Pacific naval aviation and several SEAL teams.",
+      "mots_cles": [
+        "Edwards Air Force Base",
+        "China Lake",
+        "Coronado",
+        "SEAL teams",
+        "naval aviation",
+        "carrier bases",
+        "submarine bases",
+        "West Coast military"
+      ],
+      "texte": "As far as military targets, [music] the West Coast is full of critical naval infrastructure such as submarine and aircraft carrier bases. Inland though is Edwards Air Force Base, renowned for being a hub for advanced experimental aircraft flight testing [music] and a major hub for US aerospace operations. China Lake Naval Air Weapons Station meanwhile carries out research and development [music] for cutting-edge Navy systems. Coronado hosts much of the West Coast's naval aviation [music] and it's home to several SEAL teams."
+    },
+    {
+      "id": 106,
+      "debut": 5436.58,
+      "fin": 5492.04,
+      "temps_estime": true,
+      "titre": "Nationwide consequences of losing Pacific ports and bases",
+      "resume": "Even people far from the coast would suffer if Pacific ports were destroyed: overseas supply chains would choke and prices of food, fuel and medicine would soar, and losing West Coast bases would cripple US power projection in the Pacific. Strikes on Southern California farmland would remove fruit and vegetable supply, and California grows 45.8 million oranges against Florida's 20.5 million.",
+      "mots_cles": [
+        "supply chain disruption",
+        "price increases",
+        "Pacific naval power",
+        "California farmland",
+        "oranges California Florida",
+        "US imports",
+        "military power projection",
+        "food shortage"
+      ],
+      "texte": "You may live nowhere near the West Coast, but with so many critical targets, you're going to feel the devastation if America's Pacific ports are permanently destroyed. Overseas [music] supply chains would be choked up and prices would skyrocket on everything from food and fuel to medications. And even if you're on the East Coast, odds are that the car you drive or the clothes you wear made its way to you via the West Coast. From a military standpoint, losing West Coast air bases and naval stations would be a crippling blow to US military power. If America's Pacific naval air bases are destroyed, its ability to project power into the Pacific is crippled. Countervalue attacks against the rich farmlands of Southern California means that parts of the fruits and vegetables supply chain will disappear forever, causing scarcity and prices to soar. If you like oranges, bad news. California produces more than double the amount of second place Florida, 45.8 million oranges versus Florida's 20 and a half million."
+    },
+    {
+      "id": 107,
+      "debut": 5492.04,
+      "fin": 5564.7,
+      "temps_estime": true,
+      "titre": "Great Plains missile fields as missile sponges",
+      "resume": "The Great Plains are expendable by design: the missile fields exist to soak up as many enemy warheads as possible, protecting other targets and keeping the US deterrent alive long enough to retaliate. Each field in Montana, Wyoming, Nebraska, North Dakota and Colorado could take up to 100 nukes, making the Plains the most irradiated territory and sending fallout east across the Midwest and East Coast.",
+      "mots_cles": [
+        "Great Plains",
+        "missile fields",
+        "missile sponge",
+        "100 nukes per field",
+        "Montana Wyoming Nebraska",
+        "fallout eastward",
+        "irradiated territory",
+        "silo dispersion"
+      ],
+      "texte": "America's Great Plains states are known for their vast open expanses. If you've ever been, it can feel like the land goes on forever. But even as big as the Great Plains are, they're going to become a nuclear nightmare in the case of an all-out war. [music] First up, you've got the most obvious targets, America's vast swaths of nuclear missile fields. They weren't built there by accident. The US took a hard look at all the available property, [music] and they decided that the Great Plains were expendable. America's missile fields aren't really meant to survive a full-scale attack. They just soak up as many enemy warheads as possible. By forcing an adversary like Russia to burn through hundreds of nukes just to take them out, they protect more critical targets and keep the US nuclear deterrent in play, at least long enough to retaliate. So, that's bad news for Montana, Wyoming, Nebraska, North Dakota, and Colorado. Due to dispersion of silos, each field could see as many as 100 nukes to ensure their full destruction. This would very quickly make America's Great Plains the most irradiated territory in the entire country. With [music] prodigious winds, all that radiation would be blown eastward, causing massive toxic clouds of fallout to rain across the Midwest and even the East Coast. Anyone in the vicinity of the following locations will suffer the worst of it."
+    },
+    {
+      "id": 108,
+      "debut": 5564.7,
+      "fin": 5664.58,
+      "temps_estime": true,
+      "titre": "Malmstrom, F.E. Warren, Minot and Ellsworth missile bases",
+      "resume": "The Malmstrom missile field in northern Montana was a primary Soviet target, F.E. Warren's field spans Wyoming, Colorado and Nebraska with hundreds of thousands of people now living nearby, and Minot in North Dakota hosts both missiles and a B-52 bomber wing, two legs of the nuclear triad. In South Dakota, Ellsworth hosts B-1B Lancers and will receive the nuclear-capable B-21 Raider.",
+      "mots_cles": [
+        "Malmstrom Air Force Base",
+        "F.E. Warren",
+        "Minot Air Force Base",
+        "Ellsworth Air Force Base",
+        "B-52",
+        "B-21 Raider",
+        "nuclear triad",
+        "missile field"
+      ],
+      "texte": "The Malmstrom Air Force Base missile field stretches across northern Montana. This was a primary target of Soviet nuclear forces who counted on an attack over the North Pole to eradicate America's counterstrike abilities. The missile fields at Malmstrom stretch east and west of the base, even into the Lewis and Clark National Forest. Dozens of communities find themselves nestled between the silos containing the most powerful and dangerous weapons known to man. F.E. Warren Air Force [music] Base's missile field stretches for hundreds of square miles across Wyoming and into northern Colorado and western Nebraska. As the Soviet arsenal expanded, the US knew it needed to reinforce its ground-based deterrents. But even more importantly, force the Soviets to target more missiles into relatively [music] empty terrain rather than major military or civilian targets. Unfortunately, the area has seen significant expansion in modern times, putting hundreds [music] of thousands of people at risk from what used to be America's nuclear sponge. Minot Air Force [music] Base hosts both a large missile field that stretches across North Dakota, and it's home to a nuclear bomber wing made up of B-52 aircraft. This is a double [music] whammy for the local area, and it makes it an even higher priority target due to the presence of two of the three legs of the nuclear triad. It was from Minot and it could be again in the future where America's nuclear retaliation begins though with flights [music] directly over the North Pole and into Russian territory. Modern standoff nuclear cruise missiles allow [music] even non-stealthy B-52s to get close enough to rain destruction down on a modern Russia. South Dakota isn't any safer given that it hosts Ellsworth Air Force Base, currently home to nuclear capable B-1B [music] Lancers. The base is slated to receive the new B-21 Raider with a nuclear mission."
+    },
+    {
+      "id": 109,
+      "debut": 5664.58,
+      "fin": 5691.81,
+      "temps_estime": true,
+      "titre": "Great Plains farmland and the breadbasket of the world",
+      "resume": "The Great Plains' cattle and wheat make the US a leading exporter and the breadbasket of the world. Ground-burst nuclear strikes on farmland would spread trillions of tons of contaminated soil and turn some of the most productive farmland into wasteland, destroying the economy.",
+      "mots_cles": [
+        "breadbasket of the world",
+        "farmland",
+        "wheat and cattle",
+        "ground burst",
+        "contaminated soil",
+        "agricultural exports",
+        "wasteland",
+        "economic destruction"
+      ],
+      "texte": "But the Great Plains also host a lot of important agricultural land. From cattle to wheat, the Great Plains states help make America one of the largest exporters of both, leading some to call the US the breadbasket of the world. To destroy America's economy and dissolve its government, nuclear strikes against farmland using ground burst weapons would spread trillions of tons of contaminated soil all across the landscape. Some of the most productive farmland in the world would turn into a worthless wasteland."
+    },
+    {
+      "id": 110,
+      "debut": 5691.81,
+      "fin": 5765.8,
+      "temps_estime": true,
+      "titre": "Omaha, Denver and Kansas City, and fallout reaching the East",
+      "resume": "Despite low population, Omaha with Offutt and US Strategic Command, Denver near NORAD in Cheyenne Mountain, and Kansas City as a large metro are guaranteed targets, with strong winds worsening damage. Prevailing winds would lift radioactive debris and rain it across the eastern US and Canada, the neighbor of the biggest nuclear target in the world, before attention turns east to the Midwest.",
+      "mots_cles": [
+        "Omaha",
+        "Offutt Air Force Base",
+        "Strategic Command",
+        "Denver NORAD",
+        "Cheyenne Mountain",
+        "Kansas City",
+        "fallout winds",
+        "Canada"
+      ],
+      "texte": "Key civilian targets in the region are rarer than other parts of the country due to the low population, but there [music] are still at least three cities guaranteed to experience nuclear annihilation. Omaha, Nebraska was once of highest priority targeting during the Cold War due to being home to the Strategic Air Command headquarters, America's airborne leg of the nuclear triad. Today, Offutt Air Force Base just south of Omaha, headquarters of the renamed US Strategic Command, remains a high priority target to degrade US nuclear capabilities. >> [music] >> Denver in Colorado finds itself close to NORAD, buried deep in Cheyenne Mountain. This puts it in danger in the case of a nuclear attack, but its large size and value as a blow to US morale dooms it into the nuclear targeting list. Kansas City meanwhile has little strategic value, but as a large metro area, it's of moderate counter value to a nuclear enemy. The constant and high-speed winds in the area also double down on the destruction. If you think America's nuclear sponge is going to keep you safe, think again. Prevailing winds would easily lift enough radioactive debris high enough into the atmosphere that it would rain down all across the eastern US. This is bad news for the Canadians as well, who happen to live next door to the biggest nuclear target in the world. Moving [music] east into"
     }
   ]
 }

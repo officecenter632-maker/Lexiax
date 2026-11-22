@@ -6,6 +6,8 @@ Vidéo : « World War 3 Protocol. Why Global Nuclear Annihilation Is Inevitable.
 - Départ : début de la vidéo (segments.json absent).
 - Tranche 1 : lignes 1 à 985 sur 5891, 0 à 1999,39 s (33,3 min), 36 segments (id 1 à 36). Fin d'idée choisie à la ligne 985 (« ...and it is still not enough. »), d'où une tranche un peu longue.
 - Tranche 2 : lignes 986 à 1865 sur 5891, 1999,39 à 3712,97 s (28,6 min), 36 segments (id 37 à 72). Contenu : fin du scénario chinois et hiver nucléaire, puis la partie « ce que Hollywood se trompe sur l'apocalypse nucléaire » (mythes : frigo en plomb, Dead Hand, fallout, mutants, EMP, Mad Max), puis les effets d'une explosion de 100 kt sur le corps humain par distance (ground zero, 1000 ft, 0,5 mile, 1 mile, 5 miles, effets à long terme). Fin d'idée à la ligne 1865 (« ...far beyond normal aging. »). Prochaine étape : reprendre à la ligne 1866 (« Silo doors groan open », début du scénario « Zero hour » de guerre nucléaire mondiale).
+- Reprise à la ligne 1866 (par un nouvel agent, après arrêt du précédent à la ligne 1865 sur 5891). Partie existante vérifiée avec le script de l'étape 5 : OK (72 segments).
+- Tranche 3 : lignes 1866 à 2880 sur 5891, 3712,97 à 5765,80 s (34,2 min), 38 segments (id 73 à 110). Contenu : scénario « Zero hour » minute par minute (T+1 min à T+3 h), jours, semaines et mois de l'hiver nucléaire, année 1, puis « et si tout commençait avec une seule bombe » : stratégies counterforce et countervalue, doctrines soviétique et russe, cibles de la côte Pacifique et des Grandes Plaines. Fin placée à la ligne 2880 (fin d'idée sur Omaha, Denver, Kansas City) : les mots « Moving east into » qui terminent la ligne ouvrent le Midwest et restent donc à la fin de cette tranche. Prochaine étape : reprendre à la ligne 2881 (« the Midwest, we find less targets of military value »).
 
 ## Décisions prises
 - Segmentation par idées : une idée = un point (étape du scénario, incident historique, système d'armes, étape du scénario chinois). Les passages de transition de quelques secondes sont rattachés à l'idée voisine.
@@ -18,3 +20,8 @@ Vidéo : « World War 3 Protocol. Why Global Nuclear Annihilation Is Inevitable.
 ## Remarques sur le speech (tranche 1)
 - Le narrateur alterne un scénario minute par minute (compte à rebours du président américain) et des digressions historiques (Carter, Reagan, 1995, 1979, Dead Hand), puis un scénario de guerre nucléaire autour de Taïwan avec la Chine (limité, puis total).
 - Transcription automatique : quelques fautes possibles (« Longpo », « Yalong Po », « Cheget »), conservées telles quelles.
+
+## Remarques (reprise, tranche 3)
+- Outils : /home/claude/add_tranche.py (ajout d'une tranche à partir de débuts d'idées repérés par phrase et numéro de ligne), show.py (affichage compact), verif_ww3.py (étape 5). Même convention de temps que l'agent précédent : début d'idée au début d'une ligne = debut de la ligne, sinon estimation au prorata des mots ; le premier segment d'une tranche commence à la fin de la dernière ligne de la tranche précédente (temps_estime = true).
+- Style conservé : titres en anglais courts, résumés de 2 à 3 phrases, 8 mots-clés (6 pour le segment 98, très court). Marqueurs « [music] » et « >> » conservés dans les textes.
+- Segment le plus long de la tranche : 118,4 s (id 102, doctrines soviétique et américaine de la guerre froide) ; le plus court : 13,7 s (id 98, intro counterforce/countervalue).
