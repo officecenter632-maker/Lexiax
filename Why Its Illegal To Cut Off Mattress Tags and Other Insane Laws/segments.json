@@ -4,12 +4,12 @@
   "titre_video": "Why Its Illegal To Cut Off Mattress Tags and Other Insane Laws",
   "duree_s": 8096.08,
   "avancement": {
-    "lignes_traitees": 2854,
-    "fin_traitee_s": 5484.96,
+    "lignes_traitees": 3803,
+    "fin_traitee_s": 7279.48,
     "nb_lignes_total": 4213,
     "complet": false
   },
-  "nb_segments": 137,
+  "nb_segments": 194,
   "segments": [
     {
       "id": 1,
@@ -2575,6 +2575,1082 @@
         "driving"
       ],
       "texte": "But this next car non-crime might give some people [music] an eyeful. Number four, driving naked. Your car is your property, and that means you can do whatever you want in it within [music] reason. And much like you can get naked in your own home, you can get naked in your car. Even though sitting on those leather seats naked won't be a comfortable experience. But there's one [music] problem with this new driving adventure, just make sure to have your clothing back on when you get in or out of the car. Because while you can be naked inside your car, as soon as you're outside it, that's public indecency, and it's right off to jail in some less-than-flattering prison clothes. [music]"
+    },
+    {
+      "id": 138,
+      "debut": 5484.96,
+      "fin": 5520.52,
+      "temps_estime": true,
+      "titre": "Number 3: radar detectors",
+      "resume": "Laser detectors alert drivers when a speed trap is nearby and are legal in all states except West Virginia and Washington, D.C., which ban them for security reasons. Laser jammers, which stop radar from reading a car's speed, are more controversial but still legal in 40 states.",
+      "mots_cles": [
+        "radar detectors",
+        "laser detectors",
+        "speed trap",
+        "speeding ticket",
+        "laser jammers",
+        "West Virginia",
+        "Washington D.C.",
+        "legal in 40 states"
+      ],
+      "texte": "And while driving, you might want to save yourself some money. Number three, using radar detectors. We've probably all been there. You're driving through a sleepy little town, you inch [music] 1 mile over the speed limit, and then suddenly a cop car is right behind you writing you a hefty ticket. >> [music] >> The good news is there's a way to avoid it with laser detectors that will alert you when a speed trap is lurking. While cops likely don't like these devices much, they're legal in all states besides West Virginia and Washington, D.C. for security reasons. Laser jammers, which prevent radars [music] from picking up your speed, are more controversial but still legal in 40 states. The next one is one of the coolest things you can do, but it's not [music] illegal."
+    },
+    {
+      "id": 139,
+      "debut": 5520.52,
+      "fin": 5555.4,
+      "temps_estime": true,
+      "titre": "Number 2: misrepresenting yourself online",
+      "resume": "Catfishing, pretending to be someone else online, has become so common it has its own word and a TV series, Catfish. It is only illegal when done to defraud someone of money; otherwise lying about your identity online is not a crime.",
+      "mots_cles": [
+        "catfishing",
+        "online dating",
+        "fake identity",
+        "misrepresenting yourself online",
+        "Catfish TV show",
+        "fraud",
+        "legal"
+      ],
+      "texte": "Number two, misrepresenting yourself online. As relationships move to the online world, this has become so common there's even a word for it, catfishing. People get involved with someone online with only [music] a picture and their words to go off and then they turn out to be someone completely different. There's even a series where an investigative team finds out the truth about these online personalities actual identities called, you guessed it, Catfish. But as cruel as it can be to lie to someone, it's only illegal if done to defraud someone out of money. Otherwise, let the smitten online [music] beware. But no non-crime shocks people as much as this next one."
+    },
+    {
+      "id": 140,
+      "debut": 5555.4,
+      "fin": 5585.71,
+      "temps_estime": true,
+      "titre": "Number 1: tearing off the mattress tag",
+      "resume": "The 'do not remove under penalty of law' mattress tag is meant for the seller, not the buyer, so the mattress's origin can be traced for recalls or quality issues. Once purchased, you can cut it off; the only consequence is that you can no longer legally resell the mattress.",
+      "mots_cles": [
+        "mattress tag",
+        "do not remove under penalty of law",
+        "recalls",
+        "resell mattress",
+        "seller",
+        "myth",
+        "legal"
+      ],
+      "texte": "Number one, tearing off [music] the mattress tag. It says so right there, do not tear the tag off under penalty of law. Surely if you touch it the FBI's [music] coming for you, right? Well, not quite. That tag is accurate, but it's not for [music] you. It's for the seller and only the seller so its origin can be tracked for any potential recalls or quality issues. But once you purchase it, feel free to cut it off. The only consequence is that you can't resell [music] that mattress legally. But there isn't much of a market for used mattresses anyway. This is probably a big relief [music] to scissor-wielding kids everywhere."
+    },
+    {
+      "id": 141,
+      "debut": 5585.71,
+      "fin": 5601.28,
+      "temps_estime": true,
+      "titre": "Transition: 10 most illegal things ever invented",
+      "resume": "States and countries each have their own laws, but some items are banned across the whole United States or even the whole world. The video introduces a countdown of the 10 most illegal things ever invented.",
+      "mots_cles": [
+        "banned items",
+        "illegal inventions",
+        "countdown",
+        "top 10",
+        "banned in the whole world",
+        "United States",
+        "laws by state"
+      ],
+      "texte": "States and countries all have their own laws and many things are banned in one place or another, but some items have been banned in the whole United States or even in the whole world. Here are 10 of the most illegal things ever invented. [music]"
+    },
+    {
+      "id": 142,
+      "debut": 5601.28,
+      "fin": 5663.54,
+      "temps_estime": true,
+      "titre": "Number 10: body armor",
+      "resume": "Civilians owning bulletproof vests can face serious jail time in the US even though soldiers and police use them. The government assumes a civilian wanting body armor expects to be shot at while committing a crime; federal law bans felons from possessing it and lengthens sentences for crimes committed while wearing it, with similar state laws.",
+      "mots_cles": [
+        "body armor",
+        "bulletproof vest",
+        "Kevlar",
+        "felon",
+        "federal law",
+        "longer sentence",
+        "civilians",
+        "illegal to own"
+      ],
+      "texte": "Number 10, body armor. Wait, body armor? Why is the government banning an item designed to protect [music] you? After all, soldiers wear it all the time and the protective gear has often saved them from a fatal injury in combat. [music] And Kevlar bulletproof vests have become standard issue for many police officers making it possible to survive a bullet to the chest [music] with only some bruised ribs. But for civilians, being in possession of a bulletproof vest or other items of body armor could land them in some serious jail time in the US. Why does the US government want to keep those items out of civilian hands? The argument is simple. The average American is unlikely to need body armor. Unless you're really paranoid, no one is walking through life expecting to take two bullets center mass. So, the government assumes that if you want bulletproof vests or other body armor, you're probably planning [music] to commit a crime where you're expecting to be shot at. That's why they made it illegal under federal law for anyone convicted of a [music] felony to possess a bulletproof vest. And anyone who commits a federal crime while wearing one will get a longer sentence. States have joined in with similar [music] laws. The law's been challenged under multiple grounds, but it stands to this day. But even stranger, [music] one of the most illegal items out there is a toy."
+    },
+    {
+      "id": 143,
+      "debut": 5663.54,
+      "fin": 5694.21,
+      "temps_estime": true,
+      "titre": "Number 9: lawn darts - the game",
+      "resume": "Lawn darts was a popular backyard game where players tossed sharp-tipped darts underhand at a ground target ring for points, sometimes with a bull's-eye for bonus points. It was cheap and easy to set up, which made it widely popular for kids and families.",
+      "mots_cles": [
+        "lawn darts",
+        "backyard game",
+        "sharp-tipped darts",
+        "target ring",
+        "toy",
+        "kids",
+        "summer",
+        "bull's-eye"
+      ],
+      "texte": "Number nine, lawn darts. If you're of a certain age, you probably remember those lazy summer [music] days in the front yard. Dad was grilling and you and your siblings were playing a rousing game of lawn darts. The target would be laid on the ground and the players would take [music] turn tossing sharp-tipped darts underhand. The goal would be to get the darts inside the target ring to score a point. Some versions had a bull's-eye ring that could be hit for bonus points, and the game [music] became popular due to how easy it was to set up and the low cost compared to other games. And what could ever go wrong with giving kids some sharp-tipped darts?"
+    },
+    {
+      "id": 144,
+      "debut": 5694.21,
+      "fin": 5731.23,
+      "temps_estime": true,
+      "titre": "Number 9: lawn darts - the ban",
+      "resume": "The Food and Drug Administration classified lawn darts as a mechanical hazard in 1970 and barred them from toy stores, but they stayed legal until a 7-year-old girl was killed in 1987 and the Consumer Product Safety Commission acted. The darts caused about 6,100 emergency room visits in that period, and Canada banned them soon after.",
+      "mots_cles": [
+        "lawn darts",
+        "FDA",
+        "Consumer Product Safety Commission",
+        "1987",
+        "ban",
+        "emergency room visits",
+        "mechanical hazard",
+        "Canada"
+      ],
+      "texte": "The darts were legal until 1970, when the Food and Drug Administration classified them as a mechanical hazard. They were still allowed to be sold, but additional precautions were required, and they were banned from toy stores. They remained technically legal for another eight years until a 7-year-old girl was killed by the darts [music] in 1987, and the U.S. Consumer Product Safety Commission acted. The darts had caused a whopping 6,100 emergency room visits in that 8-year gap. Canada soon banned them as [music] well, and the deadly toy has not been on store shelves since. Lawn darts are an acci- dental hazard, but this next item definitely intended to create [music] chaos."
+    },
+    {
+      "id": 145,
+      "debut": 5731.23,
+      "fin": 5764.37,
+      "temps_estime": true,
+      "titre": "Number 8: machine guns - what they are",
+      "resume": "Machine guns are auto-firing, long-barreled firearms built for sustained fire: hold the trigger and a stream of bullets follows. They are popular in the military, often mounted on a tripod or used by tank gunners, but civilians looking for one are out of luck.",
+      "mots_cles": [
+        "machine guns",
+        "automatic weapons",
+        "sustained fire",
+        "military",
+        "tripod",
+        "tank gunners",
+        "assault rifles",
+        "civilians"
+      ],
+      "texte": "Number eight, machine guns. It's one of the ultimates in weaponry. Machine guns are known for being two things, fast and powerful. They're auto-firing long-barreled firearms that auto-load, meaning you don't need to do anything but squeeze the trigger, and you'll have a hail of bullets ripping at the enemy. Unlike traditional assault rifles, the machine gun is designed for sustained fire, and as such is very popular in the military. It's often mounted atop a tripod for easy maneuvering and can [music] be used by tank gunners and shooters positioned above the fray as enemies approach. But if you're a civilian [music] looking for one of these powerhouse guns, you're out of luck."
+    },
+    {
+      "id": 146,
+      "debut": 5764.37,
+      "fin": 5801.48,
+      "temps_estime": true,
+      "titre": "Number 8: machine guns - the 1986 law",
+      "resume": "A machine gun ban was tucked into the 1986 bill that repealed most earlier gun control laws, making it one of the only gun laws the NRA supported. The ban only applies to guns made after it took effect, so older machine guns, such as a 35-year-old one, remain legal to own; otherwise possession is an illegal weapon charge.",
+      "mots_cles": [
+        "machine gun ban",
+        "1986 law",
+        "NRA",
+        "gun control",
+        "grandfathered",
+        "illegal weapon",
+        "possession",
+        "United States"
+      ],
+      "texte": "The US is often known as a bit of a wild west scene for guns with most nations having [music] far stricter gun control. But even in the United States, the machine gun is a step too far. A law banning machine guns was actually tucked [music] into a bill repealing most previous gun control laws in 1986 making [music] this one of the only laws banning the type of gun that the NRA actually supported. But technically, machine guns aren't 100% illegal. [music] The law only applies to guns made after it took effect. So if you can find a 35-year-old machine gun, it's fair game. But otherwise, you might be facing charges for possession of an illegal weapon. But some banned weapons are a lot smaller."
+    },
+    {
+      "id": 147,
+      "debut": 5801.48,
+      "fin": 5827.34,
+      "temps_estime": true,
+      "titre": "Number 7: switchblades - the weapon",
+      "resume": "A switchblade looks like a simple handle but holds a single razor-sharp blade that springs out automatically at the press of a button or switch. It is easy to conceal and get past security, which made it popular with criminals who wanted to rob or attack people.",
+      "mots_cles": [
+        "switchblade",
+        "automatic knife",
+        "concealed weapon",
+        "razor-sharp blade",
+        "button",
+        "criminals",
+        "security",
+        "Swiss Army knife"
+      ],
+      "texte": "Number seven, switchblade. It's a weapon that hides in plain sight. It [music] looks like a simple handle similar to the one you'd see on a Swiss Army knife. But the goal of this weapon isn't to get many useful tools [music] that you can use on the go. It only has one item, a razor-sharp blade that slides out automatically when a button or switch on the handle is [music] pressed. This hidden weapon makes the switchblade easy to contain or slip into clothing and get past security, which made it a very popular choice for criminals who wanted to rob or attack people."
+    },
+    {
+      "id": 148,
+      "debut": 5827.34,
+      "fin": 5871.47,
+      "temps_estime": true,
+      "titre": "Number 7: switchblades - the 1958 ban",
+      "resume": "After a 1950s scare about a switchblade crime wave, with little real evidence of young delinquents using them, Congress banned the sale, manufacture and importation of switchblades in 1958. Most states banned possession, dozens of countries followed, but places like Poland and Mexico remain havens.",
+      "mots_cles": [
+        "switchblade ban",
+        "1958",
+        "Congress",
+        "crime wave",
+        "juvenile delinquents",
+        "Poland",
+        "Mexico",
+        "personal possession"
+      ],
+      "texte": "And after a wave of switchblade-related crime, [music] the government sprung into action. During the 1950s, there was a lot of alarm over a switchblade crime wave. While there was no real evidence that an army of young delinquents was cutting people with switchblades, it didn't stop Congress. In 1958, the US Congress passed a law prohibiting the sale, manufacture, or importation of switchblades across the United States. Most states soon introduced their own laws banning the personal possession of switchblades and harshly punishing anyone who used them in a crime. Most of the rest of the world soon followed with dozens of nations declaring themselves switchblade-free zones. But if you're a fan of this old-timey weapon, places like Poland and Mexico are [music] still havens. It's not hard to see why this next item is highly illegal."
+    },
+    {
+      "id": 149,
+      "debut": 5871.47,
+      "fin": 5913.44,
+      "temps_estime": true,
+      "titre": "Number 6: nuclear material - why it is banned",
+      "resume": "Nuclear energy became a game-changer after the 1940s, powering plants and, at the end of World War II, atomic bombs over Japan. Everyone agreed it should not be in civilian hands, and the United States bans all unauthorized possession of nuclear material or byproducts.",
+      "mots_cles": [
+        "nuclear material",
+        "nuclear energy",
+        "nuclear plants",
+        "World War II",
+        "Japan",
+        "civilians",
+        "unauthorized possession",
+        "meltdowns"
+      ],
+      "texte": "Number six, nuclear material. The use of nuclear energy was a [music] game-changer in many ways in the 1940s and beyond. Nuclear plants became one of the most efficient ways to produce energy for a growing nation, although fears [music] of deadly meltdowns were constant. And of course, scientists figured out how to unleash the devastating power of nuclear energy in the last days of World War II with a pair of massive nuclear detonations [music] over Japan. The proper use of nuclear energy became a hot topic across every country, but there was one thing just about everyone agreed [music] with. This was not something that should be in civilian hands. Obviously, no one wants civilians to have nuclear bombs. That would certainly bring a new dimension to neighbors feuding over their fence line. But the United States has banned all unauthorized possession of nuclear material or byproducts."
+    },
+    {
+      "id": 150,
+      "debut": 5913.44,
+      "fin": 5940.08,
+      "temps_estime": false,
+      "titre": "Number 6: nuclear material - danger and penalties",
+      "resume": "Nuclear material is highly toxic and must be handled by well-trained people, since one mistake could kill the handler and contaminate and poison a whole area. Illegal possession can mean up to 20 years in prison, or up to life if it leads to someone's death.",
+      "mots_cles": [
+        "nuclear material",
+        "toxic",
+        "contamination",
+        "prison",
+        "20 years",
+        "life sentence",
+        "handling and disposal",
+        "penalties"
+      ],
+      "texte": ">> [music] >> That's because nuclear material can be highly toxic, and it should only be handled by people who are well-trained in handling and disposing of it. Not only [music] could one mistake kill the handler, but it could contaminate the entire area and poison countless people if it leaks. The government isn't playing around. Illegal possession could carry up to 20 years in prison [music] or up to life if it leads to someone's death. But some items are so dangerous the entire world agreed to ban them."
+    },
+    {
+      "id": 151,
+      "debut": 5940.08,
+      "fin": 5976.16,
+      "temps_estime": true,
+      "titre": "Number 5: poison gas and chemical weapons - World War I",
+      "resume": "World War I introduced chemical weapons such as chlorine gas, which could poison an entire company but drifted with the wind and could hurt the army that used it. An early chlorine attack killed 5,000 soldiers, and after the war nations agreed to prohibit chemical weapons.",
+      "mots_cles": [
+        "chemical weapons",
+        "poison gas",
+        "chlorine gas",
+        "World War I",
+        "trench warfare",
+        "respiratory agents",
+        "prohibition",
+        "5,000 soldiers"
+      ],
+      "texte": "Number five, poison gas and chemical weapons. World War I turned into a horror show for its soldiers, who not only [music] faced high-intensity trench warfare, but a new and deadly type of weapon, chemical weapons. Starting with respiratory agents like chlorine gas, these weapons could poison an entire company, but they were risky. [music] They would drift with the wind and could even turn around and hurt the army that just shot them. One of the early attacks using chlorine gas killed 5,000 soldiers, and the world was horrified by these new advances in warfare. So, with a united voice, they took action. In the aftermath of World War I, nations got together and prohibited the use of chemical [music] weapons."
+    },
+    {
+      "id": 152,
+      "debut": 5976.16,
+      "fin": 6009.36,
+      "temps_estime": true,
+      "titre": "Number 5: banned chemical agents and rogue use",
+      "resume": "Later treaties banned five types of chemical agents: blood, blister, choking, nerve and nettle agents. The world has largely abided by the ban, with minimal use in World War II, though rogue actors like the Syrian government still use them against civilians.",
+      "mots_cles": [
+        "chemical agents",
+        "blood agents",
+        "blister agents",
+        "choking agents",
+        "nerve agents",
+        "nettle agents",
+        "Syria",
+        "treaties"
+      ],
+      "texte": "Multiple future treaties would update those bans, ultimately banning five types of chemical agents, blood agents that could cause a slow death from poisoning, blister [music] agents that cause chemical burns to the skin and eyes, choking agents that affect the respiratory system, nerve agents that shut down the body's organs and neurotransmitters, and nettle [music] agents that cause severe skin irritation. The world has largely abided by these regulations, and World War II saw minimal [music] use of chemical weapons, but even today certain rogue actors like the Syrian government continue to [music] terrorize civilians with these banned weapons. Another weapon has been banned for being too sneaky."
+    },
+    {
+      "id": 153,
+      "debut": 6009.36,
+      "fin": 6037.78,
+      "temps_estime": true,
+      "titre": "Non-detectable fragments - how they kill",
+      "resume": "Some bombs spray shrapnel that does not show up on x-rays: a wounded soldier reaches surgery, the surgeon finds nothing, and he dies of internal bleeding. It is not an equipment failure but a deliberate design that was quickly becoming a plague in warfare.",
+      "mots_cles": [
+        "non-detectable fragments",
+        "shrapnel",
+        "x-ray",
+        "surgery",
+        "internal bleeding",
+        "wounded soldiers",
+        "deceptive weapons",
+        "warfare"
+      ],
+      "texte": "Non-detectable fragments. It's one of the deadliest and most deceptive weapons around. A bomb goes off spraying shrapnel around the battlefield. A soldier is hit and seriously wounded, and the medical convoy manages to get him off to the field to surgery. The surgeon takes x-rays to determine where the fragments are located and comes up empty. Nothing is showing up on the x-rays, and the soldier soon dies of internal bleeding. But, it's not a tragic equipment failure, it's by design, and it was quickly becoming [music] a plague in warfare."
+    },
+    {
+      "id": 154,
+      "debut": 6037.78,
+      "fin": 6070.61,
+      "temps_estime": true,
+      "titre": "Non-detectable fragments - plastic and the 1979 treaty",
+      "resume": "These weapons are made with plastic, and the Convention on Certain Conventional Weapons banned any weapon designed to spread plastic shrapnel or other non-detectable fragments. The reasoning is that making it harder to save wounded soldiers is inhumane, and the 1979 treaty has held and drastically reduced their use.",
+      "mots_cles": [
+        "plastic shrapnel",
+        "Convention on Certain Conventional Weapons",
+        "1979 treaty",
+        "inhumane",
+        "wounded soldiers",
+        "ban",
+        "unnecessary pain",
+        "weapons treaty"
+      ],
+      "texte": "What's the secret of these weapons? They're made with plastic. While plastic is allowed to be used in weapons designed today, the Convention on Certain Conventional Weapons banned the use of any weapon that is designed to spread plastic shrapnel [music] or other non-detectable fragments. The reasoning is that regardless of the reasoning behind a conflict, actively making it harder to save lives of wounded soldiers is inhumane. The 1979 treaty has held, and the use of these weapons has been drastically reduced. The main purpose of this next treaty is to eliminate weapons that cause unnecessary pain, and this next one is [music] a doozy."
+    },
+    {
+      "id": 155,
+      "debut": 6070.61,
+      "fin": 6106.53,
+      "temps_estime": true,
+      "titre": "Number 3: cluster munitions - how they work",
+      "resume": "Cluster bombs are dropped from a plane or fired from a ground battery and, on impact, release countless mini bombs over a wide area. They were effective at damaging weapon stockpiles, infrastructure and groups of soldiers, but they do not distinguish between enemies and civilians.",
+      "mots_cles": [
+        "cluster munitions",
+        "cluster bombs",
+        "mini bombs",
+        "payload",
+        "civilians",
+        "crossfire",
+        "infrastructure",
+        "soldiers"
+      ],
+      "texte": "Number three, cluster munitions. Cluster bombs look like any other bomb [music] at first. They're dropped from a plane or launched from a ground-based battery and deliver an explosive payload when they hit, but they don't stop there. When they hit, they launch countless other mini bombs contained within, spreading their payload over a wider area. This was considered a great way to damage [music] large collections of weapons, disrupt infrastructure, and take out whole groups of soldiers at the same time, and they were very effective at devastating enemy [music] areas. maybe too effective. Bombs don't differentiate between enemies and civilians, and the more bombs are distributed, the more likely civilians [music] are to get caught in the crossfire."
+    },
+    {
+      "id": 156,
+      "debut": 6106.53,
+      "fin": 6134.08,
+      "temps_estime": true,
+      "titre": "Number 3: cluster munitions - duds and the convention",
+      "resume": "Many mini bombs fail to explode on impact and stay on the ground until a civilian disturbs them days, weeks or years later, killing someone. These problems led to the Convention on Cluster Munitions, banning the weapon and ratified by 120 nations.",
+      "mots_cles": [
+        "cluster munitions",
+        "unexploded bombs",
+        "duds",
+        "civilian casualties",
+        "Convention on Cluster Munitions",
+        "120 nations",
+        "ratified",
+        "ban"
+      ],
+      "texte": "But, the problem with cluster bombs isn't over after the battle. It's common for the mini bombs to fail to explode when they hit, staying on the ground until a civilian comes across [music] them days, weeks, or even years after the fact. When it gets dislodged and accidentally triggered, it can kill someone. All these reasons led to the passing of the Convention on Cluster Munitions banning the bomb. And it's [music] since been ratified by 120 nations. But, what cluster bombs do occasionally, this next weapon does by design. [music]"
+    },
+    {
+      "id": 157,
+      "debut": 6134.08,
+      "fin": 6162.6,
+      "temps_estime": true,
+      "titre": "Number 2: landmines - how they work",
+      "resume": "Landmines are buried with a trigger near the top and set off by pressure, delivering an explosive payload that can stop a tank and spray shrapnel. They were indispensable in many 20th century wars, and on a mined battlefield any step could be a soldier's last.",
+      "mots_cles": [
+        "landmines",
+        "buried mines",
+        "pressure trigger",
+        "tanks",
+        "shrapnel",
+        "20th century wars",
+        "battlefield",
+        "explosive payload"
+      ],
+      "texte": "Number two, landmines. Few weapons cause more damage, intentional and unintentional, than landmines. [music] When enemy tanks roll onto the battlefield, few conventional weapons can stop them. That's why landmines were indispensable in many 20th century wars. Buried underground with [music] a trigger near the top, they get triggered by pressure atop the mine, and deliver an explosive payload that can stop a tank in its tracks, and spray the area around with shrapnel. When a battlefield is laced with mines, any step could be the last for a soldier."
+    },
+    {
+      "id": 158,
+      "debut": 6162.6,
+      "fin": 6196.34,
+      "temps_estime": true,
+      "titre": "Number 2: landmines - after the war and the Ottawa Treaty",
+      "resume": "Landmines stay after wars end and can keep working for years or decades: Egypt has about 23 million unexploded landmines, and civilians out walking can lose a limb or worse. The Ottawa Treaty of 1997 banned landmines, although China, Russia and the United States have not signed it.",
+      "mots_cles": [
+        "landmines",
+        "Egypt",
+        "23 million landmines",
+        "unexploded",
+        "civilians lose limbs",
+        "Ottawa Treaty",
+        "1997",
+        "China Russia United States"
+      ],
+      "texte": "But, the mines don't go away when the war does. During brutal wars, it's common for the country to be littered with landmines. Egypt has a shocking 23 million unexploded landmines [music] after several brutal conflicts. And landmines can keep functioning for years or even decades after being planted, meaning [music] it's common for civilians out for a walk to trigger one and lose a limb or worse. The stories of horrible carnage from old landmines led the world to pass the Ottawa Treaty in 1997 banning landmines. Although [music] China, Russia, and the United States have not signed it. But, no weapon has the potential to create [music] a butterfly effect like this one."
+    },
+    {
+      "id": 159,
+      "debut": 6196.34,
+      "fin": 6232.8,
+      "temps_estime": true,
+      "titre": "Number 1: biological weapons - spreading disease as a weapon",
+      "resume": "Viruses are unpredictable: they spread, mutate, and cures or vaccines may not work on a variant, so countries work to contain them. Yet countries still experimented with disease as a weapon, from smallpox-laced blankets given to indigenous populations to modern anthrax or plague weapons, which rarely behave predictably.",
+      "mots_cles": [
+        "biological weapons",
+        "viruses",
+        "mutation",
+        "variants",
+        "smallpox blankets",
+        "anthrax",
+        "plague",
+        "disease as a weapon"
+      ],
+      "texte": "Number one, biological weapons. Viruses are unpredictable things. They get into the population, spread from person to person, and begin to mutate. Cures and vaccines that might have worked on that one version of the virus >> [music] >> might not work on a variant, which means countries work hard to contain their spread. But, that didn't stop [music] countries from experimenting with spreading disease as a weapon. From rudimentary versions like blankets laced with smallpox being distributed to indigenous populations to weaponized modern weapons containing anthrax or even the plague, these weapons could decimate a targeted population. But diseases rarely behave predictably."
+    },
+    {
+      "id": 160,
+      "debut": 6232.8,
+      "fin": 6260.32,
+      "temps_estime": true,
+      "titre": "Number 1: biological weapons - the 1972 Convention",
+      "resume": "In 1972 the world agreed to the Biological Weapons Convention, banning development, use or stockpiling of bioweapons, covering viruses, bacteria, fungi, toxins and insect vectors like mosquitoes and fleas. It became one of the most ratified treaties in history, with 183 state parties and only a few nations holding out.",
+      "mots_cles": [
+        "Biological Weapons Convention",
+        "1972",
+        "bioweapons ban",
+        "183 state parties",
+        "viruses",
+        "bacteria",
+        "toxins",
+        "insect vectors"
+      ],
+      "texte": "That's why in 1972 the world got together for the Biological Weapons Convention, which abanned [music] the development, use, or stockpiling of bioweapons of any kind. This covered countless disease vectors including [music] viruses, bacteria, fungi, toxins, and insect vectors like mosquitoes and fleas used to deliver them. The treaty became one of the most ratified in the history of the world with 183 state parties joining up and only a select few nations around the world holding out because everyone has a reason to fear biological weapons gone wrong."
+    },
+    {
+      "id": 161,
+      "debut": 6260.32,
+      "fin": 6270.91,
+      "temps_estime": true,
+      "titre": "Transition: things that used to be legal 100 years ago",
+      "resume": "The video moves to things that were legal in the past: a soft drink with powerful narcotics inside is illegal today, but 100 years ago you could legally get away with things that would shock people now.",
+      "mots_cles": [
+        "things that used to be legal",
+        "100 years ago",
+        "narcotics soft drink",
+        "past laws",
+        "legal in the past",
+        "history",
+        "illegal today"
+      ],
+      "texte": "Fancy yourself a soft drink with some powerful narcotics inside it? Well, today that sort of thing is illegal, but 100 years ago you'd be shocked at some of the things you could legally get away with."
+    },
+    {
+      "id": 162,
+      "debut": 6270.91,
+      "fin": 6313.22,
+      "temps_estime": true,
+      "titre": "Child labor: agrarian society and specialization",
+      "resume": "Life used to be tough, so everyone needed to pitch in to survive another year. The shift from hunter-gatherers to farming let farmers feed everyone, which led to specialization of workers in metalworking, arts and government.",
+      "mots_cles": [
+        "child labor",
+        "agrarian society",
+        "hunter-gatherers",
+        "farmers",
+        "specialization",
+        "ancient communities",
+        "survival",
+        "history of work"
+      ],
+      "texte": "Child labor. Everyone loves their children, but until only relatively recently you wouldn't be out of place to suggest that many people loved their children a little less than they should. Life used to be pretty tough for people and that meant everybody needed to pitch in >> [music] >> just to make it another year. When humanity began to settle down and build communities, they did it on the backs [music] of the farmers whose job it was to feed everybody. The transition from hunter-gatherer to an agrarian society allowed for the specialization of individuals. >> [music] >> Farmers could generate enough food to make hunters and gatherers obsolete and freed up a large number of people from the daily grind of trying to find something to eat. This in turn [music] led to specialization of workers and the pursuit of everything from metalworking to arts to government."
+    },
+    {
+      "id": 163,
+      "debut": 6313.22,
+      "fin": 6350.28,
+      "temps_estime": true,
+      "titre": "Child labor: children on the farm",
+      "resume": "From the start, children were expected to do nearly as much work as adults, and one main reason to have children was to help run a sprawling farm and later inherit it. Farm work meant waking before dawn for animals and back-breaking labor in the fields, and skipping it meant starvation.",
+      "mots_cles": [
+        "child labor",
+        "farm labor",
+        "children on farms",
+        "back-breaking labor",
+        "inheritance",
+        "starvation",
+        "before dawn",
+        "agricultural history"
+      ],
+      "texte": "But make no mistake, [music] right from the start children were expected to do almost as much work as an adult. Life on a farm was especially tough [music] and one of the main reasons throughout history to have children was not just to propagate the species, but to help manage a sprawling farm. The more labor available, the greater an operation a farmer could take on [music] and then eventually pass it on to his children who'd repeat the process. But, this meant brutal hours, waking up well before dawn to tend to various animals. Then it was hours of back-breaking labor [music] pulling weeds, tilling fields, planting and harvesting crops. And it was almost a 24-hour affair. The consequences for skipping out on [music] the job were nothing less than total starvation."
+    },
+    {
+      "id": 164,
+      "debut": 6350.28,
+      "fin": 6371.24,
+      "temps_estime": true,
+      "titre": "Child labor: city children and Victorian jobs",
+      "resume": "City children were not much better off: in the Victorian era they had to contribute to the family income through dangerous jobs, such as working in tanneries exposed to caustic chemicals or searching open garbage dumps for valuables to sell.",
+      "mots_cles": [
+        "child labor",
+        "Victorian era",
+        "city children",
+        "tanneries",
+        "caustic chemicals",
+        "garbage dumps",
+        "breadwinning",
+        "poverty"
+      ],
+      "texte": "But, city children didn't have it much better. With most people barely eking out existences [music] during Victorian children were expected to contribute to the family's breadwinning and [music] some of the ways they did this included dangerous jobs in tanneries where they would be exposed to harsh and caustic chemicals or dredging through the open-faced garbage dumps of the age for valuables worth selling."
+    },
+    {
+      "id": 165,
+      "debut": 6371.24,
+      "fin": 6394.8,
+      "temps_estime": true,
+      "titre": "Child labor: factories and the Industrial Revolution",
+      "resume": "As the Industrial Revolution improved living standards, children were at its forefront, working in factories from age 8. Employers favored them because they were less likely to unionize, cost less and fit in tight places, and many lived in factory dormitories, going home on weekends.",
+      "mots_cles": [
+        "child labor",
+        "Industrial Revolution",
+        "factories",
+        "8 years old",
+        "unionize",
+        "cheap labor",
+        "factory dormitories",
+        "employers"
+      ],
+      "texte": "[music] As the Industrial Revolution dawned, people's standards of living improved, but children were at the forefront of the revolution working in factories as young as 8 years old. Because children [music] were less likely to unionize, could be paid less, and could fit in tight places that couldn't be reached otherwise, they were a favorite [music] for employers. Many of these children lived in the dormitories on the factory itself going home on the weekends. >> [music]"
+    },
+    {
+      "id": 166,
+      "debut": 6394.8,
+      "fin": 6421.8,
+      "temps_estime": true,
+      "titre": "Child labor: dangers and the first laws",
+      "resume": "Overseers meted out harsh physical punishments, and children's tiny hands were used to fix machines that were often not shut down first. For profit and efficiency, countless children were killed or maimed until child labor laws began to form in the early 1900s.",
+      "mots_cles": [
+        "child labor",
+        "harsh punishment",
+        "overseers",
+        "machine repairs",
+        "maimed children",
+        "factory accidents",
+        "child labor laws",
+        "early 1900s"
+      ],
+      "texte": ">> And it wasn't uncommon for overseers to meet out harsh physical punishments for poor or slow performance. One of the greatest advantages for factories of the Industrial Revolution, though, was that children's tiny hands could fit into tough-to-reach [music] places or machines for fixes. And often the machines wouldn't be shut down before said fixes. [music] In the name of profit and efficiency, countless children were killed or maimed until finally in early 1900s child labor [music] laws began to be formed."
+    },
+    {
+      "id": 167,
+      "debut": 6421.8,
+      "fin": 6451.93,
+      "temps_estime": true,
+      "titre": "Prostitution: the Las Vegas myth",
+      "resume": "The video says the world's oldest profession is not legal in Las Vegas despite the common belief: prostitution is illegal in Clark County, where Las Vegas is located, as disappointed tourists have found. Punishments for soliciting or prostituting can be stiff, but not long ago it was practically part of the culture.",
+      "mots_cles": [
+        "prostitution",
+        "Las Vegas",
+        "Clark County",
+        "legal in Nevada",
+        "myth",
+        "soliciting",
+        "world's oldest profession",
+        "punishments"
+      ],
+      "texte": "Our next thing that used to be legal is the world's oldest profession, prostitution. Everyone knows there's only one place left in the United States where you can still legally engage in the world's oldest profession, and that's Las Vegas. Except, [music] not really because prostitution is actually illegal inside of Clark County where Las Vegas is located, as many disappointed tourists have discovered. But, while today you can still face stiff punishments for either soliciting or prostituting, it wasn't very long ago that the practice wasn't just illegal, it was basically a part of the culture."
+    },
+    {
+      "id": 168,
+      "debut": 6451.93,
+      "fin": 6491.6,
+      "temps_estime": true,
+      "titre": "Prostitution: ancient origins and sacred prostitution",
+      "resume": "Sumerian records from 2400 BC are the earliest known records of prostitution, which likely dates back to the first human settlements. Ancient prostitutes were both male and female, and in the Near East cults built temples with holy prostitutes because sex was seen as a way to draw close to the gods.",
+      "mots_cles": [
+        "prostitution",
+        "Sumerian records",
+        "2400 BC",
+        "ancient world",
+        "holy prostitutes",
+        "temples",
+        "Near East",
+        "sacred sex"
+      ],
+      "texte": "Sumerian records dating back to 2400 BC are the earliest records we have >> [music] >> for the world's oldest profession. Nobody knows for sure when prostitution began as an official profession, but it's almost certain that its origins date back to the very first human settlements, when women realized they could capitalize on the men's desire for sex in order to procure goods and services. To be fair, though, the ancient world has had its fair share of both male and female prostitutes. And not only was the practice illegal in most of the world, it was actually sacred in some societies. All across the Near East, various cults and religions built temples housed by holy prostitutes, as sex was seen as one of the best ways to draw close to the gods."
+    },
+    {
+      "id": 169,
+      "debut": 6491.6,
+      "fin": 6517.97,
+      "temps_estime": true,
+      "titre": "Prostitution: the Aztecs and the Inca",
+      "resume": "The Aztecs allowed prostitution in special buildings called chiacalli, meaning house of women, under the protection of the goddess Tlazolteotl. The Inca also allowed it, but prostitutes had to live segregated from others under government supervision.",
+      "mots_cles": [
+        "prostitution",
+        "Aztecs",
+        "chiacalli",
+        "Tlazolteotl",
+        "Inca",
+        "segregated",
+        "government supervision",
+        "pre-Columbian Americas"
+      ],
+      "texte": "In the Americas, the Aztecs allowed prostitution in special buildings [music] called chiacalli, a word that means house of women. Religious authorities believed that if women wanted to work as prostitutes, they should do so only in these pseudo temples, where they could work under the protection of Tlazolteotl, the goddess of purification, steam baths, midwives, filth, and patron to the adulterers. Their neighbors to the south, the Inca, also allowed prostitution, but they were forced to live segregated from others and under the supervision of the government."
+    },
+    {
+      "id": 170,
+      "debut": 6517.97,
+      "fin": 6542.74,
+      "temps_estime": true,
+      "titre": "Prostitution: medieval Europe and the rise of bans",
+      "resume": "In the Middle Ages prostitution was alive and well in Europe; although officially a sin, it was believed to prevent more serious sins. Massive outbreaks of sexually transmitted diseases in the late 15th and early 16th centuries led to its gradual outlawing.",
+      "mots_cles": [
+        "prostitution",
+        "Middle Ages",
+        "Europe",
+        "sin",
+        "sexually transmitted diseases",
+        "15th century",
+        "16th century",
+        "outlawing"
+      ],
+      "texte": "Fast forward to Europe in the Middle Ages and prostitution was alive and well. While technically [music] considered a sin by religious authorities, it was believed that prostitution helped prevent more serious sins such as rape, sodomy, and [music] masturbation. However, the good times wouldn't last as massive outbreaks of sexually transmitted [music] diseases in the late 15th and early 16th centuries led to the gradual but inevitable outlawing of prostitution."
+    },
+    {
+      "id": 171,
+      "debut": 6542.74,
+      "fin": 6572.18,
+      "temps_estime": true,
+      "titre": "Prostitution: America and Nevada today",
+      "resume": "In America prostitution was tolerated as a necessary evil, even acceptable for a married man if his wife did not want sex. As the 19th century wore on and police forces professionalized, attitudes changed, and today it is illegal everywhere except 10 Nevada counties, none near Las Vegas.",
+      "mots_cles": [
+        "prostitution",
+        "America",
+        "necessary evil",
+        "19th century",
+        "police forces",
+        "Nevada",
+        "10 counties",
+        "Las Vegas"
+      ],
+      "texte": "In America, prostitution was generally tolerated, once more seen as a necessary evil to prevent a greater evil. It was even acceptable for a married man to solicit the [music] services of a prostitute if his wife didn't want to have sex with him. However, as the 19th century wore on and police forces became more professional, [music] attitudes toward prostitution also changed, eventually leading to the outright banning except in a very few select places in the country. Today, prostitution is illegal in all but 10 counties in Nevada, and none of them are anywhere near Las Vegas."
+    },
+    {
+      "id": 172,
+      "debut": 6572.18,
+      "fin": 6626.55,
+      "temps_estime": true,
+      "titre": "Drinking and driving: DUI today and why it once was tolerated",
+      "resume": "A DUI can now cost almost $20,000 in legal fees and penalties, plus likely jail time and license suspension. But from the first automobile there were drunk drivers, because ancestors drank heavily; before cars the worst a drunk could do was fall off a horse, but the automobile put more killing power in a drunk driver's hands.",
+      "mots_cles": [
+        "drunk driving",
+        "DUI",
+        "legal fees",
+        "license suspension",
+        "first automobile",
+        "history of drinking",
+        "horse",
+        "carriage"
+      ],
+      "texte": "Despite countless deaths and maimings, our next thing that used to be illegal took decades to make illegal, drinking and driving. Today, there are few ways to mess up your life more thoroughly than to get a DUI charge. In the US, a DUI can cost you almost $20,000 in legal fees and penalties, plus a strong possibility of jail time and suspension of your license to boot. Given the incredible danger driving while drunk puts you and other people in though, it's hardly surprising that society clamped down so hard on this extremely hazardous activity. But, it wasn't always this way. From the moment that the first automobile was available, somebody was drunk behind the wheel. Mostly because our ancestors used to drink a lot. Up until the invention of the automobile, the worst a drunk might do is get bucked off a horse. And it was awful hard to be a significant hazard to others, even if drunk while driving a carriage. But, the automobile changed all that, putting more [music] killing power in the hands of a drunk driver."
+    },
+    {
+      "id": 173,
+      "debut": 6626.55,
+      "fin": 6651.36,
+      "temps_estime": true,
+      "titre": "Drinking and driving: the first laws, 1910 and the 1930s",
+      "resume": "In 1910 New York passed the first US law against driving under the influence, followed by California and slowly other states, but enforcement was uneven and the definition of drunk driving was unclear. In the 1930s a national DUI law became tougher as the highway system expanded.",
+      "mots_cles": [
+        "DUI law",
+        "1910",
+        "New York",
+        "California",
+        "first drunk driving law",
+        "enforcement",
+        "1930s",
+        "highway system"
+      ],
+      "texte": "In 1910, New York saw the hazard of drunk driving and implemented the United States' first law against driving under the influence. California was quick to follow suit, and other states slowly followed. However, enforcement was not uniform and what exactly constituted [music] drunk driving wasn't really clear unless the subject was obviously stumbling drunk. In the 1930s, a national DUI law became a lot tougher [music] as the nation's highway system slowly grew and expanded."
+    },
+    {
+      "id": 174,
+      "debut": 6651.36,
+      "fin": 6691.59,
+      "temps_estime": true,
+      "titre": "Drinking and driving: the AMA, the National Safety Council and the .15 limit",
+      "resume": "The American Medical Association found drunk driving was the top factor in car crashes, but police needed clear guidelines on how drunk is impaired. The National Safety Council studied ways to test and measure intoxication, and by 1930 the legal blood alcohol limit was set at .15.",
+      "mots_cles": [
+        "American Medical Association",
+        "National Safety Council",
+        "blood alcohol concentration",
+        ".15 limit",
+        "impairment",
+        "intoxication tests",
+        "car crash",
+        "1930"
+      ],
+      "texte": "The American Medical Association studied the factors that were most likely to lead to an automobile crash or related injury, [music] and perhaps unsurprisingly, drunk driving was at the top of the list. However, enforcement would need some specific guidelines. How drunk did a person have to be to actually be impaired to operate a motor vehicle? Up until now, police were basically left to decide this on their own, but as society evolved, clear legal limits needed to be established. While the AMA was doing its research, the National Safety Council undertook its own study to try and develop ways to test for intoxication and accurately measure just how intoxicated a person was. By 1930, the legal limit [music] for blood alcohol concentration was set at .15."
+    },
+    {
+      "id": 175,
+      "debut": 6691.59,
+      "fin": 6708.79,
+      "temps_estime": true,
+      "titre": "Drinking and driving: the 1970s crackdown and the .08 limit",
+      "resume": "Car sales exploded in the 1970s and so did drunk driving offenses, prompting harsher penalties, a higher drinking age of 21 instead of 18, and a blood alcohol limit lowered to .10. In the 1990s it dropped again to .08.",
+      "mots_cles": [
+        "drunk driving",
+        "1970s",
+        "drinking age 21",
+        "BAC .10",
+        "BAC .08",
+        "1990s",
+        "penalties",
+        "blood alcohol limit"
+      ],
+      "texte": "As sales of cars exploded in the '70s, though, so did drunk driving offenses. >> [music] >> This prompted more severe penalties for drinking and driving, leading to both the raising of the drinking age from 18 to 21 and changing the [music] legal limit to a BAC of .10. During the '90s, this was dropped to just .08."
+    },
+    {
+      "id": 176,
+      "debut": 6708.79,
+      "fin": 6739.57,
+      "temps_estime": true,
+      "titre": "Mercenaries: when they were outlawed",
+      "resume": "Mercenaries, the world's second oldest profession, were never truly outlawed in most of the world; they simply fell out of favor. The Geneva Convention outlawed their use in conflict in 1989, and the much more binding 2001 UN Mercenary Convention was ratified by only 35 countries, good news for the United States, which was about to revive the career.",
+      "mots_cles": [
+        "mercenaries",
+        "second oldest profession",
+        "Geneva Convention",
+        "1989",
+        "United Nations Mercenary Convention",
+        "2001",
+        "35 countries",
+        "outlawed"
+      ],
+      "texte": "Our next thing [music] that was made illegal is the world's second oldest profession, mercenaries. Strictly speaking, the world's second oldest profession was never truly outlawed in most of the world. It simply fell out of favor. In 1989, the Geneva Convention officially outlawed the use of mercenaries in conflict. But, in 2001, the United Nations Mercenary [music] Convention, a much more binding agreement outlawing the use of mercenaries, was only ratified by 35 countries. That [music] was good news for the United States, who's about to resurrect the world's second oldest career."
+    },
+    {
+      "id": 177,
+      "debut": 6739.57,
+      "fin": 6762.6,
+      "temps_estime": true,
+      "titre": "Mercenaries: how wars were fought before nation-states",
+      "resume": "Nobody knows the true origins of mercenaries, but they were legal and downright critical for most of human history. In the pre-Westphalian order mercenaries were how you went to war, since maintaining a standing military strong enough for wars was cost-prohibitive.",
+      "mots_cles": [
+        "mercenaries",
+        "pre-Westphalian",
+        "nation-state",
+        "conscripts",
+        "standing forces",
+        "cost of war",
+        "military history",
+        "hired soldiers"
+      ],
+      "texte": "Nobody [music] knows the true origins of mercenaries, but they were not only legal for most of human history, they [music] were downright critical. In the pre-Westphalian nation-state order, mercenaries were how you went to war. Sure, you could always count on conscripts and perhaps [music] some standing forces that you might possess, but maintaining a standing military strong enough to wage wars was simply cost-prohibitive for most of history."
+    },
+    {
+      "id": 178,
+      "debut": 6762.6,
+      "fin": 6793.3,
+      "temps_estime": true,
+      "titre": "Mercenaries: the cost of equipment and manpower",
+      "resume": "Military equipment was extremely costly, with blacksmiths laboring dozens of hours on single pieces, and drafting citizens cost merchants, farmers and artisans, risking famine. For much of history war was not waged during planting or harvest seasons for this reason.",
+      "mots_cles": [
+        "military equipment cost",
+        "blacksmiths",
+        "manpower",
+        "conscription",
+        "famine",
+        "planting season",
+        "harvest season",
+        "domestic economy"
+      ],
+      "texte": "Military equipment was extremely costly, and without anything resembling modern manufacturing techniques, blacksmiths [music] would be forced to labor for dozens of hours on individual pieces of equipment at a time. Manpower was a serious problem, too, [music] as every citizen pressed into service as a soldier was one less merchant or farmer or artisan, and this not only hurt your economy, but could spell disaster [music] in the form of famine if too many farmers were dragged away from their farms. In fact, for large tracts of human history, war was simply not waged during planting or harvest seasons for exactly this [music] reason."
+    },
+    {
+      "id": 179,
+      "debut": 6793.3,
+      "fin": 6836.62,
+      "temps_estime": true,
+      "titre": "Mercenaries: why employers hired them",
+      "resume": "Mercenaries made a living from violence and could be hired without upsetting the domestic economy, and they brought their own equipment. As full-time soldiers they were more efficient than conscripts and often the bulwark of an army; loyalty was less of a concern because mercenary outfits lived and died on dependability, and a unit known for treachery would find few buyers.",
+      "mots_cles": [
+        "mercenaries",
+        "full-time soldiers",
+        "conscripts",
+        "own equipment",
+        "loyalty",
+        "dependability",
+        "efficiency",
+        "treachery"
+      ],
+      "texte": "Mercenaries, however, were men who made their livings from violence, and thus could be hired without upsetting your domestic economy. What's more, they brought their own equipment, saving you thousands of hours of labor and exuberant costs. As full-time soldiers, mercenaries also operated at far greater [music] efficiency on the battlefield than a conscript, who had to split their time between domestic duties and training. While a nation could have a small stand army, mercenaries inevitably short up their ranks, and [music] in many cases were the very bulwark of a military. Loyalty was also not as great a concern as one might [music] think, and while throughout history there are examples of mercenaries turning on their employers after being made a better deal by the enemy, the fact is mercenary outfits lived and died on their dependability. A unit known for [music] treachery would find few buyers."
+    },
+    {
+      "id": 180,
+      "debut": 6836.62,
+      "fin": 6857.24,
+      "temps_estime": true,
+      "titre": "Mercenaries: decline with the nation-state and revival in Afghanistan and Iraq",
+      "resume": "With the rise of the Westphalian order, countries could afford their own standing forces and pushed mercenaries to the periphery. The US wars in Afghanistan and Iraq made the nearly extinct career explode back into the forefront of war.",
+      "mots_cles": [
+        "mercenaries",
+        "Westphalian order",
+        "standing forces",
+        "Afghanistan",
+        "Iraq",
+        "decline of mercenaries",
+        "revival",
+        "nation-state"
+      ],
+      "texte": "With the rise of the Westphalian order and the nation-state, mercenaries fell increasingly out of favor. Countries could now afford to economically outfit and maintain their [music] own standing forces, pushing mercenaries into the peripheries of the world. However, with the US wars in Afghanistan and Iraq, the nearly extinct career [music] has practically exploded back into the forefront of man's wars."
+    },
+    {
+      "id": 181,
+      "debut": 6857.24,
+      "fin": 6874.42,
+      "temps_estime": true,
+      "titre": "Mercenaries: the US hires private military contractors",
+      "resume": "Facing a shortage of personnel for two wars, the US needed a draft or hired mercenaries; a draft would be political suicide, so the US spent billions on private military contractors. At one point there were as many PMCs in Iraq and Afghanistan as regular US troops.",
+      "mots_cles": [
+        "private military contractors",
+        "PMCs",
+        "Iraq",
+        "Afghanistan",
+        "draft",
+        "political suicide",
+        "billions",
+        "US troops"
+      ],
+      "texte": "Faced with a critical shortage of personnel to fight [music] two separate wars, the US needed either to institute a draft or hire mercenaries. A draft would be political suicide, [music] so instead the US spent billions hiring private military contractors. At one point, there were as many PMCs in Iraq and Afghanistan as rank and file US troops."
+    },
+    {
+      "id": 182,
+      "debut": 6874.42,
+      "fin": 6898.74,
+      "temps_estime": true,
+      "titre": "Mercenaries: private military contractors today",
+      "resume": "Today you can hire a mercenary outfit, though they prefer the term private military contractors. They are used by countries including the US and Russia and by private companies protecting facilities in volatile areas of the world.",
+      "mots_cles": [
+        "private military contractors",
+        "mercenary term",
+        "United States",
+        "Russia",
+        "private companies",
+        "volatile areas",
+        "resurgence",
+        "hire mercenaries"
+      ],
+      "texte": "Today, you can once more hire a mercenary outfit to wage your private violence if you wish, [music] though they don't really like it when you use the M word. Private military contractors is the correct term, and they've been used by countries around the world thanks to a resurgence [music] in popularity. Not only are mercenaries employed by the US and Russian governments, but by a slew of private companies seeking to protect their facilities in especially volatile areas of the world."
+    },
+    {
+      "id": 183,
+      "debut": 6898.74,
+      "fin": 6936.31,
+      "temps_estime": true,
+      "titre": "Battle of Khasham: the attack in Syria",
+      "resume": "The Battle of Khasham took place over 2 days in February 2018 in Syria, when around 500 pro-government fighters attacked a small force of 40 American special forces and some Syrian Democratic Forces allies. It was later discovered that Russian mercenaries led the attack; one SDF fighter was wounded while 55 to over 100 of the attackers were killed, with many tanks and armored vehicles destroyed.",
+      "mots_cles": [
+        "Battle of Khasham",
+        "Syria",
+        "February 2018",
+        "Russian mercenaries",
+        "American special forces",
+        "Syrian Democratic Forces",
+        "pro-government fighters",
+        "proxy battle"
+      ],
+      "texte": "Occasionally, though, nations use them against each other as a way of waging a sort [music] of proxy battle against one another. And no incident is more famous than the Battle of Khasham. This battle in Syria took place across [music] 2 days in February of 2018, when around 500 pro-government fighters attacked a small force [music] of 40 American special forces and a handful of Syrian Democratic Forces allies. Despite denials [music] by the Russian government, it was later discovered that Russian mercenaries had led the attack. Though the exact number is unknown, the battle would end [music] with one SDF fighter wounded and anywhere between 55 to over 100 of the enemy force killed, along with the destruction of a large number of tanks and [music] armored vehicles."
+    },
+    {
+      "id": 184,
+      "debut": 6936.31,
+      "fin": 6945.26,
+      "temps_estime": true,
+      "titre": "Battle of Khasham: Russian casualties and denial",
+      "resume": "Unofficial sources inside Russia claimed that between 80 and 218 Russian mercenaries died in the attack, while the Russian government denied any involvement in the catastrophe.",
+      "mots_cles": [
+        "Khasham",
+        "Russian mercenaries killed",
+        "80 to 218 casualties",
+        "Russian government denial",
+        "Syria",
+        "unofficial sources"
+      ],
+      "texte": "Unofficial sources inside of Russia, however, claimed that anywhere between 80 and 218 Russian mercenaries were killed in the attack, with the Russian government denying all involvement in the catastrophe."
+    },
+    {
+      "id": 185,
+      "debut": 6945.26,
+      "fin": 6999.24,
+      "temps_estime": true,
+      "titre": "North Korea: why you should not travel there",
+      "resume": "The Infographic Show Travel Agency jokes about a vacation to North Korea but warns it is dangerous and cannot advise it; even licensed travel authorities say the same. Even on a tour you can be stopped, detained, arrested, have your belongings searched or confiscated, and your communications monitored.",
+      "mots_cles": [
+        "North Korea",
+        "DPRK",
+        "travel warning",
+        "dictatorial regime",
+        "tourist detained",
+        "belongings confiscated",
+        "communications monitored",
+        "tensions with South Korea"
+      ],
+      "texte": "So, you're thinking of taking [music] a vacation to North Korea. First question, why? No, seriously, why in the name of sanity would you want to do that? Listen, we here at the Infographic Show Travel Agency can't officially pass judgment [music] on your decision. The customer is always right, after all. But, it would be irresponsible of us to not point out [music] just how dangerous that idea is. We genuinely cannot advise that you go to North Korea. And even actually licensed travel authorities will tell you the same. As if ongoing tensions between South Korea [music] and the DPRK weren't enough to make you reconsider, you are aware of the brutal dictatorial regime that runs North Korea, [music] right? Even if you were to go on a tour, that wouldn't protect you from being stopped and potentially detained or arrested by authorities, as well as possibly having your belongings searched or confiscated, or even having your communications monitored."
+    },
+    {
+      "id": 186,
+      "debut": 6999.24,
+      "fin": 7016.39,
+      "temps_estime": true,
+      "titre": "North Korea: laws that are legal everywhere else",
+      "resume": "Before anyone books a flight, the video promises to run through North Korean laws on normal things that are legal everywhere else, to see whether the traveler is still set on the trip.",
+      "mots_cles": [
+        "North Korea laws",
+        "illegal in North Korea",
+        "legal everywhere else",
+        "DPRK",
+        "list of laws",
+        "insane trip",
+        "travel"
+      ],
+      "texte": "Look, before we end up booking the last plane tickets of your life, let us just run you through a list of the laws from there to see if you'll still be set on making this insane trip after you hear about these normal things that are totally legal everywhere else in the world, but are illegal in North Korea."
+    },
+    {
+      "id": 187,
+      "debut": 7016.39,
+      "fin": 7062.19,
+      "temps_estime": true,
+      "titre": "North Korea: foreign music and movies",
+      "resume": "Listening to music or watching movies from outside North Korea is a criminal offense, with the sentence depending on the origin of the media. Watching an American movie can get you executed, even downloaded offline or via a VPN, while Indian movies may only mean a prison sentence.",
+      "mots_cles": [
+        "North Korea",
+        "banned music",
+        "foreign movies",
+        "American movie execution",
+        "Bollywood",
+        "VPN",
+        "criminal offense",
+        "media ban"
+      ],
+      "texte": "You like music? Of course you do, everyone does. Movies, too. Who doesn't love watching movies, even on vacation? Well, you can wave those things goodbye while you're under the jurisdiction of the DPRK. Listening to any music or viewing movies that come from outside North Korea is considered a criminal offense. The severity of the sentence that it carries [music] can vary depending on where the banned media originates from. Say you feel like watching a Hollywood movie in your hotel room. Maybe you've downloaded it to watch offline on your streaming app of choice, or perhaps you just got yourself a really good VPN. Hope you made it a good movie pick because it'll be the last one you ever see. Watching an American movie can actually get you executed in North Korea. If you're more a fan of Bollywood though, then don't worry. Watching Indian movies might mean you get away with just a prison sentence."
+    },
+    {
+      "id": 188,
+      "debut": 7062.19,
+      "fin": 7082.68,
+      "temps_estime": true,
+      "titre": "North Korea: South Korean media and adult movies",
+      "resume": "Being caught with DVDs or media from South Korea can mean years in a labor camp, so copies of Parasite and Squid Game should stay at home. Watching adult movies can also lead to the death penalty.",
+      "mots_cles": [
+        "North Korea",
+        "South Korean media",
+        "labor camp",
+        "Parasite",
+        "Squid Game",
+        "death penalty",
+        "adult movies",
+        "DVDs"
+      ],
+      "texte": "If you're caught with any DVDs [music] or media out of South Korea, then you can potentially wind up being sent to a labor camp for years. So, [music] maybe it's best to leave those physical copies of Parasite and Squid Game at home. And God forbid you decide to watch any, um, not safe for work movies, as that could also land you with the death penalty."
+    },
+    {
+      "id": 189,
+      "debut": 7082.68,
+      "fin": 7119.2,
+      "temps_estime": true,
+      "titre": "North Korea: international calls and the 2007 execution",
+      "resume": "Making an international call from within North Korea is a crime and can get you executed. In 2007 a factory chief in South Pyongan Province was executed after installing 13 phones in the factory basement to call abroad.",
+      "mots_cles": [
+        "North Korea",
+        "international calls",
+        "execution",
+        "2007",
+        "South Pyongan Province",
+        "13 phones",
+        "factory chief",
+        "illegal calls"
+      ],
+      "texte": "While on your extremely inadvisable trip, you might feel the need to phone home just to let your friends and family know what a swell time you're having on all these guided [music] tours where you aren't allowed to deviate or explore. Well, good luck getting away with that since making [music] an international call from within North Korea is also a crime. As a matter of fact, it's another one that could get you executed as a factory chief in the South Pyongan Province tragically learned. In 2007, a North Korean man was executed for making international calls. Apparently, he had 13 phones installed in the basement of the factory where he worked also he could make calls out of the country."
+    },
+    {
+      "id": 190,
+      "debut": 7119.2,
+      "fin": 7145.2,
+      "temps_estime": false,
+      "titre": "North Korea: the public execution and stampede",
+      "resume": "To make an example of him, the man's execution was a public spectacle: a firing squad in a stadium with 150 spectators. Six more people died in a stampede as they tried to leave the stadium.",
+      "mots_cles": [
+        "North Korea",
+        "public execution",
+        "firing squad",
+        "stadium",
+        "150 spectators",
+        "stampede",
+        "six deaths",
+        "example"
+      ],
+      "texte": "What's worse is in order to make an example of him, the man's execution was made into a public spectacle. [music] He was put to death by firing squad in a stadium with 150 spectators turning out to watch his execution. And as if the whole horrible affair couldn't get any worse, six more people died when they were crushed in a stampede as they attempted to leave the stadium. And you thought your cell phone provider's roaming charges were bad enough. [music]"
+    },
+    {
+      "id": 191,
+      "debut": 7145.2,
+      "fin": 7193.14,
+      "temps_estime": true,
+      "titre": "North Korea: jeans, logos, skirts and shorts",
+      "resume": "Wearing jeans, especially skinny jeans, or branded t-shirts with visible logos is considered embracing Western capitalist fashion, according to the state newspaper and Kim Jong-un. Skirts and shorts above the knee are banned too, mostly enforced against women; as many as 10 women were arrested for above-the-knee trousers in a 2023 heatwave.",
+      "mots_cles": [
+        "North Korea",
+        "banned clothing",
+        "jeans",
+        "skinny jeans",
+        "logos",
+        "skirts above the knee",
+        "Western capitalist fashion",
+        "2023 heatwave"
+      ],
+      "texte": "Speaking of roaming, you should probably keep an eye on your choice of wardrobe while you're out and about in the DPRK. After all, it's a tense place, so at least you want to wear clothes that make you feel somewhat comforted and comfortable. Best hope you don't feel at your most comfortable in jeans or skirts, though, because [music] that could see you taken to court. According to the North Korean government's official newspaper, and by extension Kim Jong-un himself, wearing jeans, especially skinny jeans, as well as any branded t-shirts with visible logos, is considered to be an act of embracing Western capitalist fashion. Additionally, wearing skirts that show off anything above the knees is also outright banned. This even applies to shorts, too, but that ban seems to be enforced more against women than men. As many [music] as 10 women were arrested for wearing above-the-knee trousers during a heatwave in North Korea in 2023."
+    },
+    {
+      "id": 192,
+      "debut": 7193.14,
+      "fin": 7225.7,
+      "temps_estime": true,
+      "titre": "North Korea: bikinis and self-criticism",
+      "resume": "A bikini is another anti-socialist article of clothing implying a capitalistic lifestyle. The offender must write a statement of self-criticism, sign that they accept harsher consequences next time, and can only be released if someone brings more appropriate clothes.",
+      "mots_cles": [
+        "North Korea",
+        "bikini",
+        "anti-socialist clothing",
+        "self-criticism statement",
+        "punishment",
+        "fashion crimes",
+        "released with clothes",
+        "capitalistic lifestyle"
+      ],
+      "texte": "And don't even think of trying to deal with the heat upwards of 80° Fahrenheit by wearing [music] a bikini. That's yet another anti-socialist article of clothing, and one that conveys you partake in a capitalistic lifestyle. The only way to atone is to write out a statement of self-criticism and sign a document stating that you agree to receive more severe consequences if you're caught committing such crimes against fashion again. And you can only be released provided someone can bring you something more appropriate to wear. So, you better hope there's an acceptable change of clothes in your suitcase."
+    },
+    {
+      "id": 193,
+      "debut": 7225.7,
+      "fin": 7261.41,
+      "temps_estime": true,
+      "titre": "North Korea: official haircut rules for men",
+      "resume": "North Korea has an official list of state-sanctioned haircuts. Men may not have hair longer than 5 cm until a certain age, after which they may grow it up to 3 inches; spiky or dyed hair is banned as capitalist expression, as bad as skinny jeans.",
+      "mots_cles": [
+        "North Korea",
+        "haircut rules",
+        "state-sanctioned haircuts",
+        "men's hair 5 cm",
+        "dyed hair",
+        "spiky hair",
+        "capitalist sentiments",
+        "DPRK government"
+      ],
+      "texte": "As if suppression of any self-expression through clothing wasn't enough, North Korea even has restrictions on what haircuts people can [music] have. There's even an official list of state-sanctioned haircut guidelines released by the DPRK's government that includes even more oddly gendered instructions. For example, men are prohibited from having hair longer than 5 cm, or just shy of 2 in, until they reach a certain age, wherein they're generously afforded to grow it out a little more, up to a whole 3 in. Having [music] spiky or dyed hair is also banned, as it's considered as bad as wearing a pair of skinny jeans when it comes to expressing capitalist sentiments."
+    },
+    {
+      "id": 194,
+      "debut": 7261.41,
+      "fin": 7279.48,
+      "temps_estime": true,
+      "titre": "North Korea: official haircut rules for women",
+      "resume": "Women in North Korea can choose from 14 styles, with married women told to keep hair slightly shorter and single women allowed looser, curlier styles. The video notes the guidelines leave non-binary or agender people out.",
+      "mots_cles": [
+        "North Korea",
+        "women's hairstyles",
+        "14 styles",
+        "married women",
+        "single women",
+        "gendered rules",
+        "haircut guidelines",
+        "non-binary"
+      ],
+      "texte": "The ladies of the DPRK, on the other hand, have a whole 14 styles they can choose from, but married women are told to keep their hair slightly shorter. All the single ladies in North Korea are allowed to have looser, curlier styles, but God knows where that leaves any non-binary or agender folks."
     }
   ]
 }

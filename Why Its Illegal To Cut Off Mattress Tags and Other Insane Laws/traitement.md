@@ -14,6 +14,10 @@ Reprise à la ligne 1860 (un autre agent s'était arrêté après la tranche 2 ;
 
 - Tranche 3 : lignes 1860 à 2854, 3646,08 à 5484,96 s (~30,7 min), 50 segments (id 88 à 137). Vérification OK. Contenu : fin de la liste « choses illégales en Russie » (n° 9 blogs à n° 1 sous-vêtements en dentelle), « choses illégales du quotidien aux États-Unis » (chien sans licence, électronique jetée, Orem, Milwaukee, curfews, impôts, mots de passe Netflix, Bobby Unser, obstruction), puis « 20 choses légales aux États-Unis » (n° 20 singes à n° 4 conduire nu). Les coupures en milieu de ligne (titres de liste) sont marquées temps_estime = true.
 
+Reprise à la ligne 2855 (un autre agent s'était arrêté après la tranche 3 ; son travail est vérifié OK et n'a pas été modifié ; mêmes conventions de titres, de résumés et de coupures).
+
+- Tranche 4 : lignes 2855 à 3803, 5484,96 à 7279,48 s (~30 min), 57 segments (id 138 à 194). Vérification OK. Contenu : fin de « 20 choses légales aux États-Unis » (n° 3 détecteurs de radar à n° 1 étiquette de matelas), « 10 choses les plus illégales jamais inventées » (n° 10 gilets pare-balles à n° 1 armes biologiques, 2 segments quand le sujet a deux temps), « choses autrefois légales » (travail des enfants, prostitution, conduite en état d'ivresse, mercenaires, bataille de Khasham), puis début de « lois illégales en Corée du Nord » (voyage, films et musique, appels internationaux, vêtements, coupes de cheveux). Coupure de tranche à la fin de la ligne 3803 (fin de l'idée sur les coupes de cheveux, juste avant les piercings). Plus courts : segments de transition ou de suite courte (9 à 17 s) ; plus long : 75 s. Temps estimés (coupes en milieu de ligne) : presque tous les segments, comme avant.
+
 ## Décisions prises (pour qui reprend le travail)
 
 - Une idée = un sujet précis : une loi bizarre (ex. Boulder, Reno, Akron), un cas judiciaire (Hattori, Johns Hopkins, Baltimore) ou une étape d'un raisonnement. Quand un cas est long, il est scindé en « les faits » et « le verdict / les suites ».
@@ -25,3 +29,6 @@ Reprise à la ligne 1860 (un autre agent s'était arrêté après la tranche 2 ;
 ## Point d'arrêt
 
 Tranche 3 terminée : lignes_traitees = 2854 (fin de « Number 4: driving naked », juste avant « And while driving, you might want to save yourself some money. Number three, using radar detectors »). Prochaine étape : reprise à la ligne 2855 (n° 3 : détecteurs de radar). La vidéo est une compilation de plusieurs sujets (lois absurdes, voyage dans le temps, aliments interdits aux USA, Russie) : un nouveau sujet commence souvent par un titre sans transition, à couper en milieu de ligne si besoin. Format des titres pour les listes numérotées : « Number N: sujet ».
+
+
+Tranche 4 terminée : lignes_traitees = 3803 (fin de « North Korea: official haircut rules for women », juste avant « Oh, and while we're on the topic of prohibited personal styles, piercings are also banned »). Prochaine étape : reprise à la ligne 3804 (Corée du Nord : piercings, interdiction de sourire pendant le deuil, internet), id suivant 195. Reste 410 lignes, environ 13 minutes (7279 à 8096 s) : une seule tranche finale, puis passer « complet » à true et ajouter le bilan final (méthode, nombre de segments, plus court et plus long, passages douteux).
