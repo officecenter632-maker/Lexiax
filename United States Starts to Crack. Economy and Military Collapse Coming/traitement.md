@@ -27,3 +27,10 @@ Départ : début de la vidéo (aucun segments.json existant).
   Tranche volontairement arrêtée à une fin d'épisode (ligne 3586) : l'épisode suivant (« 250 ans d'histoire américaine », à partir de la ligne 3587, ≈ 7170 s) commence dans la tranche 5.
   Passages douteux : le scénario 2026 est une fiction hypothétique (pas des faits) ; le segment 168 finit par « ...while the rest of the world breaks » car « apart. » passe sur la ligne 3587.
   Point d'arrêt : ligne 3586. Prochaine étape : ligne 3587 (« apart. From a scrappy cluster of rebellious colonies... »).
+
+- Reprise à la ligne 3587 par un nouvel agent (segments.json existant vérifié : 168 segments, lignes 1 à 3586, OK).
+- Tranche 5 : lignes 3587 à 4496 (7172,77 à 8973,99 s ≈ 30,0 min), 53 segments (id 169 à 221).
+  Contenu : épisode « 250 ans d'histoire américaine » : Washington à Brooklyn Heights, colonisation, causes de la Révolution, esclavage et lois raciales, Déclaration d'indépendance, guerre et traité de Paris, Constitution, premiers partis, guerre de 1812, révolution du marché, abolitionnisme, guerre de Sécession, assassinat de Lincoln, début de la Reconstruction et Homestead Act.
+  Méthode inchangée (plages de lignes, texte reconstruit par script, coupures en fin de ligne, règle de la majorité de mots, égalité = segment suivant). Style des titres : phrase descriptive courte en anglais ; mots-clés 6 à 9.
+  Remarques : le résumé du segment 184 précise que le speech dit « April 9th, 1775 » pour Lexington et Concord (le 19 avril en réalité) ; le segment 189 reprend « between 350,000 and 500 » tel que transcrit (probablement « 500,000 »). Les noms propres des résumés sont orthographiés correctement même quand le speech les écorche (« Green » pour Greene, « weren' », etc.).
+  Point d'arrêt : ligne 4496 (« ...millions of acres of native land were seized. »). Prochaine étape : ligne 4497 (« President Andrew Johnson became the president, a southerner from Tennessee... »).

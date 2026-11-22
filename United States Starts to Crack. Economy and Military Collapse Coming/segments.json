@@ -4,12 +4,12 @@
   "titre_video": "United States Starts to Crack. Economy and Military Collapse Coming",
   "duree_s": 10537.11,
   "avancement": {
-    "lignes_traitees": 3586,
-    "fin_traitee_s": 7172.77,
+    "lignes_traitees": 4496,
+    "fin_traitee_s": 8973.99,
     "nb_lignes_total": 5265,
     "complet": false
   },
-  "nb_segments": 168,
+  "nb_segments": 221,
   "segments": [
     {
       "id": 1,
@@ -3205,6 +3205,1008 @@
         "global war"
       ],
       "texte": "survive. So, who wins [music] doesn't depend on firepower. It depends on whether the war stays conventional. If nuclear weapons remain in their silos and the war relies on conventional weapons, guns, planes and ships, the United States wins. But it's a pyrrhic victory. The cost [music] is so extreme that it barely resembles winning at all. In the air, the US wins because technology beats numbers. At sea, it wins because carriers and submarines dominate global trade. On the ground, the war stalls. Numbers push back, but logistics break the advance. And in a nuclear war, nobody wins. The United States has built a military designed to fight two major wars at once, but fighting the entire world would push it past the limit. The US could defend its homeland and the global economy with its navy. It could devastate enemy infrastructure from the air, but it could not conquer the world. There simply aren't enough troops to occupy Europe and Asia. And that's why in a global war, the United States survives while the rest of the world breaks"
+    },
+    {
+      "id": 169,
+      "debut": 7172.77,
+      "fin": 7188.17,
+      "temps_estime": false,
+      "titre": "Intro: 250 years of American history",
+      "resume": "The episode opens by presenting the United States as a story of relentless ambition and constant contradiction, from a scrappy cluster of rebellious colonies to a global superpower that reshaped the modern world. The Infographics Show announces a tour through 250 years of American history.",
+      "mots_cles": [
+        "250 years of American history",
+        "United States",
+        "colonies",
+        "superpower",
+        "ambition",
+        "contradiction",
+        "Infographics Show",
+        "history overview"
+      ],
+      "texte": "apart. From a scrappy cluster of rebellious colonies to a global superpower that reshaped the modern world, the United [music] States is a story of relentless ambition and constant contradiction. On today's episode of The Infographics Show, we're taking you through 250 years of American"
+    },
+    {
+      "id": 170,
+      "debut": 7188.17,
+      "fin": 7234.37,
+      "temps_estime": false,
+      "titre": "George Washington at Brooklyn Heights: debt to England and the choice of rebellion",
+      "resume": "At Brooklyn Heights in 1776 General George Washington, a wealthy gentleman planter in debt to English creditors, watches the British fleet gather. The colonial gentry's fortunes are chained to London through credit, trade rules and taxes funding Britain's wars, so rebellion is the only escape and Washington rejects the British offer of pardon.",
+      "mots_cles": [
+        "George Washington",
+        "Brooklyn Heights",
+        "Continental Army",
+        "English creditors",
+        "colonial debt",
+        "rebellion",
+        "pardon",
+        "New York Bay"
+      ],
+      "texte": "history. At Brooklyn Heights, General George Washington, Commander in Chief of the Continental Army, stared out at a forest of British masts rising from the mist over New York Bay. More than a century [music] after his forebears first set foot in the New World, Washington, English blood, American heart, had developed very [music] expensive tastes. He lived like a gentleman planter, wealthy in land and tobacco. But like so many founding fathers, his luxuries came wrapped in debt to the English creditors. The colonial gentry's honor and fortunes were chained [music] to London. Its credit system, suffocating trade rules and punishing taxes, meant to fund Britain's [music] endless wars. Rebellion was the only escape, and if it failed, the noose was waiting. There was no turning back. So, when the British offered a pardon for surrender, Washington fired back, those who have committed no faults want no pardon."
+    },
+    {
+      "id": 171,
+      "debut": 7234.37,
+      "fin": 7285.97,
+      "temps_estime": false,
+      "titre": "Battle of Long Island: the British armada crushes the Continental Army",
+      "resume": "General William Howe's armada, the largest expeditionary force Britain had sent abroad with over 32,000 troops, regulars, Hessians and the greatest navy on Earth, faces about 10,000 barely trained colonists. Washington urges his men to conquer or die, but British volleys and Hessian bayonets outflank and break the Continental forces.",
+      "mots_cles": [
+        "Battle of Long Island",
+        "William Howe",
+        "Hessians",
+        "British navy",
+        "32,000 troops",
+        "Washington",
+        "Continental forces",
+        "1776"
+      ],
+      "texte": "Before him was the largest expeditionary force [music] Britain had ever sent to foreign soil, over 32,000 troops, British regulars in red coats, [music] German auxiliaries known as Hessians, and the greatest navy on Earth, all bearing down on 10,000 [music] barely trained colonists. 10 ships of the line, 20 frigates, and nearly 200 transports, General William Howe's armada filled the bay like a floating city of doom. Washington would have heard the creak of rigging [music] and the roll of drums across the water. He told his men the time is now near at hand, which must probably determine whether Americans are to be free men or slaves. We have therefore to resolve to conquer or die. But when the assault began, the British advanced with brutal efficiency. Hessian bayonets and British volleys tore through the American lines. Outflanked, [music] outnumbered, and surrounded, the Continental Forces broke. Washington watched as his men fell, fled, or were taken prisoner. [music]"
+    },
+    {
+      "id": 172,
+      "debut": 7285.97,
+      "fin": 7331.47,
+      "temps_estime": false,
+      "titre": "Occupied New York and a divided population: loyalists, patriots and neutrals",
+      "resume": "The British occupy New York for seven years, offering freedom to enslaved people who join the Crown, while Washington plots to overthrow an empire with a half-starved army. The population is split in thirds, loyalists fearing chaos and lost trade, patriots seeing economic opportunity with political autonomy, and neutrals just avoiding both sides.",
+      "mots_cles": [
+        "New York occupation",
+        "loyalists",
+        "patriots",
+        "neutrals",
+        "divided population",
+        "enslaved people freedom",
+        "independence",
+        "1776"
+      ],
+      "texte": "The British, backed by loyalists in New York, occupied the city for seven long years. They offered freedom to enslaved people [music] who joined the Crown. They imprisoned suspected rebels and celebrated their triumph. Meanwhile, Washington dragged his battered army into the wilderness and began plotting the impossible, overthrow an empire with a half-starved army and a divided population. A third were loyalists, a third rebels, and a third sitting on the fence. For many, it was not all about honor and liberty, but whether independence would make their life better or worse. Loyalists feared chaos, lost trade, and mob rule. Patriots [music] saw economic opportunity with political autonomy. Neutrals, many poor or in bondage, just wanted to avoid being burned by either side. Only a decade or so earlier, rebellion would have seemed unthinkable. Yet by 1776, [music]"
+    },
+    {
+      "id": 173,
+      "debut": 7331.47,
+      "fin": 7357.67,
+      "temps_estime": false,
+      "titre": "England in the 1500s, Spain's treasure and the lost colony of Roanoke",
+      "resume": "To explain 1776 the narrator goes back to 16th-century England, crowded and unequal, whose Crown envied Spain's shiploads of treasure from the New World. After 1588 the seas opened to English expansion, and its first attempt, the Roanoke colony in what is now North Carolina, vanished.",
+      "mots_cles": [
+        "England 1500s",
+        "Spain treasure",
+        "New World",
+        "1588",
+        "Roanoke colony",
+        "English expansion",
+        "North Carolina",
+        "colonization"
+      ],
+      "texte": "everything had changed. To understand why, you have to go back to England in the 1500s, [music] a kingdom cracking under its own weight. England was crowded, unequal, and overflowing with people who had nowhere to go, and the Crown, watching Spain haul shiploads of treasure from the so-called New World, wanted its own slice of that fortune. After 1588, the seas finally opened to English expansion, and their first attempt, the Roanoke colony in what's now North Carolina, simply vanished. [music]"
+    },
+    {
+      "id": 174,
+      "debut": 7357.67,
+      "fin": 7399.57,
+      "temps_estime": false,
+      "titre": "Jamestown, tobacco and the start of indentured servitude and slavery",
+      "resume": "Europeans stepped into a continent already home to seven to 10 million Native Americans. Jamestown, founded in 1607, nearly died of mud, disease and hunger, and was saved by tobacco planted by John Rolfe, with tens of thousands of indentured servants shipped over and Africans first brought as servants and later as lifelong slaves.",
+      "mots_cles": [
+        "Jamestown 1607",
+        "tobacco",
+        "John Rolfe",
+        "Native Americans",
+        "indentured servants",
+        "Virginia",
+        "Africans",
+        "slavery origins"
+      ],
+      "texte": "Over a hundred settlers vanished without a trace. Europeans hadn't discovered a new world at all. They had stepped into a continent already home to seven to 10 million Native Americans. Then came Jamestown in 1607. The settlers had dreamed of [music] gold, but found mud, disease, and hunger. Within months, half were dead. But Jamestown survived not through gold, but through [music] a leaf, tobacco. Colonist John Rolfe planted it and struck fortune. Europe's addiction to it saved the colony. Virginia expanded, [music] but the cost was steep. Tens of thousands of poor whites shipped over as indentured servants, many of them forced. Africans survived too, first as indentured [music] servants and later as lifelong slaves, a story we'll get to soon. Other"
+    },
+    {
+      "id": 175,
+      "debut": 7399.57,
+      "fin": 7424.97,
+      "temps_estime": false,
+      "titre": "Colonial wars with Native Americans and epidemic disease",
+      "resume": "Colonies carved out of blood and sweat traded with but often fought Native Americans: in Connecticut colonists and their allies massacred the Pequot, and in King Philip's War in 1675 the Wampanoag struck back before being wiped out. Smallpox, measles and influenza devastated native nations.",
+      "mots_cles": [
+        "Pequot massacre",
+        "King Philip's War",
+        "Wampanoag",
+        "1675",
+        "smallpox",
+        "native nations",
+        "Connecticut",
+        "colonial conflict"
+      ],
+      "texte": "colonies followed, each carved from blood, sweat, and tears, sometimes trading with the Native Americans, but often in conflict. In Connecticut, [music] colonists and their Indian allies massacred the Pequot, burning their fort and slaughtering hundreds. In King Philip's War in 1675, the Wampanoag struck back, killing thousands before being wiped [music] out in turn. Disease finished what the muskets began. Waves of smallpox, measles, and influenza tore through native nations with catastrophic"
+    },
+    {
+      "id": 176,
+      "debut": 7424.97,
+      "fin": 7449.17,
+      "temps_estime": false,
+      "titre": "Religion and the Pilgrims: Mayflower and New Amsterdam",
+      "resume": "Faith in its fractured forms crossed the ocean after the Reformation splintered Europe's religious unity, and persecuted believers headed to America. The Pilgrims arrived on the Mayflower in Massachusetts in 1620, and in 1664 the English captured New Amsterdam from the Dutch and renamed it New York.",
+      "mots_cles": [
+        "Reformation",
+        "Pilgrims",
+        "Mayflower",
+        "1620",
+        "Massachusetts",
+        "New Amsterdam",
+        "New York 1664",
+        "religious persecution"
+      ],
+      "texte": "[music] speed. And while disease reshaped the continent, another force was crossing the ocean, faith in all of its fractured forms. After the Reformation splintered Europe's [music] religious unity, many of the persecuted believers headed across the pond. And in 1620, the pilgrims arrived aboard the Mayflower landing in present-day Massachusetts. In 1664, the English captured New Amsterdam from the Dutch and renamed it New York after the Duke"
+    },
+    {
+      "id": 177,
+      "debut": 7449.17,
+      "fin": 7509.97,
+      "temps_estime": false,
+      "titre": "Colonial self-government versus Parliament and Britain's debt",
+      "resume": "The colonies shared struggle, with every acre wrested from hunger, disease or violence, but they managed their own assemblies and taxation while Britain was busy with European wars. Colonists came to see assemblies as legitimate as Parliament, which refused, even though they were a major market and Britain's national debt was 13.5 times its annual revenue under George III and the Tories.",
+      "mots_cles": [
+        "colonial assemblies",
+        "local taxation",
+        "Parliament",
+        "George III",
+        "Tories",
+        "British national debt",
+        "colonial self-rule",
+        "1760"
+      ],
+      "texte": "of York. What united all the new colonies was struggle. While many of the landowners on the colonies were landed gentry or wealthy merchants, usually with plenty of free labor, survival was still very difficult. Every acre had been wrested from hunger, disease, or violence. Colonists were proud of what they built, and by God, they would fight for it. They were under crown authority, but they had long managed their own assemblies, [music] controlled local taxation, and governed themselves, all while Britain was preoccupied with European wars with other great powers. Over time, many colonists came to see their assemblies as legitimate as the British Parliament, but Parliament and the Crown [music] said no. For the colonists, it seemed unfair. After all, they were British, too, and now they were economically important, a major market for British goods. Britain now had much of North America and India in its pocket, [music] but its national debt was 13 and 1/2 times its annual revenue. When King George III took the throne in 1760, [music] the Tories, the party which believed in authoritarian rule abroad, made it brutally clear that the colonies"
+    },
+    {
+      "id": 178,
+      "debut": 7509.97,
+      "fin": 7534.37,
+      "temps_estime": false,
+      "titre": "The spark: the Appalachian ban and the tax reforms",
+      "resume": "George III orders colonists to stop fighting native nations and grabbing land in the Appalachian Mountains, which colonists felt as betrayal since expansion was a right. Britain then makes the mistake every empire makes, squeezing its colonies too hard with tax reforms.",
+      "mots_cles": [
+        "Appalachian Mountains",
+        "western expansion ban",
+        "George III",
+        "tax reforms",
+        "colonial grievances",
+        "imperial overreach",
+        "betrayal"
+      ],
+      "texte": "were not Britain's equals. Then came the spark. George ordered the colonists to stop fighting native nations and to quit grabbing territory in the Appalachian Mountains. To colonists, expansion wasn't just a desire, it was a right. Being told no felt like betrayal. And then came the tax reforms. This was the moment Britain made the same mistake [music] every empire eventually does, squeezing its colonies just a little too"
+    },
+    {
+      "id": 179,
+      "debut": 7534.37,
+      "fin": 7559.87,
+      "temps_estime": false,
+      "titre": "Sugar Act and Stamp Act of 1764-65",
+      "resume": "In 1764 Parliament passes the Sugar Act to curb smuggling and raise revenue, and the Stamp Act requiring newspapers, legal documents, diplomas and playing cards to be printed on stamped paper. Colonists, who considered themselves English, were outraged at being treated like a conquered nation and argued only they should impose taxes.",
+      "mots_cles": [
+        "Sugar Act",
+        "Stamp Act",
+        "1764",
+        "stamped paper",
+        "taxation",
+        "smuggling",
+        "colonial outrage",
+        "Parliament"
+      ],
+      "texte": "hard. In 1764, Parliament passed two major reforms. The Sugar Act aimed to cut down on smuggling and raise revenue, and the Stamp Act decreed newspapers, legal documents, diplomas, and even playing cards had to be printed on stamped paper to prove duty had been paid. That one really annoyed the colonists. They were English, not foreigners, so why were they being treated like a conquered nation? Surely it should be up to them to impose taxes."
+    },
+    {
+      "id": 180,
+      "debut": 7559.87,
+      "fin": 7608.38,
+      "temps_estime": false,
+      "titre": "Stamp Act Congress, boycott and the Sons of Liberty",
+      "resume": "Colonists shout \"no taxation without representation\", and in 1765 nine colonies meet in the Stamp Act Congress in New York, including Benjamin Franklin, declaring subjects cannot be taxed without consent. Merchants halt exports, Sons of Liberty riots in Boston tar and feather officials, and Parliament repeals the Stamp Act while colonists cheer the king.",
+      "mots_cles": [
+        "no taxation without representation",
+        "Stamp Act Congress",
+        "Benjamin Franklin",
+        "Declaration of Rights and Grievances",
+        "Sons of Liberty",
+        "boycott",
+        "Stamp Act repeal",
+        "1765"
+      ],
+      "texte": "[music] No taxation without representation, they shouted in the streets. In 1765, representatives from nine colonies joined the Stamp Act Congress in New York City, including Benjamin Franklin. [music] In their Declaration of Rights and Grievances they submitted to the king and Parliament, they declared that all subjects of Britain shall [music] not be taxed without his consent. And then merchants hit Britain where it hurt. They agreed not to export any goods until the Stamp Act was repealed. In Boston, riots broke out, spreading to other colonies as men joined the resistance group known as the Sons of Liberty. Reports described British officials being dragged through the streets and covered in tar and feathers. Parliament eventually repealed the Stamp Act, and colonists celebrated, shouting long live the king, and even erecting a statue of him in New York City. But the"
+    },
+    {
+      "id": 181,
+      "debut": 7608.38,
+      "fin": 7634.18,
+      "temps_estime": false,
+      "titre": "Townshend Acts, shared American identity and the Boston Massacre",
+      "resume": "In 1767 Britain passes the Townshend Acts, new import duties on lead, glass, paint and tea, and goes after smugglers again. Planter elites, merchants, laborers and women protest together and their shared grievances feed a growing American political identity, until British soldiers shoot into an angry mob in Boston.",
+      "mots_cles": [
+        "Townshend Acts",
+        "1767",
+        "import duties",
+        "American identity",
+        "Boston Massacre",
+        "smugglers",
+        "colonial unity",
+        "tea"
+      ],
+      "texte": "joy did not last. In June [music] 1767, Britain passed the Townshend Acts, imposing new import duties on everyday goods like lead, glass, paint, and tea, and again going after the smugglers. [music] These too would be repealed, but the damage was done. As planter elites marched alongside merchants, laborers, and women, their shared grievances fed [music] a growing American political identity. Three years later, British soldiers in Boston shot their muskets at an angry [music] mob, resulting in a"
+    },
+    {
+      "id": 182,
+      "debut": 7634.18,
+      "fin": 7674.68,
+      "temps_estime": false,
+      "titre": "Tea Act of 1773 and the Boston Tea Party",
+      "resume": "In 1773 Parliament rescues the debt-ridden East India Company with the Regulating Act and the Tea Act, allowing it to sell cheaper tea directly to the colonies, which colonists see as a trap accepting Parliament's right to tax. Samuel Adams and John Hancock urge the Sons of Liberty to block the landing, and on December 16, 1773 men disguised as Mohawks dump the cargo in Boston Harbor.",
+      "mots_cles": [
+        "Tea Act",
+        "East India Company",
+        "Boston Tea Party",
+        "December 16 1773",
+        "Samuel Adams",
+        "John Hancock",
+        "Sons of Liberty",
+        "Boston Harbor"
+      ],
+      "texte": "bloody massacre. And then came the breaking point. In 1773, Parliament tried to save the collapsing East India Company, drowning in debt and unsold tea. The Regulating Act put it under government control, and the Tea Act let it sell tea directly to the colonies at lower prices, undercutting local merchants. [music] The tea was cheaper, but colonists saw a trap. Accepting it meant accepting Parliament's right to tax [music] them. When the company's ships reached Boston Harbor, Samuel Adams and John Hancock urged the Sons of Liberty to block the landing at the risk of their [music] lives and property. After days of a standoff, tensions snapped. On December [music] 16th, 1773, men disguised as Mohawks boarded the ships and dumped the cargo, the Boston"
+    },
+    {
+      "id": 183,
+      "debut": 7674.68,
+      "fin": 7697.18,
+      "temps_estime": false,
+      "titre": "Open rebellion and the First Continental Congress",
+      "resume": "After the Boston Tea Party rebellion spreads as crowds seize or destroy tea, Britain dissolves colonial assemblies and sends troops, and the colonies respond by forming the Continental Congress. Delegates are divided between loyalists, neutrals and radicals who demand independence and nothing else.",
+      "mots_cles": [
+        "Continental Congress",
+        "colonial assemblies dissolved",
+        "radicals",
+        "loyalists",
+        "independence",
+        "British crackdown",
+        "Boston Tea Party aftermath"
+      ],
+      "texte": "Tea Party. [music] It was open rebellion. Word spread across the colonies as crowds seized or destroyed tea. Britain responded by dissolving colonial assemblies and ordering troops to crack down. The colonies answered by forming the Continental Congress. Delegates were divided on what to do next. [music] Many were loyalists, some were neutral, others, the radicals, said we want independence and nothing else."
+    },
+    {
+      "id": 184,
+      "debut": 7697.18,
+      "fin": 7717.78,
+      "temps_estime": false,
+      "titre": "Lexington and Concord, Minutemen and the Battle of Bunker Hill",
+      "resume": "On April 19, 1775 (given in the speech as April 9th) British troops clash with militias at Lexington and Concord, and some 20,000 Minutemen surround Boston. At Bunker Hill the British take the high ground but suffer over 1,000 casualties against 450 for the colonials, a pyrrhic victory.",
+      "mots_cles": [
+        "Lexington and Concord",
+        "1775",
+        "Minutemen",
+        "Boston siege",
+        "Bunker Hill",
+        "pyrrhic victory",
+        "casualties",
+        "militia"
+      ],
+      "texte": "On April [music] 9th, 1775, British troops clashed with local militias in Lexington and Concord. Soon, roughly 20,000 militia, the Minutemen, surrounded Boston. At Bunker Hill, the British seized the high ground, but at a brutal cost, over 1,000 [music] casualties, more than double the 450 suffered by the colonials. It was a victory, but a pyrrhic one."
+    },
+    {
+      "id": 185,
+      "debut": 7717.78,
+      "fin": 7760.08,
+      "temps_estime": false,
+      "titre": "Continental Army, Washington and the king's proclamation of rebellion",
+      "resume": "Massachusetts radicals John Adams, Samuel Adams and John Hancock urge Congress to help, and moderates hesitate but agree to turn the Massachusetts militia into a Continental Army under Virginia delegate George Washington. Congress's Declaration of the Causes of Necessity of Taking Up Arms insists on fairness, not independence, but the king issues a proclamation for suppressing rebellion and sedition.",
+      "mots_cles": [
+        "Continental Army",
+        "George Washington commander",
+        "John Adams",
+        "Declaration of the Causes and Necessity of Taking Up Arms",
+        "proclamation for suppressing rebellion",
+        "moderates",
+        "George III",
+        "1775"
+      ],
+      "texte": "Massachusetts radicals, including John Adams, Samuel Adams, and John Hancock, urged Congress to send help. Moderates weren' so sure. Aiding the rebels could spark a full-scale war. In the end, they didn't send the troops, [music] but they agreed to transform the Massachusetts militia into a Continental Army. Washington, the Virginia delegate, was appointed as its commander. They issued the Declaration of the Causes of Necessity of Taking Up Arms to explain why this was a necessity. They insisted that they were not looking for independence, [music] just fairness. But Britain, not exactly accommodating, responded with [music] the proclamation for suppressing rebellion and sedition. The king declared that whatever the colonists said, this was clearly an attempt to establish an independent empire. About"
+    },
+    {
+      "id": 186,
+      "debut": 7760.08,
+      "fin": 7780.18,
+      "temps_estime": false,
+      "titre": "Loyalists and Lord Dunmore's proclamation freeing servants",
+      "resume": "About 20% of colonists, the loyalists, stay devoted to the crown and many will flee to Canada or England. The British try to beat the colonists from within: in Virginia, royal governor Lord Dunmore declares all indentured servants free if they join the British cause, drawing a massive force of people.",
+      "mots_cles": [
+        "loyalists",
+        "20% of colonists",
+        "Lord Dunmore",
+        "Virginia",
+        "indentured servants",
+        "British strategy",
+        "freedom for service",
+        "flee to Canada"
+      ],
+      "texte": "20% of colonists, the loyalists, remained devoted to the crown, but many of those would soon have to flee to Canada or England or possibly face judgment. But the British believed that they could beat the colonists from within. [music] In Virginia, the royal governor, Lord Dunmore, declared that all indentured servants would gain their freedom if they joined the British cause, and it was a massive force of"
+    },
+    {
+      "id": 187,
+      "debut": 7780.18,
+      "fin": 7819.78,
+      "temps_estime": false,
+      "titre": "The real story beneath the revolution: Africans from 1619 and brutal servitude",
+      "resume": "The narrator says the real story shaping America's future began before the war: the first Africans arrived in Jamestown in 1619 as indentured servants working beside whites until freed or dead. Africans were costlier to import so their numbers stayed small, most were treated brutally, some rebelled, and black and white laborers began running away together, alarming the colonial elite.",
+      "mots_cles": [
+        "Africans 1619",
+        "Jamestown",
+        "indentured servants",
+        "brutal treatment",
+        "runaways",
+        "colonial elite",
+        "black and white laborers",
+        "slavery origins"
+      ],
+      "texte": "people. But the real story running underneath the revolution, the one shaping America's future, began long before the first shots of the war. The first Africans arrived in Jamestown in 1619 as indentured servants, laboring beside their white counterparts until freed or dead. But Africans were more expensive to import than whites, so their numbers remained small at first. It was possible to complete a contract, even buy servants themselves, but most were [music] treated brutally, making survival hard. It was hell on earth, ripped from family, dying on the ships, beaten and whipped. So some rebelled. As black and white laborers began running away, sometimes together, [music] the colonial elite saw danger brewing."
+    },
+    {
+      "id": 188,
+      "debut": 7819.78,
+      "fin": 7861.78,
+      "temps_estime": false,
+      "titre": "Bacon's Rebellion and the invention of racial hierarchy through slave codes",
+      "resume": "After Bacon's Rebellion in 1676, when whites and blacks, enslaved and free, united against Virginia's wealthy planters including the Washington family, the revolt was crushed and the ruling class rewrote the laws to divide the bonded by race. African slavery became lifelong and hereditary, masters got immunity for killing, and the slave codes' divide and rule racial hierarchy launched centuries of racism.",
+      "mots_cles": [
+        "Bacon's Rebellion",
+        "1676",
+        "slave codes",
+        "racial hierarchy",
+        "divide and rule",
+        "hereditary slavery",
+        "Virginia planters",
+        "racism origins"
+      ],
+      "texte": "Their fear erupted into panic after Bacon's Rebellion in 1676 [music] when whites and blacks, enslaved and free, united against Virginia's wealthy planters, [music] including the Washington family. The revolt was ruthlessly crushed, but the ruling class was panicking. They rewrote the laws to divide those in bondage by race. African slavery became lifelong and hereditary, and the masters were granted legal immunity if an enslaved [music] person died under their punishment, effectively making killing legal. This deliberate creation of racial hierarchy enshrined in the slave codes was designed to destroy race solidarity. The divide and rule race distinction, a turning point in American history, propagated what would become centuries of racism. So"
+    },
+    {
+      "id": 189,
+      "debut": 7861.78,
+      "fin": 7896.12,
+      "temps_estime": false,
+      "titre": "Forced labor numbers and Washington as slaveholder",
+      "resume": "Settling America rested on forced labor: between 350,000 and 500 (as transcribed) white indentured servants and roughly 400,000 enslaved Africans were shipped to the Americas, and the enslaved population in the southern colonies likely reached half a million by the early 1760s. Colonial leaders did not ask them to fight for fear of armed rebellion, and George Washington owned hundreds of white servants and black slaves and advertised for runaways.",
+      "mots_cles": [
+        "forced labor",
+        "indentured servants numbers",
+        "400,000 enslaved Africans",
+        "half a million enslaved",
+        "southern colonies",
+        "George Washington slaveholder",
+        "runaway ads",
+        "armed rebellion fear"
+      ],
+      "texte": "settling America was a heroic task, but it was built on the backs [music] of forced labor. Between 350,000 and 500 white indentured servants were shipped to the Americas before and after independence, [music] and alongside them came roughly 400,000 enslaved Africans. By the early 1760s, the enslaved population in the southern colonies had likely [music] reached half a million. Yet they weren't asked to fight in the war because the colonial leaders feared an armed rebellion. George Washington owned both white servants and black [music] slaves, hundreds of them over his lifetime. He even placed newspaper ads for his runaways, black and white"
+    },
+    {
+      "id": 190,
+      "debut": 7896.12,
+      "fin": 7924.28,
+      "temps_estime": false,
+      "titre": "Freedom behind British lines and colonial crackdowns on enslaved people",
+      "resume": "As the revolution began, the British offer of freedom to people in bondage was a major concern for colonial leaders, and it was about survival, not loyalty to the crown. Thousands of enslaved Africans fled to British lines and many poor whites joined loyalist militias, so colonial governments issued brutal laws threatening execution and forced many enslaved people inland.",
+      "mots_cles": [
+        "British offer of freedom",
+        "enslaved Africans fled",
+        "loyalist militias",
+        "poor whites",
+        "colonial crackdown",
+        "execution threat",
+        "survival",
+        "American Revolution"
+      ],
+      "texte": "alike. So as the revolution began, [music] the British offering those people in bondage a path to freedom was a major concern. This wasn't about loyalties to the crown, it was pure survival. Thousands of enslaved Africans fled to British lines while many poor whites joined loyalist militias rather than fight for patriot elites. [music] In response, colonial governments cracked down, issuing brutal laws that threatened enslaved people with execution if they rebelled. Many were forced inland farther from the British"
+    },
+    {
+      "id": 191,
+      "debut": 7924.28,
+      "fin": 7973.48,
+      "temps_estime": false,
+      "titre": "Declaration of Independence: Lee resolution, committee of five and Jefferson's deleted denunciation of slavery",
+      "resume": "On May 10, 1776 Congress urges colonies to set up revolutionary governments, and Richard Henry Lee introduces a resolution that the United Colonies ought to be free and independent states. A committee of five (Jefferson, John Adams, Franklin, Sherman, Livingston) drafts the Declaration with Jefferson as main writer, but his denunciation of slavery and the slave trade is removed at the insistence of South Carolina and Georgia delegates and some northern slave carriers.",
+      "mots_cles": [
+        "Declaration of Independence",
+        "Richard Henry Lee",
+        "committee of five",
+        "Thomas Jefferson",
+        "all men are created equal",
+        "denunciation of slavery removed",
+        "South Carolina and Georgia",
+        "slave trade"
+      ],
+      "texte": "promise of freedom. On May 10th, 1776, Congress urged all colonies to strip [music] power from the crown and establish revolutionary governments. A few weeks later, Richard Henry Lee introduced a resolution that declared resolved that these United Colonies are and of right ought to be free and independent states. A committee of five, Thomas Jefferson, [music] John Adams, Benjamin Franklin, Roger Sherman, and Robert Livingston drafted the declaration with Jefferson as the primary writer. It opened with the now [music] famous words, we hold these truths to be self-evident that all men are created equal. Jefferson's original draft included a denunciation of slavery and the slave trade, but it was removed at the insistence of delegates from South Carolina and Georgia. They wanted to continue the slave trade as well as some northern delegates who had also profited as considerable carriers of"
+    },
+    {
+      "id": 192,
+      "debut": 7973.48,
+      "fin": 8010.58,
+      "temps_estime": false,
+      "titre": "British early victories, French help and Von Steuben at Valley Forge",
+      "resume": "The British strike early and hard, driving Washington's army from New York and through New Jersey, but the Americans hold on aided by Britain's rivals France, Spain and the Netherlands. French weapons, money, troops and naval power prove decisive, and Baron Friedrich von Steuben, a former Prussian officer, drills Washington's troops at Valley Forge into a disciplined force.",
+      "mots_cles": [
+        "British offensive",
+        "New Jersey retreat",
+        "France Spain Netherlands",
+        "French naval power",
+        "Baron von Steuben",
+        "Valley Forge",
+        "Continental Army training",
+        "foreign aid"
+      ],
+      "texte": "slaves. But writing down ideals was one thing, fighting the most powerful empire on earth was another thing entirely. The British struck early and hard. They drove Washington's army from New York and forced desperate retreats through New Jersey. Yet the Americans held on, aided enormously by Britain's rivals, France, Spain, and the Netherlands, who saw a chance to weaken the empire. French help [music] proved decisive, weapons, money, troops, and most importantly, naval power. Volunteers arrived too, including Baron Friedrich von Steuben, [music] a former Prussian officer who drilled Washington's ragged troops at Valley Forge and transformed them into a disciplined force. By the"
+    },
+    {
+      "id": 193,
+      "debut": 8010.58,
+      "fin": 8041.78,
+      "temps_estime": false,
+      "titre": "The southern campaign and Yorktown",
+      "resume": "By the late 1770s Britain's global empire is its weakness, stretched from North America to the Caribbean, the Mediterranean, West Africa and India, so it shifts the war south, capturing Georgia and South Carolina. General Nathanael Greene bleeds them with hit-and-run tactics and pushes Cornwallis into Virginia, where Washington and Rochambeau trap him at Yorktown in 1781 and he surrenders.",
+      "mots_cles": [
+        "Yorktown 1781",
+        "Cornwallis surrender",
+        "Nathanael Greene",
+        "Rochambeau",
+        "southern strategy",
+        "hit-and-run tactics",
+        "British imperial overextension",
+        "Georgia and South Carolina"
+      ],
+      "texte": "late 1770s, Britain's global empire had become its weakness, fighting stretch from North America to the Caribbean, the Mediterranean, West Africa, and India. Seeking loyalist support, the British shifted their war south, capturing Georgia and South Carolina. But there, General Nathaniel Green used hit-and-run tactics that bled them dry. Green pushed Lord Charles Cornwallis north into Virginia, where Washington and the French commander Rochambeau trapped him [music] at Yorktown in 1781. With no escape by land or sea, Cornwallis surrendered. The war wasn't technically"
+    },
+    {
+      "id": 194,
+      "debut": 8041.78,
+      "fin": 8060.38,
+      "temps_estime": false,
+      "titre": "Treaty of Paris 1783: why the colonies won",
+      "resume": "Although the war was not technically over, Britain had lost heart, and a Parliament weary of mounting costs and global commitments chose to end the conflict. Under the Treaty of Paris in 1783 Britain recognized the United States as independent, and the colonies won through endurance, foreign alliances and the overextension of the British Empire rather than raw military power.",
+      "mots_cles": [
+        "Treaty of Paris 1783",
+        "British recognition of independence",
+        "Parliament war costs",
+        "endurance",
+        "foreign alliances",
+        "British Empire overextension",
+        "American victory"
+      ],
+      "texte": "over, but Britain had lost heart. Parliament, weary of mounting costs and other global commitments, chose to end the conflict. Under the Treaty of Paris in 1783, Britain recognized the United States [music] as independent. The colonies had won, not by raw military power, but through endurance, foreign alliances, and the overextension of the"
+    },
+    {
+      "id": 195,
+      "debut": 8060.38,
+      "fin": 8081.68,
+      "temps_estime": false,
+      "titre": "Aftermath: uprooted loyalist-aligned people in bondage",
+      "resume": "After the war between 30,000 and 100,000 people in bondage, black and white, who had chased freedom behind British lines were uprooted, many dumped into Nova Scotia, the Caribbean or London, while others hid inside the new United States and fought to stay alive. Families were shattered.",
+      "mots_cles": [
+        "war aftermath",
+        "people in bondage",
+        "Nova Scotia",
+        "Caribbean",
+        "London",
+        "British lines",
+        "families shattered",
+        "30,000 to 100,000"
+      ],
+      "texte": "mighty British Empire. And now the serious work began. The aftermath was grim. Families were shattered. Between 30,000 and 100,000 people in bondage, black and white who had chased freedom behind the British lines were suddenly uprooted. Many were dumped into Nova Scotia, the Caribbean, or London, all while others hid inside the new United States, fighting just to stay alive."
+    },
+    {
+      "id": 196,
+      "debut": 8081.68,
+      "fin": 8108.38,
+      "temps_estime": false,
+      "titre": "Native nations lose and independence opens the western frontier",
+      "resume": "Native nations suffered horribly after the war: the Shawnee, Creek, Cherokee and the Six Nations of the Iroquois had largely backed Britain to stop colonists moving west, but independence opened the floodgates. Nothing stood between the new Republic and the continent, and poor farmers, landless laborers and veterans poured into the frontier seeking land in what seemed an endless universe of possibility.",
+      "mots_cles": [
+        "Native nations",
+        "Shawnee Creek Cherokee Iroquois",
+        "westward expansion",
+        "frontier",
+        "landless laborers",
+        "veterans",
+        "post-war America",
+        "American Republic"
+      ],
+      "texte": "Native nations suffered horribly. The Shawnee, Creek, Cherokee, and the Six Nations of the Iroquois had largely [music] backed Britain, hoping to halt colonists from moving west. Instead, independence opened the floodgates. Nothing stood [music] between the new American Republic and the rest of the continent. Poor farmers, landless laborers, and veterans poured into [music] the frontier in search of land. To them, America seemed endless. Mountains, forests, plains, and deserts, it was a universe of possibility. The 13"
+    },
+    {
+      "id": 197,
+      "debut": 8108.38,
+      "fin": 8143.98,
+      "temps_estime": false,
+      "titre": "State constitutions, gradual emancipation in the North and slavery in the South",
+      "resume": "The 13 colonies wrote constitutions to place power in the hands of the people and prevent tyranny, and Pennsylvania's was the most radical, giving the vote to all free men regardless of property, women excluded. Northern states began gradual emancipation (Pennsylvania in 1780, Massachusetts by court ruling by 1783), but in most of the South slavery hardened and rebellions were violently suppressed.",
+      "mots_cles": [
+        "state constitutions",
+        "Pennsylvania constitution",
+        "voting rights",
+        "gradual emancipation",
+        "Massachusetts court ruling",
+        "1780 abolition act",
+        "Southern slavery",
+        "slave rebellions suppressed"
+      ],
+      "texte": "colonies wrote their own constitutions. The goal was to place the power in the hands of the people and prevent the tyranny they believed had characterized British rule. [music] Pennsylvania's constitution was the most radical, granting the vote to all free men regardless of property, women excluded. Northern states began gradual emancipation. In 1780, Pennsylvania passed the act for the gradual abolition of slavery, freeing children born to enslaved mothers. [music] And by 1783, Massachusetts had effectively ended slavery altogether through a landmark court ruling. But in most of the South, [music] slavery hardened and rebellions were violently suppressed. Some African"
+    },
+    {
+      "id": 198,
+      "debut": 8143.98,
+      "fin": 8164.48,
+      "temps_estime": false,
+      "titre": "African American petitions and the hypocrisy of the founders",
+      "resume": "Some African Americans petitioned new state governments, arguing equality under God must include them, but progress was slow. Thomas Jefferson, author of the born equal line, owned more than 100 enslaved people, as did Washington, Madison and most of Virginia's ruling class, so the Revolution wrote liberty into the country's DNA with fine print.",
+      "mots_cles": [
+        "African American petitions",
+        "Jefferson enslaved people",
+        "Washington Madison slaveholders",
+        "Virginia ruling class",
+        "liberty and slavery",
+        "fine print",
+        "equality under God",
+        "founding hypocrisy"
+      ],
+      "texte": "Americans petitioned new state governments, [music] arguing that equality under God must include them, too. Progress was slow. Thomas Jefferson, author of the immortal born equal line, owned more than 100 enslaved people. So did Washington, Madison, and the majority of Virginia's ruling class. The Revolution wrote liberty into the country's DNA, but there was some fine"
+    },
+    {
+      "id": 199,
+      "debut": 8164.48,
+      "fin": 8202.98,
+      "temps_estime": false,
+      "titre": "Articles of Confederation and Shays' Rebellion",
+      "resume": "Winning the war was easier than building a country: the 13 states were independent but far from united, and the Articles of Confederation created a central authority too weak to tax, regulate trade or raise an army, with states printing their own money and feuding over borders. Shays' Rebellion in 1786, when indebted Massachusetts farmers rose against taxes and foreclosures, proved to Washington and Hamilton that liberty without order would destroy the Republic.",
+      "mots_cles": [
+        "Articles of Confederation",
+        "weak central government",
+        "Shays' Rebellion",
+        "1786",
+        "state currencies",
+        "Alexander Hamilton",
+        "order and liberty",
+        "Massachusetts farmers"
+      ],
+      "texte": "print. [music] Winning the war was one thing. Building a functioning country afterwards, that was an entirely different fight. The 13 states were independent [music] but far from united. Their first attempt to self-govern, the Articles of Confederation, created a central authority too weak [music] to tax, regulate trade, or raise an army. Each state acted like its own small nation, printing its own money and feuding over borders. [music] The crisis came with Shays' Rebellion in 1786, when indebted farmers in Massachusetts rose [music] up against taxes and foreclosures, and the federal government was powerless to stop them. To leaders like [music] George Washington and Alexander Hamilton, it proved that liberty without order would destroy the"
+    },
+    {
+      "id": 200,
+      "debut": 8202.98,
+      "fin": 8234.18,
+      "temps_estime": false,
+      "titre": "The 1787 Constitutional Convention and the structure of the Constitution",
+      "resume": "In 1787 delegates met in Philadelphia to fix the Articles but built the US Constitution instead, with a stronger federal government of three branches (executive, legislative, judicial) and a bicameral Congress balancing population with state equality. The federal government could tax, make treaties, raise armies and enforce supreme laws, and the text also wrote slavery into law by referring to enslaved people as persons held to service or labor.",
+      "mots_cles": [
+        "US Constitution",
+        "Philadelphia 1787",
+        "three branches",
+        "bicameral Congress",
+        "federal power",
+        "supreme law of the land",
+        "slavery in the Constitution",
+        "persons held to service or labor"
+      ],
+      "texte": "new Republic. In 1787, delegates met in Philadelphia [music] intending to fix the Articles of Confederation, but instead built something entirely new, the US Constitution. It created a stronger federal government with three branches, [music] executive, legislative, and judicial, and a bicameral Congress designed to balance population with state equality. The federal government could now tax, [music] make treaties, raise armies, and enforce laws as the supreme law of the land. It also wrote slavery into law, referring to enslaved people as persons [music] held to service or labor. To calm fears"
+    },
+    {
+      "id": 201,
+      "debut": 8234.18,
+      "fin": 8255.08,
+      "temps_estime": false,
+      "titre": "Bill of Rights and James Madison's liberal ideals",
+      "resume": "To calm fears of tyranny the Bill of Rights followed, guaranteeing freedoms of speech, religion and the press in a nation more progressive than anywhere else on Earth. Drafted by James Madison and steeped in Enlightenment philosophy, it reassured citizens that liberty would not be swallowed by federal power.",
+      "mots_cles": [
+        "Bill of Rights",
+        "James Madison",
+        "freedom of speech",
+        "freedom of religion",
+        "freedom of the press",
+        "Enlightenment philosophy",
+        "tyranny fears",
+        "federal power limits"
+      ],
+      "texte": "of tyranny, the Bill of Rights soon followed, guaranteeing freedoms of speech, religion, and the press in a nation already more progressive than anywhere else on the Earth. This was the future, [music] drafted by James Madison, steeped in enlightenment philosophy and the liberal ideals of the age. It reassured citizens that liberty would not be swallowed [music] up by federal power. This young"
+    },
+    {
+      "id": 202,
+      "debut": 8255.08,
+      "fin": 8288.38,
+      "temps_estime": false,
+      "titre": "Early economy, the Electoral College and Washington's presidency",
+      "resume": "The young United States lived on agriculture and Atlantic trade (tobacco, rice, wheat, furs, timber, rum), with the federal government funded mostly by tariffs on imports. Chosen by the Electoral College, George Washington took the oath on April 30, 1789 in New York City in a plain brown suit and opted for the title Mr. President over Your Excellency.",
+      "mots_cles": [
+        "early US economy",
+        "tariffs",
+        "Electoral College",
+        "George Washington first president",
+        "April 30 1789",
+        "oath of office",
+        "Mr. President",
+        "Atlantic trade"
+      ],
+      "texte": "United States kept itself afloat with an economy built on agriculture and Atlantic trade, tobacco, rice, wheat, furs, timber, and rum, while the federal government funded itself mostly through tariffs on imported goods. The new republic needed a single executive, chosen not directly by the public, but by the Electoral College. The first man selected was already a national hero, George Washington. On April 30th, 1789, in New York City, [music] wearing a plain brown suit, he took the oath of office. Some suggested he be addressed as Your Excellency, [music] but he opted for Mr. President. Frontier poverty"
+    },
+    {
+      "id": 203,
+      "debut": 8288.38,
+      "fin": 8310.78,
+      "temps_estime": false,
+      "titre": "The Whiskey Rebellion",
+      "resume": "Western farmers erupted in the Whiskey Rebellion during Washington's presidency, furious over attacks (taxes) that fell hardest on small producers who turned leftover grain into whiskey. Washington rode west with roughly 13,000 militiamen to assert federal authority, and the rebellion collapsed but showed governing the republic would be hard.",
+      "mots_cles": [
+        "Whiskey Rebellion",
+        "western farmers",
+        "whiskey tax",
+        "13,000 militiamen",
+        "federal authority",
+        "frontier poverty",
+        "Washington presidency"
+      ],
+      "texte": "eventually boiled over. During Washington's presidency, [music] farmers on the western edge of the country erupted in what became the Whiskey Rebellion. They were furious over attacks that fell the hardest on small producers who turned leftover grain into whiskey. [music] Washington rode west with roughly 13,000 militiamen to assert federal authority. The rebellion collapsed, but it revealed that governing the new republic would be far"
+    },
+    {
+      "id": 204,
+      "debut": 8310.78,
+      "fin": 8355.38,
+      "temps_estime": false,
+      "titre": "First political parties: Federalists versus Democratic-Republicans and Washington's farewell warning",
+      "resume": "Although the founders hoped to avoid parties, factions emerged at once: the Federalists led by Alexander Hamilton favored strong central government, a national bank, commercial growth and ties with Britain, and the Democratic Republicans led by Jefferson and Madison idealized farmers and feared concentrated power. In his farewell address Washington warned that parties could check power but, if too partisan, would ignite a fire that could consume the republic.",
+      "mots_cles": [
+        "Federalists",
+        "Democratic-Republicans",
+        "Alexander Hamilton",
+        "Thomas Jefferson",
+        "national bank",
+        "political parties",
+        "Washington farewell address",
+        "partisanship"
+      ],
+      "texte": "from easy. Even so, the country was a beacon of political experimentation. The founders [music] had hoped to avoid political parties, but factions emerged immediately. The Federalists, led by Alexander Hamilton, favored strong central government, commercial growth, a national bank, and closer ties with Britain. They were the party of the merchants, creditors, and landowners. Opposing them were the Democratic Republicans, [music] led by Thomas Jefferson and James Madison. They idealized farmers urban laborers and feared concentrated power. [music] This ideological divide set the template for centuries of American political conflict. Indeed, in his farewell address, [music] Washington warned that parties could help preserve liberty by checking power. But if they became too partisan, they would ignite a fire that could consume [music] the"
+    },
+    {
+      "id": 205,
+      "debut": 8355.38,
+      "fin": 8391.68,
+      "temps_estime": false,
+      "titre": "French Revolution, the Adams-Jefferson government and the Alien and Sedition Acts",
+      "resume": "The French Revolution of 1789 sends shock waves around the world: Jefferson's Democratic-Republicans support it while the Federalists recoil in horror. John Adams narrowly beats Jefferson in 1796, Jefferson as runner-up becomes vice president, and alarmed by France they pass the Alien and Sedition Acts targeting immigrants and restricting speech, early proof that devotion to liberty had limits.",
+      "mots_cles": [
+        "French Revolution",
+        "John Adams",
+        "1796 election",
+        "Jefferson vice president",
+        "Alien and Sedition Acts",
+        "Federalists",
+        "restricting speech",
+        "immigrants"
+      ],
+      "texte": "republic. In 1789, the French Revolution erupted, beginning years of bloodshed, chaos, and change that sent shock waves around the world. Jefferson's Democratic-Republican supported it as a needed blow against the monarchical system, [music] but the federalists recoiled in horror. In 1796, John Adams, a federalist, narrowly defeated Jefferson to become the second president. Under the original rules, Jefferson as the runner-up became the vice president. The two political enemies were forced to govern together. Alarmed by disconnected [music] heads in France, they passed the Alien and Sedition Acts, targeting immigrants and restricting speech. Early proof that Americans' devotion to liberty had its"
+    },
+    {
+      "id": 206,
+      "debut": 8391.68,
+      "fin": 8414.68,
+      "temps_estime": false,
+      "titre": "The election of 1800 and partisan hysteria",
+      "resume": "Jefferson wins the presidency in 1800 after both parties predicted catastrophe: Federalists warned of a second blood-soaked Paris and Jefferson's allies warned Adams and the Federalists would restore monarchy. The message was that the other side will destroy everything, a pattern of partisan hysteria that would last forever.",
+      "mots_cles": [
+        "election of 1800",
+        "Jefferson presidency",
+        "partisan hysteria",
+        "Federalists",
+        "Democratic-Republicans",
+        "monarchy fears",
+        "political polarization",
+        "catastrophe predictions"
+      ],
+      "texte": "limits. In 1800, Jefferson won the presidency. Unsurprisingly, [music] both parties had predicted catastrophe. Federalists warned that Jefferson's election would turn America into a second blood-soaked [music] Paris. Jefferson's allies warned that Adams and the federalists would restore monarchy and crush liberty. The message to the public was simple, the other side will destroy everything. It was partisan hysteria, a pattern that would last well"
+    },
+    {
+      "id": 207,
+      "debut": 8414.68,
+      "fin": 8473.49,
+      "temps_estime": false,
+      "titre": "Louisiana Purchase, forced removals and the Trail of Tears",
+      "resume": "In 1803 Jefferson buys the Louisiana Purchase from Napoleon's France, doubling America, though the land was home to dozens of native nations never consulted, setting the stage for a century of forced removals. Under Andrew Jackson's Indian Removal Act in the 1830s about 60,000 people of the five civilized tribes were driven west at gunpoint on the Trail Where They Cried, and Davy Crockett lost his seat for calling the policy wicked and unjust.",
+      "mots_cles": [
+        "Louisiana Purchase",
+        "Napoleon",
+        "Indian Removal Act",
+        "Andrew Jackson",
+        "Trail of Tears",
+        "five civilized tribes",
+        "ethnic cleansing",
+        "Davy Crockett"
+      ],
+      "texte": "forever. [music] France was now ruled by Napoleon. In 1803, Jefferson made a deal with him, buying the territory that would become known as the Louisiana Purchase, doubling the size of America. The land, of course, was not really France's to sell. [music] It was home to dozens of native nations, none of whom were consulted. Their displacement would not happen all at once, but the purchase set the stage for [music] a century of forced removals. Among those eventually uprooted were the five civilized tribes, the Cherokee, Creek, Choctaw, Chickasaw, and Seminole, who would be expelled in the 1830s under Andrew Jackson's Indian Removal [music] Act. Some 60,000 people were driven west at gunpoint. Thousands died along the way. The Cherokee called the route the Trail Where They Cried. Today, we call it ethnic cleansing. Native Americans fought back, often massacring innocent families, but the violence came back at them. Not everyone agreed with the Removal Act. Congressman Davy Crockett, the famous frontiersman, broke with [music] President Jackson and condemned the policy as wicked and unjust. His vote cost him his seat in"
+    },
+    {
+      "id": 208,
+      "debut": 8473.49,
+      "fin": 8522.09,
+      "temps_estime": false,
+      "titre": "Slavery's persistence: native slavery, slow Northern emancipation and New York enslavers",
+      "resume": "Slavery was still going strong: some native nations owned African slaves, native peoples were enslaved by Europeans in large numbers in the 1600s and early 1700s especially in the Carolinas, and Northern states phased slavery out only gradually. New Jersey was last, children of enslaved mothers served as indentured servants until their mid 20s, one in five New York City white families owned enslaved people, and 3,500 remained enslaved in the north in 1830.",
+      "mots_cles": [
+        "gradual emancipation",
+        "New Jersey",
+        "New York City enslavers",
+        "Native American slavery",
+        "Carolinas",
+        "indentured until mid 20s",
+        "3,500 enslaved in 1830",
+        "Northern slavery"
+      ],
+      "texte": "Congress. Slavery in this period was still going strong. Some native nations owned African slaves themselves [music] and some practiced forms of bondage long before Europeans arrived. Native peoples were also enslaved by the Europeans in large numbers during the 1600s and early 1700s, especially in the Carolinas. Meanwhile, in the north, states were gradually phasing out slavery. New Jersey was the last to adopt gradual emancipation, and gradual meant decades of coerced labor. Children born to enslaved mothers had to serve as indentured servants until their mid 20s. In New York City, one in five [music] white families owned enslaved people in the late 1700s. Between 1783 and 1800, fewer than 80 enslavers freed anyone voluntarily. Even by 1830, 3,500 people remained enslaved [music] in the north, far more than most Americans today"
+    },
+    {
+      "id": 209,
+      "debut": 8522.09,
+      "fin": 8559.79,
+      "temps_estime": false,
+      "titre": "War of 1812: invasion of Canada, the burning of Washington and secession talk",
+      "resume": "In 1812 under James Madison the US, urged by congressional war hawks, declares war on Britain and invades Canada to seize territory and break British influence among native tribes, but it goes badly. In 1814 British troops capture Washington D.C. and burn the capital and presidential mansion, Dolly Madison saves a portrait of Washington, and Federalists denounce Mr. Madison's War as New England states talk of secession.",
+      "mots_cles": [
+        "War of 1812",
+        "James Madison",
+        "war hawks",
+        "invasion of Canada",
+        "burning of Washington D.C.",
+        "Dolly Madison",
+        "Mr. Madison's War",
+        "New England secession"
+      ],
+      "texte": "realize. In 1812, with James Madison in the White House, the United States, urged on by congressional war hawks, declared war [music] on Britain and invaded Canada. They hoped to seize territory and break British influence among native tribes. In [music] short, it didn't go well. In 1814, British troops counterattacked, capturing Washington D.C. and burning the capital and [music] the presidential mansion. First Lady Dolly Madison famously saved a portrait of Washington before fleeing to safety. Federalists denounced what they called Mr. Madison's War, [music] and discontent in New England grew so fierce that some states talked openly of secession. But Britain, busy defeating Napoleon in Europe, soon wanted peace."
+    },
+    {
+      "id": 210,
+      "debut": 8559.79,
+      "fin": 8580.49,
+      "temps_estime": false,
+      "titre": "Treaty of Ghent and the Battle of New Orleans",
+      "resume": "The Treaty of Ghent in 1814 restores the borders to their pre-war state, but news traveled slowly and two weeks after the treaty General Andrew Jackson wins a stunning victory at the Battle of New Orleans, becoming a national hero. In global terms the United States was still a minor player compared to Britain.",
+      "mots_cles": [
+        "Treaty of Ghent",
+        "Battle of New Orleans",
+        "Andrew Jackson",
+        "national hero",
+        "restored borders",
+        "British Empire",
+        "minor power",
+        "1814"
+      ],
+      "texte": "The Treaty of Ghent in 1814 restored the borders to what they had been before the war. The conflict might have ended quietly, but the news traveled slowly. Two weeks after the treaty, General Andrew Jackson won a stunning victory at the Battle of New Orleans, crushing a major British assault and turning him into a national hero. But in global terms, the United States was still a minor player compared to Britain. Even"
+    },
+    {
+      "id": 211,
+      "debut": 8580.49,
+      "fin": 8610.99,
+      "temps_estime": false,
+      "titre": "Market revolution: factories, a new middle class and cotton",
+      "resume": "Prosperity spreads as northern factories and mills transform the economy and a new middle class emerges, slowing indentured labor. The booming textile mills rely on southern cotton picked by slaves on vast plantations, railroads, canals and cities spread, inequality deepens, and the market revolution gives birth to a powerful nation whose success rests on exploitation.",
+      "mots_cles": [
+        "market revolution",
+        "northern factories",
+        "textile mills",
+        "southern cotton",
+        "middle class",
+        "railroads and canals",
+        "inequality",
+        "exploitation"
+      ],
+      "texte": "so, prosperity was spreading. More were turning profits [music] and in the north, factories and mills were transforming the economy. A new middle class emerged, leading to the slowdown of indentured labor. But industrial growth came with a price. The booming textile mills of the north relied on southern cotton, picked by slaves on vast plantations. [music] As railroads, canals, and cities spread across the landscape, inequality deepened. The market revolution had given birth to a powerful [music] new nation, driven by invention and ambition. Yet its success still largely rested on exploitation."
+    },
+    {
+      "id": 212,
+      "debut": 8610.99,
+      "fin": 8652.39,
+      "temps_estime": false,
+      "titre": "Slavery as the engine of the whole American economy",
+      "resume": "Enslaved people grow restless and are treated as expendable products, while poor whites are pushed into child labor, mill work and dangerous factory jobs in an industrial America of booms and busts. Slavery was the nation's Achilles heel, a moral wound still powering an economic engine: southern plantations pumped out cotton shipped through northern ports to Britain and US mills, so slavery was a major contributor to the entire American economy.",
+      "mots_cles": [
+        "slavery and the economy",
+        "cotton",
+        "northern ports",
+        "child labor",
+        "factory jobs",
+        "Achilles heel",
+        "industrial America",
+        "plantations"
+      ],
+      "texte": "Enslaved people were growing restless, their lives miserable, their bodies viewed as expendable products. Meanwhile, poor whites [music] were pushed into child labor, mill work, and dangerous factory jobs. Industrial America exploded in size, and with it came booms, busts, and chaos. But while industry [music] surged and many enjoyed the payoff of all their hard work, the problem of slavery didn't go away. It was the nation's Achilles heel, a [music] moral wound, but still powering an economic engine. Southern plantations were pumping out vast quantities of cotton, shipped through northern ports and sold to Britain and the US's textile mills. Slavery was not just a southern institution, it was a major contributor to the entire American economy. And this"
+    },
+    {
+      "id": 213,
+      "debut": 8652.39,
+      "fin": 8692.19,
+      "temps_estime": false,
+      "titre": "British abolition versus American slavery, and Frederick Douglass",
+      "resume": "America's biggest contradiction became impossible to hide as Britain banned the slave trade in 1807 and abolished slavery throughout its empire in 1833, with the Royal Navy hunting illegal slave ships, while the US held on amid growing doubt and criticism. Former slave Frederick Douglass emerged as a powerful voice describing slavery's terror and humiliation, having learned to read as a young runaway with help from poor white children.",
+      "mots_cles": [
+        "British abolition 1833",
+        "slave trade ban 1807",
+        "Royal Navy",
+        "Frederick Douglass",
+        "abolitionism",
+        "American contradiction",
+        "slavery criticism",
+        "learned to read"
+      ],
+      "texte": "is where America's biggest contradiction became impossible to hide. Across the ocean, the British Empire had moved in the opposite direction. In 1807, Parliament had banned the slave trade, and in 1833 it had abolished slavery throughout its empire. The Royal Navy spent decades and a fortune hunting illegal slave ships. The US, however, held on, but now in an environment of doubt and criticism. Former slave Frederick Douglass emerged as one [music] of the most powerful voices against bondage, telling the nation what slavery actually felt like, terror, horror, humiliation, and pain. As [music] a young runaway, he learned to read with the help of the poor white urchins who shared scraps of newspapers, an education that changed American history. [music]"
+    },
+    {
+      "id": 214,
+      "debut": 8692.19,
+      "fin": 8738.49,
+      "temps_estime": false,
+      "titre": "John Brown, Sumner, party divide and Lincoln's 1860 run",
+      "resume": "Not all abolitionists were peaceful: John Brown's 1859 raid on Harper's Ferry to spark a slave uprising failed, and he became an anti-slavery martyr, while Senator Charles Sumner was nearly beaten to death on the Senate floor after condemning the slave-holding South. The political divide hardened between Democrats defending slavery's expansion and the new Republican Party, and Abraham Lincoln ran in 1860 viewing slavery as immoral but wary of rapid change.",
+      "mots_cles": [
+        "John Brown",
+        "Harper's Ferry 1859",
+        "Charles Sumner caning",
+        "Republican Party",
+        "Democrats",
+        "Abraham Lincoln 1860",
+        "slavery expansion",
+        "divided country"
+      ],
+      "texte": "His writings shocked the public, but not all abolitionists were so peaceful. Some, like John Brown, turned to violence. His 1859 raid on Harper's Ferry intended to spark a slave uprising failed. Brown was captured and executed, but he became a martyr for anti-slavery in America. Even Congress could be violent. Senator Charles Sumner was nearly beaten to death on the Senate floor [music] after condemning the slave-holding South. He too became a symbol of resistance. The political divide hardened. Democrats dominated by Southern [music] planters and Northern allies defended slavery's expansion to the West. The new Republican Party gathered abolitionists, [music] reformers, and opponents of Southern power. When Abraham Lincoln ran for president in 1860, he viewed slavery as [music] immoral but understood the danger of too rapid a change. The country was now divided beyond repair. [music]"
+    },
+    {
+      "id": 215,
+      "debut": 8738.49,
+      "fin": 8788.19,
+      "temps_estime": false,
+      "titre": "Secession, the Confederacy and the rich man's war",
+      "resume": "After Lincoln's election Southern states seceded and formed the Confederate States of America, whose army exempted the wealthy, including anyone owning more than 20 enslaved people, while poor white Southerners were drafted or served as paid substitutes. Only 20 to 25% of Southern households had a slave, so many called it a rich man's war but a poor man's fight, and enslaved people were forced to support the war effort or escaped to the Union Army.",
+      "mots_cles": [
+        "secession",
+        "Confederate States of America",
+        "Confederate draft exemptions",
+        "rich man's war poor man's fight",
+        "poor white Southerners",
+        "enslaved labor for Confederacy",
+        "20 enslaved people exemption",
+        "Union Army"
+      ],
+      "texte": "When Lincoln was elected, Southern leaders saw it as the end of their political power. One by one, Southern states seceded from the Union, forming the [music] Confederate States of America. The Confederacy raised an army but exempted the wealthy and the well-connected. Anyone who owned more than 20 enslaved people, along [music] with teachers, politicians, ministers, clerks, and men in essential trades. Poor white Southerners with few means of escape were drafted [music] in the droves, sometimes serving as paid substitutes for people who had money. 20 to 25% [music] of Southern households had at least one slave, but the poor had none. Many of them bitterly called it a rich man's war but a poor man's fight. [music] Enslaved people weren't enlisted, but many were forced to support the Confederate war effort, building fortifications, hauling supplies, and tending crops, [music] while thousands more escaped to join or assist the Union Army. Like all wars,"
+    },
+    {
+      "id": 216,
+      "debut": 8788.19,
+      "fin": 8818.69,
+      "temps_estime": false,
+      "titre": "Propaganda and Grant and Sherman's appeal to poor Southern whites",
+      "resume": "Propaganda drove men to fight, with Southerners decrying Northern industrial slums where poor whites lived in horrid conditions. Union generals Ulysses S. Grant and William Tecumseh Sherman saw the war as more than liberating slaves: the South held about 3/5 of the wealthiest Americans but devastating inequality, and Grant promised to remove the shackles of the poor white class too.",
+      "mots_cles": [
+        "Civil War propaganda",
+        "Ulysses S. Grant",
+        "William Tecumseh Sherman",
+        "poor Southern whites",
+        "Southern inequality",
+        "wealthiest individuals",
+        "liberation",
+        "industrial slums"
+      ],
+      "texte": "propaganda motivated men to fight. Southerners decreed Northerners and the fact that [music] slums had grown with industry where poor whites lived in horrid conditions. But to Union generals Ulysses [music] S. Grant and William Tecumseh Sherman, this war wasn't just about liberating slaves. They thought that they could get poor Southern whites on board. The South was home to about 3/5 of the wealthiest individuals in the US, [music] but inequality was devastating. Grant promised to remove the shackles of the poor white class, millions of people, while liberating the"
+    },
+    {
+      "id": 217,
+      "debut": 8818.69,
+      "fin": 8835.69,
+      "temps_estime": false,
+      "titre": "Civil War bloodbath and surrender at Appomattox",
+      "resume": "The Civil War from 1861 to 1865 was a bloodbath, the deadliest conflict in American history. The Union broke the Confederacy's last resistance and on April 9, 1865 exhausted Southern forces surrendered at Appomattox Courthouse in Virginia.",
+      "mots_cles": [
+        "Civil War",
+        "deadliest conflict",
+        "1861-1865",
+        "Appomattox Courthouse",
+        "April 9 1865",
+        "Confederate surrender",
+        "Union victory"
+      ],
+      "texte": "blacks. The war was a bloodbath, the deadliest conflict in American history, lasting from 1861 to 1865. [music] The Union finally broke the Confederacy's last resistance, and on April 9th, 1865, exhausted, surrounded, and out of options, the Southern forces surrendered at Appomattox Courthouse in"
+    },
+    {
+      "id": 218,
+      "debut": 8835.69,
+      "fin": 8875.99,
+      "temps_estime": false,
+      "titre": "Lincoln's assassination at Ford's Theatre and John Wilkes Booth's motives",
+      "resume": "As Washington celebrated, President Lincoln went to Ford's Theatre five days later to watch Our American Cousin, where John Wilkes Booth shot him in the back of the head and shouted sic semper tyrannis. Booth, a Confederate sympathizer, believed Lincoln was a tyrant who had destroyed Southern liberty, empowered black Americans and suspended habeas corpus, and saw the murder as patriotic redemption.",
+      "mots_cles": [
+        "Lincoln assassination",
+        "Ford's Theatre",
+        "John Wilkes Booth",
+        "sic semper tyrannis",
+        "habeas corpus",
+        "Confederate sympathizer",
+        "Our American Cousin",
+        "tyrant"
+      ],
+      "texte": "Virginia. As Washington erupted in celebration, crowds drank, [music] danced, and sang beneath the clouds of fireworks. Just five days later, President Lincoln went to Ford's Theatre to watch the comedy Our American Cousin. [music] As he sat beside his wife in the theater box, John Wilkes Booth slipped in behind him. Wilkes Booth fired a single shot into the back of Lincoln's head before leaping to the stage and shouting sic semper tyrannis, thus always to tyrants. Booth, a passionate Confederate sympathizer, believed Lincoln was a tyrant who had destroyed Southern liberty and empowered black Americans. He'd suspended habeas corpus, too. Wartime actions, Booth said, were proof of dictatorship. In his mind, the murder was an act of patriotic redemption that would put things right."
+    },
+    {
+      "id": 219,
+      "debut": 8875.99,
+      "fin": 8916.59,
+      "temps_estime": false,
+      "titre": "Aftermath of the assassination: lost lenient Reconstruction, Seward attack and conspiracy theories",
+      "resume": "Booth's bullet plunged the nation into chaos, as few supported him and Lincoln, who had planned a relatively lenient Reconstruction to reunite North and South, was dead along with the best hope of peaceful healing. Co-conspirator Lewis Powell slashed Secretary of State William Seward, who survived, Powell was hanged with other conspirators, Booth was killed in a shootout, and Americans began whispering conspiracy theories about who was behind it.",
+      "mots_cles": [
+        "Lincoln assassination aftermath",
+        "lenient Reconstruction",
+        "Lewis Powell",
+        "William Seward",
+        "Booth killed",
+        "conspirators hanged",
+        "conspiracy theories",
+        "peaceful healing"
+      ],
+      "texte": "Instead, his bullet plunged the nation into chaos. Booth had [music] thought his actions would be supported, but few agreed with what he had done. Lincoln, who had been planning a relatively lenient reconstruction to reunite North and [music] South, was dead, and with him perhaps the best hope for a peaceful healing. At the same hour that Booth had fired his shot, his co-conspirator Lewis [music] Powell forced his way into Secretary of State William H. Seward's home and slashed him repeatedly. Seward survived. Powell would not. He was [music] later tortured and hanged with the other conspirators. Booth was tracked down and killed in a shootout. From the beginning, Americans [music] had whispered conspiracy theories about who was really behind Lincoln's assassination, a habit that the nation would embrace for many years to come."
+    },
+    {
+      "id": 220,
+      "debut": 8916.59,
+      "fin": 8949.29,
+      "temps_estime": false,
+      "titre": "Post-assassination polarization and Southern elites dividing the races",
+      "resume": "America is stunned, bloodied and polarized but remains a nation of restless energy and industry hurtling into the modern age. As Reconstruction begins resentment grows, with Southern elites fanning hostility between the races, portraying freed black people as salvageable and poor whites as dangerous dead weight, even though America still offered more social mobility than Europe's stratified societies.",
+      "mots_cles": [
+        "Reconstruction resentment",
+        "Southern elites",
+        "racial hostility",
+        "poor whites",
+        "freed black people",
+        "social mobility",
+        "polarization",
+        "post-Civil War America"
+      ],
+      "texte": "America was stunned, bloodied, and polarized, teetering on the edge of more violence. Yet even through the madness, it remained a nation of restless energy, progress, and industry hurtling into the modern age. But as reconstruction [music] came, so did resentment. Southern elites began fanning hostility between the races. In this twisted logic, freed black people were often portrayed as salvageable, [music] while poor whites were seen as dangerous dead weight. However, for all of America's violence and inequality, it still allowed for more social mobility than most of Europe's old stratified societies. [music]"
+    },
+    {
+      "id": 221,
+      "debut": 8949.29,
+      "fin": 8973.99,
+      "temps_estime": false,
+      "titre": "Homestead Act, immigration and the seizure of native land",
+      "resume": "A boom is on the horizon: Lincoln's Homestead Act offers free western land to settlers who farm it while factories prepare an age of growth, and hundreds of thousands claim land as immigrants pour in. Native Americans are pushed onto reservations, their bison slaughtered and communities shattered, as railroads and ranches consume the frontier and millions of acres of native land are seized.",
+      "mots_cles": [
+        "Homestead Act",
+        "free western land",
+        "immigration",
+        "reservations",
+        "bison slaughter",
+        "railroads and ranches",
+        "native land seized",
+        "frontier"
+      ],
+      "texte": "And there was a boom on the horizon. Lincoln's Homestead Act had offered western land for free to settlers who farmed it, while factories were about to push the USA into an age of growth. Hundreds of thousands of people used the Homestead Act to claim land. Immigrants poured in from abroad, while Native Americans were pushed onto reservations, their bison slaughtered and communities shattered. As railroads and ranches consumed the frontier, millions of acres of native land were seized. Vice"
     }
   ]
 }
