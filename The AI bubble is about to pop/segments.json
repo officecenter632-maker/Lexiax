@@ -1,0 +1,724 @@
+{
+  "version": 1,
+  "video_id": "MgngwkPAuqQ",
+  "titre_video": "The AI bubble is about to pop...",
+  "duree_s": 1201.24,
+  "avancement": {
+    "lignes_traitees": 263,
+    "fin_traitee_s": 1201.24,
+    "nb_lignes_total": 263,
+    "complet": true
+  },
+  "nb_segments": 37,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.0,
+      "fin": 24.43,
+      "temps_estime": true,
+      "titre": "Hook: data centers sitting in the dark",
+      "resume": "Big Tech is burning billions on AI machines it cannot plug in. Silicon Valley promised an AI industrial revolution and a relentless race, but the power grid is maxed out, so state-of-the-art data centers full of next-gen chips sit unpowered, a multi-billion dollar graveyard.",
+      "mots_cles": [
+        "Big Tech",
+        "AI data centers",
+        "power grid maxed out",
+        "next-gen chips",
+        "unpowered data centers",
+        "AI race",
+        "industrial revolution",
+        "graveyard"
+      ],
+      "texte": "Right now, Big Tech is burning billions of dollars on machines they can’t plug in. Silicon Valley promised AI would usher in the next industrial revolution, sparking a bitter and relentless race to succeed. But they forgot one thing… The power grid is maxed out. Now, state of the art data centers, full of next gen chips, are sitting in the dark. Big Tech tried to build the future… but built a multi-billion dollar graveyard."
+    },
+    {
+      "id": 2,
+      "debut": 24.43,
+      "fin": 43.88,
+      "temps_estime": true,
+      "titre": "Ashburn, Virginia: ground zero of the AI crisis",
+      "resume": "Ashburn, Virginia is ground zero: nearly 50 million square feet of data center space in a single county, carrying over 70% of the world's internet traffic daily. From outside they look like thriving hubs of the digital age, but inside they are hollow monuments.",
+      "mots_cles": [
+        "Ashburn Virginia",
+        "data center capital",
+        "50 million square feet",
+        "70% of internet traffic",
+        "ground zero",
+        "hollow monuments",
+        "Loudoun county"
+      ],
+      "texte": "Ashburn, Virginia is ground zero for the AI crisis. Nearly 50 million square feet (4.65 million square meters) of data center space is crammed into this single county. Over 70% of the world’s internet traffic flows through here every day. To anyone passing by, they look like thriving hubs, a testament to the digital age. But inside, they’re hollow monuments."
+    },
+    {
+      "id": 3,
+      "debut": 43.88,
+      "fin": 87.44,
+      "temps_estime": true,
+      "titre": "Dominion Energy grid ceiling and 12-year waits",
+      "resume": "AI companies are held hostage by Dominion Energy: the wait to bring a new data center online grew from 4 years in 2022 to 7 by 2026, and giants like Microsoft are quoted up to 12 years just to evaluate a connection request. Dominion's grid has a 25 gigawatt ceiling while waiting data centers demand 40 gigawatts, the output of 30 nuclear reactors.",
+      "mots_cles": [
+        "Dominion Energy",
+        "grid paralyzed",
+        "25 gigawatt ceiling",
+        "40 gigawatts demand",
+        "12 years interconnection wait",
+        "Microsoft",
+        "30 nuclear reactors",
+        "data center queue"
+      ],
+      "texte": "AI companies are being held hostage by one local power company, Dominion Energy, who recently dropped a bombshell. The grid is paralyzed. In 2022, the wait time to get a new data center online was 4 years. By 2026, it had stretched to 7. Now, tech giants like Microsoft are being quoted up to 12 years just to evaluate a connection request. Not to lay down the copper or build a substation. Just to decide if it is even possible. Dominion’s grid has a 25 gigawatt ceiling, enough to power millions of homes across the region. The data centers waiting in line are demanding 40 gigawatts. That’s the same output as 30 nuclear reactors, all for a small corner of Virginia."
+    },
+    {
+      "id": 4,
+      "debut": 87.44,
+      "fin": 124.4,
+      "temps_estime": true,
+      "titre": "$130 billion stranded and chips losing value",
+      "resume": "The blackout is spreading nationwide, with $130 billion of real estate in limbo and a financial black hole. Nvidia releases a new chip every 18 to 24 months, halving the resale value of the last, so a $30,000 chip bought in 2024 will be worth a used engine block by decade's end, while billions of dollars of silicon sit on pallets waiting for a substation.",
+      "mots_cles": [
+        "$130 billion real estate",
+        "Nvidia chip cycle",
+        "chip obsolescence",
+        "resale value halved",
+        "$30,000 chip",
+        "stranded chips",
+        "warehouse pallets",
+        "substation",
+        "depreciation"
+      ],
+      "texte": "But the blackout isn’t contained to this one part of America. It’s spreading like a virus. Across the country, $130 billion of real estate is sitting in limbo. And it’s causing a financial blackhole. Nvidia rolls out a new chip every 18 to 24 months. Each new generation makes the last one obsolete, slashing its resale value in half. By the end of the decade, a $30,000 chip bought in 2024 will be worth the same as a used car engine block. And data centers are full of them. Billions of dollars of silicon are sitting on pallets in a dark warehouse, slowly bleeding value, waiting for a substation that isn’t coming."
+    },
+    {
+      "id": 5,
+      "debut": 124.4,
+      "fin": 144.6,
+      "temps_estime": true,
+      "titre": "The Mexican standoff between Big Tech CEOs",
+      "resume": "Every Silicon Valley CEO knows the chips will lose value, yet they keep ordering because whoever blinks lets rivals race ahead. If Amazon stops buying and Google's dark buildings light up, Amazon never catches up, so each company is terrified and America is caught in the crossfire.",
+      "mots_cles": [
+        "Mexican standoff",
+        "AI arms race",
+        "Amazon",
+        "Google",
+        "buying chips anyway",
+        "fear of falling behind",
+        "prisoner's dilemma",
+        "Big Tech CEOs"
+      ],
+      "texte": "Every CEO in Silicon Valley already knows this. But they’re ordering more chips anyway because if one of them blinks, their rivals race ahead. If Amazon stops buying chips and Google’s dark buildings light up the next day, Amazon never catches up. It’s a Mexican standoff, and each of these companies is terrified. And America is caught in the crossfire."
+    },
+    {
+      "id": 6,
+      "debut": 144.6,
+      "fin": 174.8,
+      "temps_estime": false,
+      "titre": "Zuckerberg's $145 billion Meta spending",
+      "resume": "Mark Zuckerberg pushed Meta's 2026 spending to $145 billion rather than come second in the AI race. Investors dumped the stock and $175 billion of value was wiped out in a single day; three weeks later Zuckerberg slashed 8,000 jobs to keep the spending alive.",
+      "mots_cles": [
+        "Mark Zuckerberg",
+        "Meta",
+        "$145 billion spending",
+        "2026 capex",
+        "$175 billion wiped out",
+        "stock dump",
+        "8,000 job cuts",
+        "Wall Street"
+      ],
+      "texte": "Mark Zuckerberg has proved he’d rather burn billions of dollars than come second in the AI arms race. He pushed Meta’s spending for 2026 to $145 billion and it sent shockwaves through Wall Street. Investors couldn’t see how Meta would ever earn that money back, so they immediately dumped their stock. $175 billion was wiped out in a single day. Zuckerberg didn’t even blink. Just 3 weeks later, he slashed 8,000 jobs… all to keep the spending alive."
+    },
+    {
+      "id": 7,
+      "debut": 174.8,
+      "fin": 221.24,
+      "temps_estime": false,
+      "titre": "Microsoft's record spending and $329 billion in leases",
+      "resume": "CEO Satya Nadella poured a record $37.5 billion into AI and data centers in one quarter, over $400 million a day, and investors punished Microsoft with $357 billion lost after finance chief Amy Hood warned demand outpaces supply. Nadella admitted chips sit in storage with nowhere to plug in, yet Microsoft signed $329 billion in data center leases, some for 20 years, that it must pay even if AI busts.",
+      "mots_cles": [
+        "Satya Nadella",
+        "Microsoft",
+        "$37.5 billion quarter",
+        "Amy Hood",
+        "$357 billion wiped out",
+        "$329 billion leases",
+        "20-year leases",
+        "chips in storage"
+      ],
+      "texte": "Over at Microsoft, CEO Satya Nadella is gambling even bigger. In a single quarter, Microsoft poured a record $37.5 billion into AI and data centers. That’s more than $400 million every day. As finance chief, Amy Hood, warned that AI demand is rapidly outpacing supply, investors turned their backs. By the end of the next day, $357 billion in value had been wiped out. Nadella has even admitted that Microsoft has chips sitting in storage with nowhere to plug them in. But it hasn’t stopped him from buying up more land. Microsoft has signed $329 billion in leases for data centers that haven’t even opened. Some of them are locked in for 20 years. And if the AI boom goes bust tomorrow, Microsoft still has to pay every cent."
+    },
+    {
+      "id": 8,
+      "debut": 221.24,
+      "fin": 252.68,
+      "temps_estime": true,
+      "titre": "Large power transformer shortage",
+      "resume": "Everything rides on the large power transformer, an electrical monolith as heavy as an empty Boeing 747 that nobody can build fast enough. An order placed today arrives in two and a half years, by which time the chips inside are obsolete; prices are up 77% since 2019 and America is short 3 of every 10 transformers it needs.",
+      "mots_cles": [
+        "large power transformer",
+        "transformer shortage",
+        "Boeing 747 weight",
+        "2.5 year lead time",
+        "77% price increase",
+        "short 3 of 10",
+        "utilities",
+        "data center hardware"
+      ],
+      "texte": "And those billions are all riding on one vital piece of hardware. A large power transformer. These electrical monoliths can weigh as much as an empty Boeing 747 and nobody can build them fast enough. If Elon Musk or Zuckerberg orders one today, it won’t arrive for another 2 and a half years. By the time a building goes live, every chip inside is obsolete. Transformer prices have skyrocketed 77% since 2019. Utilities pay it anyway, yet America is still short 3 out of every 10 it needs."
+    },
+    {
+      "id": 9,
+      "debut": 252.68,
+      "fin": 284.68,
+      "temps_estime": true,
+      "titre": "Butler, Pennsylvania: the only source of transformer steel",
+      "resume": "Transformers need a core of specialized steel that only one place in the country can make: Butler, Pennsylvania, a town of 13,000 on which the multi-million dollar AI industry leans its full weight. Transformer makers are not convinced AI demand will last and do not want to be stuck with a factory and no orders, so even the boom's suppliers do not trust it.",
+      "mots_cles": [
+        "Butler Pennsylvania",
+        "specialized steel",
+        "grain-oriented electrical steel",
+        "town of 13,000",
+        "steel mill",
+        "transformer makers",
+        "AI demand doubt",
+        "supply chain bottleneck"
+      ],
+      "texte": "Skilled crews have to build them one at a time, around a core of specialized steel. And only one place in the entire country can make that steel. Butler, Pennsylvania. The multi-million dollar AI industry is leaning its full weight on a town of 13,000. And the town’s mill has become a focal point for the entire AI boom. And they're doing it on their own. Transformer makers aren’t convinced the AI demand will last. Not one of them wants to get stuck with a massive factory and no orders. Even the companies supplying the boom don’t trust it."
+    },
+    {
+      "id": 10,
+      "debut": 284.68,
+      "fin": 314.88,
+      "temps_estime": false,
+      "titre": "Importing transformers and the global waiting list",
+      "resume": "With 80% of America's biggest transformers imported, countries and the richest companies fight for the same hardware with no cutting in line. A billion-dollar data center in Ashburn sits on the same waiting list as the local substation: a trillion-dollar industry stuck behind a blown neighborhood fuse that Big Tech cannot buy its way out of.",
+      "mots_cles": [
+        "80% imported transformers",
+        "global competition",
+        "waiting list",
+        "Amazon",
+        "Google",
+        "Ashburn substation",
+        "blown fuse",
+        "trillion-dollar industry"
+      ],
+      "texte": "So America turned elsewhere. Today, 80% of the country’s biggest transformers are imported. Countries all over the world are fighting for the same hardware. The richest companies on Earth are going head to head with entire governments. And there’s no cutting in line. It doesn’t matter if you’re Amazon or Google. The billion-dollar data center in Ashburn is on the exact same waiting list as the local substation. It’s a trillion-dollar industry, stuck behind a blown neighborhood fuze. It’s a problem Big Tech can’t buy their way out of."
+    },
+    {
+      "id": 11,
+      "debut": 314.88,
+      "fin": 336.8,
+      "temps_estime": false,
+      "titre": "Jensen Huang, the arms dealer who gets paid first",
+      "resume": "While Microsoft and Meta take the risk, Nvidia takes all the cash: CEO Jensen Huang is the ultimate arms dealer in the standoff and gets paid the moment crates leave his warehouse. A single rack of Nvidia's latest chips draws as much power as about 100 American homes, and whether the grid survives is somebody else's problem.",
+      "mots_cles": [
+        "Jensen Huang",
+        "Nvidia",
+        "arms dealer",
+        "paid on shipment",
+        "rack power draw",
+        "100 homes",
+        "risk transfer",
+        "grid strain"
+      ],
+      "texte": "But while companies like Microsoft and Meta take all the risk, one company takes all the cash. Jensen Huang, the CEO of Nvidia, is the ultimate arms dealer in this Mexican standoff. He gets paid the moment the shipping crates leave his warehouse. A single rack of Nvidia’s latest chips pulls as much power as about 100 American homes. Whether the grid survives is somebody else’s problem."
+    },
+    {
+      "id": 12,
+      "debut": 336.8,
+      "fin": 381.84,
+      "temps_estime": false,
+      "titre": "Texas: 474 gigawatts of AI demand and Abbott's freeze",
+      "resume": "AI projects waiting to connect in Texas demand 474 gigawatts, more than five times the record peak of the entire Texas grid, almost all of it from data centers. In August 2026 Governor Greg Abbott ordered an emergency freeze on new data centers, and ERCOT warned that without a grid overhaul the Permian Basin could face rolling blackouts.",
+      "mots_cles": [
+        "Texas",
+        "474 gigawatts",
+        "ERCOT",
+        "Greg Abbott",
+        "data center freeze",
+        "August 2026",
+        "Permian Basin",
+        "rolling blackouts"
+      ],
+      "texte": "Now, one state is being pushed to breaking point. Energy demand is exploding in Texas. AI projects currently waiting to be plugged in are demanding a massive 474 gigawatts. That’s more than 5 times the record peak of the entire Texas grid, and data centers make up almost all of those requests. The crisis has become so urgent that in August 2026, Texas Governor Greg Abbott, ordered an emergency freeze on new data centers. According to him, AI’s unquenchable thirst for power could threaten the entire state. ERCOT, the group responsible for keeping the lights on in Texas, issued a stark warning. They said that without a full grid overhaul, the Permian Basin, America’s biggest oil field, could face rolling blackouts just to keep up with AI demands."
+    },
+    {
+      "id": 13,
+      "debut": 381.84,
+      "fin": 420.84,
+      "temps_estime": false,
+      "titre": "On-site gas plants, turbine shortage and abandoned power plants",
+      "resume": "AI companies try to skip the grid by building their own gas plants, but GE Vernova, America's biggest turbine maker, has a waiting list through 2030, so tech giants scramble for scraps. Every turbine secured leaves Texas more exposed to blackouts, and 8 state-chosen, taxpayer-backed power projects walked away after being squeezed out by the AI industry.",
+      "mots_cles": [
+        "on-site gas plants",
+        "GE Vernova",
+        "gas turbines",
+        "waiting list 2030",
+        "Texas blackout risk",
+        "taxpayer power plants",
+        "projects walked away",
+        "behind-the-meter power"
+      ],
+      "texte": "Desperate to survive, AI companies are trying to find a workaround. They’re trying to skip the grid altogether by building their own gas plants on site. Each of those plants needs a giant gas turbine, and GE Vernova, America’s biggest turbine maker, decides who gets one. And they have a waiting list all the way through to 2030. Now the tech giants are scrambling for scraps. Every turbine they manage to secure, leaves Texas more exposed to the next blackout. Taxpayers had put up billions to build new power plants to act as a safety net for the public grid. Instead, 8 of the state’s chosen energy projects have walked away after being ruthlessly squeezed out by the AI industry."
+    },
+    {
+      "id": 14,
+      "debut": 420.84,
+      "fin": 471.76,
+      "temps_estime": false,
+      "titre": "Electrician shortage and $260,000 salaries",
+      "resume": "Even with its own plant a data center stays dark until electricians wire it in, and America faces a trade shortage with almost 20,000 electricians leaving yearly and 3 in 10 of those staying over 50. AI companies make obscene offers of up to $260,000 a year, outearning software engineers, and OpenAI's $500 billion Stargate project in Abilene pays nearly double what local home builders can afford.",
+      "mots_cles": [
+        "electrician shortage",
+        "$260,000 a year",
+        "skilled trades",
+        "OpenAI Stargate",
+        "Abilene Texas",
+        "$500 billion",
+        "labor raid",
+        "home builders"
+      ],
+      "texte": "Even with its own power plant, a data center stays dark until electricians wire it in. And that’s the one thing that can’t be ordered from a factory. America is facing a catastrophic trade shortage. Almost 20,000 electricians leave the industry every year. And out of the ones who stay, 3 in 10 are over 50. It’s an industry that’s in decline. And AI companies want the best talent, so they’re making obscene offers. On some data center jobs, electricians can pull in up to $260,000 a year. That means a skilled worker with a toolbelt can easily outearn a software engineer. No local contractor can come close to matching that. In Abilene, Texas, OpenAI’s $500 billion Stargate project pays electricians almost double what local home builders can afford. And with 100 more data centers headed for Texas, the raid on local crews is just getting started."
+    },
+    {
+      "id": 15,
+      "debut": 471.76,
+      "fin": 524.8,
+      "temps_estime": false,
+      "titre": "PJM capacity auction: electricity bills rise",
+      "resume": "PJM Interconnection serves 65 million Americans across 13 states and D.C., with Ashburn at its heart, and runs an auction paying power plants to stand by for surges, a cost every household pays. AI companies devoured spare capacity, one auction price rose more than 6 times, and households pay an estimated $25 to $30 more a month than in 2024 according to SemiAnalysis.",
+      "mots_cles": [
+        "PJM Interconnection",
+        "capacity auction",
+        "65 million Americans",
+        "13 states",
+        "$25 to $30 more per month",
+        "SemiAnalysis",
+        "electricity bills",
+        "price spike 6x"
+      ],
+      "texte": "These battles for resources might play out one town at a time, but the financial fallout is felt all over. 65 million Americans get their power from PJM Interconnection. It’s the largest grid in America, stretching across 13 states and Washington, D.C., with Ashburn wedged into its heart. Every year, PJM runs an auction that pays power plants just to stand for any sudden surges. And every household on the grid covers that cost through its monthly bill. For years, the system was stable. Then the AI companies forced their way in and began devouring every spare megawatt. In one auction, the price shot up more than 6 times. Utilities are passing those costs on to customers and those bills are landing in mailboxes right now. Across the region, households are paying an estimated $25 to $30 more a month than they did in 2024, according to the research firm SemiAnalysis."
+    },
+    {
+      "id": 16,
+      "debut": 524.8,
+      "fin": 550.76,
+      "temps_estime": false,
+      "titre": "Joseph Bowring: data centers added $29.4 billion in costs",
+      "resume": "Joseph Bowring, the independent watchdog policing PJM's market, traced the soaring prices to Big Tech, writing that data centers are the primary reason and have already added $29.4 billion to customers' costs, damage he calls not reversible. The market is broken and families pay for buildings that will not switch on for years.",
+      "mots_cles": [
+        "Joseph Bowring",
+        "PJM market monitor",
+        "$29.4 billion",
+        "data centers primary cause",
+        "not reversible",
+        "broken market",
+        "ratepayers",
+        "consumer costs"
+      ],
+      "texte": "Joseph Bowring, the independent watchdog who polices PJM’s market, traced the new costs straight to Big Tech. Data centers, he wrote, are the primary reason for the soaring prices. By his count, data centers have already added $29.4 billion to customers’ costs and to him, the damage is “not reversible.” The market is completely broken. And everyday, families across America are paying for buildings that won’t switch on for years."
+    },
+    {
+      "id": 17,
+      "debut": 550.76,
+      "fin": 571.64,
+      "temps_estime": false,
+      "titre": "White House and governor pressure, Big Tech shrugs",
+      "resume": "The White House demanded new power plants be built quickly and paid for by AI companies, and one governor threatened to pull his state out of PJM. Big Tech treated it as an empty threat because only one thing matters to them: keeping stock prices high.",
+      "mots_cles": [
+        "White House",
+        "new power plants",
+        "AI companies pay",
+        "governor threat",
+        "leave PJM",
+        "stock prices",
+        "Big Tech response",
+        "energy policy"
+      ],
+      "texte": "The White House has demanded that new power plants are built and brought online as soon as possible. And they want the AI companies to pay for them. One governor threatened to pull his entire state out of PJM if the utility company didn’t do something about the unfolding crisis. Big Tech treated it like an empty threat. Only one thing matters to them: keeping their stock prices high."
+    },
+    {
+      "id": 18,
+      "debut": 571.64,
+      "fin": 628.0,
+      "temps_estime": false,
+      "titre": "Michael Burry and the server depreciation trick",
+      "resume": "Michael Burry, who called the 2008 housing crash, combs AI financial statements and finds a billion dollar illusion: after Nvidia began shipping Vera Rubin in summer 2026, Microsoft and Google extended server lives from 4 to 6 years in their filings. The stroke of a pen shrinks reported costs and inflates profits, and Meta did the same, padding profits by $2.6 billion without selling an extra ad.",
+      "mots_cles": [
+        "Michael Burry",
+        "server depreciation",
+        "useful life 4 to 6 years",
+        "Vera Rubin",
+        "Microsoft",
+        "Google",
+        "Meta $2.6 billion",
+        "inflated profits",
+        "accounting trick"
+      ],
+      "texte": "As Wall Street continues to pump money into the AI bubble, one man refuses to buy the hype. Michael Burry, the legendary hedge fund manager who called the 2008 housing crash,. Now he’s combing through the AI financial statements, line by line. And just uncovered a billion dollar illusion. In the summer of 2026, Nvidia began shipping its next generation chip, Vera Rubin. The moment they left the factory, the chips sitting in warehouses across America fell a full generation behind. But Microsoft and Google couldn’t let Wall Street see the bleeding. So, they just altered a line in their financial filings. They extended the life of their AI servers from 4 years to 6 years. With the stroke of a pen, they pushed billions in costs further down the road. Overnight, operation expenses disappeared and profits artificially swelled. Meta pulled the exact same stunt, instantly padding its profits by $2.6 billion without selling a single extra ad."
+    },
+    {
+      "id": 19,
+      "debut": 628.0,
+      "fin": 652.48,
+      "temps_estime": false,
+      "titre": "Amazon's reversal exposes the scam",
+      "resume": "Amazon's filings exposed the practice: it had stretched its servers' lives twice, padding profits by more than $5 billion, then in 2025 cut some servers back to 5 years and admitted AI is making hardware obsolete faster than expected. Telling the truth cost Amazon about $1 billion in profit.",
+      "mots_cles": [
+        "Amazon",
+        "server useful life",
+        "shortened to 5 years",
+        "$5 billion profit padding",
+        "$1 billion cost",
+        "hardware obsolescence",
+        "depreciation reversal",
+        "2025 filings"
+      ],
+      "texte": "Then Amazon’s own filings exposed the scam. It had already stretched its own servers’ lives twice, padding its profits by more than $5 billion. But in 2025, it suddenly reversed course and cut some servers back to 5 years and admitted the reason: artificial intelligence is making hardware obsolete faster than expected. Coming clean and telling the truth cost Amazon about $1 billion in profit."
+    },
+    {
+      "id": 20,
+      "debut": 652.48,
+      "fin": 678.28,
+      "temps_estime": false,
+      "titre": "Burry's $176 billion estimate and Nvidia's rebuttal",
+      "resume": "Burry estimates Big Tech will hide $176 billion in costs this way, calling it one of the more common frauds of the modern era. Nvidia answered with a 7-page memo claiming chips stay useful up to 6 years, but Burry warns Oracle's profits will be overstated by more than a quarter and Meta's by about a fifth.",
+      "mots_cles": [
+        "$176 billion hidden costs",
+        "Michael Burry",
+        "Nvidia memo",
+        "chips useful for 6 years",
+        "Oracle overstated profits",
+        "Meta overstated profits",
+        "modern fraud",
+        "analysts"
+      ],
+      "texte": "Michael Burry estimates that Big Tech will hide $176 billion in costs using this trick. He calls it “one of the more common frauds of the modern era.” Nvidia immediately fired back with a defensive 7-page memo to Wall Street analysts, desperate to claim its chips stay useful for up to 6 years. But Burry isn’t backing down. He’s now warning that Oracle’s profits will soon be overstated by more than a quarter, and Meta’s by about a fifth."
+    },
+    {
+      "id": 21,
+      "debut": 678.28,
+      "fin": 726.48,
+      "temps_estime": false,
+      "titre": "Hyperion and Blue Owl: debt hidden off the balance sheet",
+      "resume": "Some of the biggest AI debts are wiped from the books: Meta needed $27 billion for Hyperion, its giant Louisiana data center, but borrowing it directly would tank the stock. So Blue Owl owns the majority and rents it back to Meta, keeping the debt off Meta's balance sheet while risky bonds are sold to public pension funds, part of upward of $3 trillion in such promises Burry counts.",
+      "mots_cles": [
+        "Hyperion data center",
+        "Meta",
+        "$27 billion",
+        "Blue Owl",
+        "off-balance-sheet debt",
+        "leaseback",
+        "pension funds",
+        "$3 trillion commitments",
+        "Louisiana"
+      ],
+      "texte": "The deception goes even deeper. Some of the biggest debts in the AI boom are being wiped from the books. Take Hyperion, the giant data center Meta is building in rural Louisiana. Mark Zuckerberg once posted its outline laid over a map of Manhattan, covering a big chunk of the island. Meta needed $27 billion to build it. But if Meta borrowed that $27 billion itself, its stock price would tank. So they engineered a loophole. They let an investment firm called Blue Owl own the majority of the project, then agreed to rent it back. The debt stays off Meta’s balance sheet, hidden from investors, while Wall Street unloads the risky bonds onto public pension funds. Across the biggest spenders, Burry counts upward of $3 trillion in promises like this, more than Canada’s entire economy produces in a year."
+    },
+    {
+      "id": 22,
+      "debut": 726.48,
+      "fin": 746.08,
+      "temps_estime": false,
+      "titre": "Lenders demand 7% as Nvidia bankrolls its customers",
+      "resume": "Giants burn cash so fast that lenders demand over 7% interest, and AI upstarts are running dry. Nvidia and Jensen Huang have a plan to keep chip orders flowing: bankrolling their own customers.",
+      "mots_cles": [
+        "borrowing costs",
+        "7% interest",
+        "AI startups running dry",
+        "Nvidia",
+        "Jensen Huang",
+        "customer financing",
+        "chip orders",
+        "cash burn"
+      ],
+      "texte": "And the borrowing they can’t hide is exploding. The industry giants are burning through cash so fast, lenders are demanding over 7% interest just to hand it over. If the giants are straining, the AI upstarts are running dry. But Nvidia and Jenson Huang have a plan to keep chip orders flowing. They’re bankrolling their own customers."
+    },
+    {
+      "id": 23,
+      "debut": 746.08,
+      "fin": 787.24,
+      "temps_estime": false,
+      "titre": "Circular financing: OpenAI guarantees and CoreWeave buybacks",
+      "resume": "Nvidia sunk $30 billion into OpenAI and guaranteed up to $105 billion of its data center leases, though OpenAI lost $3 for every dollar of 2025 revenue. It also owns a $4.7 billion stake in CoreWeave and buys back whatever computing power CoreWeave cannot sell; with over $100 billion tied up in its own customers, money circles back as chip orders that Wall Street counts as growth.",
+      "mots_cles": [
+        "Nvidia OpenAI investment",
+        "$105 billion lease guarantee",
+        "CoreWeave",
+        "$4.7 billion stake",
+        "circular financing",
+        "both sides of the table",
+        "OpenAI losses",
+        "customer funding"
+      ],
+      "texte": "Nvidia has already sunk $30 billion into OpenAI and guaranteed up to $105 billion of the company’s data center leases. If OpenAI defaults, Nvidia pays every cent. And Huang is making those promises to a company that’s hemorrhaging money, losing $3 for every dollar it brought in in 2025. Nvidia also owns a $4.7 billion stake in chip rental company CoreWeave. Nvidia sells the chips to CoreWeave, and whatever computing power CoreWeave can’t sell, Nvidia buys back. Jenson Huang is sitting on both sides of the table. Nvidia now has well over $100 billion tied up in its own customers. Much of that money circles straight back as chip orders and Wall Street counts every one as growth."
+    },
+    {
+      "id": 24,
+      "debut": 787.24,
+      "fin": 823.76,
+      "temps_estime": false,
+      "titre": "Oracle and Larry Ellison's OpenAI bet cracks",
+      "resume": "Larry Ellison borrowed tens of billions to build OpenAI's data centers, briefly becoming the richest man alive, but half of Oracle's future orders hang on a company that has never turned a profit. Oracle and OpenAI pulled a planned expansion in Abilene, S&P cut Oracle's rating to one step above junk, and banks hold billions of toxic Oracle loans they cannot sell.",
+      "mots_cles": [
+        "Larry Ellison",
+        "Oracle",
+        "OpenAI",
+        "Abilene expansion cancelled",
+        "S&P downgrade",
+        "one step above junk",
+        "toxic loans",
+        "richest man alive",
+        "credit rating"
+      ],
+      "texte": "But the cracks are starting to show. Oracle founder Larry Ellison borrowed tens of billions to build OpenAI’s data centers. The reckless bet briefly made him the richest man alive. Now half of Oracle’s future orders hang on a company that has never turned a profit. The panic has already started. Oracle and OpenAI abruptly pulled the plug on a planned expansion in Abilene, the same Texas campus that raided local builders for electricians. Wall Street turned on Ellison instantly. The ratings agency S&P cut Oracle’s credit rating to one step above junk, while banks are holding billions of toxic Oracle loans they can’t sell."
+    },
+    {
+      "id": 25,
+      "debut": 823.76,
+      "fin": 855.24,
+      "temps_estime": false,
+      "titre": "PIMCO and pension money in Hyperion bonds",
+      "resume": "Millions of ordinary Americans are caught in the firing line: investment giant PIMCO bought about $18 billion of Meta's Hyperion bonds using retirement money. The bonds run until 2049 but Meta's first lease lasts only 4 years, after which Zuckerberg can walk away, leaving ordinary Americans holding the bag.",
+      "mots_cles": [
+        "PIMCO",
+        "Hyperion bonds",
+        "$18 billion",
+        "retirement money",
+        "pension funds",
+        "bonds until 2049",
+        "4-year lease",
+        "Zuckerberg walk away"
+      ],
+      "texte": "And now, millions of ordinary Americans are caught in the firing line. And their life savings are at risk. The investment giant PIMCO scooped up about $18 billion of Meta’s Hyperion bonds, using retirement money of millions to fund the deal. If your pension is one of them, your future is propping up a half built data center in Louisiana. Those bonds run until 2049. But Meta’s first lease on the building only lasts 4 years. After that, Mark Zuckerberg can walk away, leaving ordinary Americans holding the bag. And you don’t get a say in it."
+    },
+    {
+      "id": 26,
+      "debut": 855.24,
+      "fin": 894.64,
+      "temps_estime": false,
+      "titre": "Private credit, insurers and the Blue Owl run",
+      "resume": "To raise $800 billion for the next data centers, Wall Street tapped insurance funds: Apollo and KKR bought insurers that sell retirees' annuities, and buyout-owned insurers have quadrupled their data center money since 2017. Private credit is buckling with record defaults, and at Blue Owl investors tried to withdraw almost 40% of a tech lending fund two quarters in a row before it was shut down.",
+      "mots_cles": [
+        "private credit",
+        "$800 billion",
+        "Apollo",
+        "KKR",
+        "insurers annuities",
+        "record defaults",
+        "Blue Owl tech lending fund",
+        "withdrawals 40%",
+        "retirees"
+      ],
+      "texte": "To raise the $800 billion to fund the next set of data centers, Wall Street went hunting for cash. And they found it in insurance funds. Firms like Apollo and KKR bought up entire insurers, the ones that sell the annuities retirees count on for a monthly check. Since 2017, buyout-owned insurers have quadrupled the amount of money going into these data centers. But this private credit market is already buckling. Defaults have hit the highest rate on record. At Blue Owl, the firm controlling most of Hyperion, the stampede has already begun. Investors in its tech lending fund tried to pull out almost 40% of their money, two quarters in a row. Blue Owl shut it down and only released a small amount."
+    },
+    {
+      "id": 27,
+      "debut": 894.64,
+      "fin": 909.44,
+      "temps_estime": false,
+      "titre": "Nvidia and Wall Street raise $500 billion for customers",
+      "resume": "None of this stops Jensen Huang: Nvidia teamed up with Apollo, KKR and four other Wall Street firms to raise over $500 billion for its own customers, once again drawn largely from insurance and retirement funds.",
+      "mots_cles": [
+        "Nvidia",
+        "Apollo",
+        "KKR",
+        "$500 billion raise",
+        "customer financing",
+        "insurance funds",
+        "retirement funds",
+        "Jensen Huang"
+      ],
+      "texte": "None of that has stopped Jensen Huang. Nvidia has teamed up with Apollo, KKR and 4 other Wall Street firms to raise more than $500 billion for its own customers. Once again, most of that money will be drained from insurance and retirement funds."
+    },
+    {
+      "id": 28,
+      "debut": 909.44,
+      "fin": 969.28,
+      "temps_estime": false,
+      "titre": "Railway Mania and the Railway King George Hudson",
+      "resume": "This is history repeating: in 1840s Britain Railway Mania soaked up about 7% of the economy, the equivalent of $2 trillion a year today. George Hudson, the Railway King, controlled over a quarter of rail lines and paid dividends out of invested capital like a pyramid scheme; when it collapsed stocks lost two-thirds of their value, a third of approved lines were never built, families lost savings, and Hudson fled and was imprisoned.",
+      "mots_cles": [
+        "Railway Mania",
+        "1840s Britain",
+        "George Hudson",
+        "Railway King",
+        "pyramid scheme",
+        "dividends from capital",
+        "railway stocks crash",
+        "history repeating",
+        "bubble"
+      ],
+      "texte": "If this sounds like unprecedented tech innovation, it’s not. It’s history repeating itself. In the 1840’s, Britain got swept up in “Railway Mania”. Building railway tracks soaked up about 7% of the economy, the equivalent of $2 trillion a year in today’s money. The man taking their money was George Hudson, dubbed the “Railway King.” At one point, Hudson controlled over a quarter of England’s rail lines and used his seat in Parliament to make sure creditors couldn’t arrest him. He ran his empire like a pyramid scheme. He paid shareholders fat dividends out of their invested capital and dressed it up as profit. The payouts lasted only while fresh cash poured in. Hudson’s scheme eventually came crashing down and railway stocks across Britain lost two-thirds of their value. A third of the approved lines were never built. Families on modest incomes had sunk their entire savings into railway shares and lost everything. Once he lost his seat in Parliament, Hudson fled the country. But justice eventually caught up with him and he was imprisoned."
+    },
+    {
+      "id": 29,
+      "debut": 969.28,
+      "fin": 994.72,
+      "temps_estime": false,
+      "titre": "Late-1990s telecom boom: $1 trillion and dark fiber",
+      "resume": "In the late 1990s WorldCom fed Wall Street an inflated story about internet growth and the industry borrowed nearly $1 trillion to bury fiber-optic cable coast to coast. By some estimates as much as 95% of it sat dark, like the data centers in Ashburn.",
+      "mots_cles": [
+        "WorldCom",
+        "dot-com bubble",
+        "late 1990s",
+        "$1 trillion borrowed",
+        "fiber-optic cable",
+        "95% dark fiber",
+        "telecom overbuild",
+        "internet growth story"
+      ],
+      "texte": "150 years later, Wall Street was the one on the hook. In the late 1990s, techcom giant, WorldCom fed Wall Street a wildly inflated story about internet growth. The industry swallowed it whole and borrowed close to $1 trillion to tear up highway shoulders and railroad beds and bury fiber-optic cable from coast to coast. By some estimates, as much as 95% of it sat dark, just like the data centers in Ashburn."
+    },
+    {
+      "id": 30,
+      "debut": 994.72,
+      "fin": 1024.44,
+      "temps_estime": false,
+      "titre": "Gary Winnick cashed out while workers were locked in",
+      "resume": "Gary Winnick, founder of Global Crossing, saw the writing on the wall and cashed out more than $700 million before the company imploded under $12.4 billion in debt. Employees in Rochester, New York, were banned from selling the company stock in their 401(k)s for 5 years and were wiped out, while Winnick kept his $94 million Bel Air mansion.",
+      "mots_cles": [
+        "Gary Winnick",
+        "Global Crossing",
+        "$700 million cash out",
+        "$12.4 billion debt",
+        "401(k) company stock",
+        "Rochester New York",
+        "Bel Air mansion",
+        "insider selling"
+      ],
+      "texte": "Gary Winnick, founder of the undersea cable company Global Crossing, saw the writing on the wall. Before the company imploded under $12.4 billion in debt, he cashed out more than $700 million in stock. His workers never had that option. In Rochester, New York, their 401k contributions came in company stock they were banned from selling for 5 years. The collapse wiped them out. Winnick held on to his $94 million mansion in Bel Air, while his staff recovered only a fraction of their losses."
+    },
+    {
+      "id": 31,
+      "debut": 1024.44,
+      "fin": 1061.48,
+      "temps_estime": false,
+      "titre": "WorldCom's accounting fraud and its victims",
+      "resume": "WorldCom crashed even harder, with the largest bankruptcy America had seen: executives disguised billions in everyday costs as long-term investments to prop up profits, the same accounting trick Burry accuses AI companies of using to hide $176 billion. Employees' $642 million of retirement savings shrank to under $19 million, CEO Bernie Ebbers got 25 years, half a million telecom workers lost jobs and investors lost trillions.",
+      "mots_cles": [
+        "WorldCom",
+        "accounting fraud",
+        "costs disguised as investments",
+        "Bernie Ebbers",
+        "25 years prison",
+        "$642 million retirement savings",
+        "largest bankruptcy",
+        "Michael Burry comparison",
+        "telecom jobs lost"
+      ],
+      "texte": "WorldCom crashed even harder, triggering the largest bankruptcy America had ever seen. Its executives had disguised billions in everyday costs as long-term investments, pushing expenses into the future to prop up profits today. The exact same accounting fraud Michael Burry is accusing the AI companies of in order to hide $176 billion in losses. Inside WorldCom, employees watched $642 million in retirement savings shrink to less than $19 million. A federal judge sent CEO Bernie Ebbers to prison for 25 years. Half a million telecom workers lost their jobs. Investors lost trillions."
+    },
+    {
+      "id": 32,
+      "debut": 1061.48,
+      "fin": 1073.92,
+      "temps_estime": false,
+      "titre": "Dark fiber can wait, rotting chips cannot",
+      "resume": "Unlike fiber that can sit in the ground for years and still carry the internet someday, chips rotting inside empty data centers cannot wait: with every new launch Jensen Huang wipes out billions in silicon.",
+      "mots_cles": [
+        "dark fiber vs chips",
+        "chip obsolescence",
+        "empty data centers",
+        "Jensen Huang",
+        "new chip launches",
+        "asset lifespan",
+        "key difference from dot-com"
+      ],
+      "texte": "But dark fiber could sit in the ground for years and still carry the internet one day. The chips rotting inside empty data centers can’t wait that long. With every new launch, Jensen Huang wipes out billions in silicon."
+    },
+    {
+      "id": 33,
+      "debut": 1073.92,
+      "fin": 1098.48,
+      "temps_estime": false,
+      "titre": "401(k) exposure: $10.8 trillion in seven stocks",
+      "resume": "Big Tech stock is buried in the 401(k)s of 70 million Americans, adding up to $10.8 trillion, more than a third of the U.S. economy. Of every $100 in a standard S&P 500 fund about $34 rides on just 7 tech giants, with Nvidia the heaviest, so if they fall those accounts fall with them.",
+      "mots_cles": [
+        "401(k)",
+        "70 million Americans",
+        "$10.8 trillion",
+        "S&P 500 concentration",
+        "7 tech giants",
+        "$34 of every $100",
+        "Nvidia weight",
+        "retirement accounts"
+      ],
+      "texte": "WorldCom’s fraud gutted the savings of its own workers. Big Tech’s stock is buried in the 401(k)s of 70 million Americans. It adds up to $10.8 trillion, more than a third of the U.S. economy. Out of every $100 in a standard S&P 500 fund, about $34 rides on just 7 tech giants, with Nvidia the heaviest of them all. If they fall, those accounts fall with them."
+    },
+    {
+      "id": 34,
+      "debut": 1098.48,
+      "fin": 1123.56,
+      "temps_estime": false,
+      "titre": "June 5, 2026 warning shot and the dot-com precedent",
+      "resume": "On June 5th, 2026 chipmakers shed over $1 trillion in one session, with Nvidia alone losing about $300 billion in hours, hitting every retirement fund holding them. For comparison, when the dot-com bubble burst the Nasdaq slid for over 2 years, lost 78% of its value and took 15 years to recover.",
+      "mots_cles": [
+        "June 5 2026",
+        "chipmakers lost $1 trillion",
+        "Nvidia $300 billion",
+        "warning shot",
+        "dot-com crash",
+        "Nasdaq 78% decline",
+        "15 years to recover",
+        "retirement funds hit"
+      ],
+      "texte": "On June 5th, 2026, the market got its first warning shot. In a single trading session, chipmakers shed over $1 trillion, with Nvidia alone losing about $300 billion in a matter of hours. Every retirement fund holding those stocks got hit. And that was just one day. When the dot-com bubble burst, the Nasdaq kept sliding for more than 2 years, losing 78% of its value. It took 15 years to climb back."
+    },
+    {
+      "id": 35,
+      "debut": 1123.56,
+      "fin": 1161.12,
+      "temps_estime": false,
+      "titre": "401(k)s opened to private credit; Labor Department rule",
+      "resume": "The White House ordered regulators to open 401(k)s to private credit, the same toxic asset pool Blue Owl slammed shut to its own investors, so institutional investors who want out are lining workers up to pay. A new Labor Department rule would make it harder for workers to sue if investments go bad, and Empower, with Apollo and PIMCO, has already signed over 200 employers.",
+      "mots_cles": [
+        "401(k) private credit",
+        "White House order",
+        "Labor Department rule",
+        "right to sue",
+        "Empower",
+        "Apollo",
+        "PIMCO",
+        "200 employers",
+        "retirement savings"
+      ],
+      "texte": "But Washington is pushing workers deeper anyway. The White House has ordered regulators to open 401ks to private credit to the private credit market. The exact same toxic asset pool that Blue Owl slammed shut to its own investors. These institutional investors want their money back. And you’re being lined up to pay for it. A new Labor Department rule would strip away your rights, making it harder for workers to sue if those investments go bad. And the shift is already happening. Empower, one of the largest 401k providers in America, has partnered with iApollo and PIMCO, the firm holding billions in Hyperion bonds. More than 200 employers have already signed up."
+    },
+    {
+      "id": 36,
+      "debut": 1161.12,
+      "fin": 1188.12,
+      "temps_estime": false,
+      "titre": "Billionaires cash out while workers keep buying",
+      "resume": "While executives cash out, workers keep buying: Jeff Bezos sold $5.7 billion of stock in summer 2025, Jensen Huang more than $1 billion of Nvidia shares, as Gary Winnick did before Global Crossing imploded. Every payday millions of workers automatically buy the overpriced AI stock the billionaires are selling.",
+      "mots_cles": [
+        "Jeff Bezos",
+        "$5.7 billion stock sale",
+        "Jensen Huang share sales",
+        "Gary Winnick",
+        "insider selling",
+        "automatic 401(k) contributions",
+        "overpriced AI stock",
+        "ordinary workers"
+      ],
+      "texte": "Meanwhile, the men at the top are cashing out. Over the summer of 2025, Amazon founder Jeff Bezos unloaded $5.7 billion in stock. Jensen Huang has sold more than $1 billion of his Nvidia shares. Gary Winnick made before Global Crossing imploded. And yet, every single payday, the same automated order is executed. Millions of ordinary workers use their hard earned cash to automatically buy the overpriced AI stock the billionaires are selling."
+    },
+    {
+      "id": 37,
+      "debut": 1188.12,
+      "fin": 1201.24,
+      "temps_estime": false,
+      "titre": "Conclusion: a web of debt and the next video",
+      "resume": "The AI boom created trillions of dollars of market value, but underneath it sits a web of debt, raising the question of what happens when it all crashes. The video points viewers to What if the AI Bubble Bursts (Day by Day) for the answer.",
+      "mots_cles": [
+        "AI bubble",
+        "web of debt",
+        "market value",
+        "crash scenario",
+        "What if the AI Bubble Bursts",
+        "day by day",
+        "call to action",
+        "conclusion"
+      ],
+      "texte": "The AI boom has created trillions of dollars in market value, but underneath it sits a web of debt. So what happens when it all comes crashing down? Watch “What if the AI Bubble Bursts (Day by Day)” to find out. Or click on this."
+    }
+  ]
+}
