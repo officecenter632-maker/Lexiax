@@ -4,12 +4,12 @@
   "titre_video": "Scientists Are Freaking Out Over Space Time (It's Not Real)",
   "duree_s": 10427.77,
   "avancement": {
-    "lignes_traitees": 1831,
-    "fin_traitee_s": 3653.61,
+    "lignes_traitees": 2738,
+    "fin_traitee_s": 5479.47,
     "nb_lignes_total": 5233,
     "complet": false
   },
-  "nb_segments": 79,
+  "nb_segments": 109,
   "segments": [
     {
       "id": 1,
@@ -1444,6 +1444,552 @@
         "future of universe"
       ],
       "texte": "Right now, the largest black holes in the universe are still growing [music] because they're colder than their surroundings. The cosmic microwave background that [music] fills all space has a temperature of about 2.7 Kelvin above absolute zero, or -454° [music] Fahrenheit. A supermassive black hole has a temperature millions of times lower. This means that black holes [music] won't start shrinking until the universe cools so completely that the cosmic background temperature drops below their own. For the largest ones, that won't happen until the universe [music] is thousands or even millions of times older than it is today. The"
+    },
+    {
+      "id": 80,
+      "debut": 3653.61,
+      "fin": 3719.97,
+      "temps_estime": false,
+      "titre": "Les trous noirs, seuls immortels : croissance et fin de la formation d'étoiles",
+      "resume": "Black holes are the only immortal residents of the universe, growing slowly while stars still outnumber them. Galaxy collisions, including the Milky Way and Andromeda merger in 4.5 billion years, speed up black hole growth, and about 100 trillion years from now star formation stops and the universe slides into darkness.",
+      "mots_cles": [
+        "black holes immortal",
+        "galaxy collisions",
+        "Milky Way Andromeda",
+        "supermassive black hole merger",
+        "end of star formation",
+        "100 trillion years",
+        "permanent darkness"
+      ],
+      "texte": "universe is like a massive [music] city where black holes are the only immortal residents. Everyone else ages, dies, and gets replaced, but the black holes, they just keep getting bigger and more powerful. In the early days, [music] black holes grow slowly and are vastly outnumbered. The Milky Way forms only a few new stars each year. Meanwhile, its central black hole gains roughly the mass of Earth once every thousand years. For now, the stars are winning. Over the next billion years, [music] the pace picks up. Galaxy collisions become more common as cosmic expansion slows the most distant objects, while the nearby galaxy clusters continue their gravitational [music] dance. When galaxies merge, their central supermassive black holes eventually spiral into each other, creating even more monstrous entities. The Milky Way's scheduled collision [music] with Andromeda in 4 and 1/2 billion years will be just the beginning. 100 trillion years from now is when things will [music] start to get interesting. Star formation grinds to a halt as the galaxies drift apart, and the universe's hydrogen supply runs low. No new stars means no [music] new sources of light, heat, or heavy elements. The universe begins to slide into permanent darkness. [music]"
+    },
+    {
+      "id": 81,
+      "debut": 3719.97,
+      "fin": 3791.05,
+      "temps_estime": false,
+      "titre": "Les cadavres d'étoiles dévorés par les trous noirs",
+      "resume": "A quadrillion years from now the last red dwarfs burn out, leaving white dwarfs, neutron stars and black holes. Dead stars and surviving planets are eventually swallowed, and each black hole ends with a terminal flash of gamma rays releasing as much energy as the Sun over its lifetime.",
+      "mots_cles": [
+        "red dwarfs",
+        "white dwarfs",
+        "neutron stars",
+        "black hole feeding",
+        "gamma ray flash",
+        "quadrillion years",
+        "stellar corpses",
+        "planets swallowed"
+      ],
+      "texte": "A quadrillion years from now is when the last red dwarf stars, the universe's most efficient fusion reactors, finally burn out after lifespans that [music] dwarf the current age of the cosmos. Now, we're left with stellar corpses, white [music] dwarfs cooling like cosmic embers, neutron stars spinning in the dark, and black holes that have been patient all this time. The real feeding frenzy happens on smaller scales. Every [music] dead star becomes potential black hole food. White dwarfs, those Earth-sized stellar corpses that could shine dimly for trillions of years, eventually spiral into their dark neighbors. >> [music] >> Neutron stars, matter so dense that a matchbox sized piece would weigh about 3 billion tons, get swallowed whole. Planets don't [music] escape either. Those that survive wander through space until gravitational interactions eventually deliver them to hungry black holes. Jupiter, Earth, every asteroid, and comet are all destined for the same [music] fate. Then comes the final moment, a brilliant terminal flash of gamma rays and particles, [music] releasing as much energy in an instant as our sun produces over its entire lifetime. [music] The universe's last firework. But by then, there will be no one left to witness the show. [music]"
+    },
+    {
+      "id": 82,
+      "debut": 3791.05,
+      "fin": 3845.97,
+      "temps_estime": false,
+      "titre": "L'ère des trous noirs à 10 octillions d'années",
+      "resume": "The full process takes the current age of the universe multiplied by itself a trillion times, and black holes are the minority for now. At 10 octillion years the universe has no stars, planets or chemistry, only black holes slowly merging near absolute zero.",
+      "mots_cles": [
+        "black hole era",
+        "10 octillion years",
+        "no stars",
+        "absolute zero",
+        "black hole mergers",
+        "far future universe",
+        "slow-motion apocalypse"
+      ],
+      "texte": "This slow-motion apocalypse would take longer to complete than the current age of the universe multiplied [music] by itself a trillion times over. So, for now, black holes are outnumbered. They are the minority in a universe dominated by normal matter, stars, planets, gas clouds, [music] and all the everyday stuff that makes up galaxies. But, they are playing the ultimate long game. Let's now fast-forward to 10 octillion years and the black hole era. The universe has become unrecognizably alien. There are no stars twinkling [music] in the sky because there is no sky, and there are no stars. No planets orbit, no chemistry occurs, no complex structures can form. [music] The temperature hovers just above absolute zero. The only remaining activity is the slow, silent merging [music] of black holes, a cosmic dance unfolding across distances so vast that light would take longer to cross them than the entire age of our universe."
+    },
+    {
+      "id": 83,
+      "debut": 3845.97,
+      "fin": 3891.12,
+      "temps_estime": true,
+      "titre": "Hiérarchie des survivants : durée de vie des trous noirs",
+      "resume": "The smallest black holes vanish first in bursts of energy, then stellar mass ones, while supermassive black holes survive longest. A billion solar mass black hole takes 10 octadecillion years to evaporate and the largest could last 10 unquinquagintillion years, a googol times the age of the universe.",
+      "mots_cles": [
+        "black hole evaporation",
+        "supermassive black holes",
+        "octadecillion years",
+        "googol",
+        "Hawking radiation",
+        "hierarchy of survivors",
+        "timescales"
+      ],
+      "texte": "Just as there is a hierarchy of black holes, there would be a hierarchy of survivors. The smallest black holes, those with just a few solar masses, would be the first to disappear, going out in spectacular [music] bursts of energy. The stellar mass black holes would follow over timescales that make the current age of the universe seem like a fleeting moment. But, the supermassive black holes are in it for the long [music] haul. A black hole with a billion solar masses would take 10 octadecillion years to completely evaporate. The largest theoretical black holes could survive for 10 unquinquagintillion years. Now, that's a time span so vast that you could fit the entire age of our universe [music] inside it a googol times over. That's a one followed by 100 zeros. >> [music] >>"
+    },
+    {
+      "id": 84,
+      "debut": 3891.12,
+      "fin": 3944.77,
+      "temps_estime": true,
+      "titre": "L'isolement des derniers trous noirs dans un univers en expansion",
+      "resume": "In perfect darkness near absolute zero, expansion leaves each black hole alone in its own bubble of emptiness. Eventually they are too far apart to interact gravitationally, so a simple hello at light speed would take longer than the universe has existed.",
+      "mots_cles": [
+        "cosmic expansion",
+        "isolated black holes",
+        "absolute zero",
+        "gravitational interaction",
+        "empty space",
+        "loneliest existence",
+        "speed of light"
+      ],
+      "texte": "It is the loneliest possible existence. In perfect darkness, the temperature of empty space is so close to absolute zero that the differences is meaningless. No chemistry is possible, no [music] complex structures can form. As cosmic expansion continues, even these final black holes become increasingly isolated. The universe grows [music] even larger and colder, stretching space itself until each black hole sits alone in its own expanding bubble of emptiness. >> [music] >> The cruel mathematics of expansion mean that eventually black holes become so far apart they can no longer interact gravitationally. Each black hole becomes a universe unto itself, the only source [music] of gravitational disturbance in its local region of space-time. The concept of nearby [music] becomes meaningless. Your nearest neighbor is so far away that even if you could somehow communicate at the speed of light, a simple hello would take longer to reach them than our universe has existed. [music]"
+    },
+    {
+      "id": 85,
+      "debut": 3944.77,
+      "fin": 3998.97,
+      "temps_estime": true,
+      "titre": "Recherche de 2023 : tous les objets massifs pourraient s'évaporer",
+      "resume": "In 2023 researchers calculated that gravity might cause all massive objects, not just black holes, to evaporate through Hawking-like quantum effects. Even electrons, photons and neutrinos might be temporary, though the research is preliminary.",
+      "mots_cles": [
+        "2023 research",
+        "Hawking radiation",
+        "evaporation of matter",
+        "massive objects",
+        "elementary particles",
+        "quantum effects",
+        "gravity"
+      ],
+      "texte": "There is one more terrifying future, albeit an abstract one, that we should also explore. In 2023, researchers began exploring whether Hawking radiation might not be limited to black holes. Their calculations suggest that gravity itself might cause all massive objects to eventually evaporate through quantum effects. This means that even after the last black holes evaporate, even after the universe becomes nothing but a cold dark expanse populated by elementary particles, [music] the deletion process might continue. Anything with mass, including the fundamental particles themselves, might emit their own form of Hawking-like radiation and slowly fade away. The research is still preliminary, but the implications are staggering. Every electron, every photon, [music] every neutrino that survives the black hole era might itself be temporary, doomed to evaporate over time scales that make black hole lifetimes look [music] brief."
+    },
+    {
+      "id": 86,
+      "debut": 3998.97,
+      "fin": 4061.48,
+      "temps_estime": true,
+      "titre": "Au-delà de la mort thermique : vers le néant absolu",
+      "resume": "The standard prediction is heat death, a state of maximum entropy with energy evenly spread and nothing able to happen. New theoretical work suggests an even more final end where the cosmic microwave background dissipates, temperature nears absolute zero and even quantum vacuum energy is exhausted, leaving information forgotten.",
+      "mots_cles": [
+        "heat death",
+        "maximum entropy",
+        "absolute nothingness",
+        "cosmic microwave background",
+        "quantum vacuum energy",
+        "information destroyed",
+        "universe end"
+      ],
+      "texte": "Physicists have long predicted that the universe would end in heat death, a state of maximum entropy where all the energy [music] is evenly distributed and no work can be done. What that basically becomes is a type of cosmic equilibrium where nothing [music] interesting can ever happen again. But the new theoretical work suggests something even more [music] final than heat death. After all massive particles evaporate and all energy gradients disappear, the universe might [music] continue its relentless march toward absolute nothingness. Even the tiny amount of energy represented by the cosmic [music] microwave background might eventually dissipate through processes we don't yet understand. The universe's final temperature >> [music] >> would approach absolute zero, not just practically, but theoretically. In that state, even the [music] quantum vacuum energy that drives virtual particle creation might be exhausted. If black holes truly [music] destroy information, then consciousness, memory, and meaning are all temporary illusions. The universe in this hypothetical becomes a place where everything not only dies but is [music] forgotten."
+    },
+    {
+      "id": 87,
+      "debut": 4061.48,
+      "fin": 4109.35,
+      "temps_estime": true,
+      "titre": "Échelle de temps : le Soleil, Andromède et l'effacement du sens",
+      "resume": "These processes happen over timescales that make forever seem like a blink, and in 6 billion years the Sun will become a red giant. The Milky Way will merge with Andromeda in 4.5 billion years while most star systems stay undisturbed, and by the time black holes dominate humanity will be unrecognizable, since they erase meaning as well as matter.",
+      "mots_cles": [
+        "Sun red giant",
+        "6 billion years",
+        "Milky Way Andromeda collision",
+        "black holes",
+        "far future",
+        "humanity",
+        "erase meaning"
+      ],
+      "texte": "Before existential dread sets in, these processes unfold on timelines so fast [music] that they make the concept of forever seem like the blink of an eye. In about 6 billion years, our sun will expand into a red giant, [music] rendering Earth uninhabitable. It'll be gone long before black holes pose any real threat to our solar system. Meanwhile, the Milky Way is on a slow-motion collision course with the Andromeda galaxy, set [music] to merge in 4 and 1/2 billion years. Surprisingly, most star systems, including ours, will remain undisturbed. But by the time black holes begin to dominate the cosmos, humanity, if we even still exist, [music] will have changed so much that we might not even be able to recognize ourselves. We're talking about a future so distant [music] that stars will have formed, burned out, and vanished trillions of times over. In the end, black holes [music] won't just erase matter. They will erase meaning."
+    },
+    {
+      "id": 88,
+      "debut": 4109.35,
+      "fin": 4136.82,
+      "temps_estime": true,
+      "titre": "Introduction : sommes-nous dans une simulation programmée ?",
+      "resume": "A new episode asks whether life, memories and even the laws of physics could be part of a programmed simulation. According to one physicist, the universe itself may be showing evidence that we live in something artificial.",
+      "mots_cles": [
+        "simulation theory",
+        "programmed simulation",
+        "laws of physics",
+        "artificial universe",
+        "Infographics Show",
+        "reality illusion"
+      ],
+      "texte": "What if we told you that everything around you, your life, your memories, even the laws of physics, [music] might not be real? Not just in a whoa, dude, reality is an illusion kind of way, but in a hard science says we might be living in a programmed [music] simulation kind of way. According to one physicist, the universe itself may be proving that we are living in something artificial. Join us today on the Infographic Show to find out just what in AI's name we're talking about."
+    },
+    {
+      "id": 89,
+      "debut": 4136.82,
+      "fin": 4205.07,
+      "temps_estime": true,
+      "titre": "Seconde loi de la thermodynamique : l'entropie, ou le désordre croissant",
+      "resume": "The second law of thermodynamics says entropy, or disorder, always increases, which is why drinks cool, buildings crumble and rooms get messy. Fighting it requires constantly adding energy to the system.",
+      "mots_cles": [
+        "second law of thermodynamics",
+        "entropy",
+        "disorder",
+        "energy input",
+        "messy room analogy",
+        "thermodynamics"
+      ],
+      "texte": "Entropy and information. Let's kick things off with something nice and simple, the second law of thermodynamics. Buckle up because this mind-blowing law of physics is why, no matter how hard you try, your life is doomed to spiral into complete and utter chaos. This is because entropy, which is just a fancy word for disorder, is always increasing. The universe is like a toddler with a box of Legos. It loves making a mess. And once it's made one, it's not going to clean it up anytime soon. That's why your hot chocolate turns cold, why buildings [music] crumble over time, and why your bedroom looks like a crime scene by the end of the week, even though you totally meant to keep it clean. Basically, the second law of thermodynamics says that the universe hates order. It is not that things can't be neat and tidy, it's just that keeping them that way takes effort. You can spend hours cleaning your room, and 5 minutes later, a single missing sock, a messy set of bed sheets, or that empty Doritos bag on your desk have completely wrecked the place again. That's entropy in action. The only way to fight it is to constantly pump energy into the system, microwave your cold drinks, rebuild the broken stuff, or, you know, actually pick up after yourself."
+    },
+    {
+      "id": 90,
+      "debut": 4205.07,
+      "fin": 4275.08,
+      "temps_estime": true,
+      "titre": "La théorie de Melvin Vopson : l'information défie l'entropie",
+      "resume": "Physicist Melvin Vopson proposes that information does not follow the second law and instead organizes itself, with patterns and knowledge becoming more arranged and optimized over time. Like Skittles sorting themselves into piles, this resembles optimized code and suggests reality may be designed, as in The Sims.",
+      "mots_cles": [
+        "Melvin Vopson",
+        "information",
+        "entropy",
+        "self-organizing information",
+        "optimization",
+        "The Sims",
+        "simulation hypothesis",
+        "Skittles analogy"
+      ],
+      "texte": "But, here is where that starts to matter, because a physicist named Dr. Melvin Vopson just dropped a new theory that says information doesn't follow that rule. Instead of getting messier over time, information actually organizes itself. Patterns in data, structures in nature, even the way knowledge grows, all of it seems to be defying entropy rather than [music] succumbing to it. It's getting more arranged, more optimized over time, like some unseen force is cleaning up the mess instead of making more of it. Which, if true, could mean that we're all living inside a cosmic version of The Sims. Imagine you spill a bag of Skittles on the floor. According to regular thermodynamics, those Skittles should stay scattered unless you put effort into cleaning them up, or your mom tells you to. But, Vopson is saying that when it comes to information, the Skittles somehow start arranging themselves into neat color-coded [music] piles all on their own, which is not how messy random universes are supposed to act. In video games, code doesn't decay into chaos, it refines itself, updates, and gets optimized. If reality behaves more like a perfectly tuned algorithm than a random messy universe, then maybe it's not real at all. Maybe it's designed."
+    },
+    {
+      "id": 91,
+      "debut": 4275.08,
+      "fin": 4366.86,
+      "temps_estime": true,
+      "titre": "Analogie Minecraft et Animal Crossing : ordre stable ou entropie simulée",
+      "resume": "In Minecraft random entropy is organized by the player into structured systems and the world never decays when left alone, unlike Animal Crossing or Stardew Valley, which simulate entropy. The narrator argues information in the universe behaves like the stable, ordered Minecraft world rather than a decaying physical system.",
+      "mots_cles": [
+        "Minecraft",
+        "Animal Crossing",
+        "Stardew Valley",
+        "simulated entropy",
+        "order",
+        "stasis",
+        "information in the universe"
+      ],
+      "texte": "Think about it. When you boot up Minecraft, the game doesn't generate a glitchy, unplayable mess. Sure, it is a bunch of random biomes, trees, and caves, pure raw entropy, but as you play, something weird happens. You organize it. You mine stone, you smelt iron, build houses, make farms, set up [music] redstone circuits. Over time, your once random world becomes a structured optimized system. You go from punching trees like a caveman to building auto sorters, XP farms, and Ender Dragon battle plans. That's just the way we battle entropy. That's the way things work in real life. But, Minecraft is a bit different than real life. If you leave your Minecraft world alone, it won't decay. It'll just sit there, [music] perfectly preserved, waiting for you to come back. No erosion, no trees randomly falling over, no Enderman unionizing and overthrowing the villagers, nothing. The physical world we live in is more like your island on Animal Crossing and your farm on Stardew Valley. Those are instances of simulated entropy. Leave your town alone for a while and when you come back, [music] it's descended into chaos. There are weeds everywhere, crops are dying, the villagers act like you ghosted them, and there's cockroaches in your house. The game world actively degrades over time if you neglect it, just like real life. Minecraft, however, doesn't have built-in entropy. It's like a frozen snapshot of order, indefinitely stable unless something actively changes. [music] It's perfect stasis. And in a way, it mirrors how information in the universe seems to work, not breaking down [music] into chaos like physics suggests, but instead evolving into more efficient ordered systems. [music]"
+    },
+    {
+      "id": 92,
+      "debut": 4366.86,
+      "fin": 4407.77,
+      "temps_estime": true,
+      "titre": "Qui est l'administrateur de l'univers ? Libre arbitre et PNJ",
+      "resume": "Like Minecraft updates, the universe seems to keep refining and organizing itself, raising the question of who plays the role of Mojang or admin. If reality is a simulation, we may lack free will and be NPCs with good dialogue trees.",
+      "mots_cles": [
+        "Mojang",
+        "universe updates",
+        "simulation admin",
+        "free will",
+        "NPCs",
+        "dialogue trees",
+        "super advanced simulation"
+      ],
+      "texte": "Every update Mojang releases also follows this pattern. More features, better mechanics, refined gameplay. If the universe is like Minecraft or any game you play supported by a capable dev team, it's not just running on some random physics engine. It is actively updating, refining, and organizing itself over time. So, the real question is, who is Mojang in this scenario? If the informational basis of our universe is more like Minecraft than we think, then who's the admin? If the universe doesn't behave like a messy bedroom [music] and break down over time, is it actually real or is it some super advanced simulation? And if we really are in the simulation, do we even have free will or are we just NPCs with really good dialogue trees?"
+    },
+    {
+      "id": 93,
+      "debut": 4407.77,
+      "fin": 4453.18,
+      "temps_estime": true,
+      "titre": "Que se passe-t-il quand la simulation manque de mémoire ?",
+      "resume": "If Vopson is right, a simulated universe could run out of storage like a phone, with glitches, crashes or deletion of reality. The segment frames this as a possible existential crisis, as either we found the code behind the universe or reality is about to get a software update.",
+      "mots_cles": [
+        "simulation storage limit",
+        "universe glitch",
+        "blue screen of death",
+        "reality deleted",
+        "simulation theory",
+        "existential crisis",
+        "software update"
+      ],
+      "texte": "Now, you might be thinking, cool, so we live in the Matrix. No big deal, right?\" Wrong. Because if Boson's right, this also raises a terrifying question. What happens when a simulation runs out of storage? Think about your phone. When it's out of memory, apps crash, files disappear, and [music] worst-case scenario, it just freezes and dies. If the universe really is a giant program, what happens when it starts running out of data? Do things start glitching? Or worse, could [music] we just get deleted? Do we get a blue screen of death for reality itself? So, yeah, this isn't just some nerdy physics debate. It could be the biggest existential crisis in human history. Either way, we just uncovered the code behind the universe, or reality is about to get a massive software update, and we have no idea what happens next. [music]"
+    },
+    {
+      "id": 94,
+      "debut": 4453.18,
+      "fin": 4534.09,
+      "temps_estime": true,
+      "titre": "Histoire de la théorie de la simulation : Descartes et le malin génie",
+      "resume": "Simulation theory is an old idea that scientists and philosophers have debated for centuries. In 1641 René Descartes feared an evil demon might trick our senses, and concluded that the one certain thing was that he was thinking: I think, therefore I am.",
+      "mots_cles": [
+        "simulation theory",
+        "René Descartes",
+        "1641",
+        "evil demon",
+        "I think therefore I am",
+        "doubt",
+        "philosophy"
+      ],
+      "texte": "Ironically, the idea that our entire universe might be a massive program running on some incomprehensible supercomputer is nothing new. Simulation theory, as it's called, is an [music] old concept, and we're about to dive in. But don't worry, we promise not to make your brain explode too much. So, let's start with [music] a big scary question. What if nothing you see here or experience is actually real? This isn't just some late-night dorm room conversation fueled by too [music] much caffeine. Scientists and philosophers have been chewing on this idea for centuries. Way back in 1641, [music] René Descartes was already side-eyeing reality. He worried that some kind of evil demon could be tricking us into believing in a world that didn't actually exist. His whole deal was, \"What if literally everything I believe is fake? What if my senses, sight, touch, sound, are all being hijacked by some cosmic troll?\" His only escape was to doubt everything until he found something that couldn't be faked. And the one thing he was 100% sure of was that he was thinking. Even if everything else was an illusion, the fact that he could doubt, question, and think about [music] it meant that his mind had to exist. And that's where we get his famous mic-drop line, \"I think, therefore I am.\" Basically, Descartes was out here in the 1600s having an existential crisis, realizing that the only thing he could prove was real [music] were his own thoughts. The rest of reality might be a glitch in the matrix."
+    },
+    {
+      "id": 95,
+      "debut": 4534.09,
+      "fin": 4595.59,
+      "temps_estime": true,
+      "titre": "The Matrix et l'hypothèse de la simulation selon Vopson",
+      "resume": "The Matrix popularized the idea that reality is a convincing illusion, which fits the simulation hypothesis of an artificial universe. Vopson's theory suggests the opposite of entropy, with information getting cleaner and more structured, as if the universe were a self-organizing program.",
+      "mots_cles": [
+        "The Matrix",
+        "simulation hypothesis",
+        "Keanu Reeves",
+        "Vopson",
+        "self-organizing program",
+        "entropy",
+        "artificial construct"
+      ],
+      "texte": "Fast forward to the 20th century and along comes The Matrix where Keanu Reeves learns that, yep, reality [music] is just a super convincing illusion designed to keep us in line and kung [music] fu. In The Matrix, reality is just a high-tech simulation and humans are trapped inside of it without realizing it. >> [music] >> That fits right into the simulation hypothesis which says our universe might be an artificial construct [music] like a super advanced video game. Even though the second law of thermodynamics says everything should get more chaotic over time, Vopson's theory suggests the opposite might be happening. >> [music] >> If reality behaves less like a decaying physical system and more like a structured self-organizing program, then maybe that's because it is a program. Maybe our universe is running on some cosmic level code instead of breaking down like real-world physics [music] predicts, it's following simulation-like rules where things get more efficient and organized over time. If entropy is supposed to be king, but information is getting cleaner and more structured, maybe that's because we are in [music] the matrix or at least something a lot like it."
+    },
+    {
+      "id": 96,
+      "debut": 4595.59,
+      "fin": 4651.7,
+      "temps_estime": true,
+      "titre": "L'argument de la simulation de Nick Bostrom et Elon Musk",
+      "resume": "In 2003 Nick Bostrom argued for three possibilities: civilizations destroy themselves first, they choose not to run simulations, or they build them, making us likely inside one. Elon Musk added that the leap from Pong to hyperrealistic VR suggests simulations will become indistinguishable from reality, so statistically we are likely simulated.",
+      "mots_cles": [
+        "Nick Bostrom",
+        "simulation argument",
+        "2003",
+        "Elon Musk",
+        "video games",
+        "Pong to VR",
+        "statistical argument",
+        "base reality"
+      ],
+      "texte": "In 2003, philosopher Nick Bostrom took things up a notch with his famous simulation argument. He basically said there are three possibilities. First, civilizations never get [music] advanced enough to create simulations because they wipe themselves out first. Second, they do reach that level of technology but they choose not to run [music] simulations which, let's be honest, seems unlikely considering that humans can't even resist making AI-powered video games. And third, advanced civilizations do create simulations meaning the odds are we are already living in one. Option three is starting to look pretty likely. Elon Musk even jumped on this train pointing out how fast video games have evolved from Pong to hyperrealistic VR in just a few decades. He argued that it's only a matter of time before simulations become so advanced that we won't be able to tell the difference between real and fake. And [music] if that's possible, then statistically we are way more likely to be inside of a simulation than the original universe. >> [music] >>"
+    },
+    {
+      "id": 97,
+      "debut": 4651.7,
+      "fin": 4732.42,
+      "temps_estime": true,
+      "titre": "Vopson, les bugs apparents et l'univers réglé avec précision",
+      "resume": "Vopson says information behaves like programmed code, and glitches or bugs should exist if we are simulated. Fine-tuning, the fact that tiny changes in fundamental forces would collapse the universe, is compared to a designer tweaking game difficulty so players survive.",
+      "mots_cles": [
+        "Melvin Vopson",
+        "glitches",
+        "fine-tuned universe",
+        "fundamental forces",
+        "habitable Earth",
+        "game difficulty",
+        "simulation evidence"
+      ],
+      "texte": "But this is all just philosophy, right? There's no actual science proving this, right? [music] Well, if we were at a pro wrestling event, this is the point where Dr. Melvin Vopson would come and saw off the top rope like a cosmic prophet of destruction. [music] Vopson isn't just questioning entropy. He is grabbing it, lifting it over his head, and slamming it straight through the mat. His theory [music] makes a compelling case that information behaves suspiciously like programmed code. But, if we were inside a simulation, wouldn't there be glitches or bugs? Of course, and [music] there are. Scientists have known about them for a while. What's interesting about Vopson is that his theory could actually explain why the laws of physics seem suspiciously perfect for life here on Earth. Because, let's be honest, space is a death trap. It's freezing, it's full of radiation, and it's about as welcoming as a Taco Bell bathroom. But, somehow, on this one tiny little rock called Earth, the temperature, chemistry, and gravity are all set up just right for life to exist. Why? Scientists call this the fine-tuned universe problem. This basically means that if any of the fundamental forces of physics were just slightly different, the entire universe would collapse into a useless void. But, instead, everything works out perfectly, as if someone or something fine-tuned it. Almost like how designers would tweak the difficulty settings in a video game to make sure the players wouldn't immediately die."
+    },
+    {
+      "id": 98,
+      "debut": 4732.42,
+      "fin": 4808.77,
+      "temps_estime": true,
+      "titre": "L'expérience des doubles fentes et le rendu à la demande",
+      "resume": "In the double-slit experiment particles act like waves when unobserved and like solid objects once observed, so observation seems to change reality. This resembles open-world games that only render what the player sees, which would be expected if the universe were a simulation.",
+      "mots_cles": [
+        "double-slit experiment",
+        "wave interference",
+        "observer effect",
+        "observation changes reality",
+        "open world rendering",
+        "simulation",
+        "electrons photons"
+      ],
+      "texte": "And if that wasn't weird enough, quantum mechanics is already acting like a giant glitch in the matrix. Time for one of the most mind-bending, reality-breaking science experiments ever conducted. It's called the double-slit experiment, and it works like this. Scientists fire tiny particles like electrons or photons at a barrier with two slits, expecting them to pass through one or the other and leave a mark on a screen behind it. But, when these particles aren't being observed, something bizarre happens. They behave like waves, seemingly passing through both slits at once and creating an interference pattern. It's almost as though reality hasn't made up its mind. But, here's where it gets weird. The moment someone observes them, the particles stop acting like waves and behave like solid objects again. Yeah, this is real physics. Somehow, the mere act of observation changes reality itself. Reality might actually change depending on whether or not someone is [music] looking at it. Now let's go back to video games. When you're playing in an open world game, the system only renders what's in your field of view. Everything else is stays in low res or it doesn't load until you get closer. This saves processing power by only generating what the player needs at any given moment. If the universe behaves the same way, only rendering when observed, then that's exactly what we'd expect if we were living [music] inside a simulation."
+    },
+    {
+      "id": 99,
+      "debut": 4808.77,
+      "fin": 4864.62,
+      "temps_estime": true,
+      "titre": "La mécanique quantique comme moteur physique bogué",
+      "resume": "Quantum mechanics has particles popping in and out of existence, being in two places until measured, and affecting each other across light-years via entanglement. The narrator likens this to a glitchy physics engine of a simulation struggling with limited processing power.",
+      "mots_cles": [
+        "quantum mechanics",
+        "entanglement",
+        "superposition",
+        "particles popping in and out",
+        "glitchy physics engine",
+        "processing power",
+        "simulation"
+      ],
+      "texte": "If the double slit experiment wasn't enough to fry your brain, quantum mechanics as a whole ignores common sense. At the atomic level, particles don't follow normal rules. They pop in and out of existence, teleport between locations, and seem to communicate instantly across vast distances. >> [music] >> Scientists call this quantum entanglement, but for our purposes, let's just call it what it is, a glitchy physics engine. Particles can randomly pop in and out of existence, just like data loading and unloading. Electrons are able to exist in two places at once until measured, as if the system hasn't fully rendered their position yet. And particles instantly affect each other across light-years, like a physics engine cutting corners to keep reality running smoothly. Quantum mechanics defies traditional physics, but if [music] reality is a programmed simulation, these bizarre behaviors start to make sense. Suddenly it looks like a limited system struggling to keep up with processing power."
+    },
+    {
+      "id": 100,
+      "debut": 4864.62,
+      "fin": 4949.46,
+      "temps_estime": true,
+      "titre": "La perfection mathématique de la nature comme code",
+      "resume": "Nature follows mathematical equations perfectly, from gravity and electromagnetism to pi, Euler's number and the golden ratio found in galaxies and seashells. This precision, like the coded rules of a video game, suggests either an advanced simulation or Easter eggs left by developers.",
+      "mots_cles": [
+        "mathematical laws",
+        "pi",
+        "golden ratio",
+        "Euler's number",
+        "laws of physics",
+        "game physics",
+        "simulation",
+        "Easter eggs"
+      ],
+      "texte": "Imagine someone hands you a giant book filled with the ultimate cheat codes of the universe, the mathematical equations that make everything work. >> [music] >> You'd probably think, \"Cool, some nerd wrote to explain this stuff.\" But here's where it gets weird. Nature doesn't just kind [music] of follow these equations, it follows them perfectly. Gravity? Mathematical. Electromagnetism? Strict [music] equations. Pi, Euler's number, and the golden ratio? They show up everywhere, [music] galaxies, seashells, even sunflower seeds. The laws of physics are so precise that we can launch a tiny metal tube into space, let it travel billions of miles for [music] years, and it lands exactly where we planned. It's not just luck, that's a system following perfect mathematical instructions. But, where else do you see this [music] kind of strict mathematical precision? That's right, video games. Everything always comes back to video games. So, next time your mom yells at you to go touch grass, tell her that you are literally studying the fundamental nature of reality in Minecraft. [music] Every game you've ever played runs on a coded system with built-in physics, collision detection, and gravity rules that keeps your character from falling through the world. In our universe, the tiniest particles obey the same math everywhere. It's like someone designed the laws of physics, hit run program, [music] and then just let the whole thing play out. So, we're back to Vossen's paradox. Are we living inside the most advanced simulation [music] ever created, or did the devs just leave some Easter eggs in the code for us to find?"
+    },
+    {
+      "id": 101,
+      "debut": 4949.46,
+      "fin": 5009.82,
+      "temps_estime": true,
+      "titre": "Si l'univers est un programme : Wigner et l'univers participatif de Wheeler",
+      "resume": "If the universe is a self-correcting program, matter, energy and time might be code. Eugene Wigner spoke of the unreasonable effectiveness of mathematics, and John Wheeler's participatory universe says reality exists only when observed, as a simulation would optimize resources.",
+      "mots_cles": [
+        "Eugene Wigner",
+        "unreasonable effectiveness of mathematics",
+        "John Wheeler",
+        "participatory universe",
+        "reality as code",
+        "quantum mechanics",
+        "simulation"
+      ],
+      "texte": "Let's assume Vossen is right. Our universe [music] is just a gigantic self-correcting computer program, and we are nothing more than data running inside a cosmic hard drive. If that's true, it raises some absolutely mind-blowing possibilities. Reality as we know it, matter, energy, time itself, might just be code. And before you roll your eyes and say, \"But, I can still stub my toe on the coffee table, so I must be real.\" Think about this. Physicists already suspect that reality [music] is fundamentally mathematical. Nobel Prize winning physicist Eugene Wigner called it the unreasonable effectiveness of mathematics [music] in the natural sciences. Basically, math doesn't just describe reality, it is reality. [music] Quantum mechanics behaves suspiciously like computer processing. Remember the double-slit experiment and [music] the particles that behave differently depending on whether they're being observed? Theoretical physicist John Wheeler proposed the idea of a participatory universe, suggesting that reality only exists when observed, exactly how a simulation would optimize resources."
+    },
+    {
+      "id": 102,
+      "debut": 5009.82,
+      "fin": 5066.79,
+      "temps_estime": true,
+      "titre": "Qui fait fonctionner la simulation ? Des univers simulés par milliards",
+      "resume": "Per Bostrom, advanced civilizations will simulate entire universes, so we are probably inside one of many simulated realities. We could be a science project of a higher-dimensional species, watched like an ant farm or an alien teenager's Earth Simulator.",
+      "mots_cles": [
+        "Nick Bostrom",
+        "simulated universes",
+        "base reality",
+        "higher dimensional species",
+        "ant farm",
+        "NPCs",
+        "simulated consciousness"
+      ],
+      "texte": "So, if we are just packets of data floating inside an ultra-complex system, then the real question is, who or what is behind the keyboard? Nick Bostrom argued that advanced civilizations will inevitably develop the ability to simulate entire universes. If so, it's statistically more likely that we are inside one of those simulations rather than [music] living in the base reality. How many video games exist where NPCs live in a world where they believe it's real? Millions. If future civilizations have the ability to simulate entire [music] histories, planets, and even consciousness, then why would they stop at just one? [music] We could be one of billions of simulated realities, or maybe our universe is just a science project for some higher dimensional species. Maybe they're testing how civilizations develop, or maybe they're just watching us like we watch ants in an ant farm. If that's the case, we might all just be part of some alien teenagers Earth Simulator 3000, the intergalactic equivalent of The Sims."
+    },
+    {
+      "id": 103,
+      "debut": 5066.79,
+      "fin": 5092.88,
+      "temps_estime": true,
+      "titre": "Simulation et religion : un créateur avancé",
+      "resume": "A civilization able to create a simulated universe would seem like a god, so traditional religious ideas may have been onto something. Plato, Descartes and modern tech figures have all asked whether a creator, biological or artificial, governs our existence.",
+      "mots_cles": [
+        "simulation and religion",
+        "creator",
+        "god",
+        "Plato",
+        "Descartes",
+        "advanced civilization",
+        "artificial creator"
+      ],
+      "texte": "The other possibility, if a civilization is advanced enough to create a simulated universe and is indistinguishable from a god, then maybe traditional religious ideas were onto something all along. Philosophers like Plato, Descartes, even today's tekkiest of tech bros have all questioned whether an advanced creator, biological or artificial, might be responsible for the rules governing our existence. And honestly, that's a pretty humbling thought."
+    },
+    {
+      "id": 104,
+      "debut": 5092.88,
+      "fin": 5155.57,
+      "temps_estime": true,
+      "titre": "Limites du système, bugs et déjà-vu comme glitchs de la matrice",
+      "resume": "Every system has limits, like a phone that lags, crashes and deletes files when full, so a simulated universe could hit a processing limit. Quantum oddities such as particles popping in and out and the sense of deja vu are suggested as possible bugs in the program.",
+      "mots_cles": [
+        "processing limit",
+        "phone analogy",
+        "quantum glitches",
+        "deja vu",
+        "glitch in the matrix",
+        "simulation bugs",
+        "system limits"
+      ],
+      "texte": "But let's say, just for a second, that this is a giant program. Not just a metaphor, not just a fun [music] sci-fi idea, but an actual coded system running somewhere beyond our comprehension. There's one central problem. [music] Every system has its limits. Take your phone for example. It's all good when it's brand new, smooth, fast, effortless. Then you start loading it up with photos, games, way too many memes, and all those new updates that you never wanted or needed. Suddenly, things start to lag, [music] apps crash, storage fills up, and then one day something gets deleted just to make space. It's [music] gone, disappeared from your phone's memory, relegated to some invisible cloud you'll never see or find. What happens when the universe [music] hits its processing limit? Quantum physics already hints at some strange glitches. Particles popping in and out of existence [music] like corrupted files, time shifting based on that defy logic. Ever heard someone say that they saw a glitch in the matrix? A deja vu that felt too real? Maybe they aren't just tricks of the mind. What if they're actual bugs in the program?"
+    },
+    {
+      "id": 105,
+      "debut": 5155.57,
+      "fin": 5202.19,
+      "temps_estime": true,
+      "titre": "Trous noirs comme bouton de suppression et risque d'être débranché",
+      "resume": "Hawking's idea that black holes erase information leads to the thought that they are the simulation's way of clearing space. The simulation could optimize and erase civilizations like old save files, so the open question is how to stop the operator from pulling the plug.",
+      "mots_cles": [
+        "black holes",
+        "information erased",
+        "Stephen Hawking",
+        "delete button",
+        "save files",
+        "pull the plug",
+        "simulation",
+        "simulation optimization"
+      ],
+      "texte": "And then there are black holes, the universe's biggest mystery, and maybe it's delete button. Stephen Hawking once suggested that black holes might not just swallow matter, but erase information itself. If that's true, are black holes just the simulation's way of clearing out space like emptying the recycling bin? If this is a program, what happens when it crashes? Or worse, what if it doesn't crash, but it decides to optimize? Civilizations, people, entire histories could be erased like [music] old save files wiped out to free up processing power. And that leaves us with one unsettling question. If the simulation is real, how do we make sure the person running it doesn't pull the plug? Do you think we're living in a simulation, or is this just another wild theory? Could the universe as we know it be nothing more than code?"
+    },
+    {
+      "id": 106,
+      "debut": 5202.19,
+      "fin": 5262.11,
+      "temps_estime": false,
+      "titre": "Idées reçues sur les trous noirs : ils éjectent aussi de la matière (2005)",
+      "resume": "The textbook black hole traps even light, but they also expel jets when a plasma disc accumulates around them. In 2005 scientists wrongly believed black holes stop growing once they reach a certain size, until the discovery of a gigantic explosion proved otherwise.",
+      "mots_cles": [
+        "black hole misconceptions",
+        "jets",
+        "plasma disc",
+        "2005",
+        "black hole growth",
+        "explosion discovery",
+        "gravity",
+        "light cannot escape"
+      ],
+      "texte": "Do you know what a black hole is? Unless you've never attended a science class, or you've been living under a rock most of your life, you probably think you do. But chances [music] are you're wrong, and I'm not being presumptuous, so don't roll your eyes at me like that. We only have to go back to 2005 to reach a time where the world's [music] top scientists had it all wrong. In fact, their mistaken ideas almost led them to miss out on discovering a very very big explosion. The textbook definition of a black hole is a place in space where gravity [music] pulls so much that even light cannot get out. Or in layman's terms, it's a thing that sucks other things in. But not everyone realizes that black holes also spit stuff [music] out. To be precise, they expel jets when a disc of plasma accumulates around the sinkhole in the middle. Scientists previously thought [music] that black holes only suck stuff in when they're relatively small, allowing them to grow quickly, but that once they reach a certain size, the process stops. Well, it turned out to be incorrect, and it only took the discovery [music] of a crazy huge explosion to figure it out."
+    },
+    {
+      "id": 107,
+      "debut": 5262.11,
+      "fin": 5344.83,
+      "temps_estime": true,
+      "titre": "L'amas de galaxies MS0735.6+7421 et ses cavités géantes",
+      "resume": "Scientists studying galaxy cluster MS0735.6+7421, about 2.6 billion light-years away in Camelopardalis, saw a huge black hole growing fast even though it should have stopped. Two vast cavities extended from the black hole, suggesting the biggest explosion since the Big Bang.",
+      "mots_cles": [
+        "MS0735.6+7421",
+        "galaxy cluster",
+        "Camelopardalis",
+        "2.6 billion light-years",
+        "supermassive black hole",
+        "cavities",
+        "biggest explosion"
+      ],
+      "texte": "One day scientists were studying [music] the galaxy cluster named MS0735.6 + 7421, which .6 + 7421, which a disappointingly boring name for something [music] as cool as a galaxy cluster. It's literally one of the largest structures in the universe, containing thousands of galaxies, dark matter, and hot gas. >> [music] >> This particular cluster is around 2.6 billion light-years away from us, so maybe they used up all the catchy names by the time they came around to it. But, it does lie in the constellation Camelopardalis, also known as the giraffe. Now, there's a name I can get behind. But, anyway, those guys noticed something intriguing. [music] Not only was there a huge black hole, but that black hole was growing fast. But, that didn't make any sense because the black hole was already massive, [music] and it should have stopped expanding. In fact, the amount of matter that had been swallowed was so large that researchers weren't even sure where it had come from. Had the gas [music] from the host galaxy cooled and then been swallowed? And there was another strange thing, too. There were two huge cavities in [music] the galaxy cluster, extending away from the black hole, as if something had caused those cavities. Are you thinking what I'm thinking? But, the idea of a black hole causing the cavities should have been impossible. [music] For one, everything known about black holes suggested that this one should have stopped expanding. And [music] secondly, if it was true, we'd be talking about the biggest explosion ever, or at least the largest since the Big Bang. It was a big deal, and the researchers needed to get to the bottom of it."
+    },
+    {
+      "id": 108,
+      "debut": 5344.83,
+      "fin": 5405.87,
+      "temps_estime": true,
+      "titre": "Une éruption de 100 millions d'années : 600 millions de masses solaires avalées",
+      "resume": "Radio and X-ray telescopes showed the cavities were carved by jets after the black hole swallowed matter equal to 600 million solar masses. The explosion spanned about 100 million years of energy release, equivalent to hundreds of millions of gamma ray bursts.",
+      "mots_cles": [
+        "radio telescopes",
+        "X-ray telescopes",
+        "jets",
+        "600 million solar masses",
+        "100 million years",
+        "gamma ray bursts",
+        "gravitational energy",
+        "black hole explosion"
+      ],
+      "texte": "Using a mix of radio and X-ray telescopes, scientists were able to piece the information they found together. [music] The cavities were created by the black hole after jets erupted from within the hole and released a load of gravitational energy. The scale was beyond anything we'd encountered before. The super massive black hole had been greedily swallowing ridiculous quantities [music] of dark matter, and a mass equivalent of 600 million solar masses. Yeah, you heard that right, 600 million. Does that help to get you a scale [music] of just how big this explosion was? But, you can't think of this eruption in the same way you think of a bomb going off on our [music] tiny planet, or even in the same way as a volcano erupting. It just wasn't a one-off event lasting a few minutes or hours, or even a few days. In total, it's estimated that the explosion happened over 100 million years of energy release. Hundreds of millions of gamma ray bursts would be [music] needed to release that level of gravitational energy. 100 million years of gamma ray bursts, x-rays [music] emitting gas, and matter repeatedly being swallowed into the black hole and spit out again."
+    },
+    {
+      "id": 109,
+      "debut": 5405.87,
+      "fin": 5479.47,
+      "temps_estime": false,
+      "titre": "L'échelle de l'explosion : cavités de 700 000 années-lumière et suite annoncée",
+      "resume": "Each cavity is about 700,000 light-years wide, with displaced gas equal to a trillion suns and a black hole over 10 billion solar masses. The explosion may still be going on, stopping gas cooling and generating magnetic fields, and the narrator teases an even bigger explosion releasing about five times more energy.",
+      "mots_cles": [
+        "700,000 light-years",
+        "displaced gas",
+        "trillion suns",
+        "10 billion solar masses",
+        "magnetic fields",
+        "hot gas",
+        "biggest explosion",
+        "galaxy or black hole first"
+      ],
+      "texte": "Meanwhile, we start to feel old when we turn 30. Each of the cavities created are thought to be around 700,000 light years [music] wide. It's difficult to comprehend a void so large that you can only measure it in thousands and thousands [music] of light years. No wonder the discovery was groundbreaking. To get an idea of the size, try to picture [music] this. The amount of displaced gas was equal to a trillion suns, and it had more mass than all the stars in the Milky Way. Plus, the black hole involved [music] had a mass of over 10 billion solar masses, and the sun has a mass of around 330,000 times greater than that of the Earth. And the mass of the Earth compared to you? It doesn't even bear thinking about. But the craziest part of this is that the explosion could still be happening right now. Thanks to the energy the explosion produced, hot gas around the black hole stopped cooling, and magnetic fields were generated in the galaxy cluster. It's just one example of how explosions in space can develop and change the environment. As for how black holes work, the eruption helps shed some light, [music] but it's one of the many mysteries of the universe that we're still uncertain about. And which came first anyway, the galaxy or the [music] black hole? So, basically, scientists uncovered a pretty big explosion, but don't go yet. You don't really think that was the biggest explosion since the Big Bang, did you? That's so 2005."
     }
   ]
 }
