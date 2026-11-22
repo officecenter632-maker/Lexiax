@@ -4,12 +4,12 @@
   "titre_video": "You're Witnessing the Death of American Capitalism and More Insane Stories About the Economy",
   "duree_s": 11029.12,
   "avancement": {
-    "lignes_traitees": 2776,
-    "fin_traitee_s": 5574.64,
+    "lignes_traitees": 3612,
+    "fin_traitee_s": 7330.68,
     "nb_lignes_total": 5541,
     "complet": false
   },
-  "nb_segments": 109,
+  "nb_segments": 133,
   "segments": [
     {
       "id": 1,
@@ -2048,6 +2048,460 @@
         "pie analogy"
       ],
       "texte": "of capital. The first is technological advancement. They found that when the share of revenue spent on research and development goes up by one percentage point, [music] labor share falls by up to 1.3 percentage points. The threat of being able to replace your workers with a machine decreases their bargaining power and keeps them content with low wages. The second is globalization where a 1% increase in the share of revenue coming from exports leads to a 0.3% drop in labor share. Again, it gives the owners greater leverage over their employees. They have got freedom to relocate if they believe their workers are asking for too much of the share. The third is high market concentration where competition is low and the share is divided between a relatively small number of companies. In these cases, companies have the leverage to keep their workforces lean and set their terms. In countries with strong union presence like Sweden, this can turn to the workers' favor. But, in the US, it almost always shakes out in favor of the capital holders. The fourth is intangible factors like copyrights, patents, and trademarks >> [music] >> that keep the reins in the hands of the capital holders. That's especially true when it comes to the right to research and development. Again, it's all about bargaining power, and the more value that the shareholders can consolidate at the top of the pyramid, the more labor value they can extract from you without consequence. The pie keeps getting bigger thanks to technology advancing and your hard work, but every time the pie grows, corporate interests readjust the knife to just give you a smaller slice. The quality of jobs are declining and the numbers of jobs needed to survive increases. Meanwhile, the economy keeps producing more wealth than ever before. You are just getting less of it. Even if you're no stranger to the"
+    },
+    {
+      "id": 110,
+      "debut": 5574.64,
+      "fin": 5653.72,
+      "temps_estime": false,
+      "titre": "Internal mobility and the great flattening of middle management",
+      "resume": "Internal mobility, the ability to progress at work through lateral or vertical moves, is the heart of the American dream of rising from entry level to the boardroom. The great flattening, in which firms like Amazon, Microsoft, Google, Walmart and Starbucks downsize middle management, removes guidance, morale and the promotion track, like blowing up the bridge between labor and capital.",
+      "mots_cles": [
+        "internal mobility",
+        "great flattening",
+        "middle management layoffs",
+        "promotion track",
+        "Amazon Microsoft Google",
+        "Walmart Starbucks",
+        "corporate structure",
+        "American dream"
+      ],
+      "texte": "modern workforce, two words you might not be familiar with in this context are [music] internal mobility. This means your ability to actually progress at your workplace. That can be a lateral move, gaining the skills to take on a job in an entirely different department, or a vertical move where your skills and experience can pay off in tangible advancement up the hierarchy of your company. That is the American dream, isn't it? That anyone could join a company at an entry-level position and through sheer grind and dedication one day find themselves on the company's board. But, these days it seems more and more like the promise of internal mobility in most jobs [music] holds about as much water as a real Christmas Eve visit from Santa Claus. Part of this is a phenomenon in corporate America that some people are calling the great flattening. It's where the middle management class is downsized in order to streamline a company and increase operational efficiency. From tech giants like Amazon, Microsoft, and Google to huge retailers like Walmart and Starbucks, it seems like flattening the corporate structure is the order of the day. But, you don't see the savings. In fact, it seems like it might be stacking the cards against you even further. Not only will you lose a lot of the guidance and morale that middle managers provide, you also lose the middle management promotion track. It's like they've detonated a bridge between two sides of a long river with labor on one side and capital on the other. The lack of"
+    },
+    {
+      "id": 111,
+      "debut": 5653.72,
+      "fin": 5726.84,
+      "temps_estime": false,
+      "titre": "9.3 million multiple jobholders and income stacking",
+      "resume": "The Bureau of Labor Statistics reported 9.3 million Americans working multiple jobs in November 2025, 5.7% of the active labor force, including half a million holding two full-time jobs. Gen Z increasingly works as contractors rather than salaried employees, a practice called income stacking, far from the 20th-century single income.",
+      "mots_cles": [
+        "multiple jobs",
+        "9.3 million Americans",
+        "5.7 percent of labor force",
+        "November 2025",
+        "two full-time jobs",
+        "income stacking",
+        "Gen Z",
+        "burnout"
+      ],
+      "texte": "internal mobility in a world of ever-rising costs has driven literally millions of people into working multiple jobs just to make ends meet. The data backs that up. According to the US Bureau of Labor Statistics, 9.3 million Americans reported working multiple jobs in November of 2025. It made for 5.7% of the total active labor force at the time. And this isn't just a full-time job and a part-time job or even two [music] part-time jobs. For half a million of those Americans, two full-time jobs have been fully accepted as standard operating procedure to anything above treading water in life. The burnout is real. This is particularly bad for workers in Gen Z who've entered the labor force in a world of technology induced economic uncertainty. Fewer [music] people than ever are employees with true salaries and all the attendant benefits. Instead, people are becoming part or full-time contractors for different companies. The expression for this is income [music] stacking and it feels like a far cry from the world of the 20th century where one income was often enough to get by on. But even if you're not working multiple jobs, there's a good chance you still probably feel drained at the end of the week. What makes work so insanely exhausting [music] that it feels like our lives are losing space and energy for anything but more work."
+    },
+    {
+      "id": 112,
+      "debut": 5726.84,
+      "fin": 5801.8,
+      "temps_estime": false,
+      "titre": "Lean staffing in the name of efficiency",
+      "resume": "Corporate efficiency can be costly, and a short-sighted version is lean staffing, running a company with the bare minimum of staff so employees wear many hats. Once an emergency measure in financial trouble, it is now used for higher profits even when revenue is solid, which the narrator likens to taking morphine just in case you break your leg.",
+      "mots_cles": [
+        "efficiency",
+        "lean staffing",
+        "overwork",
+        "bare minimum staffing",
+        "double duty",
+        "shareholders",
+        "profits",
+        "morphine analogy"
+      ],
+      "texte": ">> [music] >> Turns out that it's not just you losing your stamina. It's the result of a concentrated workplace strategy [music] that is grinding you away to nothing. A corporate buzzword you probably hear a lot is efficiency. It's [music] one of those words that help shareholders sleep comfortably at night. But like anything that delivers a quick dopamine hit, [music] it comes with real costs if you reach for it without thinking. One of the most dangerous and short-sighted corporate decisions made in service of so-called efficiency [music] is lean staffing, and it's one of the main reasons you feel like you're always overworked. [music] This tactic is exactly what it sounds like, running your company with the absolute bare minimum of staffers possible for it to work. This results in employees pulling double duty and wearing many different hats. In the past, lean staffing has been an emergency measure in times of dire financial straits at a company, but [music] some of the management class have figured out that it will lead to even higher profits to run lean when the revenue stream is solid. This, by the way, is kind of like taking morphine when you're perfectly fine, just in case you break your leg later. It might feel [music] pretty good in the short term, but in the long term, you're on a collision course with real trouble, and that is just for the owners and shareholders. For you, the ground-level worker, the awful side of lean staffing will be apparent a lot quicker. There's"
+    },
+    {
+      "id": 113,
+      "debut": 5801.8,
+      "fin": 5872.08,
+      "temps_estime": false,
+      "titre": "Just-in-time staffing: fatigue and overwork that kills",
+      "resume": "Lean staffing is also called just-in-time staffing and hits hourly workers, about 55.8% of US workers, with long hours, complex tasks and high pressure. Absenteeism spikes and workers get sick, and a 2021 BBC report said working over 54 hours a week risks death from overwork, affecting almost a million people yearly, with overwork the largest driver of occupational disease.",
+      "mots_cles": [
+        "just-in-time staffing",
+        "hourly workers 55.8%",
+        "fatigue",
+        "absenteeism",
+        "54 hours a week",
+        "BBC 2021",
+        "death from overwork",
+        "occupational disease"
+      ],
+      "texte": "a reason why another name for this kind of corporate structure is just-in-time staffing. Hourly workers who make up around 55.8% of workers in the US need to break their backs responding to the immediate needs of their employers. The result of these corporate structures for workers is generally horrific fatigue. They work long hours with huge numbers of complex tasks in a high-pressure work environment. It probably won't surprise you to hear that absenteeism tends to spike in lean staffing situations. Workers frequently get physically sick from the exhaustion of overwork, and the science is in, if you are overworked, it's going to make you sick, [music] and if you keep doing it for too long, it is going to kill you. The BBC reported in 2021 that people working more than 54 hours a week are at a major risk of dying from overwork. It happens to almost a million people every year. Overwork is, in fact, the single largest driver for occupational disease thanks to the genuinely ruinous effects that stress can have on the human body. Bosses are enjoying the image of paying out fewer salaries on their balance sheets. Meanwhile, you will be doing twice as much work as before with tight turnarounds that don't allow for any slack. >> [music]"
+    },
+    {
+      "id": 114,
+      "debut": 5872.08,
+      "fin": 5930.96,
+      "temps_estime": false,
+      "titre": "Zoom, Slack and boss ware: the work panopticon",
+      "resume": "Technology erases the 9-to-5 separation, as Zoom and Slack let the boss sit in your pocket or living room, leaving digital nomads never fully on or off. Employee monitoring software, called boss ware, creates a work panopticon with live screen feeds and keystroke logs, worse in flattened lean teams where managers have time to watch.",
+      "mots_cles": [
+        "Zoom",
+        "Slack",
+        "work-life balance",
+        "employee monitoring software",
+        "boss ware",
+        "panopticon",
+        "keystroke logging",
+        "digital nomads"
+      ],
+      "texte": ">> Speaking of slack, the increasing role that technology plays in moderating the workforce is another factor that makes you feel so overworked all the time. Before the advent of computers, you would clock in at 9:00 and go home at 5:00 at most jobs. Now, thanks to Zoom and Slack, your boss can wait around in your pocket or in your living room. It destroys the traditional separation that makes work-life balance, well, a balance. Especially for the digital nomads of the world, you are never on, but also you're never really off, either. But, it gets even more intrusive. The cottage industry of employee monitoring software, also known as boss ware, has increased [music] your standard level of workspace even more. It puts you in a kind of work [music] panopticon. You feel the need to always be on your best behavior in case a live feed of your screen is being watched or [music] every keystroke is being logged and fed straight to HR. This is even worse in a flattened lean staffing setup where your boss might genuinely have the free time to actually sit in and watch what you're doing all day. You might"
+    },
+    {
+      "id": 115,
+      "debut": 5930.96,
+      "fin": 6026.04,
+      "temps_estime": false,
+      "titre": "Performance punishment: hard work marks you as exploitable",
+      "resume": "Performance punishment means strong performers get more work delegated without extra pay, possibly through coworkers' weaponized incompetence. Companies rarely promote or pay more because they need someone to fill your shoes, so you keep the job until frustration or health problems force you out, rewarded with a thank-you and standard severance.",
+      "mots_cles": [
+        "performance punishment",
+        "weaponized incompetence",
+        "overtime without pay",
+        "exploitable not employable",
+        "career advancement",
+        "severance",
+        "overwork",
+        "good employees"
+      ],
+      "texte": "think that maybe, even though it's killing you, you just need to work a little bit harder to push through the barrier. But, that might be working against you, too. You probably heard the old phrase, \"No good deed goes unpunished.\" And in the corporate world, there is plenty of evidence that this is actually empirically true. Welcome to the world of performance punishment where hard work earmarks you as exploitable rather than employable. If you got a great track record for quality work and hitting deadlines, there's a good chance you'll find more work being delegated your way, but not with any greater compensation for the overtime. Maybe it's because you genuinely are an exceptional employee, or maybe it's your coworkers intentionally getting more loaded onto your plate with weaponized incompetence. In either case, the result is the same. You're getting punished with extra overwork for the crime of actually doing your job well. You might think that maybe good work like this will make you a shoe-in for a career advancement, and that is rarely the case. Most companies won't want to start paying you extra for the hard work you're already doing out of the goodness of their heart, because [music] they don't have hearts to appeal to. Advancing into a different department for your hard work would also be counterintuitive to their purposes, too, because who would fill in your shoes? >> [music] >> Sometimes doing your job too well will be the ultimate tip-off to your employers that you should just keep that job for as long as you can physically stand it. And when you eventually leave, either due to frustration or health problems, [music] then they'll consider who else they should get to fill in your broken shoes. You'll be a little more than a memory. You'll be lucky if you get more than a thank [music] you and the standard severance package for the time, energy, and health you poured into"
+    },
+    {
+      "id": 116,
+      "debut": 6026.04,
+      "fin": 6073.48,
+      "temps_estime": false,
+      "titre": "Overworked and underpaid because that's how you're useful to the system",
+      "resume": "The narrator summarizes: costs climb while wages stagnate, labor share keeps shifting to bosses who lay off middle managers, run skeleton crews and post fake job ads, technology erodes work-life boundaries and performance punishment deepens the hole. Workers are overworked and underpaid because that is how they are most useful to the system.",
+      "mots_cles": [
+        "labor share",
+        "stagnant wages",
+        "skeleton crews",
+        "fake job postings",
+        "middle manager layoffs",
+        "work-life boundaries",
+        "underpaid",
+        "system"
+      ],
+      "texte": "all this. The economy isn't what it used to be. Thanks to the fundamental oversights in the financial systems of the United States, >> [music] >> costs will continue to climb while wages will continue to stagnate. The labor share of value will continue to tip more of the wealth [music] you create into the pockets of your bosses, who are laying off middle managers and running skeleton crews while posting ads for jobs that don't exist on listing [music] sites. You're frozen in place, working yourself to the bone at one or more jobs [music] where technology erodes the boundaries between work and life. All the while, performance punishment ensures that any attempt [music] to work yourself out with hard work just digs you deeper into the hole. You're overworked and underpaid because that's how you're most useful to the [music] system. And until the system itself changes, that is not going to change for you, either. So, if you're overworked,"
+    },
+    {
+      "id": 117,
+      "debut": 6073.48,
+      "fin": 6124.28,
+      "temps_estime": false,
+      "titre": "The system's big lie: 3 percent inflation versus 9 percent and the shadow banking crash",
+      "resume": "A new section says government claims of 3% inflation and stability hide a reality closer to 9% for the bottom half, and a shadow banking system using accounting techniques that would send people to prison. The narrator says the next crash will not look like 2008 but will be quieter and faster, and it may already be happening out of sight.",
+      "mots_cles": [
+        "inflation 3% vs 9%",
+        "shadow banking",
+        "2008 financial crisis",
+        "next crash",
+        "bottom half",
+        "accounting techniques",
+        "economic collapse",
+        "government statistics"
+      ],
+      "texte": "underpaid, and still falling behind, the system should be breaking, but it's not. You're about to lose everything because of the system's big lie. While you're holding your breath for another 2008-style financial collapse, it's already happening in the dark, out of sight. The government will tell you inflation is just [music] 3%, that everything is stable, that the economy is holding strong. But if you're in the bottom half, you already feel the gap between what they say and what's real because your reality isn't 3%. It's closer to 9% and it's getting worse. It's all thanks to a shadow banking system [music] holding $2 hostage with accounting techniques that would have you doing hard time in federal prison. When the crash hits, it won't look like 2008. It'll be quieter, faster, and by the time you realize what's happening, it'll be too late to protect yourself. >> [music]"
+    },
+    {
+      "id": 118,
+      "debut": 6124.28,
+      "fin": 6204.16,
+      "temps_estime": false,
+      "titre": "The great disconnect: mortgage rates, home prices and savings",
+      "resume": "The S&P 500 is at record levels while ordinary people have little chance of buying property: mortgage rates are around 7%, you need six figures to afford a median-priced home of about $422,000, and Americans under 35 average $20,500 in savings, skewed by the ultra-rich. The median home price-to-income ratio rose from 3.5 in 1985 to 5.0 in 2025.",
+      "mots_cles": [
+        "great disconnect",
+        "mortgage rates 7%",
+        "median home price $422,000",
+        "savings under 35",
+        "$20,500",
+        "price-to-income ratio",
+        "S&P 500",
+        "homeownership"
+      ],
+      "texte": ">> This is the real reason the economy hasn't collapsed yet. Part one, the great disconnect. You and the investment class are living in two different universes. The S&P 500 looks pretty healthy right now, reaching record levels, but you, you've got as much a chance to get on the property ladder as you do climbing up a magic beanstalk. >> [music] >> According to Fortune, US mortgage rates are at around 7% and you need to be earning at least six figures if you want even a median-priced home. That [music] price, by the way, is around $422,000. You got that lying around in savings? Statistically, you absolutely [music] don't. The Fed says that the average savings for Americans under 35 is around $20,500, but because the ultra-rich heavily skew that math, far more than half of young Americans actually have even less than that. It feels like a slap in the face when most people are carefully budgeting just to stay afloat, trying to balance their rent, groceries, and fuel that seems to get more expensive every time you fill up. Americans' median home price-to-income ratio has risen from 3.5 in 1985 [music] to 5.0 in 2025. In 1985, your average worker buying a house is [music] kind of like investing in a luxury car. In 2026, it's more like your average worker buying a private jet."
+    },
+    {
+      "id": 119,
+      "debut": 6204.16,
+      "fin": 6288.16,
+      "temps_estime": false,
+      "titre": "Inflation is not equal: low-income households hit hardest",
+      "resume": "Prices have risen 29% since January 2019, with a persistent inflation gap of about three percentage points between low- and high-income households, and one in three low-income households spends about 95% of income on basic needs. High earners spend 16% on discretionary goods versus 12% for lower-income households, so they suffer less while the lower middle class sinks toward insolvency.",
+      "mots_cles": [
+        "inflation gap",
+        "29% price increase since 2019",
+        "low-income households",
+        "95 percent of income on basic needs",
+        "discretionary spending",
+        "Allianz",
+        "middle class",
+        "insolvency"
+      ],
+      "texte": "Inflation is out of control, no matter what the government tells you. The biggest lie of all is that it's a burden the whole population shoulders equally. According [music] to Alliance, prices have increased by 29% since January 2019 with a persistent plus three percentage point inflation gap or PPS between low and high-income households. Even more disturbing, one in three low-income households spends about 95% of their income on basic needs. Given that so much inflation is based around basic necessities like food and fuel, the families spending the most on those are inevitably the ones most impacted by price hikes. [music] For people with elite income far higher than the median, 16% of their spending is on discretionary goods and services. That's accountant speak for things that you absolutely don't need to buy. Compare that to only 12% of lower-income households. Those [music] prices are the most stable under inflation, so high-income consumers suffer less while median and low-income families get the full force of [music] every economic disaster. To enjoy what used to be middle-class life, you need an elite salary now. All the math points to anyone in the lower middle class and below slowly sinking deeper toward insolvency. So, why does the government and all of the big banks act like everything is fine? Someone is [music] telling a lie, and they are getting rich"
+    },
+    {
+      "id": 120,
+      "debut": 6288.16,
+      "fin": 6382.76,
+      "temps_estime": false,
+      "titre": "The 9 percent secret: CPI versus the True Living Cost Index",
+      "resume": "In 2023 reported CPI for urban consumers was 4.1%, but the Ludwig Institute's True Living Cost Index, which strips discretionary items and focuses on housing, food, transportation, health care, child care and technology, came in at 9.4%. That was the highest annual increase since 2001.",
+      "mots_cles": [
+        "Consumer Price Index",
+        "CPI 4.1%",
+        "Ludwig Institute",
+        "True Living Cost Index",
+        "TLC",
+        "9.4 percent",
+        "essential expenses",
+        "2023"
+      ],
+      "texte": "off of it. Part two, the 9% secret. While the government is often a lot more eager to turn your attention to the Dow or the S&P 500, the real stat we need to focus on here is the Consumer Price Index or CPI. That is where the dark secret is hiding. In 2023, the reported Consumer Price Index for all urban consumers was 4.1%, but the Ludwig Institute for Shared Economic Prosperity noticed an inconsistency that could make all the difference. The Ludwig Institute calculates their own metric that [music] cuts through the shadows gathered around the government CPI reading. It's called the TLC or True Living Cost Index. Remember when we told you that higher-income households spend a lot more on non-essential outcomes, the TLC calculates the brutal stress inflation puts on the lower 50% of earners by excluding all the discretionary purchases that bulk out the yearly costs of higher income earners. Instead, we have housing, food, transportation, health care, child care, technology, and miscellaneous items like clothing and personal care. When a large share of the 80,000-plus items tracked in the CPI are stripped away in favor of the basics, the picture for lower, middle, and working-class households looks very different. Compared to the 4.1% CPI in 2023, the true living cost index came in at 9.4% reflecting the reality of essential expenses like housing, food, and transport. This was the highest annual increase since 2001, less than a decade before the 2008 crash, and right before the onset of the Iraq war. Ludwig said,"
+    },
+    {
+      "id": 121,
+      "debut": 6382.76,
+      "fin": 6468.68,
+      "temps_estime": false,
+      "titre": "The shrinking middle class and the top 10 percent's 48 percent of spending",
+      "resume": "The Ludwig Institute says middle and working-class Americans face a growing crisis despite economic growth. The middle spending bracket fell from 37% of consumer spending in 1992 to 28% in 2025, while the top 10% of earners, above $250,000, rose from 35% to 48%, and the working class holds only 9%, a trend Moody's Mark Zandi says will continue.",
+      "mots_cles": [
+        "middle class",
+        "consumer spending share",
+        "top 10 percent 48%",
+        "$250,000 income",
+        "working class 9%",
+        "Mark Zandi",
+        "Moody's Analytics",
+        "K-shaped"
+      ],
+      "texte": "\"Middle and working-class Americans are facing a growing economic crisis, struggling to make ends meet despite recent economic growth. The rising cost of living, stagnant wages, and a shortage of living-wage employment is creating a perfect storm that threatens social and economic stability. But, that's a gamble that the government and the banking industry is more than happy to take. It's your chips on the table, not theirs. This means that the middle class is bleeding spending power like it just nicked a major artery. As of 2025, people in the middle spending bracket make up only 28% of the total US consumer spending market. That same group had 37% in 1992. By contrast, the purchasing power of the folks in the top 10% of earners making over $250,000 a year have filled in the power vacuum. They were 35% of consumer spending back in 1992, and now they're at 48%. [music] Let that sink in. 10% of people in the country are in control of nearly half of all consumer spending in the US. That's more than just an advantage, [music] it's complete domination. And the working class are only getting even worse than the dwindling lower middle class. They make up only 9% of consumer spending power, less than a tenth of the total. According to Mark Zandi, the chief economist at Moody's Analytics, lower income households have seen their share of the economic pie decline, and that's going to continue. The system is picking your pocket right now, trading"
+    },
+    {
+      "id": 122,
+      "debut": 6468.68,
+      "fin": 6586.16,
+      "temps_estime": false,
+      "titre": "Golden handcuffs: why high rates haven't crashed home prices",
+      "resume": "If purchasing power outside the top 10% collapses the housing market should follow, but it has not because of the golden handcuff effect. Pandemic-era mortgage rates were historically low, with 52.5% of mortgages below 4% in Q2 2025 while new loans exceeded 6%, so owners have no incentive to sell and the FHFA estimates the lock-in prevented 1.72 million home sales from 2022 to 2024.",
+      "mots_cles": [
+        "golden handcuffs",
+        "mortgage lock-in effect",
+        "mortgage rates",
+        "52.5% below 4%",
+        "FHFA",
+        "1.72 million home sales",
+        "housing supply",
+        "interest rates"
+      ],
+      "texte": "on your future. But maybe they've already sown the seeds of their own demise. Surely, if purchasing power outside of the top 10% collapses, then the housing market follows. Historically, that's one of the first cracks that drags the whole economy down. But it hasn't, and that reveals another trick the system is using to make things look stable when they aren't. Part three, the golden handcuff effect. [music] One of the biggest lies you've probably been told about the housing market is high interest rates will crash home prices. [music] Interest rates go up during periods of inflation. High interest rates have been known to reduce house buying prices in the long run. Confused? Good, the financial industry wants you to be. Higher interest rates lead to houses being more expensive, which reduces demand. >> [music] >> Reduced demand leads theoretically to surplus supply, which in turn brings prices down. It's sound economics, unless the supply is tied up. The mortgage rate is one of the most powerful economic drivers in the US. A difference of even one or two percentage points means [music] thousands in extra monthly costs for homeowners. The pandemic saw historically low mortgage rates that allowed a lot of people to enter the housing market, and [clears throat] in the process dig in their heels for the next rate hike. 52 and a half percent had an interest rate below 4% as of the second quarter of 2025. New loans leapt up past 6% back in 2022, and have remained relatively firm ever since. But for those with low interest rates, there's an incentive not to sell given that they're in such a cushy position. This is known as golden handcuffs, a [music] positive situation for the individual homeowner, at least, that destroys any incentive to sell. The people outside of the property market are denied a way in. The Federal Housing Finance Agency estimated that the lock-in effect has prevented 1.72 million home sales [music] between 2022 and 2024. This is a nightmare that we don't seem to be waking up from anytime"
+    },
+    {
+      "id": 123,
+      "debut": 6586.16,
+      "fin": 6643.84,
+      "temps_estime": false,
+      "titre": "Artificially high home prices from low supply",
+      "resume": "Despite lower demand, prices stay artificially high because housing supply is at least 14% below pre-pandemic levels, and listings stayed on the market 62 days in late 2025. Chief economist Dr. Selma Hepp says scarcity keeps prices rising and locks first-time buyers out, so people are either locked in or locked out.",
+      "mots_cles": [
+        "housing supply",
+        "14 percent below pre-pandemic",
+        "days on market 62",
+        "Selma Hepp",
+        "Cotality",
+        "first-time buyers",
+        "affordability",
+        "price growth"
+      ],
+      "texte": "[music] soon. So, despite the lower demand, the price is kept artificially high because the supply of houses is now historically low, at least 14% below pre-pandemic [music] levels. And as a result of these price hikes, we're even seeing listed houses staying on the market for longer, 62 days in late 2025, a week more than 2024. Kotality Chief Economist Dr. Selma Hepp says, \"The lack of supply often creates a tight market, increasing the ratio of buyers to sellers. >> [music] >> Markets with the largest scarcity of homes for sale continue to see the strongest price growth, despite affordability challenges. For first-time buyers or those who must move, it creates a severe affordability challenge, locking them out of homeownership. Whether they're locked in or locked out of the housing market, there is no denying that the general public is by and large locked. But that's [music] just one piece of the puzzle in a larger and way more terrifying picture. The risk of economic"
+    },
+    {
+      "id": 124,
+      "debut": 6643.84,
+      "fin": 6695.76,
+      "temps_estime": false,
+      "titre": "Part four: the shadow bank time bomb and Dodd-Frank",
+      "resume": "The risk of economic collapse mutated after 2008 into the shadow banking sector. Dodd-Frank was meant to curb too-big-to-fail and taxpayer bailouts, but it moved them into the dark, and shadow banking, called non-bank financial intermediation, covers credit activity outside the regular banking system.",
+      "mots_cles": [
+        "shadow banking",
+        "Dodd-Frank",
+        "too big to fail",
+        "non-bank financial intermediation",
+        "Financial Stability Board",
+        "2008 crisis",
+        "bailouts",
+        "regulation"
+      ],
+      "texte": "collapse didn't just disappear after the 2008 crisis. >> [music] >> It mutated into something even worse. Part four, the shadow bank time bomb. The past, present, and future of the economic nightmare rolling toward us is deeply tied up in the so-called shadow banking sector. The kind of volatility that triggered the global financial crisis used to play out in the open before the Dodd-Frank Wall Street Reform and Consumer Protection Act. It was meant to curb too big to fail and end taxpayer-funded bailouts, and protect consumers from abusive financial practices. >> [music] >> Of course, it didn't end any of those things. It just moved them into the dark. Shadow banking prefers to call itself non-bank financial intermediation. The Financial Stability Board broadly describes it as, quote, \"Credit intermediation involving entities and activities outside the regular banking system.\" >> [music]"
+    },
+    {
+      "id": 125,
+      "debut": 6695.76,
+      "fin": 6782.2,
+      "temps_estime": false,
+      "titre": "Private credit: $2.1 trillion and growing in the dark",
+      "resume": "Private credit moves lending to off-balance-sheet arrangements between non-bank entities, with banks still backing private lenders to avoid Dodd-Frank capital rules. The industry has reached $2.1 trillion and BlackRock forecasts $4.5 trillion by 2030, while Cambridge finance professor Raghuram Rajan warns nobody knows the true value of these opaque assets.",
+      "mots_cles": [
+        "private credit",
+        "$2.1 trillion",
+        "BlackRock",
+        "$4.5 trillion by 2030",
+        "Raghuram Rajan",
+        "opaque assets",
+        "bank backing",
+        "regulatory loopholes"
+      ],
+      "texte": ">> And in those dark spaces outside of traditional banking, you would be amazed at the regulatory loopholes you can take advantage of. This is deeply tied to the rise of private credit, where companies once went to banks for loans under strict rules and oversight, private credit shifts that lending onto private off-balance-sheet-style arrangements between non-bank entities, largely out of the public view. But here is the crazy part, the banks are still involved. They're just not directly giving the private loans. Instead, they provide [music] financial backing to the private lenders. It made sense pragmatically. The Dodd-Frank regulations forced traditional banks to hold more capital to reduce loan risk and do more extensive checks on borrowers. It slowed the whole process down and created additional costs to lending. These aren't problems for private credit, and it shows. The industry has now risen to heights of $2.1 trillion and is forecast by BlackRock to hit 4 [music] and 1/2 trillion by 2030. The major risk here is that without regulation and transparency, the whole market will rot from the inside out. The rest of us will be dragged down with it as it goes. Raghuram Rajan, a professor of finance at the University of Cambridge, has said, \"Nobody knows what the true value of assets is these guys are holding. They're opaque. We have no idea what's going on in there. Hopefully, there are no bad loans. But what if there are?\" The root cause of"
+    },
+    {
+      "id": 126,
+      "debut": 6782.2,
+      "fin": 6828.24,
+      "temps_estime": false,
+      "titre": "Mark-to-model valuation and shadow banks keeping dead companies alive",
+      "resume": "Private lenders value loans with mark-to-model, using financial models rather than current market prices, which leaves a terrifying amount of guesswork about whether borrowers will default. The narrator says shadow banks are making dead companies seem alive on paper through a new form of insidious debt.",
+      "mots_cles": [
+        "mark-to-model",
+        "loan valuation",
+        "private credit risk",
+        "default risk",
+        "financial models",
+        "guesswork",
+        "shadow banks",
+        "insidious debt"
+      ],
+      "texte": "the bad loans causing the rot from inside of the booming private credit industry is the method they use to value their loans, mark-to-model. This method uses financial models to value investments rather than [music] actual current market prices. That means rather than being an exact science, there's often a terrifying amount of guesswork [music] in an industry that is deeply tied to the overall economy. It seems almost like they have no idea if the entities they're lending to will default on their loans or not. And there are still layers of this that we haven't even peeled. One somehow even worse than what we've seen before. These shadow banks are making dead companies seem alive on paper by inventing and capitalizing on a new form of insidious debt. Part five, the zombie economy."
+    },
+    {
+      "id": 127,
+      "debut": 6828.24,
+      "fin": 6938.52,
+      "temps_estime": false,
+      "titre": "Part five: the zombie economy and PIK debt",
+      "resume": "Zombie companies, such as Beyond Meat, AMC Entertainment and Sunrun, barely earn enough to pay interest and must borrow to service old debt, with Deutsche Bank estimating as much as 18% of public US companies were zombies in 2020, accounting for 2.2 million jobs. Many use payment-in-kind plans that roll interest into the debt balance, a controlled demolition kept behind a curtain by the private credit industry.",
+      "mots_cles": [
+        "zombie companies",
+        "Beyond Meat",
+        "AMC Entertainment",
+        "Sunrun",
+        "Deutsche Bank 18%",
+        "PIK payment in kind",
+        "2.2 million jobs",
+        "private credit"
+      ],
+      "texte": "Beyond Meat Inc., AMC Entertainment, Sunrun, 59 Inc. What do these businesses have in common? They're all zombies. When you look at the facts and the stats, you start to realize that we might be facing an entire zombie apocalypse and not even know it. A zombie company is a business that barely makes enough to pay interest on debt. To stay afloat, it has to take on new borrowing just to service old payments. >> [music] >> Their borrowing costs are insane and every day they creep just a little bit closer to insolvency. Seems like a pretty terrible condition for a company to be in. According to Deutsche Bank estimates, as of 2020, as much as 18% of publicly traded US companies are zombie companies. It'd be tempting to say, \"Just shoot the zombie in the head and get over it.\" But these zombie companies accounted for 2.2 million jobs back in 2020. As time goes on and the number increases as a result of inflation, the result will be even more jobs tied into these untenable undead businesses. Most of these companies need to resort to PIK, or payment in kind, repayment plans to try in vain to keep up with their mounting debts. Essentially, instead of paying interest in cash, those payments are rolled into the outstanding debt balance owed to creditors. This increases the size of the debt mountain that they're under, and it often guarantees a slow but sure demise. With so much of the economy in this position, it feels like we're witnessing a controlled demolition. A major pillar of the economy is slowly crumbling, but the private credit industry is trying to keep the disaster behind a curtain of silence. But don't fall for the shell game here. It's meant to pull the wool over your eyes and make you forget the danger that's creeping up behind you. While the corporations are playing pretend and extend, an entire generation is defaulting in silence, loading up the gunpowder for an economic explosion."
+    },
+    {
+      "id": 128,
+      "debut": 6938.52,
+      "fin": 7028.52,
+      "temps_estime": false,
+      "titre": "Part six: the K-shaped economy and the generational wealth gap",
+      "resume": "The invisible default leads to a K-shaped economy, where asset owners boom while others choose between gas and food, split along generational lines. Baby boomers hold $83.3 trillion, over half of US household wealth, versus $17.1 trillion, about 10.5%, for millennials and Gen Z, who also carry hidden debt like buy now, pay later that federal data misses.",
+      "mots_cles": [
+        "K-shaped economy",
+        "generational wealth gap",
+        "baby boomers $83.3 trillion",
+        "millennials and Gen Z $17.1 trillion",
+        "buy now pay later",
+        "hidden debt",
+        "haves and have-nots",
+        "asset owners"
+      ],
+      "texte": "Part six, the invisible default. Is it a bug or is it a feature? Whether it was planned or not, the system only has one inevitable ending, creating a K-shaped economy that plunges us deeper into the world of the haves and have-nots than ever before. Once the collapse is complete and the lines are drawn, all that'll be left are the asset owners and the service workers. But what does any of that actually mean? The K-shaped economy is a concept for a society that is so lopsided that the richest Americans are responsible for half of the economy. On one side, the stock market is booming [music] and discretionary goods are selling like never before. On the other side, people are choosing between filling up their gas tanks or their stomachs on a day-to-day basis. One slope going up, the other going down, like the structure of the letter K. And in our case, this divide is absolutely split along generational lines. Baby boomers hold 83.3 trillion [music] dollars in assets, over half of the total US household wealth. They are the richest generation in history, averaging 1 million dollars per person. Then there's millennials and Gen Z together, the biggest population block there is when combined. But between them, they've got 17.1 trillion dollars, only 10 and a half percent of the total US wealth. And these generations also deal with more hidden debt traps than any of the previous ones, like the increasing popularity of buy now, pay later schemes. It's a whole new stream of debt that federal data doesn't even show. The system is brutal."
+    },
+    {
+      "id": 129,
+      "debut": 7028.52,
+      "fin": 7097.32,
+      "temps_estime": false,
+      "titre": "Part seven: the survival playbook, gold and commodities",
+      "resume": "The narrator says the system is designed to hollow out the middle and your best chance is to shift to inflation-proof assets out of government reach. Gold hedges inflation but pays no yield when rates rise, and commodity ETFs for grain, metals, oil and natural gas are volatile and sensitive to geopolitical events.",
+      "mots_cles": [
+        "survival playbook",
+        "inflation hedge",
+        "gold",
+        "commodities ETFs",
+        "no yield",
+        "geopolitical risk",
+        "inflation-proof assets",
+        "portfolio"
+      ],
+      "texte": "It's unfair. It's designed to hollow out the middle and leave hard-working people penniless. Short of upending the entire thing and starting from a blank slate, [music] your best chance of surviving the rising tide of financial horror is to move your money to the only places that the tide can't reach. So, what are they? Part seven, the survival playbook. In the short term, if you want to get ahead of the collapse, you need to shift your portfolio to strong inflation-proof assets that are out of the hands of government tampering. One classic investment for hedging inflation is gold. Problem is gold isn't completely inflation-proof. When banks increase rates due to inflation, gold won't pay a yield on that interest. So, it isn't the most profitable asset to hold. You could also broadly invest in commodities like grain, precious metals, electricity, oil, beef, orange juice, and natural gas exchange-traded funds. But, this isn't without risk either, given that commodities can be an insanely volatile market even outside of the context of inflation. Demand and supply factors, which dictate the value of commodities, are extremely sensitive [music] to worldwide geopolitical events. And we seem to be having a lot more wars these days. If you want to play your"
+    },
+    {
+      "id": 130,
+      "debut": 7097.32,
+      "fin": 7161.0,
+      "temps_estime": false,
+      "titre": "60/40 portfolios, REITs and the window to asset ownership",
+      "resume": "The 60/40 stock-bond portfolio is safe but can underperform all-equity portfolios, and REITs pay dividends but expose investors to property taxes and demand shifts. In a hollowed-out economy the priority is resilience over growth and moving from the service world to asset ownership before the shockwave, a window the narrator says is closing fast.",
+      "mots_cles": [
+        "60/40 portfolio",
+        "REITs",
+        "real estate investment trusts",
+        "resilience",
+        "asset ownership",
+        "service workers",
+        "risk",
+        "portfolio strategy"
+      ],
+      "texte": "investment strategy safe, [music] there's always the 60/40 stock bond portfolio. However, these can underperform drastically over the long term compared to all equity portfolios. If by contrast you want to buy into the awful real estate market, you could invest in REITs, real estate investment trusts. This is a real estate pool that pays out dividends, but it can still leave you exposed to property taxes and to shifts in demand for other high-yield assets. As with anything in the investment game, there's never such thing as no risk, just [music] less risk than an alternative. In the dog-eat-dog world of the hollowed-out economy, growth is no longer the priority. It's all about resilience, riding and surviving the wave while keeping your assets out of the hands of governments and shadow banking institutions. If you're lucky, you can get yourself and your finances out of the service world and into the world of asset ownership before the shockwave hits. But that window is closing fast. For all you know, the wave might have already hit you and you don't even know you're bleeding until you've got no more blood"
+    },
+    {
+      "id": 131,
+      "debut": 7161.0,
+      "fin": 7211.44,
+      "temps_estime": false,
+      "titre": "America's $39 trillion debt and the cracking dollar system",
+      "resume": "US debt is $39 trillion, so spending $1 million a day since the birth of Christ would not reach even 2% of it, roughly $114,000 per American. The narrator says the full faith and credit claim hides a global dollar system that is now cracking as countries controlling nearly half of daily oil supply tear it apart.",
+      "mots_cles": [
+        "$39 trillion debt",
+        "$114,000 per American",
+        "full faith and credit",
+        "dollar system",
+        "global oil supply",
+        "US debt",
+        "dollar dominance"
+      ],
+      "texte": "left. America is drowning in debt. 39 trillion dollars of it. If you spent 1 million dollars every single day since the [music] birth of Christ, you still wouldn't reach 1 trillion dollars. That's not even 2% of what America owes. It works out roughly to 114,000 dollars for every single American. You've been told it's backed by the full faith and credit of the government. You've been told to trust the process. You've been lied to. It's held together by a system you've never seen, never voted for, and probably never even thought about. It's a global system that forces the entire world to keep using the dollar just to survive. Now it's starting to crack. Countries controlling nearly half of the world's daily oil supply are tearing that system apart. When it breaks, it won't happen to them, it happens to you. Chapter 1, the 39 trillion dollar"
+    },
+    {
+      "id": 132,
+      "debut": 7211.44,
+      "fin": 7302.92,
+      "temps_estime": false,
+      "titre": "Chapter 1: the dollar as the world's operating system and the oil market",
+      "resume": "The dollar appears in nearly 90% of foreign exchange transactions among 180 national currencies, built on the global oil market worth about $2.5 trillion a year, all denominated in dollars. Buyers like Japan, France and India must buy dollars first, which creates insatiable demand that absorbs American inflation and lets the Fed print without destroying purchasing power.",
+      "mots_cles": [
+        "dollar dominance",
+        "90 percent of FX transactions",
+        "180 currencies",
+        "oil market $2.5 trillion",
+        "petrodollar",
+        "Federal Reserve printing",
+        "central banks Tokyo Frankfurt Seoul",
+        "reserve currency"
+      ],
+      "texte": "illusion. The US dollar appears in nearly 90% of all foreign [music] exchange transactions on the earth. Nine out of 10 times a currency changes hands on this planet, one of those currencies is the dollar. When you figure that the earth currently has 180 national currencies, it's clear that the dollar is the operating system that the rest run on. What built this behemoth? Trade data and decades of financial flows [music] point to one central mechanism, the global oil market, which also is ironically denominated in dollars. The global oil market is worth approximately two and a half trillion dollars per year. In physical terms, that is larger than the market value of the globe's gold, iron, copper, aluminum, nickel, zinc, lead, tin, cobalt, and lithium markets combined. Oil is the single largest traded good in human history, and for 50 years, the vast majority of it has been purchased in American dollars. A Japanese company buying Saudi oil has to convert yen to dollars first. French refineries importing Kuwaiti crude must buy dollars first. Indian power plants importing Iraqi oil have to buy dollars first. It all creates an insatiable demand for US currency. That demand is what absorbs American inflation. It's also what lets the Federal Reserve print money without immediately destroying the purchasing power of every American paycheck. The only reason your groceries aren't more expensive than they already are is because the central banks of Tokyo, Frankfurt, New Delhi, and Seoul are soaking up trillions of American dollars each year just to keep their lights on. And now it is quietly coming apart."
+    },
+    {
+      "id": 133,
+      "debut": 7302.92,
+      "fin": 7330.68,
+      "temps_estime": false,
+      "titre": "The US as top oil producer needs the world to buy oil in dollars",
+      "resume": "The United States now exports more oil than it imports and is the world's largest producer, so it does not need to buy oil in dollars but depends on the rest of the world doing so. The narrator calls this a different problem that the US is currently losing.",
+      "mots_cles": [
+        "US oil exports",
+        "largest oil producer",
+        "oil priced in dollars",
+        "dollar dependence",
+        "North American oil",
+        "Mexico Canada",
+        "reserve currency risk"
+      ],
+      "texte": "Unlike most of the rest of the world, the United States exports more oil than it imports, mostly from either Mexico or Canada. It's a convenient closed North American circuit. What you may not know is that the United States is currently the single largest oil producer on the earth, producing more than it consumes. So, while the US doesn't need to buy oil in dollars, it needs the rest of the world to buy oil in dollars. In fact, it depends on it. It's a completely different problem, and one the United"
     }
   ]
 }
