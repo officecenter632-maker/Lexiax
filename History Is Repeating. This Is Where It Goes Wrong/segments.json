@@ -1,0 +1,397 @@
+{
+ "version": 1,
+ "video_id": "0DYYdcGrbMM",
+ "titre_video": "History Is Repeating. This Is Where It Goes Wrong.",
+ "duree_s": 1121.68,
+ "avancement": {
+  "lignes_traitees": 237,
+  "fin_traitee_s": 1121.68,
+  "nb_lignes_total": 237,
+  "complet": true
+ },
+ "nb_segments": 19,
+ "segments": [
+  {
+   "id": 1,
+   "debut": 0.16,
+   "fin": 25.52,
+   "temps_estime": false,
+   "titre": "Intro: today's crises are the end of an 80-year historical cycle",
+   "resume": "Opening hook claiming that inflation, political hatred and market chaos are not bad luck but the end of an 80-year cycle that has governed civilizations for centuries. Each time such a cycle ends the system breaks, and the question is what happens to the viewer.",
+   "mots_cles": [
+    "inflation",
+    "political hatred",
+    "market chaos",
+    "80-year cycle",
+    "historical cycle",
+    "system collapse",
+    "hook"
+   ],
+   "texte": "If you think inflation, political hatred, and market chaos are just bad luck in a temporary news cycle… You’re being lied to. What you’re witnessing today isn’t some random “rough patch.” It’s the end of a frightening, historical 80 year old cycle that has governed human civilization and society for centuries. And every time it ends, the system doesn’t just bend… It breaks. The only question is what happens to you when it does."
+  },
+  {
+   "id": 2,
+   "debut": 25.52,
+   "fin": 80.64,
+   "temps_estime": false,
+   "titre": "US national debt above $40 trillion and interest exceeding defense spending",
+   "resume": "The US government is over $40 trillion in debt and spends more than $1 trillion a year on interest, more than its defense budget. After decades of borrowing from both parties, interest exceeding defense means the US is forced to look inward to satisfy its creditors instead of projecting power.",
+   "mots_cles": [
+    "national debt",
+    "$40 trillion",
+    "interest payments",
+    "defense budget",
+    "kicking the can",
+    "borrowing",
+    "creditors",
+    "United States",
+    "fiscal crisis"
+   ],
+   "texte": "For the first time in recorded history, the United States government is over $40 trillion in debt. It spends over $1 trillion every single year just to cover the interest on that debt. That’s more than the U.S. allocates to its entire defense budget. For decades, Washington had the ultimate money glitch: borrowing recklessly year after year to fund infrastructure, stimulate the economy, and fake stability. Administration after administration kicked the can down the road, convinced it would never come back to bite them. Leaders from both sides of the aisle aggressively spent tomorrow’s money just to survive yesterday’s crisis. Now, they’ve run out of road. When national debt interest payments surpass defense expenditure, a nation - even one as powerful as the US - is no longer “projecting power” outward. It’s no longer an anchor of the global economy. Instead, it’s forced to look inward, taking drastic actions just to satisfy its creditors."
+  },
+  {
+   "id": 3,
+   "debut": 80.64,
+   "fin": 143.6,
+   "temps_estime": false,
+   "titre": "The $4.1 trillion debt refinancing wall of 2026",
+   "resume": "In 2026 about $4.1 trillion of US debt issued at near-zero rates comes due and must be refinanced at much higher rates by issuing new debt. Each rollover raises interest payments and borrowing, creating a dangerous debt spiral.",
+   "mots_cles": [
+    "debt refinancing",
+    "$4.1 trillion",
+    "maturity wall",
+    "2026",
+    "interest rates",
+    "rollover",
+    "debt spiral",
+    "Treasury bonds",
+    "bondholders"
+   ],
+   "texte": "But servicing the debt isn’t even the worst part. The worst part is refinancing it. In 2026, a wall of debt is slamming into the U.S. economy. $4.1 trillion to be exact. Trying to roll over that amount in a single 12-month period is like trying to refinance the combined annual budgets of multiple G7 nations all at once. It’s an economic impossibility. When this debt was issued, interest rates were pinned at near zero. But as it comes due in 2026, the debt can’t be refinanced at 0%. Instead, it has to be refinanced at much higher rates. That’s because the US government doesn’t have $4.1 trillion sitting around in a vault somewhere that it can go and use to pay back its bondholders. So, in order to get that money, it has to issue fresh debt, at high rates, in order to pay off the old. That leads to a dangerous spiral. Every fresh “rollover moment” results in higher interest payments, which leads to more borrowing, which leads to even higher interest payments and so on. While Washington is suffocating under its own"
+  },
+  {
+   "id": 4,
+   "debut": 143.6,
+   "fin": 216.16,
+   "temps_estime": false,
+   "titre": "The commercial real estate loan crisis threatening regional banks",
+   "resume": "About $1.26 trillion of commercial property loans are about to expire while remote work and rate hikes cut 2026 property values roughly 15.8% below 2022 peaks. Regional banks holding commercial mortgages that cannot be refinanced would face capital losses and stop lending, turning a regional problem national.",
+   "mots_cles": [
+    "commercial real estate",
+    "$1.26 trillion",
+    "regional banks",
+    "commercial mortgages",
+    "remote work",
+    "property values",
+    "credit crunch",
+    "office towers",
+    "capital losses"
+   ],
+   "texte": "debt, a separate yet deeply connected crisis is unfolding in the commercial real estate market. A massive $1.26 trillion of commercial property loans is about to expire. This market used to be the ultimate cash cow for regional banks and financial institutions. They allowed companies to take out relatively reasonable short-term loans to fund the purchases of office towers, shopping centers, and commercial hubs. They gambled that the values of these properties would continue to increase over time, and interest rates would stay near zero That entire foundation just crumbled. The COVID-19 crisis transformed “remote work” from a niche concept into a global trend. Successive interest rate spikes caused property valuations to decrease, with 2026 prices around 15.8% lower than their 2022 peaks. As a result, regional banks are now holding hundreds of billions of dollars’ worth of commercial mortgages that can’t be refinanced at today’s rates without causing crippling capital losses. And if the banks end up absorbing the losses, they won’t be able to provide any further credit to local companies. When that happens, it goes from a regional issue to a national one and the entire American economy comes to a sudden, grinding halt."
+  },
+  {
+   "id": 5,
+   "debut": 216.16,
+   "fin": 279.28,
+   "temps_estime": false,
+   "titre": "Record-low trust: the Edelman Trust Barometer and the failure of crisis tools",
+   "resume": "Past crises were contained by the Federal Reserve or government, which requires public trust, now at an all-time low. The 2026 Edelman Trust Barometer shows about 70% actively distrust people with differing values and 7 in 10 believe officials, business leaders and journalists lie, so crisis responses can no longer work.",
+   "mots_cles": [
+    "Edelman Trust Barometer",
+    "distrust",
+    "trust in institutions",
+    "social fracture",
+    "government",
+    "media",
+    "polarization",
+    "Federal Reserve",
+    "2026 survey",
+    "shared reality"
+   ],
+   "texte": "This isn’t the first time that something like this has happened. In the past, the Federal Reserve or even the government could step in and take control of the situation. But that depends on one important element… trust. And trust is at an all-time low. According to the Edelman Trust Barometer, a global study that tracks public trust across business, governments, media and NGOs, society has fractured. Their 2026 survey revealed that approximately 70% of people today actively distrust anyone with differing values, views, backgrounds, or information sources. This isn’t a case of standard political divide. It's a large part of the global population not even sharing the same reality with one another. 7 in 10 people believe that government officials, business leaders, and journalists are openly lying to them. When that happens, the mechanisms that would usually be deployed to contain a crisis can no longer work. How do you convince a population to swallow a cure when they’re entirely convinced you’re trying to poison them? You can’t. And that wasn’t worrying enough,"
+  },
+  {
+   "id": 6,
+   "debut": 279.28,
+   "fin": 350.96,
+   "temps_estime": false,
+   "titre": "Automated trading algorithms and the perfect storm of collapse",
+   "resume": "In 2026 markets run on pre-programmed high-frequency algorithms that execute in milliseconds, drain liquidity, turn corrections into trillion-dollar fire sales and can freeze payment systems, hitting supply chains and credit cards. Combined with debt, real estate and distrust, they make a perfect storm of civilizational collapse.",
+   "mots_cles": [
+    "algorithmic trading",
+    "high-frequency trading",
+    "liquidity",
+    "fire sales",
+    "payment rails",
+    "supply chains",
+    "market crash",
+    "perfect storm",
+    "automation"
+   ],
+   "texte": "there’s one last piece of the puzzle that could turn what seems like a temporary crisis into a full-blown catastrophe: automated trading systems. In 2026, financial markets aren’t really controlled by human hands. Trades are pre-programmed, months or even years in advance. They’re automatically carried out by high-frequency algorithmic execution models. When certain conditions are met, these algorithms activate. They don’t pause. They don’t hesitate. And they don’t take the time to double-check with buyers or sellers if they want to proceed with a trade. Instead, they execute their preset actions in mere milliseconds, draining liquidity out of the system in the blink of an eye. It turns ordinary market corrections into multibillion or even trillion dollar fire sales. These digital systems have so much power, they can freeze everyday payment rails in record time. A distant and abstract Treasury crisis turns into something that impacts every American citizen, causing supply chains to collapse and credit cards to stop working when you get to the checkout. And when you add all these factors together, you have all the ingredients for a perfect storm of civilizational collapse. It looks, on the surface, like an anomaly, like everything that could go wrong has gone wrong, and humanity can’t catch a break."
+  },
+  {
+   "id": 7,
+   "debut": 350.96,
+   "fin": 416.8,
+   "temps_estime": false,
+   "titre": "Strauss-Howe generational theory: saecula and the first turning (the High)",
+   "resume": "The current crisis is not unprecedented: historians Neil Howe and William Strauss proposed in the late 1990s that Western society moves in predictable generational cycles called saecula, lasting 80 to 100 years and divided into four turnings. The first turning, the High or Spring, follows a resolved crisis, with a new order and high trust in institutions.",
+   "mots_cles": [
+    "Strauss-Howe generational theory",
+    "Neil Howe",
+    "William Strauss",
+    "saeculum",
+    "saecula",
+    "four turnings",
+    "the High",
+    "generational cycles",
+    "trust in institutions"
+   ],
+   "texte": "But take a step back and look at the bigger picture, you’ll see something very different. This isn’t an anomaly, and it isn’t as “unprecedented” as it first seems. While the precise parameters of today’s situation may be unique, this sort of situation has played out before. Several times in fact, over the course of human history. But it wasn’t until the late 1990s that historians Neil Howe and William Strauss spotted the trend. Their “Strauss-Howe generational theory” stated that American and Western society doesn’t move in a straight line or random ups and downs, like a rollercoaster. It actually progresses in incredibly predictable generational cycles, called “saecula.” According to Strauss and Howe, each saeculum lasts around 80 to 100 years, or around the length of a healthy human life. And it’s broken down into 4 distinct stages, or “turnings.” The first turning is called the High, or the Spring. It occurs right after a huge crisis has been resolved, when the “old order” is left behind and a new baseline is established. At this point, trust in institutions tends to be extremely high as people look towards a better and brighter future."
+  },
+  {
+   "id": 8,
+   "debut": 416.8,
+   "fin": 461.68,
+   "temps_estime": false,
+   "titre": "The Awakening, the Unraveling and the Crisis: the remaining three turnings",
+   "resume": "The second turning, the Awakening (Summer), brings renewal, rebellion against the established order and emphasis on personal autonomy. The third, the Unraveling (Fall), sees individualism triumph over institutions and society fragment into factions; the fourth, the Crisis (Winter), is when accumulated cultural, economic and political debts force a hard reset.",
+   "mots_cles": [
+    "Awakening",
+    "Unraveling",
+    "Crisis",
+    "fourth turning",
+    "Winter",
+    "individualism",
+    "institutions",
+    "hard reset",
+    "factions",
+    "turnings"
+   ],
+   "texte": "Next comes the Awakening, or Summer: a period of renewal and rebellion, where some people begin to turn against the established order of the “High.” They begin to place more emphasis on their personal autonomy and freedom of expression. The third turning is the Unraveling, or Fall. This is when individualism effectively triumphs over institutionalism. Businesses, governments, and other entities start to be viewed with far less trust and far more skepticism. Society begins to fragment into factions which begin to compete and oppose one another. Then there’s the fourth turning: the Crisis, or Winter. This is the point at which everything comes to a head. The bill comes due for all the cultural, economic, and political debts of the previous 3 seasons, effectively forcing a “hard reset” for human society."
+  },
+  {
+   "id": 9,
+   "debut": 461.68,
+   "fin": 515.44,
+   "temps_estime": false,
+   "titre": "The 80-year pattern in history: we are deep in the fourth turning",
+   "resume": "Eighty-year intervals mark the end of World War II, the closing of the American Civil War and the late American Revolution, which the video presents as a pattern rather than coincidence. It argues we are now deep in Winter, the fourth turning, with the dominoes lined up, and says Strauss-Howe is based on how generational conditions shape society, not a conspiracy.",
+   "mots_cles": [
+    "80-year pattern",
+    "World War II",
+    "American Civil War",
+    "American Revolution",
+    "fourth turning",
+    "Crisis",
+    "Strauss-Howe",
+    "generations",
+    "historical cycles"
+   ],
+   "texte": "It might all sound a little too fixed or formulaic, but if you look back over the course of human history, you can see this cycle playing out over and over again. Go back 80 years and you’d be at the end of World War II, the greatest global crisis of all time. Go back another 80 years, and you’d be at the closing stages of the American Civil War. Another 80 years back takes to the latter stages of the American Revolution. It isn’t a coincidence. It’s a pattern. And it’s playing out again, as we speak. We’re not in the Spring, Summer, or Fall anymore. We’re deep into Winter. The fourth turning, the Crisis, looms before us. The dominoes are lining up, and all that’s left is for the first one to topple and send the whole world into chaos. This is the frightening reality of the Strauss-Howe generational theory. It’s not a conspiracy. It's based on hard data about how human society functions and how the conditions different generations grow up in shape their attitudes and the world around them."
+  },
+  {
+   "id": 10,
+   "debut": 515.44,
+   "fin": 614.88,
+   "temps_estime": false,
+   "titre": "The post-WWII High (1945) and why it ends",
+   "resume": "The most recent High began in 1945 when the US emerged as the foremost superpower with most of the world's gold, a booming middle class, affordable homes, pensions and trust in institutions, similar to the post-Civil War High. The generation born into prosperity, bored or oppressed by rigid institutions, brings the next turning, the Awakening.",
+   "mots_cles": [
+    "the High",
+    "1945",
+    "post-war prosperity",
+    "middle class",
+    "social contract",
+    "gold reserves",
+    "superpower",
+    "pensions",
+    "Civil War",
+    "institutions"
+   ],
+   "texte": "Humanity’s most recent High began in 1945. The Second World War came to an end, and the entire global order was subsequently rewritten. The US emerged as the world’s foremost superpower, holding the vast majority of the globe’s gold reserves and cementing its status as an industrial powerhouse. During this time, the Western world enjoyed a period of almost unknown prosperity. The middle class expanded at a record rate. Low level jobs paid more than enough for people to easily afford their own homes, start their own families, and enjoy a good life. And they knew there were hefty pension pots waiting for them in their retirement years. Institutions were highly respected at this stage, too, as they always are during the High. People almost universally bought into the unwritten but universally agreed-upon social contract: study well, work hard and you’ll be rewarded with a good life. We saw a similar High play out around 80 years prior, when the Civil War ended. Slavery was abolished, and the Industrial Revolution gave birth to a new era of infrastructure expansion and commercial prosperity. Highs are often looked back on as the best of times, especially for the generation that lived through the crises that birthed them. They realize just how bad things can get, so they appreciate how much calmer and better their lives have become. But the generation born into this world of prosperity tends to take a different view. They weren’t around for the hard times. The High is all they’ve ever known. While it has its benefits, it’s not perfect. People growing up in an era where institutions hold absolute power and society all seems to conform to the same rules can feel bored or even oppressed by the systems that govern their lives. So, it’s only a matter of time until the next turning comes. The High ends, and the Awakening arrives."
+  },
+  {
+   "id": 11,
+   "debut": 614.88,
+   "fin": 660.08,
+   "temps_estime": false,
+   "titre": "The 1960s Awakening: Kennedy's assassination, Vietnam protests and civil rights",
+   "resume": "The latest Awakening is placed in the mid-1960s, often dated from John F. Kennedy's assassination in November 1963, as younger generations rebelled against institutions. It produced anti-Vietnam War protests, Women's Liberation and the Civil Rights Movement and questioned family and organized religion, while fracturing social bonds.",
+   "mots_cles": [
+    "Awakening",
+    "1960s",
+    "John F. Kennedy assassination",
+    "Vietnam War protests",
+    "Civil Rights Movement",
+    "Women's Liberation",
+    "counterculture",
+    "rebellion",
+    "institutions"
+   ],
+   "texte": "Experts generally feel that the latest Awakening came in the mid-1960s. Many point to the assassination of President John F. Kennedy in November 1963 as the key turning point. This is when society started to rebel against its institutional overlords. Bored of conforming to the norms and following the rules, younger generations wanted to express themselves in new ways and question the system they’d inherited. This shift gave birth to the likes of the anti-Vietnam War protests, Women’s Liberation and the Civil Rights Movement. People began to re-evaluate the fundamental pillars of society of the time, like family structures and organized religion. Awakenings always bring about change. And this one was no different. Society progressed and evolved in different ways, but the bonds that hold people together began to fracture."
+  },
+  {
+   "id": 12,
+   "debut": 660.08,
+   "fin": 745.84,
+   "temps_estime": false,
+   "titre": "The Unraveling from the 1980s to the 2008 financial crisis",
+   "resume": "The Unraveling is when individualism trumps institutionalism and society fragments. It began in the 1980s with Ronald Reagan's 1981 line that government is the problem, as Americans distrusted authority and wages stagnated while Wall Street, offshoring and billionaires boomed, leading to the 2008 financial crisis that started the fourth turning.",
+   "mots_cles": [
+    "Unraveling",
+    "Ronald Reagan",
+    "1981 inaugural address",
+    "distrust of government",
+    "wage stagnation",
+    "offshoring",
+    "Wall Street",
+    "2008 financial crisis",
+    "housing bubble",
+    "billionaires"
+   ],
+   "texte": "So the third turning, the Unraveling, arrived. This is the stage at which individualism trumps institutionalism. It’s when people become more oriented around themselves and more trusting of those whose values align with their own. When society becomes more fragmented and “the establishment” is seen with cynicism. The latest Unraveling is generally seen to have started in the 1980s. During his inaugural address in 1981, American President Ronald Reagan declared: “government is not the solution to our problem; government is the problem.” In the years that followed, mass swathes of the population weaponized his words. People weren’t rebelling against the government anymore, they were actively distrusting it. Across the country, Americans angrily rejected national authority, they rallied against foreign wars and expressed their exhaustion with wage stagnation and falling living standards. But, while the Unraveling is tough for the masses, it opens up opportunities for entrepreneurs and investors. Wall Street booms, global supply chains form, and billionaires are made as industry is off-shored and civic infrastructure is neglected. While society becomes increasingly fractured and hostile and the media ecosystem fragments, hedge funds and venture capitalists consolidate as much wealth and power as they possibly can. We saw this all play out over the course of the 90s and into the 2000s, leading up to the crisis that would bring about the fourth turning: the 2008 financial crisis, when the US housing bubble finally burst."
+  },
+  {
+   "id": 13,
+   "debut": 745.84,
+   "fin": 814.88,
+   "temps_estime": false,
+   "titre": "The Winter since 2008: money printing and the generational wealth gap",
+   "resume": "Since 2008 the West has been in Winter, where decay from earlier decades is exposed. Central banks printed near-zero-interest money to rescue banks, producing a record wealth gap: Baby Boomers hold about 51.6% of US wealth versus 10.7% for Millennials and Gen Z, who face housing exclusion, student debt and taxes servicing national debt.",
+   "mots_cles": [
+    "2008 financial crisis",
+    "central banks",
+    "money printing",
+    "wealth gap",
+    "Baby Boomers",
+    "Millennials",
+    "Gen Z",
+    "student debt",
+    "housing market",
+    "national debt"
+   ],
+   "texte": "Since then, the Western world has been living through the Winter, the end stage of the saeculum. The seeds of chaos sown during the Spring are now fully-grown, and it’s harvest time. The structural decay of previous decades is laid bare for all to see. The frustrations and fears of the Unraveling have magnified and multiplied at record rates. Because, in order to contain the 2008 crisis, panicked central banks across the globe decided to print more money with near-zero interest in order to rescue the banks and Wall Street. All while sacrificing the futures of countless regular people. That decision resulted in a never-before-seen generational wealth gap. Baby Boomers now hold around 51.6% of the nation’s wealth, while Millennials and Gen Z combined hold a mere 10.7%. The young generations who make up the bulk of the modern workforce keep America running for decades have a tiny fraction of the country’s wealth. And those same young people are being locked out of the housing market, saddled with huge student debt and extortionate monthly mortgage or rent payments. Massive chunks of their salaries are being funneled into taxes to help pay off a national debt they weren’t responsible for creating. They are being pushed ever closer to the edge of a cliff…"
+  },
+  {
+   "id": 14,
+   "debut": 814.88,
+   "fin": 910.72,
+   "temps_estime": false,
+   "titre": "Generational archetypes: Prophets, Nomads, Heroes and Artists",
+   "resume": "Strauss-Howe also assigns generations roles: Boomers are Prophets, Gen X are Nomads, Millennials are Heroes who carry the burden of resolving the Crisis, and Gen Z are Artists, born into the Crisis and expected to rebuild and set new norms after the reset. Each generation is shaped by the conditions it grew up in, which explains growing division.",
+   "mots_cles": [
+    "Prophets",
+    "Nomads",
+    "Heroes",
+    "Artists",
+    "Baby Boomers",
+    "Gen X",
+    "Millennials",
+    "Gen Z",
+    "generational archetypes",
+    "Strauss-Howe"
+   ],
+   "texte": "And they’re taking the rest of society with them. This, too, ties into the Strauss-Howe theory. It doesn’t just divide time into saecula and seasons, it also underlines the very different roles and emotions of the generations that live through those seasons: the Prophets, the Nomads, the Heroes, and the Artists. According to the theory, Boomers are the “Prophet” generation. They were born during the High and came of age during the Awakening. They led humanity into the Crisis while retaining the values and principles they were taught in their youth. They also have the material wealth they accumulated over the years. Gen X are the Nomads. They were born in the Awakening and came of age during the Unraveling. They’re more pragmatic and combative than the Boomers, and incredibly independent, too. They take a practical, hands-on approach to the challenges life throws their way. Millennials are the “Heroes,” born in the Unraveling and coming of age in the Crisis. Plagued by anxieties, they walk the line between desperation and resilience as much of the burden for dealing with and resolving the Crisis is placed upon their shoulders. Finally, Gen Z are the “Artists,” born during the Crisis itself. All they’ve ever known is a world of turmoil, where institutions collapse, economies unravel, and society is split into tribe-like factions. If the Strauss-Howe cycle holds, they’ll be tasked with rebuilding society and re-establishing new norms when the next reset comes. And when you break it down like that, it’s easy to see how and why society tends to follow these cycles and become increasingly divided with each new turning. Each generation is shaped by the conditions it became accustomed to. So what happens next?"
+  },
+  {
+   "id": 15,
+   "debut": 910.72,
+   "fin": 976.48,
+   "temps_estime": false,
+   "titre": "Precedent from the 1930s and WWII: Order 6102 and currency devaluation",
+   "resume": "In the 1930s Winter the US used Executive Order 6102 to force citizens to surrender gold for paper currency, then the Gold Reserve Act of 1934 devalued the dollar, wiping out debt at ordinary people's expense. During WWII the Federal Reserve capped bond yields to hold down debt, again punishing savers; previous winters also saw routine currency devaluation.",
+   "mots_cles": [
+    "Order 6102",
+    "Gold Reserve Act of 1934",
+    "gold confiscation",
+    "currency devaluation",
+    "Great Depression",
+    "World War II",
+    "bond yield cap",
+    "Federal Reserve",
+    "pension funds",
+    "debt"
+   ],
+   "texte": "Back in the 1930s, when the last Winter ravaged the Western World, the US didn’t decide to pay off its debts through any sort of measured, disciplined monetary policy. Instead, it took drastic action, executing “Order 6102.” This effectively forced citizens to surrender their gold holdings in exchange for paper currency. It followed up with the Gold Reserve Act of 1934, which instantly increased the value of gold and dramatically lowered the value of the US dollar. A huge portion of debt was wiped out. But regular people were made to foot the bill. Then the Second World War started, and once America entered the conflict, DC decided to push public debt to never-before-seen levels in order to fund its military force. The Federal Reserve placed a strict cap on bond yields, punishing pension funds and investors in order to keep the national debt from growing too large too fast. Again, the populace paid the price. Similar scenarios unfolded during previous winters, with the powers-that-be routinely resorting to currency devaluation in order to control large-scale economic crises. And that’s exactly what’s likely to happen again here."
+  },
+  {
+   "id": 16,
+   "debut": 976.48,
+   "fin": 1026.08,
+   "temps_estime": false,
+   "titre": "Default or devalue: why the dollar will be devalued",
+   "resume": "Washington has two options: an explicit sovereign default on Treasuries, rejected as too geopolitically dangerous, or devaluing the dollar. When the $4.1 trillion maturity wall hits, the Fed would create new currency (calling it quantitative easing) to buy bonds markets don't want, turning a solvency crisis into a currency crisis.",
+   "mots_cles": [
+    "sovereign default",
+    "dollar devaluation",
+    "quantitative easing",
+    "Federal Reserve",
+    "$4.1 trillion maturity wall",
+    "Treasuries",
+    "money printing",
+    "currency crisis",
+    "solvency crisis"
+   ],
+   "texte": "Because DC today has 2 options available to it. It could accept that its debts have spiraled out of control and embrace an explicit sovereign default, essentially admitting that it will not honor its Treasuries. But that’s not going to happen. It would be far too dangerous from a geopolitical perspective. The other option - the only valid option - is to devalue the dollar. When the $4.1 trillion maturity wall hits, the Federal Reserve won’t have any other option. They might call it “quantitative easing” or use some other term to cover up what’s actually happening. But the result will be the same: new currency will be created to purchase the bonds that capital markets simply aren’t interested in buying at reasonable rates. And when central banks print money just to control their debt, they don’t really get rid of it. They just transform one crisis into another… a solvency currency becomes a currency crisis."
+  },
+  {
+   "id": 17,
+   "debut": 1026.08,
+   "fin": 1056.4,
+   "temps_estime": false,
+   "titre": "Who wins and who loses from dollar devaluation",
+   "resume": "Devaluation lets the government pay off its multi-trillion-dollar obligations more cheaply, and Boomers gain because their real estate and equity portfolios gain value. For Millennials and Gen Z it is a catastrophe that wipes out purchasing power, shuts them out of property ownership and deepens the cost-of-living crisis.",
+   "mots_cles": [
+    "devaluation winners and losers",
+    "Boomers",
+    "Millennials",
+    "Gen Z",
+    "purchasing power",
+    "home ownership",
+    "real estate",
+    "cost of living",
+    "inflation",
+    "wealth inequality"
+   ],
+   "texte": "The government wins, because it gets to pay off its multi-trillion dollar obligations more cheaply. Boomers win, too, because even if their paper holdings diminish in value, all of their real estate and equity portfolios become more valuable. For Millennials and Gen Z, however, currency devaluation is a catastrophe, the likes of which they have never known. It wipes out what little purchasing power they have, slams the doors of property ownership in their faces and throws away the key. It forces them to absorb a cost of living crisis that is only going to get worse, the longer it lasts."
+  },
+  {
+   "id": 18,
+   "debut": 1056.4,
+   "fin": 1110.32,
+   "temps_estime": false,
+   "titre": "Algorithms make this Winter worse; conclusion that the reset is coming",
+   "resume": "Because the economy has been handed to automated algorithms and AI models, the coming collapse would be brutal and immediate rather than slow. The old rules of the Spring and Summer have eroded, the system is hurtling toward a hard reset, and the open question is when and how much citizens lose, though history says spring follows winter.",
+   "mots_cles": [
+    "algorithms",
+    "AI models",
+    "automated trading",
+    "collapse",
+    "hard reset",
+    "fourth turning",
+    "Strauss-Howe cycle",
+    "prosperity returns",
+    "economic crash"
+   ],
+   "texte": "And what will make this Winter worse than any that has come before are those automated algorithms we mentioned earlier on. Humanity has handed the reins of its economy over to automated algorithms and AI models. So when the collapse inevitably comes, it won’t be slow and steady. It’ll be brutal and immediate. And that collapse is coming. The trap hasn’t just been set, it’s already slamming shut in real-time around us. The old rules and conventions that governed the Spring and Summer have been eroded. The current system is hurtling towards a violent hard reset. The question is no longer one of “Will this actually happen?” but “When will it happen and how much will regular citizens lose when it does?” Because history has proven that the Strauss-Howe cycle is grounded in reality. The fourth turnings may last several decades, but do, eventually, come to devastating conclusions. History proves that spring always follows winter and that prosperity always returns."
+  },
+  {
+   "id": 19,
+   "debut": 1110.32,
+   "fin": 1121.68,
+   "temps_estime": false,
+   "titre": "Outro: recommended video on a US economy crash",
+   "resume": "Closing line that people must first survive the crash, followed by a call to watch the video \"What If The US Economy CRASHES\" to see how it would affect viewers.",
+   "mots_cles": [
+    "outro",
+    "call to action",
+    "What If The US Economy CRASHES",
+    "US economy crash",
+    "next video"
+   ],
+   "texte": "But first, we have to survive the crash. So what happens when that brutal fourth turning lands? Watch “What If The US Economy CRASHES” to see how it will affect you. Or click on this."
+  }
+ ]
+}
