@@ -4,12 +4,12 @@
   "titre_video": "United States Starts to Crack. Economy and Military Collapse Coming",
   "duree_s": 10537.11,
   "avancement": {
-    "lignes_traitees": 897,
-    "fin_traitee_s": 1822.11,
+    "lignes_traitees": 1843,
+    "fin_traitee_s": 3600.73,
     "nb_lignes_total": 5265,
     "complet": false
   },
-  "nb_segments": 38,
+  "nb_segments": 88,
   "segments": [
     {
       "id": 1,
@@ -735,6 +735,956 @@
         "ranking 39"
       ],
       "texte": "Number 39. Wyoming may be at the bottom of the list of newly [music] formed countries alphabetically, but it has a massive amount of land that contains parts of Yellowstone and the Grand Tetons. However, [music] it has the second smallest economy out of all the countries with a GDP of $41.5 [music] billion. This mostly comes from chemicals and wheat that it ships to other regions. Yet, since the population of Wyomingites is small, around [music] 575,000, its output per person is high at 71,911. The main problem for Wyoming is that they just [music] don't have enough citizens to form a military that would be able to protect all of its borders."
+    },
+    {
+      "id": 39,
+      "debut": 1822.11,
+      "fin": 1862.84,
+      "temps_estime": false,
+      "titre": "Number 38: Arizona",
+      "resume": "Arizona brings in about $411 billion a year, mostly from computer and electronic parts, but lacks substantial food and water and would need to import them. Best case it allies with California, worst case its citizens starve, and its declining population growth would leave it vulnerable to stronger territories to the west.",
+      "mots_cles": [
+        "Arizona",
+        "GDP $411 billion",
+        "food and water shortage",
+        "California alliance",
+        "electronic parts",
+        "population decline",
+        "vulnerable",
+        "ranking 38"
+      ],
+      "texte": "Number 38. [music] Arizona brings in around $411 billion annually, mostly from computer and electronic parts manufactured within [music] its borders. However, the new nation lacks substantial food and water sources, which means it would need to get them from another country. And in a best-case [music] scenario, Arizona could ally itself with California. In a worst-case scenario, its citizens would starve to death. Also, the population growth of Arizonans, not to be confused with Amazonians, is slowly declining as the older generations are dying off and birth rates can't keep up. This would make [music] the new country vulnerable to the too much more powerful territories to its west. Each state has its own pros and cons, but [music] access to resources will always be a point of contention between nations."
+    },
+    {
+      "id": 40,
+      "debut": 1862.84,
+      "fin": 1892.71,
+      "temps_estime": false,
+      "titre": "Number 37: Indiana",
+      "resume": "Indiana has a GDP of about $420 billion and is fairly self-sufficient, producing chemicals, machinery, soybeans and corn. It must feed the Hoosiers while keeping neighbors from invading, and the nation to the north would likely need large resources to revive a failing industry.",
+      "mots_cles": [
+        "Indiana",
+        "GDP $420 billion",
+        "corn",
+        "soybeans",
+        "chemicals",
+        "Hoosiers",
+        "self-sufficient",
+        "ranking 37"
+      ],
+      "texte": "Number 37, Indiana has a GDP of around [music] $420 billion. It's also pretty self-sufficient. The country of Indiana would [music] continue to create chemicals, machinery, and soybeans to ship to other regions. Another main export of the region is corn, which is a vital source of food for many people. [music] This puts Indiana in a dangerous position as it must feed the Hoosiers living within its borders while [music] keeping its neighbors happy so they don't invade. Unfortunately, the nation to the north is likely to need a large amount of resources to try and ramp up the production of one of its failing"
+    },
+    {
+      "id": 41,
+      "debut": 1892.71,
+      "fin": 1927.71,
+      "temps_estime": false,
+      "titre": "Number 36: Iowa",
+      "resume": "Iowa is the leading US corn producer and would need to boost output for a surplus to ship, though it is landlocked, which complicates transport. Its GDP is about $220 billion with $68,849 per person, and Michigan could be a threat as with Indiana.",
+      "mots_cles": [
+        "Iowa",
+        "corn",
+        "Hawkeyes",
+        "landlocked",
+        "GDP $220 billion",
+        "Michigan threat",
+        "transportation",
+        "ranking 36"
+      ],
+      "texte": "economic industries. Number 36, Iowa is in an even harder [music] position than Indiana as it's the United States' leading producer of corn. This means Iowans or Hawkeyes that live in the country will [music] need to ramp up their production if they want to have a surplus to ship to other areas. However, Iowa is landlocked, which could cause transportation problems. Its GDP is around [music] $220 billion annually, with the average citizen contributing around $68,849 to the economy. But like with Indiana, Michigan [music] might be a threat to the nation. The next nation was made famous on the big screen by Dorothy, her dog Toto, and a really big tornado."
+    },
+    {
+      "id": 42,
+      "debut": 1927.71,
+      "fin": 1962.81,
+      "temps_estime": false,
+      "titre": "Number 35: Kansas",
+      "resume": "Kansas exports wheat, soybeans and beef, and with a population of 2.9 million would have enough to share. Its GDP is about $192 billion, making it self-sustaining, but being landlocked in the middle of the continent limits trade with faraway lands.",
+      "mots_cles": [
+        "Kansas",
+        "wheat",
+        "soybeans",
+        "beef",
+        "GDP $192 billion",
+        "landlocked",
+        "self-sustaining",
+        "ranking 35"
+      ],
+      "texte": "Number 35, Kansas doesn't have a ton to offer in exports, but it does [music] produce a large amount of wheat, soybeans, and beef. So if newly formed countries in the area have a hankering for cow meat, they might come knocking on Kansas's door. That being [music] said, with a population of 2.9 million, Kansans probably have enough cows and soybeans to share. The country's annual [music] GDP is around $192 billion per year. This makes the country self-sustaining while also being able to produce [music] enough goods to trade with its neighbors. However, being landlocked in the dead center of the continent could hurt the country if it wants to try and branch out to trade with faraway lands. Number [music] 34,"
+    },
+    {
+      "id": 43,
+      "debut": 1962.81,
+      "fin": 1993.21,
+      "temps_estime": false,
+      "titre": "Number 34: Louisiana",
+      "resume": "Louisiana's location suits exports of petroleum, coal products and seafood, but its GDP per capita of around $55,000 is low. Neighboring territories might turn hostile to gain access to its coastline and natural resources, forcing it to defend its borders.",
+      "mots_cles": [
+        "Louisiana",
+        "petroleum",
+        "seafood",
+        "coastline",
+        "GDP per capita $55,000",
+        "hostile neighbors",
+        "natural resources",
+        "ranking 34"
+      ],
+      "texte": "Louisiana has a lot going for it, but it also has some major problems. Its location is excellent for exporting petroleum [music] and coal products along with its seafood. However, its nominal GDP per capita [music] is around $55,000, which is low when compared to the working population that lives there. Louisianians could be self-sufficient, [music] but some of their neighboring territories might start to get hostile in order to gain access to their coastline and natural resources. This puts Louisiana in a difficult spot as it harvests resources [music] from its south coast while trying to defend the rest of its borders. Number"
+    },
+    {
+      "id": 44,
+      "debut": 1993.21,
+      "fin": 2040.41,
+      "temps_estime": false,
+      "titre": "Number 33: Maine",
+      "resume": "Maine has vast untouched land, abundant natural resources and a bountiful coastline, but lacks social programs for rural residents and has a GDP of only $76 billion, the eighth smallest. Many in northern Maine identify with Canada, so part of the country could secede and join Canada.",
+      "mots_cles": [
+        "Maine",
+        "coastline",
+        "natural resources",
+        "GDP $76 billion",
+        "Canada secession",
+        "rural social programs",
+        "Mainers",
+        "ranking 33"
+      ],
+      "texte": "33, [music] Maine would do pretty well as its own nation. There are huge amounts of land that have been untouched by humans and a [music] plethora of natural resources along its bountiful coastline. However, even with all those [music] natural resources, it lacks social programs for the Mainers who live in more rural areas. Maine likely would be able to sustain itself, but it might have a difficult time [music] getting all of its citizens unified to support the new national government of the country. Its annual GDP is [music] only $76 billion, making it the eighth smallest economy out of all the new countries. Although a bigger problem [music] might be that many in northern Maine more closely identify with Canada than Maine itself. [music] This could lead to a part of the newly formed country seceding and joining Canada as a new territory. We've now reached one [music] of the nations that could have expansionist tendencies to further its own goals. Number 32,"
+    },
+    {
+      "id": 45,
+      "debut": 2040.41,
+      "fin": 2078.91,
+      "temps_estime": false,
+      "titre": "Number 32: Michigan",
+      "resume": "Michigan has manufacturing centers and Great Lakes access but constantly needs bailouts, receiving billions in federal aid while generating $568 billion in GDP. Its fish and car exports depend on Canada's willingness to trade, and its need for resources could make it hostile and expansionist.",
+      "mots_cles": [
+        "Michigan",
+        "federal aid",
+        "GDP $568 billion",
+        "Great Lakes",
+        "car manufacturing",
+        "Canada trade",
+        "expansionist",
+        "ranking 32"
+      ],
+      "texte": "Michigan has a lot going for it, from manufacturing centers to [music] access to Great Lakes. However, the state seems to constantly need bailing out. Michigan receives [music] billions of dollars in federal aid annually, even though it only generates $568 billion in [music] GDP. Maybe the Michiganders can strike a deal with Canada as they're just across the lake [music] and sell more goods that way. The problem is Canada would need to be willing to trade for fish and cars [music] as those are two of Michigan's main exports. In order for the country to continue manufacturing vehicles, it will need a massive amount of resources from [music] beyond its own borders. This could lead to hostile tendencies as Michigan tries to claim land all around it to support [music] its manufacturing infrastructure. Number"
+    },
+    {
+      "id": 46,
+      "debut": 2078.91,
+      "fin": 2115.71,
+      "temps_estime": false,
+      "titre": "Number 31: Nebraska",
+      "resume": "Nebraska exports more cattle than any other former state and grows grain and corn, with a GDP of about $150 billion. It must watch neighbors who might invade for food, and Offutt Air Force Base sits there but Nebraskans lack the manpower to repel an attack.",
+      "mots_cles": [
+        "Nebraska",
+        "cattle",
+        "corn",
+        "Cornhuskers",
+        "Offutt Air Force Base",
+        "GDP $150 billion",
+        "food producer",
+        "ranking 31"
+      ],
+      "texte": "31, Nebraska will have no shortage of food as it exports already more cattle than any other former United [music] State. It also grows huge amounts of grain and corn, which is why people from Nebraska are called corn huskers. Like other food producing countries, Nebraska [music] will have to keep an eye on its neighbors to make sure they don't try to invade to secure more food for their own citizens. Nebraska generates [music] around $150 billion annually, most of which comes from crops and cows. Offutt Air Force Base is located within its borders, but Nebraskans likely wouldn't have the manpower [music] to fend off an attack if invaded. This next newly formed country might get lucky as it'll be the gambling destination for people across the world. [music] Number 30,"
+    },
+    {
+      "id": 47,
+      "debut": 2115.71,
+      "fin": 2144.21,
+      "temps_estime": false,
+      "titre": "Number 30: Nevada",
+      "resume": "Nevada would welcome foreigners to sustain its gambling economy and could harness solar energy in its desert, exporting gold and metals; with tourism it earns about $193 billion. It would need deals with neighbors for water and food, or perhaps help from the aliens at Area 51.",
+      "mots_cles": [
+        "Nevada",
+        "gambling",
+        "solar energy",
+        "gold",
+        "tourism",
+        "Area 51",
+        "GDP $193 billion",
+        "ranking 30"
+      ],
+      "texte": "Nevada would likely find a way to welcome people from all other countries to help maintain its gambling economy. [music] The country of Nevada is mostly made up of desert, but this would provide an excellent opportunity to harness massive amounts of solar energy. Its main exports are gold and other metals, [music] which along with tourism brings in around $193 billion a year. After a while, Nevadans might need to make deals with the surrounding territories [music] to gain access to more water and food. Then again, they can always ask the aliens at Area 51 for some help. Number"
+    },
+    {
+      "id": 48,
+      "debut": 2144.21,
+      "fin": 2175.31,
+      "temps_estime": false,
+      "titre": "Number 29: Ohio",
+      "resume": "Ohio is a wild card: residents hold very different views on how it should be run, which could cause internal conflict. It can produce most of its own food and has a GDP of $736 billion, in the top five of former states, but political divisions could tear the new nation apart.",
+      "mots_cles": [
+        "Ohio",
+        "Buckeyes",
+        "GDP $736 billion",
+        "political divisions",
+        "internal conflict",
+        "food production",
+        "wild card",
+        "ranking 29"
+      ],
+      "texte": "29, Ohio would be somewhat of a wild card. Buckeyes have very [music] different views on how their state should be run, depending on who you ask. This could lead to internal conflict even once they become their own country. That being said, Ohio [music] would be able to produce most of its own food, and it currently has a GDP of $736 billion, putting it in the top five largest economies of the former United States. [music] This will all be for nothing, though, if the new nation is torn apart by political differences once [music] it gains its independence. These next two countries have the same first names but very different problems."
+    },
+    {
+      "id": 49,
+      "debut": 2175.31,
+      "fin": 2205.92,
+      "temps_estime": false,
+      "titre": "Number 28: South Carolina",
+      "resume": "South Carolina has a large coastline for food and exports of produce and transportation equipment, but a relatively small economy of $270 billion and GDP per capita of $52,031, the ninth lowest. It could sustain itself without being rich and might seek to reunite with its northern neighbor.",
+      "mots_cles": [
+        "South Carolina",
+        "coastline",
+        "GDP $270 billion",
+        "GDP per capita $52,031",
+        "produce",
+        "transportation equipment",
+        "reunification",
+        "ranking 28"
+      ],
+      "texte": "Number 28, South Carolina [music] has a large coastline that would provide the country with food and a means of exporting products. These exports mostly consist of produce and transportation equipment. However, it has a relatively small [music] economy with a GDP of $270 billion and a GDP per capita of only $52,031. [music] This is the ninth lowest per capita GDP out of all the former US states. South Carolinians will likely be able to sustain themselves, but it will by no means be a rich country. This could lead to them trying [music] to get back together with their northern brethren."
+    },
+    {
+      "id": 50,
+      "debut": 2205.92,
+      "fin": 2240.42,
+      "temps_estime": false,
+      "titre": "Number 27: South Dakota",
+      "resume": "South Dakota would have almost unlimited corn, grains and wheat and could trade for the rest, but without waterways or coastline it would rely on the north and Great Lakes countries. The segment notes the historic dispute over where the Dakotas' capital should be, which could lead to rash decisions.",
+      "mots_cles": [
+        "South Dakota",
+        "corn",
+        "wheat",
+        "grains",
+        "landlocked",
+        "Dakota capital dispute",
+        "trade",
+        "ranking 27"
+      ],
+      "texte": "Number 27, South Dakota may share the same first name as the [music] previous country, but it's a very different situation. South Dakotans would have an almost unlimited supply of corn, grains, and wheat. This [music] could get a little tedious after a while, but they could trade with the surrounding regions for whatever else they need. Their lack of [music] waterways or coastlines means South Dakota will probably rely on their neighbor to the north and the countries around the Great Lakes. However, the reason there's a south and a north Dakota is that the people in the two regions couldn't [music] agree on where the capital should be. This is still a point of contention for some, which might lead to leaders of both Dakotas to make [music] rash decisions. Number 26."
+    },
+    {
+      "id": 51,
+      "debut": 2240.42,
+      "fin": 2279.72,
+      "temps_estime": false,
+      "titre": "Number 26: North Dakota",
+      "resume": "North Dakota is the second coldest state after Alaska and exports petroleum, coal and tractors, which would suffer if other countries shift to renewable energy. Its GDP is about $63 billion, and it might partner with South Dakota, trading tractors for agricultural products.",
+      "mots_cles": [
+        "North Dakota",
+        "cold climate",
+        "petroleum",
+        "coal",
+        "tractors",
+        "GDP $63 billion",
+        "Dakotas partnership",
+        "ranking 26"
+      ],
+      "texte": "North Dakota has some of the same issues as its southern neighbors. However, it has a few unique ones of its own as well. North Dakota is the second coldest state after Alaska, and much of Alaska [music] sits in the Arctic Circle, so you can imagine how frigid North Dakota can get. The main exports of the North Dakotan country are petroleum, coal, and tractors, [music] which will pose a problem to their economy if other newly formed countries start relying more and more on renewable energy. North Dakota has a GDP of around $2 billion more than its southern neighbor with the same name at around $63 billion, but the Dakotas might end up putting their differences aside and form a partnership. North Dakota will supply the tractors while South Dakota will ship their agricultural products up north. Number"
+    },
+    {
+      "id": 52,
+      "debut": 2279.72,
+      "fin": 2306.28,
+      "temps_estime": false,
+      "titre": "Number 25: Utah",
+      "resume": "Utah has a GDP of about $220 billion from livestock and metals and a strong sense of community, especially among Mormons, that could unify the country. Few neighbors would want its territory so invasion risk is low, but it would need close trade ties.",
+      "mots_cles": [
+        "Utah",
+        "Mormons",
+        "GDP $220 billion",
+        "livestock",
+        "metals",
+        "community",
+        "trade ties",
+        "ranking 25"
+      ],
+      "texte": "25. Utah doesn't have a ton to offer in terms of exports. Its annual GDP is around $220 [music] billion, which mostly comes from livestock and metals. However, this sense of community, especially among religious groups [music] such as the Mormons, could help unify the Utahns in a newly formed country. There isn't much surrounding territories that would want within [music] its borders, so Utah doesn't really need to worry about being invaded, but they would definitely [music] want to become close with its neighbors for trade purposes. Number 24."
+    },
+    {
+      "id": 53,
+      "debut": 2306.28,
+      "fin": 2334.02,
+      "temps_estime": false,
+      "titre": "Number 24: Wisconsin",
+      "resume": "Wisconsin is an unassumingly powerful new country, exporting machinery, computers and electronics, transportation equipment, processed foods and chemicals for $366 billion a year. With Great Lakes access and endless cheese, it can trade manufactured goods for any other food or resources it needs.",
+      "mots_cles": [
+        "Wisconsin",
+        "cheese",
+        "Great Lakes",
+        "manufacturing",
+        "GDP $366 billion",
+        "machinery",
+        "processed foods",
+        "ranking 24"
+      ],
+      "texte": "Wisconsin is an unassumingly powerful [music] new country. It exports machinery, computers and electronics, transportation equipment, processed foods, and chemicals. This brings in $366 billion annually. It has [music] access to the Great Lakes and it can feed its Wisconsinites with endless amounts of cheese. In exchange for manufactured goods, it can pretty much get any other food or resources it needs from surrounding countries. With large amounts of territory comes large amounts of problems and the next new country [music] will definitely find this out."
+    },
+    {
+      "id": 54,
+      "debut": 2334.02,
+      "fin": 2368.02,
+      "temps_estime": false,
+      "titre": "Number 23: Alaska",
+      "resume": "Alaska would be the largest new country but its population of about 730,000 cannot oversee its 665,400 square miles. It exports seafood and has abundant petroleum, with a GDP of only about $55 billion, and could sustain its citizens but not defend against a Canadian invasion.",
+      "mots_cles": [
+        "Alaska",
+        "665,400 square miles",
+        "population 730,000",
+        "seafood",
+        "petroleum",
+        "GDP $55 billion",
+        "Canadian invasion",
+        "ranking 23"
+      ],
+      "texte": "Number 23, Alaska is the largest country formed by the separation of the United States. However, its population of around 730,000 [music] is nowhere near large enough to oversee the 665,400 square miles of land they control. [music] The main exports of the country are seafood, but they also have a massive amount of petroleum if they ever need to tap into it. For being such a huge [music] territory, Alaska's GDP is only around 55 billion. However, the land is so bountiful it can sustain all of its citizens and many more if needed. The only problem is that Alaskans would never be able to protect their country [music] from a Canadian invasion if it"
+    },
+    {
+      "id": 55,
+      "debut": 2368.02,
+      "fin": 2394.92,
+      "temps_estime": false,
+      "titre": "Number 22: Colorado",
+      "resume": "Colorado's mountains act as a natural barrier against threats from the west and it hosts several Air Force and military bases. It earns about $422 billion exporting aircraft engines, beef and medical instruments, and its residents are among the happiest, thanks to early recreational marijuana and microbreweries.",
+      "mots_cles": [
+        "Colorado",
+        "mountains",
+        "military bases",
+        "aircraft engines",
+        "GDP $422 billion",
+        "recreational marijuana",
+        "microbreweries",
+        "ranking 22"
+      ],
+      "texte": "ever happened. Number 22, Colorado has a lot going for it. Their mountains are beautiful, [music] but also serve as a natural barrier to protect them from anyone coming from the west. Colorado is also [music] home to several Air Force and military bases, which would protect its land from enemies. The new [music] country brings in around 422 billion dollars by exporting aircraft engines, beef, and medical instruments. Plus, Coloradans [music] are consistently considered some of the happiest people in the United States. This might be thanks to its early adoption of recreational marijuana and"
+    },
+    {
+      "id": 56,
+      "debut": 2394.92,
+      "fin": 2420.82,
+      "temps_estime": false,
+      "titre": "Number 21: Delaware",
+      "resume": "Delaware is small but mighty: each Delawarean generates about $80,446 for a GDP of $81 billion with fewer than a million people. It produces its own food including soybeans and has Atlantic access, but neighbors could bully it, though it could use wealth to buy powerful friends.",
+      "mots_cles": [
+        "Delaware",
+        "GDP $81 billion",
+        "GDP per capita $80,446",
+        "Atlantic Ocean",
+        "soybeans",
+        "small nation",
+        "bullying neighbors",
+        "ranking 21"
+      ],
+      "texte": "microbreweries. [music] Number 21, Delaware is small but mighty. Each Delawarean generates around 80,446 dollars to create a GDP of 81 billion annually. For such a small [music] state with less than a million people, that's pretty good. They can produce a lot of their own food, including soybeans, and have direct access to [music] the Atlantic Ocean. The only downside is that being such a small nation means that their neighbors can bully them around. But Delaware might be able to use its wealth to [music] buy powerful"
+    },
+    {
+      "id": 57,
+      "debut": 2420.82,
+      "fin": 2454.72,
+      "temps_estime": false,
+      "titre": "Number 20: Hawaii",
+      "resume": "Hawaii lies about 2,500 miles across the Pacific from California, grows most of its own crops and livestock, and has a naval base on Oahu. Its remoteness makes attack unlikely, and its GDP of about 90 billion comes from seafood, agriculture, iron and steel scrap and airplane engines.",
+      "mots_cles": [
+        "Hawaii",
+        "Pacific Ocean",
+        "Oahu naval base",
+        "GDP $90 billion",
+        "seafood",
+        "agriculture",
+        "Aloha",
+        "ranking 20"
+      ],
+      "texte": "friends. And speaking of small countries, number 20, Hawaii is pretty much on its own already. The islands lay about 2,500 miles across the Pacific [music] Ocean from the coast of California. They grow most of their own crops and raise their own livestock. There's already a naval base set up [music] on the island of Oahu, which would serve as protection. Although its remote location likely means no one would want to attack it, Hawaii has a GDP of around 90 billion, which comes from seafood and agriculture [music] along with iron and steel scrap and airplane engines. When the United States broke up, Hawaii went being the Aloha state to the Aloha country. [music]"
+    },
+    {
+      "id": 58,
+      "debut": 2454.72,
+      "fin": 2475.62,
+      "temps_estime": false,
+      "titre": "Number 19: Illinois",
+      "resume": "Illinois sits on Lake Michigan, great for trade, and is the leading soybean exporter and second largest corn exporter of the former US. Its economy brings in about $938 billion a year and needs little from neighbors, which might lead to an isolationist policy.",
+      "mots_cles": [
+        "Illinois",
+        "Lake Michigan",
+        "soybeans",
+        "corn",
+        "GDP $938 billion",
+        "isolationist",
+        "trade",
+        "ranking 19"
+      ],
+      "texte": "Number 19, Illinois is conveniently located next to Lake Michigan, which is great for trade. It's the leading exporter of soybeans and the second largest exporter of [music] corn in the former United States. Illinoisans enjoy a booming economy that brings in around $938 billion [music] a year. The new country doesn't really need much from its neighbors, which might lead them to adopt an isolationist policy. Number 18,"
+    },
+    {
+      "id": 59,
+      "debut": 2475.62,
+      "fin": 2508.62,
+      "temps_estime": false,
+      "titre": "Number 18: Maryland",
+      "resume": "Maryland has a GDP over $438 billion, some of the highest household earnings, transportation equipment exports, soybeans and over 3,000 miles of coastline for marine resources and trade. As a small nation it must watch neighbors, since Virginia or Pennsylvania could conquer it.",
+      "mots_cles": [
+        "Maryland",
+        "GDP $438 billion",
+        "coastline",
+        "household earnings",
+        "soybeans",
+        "Virginia",
+        "Pennsylvania",
+        "ranking 18"
+      ],
+      "texte": "Maryland boasts a GDP [music] of over $438 billion. This is part of the reason why Maryland households have some of the highest earnings in what used to be the United States. Its main exports are transportation equipment, but it also grows a large amount of soybeans. It has over [music] 3,000 miles of coastline, which provide an abundant marine resource and allows for easy importing and exporting. [music] Although like any small nations, Marylanders need to keep an eye on their neighbors. It would be all too easy for the countries of Virginia [music] or Pennsylvania to conquer them, which leads us to a country that already has all of the government buildings it'll ever need."
+    },
+    {
+      "id": 60,
+      "debut": 2508.62,
+      "fin": 2540.92,
+      "temps_estime": false,
+      "titre": "Number 17: Virginia",
+      "resume": "Virginia would likely absorb Washington DC, which would become a country within a country like Vatican City or San Marino. The new nation would have a GDP around $600 billion, existing government buildings, a politically minded population, fertile land and 7,213 miles of coastline.",
+      "mots_cles": [
+        "Virginia",
+        "Washington DC",
+        "GDP $600 billion",
+        "coastline",
+        "government buildings",
+        "Vatican City",
+        "San Marino",
+        "ranking 17"
+      ],
+      "texte": "Number 17, Virginia would likely envelop Washington [music] DC into its borders once it became its own nation. Although like the Vatican [music] City or the Republic of San Marino, DC would become a country within a country. But for all intents and purposes, it's now a part of Virginia. This puts the new nation's GDP to around [music] $600 billion, but it's already got government buildings and a large population of politically minded folk that try to run the new country. It has a large amount of fertile land as well as 7,213 miles of coastline. As long as its neighbors play nicely, Virginians will do just fine for their new country."
+    },
+    {
+      "id": 61,
+      "debut": 2540.92,
+      "fin": 2568.72,
+      "temps_estime": false,
+      "titre": "Number 16: Minnesota",
+      "resume": "Minnesota is the fourth largest food exporter of the former US with a GDP of $412 billion, and houses the Mall of America. It also exports computers and electronics and crops, and would likely ally with neighbors, especially Canada.",
+      "mots_cles": [
+        "Minnesota",
+        "food exporter",
+        "GDP $412 billion",
+        "Mall of America",
+        "electronics",
+        "Canada ally",
+        "crops",
+        "ranking 16"
+      ],
+      "texte": "[music] Number 16, Minnesota is the fourth largest exporter of food in the former US. [music] It provides it with a GDP of $412 billion annually. It also houses the Mall of America inside its borders, [music] which for better or worse provides Minnesotans with something to do. The country exports computers and electronics on top of their crops, meaning they'll likely make strong allies with their [music] neighbors, especially Canada to the north. It might already seem like this next former state is its own country, but how would it actually fare on its"
+    },
+    {
+      "id": 62,
+      "debut": 2568.72,
+      "fin": 2595.79,
+      "temps_estime": false,
+      "titre": "Number 15: New Hampshire",
+      "resume": "New Hampshire's live-free motto matches its citizens, with no income tax and optional car insurance, so becoming a country would be easy. Residents are hardy with plentiful resources and farmable land despite brutal winters, but neighbors Vermont and Massachusetts might watch it as a wild card.",
+      "mots_cles": [
+        "New Hampshire",
+        "live free motto",
+        "no income tax",
+        "optional car insurance",
+        "harsh winters",
+        "Vermont",
+        "Massachusetts",
+        "ranking 15"
+      ],
+      "texte": "own? Number 15, New Hampshire's motto is live [music] free or or which pretty much sums up the sentiment of many of its citizens. There's no income tax and car insurance is optional. Basically, the transition from state to full-blown country would be a [music] relatively easy one for them. The New Hampshirites are hardy, and although they have large amounts of resources and farmable land, the winter can get brutally cold and snowy. Let's just say [music] the neighboring countries like Vermont and Massachusetts might want to keep an eye on New Hampshire as they're somewhat of"
+    },
+    {
+      "id": 63,
+      "debut": 2595.79,
+      "fin": 2621.72,
+      "temps_estime": false,
+      "titre": "Number 14: North Carolina",
+      "resume": "North Carolina is the leading tobacco exporter of the former US, grows its own crops, has a large coastline and could be self-sufficient while allying with like-minded neighbors. Its GDP of about $655 billion comes from agriculture and healthcare equipment manufacturing.",
+      "mots_cles": [
+        "North Carolina",
+        "tobacco",
+        "coastline",
+        "GDP $655 billion",
+        "healthcare equipment",
+        "self-sufficient",
+        "agriculture",
+        "ranking 14"
+      ],
+      "texte": "a wild card. Number 14. North Carolina [music] exports a lot of tobacco. In fact, they are the leading exporter of the plant out of all of the former [music] US. North Carolinians also grow a lot of their own crops and have a large coastline. The new country [music] could definitely be self-sufficient, but it would also likely find companionship with like-minded countries to the north, south, and west. Its GDP is around $655 [music] billion, which is generated by a combination of agriculture and manufacturing of healthcare equipment."
+    },
+    {
+      "id": 64,
+      "debut": 2621.72,
+      "fin": 2652.22,
+      "temps_estime": false,
+      "titre": "Number 13: Oregon",
+      "resume": "Oregon could be one of the hippiest countries, with food from Portland and wine from the Willamette Valley, and a GDP of about $267 billion. Citizens prefer enjoying forests and coastline to making money, and with computer and electronics exports and ample farmland it needs little from neighbors.",
+      "mots_cles": [
+        "Oregon",
+        "Portland",
+        "Willamette Valley",
+        "GDP $267 billion",
+        "forests",
+        "electronics exports",
+        "self-sufficient",
+        "ranking 13"
+      ],
+      "texte": "Number 13. Oregon could be [music] one of the hippiest countries to come out of the breaking up of the US. Between food from Portland and wine [music] from the Willamette Valley, Oregonians have a lot of good food and drink within their borders. The GDP of the country is around [music] $267 billion, but the citizens of the country would rather spend time outdoors enjoying the forests and coastline [music] instead of making money. Oregon also exports computer and electronic goods to support its cash flow. There is plenty of land to grow crops and raise livestock as well, which would mean [music] Oregon has little need for the countries that surround"
+    },
+    {
+      "id": 65,
+      "debut": 2652.22,
+      "fin": 2692.82,
+      "temps_estime": false,
+      "titre": "Number 12: Georgia",
+      "resume": "Georgia has millions of peaches and five military bases to handle rowdy southern neighbors, and has tried to leave the US once before. It exports transportation equipment, metal and nuts, has fertile land, 110 miles of coastline and a GDP of about $683 billion, the eighth largest.",
+      "mots_cles": [
+        "Georgia",
+        "peaches",
+        "military bases",
+        "secession history",
+        "coastline",
+        "GDP $683 billion",
+        "transportation equipment",
+        "ranking 12"
+      ],
+      "texte": "them. Number 12. Georgia has a lot of peaches, [music] millions of peaches, but they might need to rely on their five military bases to deal with their rowdy neighbors from the south. Georgia, like several [music] other states, has already tried to leave the US, but it didn't really go great the first time. It might go better this time around. Besides peaches, [music] the main exports of Georgia are transportation equipment, metal, and nuts. The land is fertile and abundant, which allows for the growth [music] of crops to feed all the Georgians within the country's borders. Georgia also controls 110 miles of coastline that can be used to transport goods [music] to the nations along the eastern coast. All in all, the GDP of Georgia is around $683 billion, which makes it the eighth largest economy in the newly formed countries that were once a part of the US. [music]"
+    },
+    {
+      "id": 66,
+      "debut": 2692.82,
+      "fin": 2733.22,
+      "temps_estime": false,
+      "titre": "Number 11: Pennsylvania",
+      "resume": "Pennsylvania is a manufacturing giant with the sixth largest GDP at $839 billion, with eight Fortune 500 companies in Pittsburgh. It can feed itself, has Amish communities, exports chemicals and has strong dairy and crops, and an alliance with New York could make it unstoppable in the Northeast.",
+      "mots_cles": [
+        "Pennsylvania",
+        "GDP $839 billion",
+        "Pittsburgh",
+        "Philadelphia",
+        "Amish",
+        "chemicals",
+        "New York alliance",
+        "ranking 11"
+      ],
+      "texte": "Number 11. Pennsylvania is a manufacturing giant with the sixth GDP to come out of the broken up USA at 839 [music] billion. There are eight fortune 500 companies in Pittsburgh alone, and that's not [music] even the largest city with that title going to Philadelphia, which has over a million more people in Pittsburgh. As an independent nation, the Pennsylvanians [music] or Pennamites can grow more than enough food to sustain themselves, plus they have large [music] communities of Amish to fall back on if they need well-made furniture and delicious food. Their largest export is [music] chemicals, but they rival most other states in dairy production and crops as well. And if Pennsylvania could agree [music] on an alliance with New York, nothing in the Northeast could"
+    },
+    {
+      "id": 67,
+      "debut": 2733.22,
+      "fin": 2768.42,
+      "temps_estime": false,
+      "titre": "Number 10: Rhode Island",
+      "resume": "Rhode Island is the smallest state with an advantageous New England coastline, but Connecticut might covet its ocean access. Its GDP is about $66 billion from miscellaneous manufactured commodities, which the narrator jokes is suspiciously secretive, and it survives as long as neighbors do not absorb it.",
+      "mots_cles": [
+        "Rhode Island",
+        "smallest state",
+        "New England coast",
+        "Connecticut",
+        "GDP $66 billion",
+        "manufacturing",
+        "secretive",
+        "ranking 10"
+      ],
+      "texte": "stop them. Number 10, Rhode Island might be the [music] smallest state, and it's not really an island, but it sits in an advantageous location along the New England coastline. [music] Although it might need to be wary about its neighbors in Connecticut as the Rhode Island territory would greatly increase their access to the ocean and the rest of the East Coast. Rhode Island has a GDP of around $66 billion, which comes from [music] miscellaneous manufacturer commodities. This actually raises some red flags about the new nation. What are they up to? What are they manufacturing? And [music] why are they being so secretive about it? Either way, as long as Rhode Island doesn't get consumed by the other nations around it, the Rhode Islanders would be able [music] to take"
+    },
+    {
+      "id": 68,
+      "debut": 2768.42,
+      "fin": 2794.52,
+      "temps_estime": false,
+      "titre": "Number 9: Connecticut",
+      "resume": "Connecticut is wealthy, with a nominal GDP per capita of 82,233, though many residents earn their money in New York and Massachusetts. It might become the Switzerland of North America as a haven for rich people's money, or pursue expansion at Rhode Island's expense.",
+      "mots_cles": [
+        "Connecticut",
+        "GDP per capita $82,233",
+        "Switzerland of North America",
+        "wealth",
+        "New York",
+        "Massachusetts",
+        "expansion",
+        "ranking 9"
+      ],
+      "texte": "care of themselves. And speaking of threats to Rhode Island, number nine, Connecticut is [music] a wealthy state. Its nominal GDP per capita is 82,233. Although most people in the former [music] state make their money elsewhere like New York and Massachusetts, this means Connecticut might set itself up to be Switzerland of North America by creating a safe haven for rich people to put their money. Then again, Connecticuters could have their eye on expansion and power, [music] so look"
+    },
+    {
+      "id": 69,
+      "debut": 2794.52,
+      "fin": 2828.32,
+      "temps_estime": false,
+      "titre": "Number 8: Vermont",
+      "resume": "Vermont makes much of its own energy from hydroelectric and renewable sources, has dairy cows and crop fields, land to expand and the Green Mountains for defense. Although it has the smallest GDP of all former states, its GDP per capita is $56,028 and its people are happy and self-reliant.",
+      "mots_cles": [
+        "Vermont",
+        "hydroelectric power",
+        "dairy",
+        "Green Mountains",
+        "GDP per capita $56,028",
+        "self-reliant",
+        "maple syrup",
+        "ranking 8"
+      ],
+      "texte": "out, Rhode Island. Number eight, Vermont has more than just maple syrup. No, really. In fact, the Green Mountain State produces [music] a lot of its own energy through hydroelectric power and other renewable sources. This provides it with the means to be self-reliant, especially when you take into consideration the amount of dairy cows [music] and crop fields within its border. And there's plenty of lands for the Vermonters to expand into if needed, while the Green Mountains provide a strategic advantage if they're ever invaded. [music] And although it has the smallest GDP of all the former United States, its nominal GDP per capita is still [music] $56,028. People in Vermont are happy, healthy,"
+    },
+    {
+      "id": 70,
+      "debut": 2828.32,
+      "fin": 2878.62,
+      "temps_estime": false,
+      "titre": "Number 7: Washington",
+      "resume": "Washington sits in the northwest corner needing to worry only about Oregon and Montana, though Canada might target it for land. It has a GDP of $668 billion and $86,265 per person, exports seafood, aerospace products, cement, concrete and frozen french fries, and would likely ally with Oregon.",
+      "mots_cles": [
+        "Washington",
+        "GDP $668 billion",
+        "GDP per capita $86,265",
+        "aerospace",
+        "seafood",
+        "Oregon ally",
+        "Canada threat",
+        "ranking 7"
+      ],
+      "texte": "and self-reliant. Number seven, Washington [music] is tucked up in the northwestern corner of what used to be the United States, which means the only other two nations it needs to worry about are Oregon and Montana. Since both are pretty well [music] off in terms of food and resources, Washington will probably be left alone. Of course, if Canada gets frisky and wants [music] more land, Washington may be its first target. The Washingtonians have fertile lands and a rugged terrain running through the middle of the state. It has a GDP of $668 billion [music] and an astonishing $86,265 GDP per capita, which puts it just behind Massachusetts and New York. [music] The country's main exports are seafood, aerospace products and parts, cement, concrete, and frozen french fries. If they ever did need an ally, they'd [music] probably team up with like-minded people in Oregon to the south. The next former state has a bit of a bad reputation, [music] which likely wouldn't change when it becomes"
+    },
+    {
+      "id": 71,
+      "debut": 2878.62,
+      "fin": 2920.32,
+      "temps_estime": false,
+      "titre": "Number 6: Florida",
+      "resume": "Florida would be easily defended because only the northern border allows a land invasion, and it could weaponize alligators. Its GDP is about $1.2 trillion from computers, aircraft parts and cell phones, with farmland, citrus, nine military bases, and it would likely use its military to invade neighbors.",
+      "mots_cles": [
+        "Florida",
+        "GDP $1.2 trillion",
+        "alligators",
+        "military bases",
+        "citrus",
+        "defensible border",
+        "aircraft parts",
+        "ranking 6"
+      ],
+      "texte": "its own nation. Number six, Florida would do extremely well on its own as an independent country. It would be easily defendable as the northern [music] border is the only place ground forces could invade. Plus, once Florida is its own nation, it probably would start weaponizing [music] alligators without pesky animal rights organizations looking over its shoulder. Florida's GDP is around $1.2 trillion, [music] which comes mostly from exporting computers and electronics, aircraft parts, and cell phones. There are huge amounts of land in the middle of the Floridian [music] country that can be used to grow crops and an endless supply of citrus fruit. Also, Florida already has nine established military bases that it can use to keep itself isolated [music] from the rest of the world and Disney World. Although for some reason, it seems more likely that Florida would use their military to invade their neighbors."
+    },
+    {
+      "id": 72,
+      "debut": 2920.32,
+      "fin": 2973.73,
+      "temps_estime": false,
+      "titre": "Number 5: New Jersey",
+      "resume": "Starting the top five most powerful new nations, New Jersey is wealthy with a GDP of $672 billion and leverages the ports through which huge amounts of imports and exports reach the rest of the former US. It has manufacturing hubs and fertile land in its middle, earning its Garden State name.",
+      "mots_cles": [
+        "New Jersey",
+        "GDP $672 billion",
+        "ports",
+        "manufacturing hubs",
+        "Garden State",
+        "New York City",
+        "imports and exports",
+        "ranking 5"
+      ],
+      "texte": "[music] We've now reached the top five most powerful new nations to come out of the broken-up United States. Number five, New Jersey might be considered the armpit of New York to some, but even though parts of this [music] new nation are smelly due to waste treatment and power production near New York City, it is a wealthy place. New Jersey's GDP is $672 billion, and it can leverage its position to get its neighbors to do what it wants. For example, huge amounts of imports and exports [music] come through New Jersey ports before they reach the rest of the former US. There are numerous manufacturing [music] hubs that can pump out products for the New Jersey and population or for export to other nations. [music] And there is a reason it's called the Garden State. Although you might not think of New Jersey as being bountiful, [music] the lands in the middle of its territory are fertile and can produce crops for the masses. As long as it can leverage its position in manufacturing capabilities to keep its neighbors happy and stop them from invading, [music] New Jersey will do just fine as a nation. Number four,"
+    },
+    {
+      "id": 73,
+      "debut": 2973.73,
+      "fin": 3014.92,
+      "temps_estime": false,
+      "titre": "Number 4: Massachusetts",
+      "resume": "Massachusetts has Boston, New England's largest city, top-notch social systems focused on education and healthcare, and a revolutionary history. It has the 12th highest GDP but a GDP per capita of $91,129, behind only New York, and a large skilled blue-collar workforce.",
+      "mots_cles": [
+        "Massachusetts",
+        "Boston",
+        "GDP per capita $91,129",
+        "education",
+        "healthcare",
+        "revolution",
+        "workforce",
+        "ranking 4"
+      ],
+      "texte": "Massachusetts has a lot going for it. [music] Boston is the largest city in New England and provides the state with the means to move its exports to other regions in the world. The social systems put in place are top-notch with education and healthcare being two of the main focuses [music] of this new country. This wouldn't be the first time Massachusetts would be demanding their independence as revolution is in Massachusetts in its blood. [music] They oftentimes prefer the name bay starters or in extreme circumstances massholes. Although it only has the 12th [music] highest GDP out of the former US, its GDP per capita is $91,129, [music] putting it only behind New York. And with a large number of hardworking blue-collared workers at its disposal, [music] Massachusetts can ramp up production on whatever it needs. Number three, [music]"
+    },
+    {
+      "id": 74,
+      "debut": 3014.92,
+      "fin": 3056.32,
+      "temps_estime": false,
+      "titre": "Number 3: New York",
+      "resume": "New York extends from the Atlantic to the Great Lakes with multiple ports of entry, a GDP of almost $1.9 trillion and about $93,463 per person. It holds power in world finance and policy with Wall Street and the UN, and could fall only if all other states united to invade it.",
+      "mots_cles": [
+        "New York",
+        "GDP $1.9 trillion",
+        "Wall Street",
+        "United Nations",
+        "Manhattan",
+        "ports",
+        "GDP per capita $93,463",
+        "ranking 3"
+      ],
+      "texte": "New York is much more than just the city. The state is huge. It extends from the Atlantic Ocean to the Great Lakes. This means there are multiple ports of entry and ways [music] to move exports out of the new nation. New Yorkers are businessmen, farmers, and manufacturers. Across the country, there are different goods produced [music] and shipped to their neighbors and across the oceans. New York's GDP is almost $1.9 trillion, while each person contributes around $93,463 [music] to this number. New York is already in a position of power in terms of world finance and policy decisions [music] as Wall Street and the UN are both located in Manhattan. The only way that New York would not be able to sustain itself is if all the former [music] other United States decide to team up together and invade New York's lands. Number two,"
+    },
+    {
+      "id": 75,
+      "debut": 3056.32,
+      "fin": 3100.12,
+      "temps_estime": false,
+      "titre": "Number 2: Texas",
+      "resume": "Texas is big and proud and had 1,006,555 licensed guns in 2021, plus unregistered ones. It has tried to secede before, has oil, cotton and beef exports, 268,597 square miles to defend, a wall already under construction and easy militia recruitment, and a GDP second only to California at almost 2 trillion.",
+      "mots_cles": [
+        "Texas",
+        "guns",
+        "secession",
+        "oil",
+        "cotton",
+        "beef",
+        "GDP $2 trillion",
+        "ranking 2"
+      ],
+      "texte": "Texas. Do we need to say more? It's big, it's proud, it's got a lot of guns. In [music] fact, Texas had 1,006,555 licensed guns within its borders in 2021. [music] This doesn't count all of the rural Texans who may have a few unregistered firearms in their possession. Texas has tried to become its own state a few [music] times in the past and still threatens to succeed every now and then. Texas would probably do fine on its own as it has huge amounts of oil, cotton, and beef that it exports [music] to other parts of the world. It might have a difficult time defending all of its borders as there are 268,597 [music] square miles of land to protect, but the fact that they've already started building a wall and there are so many gun owners means gathering up a militia won't be too hard. The Texan GDP [music] is only second to California at almost 2"
+    },
+    {
+      "id": 76,
+      "debut": 3100.12,
+      "fin": 3151.22,
+      "temps_estime": false,
+      "titre": "Number 1: California",
+      "resume": "California has a GDP of 3.5 trillion dollars, more than all other former states combined if Texas, New York and Florida are excluded, and only Germany, Japan and China are higher. It has resources, coastline, over a dozen military bases and about 40 million people, and could absorb other territories with little anyone could do.",
+      "mots_cles": [
+        "California",
+        "GDP $3.5 trillion",
+        "Germany",
+        "Japan",
+        "China",
+        "40 million people",
+        "military bases",
+        "ranking 1"
+      ],
+      "texte": "trillion annually. Number one, California is practically already [music] its own country. It has a GDP of 3 and 1/2 trillion dollars, which is more than all the former United States GDPs [music] combined if you exclude Texas, New York, and Florida. To put this into perspective, there are only three countries in the entire world that have a GDP higher than California, and they are [music] Germany, Japan, and China. California is incredibly wealthy, full of resources, and has access to huge amounts of coastline. There is nothing that can stop it if the former state becomes [music] its own country. Californians likely wouldn't even notice much of a change in their day-to-day lives once the government's [music] restructured as they have everything they need within their borders. The new nation already has over a dozen military bases to protect [music] itself plus a population of around 40 million people making it the most populous of the new countries. The scary thing is if California wanted to incorporate other territories into its new country, [music] there would be very little anyone could"
+    },
+    {
+      "id": 77,
+      "debut": 3151.22,
+      "fin": 3177.32,
+      "temps_estime": false,
+      "titre": "Canada's bold plan against the US: episode intro",
+      "resume": "A new episode starts: Canada has had enough and is about to strike back at the United States. Relations have been rocky, with the US government threatening its northern neighbor with tariffs and even annexation, but Canada has a plan the US may not have seen coming.",
+      "mots_cles": [
+        "Canada",
+        "United States",
+        "tariffs",
+        "annexation",
+        "Infographic Show",
+        "retaliation",
+        "relations",
+        "intro"
+      ],
+      "texte": "do to stop it. Canada has had enough and it's about to strike back at America. Recently, relations between the two nations have been rocky to say the least. The US government has threatened their once friendly northern neighbors with everything from tariffs to outright annexation. But Canada, Canada has a little something up its sleeve, something the US may not have seen coming. On today's episode of the Infographic Show, we'll dive into Canada's bold new plan to make the"
+    },
+    {
+      "id": 78,
+      "debut": 3177.32,
+      "fin": 3237.63,
+      "temps_estime": false,
+      "titre": "US 25% tariffs on Canada and the fentanyl justification",
+      "resume": "In early 2025 the US threatened Canada with 25% tariffs on all imports, which took effect on March 4th, citing undocumented migrants and fentanyl. Only 43 lb of fentanyl was seized from Canada in 2024 versus 21,000 lb at the Mexican border, and the trade deal called unfair, claimed as a $200 billion subsidy, was signed in the president's first term in October 2018.",
+      "mots_cles": [
+        "tariffs on Canada",
+        "25% tariff",
+        "fentanyl",
+        "March 4th 2025",
+        "border seizures",
+        "trade deal 2018",
+        "$200 billion subsidy",
+        "migrants"
+      ],
+      "texte": "United States pay. In early 2025, the US threatened Canada with a 25% tariff on all imports, a move that had everyone holding their breath. After a few delays and political back and forth, the tariffs finally went into effect on March [music] 4th. But why did the US administration imposed tariffs on Canada in the first place? Well, according to the US president, he believes Canada has not been doing [music] its part in stopping the flow of undocumented migrants and fentanyl into the US from its northern border. However, in 2024, only 43 lb of fentanyl [music] were seized coming in from Canada, while in comparison, 21,000 lb of fentanyl were seized at the border with Mexico. This move puzzled many experts. [music] They struggled to understand why a border collie's weight in fentanyl crossing the border over the course of a year was being treated as such a major threat, especially given the drugs already massive presence within the US. Even more puzzling, the trade deal the president keeps calling unfair, claiming the US is subsidizing Canada by $200 billion a year, is actually the deal he signed himself during his first term back in October 2018. To soften the"
+    },
+    {
+      "id": 79,
+      "debut": 3237.63,
+      "fin": 3274.93,
+      "temps_estime": false,
+      "titre": "USMCA exemption, 62% of imports still hit, reduced tariff on energy and potash",
+      "resume": "The president issued an executive order letting USMCA-compliant Canadian imports temporarily dodge tariffs until April 2nd, but the exemption excludes most Canadian goods and 62% of other imports still face tariffs. Energy and potash, where Canada is the largest energy exporter to the US, get a reduced 10% tariff.",
+      "mots_cles": [
+        "USMCA",
+        "executive order",
+        "tariff exemption",
+        "April 2nd",
+        "62% of imports",
+        "energy",
+        "potash",
+        "10% tariff"
+      ],
+      "texte": "blow, [music] the president issued an executive order allowing Canadian imports that comply with the United States-Mexico-Canada Agreement, [music] USMCA, to temporarily dodge the tariffs. But there is a catch. The reprieve only lasted until April 2nd. After that, the tariffs would come roaring back. [music] But that exemption doesn't cover most Canadian goods. In fact, 62% of other imports are still hit by the new tariffs. There is some relief for key sectors, though. Energy and potash, two huge segments of Canadian trade. Canada is actually the largest energy exporter to the US, and those sectors will face a reduced [music] tariff of just 10%."
+    },
+    {
+      "id": 80,
+      "debut": 3274.93,
+      "fin": 3303.83,
+      "temps_estime": false,
+      "titre": "The trade deficit is $63.3 billion, not $200 billion",
+      "resume": "Economists say the US does not subsidize Canada but runs a trade deficit of $63.3 billion, not $200 billion, mostly from energy imports, and it turns into a US surplus if energy is excluded. The US still imposed 25% tariffs to negotiate, hitting energy, lumber and automobiles particularly hard.",
+      "mots_cles": [
+        "trade deficit",
+        "$63.3 billion",
+        "energy imports",
+        "trade surplus",
+        "25% tariffs",
+        "lumber",
+        "automobiles",
+        "economists"
+      ],
+      "texte": "Economists point out that the US isn't subsidizing Canada, but rather it has a trade deficit with the country, mostly relating to energy exports. And that deficit isn't $200 billion. It's $63.3 billion. A number that not only disappears, but actually becomes a trade surplus for the US if energy [music] imports are discounted. However, in order to negotiate something better with their neighbors to the north, the US went ahead with the 25% tariffs, [music] which have hit three industries particularly hard, energy, lumber, and"
+    },
+    {
+      "id": 81,
+      "debut": 3303.83,
+      "fin": 3333.73,
+      "temps_estime": false,
+      "titre": "US dependence on Canadian energy: heavy crude, natural gas, electricity",
+      "resume": "Although the US is the world's top oil producer, many refineries need heavy crude and 60% of that is imported from Canada, and retooling would take years and billions of dollars. The US also imports almost all its natural gas and 85% of its electrical energy from Canada.",
+      "mots_cles": [
+        "heavy crude oil",
+        "refineries",
+        "60% from Canada",
+        "natural gas",
+        "electricity imports",
+        "energy dependence",
+        "oil production",
+        "retooling cost"
+      ],
+      "texte": "automobiles. Though the US produces a lot of oil, in fact most of any country in the [music] world, many of its refineries need heavy crude oil to operate, 60% of which is imported from Canada, where it lies in abundance. Of course, the refineries could be restructured to not rely on crude oil, but that would take many years and cost billions and billions of dollars. And crude oil isn't the only Canadian energy import the US relies on. The USA imports almost all of its natural gas and 85% of its electrical energy from Canada. The"
+    },
+    {
+      "id": 82,
+      "debut": 3333.73,
+      "fin": 3372.03,
+      "temps_estime": false,
+      "titre": "Lumber tariffs raise housing costs",
+      "resume": "The US imports almost half its lumber from Canada, worth $28 billion in 2021, and 94% of US housing is built with lumber. The construction industry estimates the tariffs add $9,000 to an average house, and replacing Canadian lumber domestically would take at least a decade per Fast Markets and mean cutting protected forests.",
+      "mots_cles": [
+        "lumber",
+        "Canadian lumber",
+        "housing costs",
+        "$9,000 per house",
+        "94% of housing",
+        "Fast Markets",
+        "protected forests",
+        "construction industry"
+      ],
+      "texte": "US imports almost half of its lumber from Canada, amounting to $28 billion worth in 2021. [music] Since 94% of US housing is built with lumber, that creates a big problem for potential homeowners in a country where housing is already becoming unaffordable for many. The US construction industry has estimated that tariffs on Canadian lumber will increase the costs of the average house by $9,000. [music] Once again, even if the US could theoretically produce all its required lumber domestically, something a recent analysis by a research company Fast Markets says will take at least a decade, it would probably be impossible without tearing down a significant section [music] of protected US forests."
+    },
+    {
+      "id": 83,
+      "debut": 3372.03,
+      "fin": 3409.43,
+      "temps_estime": false,
+      "titre": "The integrated US-Canada auto industry",
+      "resume": "US automakers are hit hardest and most vocal because the Canadian and US auto industries function as one manufacturing chain, with Detroit and Windsor, Ontario sending parts and outsourcing processes back and forth. 1.24 million vehicles are imported from Canada, making it fourth behind Mexico, Japan and South Korea.",
+      "mots_cles": [
+        "auto industry",
+        "Detroit",
+        "Windsor Ontario",
+        "manufacturing chain",
+        "1.24 million vehicles",
+        "car parts",
+        "vehicle imports",
+        "automakers"
+      ],
+      "texte": "However, the industry group that's been hit the hardest and maybe the most vocal about suffering tariffs on Canada is US automakers. The Canadian and US auto industries [music] have become so enmeshed they essentially function as one big manufacturing chain. Automakers in Detroit, Michigan and plants in neighboring Windsor, Ontario send car parts and outsource manufacturing processes to one another all the time. US automakers rely [music] on Canada so heavily that 1.24 million vehicles are imported into the US from the north, making Canada fourth among countries the US imports vehicles from, behind Mexico, Japan, and South Korea. Former Canadian"
+    },
+    {
+      "id": 84,
+      "debut": 3409.43,
+      "fin": 3444.23,
+      "temps_estime": false,
+      "titre": "Canadian boycott of American products and travel",
+      "resume": "Former Prime Minister Justin Trudeau called the tariffs a dumb thing to do, and while the US administration says it wants friendly relations, the feeling seems one-sided. Canadians are boycotting American-made products and canceling US travel, with flights from Canada to the US down 21% per a New York Times analysis.",
+      "mots_cles": [
+        "Justin Trudeau",
+        "boycott",
+        "American products",
+        "travel cancellations",
+        "flights down 21%",
+        "New York Times analysis",
+        "retaliation",
+        "tariffs"
+      ],
+      "texte": "Prime Minister Justin Trudeau called the tariffs a dumb thing to do. While the US administration has insisted that they want to maintain friendly relations with Canada throughout the process, [music] but it seems like the feeling is one-sided. Many Canadians have turned their backs on the US without even a polite Canadian sorry to ease the tension as they boycott American-made products and cancel US travel plans. A New York Times analysis that flights from Canada to the US went down by 21% after [music] Trump's tariffs took effect. But that is not the only way Canada plans to retaliate against threats from the US, as you'll soon see."
+    },
+    {
+      "id": 85,
+      "debut": 3444.23,
+      "fin": 3476.43,
+      "temps_estime": false,
+      "titre": "51st state threats: Canadians reject annexation",
+      "resume": "US threats have also been territorial, with repeated calls for Canada to become the 51st state, though 77% of Canadians oppose joining. Prime Minister Mark Carney said Canada is not for sale ever, and the US replied never say never, so the threats remain.",
+      "mots_cles": [
+        "51st state",
+        "annexation",
+        "Mark Carney",
+        "not for sale",
+        "77% of Canadians oppose",
+        "sovereignty",
+        "territorial threats",
+        "Canada"
+      ],
+      "texte": "Because the US threats haven't just been economic, they've also been territorial. There have been calls about Canada becoming the 51st US state multiple times. 77% of Canadians strongly or somewhat oppose joining the US, so it's clear that the whole 51st state idea is mostly an American dream. Current Prime Minister Mark Carney made it very clear that Canada is not for sale and won't be for sale ever. To which the US replied, never say never. So it seems that no matter what Canada says, the threats from the US government are not completely off the table. So what can"
+    },
+    {
+      "id": 86,
+      "debut": 3476.43,
+      "fin": 3505.83,
+      "temps_estime": false,
+      "titre": "Canada's leverage: tolls on roads to Alaska",
+      "resume": "Canada's leverage is that Alaska is separated from the contiguous 48 states by Canada. British Columbia Premier David Eby has threatened to hamper access by imposing tolls on previously duty-free roads, and trucks must cross British Columbia to reach Alaska.",
+      "mots_cles": [
+        "Alaska",
+        "British Columbia",
+        "David Eby",
+        "tolls",
+        "duty-free roads",
+        "trucks",
+        "contiguous 48 states",
+        "leverage"
+      ],
+      "texte": "Canada do? Well, they're trying out one plan right now because if you look at a map of the US, one very big resource-rich part of the country is separated from the contiguous 48 states by Canada. And that place is the frozen, beautiful, massive state of Alaska. And Canada, or at least the Premier of British Columbia, David Eby, has threatened to severely hamper access to Alaska by imposing tolls on previously duty-free roads. And that's a problem because British Columbia is the province [music] that trucks need to get through"
+    },
+    {
+      "id": 87,
+      "debut": 3505.83,
+      "fin": 3576.03,
+      "temps_estime": false,
+      "titre": "Why trucking to Alaska matters: the Alaska Highway and cargo flows",
+      "resume": "Air and sea work for some cargo, but urgent or high-value shipments to Alaska go by truck, from places like Dallas in 7 to 10 days, along the 1,400-mile Alaska Highway from Dawson Creek to Fairbanks, usually duty-free. About 27% of Alaska's imported and exported commodities move by truck, with $596 million going to Canada and $753 million coming from Canada.",
+      "mots_cles": [
+        "Alaska Highway",
+        "Dawson Creek",
+        "Fairbanks",
+        "trucking",
+        "49th Freight",
+        "27% of commodities",
+        "$596 million",
+        "cargo"
+      ],
+      "texte": "to get to Alaska. Now you might be thinking, why don't they simply fly over Canada to get to Alaska or take a ship? Well, while that does work for some cargo, it doesn't work for all. Supplies and other materials that need to get to Alaska immediately or some that are considered high value are almost always delivered by trucks. According to 49th Freight, when cargo needs to get from the contiguous US to Alaska quickly, say in 7 to 10 days from as far as Dallas, Texas, and it requires over 40 ft equipment or it can't be transferred mid-transit, trucking is the best option. Commercial trucks travel from Dawson Creek, the town in British Columbia, not the 90s teen soap, all the way up to Fairbanks, Alaska, a distance of about 1,400 miles on the Alaska Highway. Thanks to previously friendly relations between Canada and Alaska, truck traffic generally travels through the province duty-free. Though the majority of cargo to Alaska is shipped, that still [music] leaves 27% of imported and exported commodities to and from Alaska transported by truck, according to Royal Alaskan Movers. That is $596 million worth of goods exported from Alaska to Canada and $753 [music] million of goods exported from Canada to"
+    },
+    {
+      "id": 88,
+      "debut": 3576.03,
+      "fin": 3600.73,
+      "temps_estime": false,
+      "titre": "Alaska Trucking Association warns of higher costs",
+      "resume": "Jamie Benson of the Alaska Trucking Association said she is deeply concerned about proposals to block or impose duties on goods going through Canada to Alaska, warning of higher transportation costs, supply chain disruption and higher prices for essential goods.",
+      "mots_cles": [
+        "Alaska Trucking Association",
+        "Jamie Benson",
+        "duties",
+        "supply chains",
+        "transportation costs",
+        "essential goods",
+        "prices",
+        "Alaskans"
+      ],
+      "texte": "Alaska. It's enough to spook a lot of people in Alaska who rely on cargo shipments. The executive director of the Alaska Trucking Association, Jamie Benson, said she is deeply concerned about the proposal to either block or impose duties on products going through Canada to Alaska. She further elaborated that such measures will significantly increase transportation costs, disrupt supply chains, and raise prices for essential goods that Alaskans rely on."
     }
   ]
 }
