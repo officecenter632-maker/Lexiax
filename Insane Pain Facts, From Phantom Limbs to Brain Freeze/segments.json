@@ -4,12 +4,12 @@
   "titre_video": "Insane Pain Facts, From Phantom Limbs to Brain Freeze",
   "duree_s": 13672.56,
   "avancement": {
-    "lignes_traitees": 4818,
-    "fin_traitee_s": 9216.16,
+    "lignes_traitees": 5737,
+    "fin_traitee_s": 11154.32,
     "nb_lignes_total": 6947,
     "complet": false
   },
-  "nb_segments": 221,
+  "nb_segments": 248,
   "segments": [
     {
       "id": 1,
@@ -3985,6 +3985,502 @@
         "fractures"
       ],
       "texte": "person syndrome. Stiff person syndrome or SPS is a rare neurological disorder that does a lot more than make you a little inflexible. Caused by an autoimmune attack on the central nervous system, this disease locks your muscles into rigid spasms. These can be so severe they can cause fractures. Living with this condition means a constant battle against a body that can freeze up at any moment. There's virtually no warning that you develop the disease either. One day your muscles begin to stiffen uncontrollably and soon even the simplest movements can trigger a full body spasm. These aren't your typical muscle cramps. They are extreme contractions that can twist limbs, lock joints, and leave you writhing in pain. The spasms can be triggered by something as minor as a loud noise, a light touch, or even an emotional response. Once they start, there is little you can do except ride it out. You're trapped in your own body. The condition is rare, but when it strikes, it is life-changing. Many people end up unable to walk or even sit comfortably, relying on powerful muscle relaxants just to get through the day. Stiff person syndrome makes ordinary life feel like a minefield where any unexpected movement could send you into agonizing spasms. Number five,"
+    },
+    {
+      "id": 222,
+      "debut": 9216.16,
+      "fin": 9295.36,
+      "temps_estime": false,
+      "titre": "Number 5: arachnoiditis",
+      "resume": "Arachnoiditis is inflammation of the protective lining around the spinal cord, often following spinal surgery, a bad spinal injection or severe injury. Nerve roots stick together into a tangled web that misfires, causing stabbing, burning pain in the back, legs and sometimes arms, and most treatments barely help.",
+      "mots_cles": [
+        "arachnoiditis",
+        "spinal cord lining",
+        "nerve roots",
+        "spinal injection",
+        "burning pain",
+        "back pain",
+        "chronic pain",
+        "inflammation"
+      ],
+      "texte": "arachnoiditis. Think about the worst back pain you've ever had. We're talking about the kind that makes it hard to stand up straight or even breathe without wincing. Now imagine that pain taking over your entire spine, radiating out in fiery electric waves. That's arachnoiditis, an excruciating condition where the protective lining around the spinal cord becomes inflamed. And it doesn't just stop there. Arachnoiditis often starts with trauma to the spine. Maybe a surgery gone wrong, a bad spinal injection, or even a severe injury. But the pain doesn't just stay at the sight of the injury. It spreads, causing nerve roots in your spinal cord to stick together. This creates [music] a tangled web of nerves that misfire constantly. They send a stabbing, burning pain throughout your back, legs, and sometimes even up your arms and can range from sharp shocks to a constant searing ache that doesn't ease up. It can affect your entire lower body. You might feel like you're walking on broken glass or like your muscles are being torn apart. And if you think painkillers will help, think again. The tangled nerves are so hyper sensitive that most treatments barely make a dent, leaving you in a state of constant torment. Arachnoiditis makes you question every movement, every step, every twist of your body. It's a cruel reminder that sometimes the pain doesn't fade away."
+    },
+    {
+      "id": 223,
+      "debut": 9295.36,
+      "fin": 9384.08,
+      "temps_estime": false,
+      "titre": "Number 4: end-stage pancreatic cancer",
+      "resume": "In end-stage pancreatic cancer the growing tumor presses on nerves, muscles and organs, causing constant grinding, stabbing pain through the abdomen and back. Tumors block critical pathways causing nausea and vomiting, painkillers only dull the agony, and the mental toll is heavy.",
+      "mots_cles": [
+        "pancreatic cancer",
+        "end-stage cancer",
+        "tumor pain",
+        "abdominal pain",
+        "terminal illness",
+        "nausea",
+        "painkillers",
+        "cancer pain"
+      ],
+      "texte": "But even with all that, the next condition on our list might make arachnoiditis feel like a walk in the park. Number four, endstage pancreatic cancer. Pancreatic cancer is already one of the worst cancer diagnoses you can get, but endstage pancreatic cancer takes suffering to almost unimaginable depths. This isn't just about a terminal illness. It's about pain that digs deep, gnawing at you from the inside out as the cancer spreads and takes over. As the tumor grows, it presses on your nerves, muscles, and surrounding organs, sending waves of searing, stabbing pain throughout your abdomen and into your back. It's not the kind of pain that es and flows. It's a [music] constant grinding ache that feels like a clamp squeezing your insides. You can't sit, you can't lie down, and even breathing can be excruciating. Worse yet, this pain isn't [music] something you can easily medicate away. The tumors often block critical pathways, causing nausea, vomiting, and intense discomfort every time you try to eat. As your body starts breaking down, the pain only intensifies, spreading and radiating in ways that make it feel like there is no escape. If the physical pain wasn't bad enough, there's also the huge mental toll. Every day brings more suffering and less relief. Painkillers can dull the agony, but they never truly make it go away. Endstage pancreatic cancer doesn't just rob you of time, [music] it strips away every comfort, making each moment a harrowing countdown. If you think that sounds unbearable, we're only scratching the surface. [music] We've"
+    },
+    {
+      "id": 224,
+      "debut": 9384.08,
+      "fin": 9489.52,
+      "temps_estime": false,
+      "titre": "Number 3: complex regional pain syndrome (CRPS)",
+      "resume": "CRPS usually starts with a minor injury such as a sprained ankle or small fracture, then erupts into unceasing burning pain that spreads through the limb. The skin becomes hypersensitive, changes color, hair and nails grow abnormally fast, and spasms can lock the limb; doctors do not fully know the cause and for most people pain eases within a year.",
+      "mots_cles": [
+        "complex regional pain syndrome",
+        "CRPS",
+        "burning pain",
+        "allodynia",
+        "sprained ankle",
+        "skin color change",
+        "spasms",
+        "Australian girl"
+      ],
+      "texte": "reached the top three in our list, which brings us to a whole new level of pain and misery. Number three, complex regional pain syndrome. Complex regional pain syndrome or CRPS sounds like it could be just another uncomfortable condition. But for those who suffer from it, it's anything but simple. Like many of the diseases on our list, CRPS starts with an injury. Often something minor like a sprained ankle or a small fracture. But instead of healing, the affected area erupts into a world of unceasing burning pain that only gets worse with time. And the pain isn't limited to the sight of the injury. It radiates outward, spreading through your limb like a wildfire. The skin becomes so sensitive that the touch of a feather can feel like a blowtorrch against your skin. Your joints stiffen, your muscles weaken, and soon you're left with a limb that feels like it's being crushed and burned from the inside out. Over time, the symptoms get worse. The skin around your injury changes color, becoming red or purple, and your hair and nails start to grow abnormally fast. Eventually, the affected limb can become almost useless, twisted and locked into place by excruciating spasms. And the pain can spread to other parts of the body, seemingly attacking at random and making everyday life torture. Recently, a young Australian girl's infected blister led to a serious case of CRPS. It turned into agonizing leg pain. She couldn't walk. She couldn't even wear clothes over the infected leg. Doctors aren't entirely sure why CRPS happens, and treatments are often only partially effective, leaving many sufferers trapped in a cycle of pain that never seems to end. The good news is, for most people, the pain is significantly reduced within a year. It'll just be the worst year of your entire life. But if"
+    },
+    {
+      "id": 225,
+      "debut": 9489.52,
+      "fin": 9573.84,
+      "temps_estime": false,
+      "titre": "Number 2: cluster headaches",
+      "resume": "Cluster headaches feel like drilling through the skull behind one eye, strike suddenly several times a day for weeks or months, and last 15 minutes to 3 hours. The eye area becomes swollen, red and teary, sufferers pace or bang their heads, and attacks come in clusters often at the same time each day.",
+      "mots_cles": [
+        "cluster headache",
+        "pain behind the eye",
+        "attacks 15 minutes to 3 hours",
+        "clusters",
+        "head banging",
+        "worst headache",
+        "swollen red eye"
+      ],
+      "texte": "you think CRPS sounds brutal, the next entry on our list takes pain to a level you wouldn't believe. Number two, cluster headaches. Cluster headaches are often described as the worst diagnosis you can receive. Once you hear what they're like, you'll understand why. A cluster headache is a brutal assault on your senses that is so severe it feels like someone is drilling through your skull right behind your eye. It can happen multiple times a day, every day for weeks or even months. [music] The pain arrives suddenly and without warning. And it doesn't build slowly. It slams into you like a [music] freight train. Within minutes, the area around one eye becomes swollen, red, and tearary, while a burning stabbing sensation spreads through your face and down your neck. The attack can last anywhere [music] from 15 minutes to 3 hours. But the relief is short-lived. Another one could be lurking around the corner. Sufferers often find themselves writhing, pacing, or even banging their heads against a wall, desperate for anything that might lessen the agony. Cluster headaches don't just come and go. As the name suggests, [music] they strike in clusters, often hitting you like clockwork around the same time each day. And because the pain is so intense, many people live in fear of the next cycle, knowing it could turn their lives upside down for weeks or even months at a time. Cluster headaches will make you rethink everything you thought you knew about pain. But even as brutal as these can be, this last condition on our list will have you wishing for anything but"
+    },
+    {
+      "id": 226,
+      "debut": 9573.84,
+      "fin": 9676.16,
+      "temps_estime": false,
+      "titre": "Number 1: trigeminal neuralgia",
+      "resume": "Trigeminal neuralgia attacks the trigeminal nerve in the face, delivering electric-shock stabs triggered by talking, eating or brushing teeth. Each lasts seconds to minutes but can recur dozens of times a day, patients compare it to a knife in the face or a molar split by a chisel, and treatment is limited. About 150,000 Americans are diagnosed yearly, mostly after age 50.",
+      "mots_cles": [
+        "trigeminal neuralgia",
+        "trigeminal nerve",
+        "facial pain",
+        "electric shock pain",
+        "150,000 diagnoses",
+        "over 50",
+        "tooth pain",
+        "surgery"
+      ],
+      "texte": "what it brings. Number one, trigeminal neuralgia. Trigeminal neuralgia might sound like a rare and obscure condition, but for those who live with it, it is a living nightmare with a name. It attacks the trigeminal nerve in your face, delivering bolts of excruciating pain that can strike at any moment. Even simple actions like talking, eating, or brushing your teeth can set off a searing jolt that feels like an electric shock slicing through your head. Here's what makes it truly terrifying. The pain doesn't last long. Just a few seconds to a couple of minutes. That doesn't sound so bad, right? The truly horrifying part is that it can happen dozens of times in a single day. It's a relentless assault that leaves you constantly on edge, [music] never knowing when the next attack will strike. Some sufferers have compared it to being stabbed in the face over and over. Others say it feels like their teeth are being shattered or their skin is [music] being torn apart. One woman described it as if someone was thrusting a knife in my face, pulling it out and doing it again and again, while another said it was like a sudden [music] excruciating tooth pain, like having my moler split by a dull chisel. The pain can be so intense that many people become afraid to move or even smile. Even a facial muscle movement could trigger another episode. Unfortunately, treatment options are limited. While medications can sometimes dull the pain, they don't always work and surgery is often a last resort. with no guarantee of relief. About 150,000 Americans receive a trigeminal neuralgia diagnosis every year, with most cases developing after the age of 50. And once diagnosed, they will spend their waking seconds [music] waiting for the next horrifying attack to happen. Which of these do you think would be the most terrifying? Let us know in the comments."
+    },
+    {
+      "id": 227,
+      "debut": 9676.16,
+      "fin": 9718.16,
+      "temps_estime": false,
+      "titre": "1584, Delft: the execution of Balthasar Gerard",
+      "resume": "The video opens a new section on the most painful deaths in history with the execution of Balthasar Gerard, assassin of William the Silent, in Delft on July 14, 1584. The crowd is stunned into silence by what is described as the most gruesome execution in European history.",
+      "mots_cles": [
+        "Balthasar Gerard",
+        "Delft 1584",
+        "William the Silent",
+        "execution",
+        "most painful deaths",
+        "Infographic Show",
+        "European history"
+      ],
+      "texte": "July 14th, 1584. Del, South Holland, Netherlands. A deathly hush falls over the market square. The crowd of spectators, usually rowdy during executions, are frozen where they stand, [music] stunned into silence. Eyes widen in horror, hearts race. This is no ordinary execution. Before them, the assassin of William the Silent, Mr. Balthasar Yerard, writhes in unimaginable agony, and now he faces one last excruciating ordeal before his final moments. Yerard has endured the torture that will one day become known as the most gruesome execution in European history. But we're sure going to try to beat it on today's episode of the infographic show. The most painful deaths in history. The worst execution"
+    },
+    {
+      "id": 228,
+      "debut": 9718.16,
+      "fin": 9761.76,
+      "temps_estime": false,
+      "titre": "Bounty on William the Silent and Gerard's motive",
+      "resume": "King Philip of Spain offered a 25,000-crown bounty, around $45 million today, for William of Orange, leader of the Dutch revolt that sparked the Eighty Years War. Gerard wanted the money and a place in history, and learned William was in Delft.",
+      "mots_cles": [
+        "King Philip of Spain",
+        "William of Orange",
+        "25,000 crowns bounty",
+        "Dutch revolt",
+        "Eighty Years War",
+        "Delft",
+        "Gerard motive"
+      ],
+      "texte": "ever. When King Philip of Spain announced a bounty of 25,000 crowns for the head of William the Silent, the world took notice. This was no ordinary feud. William of Orange had become King Philip's sworn nemesis, leading the Dutch revolt against [music] the Spanish rule, a rebellion that ignited the flames of the 80 Years War. The stakes were high, the hatred personal, [music] which was evident in the size of the reward, maybe around $45 million in today's money. To Balthasar Yurard, this wasn't just about the money. [music] It was about securing his place in history as the man who brought down William the Silent. Yurard knew that William was in the city of Delft, which had been a hot house of rebellion against Philip's rule. He was walking into the lion's den, and the lions would turn out to be"
+    },
+    {
+      "id": 229,
+      "debut": 9761.76,
+      "fin": 9804.08,
+      "temps_estime": false,
+      "titre": "Gerard assassinates William the Silent",
+      "resume": "Disguised as a Protestant refugee, Gerard waited near the Princenhof and on July 10 shot William with two pistols, killing him almost instantly, the first recorded political assassination with a firearm. He was caught by William's servants and beaten before being handed to the authorities.",
+      "mots_cles": [
+        "assassination",
+        "Princenhof",
+        "pistols",
+        "first political assassination with firearm",
+        "captured",
+        "July 10",
+        "servants"
+      ],
+      "texte": "extremely vicious. On the 8th of July, Gerrard, disguised as a [music] Protestant refugee seeking sanctuary, was spotted near the Delft Monastery known as the Princenhof, where William the Silent was staying. On July 10th, Gerard sprung from behind a wall as William was walking down the stairs after dinner. With a pair of pistols, [music] Gerard unloaded two shots. William was killed almost instantly. Gerard had just gone down in history for committing the first ever recorded political assassination with a firearm. He tried to make a run for it, but he didn't get so far. Soon being captured by some of William's very angry servants. Yurard had just killed their hero, the lynchpin of the rebellion, and he was going to pay for it. But in a way no one could"
+    },
+    {
+      "id": 230,
+      "debut": 9804.08,
+      "fin": 9850.56,
+      "temps_estime": false,
+      "titre": "Gerard's torture and execution",
+      "resume": "Over four days Gerard was tortured, deprived of sleep and subjected to the strapado, hanging by his arms. On July 14 the magistrates cut off his right hand in the market square, generally known as the most brutal execution in late Middle Ages Europe, a record the narrator says the French might dispute.",
+      "mots_cles": [
+        "strapado",
+        "torture",
+        "right hand cut off",
+        "market square",
+        "late Middle Ages",
+        "execution",
+        "Gerard"
+      ],
+      "texte": "have imagined. After enduring a savage beating of fists and feet, was handed over to the authorities, who decided to make an example of him. Over four excruciating days, he endured relentless torture. Then they tied his [music] hands to his feet, depriving him of sleep, and resumed their torment the next morning. Dragged before a jeering crowd, he was subjected to the strapado, [music] suspended by his arms, his own weight pulling agonizingly on his joints. On July 14th, he was hauled off into the market square again. With a crowd watching in horror, the magistrates cut off his right hand, the one that had fired the gun. A grim warning to any who might follow in his footsteps. This is generally known as the [music] most brutal execution in the late Middle Ages Europe. But the French might respond to that by saying tier or hold my beer."
+    },
+    {
+      "id": 231,
+      "debut": 9850.56,
+      "fin": 9951.6,
+      "temps_estime": false,
+      "titre": "Timothy Treadwell and the grizzly bears",
+      "resume": "Timothy Treadwell, a former addict, lived among grizzly bears at Hallo Bay, Alaska, naming them and seeing himself as a real-life Doctor Dolittle. After 13 seasons, a poor salmon run left bears short of fat, and one unusually grumpy bear killed Tim and his girlfriend Amy.",
+      "mots_cles": [
+        "Timothy Treadwell",
+        "grizzly bears",
+        "Hallo Bay Alaska",
+        "Amy Huguenard",
+        "salmon run",
+        "bear attack",
+        "Grizzly Man"
+      ],
+      "texte": "Before we talk about that, let's discuss a more natural kind of super painful death. Don't mess with bears. The executions were designed to [music] cause pain, but sometimes an accident can be worse. Just like the death of the American bear lover, Timothy Treadwell. Tim wasn't your average person. After battling serious alcohol and drug addiction in the late 1980s, he found refuge in the wilds of Alaska's Hallow Bay on the Cotmmy Coast. This was where grizzly bears, his favorite animals, roamed in the long grass and snatched jumping [music] salmon from the river with their Freddy Krueger claws. Was hanging out with bears not dangerous? Of course it was dangerous, but Tim, who affectionately named the bears Thumper, Mr. Chocolate, and Squiggle, [music] fancied himself as a real life Dr. Doolittle. While he took some precautions, his world felt like a surreal Disney cartoon where people lived in harmony with giant angry grizzly bears. After 13 blissful springs and summers amidst his beloved bears, it became horrifyingly clear that Tim had pushed his luck one season a little too far. To the grizzlies, he was no longer a curious intruder. He was a human-shaped steak. And that [music] steak started looking dangerously appetizing when the salmon run that year was poor, leaving the bears without the fat reserves they needed for hibernation. While grizzly bears don't generally dine on humans, survival has a way of tossing [music] diet plans out the window. That year, there was one bear that Tim had filmed on several occasions. He noticed it was unusually grumpy. Its body mass index not ideal for the long winter sleep. [music] It was already early fall and it was still scrging for food. So, the bear solved the not enough fat on my body problem by having filet the American. Two hefty portions, Tim and his girlfriend Amy."
+    },
+    {
+      "id": 232,
+      "debut": 9951.6,
+      "fin": 10016.8,
+      "temps_estime": false,
+      "titre": "The recorded death of Timothy Treadwell",
+      "resume": "Treadwell's camera recorded the attack, a six-minute tape on which he screams for about two thirds of it. Grizzlies bite with over 1,100 PSI, usually at the face or skull, and as opportunistic omnivores they kill inefficiently so death can be slow; Amy tells him to play dead and the bear returns.",
+      "mots_cles": [
+        "Treadwell audio tape",
+        "grizzly bite force 1,100 PSI",
+        "bear attack",
+        "slow death",
+        "play dead",
+        "opportunistic omnivore",
+        "painful death"
+      ],
+      "texte": "Okay, so how do we know the death was one of the most painful in history? [music] Well, Tim, the ever dedicated documentarian, left his camera gear on and recorded the whole grizzly thing. [music] Tim's voice can be heard as the bear begins its vicious attack. Bears often go for the head, but because they're an opportunistic type of omnivore, unlike other natural-born killers in the wild, their killing technique is not always very efficient, so death can be slow and incredibly grueling. Grizzlies wield a bite force of over 1,100 PSI, and they usually aim it straight at the face or the skull. If that doesn't finish you off, their claws certainly will, which really sucks when you're still conscious. At one point, Amy can be heard telling Tim to play dead. Well, Amy, that's easier said than done when your face is being chewed off by a giant beast. But Tim does play dead, and for a minute, it seems like the attack stops, only for the bear to return for part two of the murder. The tape is 6 minutes long and Tim screams for about 2/3 of it. This was definitely an extremely unpleasant way to die. Not one that we'd imagine you would choose on this list if you had the option."
+    },
+    {
+      "id": 233,
+      "debut": 10016.8,
+      "fin": 10125.76,
+      "temps_estime": false,
+      "titre": "Dozsa Gyorgy and the glowing iron throne, 1514",
+      "resume": "In July 1514 Gyorgy Dozsa, the Transylvanian Braveheart, who led a violent peasant rebellion against nobles, was executed as a mock king. He was seated on a red-hot iron throne, crowned and given a scepter heated the same way, and his surviving rebels were forced to eat his body, called the most violent execution in history.",
+      "mots_cles": [
+        "Gyorgy Dozsa",
+        "Transylvania",
+        "peasant rebellion 1514",
+        "iron throne",
+        "hot crown",
+        "mock king execution",
+        "most violent execution"
+      ],
+      "texte": "Let's now return to hardcore human ingenuity. Fit for a king. Anyone who dares lead the rabble against the nobility can expect to be made a gruesome example of. That's precisely what happened to Yur Doa, aka the Transian Braveheart, in July 1514. DOA had played a starring role in a very violent rebellion in which he impaled nobles on long spikes or crucified them. And now they wanted payback, an execution more extreme than anyone could imagine. It was [music] decided that since he had led those peasants like he was a king, he should be killed like a king. After routine rounds of torture to get him to confess and snitch, they dragged his swollen and bloody body outside for the public to see. The next day, as a horrified crowd gathered, the authorities prepared their gruesome spectacle. They heated an iron throne over a roaring fire until it glowed a searing bright red. Then they hurled his naked body into the seat as Pipers played a merry tune in the background. But DOA's punishment wasn't over. He still needed a [music] crown. It had been heating in the fire, and once it glowed a menacing red, it was pulled out with tongs and pressed onto his head. But a king needed a scepter, and the authorities had prepared one just for him. Heated to the same fiery intensity. As Doa sat slumped over, they hacked his brother to death with a sword. And then came the Pest [music] Resistance. With swords pressed against their necks, DOA's former rebels were given a grotesque command. Eat from their leader charred body. After all, the rebels had always talked about the need to share. So now it was time to share their leader. If they ate, said the magistrates, they would be spared. Three of them chowed down on the flesh as the crowd cried out in horror, and those who refused to partake were cut down with swords. The event has been called the most violent execution in history. But as you might have guessed, we think we"
+    },
+    {
+      "id": 234,
+      "debut": 10125.76,
+      "fin": 10183.76,
+      "temps_estime": false,
+      "titre": "Lingchi: death by a thousand cuts in China",
+      "resume": "Lingchi, slow slicing or death by a thousand cuts, was a Chinese method of execution from the 10th century until its abolition in 1905. Pieces were cut from a tied victim, sometimes for hours or days, ending with a stab to the heart, though a bribed or merciful executioner might cut the throat.",
+      "mots_cles": [
+        "lingchi",
+        "death by a thousand cuts",
+        "slow slicing",
+        "China execution",
+        "abolished 1905",
+        "executioner",
+        "10th century"
+      ],
+      "texte": "can beat it. Let's move to China, where the authorities were experts at making executions last a very long time. The slow slicing of Chun Huan, Lingchi, sometimes referred to as death by a thousand cuts, was a go-to method of execution in China from the 10th century up until early 1905 when it was abolished. And that's a lot of years where there were a lot of executions, sometimes mass executions, [music] in which men were tied to a stake and slowly had pieces torn from their body. Exactly how many pieces could be shorn before death is uncertain. The records show the man might have died quickly, but some cases state the victim might have been sliced for hours or even days. The executioner would usually start with the arms, the legs, and chest, possibly taken off a full limb, and finish with a stab to the heart. However, a more merciful executioner, or one who had been bribed, might choose to end the suffering with a swift slice to the throat. It all depends on how much the authorities thought the person needed to suffer. It seems the process was slow"
+    },
+    {
+      "id": 235,
+      "debut": 10183.76,
+      "fin": 10234.72,
+      "temps_estime": false,
+      "titre": "General Yuan Chonghuan's slicing, 1630",
+      "resume": "Ming general Yuan Chonghuan was accused of treason in September 1630 after failing to stop the Jurchen army at Shanhai Pass, despite protecting Beijing. His execution lasted half a day with flesh and body parts cut away, and an outraged public afterwards cooked what remained for dinner.",
+      "mots_cles": [
+        "Yuan Chonghuan",
+        "Ming dynasty",
+        "1630",
+        "Shanhai Pass",
+        "slow slicing",
+        "treason accusation",
+        "Great Wall",
+        "execution"
+      ],
+      "texte": "for the Ming dynasty era military general Yuan Chong Huan. His [music] case stands out because the cutting lasted half a day. September 1630 was not a good time for Chong Huan. He had faced the Zerchin army at the Shanghai Pass on the east side of the Great Wall and failed to keep them at bay. To make matters worse, he was accused of being a traitor. Despite successfully preventing the invasion from reaching the walls of Beijing, rumors started to swirl that Chong Huan had secretly collaborated with the enemy. On the fateful day, the executioner deliberately kept him alive for as long as possible, using a sharp knife to hack off his flesh and remove various body parts. [music] After half a day, Shong Huan succumbed to his injuries. He might have been innocent, but that didn't stop the outraged public from taking what was left of him and cooking it later that evening for dinner. It could have been worse. Lei in"
+    },
+    {
+      "id": 236,
+      "debut": 10234.72,
+      "fin": 10297.28,
+      "temps_estime": false,
+      "titre": "The five punishments of ancient China",
+      "resume": "The five punishments changed over the centuries: tattooing the head, cutting off the nose, amputation of feet or kneecap, emasculation, and death. The death penalty could involve limbs ripped off by chariots, beheading, sawing in half or slow slicing.",
+      "mots_cles": [
+        "five punishments",
+        "ancient China",
+        "tattooing",
+        "nose cutting",
+        "amputation",
+        "emasculation",
+        "sawing in half",
+        "chariot tearing"
+      ],
+      "texte": "the five punishments. Slow slicing was part of the five punishments in China. [music] These changed over the centuries, but generally speaking, one of them, the lightest one, was like branding in the west. But in China, they tattooed your head. This was a mark of shame a person would bear until the day he died. The second one was worse. That was when they chopped off your nose. The mark of shame and possibly an infection you wouldn't easily recover from. Then things got really bleak. Number three was amputation, which could have been one of your feet or both or even the removal of the kneecap. Survival was possible, but losing your feet in centuries past was never a good thing. Number four was emasculation, meaning manhood being lpped off, which would usually end with a job as a unic in the imperial palace. But number five was certain death and usually a prolonged drawn out affair. Throughout Chinese history, it could have consisted of being tied to chariots by the limbs and having them ripped off. There was also beheading, sawing in half, and slow slicing. In the year 208, the Qin"
+    },
+    {
+      "id": 237,
+      "debut": 10297.28,
+      "fin": 10336.16,
+      "temps_estime": false,
+      "titre": "Li Si sawn in half, 208 BC",
+      "resume": "Qin dynasty politician Li Si, accused of betrayal after his emperor's death, was subjected to all five punishments, ending with being sawn in half in a market square. His recorded last words to his son were a wish to take their brown dog out the eastern gate to chase a hare.",
+      "mots_cles": [
+        "Li Si",
+        "Qin dynasty",
+        "sawn in half",
+        "208 BC",
+        "five punishments",
+        "last words",
+        "market square"
+      ],
+      "texte": "dynasty politician Li was subjected to all five of them. Accused of betrayal following the death of his emperor, Lii and his family were condemned to the harshest penalties of the era. He was subsequently subjected to all the five punishments, ending with [music] him being dragged out into the market square to be literally sawn in half. How long it lasted wasn't recorded, although as the saw cut through his body, he managed to whisper some last words in his [music] son's ear. We're not sure how he managed this with a saw cutting through his waist. But the records state he said, \"I wish that you and I could take our brown dog and go out through the eastern gate of Shanghai to chase the crafty [music] hair.\" But how could we"
+    },
+    {
+      "id": 238,
+      "debut": 10336.16,
+      "fin": 10441.28,
+      "temps_estime": false,
+      "titre": "Sultan Ismail and the sawing of Melik, 1705",
+      "resume": "In 1705 Moroccan Sultan Ismail ordered governor Melik, who joined a rebellion and had a cousin of the sultan killed, to be sawn in half starting at the head. A crowd of 4,000 watched, but when one of the victim's accusers objected that death would come too fast, the saw was restarted from between the legs, while 300 conspirators were impaled and 20 leaders had limbs sawn off.",
+      "mots_cles": [
+        "Sultan Ismail",
+        "Morocco 1705",
+        "Melik",
+        "sawing execution",
+        "impaled conspirators",
+        "rebellion",
+        "chief carpenter"
+      ],
+      "texte": "do that? Being saw in half was near the top of the list of ways you really wouldn't want to die. But imagine even with the sawing there was the good, the bad, and the ugly. And that's where the Moroccan Sultan Ismael [music] Ib Sharif comes in. Alas, poor Melik. The year was 1705, and a governor named Melik had been found [music] guilty of joining a rebellion against the Sultan. A revolt led by one of the Sultan's own sons. Melik hadn't just tried to overthrow his ruler. He had seen to it personally that one of the Sultaness's cousins had lost his head. This cousin was Ali Bukasra and his family wanted revenge. It was another one of those situations in history when a man had to be made an example of the sultan went to see his chief carpenter and asked if he had a saw that was sharp enough to cut through a man's body. The carpenter said, \"Yeah, sure. No problem. But how do you want to do it?\" The sultan pondered that question for a while and he said, \"Start with a head and saw down.\" On the day of the execution, a crowd of 4,000 gathered in the town square, including many of Mle's own relatives. All eyes were on the mule as it approached, carrying Mlec strapped tightly to an iron chair. For a man who was about to be sewn in half, Mle was playing it cool, puffing away at his tobacco pipe like he didn't have a care in the world. They ripped off his clothes and threw them into the fire, at which point [music] he was strapped down onto a wooden board. They started trying to saw his head. When one of the Bukasra boys shouted, \"Stop!\" it was going to be over way too quickly. He pointed between MC's legs and he told the carpenter to start again. As for Molec's co-conspirators, they were let off easy. 300 of them were impaled on spikes while 20 lead conspirators had their arms and legs saw off. They were left to bleed to death in the marketplace as a warning to anyone else with rebellious ideas. Let's"
+    },
+    {
+      "id": 239,
+      "debut": 10441.28,
+      "fin": 10508.24,
+      "temps_estime": false,
+      "titre": "Iron Mike: the insurance plot and free drinks",
+      "resume": "In 1933 Michael Malloy, a homeless drunk in New York, became the target of five men who took out life insurance on him and planned to collect when he died. They lured him with free booze at a speakeasy owned by Tony, but Mike kept drinking all day and seemed to look better.",
+      "mots_cles": [
+        "Iron Mike Malloy",
+        "1933 New York",
+        "life insurance scheme",
+        "speakeasy",
+        "free drinks",
+        "homeless drunk",
+        "murder plot"
+      ],
+      "texte": "lighten things up with some darkly humorous prolonged agony. Iron Mike. The year was 1933, and Michael Mallaloy was a homeless drunk wandering the streets of New York City. Little did he know that five of his so-called friends had made a deal with a life insurer that if he died, they could all collect some money. All they needed to do was to ensure he died, preferably in an accident or from natural causes, which they [music] soon found out was easier said than done. Their initial murder attempt wasn't too painful for Mike. They simply pied him with free booze at the speak easy, where the owner, Tony, was in on the plan. Mike was promised a free tab with a condition. All he had to do was sign a petition to help Tony get elected for office. Mike either couldn't read or he was too drunk to see the words. He'd actually signed three insurance policies taken out on his life. Boy oh boy was he enjoying those free drinks. Mike drank from morning until night every single day, draining the bar and Tony's wallet. Mike could drink. He was unstoppable. If anything, all that drinking appeared to agree with him. Rather than looking worse for wear, Mike started to look better. So, the"
+    },
+    {
+      "id": 240,
+      "debut": 10508.24,
+      "fin": 10626.64,
+      "temps_estime": false,
+      "titre": "Iron Mike: antifreeze, freezing, a taxi and coal gas",
+      "resume": "When drinks spiked with antifreeze, turpentine, linseed oil and rat poison failed, the group left Mike in the snow after dousing him with water, then ran him over with a taxi at about 45 mph. He survived both, but on February 22 they filled his lungs with coal gas through a hose and he died; the men were executed in the electric chair in 1934.",
+      "mots_cles": [
+        "Iron Mike",
+        "antifreeze poisoning",
+        "ethylene glycol",
+        "frozen in snow",
+        "taxi hit",
+        "coal gas",
+        "electric chair 1934",
+        "failed murder attempts"
+      ],
+      "texte": "group went to the backup plan. They started spiking his drinks with antifreeze, thinking it would poison him. In most cases, it would. Just 5 flu ounces of ethylene, glycol, and antifreeze [music] can be fatal if ingested or at least do some serious damage to a person. But not Mike. Mike was all right. probably because the ethanol in the alcoholic drinks that he was gladly knocking back all day was blocking the absorption of the ethylene glycol in his liver. The group was in a hurry, so they started buying him more drinks spiked with tarpentine, linam oil, and when all that failed, rat poison. But Mike kept on drinking. After more failed attempts, they decided to go back to the basics. They would freeze him. So one very cold night in winter, they got him wasted as usual. And [music] when the bar closed down, they dragged him outside and dumped his barely conscious body in the snow. For good measure, they poured about five gallons of water on him from his head to his toes and then left [music] him to freeze to death. He lay there for a while and was discovered by the police and taken to a homeless shelter. Now even more desperate, [music] the group decided the only way was violence, but it still had to look like an accident. They borrowed a taxi and they waited until they saw Mike walking across the street. [music] And at about 45 miles per hour, they plowed straight into his body, a forceful enough impact to kill anyone. Mike was close to death. He had poison in his body, and now many of his bones were broken. But after 3 weeks in a hospital bed, he made a full recovery. Beaten and broken, he soon was back at the bar drinking. On February 22nd, his friends got Mike wasted again. Once he passed out, they took him up to one of the men's [music] rooms and there they stuck a hose in his mouth and they filled his lungs with coal gas. Finally, Mike died and the group collected their insurance money. The wealth didn't last long. After rumors surfaced about Iron Mike, his body was exumed and it was revealed in an autopsy what these [music] men had done to him. They were all executed in the electric chair in 1934. Now for the strangest death on the"
+    },
+    {
+      "id": 241,
+      "debut": 10626.64,
+      "fin": 10659.68,
+      "temps_estime": false,
+      "titre": "Crassus and the legend of molten gold",
+      "resume": "The legend says Marcus Licinius Crassus, one of Rome's richest men, was executed with molten gold poured down his throat after losing to the Parthians. The narrator says that would have killed him very quickly and a smaller amount of metal would cause more pain.",
+      "mots_cles": [
+        "Crassus",
+        "molten gold",
+        "Parthians",
+        "execution legend",
+        "molten lead",
+        "Rome",
+        "wealthiest man"
+      ],
+      "texte": "list, a drink of molten lead. You probably have heard of the ancient execution method where molten gold or lead was poured down a [music] person's throat. A cruel and symbolic punishment. Legend has it that Marcus Lascinius Craus, [music] one of the wealthiest men in Rome, met this gruesome end. After losing a battle to the Parththeians, they chose to execute him in a manner fitting [music] his infamous obsession with gold. It sounds horrible, but the truth is Craas would have died very quickly. If they wanted to cause the utmost pain, they should have used a smaller amount to burn his insides. In 1755 in England, a"
+    },
+    {
+      "id": 242,
+      "debut": 10659.68,
+      "fin": 10754.0,
+      "temps_estime": false,
+      "titre": "Henry Hall swallows molten lead, 1755",
+      "resume": "In 1755 94-year-old Henry Hall was fighting a fire at the Eddystone Lighthouse when molten lead from the roof fell into his open mouth. He kept fighting the fire, but a Plymouth doctor dismissed his claim that he had swallowed lead as the ramblings of old age despite his excruciating pain.",
+      "mots_cles": [
+        "Henry Hall",
+        "Eddystone Lighthouse",
+        "molten lead",
+        "1755",
+        "lighthouse fire",
+        "Royal Society",
+        "swallowed lead",
+        "94 years old"
+      ],
+      "texte": "94 year old man named Henry Hall became proof that indeed smaller amounts of ingested heated metals cause much more suffering. He was working at the Eddie Stone Lighthouse when a spark from a lamp set the roof on fire. It was 2:00 a.m. on a cold December morning, so he did what he thought was best [music] and he started throwing water at the flames. Thankfully, someone else saw the fire and soon people were helping put out the flames. The obvious danger here was bits of burned roof falling onto the men's heads as they threw buckets of water above them. [music] Henry was doing that when he looked up to survey the damage and drops of molten lead fell right onto his face, neck, and shoulders. Unfortunately, his mouth [music] was wide open, allowing the superheated lead to travel down his throat and into his digestive system. But old Henry, who was tough [music] as old boots, kept on fighting the fire, the one above him, not inside of him. The next morning, the men were picked up by a boat, and Henry was not looking so good. He was taken to see a doctor in Plymouth, where he explained [music] in a very horse voice that he had swallowed a lump of molten lead, and it must have traveled all the way to his stomach. The doctor was skeptical, telling Henry he'd already be dead if that had happened, but Henry kept saying it was true. He said the pain was excruciating. The doctor wasn't convinced. He chocked up Henry's wild claim to the ramblings of old age and then sent [music] a report back to the Royal Society in London. In his note, he mentioned the accident and he marveled at Henry's strength for a man of 94. Still, he dismissed the idea that Henry's extreme agony could possibly have anything to do with swallowing hot lead. Henry wasn't lying. The lead had"
+    },
+    {
+      "id": 243,
+      "debut": 10754.0,
+      "fin": 10799.2,
+      "temps_estime": false,
+      "titre": "Henry Hall's death and the autopsy",
+      "resume": "Henry Hall's pain worsened for days and he died of violent spasms on December 6. An autopsy found a lump of lead over 7 ounces in his stomach, and the Royal Society in London tested the story by pouring molten lead down the throats of dogs and chickens.",
+      "mots_cles": [
+        "Henry Hall autopsy",
+        "lead in stomach",
+        "7 ounces",
+        "Royal Society",
+        "dogs and chickens experiment",
+        "death December 6",
+        "spasms"
+      ],
+      "texte": "torn through him. For the next few days, he lay in bed, sweat dripping from his head, the pain becoming more and more unbearable. He seemed to improve for a while, but then he was seized by violent spasms, and he died on December 6th. The same doctor, now a little more interested in the lead theory, conducted an autopsy. He found the lead inside of Henry's stomach. It weighed over 7 o, slightly more than a pool ball. For the medical fraternity back in London, the whole thing sounded unbelievable. They didn't think Henry would have survived as long as he did, and certainly wouldn't have been talking and moving around with his insides burned out. So, as you would, they practiced pouring molten lead down the throats of dogs and chickens to see what would happen. What they learned was that Mr. Henry Hall was indeed one tough old boot. Okay, so we"
+    },
+    {
+      "id": 244,
+      "debut": 10799.2,
+      "fin": 10852.24,
+      "temps_estime": false,
+      "titre": "Damiens' attempted assassination of Louis XV",
+      "resume": "On January 5, 1757 servant Robert-Francois Damiens stabbed King Louis XV at Versailles, but the knife penetrated only about 1 cm through thick winter clothing. The king made a deathbed confession, yet because it was attempted regicide, the worst crime, Damiens was sentenced to a brutal execution.",
+      "mots_cles": [
+        "Damiens",
+        "Louis XV",
+        "Versailles 1757",
+        "regicide attempt",
+        "knife",
+        "deathbed confession",
+        "execution sentence"
+      ],
+      "texte": "promised we'd tell you about an execution in France that was said to have been the most brutal execution ever in Europe. Even worse than what happened to Gerard and DOA sauté lean jumping the shark. On January 5th, 1757, King Louis X 15th was just about to step into his carriage near the steps of the palace of Versailles. Robert Francois Damian, a domestic servant, rushed up to him and plunged a small knife into his chest. The king didn't know it, but the knife had barely made it through his winter clothes. Still, there was quite a lot of blood, so the king called for a priest. He made a deathbed confession and told his wife about all the women that he cheated on her with. It soon transpired that underneath all those thick winter garments he was wearing, the knife had only penetrated about 1 cm of flesh. But this being an attempted regicide, the worst crime there was, Domian had to be subjected to a very ugly execution."
+    },
+    {
+      "id": 245,
+      "debut": 10852.24,
+      "fin": 10931.28,
+      "temps_estime": false,
+      "titre": "The botched quartering of Damiens",
+      "resume": "Damiens was paraded in Paris, then on the Place de Greve tied to four horses to be quartered, but the horses could not tear his body apart even after two more were added. The crowd whispered the authorities had gone too far, and the ordeal reportedly lasted about four hours.",
+      "mots_cles": [
+        "Damiens execution",
+        "quartering",
+        "horses",
+        "Place de Greve",
+        "botched execution",
+        "Paris",
+        "four hours",
+        "Sanson"
+      ],
+      "texte": "First they wheeled Rober Francois Domian through the streets of Paris tied to a cart. The procession stopped at the main gate of the church of Paris where he stood naked clutching a burning wax torch in his hands. After repenting before the crowd, he was taken to the plaz a royal execution ground. Dragged onto a scaffold in full view of the jeering crowd, Domianne faced the executioner, Sha Enri, a relatively new recruit with orders to ensure the punishment was as agonizing as possible. The sentence decreed that the next part was Domian's arms and legs being tied to four horses. When the horses were whipped, it was hoped that Domian would be torn apart, what was known as being quartered. But this was a [music] botch job of the highest order. The horses tried but Domianne still screaming remained in one piece. Two more horses were added to increase the power but still [music] Domian's body remained intact. He was in agony screaming pleading with them to finish him. The crowd [music] usually desensitized to such bloody spectacles started whispering that the authorities had jumped the shark. This kind of thing didn't belong in a civilized country. >> [music] >> It appears Domianne was still breathing and it's believed he might have then uttered the words, \"Oh death, why art thou so long and coming.\" The entire [music] ordeal lasted about 4 hours. Could anything be worse than that?"
+    },
+    {
+      "id": 246,
+      "debut": 10931.28,
+      "fin": 11009.2,
+      "temps_estime": false,
+      "titre": "Chernobyl: firefighters and acute radiation poisoning",
+      "resume": "After reactor number four exploded on April 26, 1986, firefighters including Vasily Ignatenko fought the fire unaware of the radiation. They vomited, were secretly taken to hospital number six in Moscow, and went through the latency period of radiation poisoning looking fine while his wife Lyudmila learned his death would be inevitable.",
+      "mots_cles": [
+        "Chernobyl",
+        "Vasily Ignatenko",
+        "acute radiation syndrome",
+        "latency period",
+        "hospital number six Moscow",
+        "firefighters",
+        "Pripyat",
+        "reactor number four"
+      ],
+      "texte": "Nightmare in Chernobyl. Dying slowly from radiation poisoning is without a doubt one of the worst ways to go. The wife of firefighter Vasilei Ignatenko saw this with her own eyes after the disaster at the Chernobyl nuclear power plant outside the town of Pripyat in northern Ukraine when reactor number four blew up on April 26th, 1986. Local firefighters, including Ignatenko, turned up in the early hours of the morning to try to get the fires under control. They knew very little about what had happened and they weren't aware of the dangers of getting so close to radiation. That soon changed when their faces turned pale and they began to vomit. This was just the beginning of the symptoms of acute radiation poisoning. The men were later secretly whisked off to hospital number six in Moscow where they and the worst hit engineers from the plant were being treated. One of the strangest things about radiation poisoning is the latency period. After all the vomiting, the men, while suffering from burns, sat around smoking and playing cards. They looked okay. On May 1st, Vasilei's wife, Ludma, finally located the hospital where he'd been taken. A doctor explained that although Vasilei might appear fine for now, without a bone marrow transplant, his condition was certain to deteriorate, and his death would be both inevitable and excruciating. By that point, the latency period was already coming to an end, and [music] the next part was horrific. Still, that day, she"
+    },
+    {
+      "id": 247,
+      "debut": 11009.2,
+      "fin": 11096.72,
+      "temps_estime": false,
+      "titre": "Vasily Ignatenko's death from radiation",
+      "resume": "Despite a bone marrow transplant from his sister, Ignatenko's skin cracked, his body swelled, his lungs failed and drugs did not ease the pain; other firemen suffered ulcers, blisters and skin falling off in bedsheets. He died on May 13 and was buried in a zinc-sealed coffin because his body was too swollen for his uniform.",
+      "mots_cles": [
+        "Ignatenko death",
+        "bone marrow transplant",
+        "radiation burns",
+        "zinc coffin",
+        "Ludmilla",
+        "May 13 1986",
+        "radiation sickness symptoms"
+      ],
+      "texte": "and Vasilei went up to the eighth floor, and they watched the Mayday fireworks together. He even bought her flowers, but that was as good as it got. Vasilei had a marrow transplant from his sister, but it didn't stop the march of killer radiation through his body. Luna sat at Vasilei's bedside, wetting his lips as his skin started changing color in front of her. His body became distended. His hair started falling out. And gradually, as the radiation ate away at his lungs, he struggled to [music] breathe. Then the skin on his arm started cracking. His legs swelled up and turned blue. He was in extreme pain, and the drugs the nurses gave him didn't work. By May 4th, he was a mess. He could talk but not stand. He knew he was dying. Other firemen in the ward were in a similar position. Herpes simplex was raging in their mouths causing blisters. [music] Their gums were raw from yeast infections. Their bodies were covered in ulcers. Their skin went from turning red to [music] purple and finally a brown black color which fell off in their bed sheets. Inside their bodies, the radiation was wreaking havoc, corroding their intestines and obliterating their lungs. In one room, a man convulsed violently in his bed. His [music] fit so severe that nurses were forced to pin him down. Threearters of the men who got bone marrow transplants died. [music] Vasilei died on May 13th. His body was too swollen to wear his uniform for his burial. The authorities wrapped two plastic bags around him, put him in a wooden coffin, and placed the coffin inside a zinc box. Now for a painful way"
+    },
+    {
+      "id": 248,
+      "debut": 11096.72,
+      "fin": 11154.32,
+      "temps_estime": false,
+      "titre": "Laughter in the dark: the death of Martin of Aragon",
+      "resume": "According to the story, King Martin of Aragon, full of goose and suffering indigestion, died in 1410 after his jester Borra made him laugh uncontrollably. Death by laughter can come from asphyxiation, heart attack or laughter-induced syncope, less painful than other deaths on the list.",
+      "mots_cles": [
+        "Martin of Aragon",
+        "death by laughter",
+        "jester",
+        "1410",
+        "laughter-induced syncope",
+        "asphyxiation",
+        "heart attack"
+      ],
+      "texte": "to die that also has a silver lining. Laughter in the dark. On May 31st, 1410, 53-year-old Martin of Aragon, king of Sicily, was resting in his bedroom at a monastery just outside the walls of Barcelona. The portly monarch had indulged in a lavish meal, polishing off an entire goose, and he was feeling particularly full when his jester, Bora, casually strolled into the room. The king asked Bora where he had been. Martin was complaining about his terrible indigestion, but Bora cracked a ridiculous joke [music] that sent the king into a fit of laughter. He laughed so hard he couldn't stop. And if the story is true, the laughter ended up killing him. Death induced laughter is a thing and it can be very unpleasant. The cause of death could be asphixxiation or heart attack and it might cause deadly fainting. Laughter induced syncopy. Sure, it's not as painful as swallowing lead or having your flesh ripped off with a pair of hot tongs, but it's got to hurt being stabbed in the back by the thing you love the most. Congrats on the"
     }
   ]
 }

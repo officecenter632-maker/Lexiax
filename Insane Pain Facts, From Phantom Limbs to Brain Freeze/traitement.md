@@ -30,3 +30,10 @@ Reprise à la ligne 3893 (travail d'un agent précédent vérifié : 185 segment
 
 ## Point d'arrêt (mis à jour)
 Dernière ligne traitée : 4818 (fin 9216,16 s). Prochaine étape : tranche 6, à partir de la ligne 4819 (« arachnoiditis. Think about the worst back pain you've ever had… »), id 222.
+
+Reprise à la ligne 4819 (travail d'agents précédents vérifié : 221 segments, lignes 1 à 4818, OK ; non modifié).
+
+- Tranche 6 : lignes 4819 à 5737 (9216,16 à 11154,32 s, ≈ 32,3 min), 27 segments (id 222 à 248). Contenu : fin du top 10 des conditions douloureuses (n° 5 à 1 : arachnoïdite, cancer du pancréas, SDRC, algie vasculaire, névralgie du trijumeau), puis épisode sur les morts les plus douloureuses de l'histoire (Balthasar Gérard, Treadwell et les grizzlis, Dózsa, lingchi, Yuan Chonghuan, les cinq châtiments chinois, Li Si, Ismaïl et Melik, Iron Mike, plomb fondu de Crassus et Henry Hall, Damiens, Tchernobyl, Martin d'Aragon). Aucune coupure estimée. Style : un segment par récit ou par item de liste ; titres « Number N: … » pour les listes. Les fragments de titres de liste coupés à cheval sur deux lignes (« Number one, trigeminal / neuralgia ») restent dans le segment de la ligne.
+
+## Point d'arrêt (mis à jour)
+Dernière ligne traitée : 5737 (fin 11154,32 s, fin du segment sur la mort de Martin d'Aragon). Prochaine étape : tranche 7, à partir de la ligne 5738 (« epic face plant you just took off your skateboard… », début du top 10 des blessures), id 249.
