@@ -4,12 +4,12 @@
   "titre_video": "Insane Pain Facts, From Phantom Limbs to Brain Freeze",
   "duree_s": 13672.56,
   "avancement": {
-    "lignes_traitees": 6624,
-    "fin_traitee_s": 13021.76,
+    "lignes_traitees": 6947,
+    "fin_traitee_s": 13672.56,
     "nb_lignes_total": 6947,
-    "complet": false
+    "complet": true
   },
-  "nb_segments": 291,
+  "nb_segments": 310,
   "segments": [
     {
       "id": 1,
@@ -5248,6 +5248,343 @@
         "urinary tract infections"
       ],
       "texte": "mine in there. Number 19. Not exactly a treasure chest. Did you know there are four types of kidney stones? Calcium stones are the most common. hard stones that form after a buildup of too much calcium. They make over 80% of kidney stones, but the other three are rarer and tend to have other causes. Stuvite stones, which are the largest, form after repeated urinary tract infections. Uric acid stones form when the urine is too acidic and leaves mineral deposits behind, while rare cyine stones are usually the result of a genetic disorder. And when they're passed, they can be just about any shape or [music] size. But is what they say about them"
+    },
+    {
+      "id": 292,
+      "debut": 13021.76,
+      "fin": 13062.64,
+      "temps_estime": false,
+      "titre": "Number 18: are kidney stones more painful than childbirth?",
+      "resume": "Kidney stones can get terrifyingly big, from the size of a pea to a golf ball, and the largest ever passed per the Guinness Book of World Records is over 5 inches long. Stones that size cannot pass naturally, so the biggest are removed by surgery or broken up with ultrasonic therapy.",
+      "mots_cles": [
+        "kidney stones vs childbirth",
+        "largest kidney stone",
+        "Guinness World Records",
+        "golf ball size",
+        "ultrasonic therapy",
+        "surgery",
+        "stone removal"
+      ],
+      "texte": "really true? Number 18, more painful than child birth. Ask any woman if a kidney stone is more painful than child birth, and she's likely to laugh. But the reality could be different because kidney stones can get terrifyingly big. While many are smaller, they can be as big as a pee or even as large as a golf ball. The largest ever passed, according to the Guinness Book of World Records, is over 5 in long. Stones of this size would be impossible to pass naturally. And we bet most people are cringing just thinking about it. The biggest stones are usually removed with surgery [music] or by using ultrasonic therapy to break them up so they can be safely passed. And as for how they form, mom was right"
+    },
+    {
+      "id": 293,
+      "debut": 13062.64,
+      "fin": 13092.08,
+      "temps_estime": false,
+      "titre": "Number 17: diet and drinking water to prevent kidney stones",
+      "resume": "High salt and animal protein foods can lead to kidney stones, while calcium itself is not the worry because salt keeps calcium from being absorbed. Lack of hydration is a factor in as many as half of kidney stones, so keep drinking water and watch for urine darker than pale yellow.",
+      "mots_cles": [
+        "kidney stone prevention",
+        "dehydration",
+        "high salt diet",
+        "animal protein",
+        "drink water",
+        "calcium",
+        "pale yellow urine"
+      ],
+      "texte": "again. Number 17, drink up. Certain foods can lead to the forming of kidney stones, such as high salt and animal protein foods. [music] But you don't need to worry about calcium. Salt keeps calcium from being absorbed and so high salt foods should be avoided. But while changing your diet can help, there is a [music] much better way to fend off kidney stones. Mom always said keep drinking water and she turned out to be right. Lack of hydration is a factor in as many as half of [music] kidney stones. And if you're peeing anything more than pale yellow, watch out. But"
+    },
+    {
+      "id": 294,
+      "debut": 13092.08,
+      "fin": 13128.96,
+      "temps_estime": false,
+      "titre": "Number 16: how common kidney stones are",
+      "resume": "Unlike many rare painful conditions caused by bad genetics, as many as 12 percent of Americans will develop a kidney stone, and the number is likely to rise with high-salt fast food. Urologists are developing technology to break stones up, but keeping up water intake remains the advice.",
+      "mots_cles": [
+        "kidney stones 12 percent",
+        "prevalence",
+        "high salt fast food",
+        "urologists",
+        "stone treatment",
+        "hydration"
+      ],
+      "texte": "unlike past disorders, this one is not rare. Number 16. So many painful peas. While many of the most painful conditions are rare occurrences that come down to bad genetics, it's not the case for kidney stones. It's estimated that as many as 12% of Americans will develop a kidney [music] stone in their life. And that's likely to only go up as high salt fast foods become more and more popular. Fortunately, this means that there are always urologists ready to make money by treating kidney stones and developing new and improved technology to break them up. But seriously, just keep drinking water. Ask anyone who's had kidney stones. There's no faster way to ruin a good time. This"
+    },
+    {
+      "id": 295,
+      "debut": 13128.96,
+      "fin": 13172.24,
+      "temps_estime": false,
+      "titre": "Number 15: what is trigeminal neuralgia?",
+      "resume": "Trigeminal neuralgia repeats toothache-like pain on a recurring basis with no rhyme or reason, triggered by simple acts like shaving, eating or brushing teeth. Sufferers describe immediate intense nerve pain in the jaw and face as equal to a root canal with no anesthesia.",
+      "mots_cles": [
+        "trigeminal neuralgia",
+        "toothache",
+        "facial nerve pain",
+        "root canal without anesthesia",
+        "triggers",
+        "jaw pain",
+        "recurring pain"
+      ],
+      "texte": "next disorder can show up in an unexpected place and completely derail a person's life. Number 15. What is trigeminal neuralgia? It's been said that a toothache is one of the worst pains imaginable, except that fortunately is usually easily resolved. The dentist numbs the area and either performs a root canal or yanks that troublesome tooth right out. But trigeminal neuralgia duplicates that pain on a recurring [music] basis with seemingly no rhyme or reason. Anything can trigger it. Something as simple as shaving, eating, or brushing teeth. The result is immediate intense nerve pain in the jaw [music] and the face described by sufferers as the equivalent of getting a root canal with no anesthesia. And the cause is next to"
+    },
+    {
+      "id": 296,
+      "debut": 13172.24,
+      "fin": 13207.2,
+      "temps_estime": false,
+      "titre": "Number 14: causes of trigeminal neuralgia",
+      "resume": "The most common suspected cause is an artery compressed against the trigeminal nerve, wearing away its protective barrier and exposing it to pain stimuli. A tricky surgery can fix that, but in many cases the cause is an underlying defect in the nerve or its sheath, which cannot always be corrected.",
+      "mots_cles": [
+        "trigeminal nerve compression",
+        "artery",
+        "myelin sheath",
+        "nerve defect",
+        "microvascular decompression",
+        "cause unknown",
+        "surgery"
+      ],
+      "texte": "invisible. Number 14, one small pinch. What causes this mysterious disorder? No one is sure, but in most cases, [music] the most common cause seems to be when an artery becomes compressed against the trigeminal nerve. As the two rub against each other, the nerve's protective barrier gets worn away, exposing the nerve to painful stimuli that can cause it to go into overdrive. This can be corrected via a tricky surgery, but in many cases, this isn't the cause of neverending pain. The issue might be an underlying defect in the nerve or its sheath, [music] meaning that it can be easily corrected in all cases, and this can lead to some extreme solutions."
+    },
+    {
+      "id": 297,
+      "debut": 13207.2,
+      "fin": 13239.6,
+      "temps_estime": false,
+      "titre": "Number 13: treatments for trigeminal neuralgia",
+      "resume": "Treatment usually starts with anti-epileptic drugs that slow nerve overreaction but have many side effects. If surgery moving the artery fails, some patients have the nerve blocked or disconnected, ending the pain but sometimes causing permanent numbness in part of the jaw.",
+      "mots_cles": [
+        "trigeminal neuralgia treatment",
+        "anti-epileptic drugs",
+        "nerve block",
+        "nerve disconnection",
+        "numbness",
+        "side effects",
+        "artery surgery"
+      ],
+      "texte": "Number 13, the lesser evil. The pain of trigeminal neuralgia is so intense [music] that people are often willing to do anything to stop it, and the first solution is usually medication. Anti-epileptic drugs often help slow down the nerves overreaction, but it comes with many side effects. If surgery to move the artery away from the nerve isn't effective, some patients have even chosen to have the nerve blocked or disconnected, which removes the ability to feel pain caused by the disorder, but can also result in permanent lack of feeling in part of the jaw. The good news is you're not likely to have the"
+    },
+    {
+      "id": 298,
+      "debut": 13239.6,
+      "fin": 13276.4,
+      "temps_estime": false,
+      "titre": "Number 12: the rarity of trigeminal neuralgia",
+      "resume": "Only about 12 in 100,000 people are diagnosed with trigeminal neuralgia, making it one of the rarest disorders. Like fibromyalgia, its invisibility and rarity make diagnosis hard, and doctors may just prescribe pain medication and move on.",
+      "mots_cles": [
+        "trigeminal neuralgia rare",
+        "12 in 100,000",
+        "hard to diagnose",
+        "invisible disorder",
+        "pain medication",
+        "fibromyalgia comparison"
+      ],
+      "texte": "disorder anytime soon. Number 12, one in a million. Trigeminal neuralgia is one of the rarest disorders out there, although not as rare as that. It's estimated only 12 in 100,000 people will be diagnosed with the disorder. This means you're not likely to suffer from it, but for those who do, it can be a double-edged sword. Much like fibromyalgia, which is largely an invisible disorder, the rarity of the disorder means it can be hard to get diagnosed. And many doctors might be tempted to prescribe pain medication and get the patient out of their office so they can move on to something they understand better. But the more people are diagnosed, the more answers people are finding. Number 11, an evolving"
+    },
+    {
+      "id": 299,
+      "debut": 13276.4,
+      "fin": 13308.4,
+      "temps_estime": false,
+      "titre": "Number 11: who gets trigeminal neuralgia and what remains unknown",
+      "resume": "Trigeminal neuralgia seems to occur more in people over 50 and in women than men, but many possible causes and a nerve rooted under the skin with no visible symptoms leave it a mystery. The narrator introduces the next invisible disorder as potentially one of the deadliest.",
+      "mots_cles": [
+        "trigeminal neuralgia demographics",
+        "over 50",
+        "women",
+        "invisible disorder",
+        "unknown cause",
+        "mystery",
+        "nerve pain"
+      ],
+      "texte": "puzzle. No one likes a visit to the dentist, and that's putting it lightly. So, people who feel that level of pain intermittently will be seeking answers in a hurry. [music] So far, it's been determined that it seems to occur more in people over 50, and women are more likely to have it than men. But with so many possible causes [music] and the trouble being rooted in a nerve under the skin and not associated with any visible physical symptoms, it's likely the disorder will continue to be a mystery for years to come. Invisible disorders are the trickiest, but this next one may be one of the deadliest."
+    },
+    {
+      "id": 300,
+      "debut": 13308.4,
+      "fin": 13338.96,
+      "temps_estime": false,
+      "titre": "Number 10: cluster headaches are not migraines",
+      "resume": "Cluster headaches are worse than any ordinary headache, occurring in clusters of time usually at the same time each day, with intense bursts of head pain that make the worst migraine or brain freeze feel like nothing. They can be completely debilitating.",
+      "mots_cles": [
+        "cluster headaches",
+        "not a migraine",
+        "brain freeze",
+        "clusters of time",
+        "debilitating",
+        "head pain",
+        "daily attacks"
+      ],
+      "texte": "Number 10, not a migraine. We've all had headaches. Maybe you didn't sleep enough and tried to cover it up with too much coffee. Or maybe you woken up from a night out drinking with your friends with your head spinning. But some headaches are worse than others, and none are worse than cluster headaches. Getting that name because they tend to occur in clusters of time, usually at the same time each day. These headaches are associated with intense bursts of head pain that make the worst migraine or brain [music] freeze feel like nothing and they can be completely debilitating. Number nine, high"
+    },
+    {
+      "id": 301,
+      "debut": 13338.96,
+      "fin": 13371.2,
+      "temps_estime": false,
+      "titre": "Number 9: what a cluster headache feels like",
+      "resume": "Sufferers say cluster headaches are worse than a kidney stone or childbirth, starting suddenly with intense pain on one side of the head around the eye and lasting 15 minutes to three hours. Eye and nose symptoms occur, attacks repeat several times a day, and concentrating on work or school is near impossible.",
+      "mots_cles": [
+        "cluster headache symptoms",
+        "one-sided pain",
+        "around the eye",
+        "15 minutes to 3 hours",
+        "worse than childbirth",
+        "eye and nose symptoms",
+        "concentration"
+      ],
+      "texte": "intensity. What does a cluster headache feel like? Sufferers have said it's worse [music] than a kidney stone or child birth. Normally beginning suddenly and resulting in intense pain on one side of the head, usually grounded around the eye. It can last between 15 minutes and three hours and can be associated with other symptoms affecting the eye and the nose. These [music] cluster headaches can happen multiple times a day, which leads to it being near impossible to concentrate on work, school, or anything else you might have to do that day. And like so many other disorders, it's hard to find the cause."
+    },
+    {
+      "id": 302,
+      "debut": 13371.2,
+      "fin": 13403.28,
+      "temps_estime": false,
+      "titre": "Number 8: the hypothalamus and cluster headaches",
+      "resume": "Doctors have not found a concrete cause of cluster headaches, but brain scans during attacks showed elevated activity in the hypothalamus, which regulates several key nervous system roles. It is unclear whether this is the cause or a side effect.",
+      "mots_cles": [
+        "cluster headache cause",
+        "hypothalamus",
+        "brain scans",
+        "nervous system",
+        "unknown cause",
+        "attack brain activity"
+      ],
+      "texte": "Number eight, all in the mind. Doctors have examined the brains of cluster headache sufferers, but haven't come up with any concrete answers to what causes them. However, they did find a possible clue in one tiny gland deep in the brain. Via brain scans, they were able to examine activity in different parts of the brain during an attack and found elevated activity in the hypothalamus, which is responsible for regulating several key nervous system roles. Is this the cause of the disorder or just an unfortunate side effect? No one is sure yet, but for those suffering from the disorder, time is at a premium."
+    },
+    {
+      "id": 303,
+      "debut": 13403.28,
+      "fin": 13438.8,
+      "temps_estime": false,
+      "titre": "Number 7: stop-gap treatments, high-flow oxygen",
+      "resume": "Severe cluster headache periods can turn a high-functioning professional into a shut-in within weeks, and there are no cures, only prevention and alleviation. High-flow oxygen mid-attack shows 75 percent effectiveness in reducing severity, while standard headache medications have proven ineffective.",
+      "mots_cles": [
+        "cluster headache treatment",
+        "high-flow oxygen",
+        "75% effectiveness",
+        "prevention",
+        "headache medication ineffective",
+        "no cure"
+      ],
+      "texte": "Number seven, stop gap measures. For those dealing with cluster headaches, they're usually desperate for any answers. Bad attacks of cluster headaches can take a person from a high functioning professional to a shutin in only a few weeks. There are no concrete cures. [music] The main focus is on prevention and alleviation. The best way to stop or slow down a cluster headache mid attack [music] is through the use of high flow oxygen, which has shown 75% effectiveness in reducing their severity. Medication is also used, but standard headache relief medications have proven ineffective. But there may be hope if research is allowed to"
+    },
+    {
+      "id": 304,
+      "debut": 13438.8,
+      "fin": 13480.24,
+      "temps_estime": false,
+      "titre": "Number 6: psilocybin research for cluster headaches",
+      "resume": "Researchers at Yale and the Veterans Affairs division in Connecticut are testing psilocybin, the compound in magic mushrooms, as a cluster headache treatment, showing good results in reducing attack frequency. The mushrooms remain federally illegal for recreational use but are increasingly part of medical research, much like cannabis.",
+      "mots_cles": [
+        "psilocybin",
+        "magic mushrooms",
+        "Yale",
+        "Veterans Affairs",
+        "cluster headache research",
+        "psychedelic therapy",
+        "attack frequency"
+      ],
+      "texte": "proceed. Number six, fun guys. One of the most promising new treatments for cluster headaches comes from Connecticut, where researchers from Yale and the Veteran Affairs Division are working on treatments using the compound psilocybin, which might sound familiar. That's because it's the key compound found in magic mushrooms. psychedelic fungi, which are illegal federally for recreational use, [music] but are becoming increasingly involved in medical research in the same way cannabis has been for decades. [music] These treatments are showing some good results in reducing the frequency of the attacks. Will this become the [music] gold standard? Maybe if the government lets it, but the most painful condition out there can start with the simplest of things, a minor injury. Number five,"
+    },
+    {
+      "id": 305,
+      "debut": 13480.24,
+      "fin": 13515.2,
+      "temps_estime": false,
+      "titre": "Number 5: how complex regional pain syndrome starts",
+      "resume": "A young athlete breaks an ankle, heals and goes through rehab, but the pain does not go away, shoots up her leg at random and spreads. This is complex regional pain syndrome, intense chronic pain that starts after an injury and sends the body's pain receptors into overdrive.",
+      "mots_cles": [
+        "complex regional pain syndrome",
+        "CRPS",
+        "ankle fracture",
+        "chronic pain after injury",
+        "pain receptors",
+        "spreading pain",
+        "athlete"
+      ],
+      "texte": "just one bump. Imagine [music] a young athlete breaks her ankle in a game, gets a cast and crutches, and goes through rehab to get back to her old strength once healed. But while her bone is strong as ever after only a few months, somehow the [music] pain doesn't go away. Shooting up her leg frequently at random times, and to make it worse, it seems to [music] be spreading. This is reality for those who suffer from complex regional pain syndrome, a disorder characterized by intense chronic pain that starts after an injury, but sends the body's pain receptors into overdrive. And much like some of the previous disorders, it can completely derail a person's life."
+    },
+    {
+      "id": 306,
+      "debut": 13515.2,
+      "fin": 13546.96,
+      "temps_estime": false,
+      "titre": "Number 4: CRPS prevalence and symptoms",
+      "resume": "As many as 200,000 Americans are diagnosed with CRPS each year, usually after a sprain, fracture or stroke in the arms or legs. Symptoms include intense throbbing pain, swelling and hot skin, reduced mobility, changes in nail and hair growth and sensitivity to heat or cold.",
+      "mots_cles": [
+        "CRPS symptoms",
+        "200,000 diagnoses",
+        "swelling",
+        "hot skin",
+        "reduced mobility",
+        "nail and hair growth",
+        "stroke",
+        "sprain"
+      ],
+      "texte": "Number four, a painful mystery. CPRS is a rare disease, but it's becoming increasingly common with as many as 200,000 Americans diagnosed with it each year. It most commonly starts [music] in the arms or legs and usually starts after a sprain, fracture, or stroke. Whatever the cause, it has some common symptoms. [music] An intense throbbing pain in the affected area, swelling and hotness of the skin, and reduced mobility. [music] It can even affect nail and hair growth in the area and make a sufferer more susceptible to heat or cold near the injury. And that's where things get weird because it"
+    },
+    {
+      "id": 307,
+      "debut": 13546.96,
+      "fin": 13583.36,
+      "temps_estime": false,
+      "titre": "Number 3: CRPS pain that migrates",
+      "resume": "In about half of CRPS cases pain started in one limb and moved to another, with about half of those reporting it jumped to the opposite side of the body and about 30 percent up or down the same side. This bizarre behavior led many doctors to assume it was a mental health issue.",
+      "mots_cles": [
+        "CRPS migrating pain",
+        "spreading to other limb",
+        "opposite side of body",
+        "mental health misdiagnosis",
+        "30 percent",
+        "chronic pain"
+      ],
+      "texte": "migrates. Number three, a traveling disorder. Chronic pain is a common issue after an injury, but it can be easy to [music] assume it's simply the result of an unresolved injury in the affected area. But that doesn't make sense when it starts in one limb and then starts causing intense pain in another one. Roughly half of CRPS sufferers report that the pain started in one limb but eventually moved to another. How it migrates varies, but about half cases reported that it moved to the opposite side of the body, while about 30% said it moved up or down the same side of the body. And this bizarre behavior led to many doctors assuming it was a mental health issue. But it was anything but."
+    },
+    {
+      "id": 308,
+      "debut": 13583.36,
+      "fin": 13619.28,
+      "temps_estime": false,
+      "titre": "Number 2: CRPS and physical therapy",
+      "resume": "Many patients give up hope after doctors dismiss them because X-rays show nothing, but treatments have progressed even without a cure. Early physical therapy can alleviate many cases by boosting circulation and blood flow and reversing nervous system issues that develop when an injured body part is kept from moving.",
+      "mots_cles": [
+        "CRPS treatment",
+        "physical therapy",
+        "circulation",
+        "dismissed by doctors",
+        "early treatment",
+        "no cure",
+        "blood flow"
+      ],
+      "texte": "Number [music] two, a plan of attack. Many patients give up hope after meeting one doctor after another who dismisses their concern. After all, the X-rays aren't showing anything, and the doctor has many other patients to look at that day. But while there's no cure for CRPS right now, doctors have made a lot of progress in developing treatments. Many cases, especially those where treatment starts early, are able to be alleviated with physical therapy. [music] This works because it boosts the circulation and the blood flow in the affected area and reverses the nervous system issues that occur when an injured body part is kept from moving. But serious cases demand serious solutions."
+    },
+    {
+      "id": 309,
+      "debut": 13619.28,
+      "fin": 13660.88,
+      "temps_estime": false,
+      "titre": "Number 1: CRPS medications, opioids and nerve blocks",
+      "resume": "When physical therapy is not enough, doctors can prescribe medications from acetaminophen to addictive opioids, and CRPS may have made people more vulnerable during the opioid epidemic. Doctors now lean less on opioids and often suggest nerve blocks, injections that temporarily turn off a nerve's pain receptors.",
+      "mots_cles": [
+        "CRPS medications",
+        "opioids",
+        "opioid epidemic",
+        "nerve block",
+        "acetaminophen",
+        "pain receptors",
+        "treatment"
+      ],
+      "texte": "Number one, calling in the reinforcements. When physical therapy isn't cutting it, doctors can prescribe medications starting with over-the-counter drugs like acetaminophen, but including addictive opioids. This condition may have made many people more vulnerable during the opioid epidemic. After all, it's a condition with no clear cause and no clear [music] cure. That means if people find a medication that works, they're likely to be on it perpetually. That's why doctors have stopped leaning so heavily on these medications for treatment and now often suggest nerve blocks, [music] injections that turn off a nerve's pain receptors temporarily and give the nerve time to heal. And as for many CRPS sufferers, nothing is more important than neutralizing that pain and getting back on the sports field."
+    },
+    {
+      "id": 310,
+      "debut": 13660.88,
+      "fin": 13672.56,
+      "temps_estime": false,
+      "titre": "Outro: more videos on pain",
+      "resume": "The video closes by pointing viewers to other videos: one on the worst pain ever, one on injuries that will make you cry like a baby, and one asking why you have pain here when you run, another strange mystery of the human body.",
+      "mots_cles": [
+        "outro",
+        "worst pain ever",
+        "injuries video",
+        "why pain when you run",
+        "related videos",
+        "Infographic Show"
+      ],
+      "texte": "Want to know more about painful conditions? Check out the worst pain ever. [music] These injuries will make you cry like a baby or watch why do you have pain here when you run for another strange mystery of the human body."
     }
   ]
 }

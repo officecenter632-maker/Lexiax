@@ -42,3 +42,14 @@ Dernière ligne traitée : 5737 (fin 11154,32 s, fin du segment sur la mort de M
 
 ## Point d'arrêt (mis à jour)
 Dernière ligne traitée : 6624 (fin 13021,76 s, fin du segment « Number 19: the four types of kidney stones »). Prochaine étape : tranche 8 (dernière), à partir de la ligne 6625 (« really true? Number 18, more painful than child birth… »), id 292, jusqu'à la ligne 6947.
+
+- Tranche 8 (dernière) : lignes 6625 à 6947 (13021,76 à 13672,56 s, ≈ 10,8 min), 19 segments (id 292 à 310). Contenu : fin de la liste de « 50 faits » (n° 18 à 1 : calculs rénaux, névralgie du trijumeau, algie vasculaire, SDRC) et outro. Un segment par item de liste. Aucune coupure estimée.
+
+## Point d'arrêt (final)
+Dernière ligne traitée : 6947 sur 6947 (fin 13672,56 s). « complet » = true. Rien à reprendre.
+
+## Bilan final (reprise des tranches 6 à 8, lignes 4819 à 6947)
+- Méthode : lecture du speech par blocs de ~200 lignes (sans les temps), découpage par idées sur des limites de lignes, construction de segments.json par script en mode ajout (texte copié mot pour mot depuis speech.json, temps repris des lignes), vérification par script avant chaque push.
+- Total du fichier : 310 segments (id 1 à 310). Plus court : 7,0 s. Plus long : 118,4 s. Aucun temps estimé.
+- Passages douteux : transcription automatique (fautes conservées : « Yurard », « Domianne », « CPRS », « pee » pour pea, etc. ; les noms sont rétablis dans les résumés) ; les titres de liste coupés sur deux lignes (« Number 27. Sorry, boss. ») sont rattachés au segment de la ligne où ils tombent ; les marqueurs « [music] » sont laissés dans le texte.
+- Remarque de contenu : la vidéo est un montage de plusieurs épisodes (listes de conditions douloureuses, morts les plus douloureuses, blessures, « 50 faits »), d'où des sujets qui reviennent (névralgie du trijumeau, algie vasculaire et SDRC apparaissent dans deux listes différentes).
