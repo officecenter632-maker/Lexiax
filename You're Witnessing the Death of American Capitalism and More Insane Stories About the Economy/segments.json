@@ -4,12 +4,12 @@
   "titre_video": "You're Witnessing the Death of American Capitalism and More Insane Stories About the Economy",
   "duree_s": 11029.12,
   "avancement": {
-    "lignes_traitees": 1780,
-    "fin_traitee_s": 3547.36,
+    "lignes_traitees": 2776,
+    "fin_traitee_s": 5574.64,
     "nb_lignes_total": 5541,
     "complet": false
   },
-  "nb_segments": 71,
+  "nb_segments": 109,
   "segments": [
     {
       "id": 1,
@@ -1338,6 +1338,716 @@
         "generational economics"
       ],
       "texte": "Gen X currently ranges between 46 and 61 years old. That means the older ones are trending toward retirement age now. [music] For some, it might be worth retiring early and getting out of the market while it's good. Sure, they might take a small hit to their pension, but if they have enough saved, they can pivot to their consulting or part-time work without fearing layoffs. For others, they're simply trying to make it to the finish line. This is the last generation that grew up with the idea that a steady 9-5 [music] job was something they could count on. The crisis isn't who is leaving the market,"
+    },
+    {
+      "id": 72,
+      "debut": 3547.36,
+      "fin": 3608.04,
+      "temps_estime": false,
+      "titre": "Millennial underemployment and multiple jobs",
+      "resume": "The narrator says millennials' biggest problem has been underemployment rather than unemployment, since they were starting over in new careers when their parents were buying houses. As of December 2023 an estimated 8.56 million people held multiple jobs, mostly millennials and Gen Z with part-time work supplemented by second jobs, even teachers working summer shifts at Walmart.",
+      "mots_cles": [
+        "millennials",
+        "underemployment",
+        "multiple jobs",
+        "8.56 million",
+        "Gen Z",
+        "part-time work",
+        "teachers second job",
+        "Walmart"
+      ],
+      "texte": "it is who is left behind. Millennials have been struggling for [music] most of their lives, and the biggest problem for them hasn't been unemployment, it's been underemployment. At the [music] time their parents were buying houses and starting families, many millennials found themselves starting over and trying to build a new career. That's [music] left many of them struggling to make ends meet, and it's led to them making some unconventional choices. For many millennials, the problem isn't [music] that they don't have enough work, it's that they have too much and it is still not enough. As of December 2023, there are an estimated 8.56 [music] million people holding multiple jobs in the United States. The vast majority are millennial and Gen Z, generations that have struggled to find stable full-time [music] jobs with benefits and protections that their parents had. Instead, they might have part-time work which they [music] supplement with a second job, often well below their education level. This has even become common for some with full-time [music] jobs. Some teachers are forced to pick up summer shifts at places like Walmart because their salaries don't cover the bills. Some don't even qualify as jobs"
+    },
+    {
+      "id": 73,
+      "debut": 3608.04,
+      "fin": 3643.28,
+      "temps_estime": false,
+      "titre": "Gig work among Gen Z and millennials",
+      "resume": "Over 40% of Gen Z and over 35% of millennials participate in gig work, picking up odd jobs and paid tasks such as freelance writing, grocery delivery and ride-share driving instead of a salary. It makes them less dependent on a boss but depends on job availability, and the gap might keep growing.",
+      "mots_cles": [
+        "gig work",
+        "40 percent of Gen Z",
+        "35 percent of millennials",
+        "freelance",
+        "ride-share",
+        "grocery delivery",
+        "no salary",
+        "odd jobs"
+      ],
+      "texte": "at all. [music] Today, over 40% of Gen Z and over 35% of millennials participate in gig work. This is a key part of the new economy. People don't necessarily [music] have employers, but instead they pick up a series of odd jobs and paid tasks and they try to make ends meet. Some may be doing remote work like freelance [music] writing, others may be delivering groceries or driving people for a ride-share app. They don't get a salary, they just try to cobble together enough gigs each month to pay the [music] rent and afford food. This has the advantage of being less dependent on the will of a boss, but it also depends on the availability of the jobs and that gap might just keep growing. Since 2022,"
+    },
+    {
+      "id": 74,
+      "debut": 3643.28,
+      "fin": 3673.96,
+      "temps_estime": false,
+      "titre": "The job divergence gap: payroll versus household surveys",
+      "resume": "Since 2022 the job divergence gap has been growing, the difference between payroll statistics and household employment, which has expanded to 4.4 million. It points to more people working multiple jobs or working off the books through gig work, and analysts warn it may be the new normal.",
+      "mots_cles": [
+        "job divergence gap",
+        "payroll survey",
+        "household survey",
+        "4.4 million",
+        "multiple jobs",
+        "off the books",
+        "labor statistics",
+        "new normal"
+      ],
+      "texte": "[music] a disturbing trend has been showing up in labor surveys. The job divergence gap has been growing and not slowing down anytime soon. This is the difference between the payroll statistics [music] showing how many people are getting paid by employers and the household employment gap. The yawning gap has expanded [music] to 4.4 million over the last few years and that points to an increase in people working multiple jobs or working off the books through gig work or other [music] alternative mediums. Analysts are warning that this may be the new normal."
+    },
+    {
+      "id": 75,
+      "debut": 3673.96,
+      "fin": 3722.36,
+      "temps_estime": false,
+      "titre": "Is the full-time job on its way out? Gig freedom versus risk",
+      "resume": "With more job seekers than openings, many people reject traditional jobs because of long hours, boss control and unpaid extra work. Gig work offers freedom for young people who want to travel but carries risk: one unexpected expense can wreck a budget and there is no paid leave when driving for Uber.",
+      "mots_cles": [
+        "full-time job",
+        "gig economy",
+        "traditional jobs",
+        "freedom vs risk",
+        "no paid leave",
+        "Uber",
+        "freelance",
+        "job seekers"
+      ],
+      "texte": "So, is the full-time job on the way out entirely? As the labor market continues to shift in favor of the employers with more [music] job seekers than open positions, people are looking at the market and they're saying not for me. The stability [music] that these traditional jobs offered came with drawbacks, long hours, being at the mercy [music] of your boss, and often having to pick up extra work without any additional compensation if you were salaried. The gig work economy comes with much [music] more risk, but also much more freedom. For young people who want to travel more and don't want to relocate for work, it is an appealing prospect, [music] but it comes with an uncertainty that can be daunting. One unexpected expense can throw a whole budget off. There's no paid leave [music] when you're driving for Uber, and while an online freelance employer may be able to give you time off, you're [music] not getting paid while you recover. Sometimes there's only one way"
+    },
+    {
+      "id": 76,
+      "debut": 3722.36,
+      "fin": 3765.0,
+      "temps_estime": false,
+      "titre": "Credit cards and invisible spending across generations",
+      "resume": "Grandparents budgeted and saved because they had no choice, since credit cards were not available until 1950 and not widespread until years later. Millennials treat cards as second nature and Gen Z rarely carries cash, which makes spending nearly invisible as they pay off cards when they can.",
+      "mots_cles": [
+        "credit cards",
+        "1950",
+        "frugality",
+        "millennials",
+        "Gen Z",
+        "electronic payments",
+        "cashless",
+        "invisible spending"
+      ],
+      "texte": "to fill that gap. Odds are you've heard from your grandparents about how they budgeted during the lean times, and without it, they saved up for what they needed. That's because they didn't have any choice. Credit cards weren't even available until 1950, and they didn't become widespread until years later. That kind of frugality was often passed on to their children. So, the next generation was far less willing to charge things on a whim. But, for millennials, putting things on a card has become second nature. For Gen Z, spending money the old-fashioned way seems like a foreign language. The younger generation has embraced the world of electronic payments to the point where few even carry cash with them. That's led to their spending becoming somewhat invisible. They put it on a card, and they don't look too closely at their bank account, and they pay it off when they can."
+    },
+    {
+      "id": 77,
+      "debut": 3765.0,
+      "fin": 3815.8,
+      "temps_estime": false,
+      "titre": "Credit card delinquency reaches 13.12 percent",
+      "resume": "As of Q1 2026 the New York Fed reported that balances at least 90 days past due had risen to 13.12%, almost a point higher than a year earlier, versus 8.12% at small banks in 2023. The narrator blames a culture that treats money as something to pay later and people who lack money for current expenses.",
+      "mots_cles": [
+        "credit card delinquency",
+        "13.12 percent",
+        "90 days past due",
+        "New York Fed",
+        "Q1 2026",
+        "8.12 percent",
+        "debt",
+        "kicking the can"
+      ],
+      "texte": ">> [music] >> Or at least they plan to. Because behind the scenes of the millennial and Gen Z job crisis, there's another problem brewing. The cards aren't getting paid off, and many of the people spending don't even seem to notice. But, the banks certainly do. As of the first quarter of 2026, the Federal Reserve Bank of New York reported that balances at least 90 days [music] past due had risen to 13.12%, up almost a whole percent over last year. That rate has been climbing steadily, with data from small banks in 2023 showing an 8.12% delinquency rate. As for what's causing this, it's a combination of a culture and a media that encourages people to think of money as something automatic, to be paid now and dealt with later. People simply don't have enough money for their current expenses, [music] and they're just kicking the can down the road. Together, it forms a scary"
+    },
+    {
+      "id": 78,
+      "debut": 3815.8,
+      "fin": 3842.16,
+      "temps_estime": false,
+      "titre": "Recession warning signs and young people's vindication",
+      "resume": "A falling employment rate, rising debt and more people leaving the labor market point to a large-scale lack of faith in the economy. The narrator calls this a warning for the old guard and vindication for young people who say the economy is not working for their generation.",
+      "mots_cles": [
+        "recession signs",
+        "employment rate",
+        "rising debt",
+        "labor market dropouts",
+        "young people",
+        "lack of faith in the economy",
+        "generation"
+      ],
+      "texte": "picture. All of the signs of a major recession are there. Analysts warn that the combination of a decreasing employment rate, increasing debt, and more people dropping out of the labor market entirely points to a large-scale lack of faith in the economy as it stands. This is a warning sign for the old guard and a vindication for the young people who have been saying that the economy isn't working for their generation. The only question is, who is listening and will the government get the message? >> [music]"
+    },
+    {
+      "id": 79,
+      "debut": 3842.16,
+      "fin": 3894.88,
+      "temps_estime": false,
+      "titre": "How the BLS birth-death model estimates jobs",
+      "resume": "The Bureau of Labor Statistics estimates job gains with the net birth-death ratio, sampling about 144,000 businesses and agencies monthly, roughly a third of non-farm employers. Since tracking business openings and closings in real time is nearly impossible, it uses historical trends, which tend to overestimate job creation when the economy slows and underestimate it during recovery, possibly keeping investors calm.",
+      "mots_cles": [
+        "Bureau of Labor Statistics",
+        "net birth-death ratio",
+        "144,000 businesses",
+        "job estimates",
+        "overestimate job creation",
+        "historical trends",
+        "investor panic"
+      ],
+      "texte": ">> Because right now it seems that they're doing all they can to hide it. The method that the Bureau of Labor Statistics uses to estimate job gains and losses is the net birth-death ratio. It samples around 144,000 businesses and government agencies each month for the survey, roughly a third of all non-farm employers. The problem is tracking new and closing businesses in real time is nearly impossible. So, the agency uses historical trends [music] to estimate how many jobs were created or lost, and then builds those estimates into the report. And that can lead to some fuzzy math. Analysts have [music] shown that the metric tends to overestimate job creation when the economy is slowing down >> [music] >> and underestimate it when it's recovering. The result is a picture of the economy that can look more stable than reality. >> [music] >> And that may be the point. Keeping investors calm matters because mass panic selling can turn fear into a real economic crisis. >> [music]"
+    },
+    {
+      "id": 80,
+      "debut": 3894.88,
+      "fin": 3929.28,
+      "temps_estime": false,
+      "titre": "April 2024's 231,000 jobs and the time-series model",
+      "resume": "Critics pointed to April 2024, when the Bureau reported a whopping 231,000 jobs added in the prior month, prompting scrutiny of the metric. The Bureau offsets missing job losses from business closures to create a baseline and applies a time-series model using recent business births and deaths, a highly technical process that may be inaccurate.",
+      "mots_cles": [
+        "April 2024",
+        "231,000 jobs",
+        "BLS",
+        "time series model",
+        "business births and deaths",
+        "baseline",
+        "jobs data accuracy"
+      ],
+      "texte": ">> But is this hiding bigger problems? Critics have pointed to one month in particular, April 2024, when the Bureau reported a whopping 231,000 [music] jobs added to the economy in the previous month. That raised some alarm bells, and it led to more people digging into the way that this specific [music] metric is calculated. First, the Bureau offsets missing job losses from business closures to create a baseline. Then, [music] it applies a time series model using data on business births and deaths from recent years to calculate the monthly estimate. It's a highly technical process that may not be all that accurate. >> [music]"
+    },
+    {
+      "id": 81,
+      "debut": 3929.28,
+      "fin": 3990.72,
+      "temps_estime": false,
+      "titre": "Jobs without employees: from outsourcing to AI",
+      "resume": "The data say jobs are being added, stocks climb and businesses invest, yet workers on the ground do not see benefits from higher spending and profits. Employers moved from outsourcing jobs abroad for pennies to AI-generated content, which may be good enough to offset savings, but they may be signing their own financial death warrant.",
+      "mots_cles": [
+        "jobs without employees",
+        "outsourcing",
+        "AI content",
+        "trickle-down",
+        "corporate profits",
+        "cost savings",
+        "workers excluded"
+      ],
+      "texte": ">> And that's how we wind up with the current contradiction. According to the data, jobs are being added, the stock market [music] keeps on climbing, businesses are investing in new infrastructure. As long as the economy's power brokers are making money, they're incentivized to keep spending [music] it, and that trickles down to the employees, right? That is the working theory, but according to the people on the ground, it is not working out that way. Employees aren't seeing the benefits from increased [music] spending and profits. We might be heading into a future of jobs without employees to work them. As some employees start to wonder if there's a better way for them to work, employers do the same. They're finding solutions that increasingly force workers out of the equation. First, it was outsourcing jobs abroad, where they can get workers for pennies on the dollar. But now, they're shifting to AI content created without anyone behind the curtain. Will it be as good as the work the employees put in? Probably not. Will it be okay enough to offset the savings they can get? Well, according to many of them, probably. But they may be signing their own financial death warrant in the process. >> [music]"
+    },
+    {
+      "id": 82,
+      "debut": 3990.72,
+      "fin": 4042.52,
+      "temps_estime": false,
+      "titre": "A Jenga tower built on underemployment and credit card debt",
+      "resume": "More people are dropping out of the labor market, some long-term unemployed and racking up debt, others holding multiple jobs that the survey counts as three jobs rather than one exhausted person. The healthy-looking job market is a Jenga tower built on underemployed young people and credit card debt, and businesses need customers more than employees.",
+      "mots_cles": [
+        "Jenga tower",
+        "underemployed young people",
+        "credit card debt",
+        "multiple jobs counted separately",
+        "economy without workers",
+        "customers",
+        "Wall Street"
+      ],
+      "texte": ">> We're seeing a dynamic where more and more people are dropping out of the labor market, with many finding alternative ways to earn money. Some are unemployed long-term [music] and racking up huge debts. Others, meanwhile, are working themselves to the bone, carrying multiple jobs, [music] which the survey counts as three new jobs rather than one exhausted person. What looks like a healthy job market is actually a Jenga tower [music] built on blocks of underemployed young people and heavy credit card debt. And if we know one thing, [music] it's that the tower always falls eventually. The government wants you to look at the numbers going up and think everything is doing fine, but an economy without workers is not an economy that can sustain itself for long, because the one thing businesses need more than employees is customers. As the debts come due and the jobs dry up, the customers won't have any money to spend. For Wall Street, that might be the scariest prospect of all. Three"
+    },
+    {
+      "id": 83,
+      "debut": 4042.52,
+      "fin": 4074.16,
+      "temps_estime": false,
+      "titre": "Three days of groceries and the drained Strategic Petroleum Reserve",
+      "resume": "A new section warns that a grocery store lasts about three days if diesel trucks stop moving and the government has no backup plan. Officials drained 172 million barrels from the US Strategic Petroleum Reserve in early 2026, leaving it at its lowest level since 1983 and being refilled at a fraction of the drawdown speed.",
+      "mots_cles": [
+        "grocery store",
+        "diesel trucks",
+        "Strategic Petroleum Reserve",
+        "172 million barrels",
+        "lowest since 1983",
+        "empty shelves",
+        "oil companies",
+        "emergency oil"
+      ],
+      "texte": "days. That's how long your grocery store lasts if diesel trucks stop moving today. You probably think the government has a backup plan. It doesn't. Officials already drained 172 million barrels from the US Strategic Petroleum Reserve in early 20 26. It's now at its lowest level since 1983, and they're refilling it at a fraction of the speed they emptied it. America's emergency oil cushion is thinner than it's been in over four decades. And while you're just one disruption away from empty shelves, the biggest oil companies in the world"
+    },
+    {
+      "id": 84,
+      "debut": 4074.16,
+      "fin": 4118.44,
+      "temps_estime": false,
+      "titre": "Empty shelves worldwide and the just-in-time system",
+      "resume": "The narrator pictures empty grocery shelves in New York, London and Tokyo, a scene like a disaster movie that would happen if the fragile logistics system powering big cities collapsed. This is the just-in-time system, and understanding it changes how people view how big cities function.",
+      "mots_cles": [
+        "empty shelves",
+        "just-in-time system",
+        "logistics system",
+        "New York London Tokyo",
+        "supply chain collapse",
+        "big cities",
+        "fragile logistics"
+      ],
+      "texte": "are cashing out. Imagine stepping inside a grocery store in the middle of one of the biggest and busiest cities on the planet, only to find empty shelves. No bread, no milk, no fruit. Now, imagine that same scenario playing out all over the globe. In New York, London, Tokyo, stores that are usually a hive of activity and filled with groceries are stripped bare. It sounds like a scene from a Hollywood disaster movie, a post-apocalyptic world with no hope. Except, that reality might be closer than you realize. Because this is exactly what would happen if the critical but incredibly fragile logistics system powering major urban centers suddenly collapses. It's known as the just-in-time system, and once you understand it, your entire view of how big cities function may change forever."
+    },
+    {
+      "id": 85,
+      "debut": 4118.44,
+      "fin": 4167.28,
+      "temps_estime": false,
+      "titre": "Cities as funnels: only three to five days of food",
+      "resume": "Contrary to the belief in giant warehouses of supplies, modern cities work like funnels where essentials flow in, get bought almost immediately and vanish. Major cities hold only about three to five days of food inventory and the rest arrives on trucks daily, so when trucks are delayed the illusion of abundance breaks down.",
+      "mots_cles": [
+        "just-in-time",
+        "city food supply",
+        "three to five days of inventory",
+        "trucks",
+        "warehouses myth",
+        "illusion of abundance",
+        "grocery logistics"
+      ],
+      "texte": "Most people think there are giant warehouses packed with endless supplies ready to refill empty grocery shelves at a moment's notice. The reality is completely different. Modern cities work like funnels. Food and everyday essentials flow in, get bought almost immediately, and disappear just as fast. It's an efficient system, but not a resilient one. Most major cities have only about three to five days of physical food inventory before the shelves run dry. The rest has to arrive on board heavy-duty trucks traveling hundreds of miles across the country on a daily basis. In other words, there isn't some secret warehouse waiting to save the day. Your grocery store survives because trucks keep showing up day after day without fail. The moment those trucks are delayed, disrupted, or stop altogether, the illusion of abundance disappears and it breaks down quickly. >> [music]"
+    },
+    {
+      "id": 86,
+      "debut": 4167.28,
+      "fin": 4221.44,
+      "temps_estime": false,
+      "titre": "72 hours to empty shelves and dependence on fuel",
+      "resume": "If the just-in-time system fails, major cities could run out of food in 72 hours: deliveries fail on day one, panic buying spreads on day two and everything is gone by day three. The entire logistics network depends on constant fuel, and the backup emergency system has already been raided.",
+      "mots_cles": [
+        "72 hours",
+        "food shortage",
+        "panic buying",
+        "logistics network",
+        "fuel dependence",
+        "city food supply",
+        "emergency backup"
+      ],
+      "texte": ">> If the just-in-time system fails, major metropolitan centers could literally run out of food in 72 hours. That's less time than it takes to get over a common cold. The moment the wheels stop turning, the countdown begins. On day one, deliveries that were supposed to arrive fail to show. By day two, localized panic starts [music] to spread. Shoppers rush to their local stores and snatch up whatever supplies they can get. By day three, everything is gone. We've been trained to believe that something like this could never happen. We trust the system. We shouldn't. Every item you buy, every piece of food you eat is all dependent on a logistics network that is entirely dependent on a constant supply of fuel. Without the fuel, the food stops moving. That's when people look for a backup, a fail-safe, an emergency system that's been put in place by the government to kick in and save the day. And there is, but unfortunately, it's already been"
+    },
+    {
+      "id": 87,
+      "debut": 4221.44,
+      "fin": 4279.44,
+      "temps_estime": false,
+      "titre": "What the US Strategic Petroleum Reserve is and how low it is",
+      "resume": "The Strategic Petroleum Reserve was set up as a buffer against fuel supply crises so transport networks keep operating, and it can hold 714 million barrels in salt caverns along the Gulf Coast of Texas and Louisiana. As of late June 2026 it held barely 330 million barrels, the lowest in over 40 years since 1983.",
+      "mots_cles": [
+        "Strategic Petroleum Reserve",
+        "SPR",
+        "714 million barrels",
+        "330 million barrels",
+        "salt caverns",
+        "Gulf Coast",
+        "June 2026",
+        "1983"
+      ],
+      "texte": "raided. The US government wasn't blind to the risks of the logistics system. It's realized that if there ever was some sort of global oil crisis or fuel shortage, transportation networks could break down and millions of Americans would be at risk of starvation. So it set up a safety net. The US Strategic Petroleum Reserve or SPR. [music] It acts as a buffer against a fuel supply crisis, ensuring that there is enough emergency petroleum to keep vehicles moving and transport networks operational. Other countries have similar strategic reserves, but the US has always been one of the biggest. [music] At full capacity, it can hold 714 million barrels stored deep inside gigantic underground salt caverns along the Gulf Coast of Texas and Louisiana. Now those caverns are nowhere near full. They're not even half full. As of late June 2026, the US SPR held barely 330 million barrels, the lowest level in more than 40 years. You have to go all the way back to 1983 to find the reserve this depleted. [music]"
+    },
+    {
+      "id": 88,
+      "debut": 4279.44,
+      "fin": 4318.32,
+      "temps_estime": false,
+      "titre": "The 172 million barrel release during the Iran war",
+      "resume": "In early March the government authorized a release of 172 million barrels in response to the war in Iran, which sent oil prices soaring after the Iranian military effectively closed the Strait of Hormuz, halting 20% of the world's oil supply. The release gave short-term relief to global energy markets.",
+      "mots_cles": [
+        "Iran war",
+        "Strait of Hormuz",
+        "172 million barrels",
+        "SPR release",
+        "20 percent of world oil",
+        "oil prices",
+        "March 2026",
+        "energy markets"
+      ],
+      "texte": "For decades, the government steadily built this emergency buffer, stockpiling hundreds of millions of barrels. Then almost overnight, a huge chunk of it was gone. In early March, the government authorized the release of 172 million barrels. This was a direct response to the war in Iran, which had led to skyrocketing oil prices after the Iranian military effectively closed the Strait of Hormuz. >> [music] >> 20% of the world's oil supply came to a dramatic halt. This was the sort of situation that the SPR was made for. The massive emergency release managed to provide some level of short-term relief to global energy markets, but the biggest issue isn't how quickly the reserve was depleted, but how slow it is"
+    },
+    {
+      "id": 89,
+      "debut": 4318.32,
+      "fin": 4372.68,
+      "temps_estime": false,
+      "titre": "Refilling the reserve is ten times slower than draining it",
+      "resume": "Bureaucrats are buying crude to refill the salt caverns, but the current refill rate is roughly ten times slower than the million-barrel-a-day drawdown of 2022, like draining a lake with a fire hose and refilling it with a bucket. It could take years to restore the reserve, leaving a much smaller margin of error.",
+      "mots_cles": [
+        "SPR refill rate",
+        "ten times slower",
+        "2022 drawdown",
+        "refilling reserve",
+        "crude oil purchases",
+        "thin buffer",
+        "margin of error"
+      ],
+      "texte": "to fill back up. The physics and economics involved with replenishing such a vast reserve are more complicated than opening valves to empty it. Bureaucrats are trying to buy back crude oil and pump it back into the Gulf Coast salt caverns, but they're not doing it fast enough. The current refill rate is approximately 10 times slower than the million barrel-a-day drawdown rate witnessed in 2022. It's like having one person draining a lake using a fire hose while someone else tries to refill it with a tiny bucket. The numbers don't work. If this pace continues, it could take years to bring the SPR back up anywhere close to its maximum capacity. That doesn't mean that the US has run out of oil or lost its crisis buffer entirely, but that buffer is significantly thinner and weaker than it was just a few years ago. That means the margin of error is far smaller than it has been in decades because the safety net is riddled with holes. We don't have"
+    },
+    {
+      "id": 90,
+      "debut": 4372.68,
+      "fin": 4452.0,
+      "temps_estime": false,
+      "titre": "Sri Lanka 2022: default, fuel shortages and collapse",
+      "resume": "In 2022 Sri Lanka's usable foreign exchange reserves dropped to near zero and it defaulted on debt for the first time, losing the ability to pay for imports of food, fuel, medicine and fertilizer. Fuel shipments stopped, distribution collapsed, food rotted in fields, people queued for days for petrol and blackouts lasted up to 13 hours.",
+      "mots_cles": [
+        "Sri Lanka",
+        "2022 crisis",
+        "foreign exchange reserves",
+        "default",
+        "fuel shortage",
+        "blackouts",
+        "fertilizer",
+        "petrol queues"
+      ],
+      "texte": "to guess or estimate what happens next. We've already seen this exact same scenario play out before. In 2022, Sri Lanka experienced a sharp, violent collapse that brought the entire nation to its knees. When the country's usable foreign exchange reserves dropped to near zero levels, it effectively found itself unable to service its $58.7 defaulted on its debt payments for the first time in history. To make matters worse, the Sri Lankan government was no longer able to afford essential imports, including food, fuel, medicine, and fertilizer. This led to nationwide shortages of vital resources. Literally overnight, shipments of petroleum and other products and materials stopped. The nation's distribution network collapsed almost instantly. Without fuel, it was no longer possible to move goods from place to place. Food rotted in the fields since there were no trucks around to transport it to markets and grocery stores. The absence of fertilizer also meant that agricultural yields began to drop. People were forced to spend hours or even days waiting in miles-long queues to buy what little petrol remained. They were also dealing with the daily rolling blackouts that lasted up to 13 hours at a time because there wasn't enough fuel for the country's power plants. Schools closed down. Hospitals postponed treatments and [music] surgeries. The cost of simple"
+    },
+    {
+      "id": 91,
+      "debut": 4452.0,
+      "fin": 4508.24,
+      "temps_estime": false,
+      "titre": "Sri Lanka's 94.9 percent food inflation: a fuel crisis becomes a food crisis",
+      "resume": "By September 2022 Sri Lankan year-on-year food inflation hit 94.9% while wages stagnated, with over 6 million people food insecure and more than 60% of households skipping meals or eating smaller portions. The narrator concludes that when a country runs out of fuel it also runs out of food, which becomes a luxury asset.",
+      "mots_cles": [
+        "Sri Lanka",
+        "food inflation 94.9%",
+        "food insecurity",
+        "6 million people",
+        "skipping meals",
+        "fuel crisis",
+        "food crisis",
+        "September 2022"
+      ],
+      "texte": "staple items skyrocketed. By September 2022, year-on-year food inflation had reached an eye-watering 94.9%. The cost of a basic meal effectively doubled in a single year. The people of Sri Lanka had to deal with the cost of sustenance and survival rising faster than a hyper-inflating currency. And it's not as though their wages were rising, too. People were earning the same amount or even less than before, but somehow had to stretch their budgets twice as far. Over 6 million Sri Lankans fell into food insecurity, unsure when or where their next meal would come. [music] More than 60% of households resorted to coping strategies like skipping meals or eating smaller portions to get by. This is why a fuel crisis quickly becomes a food crisis. Sri Lanka provided the perfect example of what happens to your wallet when the fuel stops flowing. When a country runs out of fuel, it also runs out of food. Whatever food that's left over becomes a luxury asset with a far higher price."
+    },
+    {
+      "id": 92,
+      "debut": 4508.24,
+      "fin": 4562.64,
+      "temps_estime": false,
+      "titre": "It could happen in the West: the electric vehicle myth",
+      "resume": "Sri Lanka was not a one-off, since the same systemic vulnerabilities exist in the US and UK, and the idea that richer countries can escape through new technology is flawed. Electric vehicles are billed as the answer to oil dependence, with headlines predicting the end of gas cars, but the narrator calls the age-of-oil-ending story a myth.",
+      "mots_cles": [
+        "Sri Lanka",
+        "systemic vulnerabilities",
+        "US and UK",
+        "electric vehicles",
+        "oil dependence",
+        "end of gas cars",
+        "myth",
+        "technology"
+      ],
+      "texte": "You might think that Sri Lanka was a one-off, an anomaly, an isolated occurrence of economic mismanagement in a developing nation. Something like this would happen in the Western world. You would be wrong. The same systemic vulnerabilities that caused the Sri Lanka crisis also exist in the US, the UK, and other nations, regardless of their status or economic standing. The idea that richer countries can reduce their risk by transitioning toward a stronger and smarter system is fundamentally flawed. We're constantly told that new technology is about to solve our biggest problems, [music] that the next breakthrough will make our lives easier, safer, and less vulnerable to crises. Like electric vehicles, they're supposed to be the solution to our dependence on oil. Every year there are more EVs in driveways, more electric SUVs on the highway, and more headlines predicting the end of the gas-powered car. The age of oil is ending. This is a myth, and the data proves it. Yes,"
+    },
+    {
+      "id": 93,
+      "debut": 4562.64,
+      "fin": 4610.72,
+      "temps_estime": false,
+      "titre": "EVs are only 5 percent of the global fleet and almost none of shipping and aviation",
+      "resume": "Electric vehicle sales are breaking records, but as of June 2026 EVs are just 5% of the global passenger fleet and almost 0% of heavy-duty maritime and aviation. Most are family commuter cars, while the trucks, planes and ships that move goods remain dependent on petroleum fuels.",
+      "mots_cles": [
+        "electric vehicles",
+        "5 percent of fleet",
+        "June 2026",
+        "maritime",
+        "aviation",
+        "trucks",
+        "petroleum-based fuels",
+        "EV sales"
+      ],
+      "texte": "[music] global sales of electric vehicles are rising and even breaking records in many countries. Yes, governments are setting out plans to phase out vehicles with internal combustion engines and offer incentives so people buy EVs. But as of June 2026, electric vehicles make up just 5% of the global passenger fleet and almost 0% of the heavy-duty maritime and aviation sectors. In other words, while there are more EVs on the roads today, the majority are used by families for their morning commutes and shopping trips. Very few of them are being used in the sectors that sustain modern society. The trucks, the planes, and the ships that move the goods from point A to point B are almost exclusively dependent on petroleum-based fuels. It's going to stay that way for the foreseeable future. Around 80% of all global trade"
+    },
+    {
+      "id": 94,
+      "debut": 4610.72,
+      "fin": 4660.84,
+      "temps_estime": false,
+      "titre": "Shipping carries 80 percent of trade and 99 percent of ships need oil",
+      "resume": "About 80% of global trade moves on a maritime fleet, and 99% of it needs oil such as heavy fuel oil and marine gas oil, with no battery big enough for transoceanic voyages. Freight planes carrying pharmaceuticals also burn huge amounts of petroleum fuel, and no electric fleet is waiting to replace them.",
+      "mots_cles": [
+        "maritime fleet",
+        "80 percent of global trade",
+        "99 percent oil",
+        "heavy fuel oil",
+        "marine gas oil",
+        "battery limits",
+        "freight planes",
+        "pharmaceuticals"
+      ],
+      "texte": "is transported by a vast maritime fleet that is, in effect, [music] the lifeblood of the 21st century civilization. And 99% of that fleet needs oil to move a single mile. Cargo ships need petroleum-based fuels like heavy fuel oil or HFO and marine gas oil MGO in enormous quantities. The idea of suddenly switching them over to electric energy is a fantasy. There's no battery technology in existence today that is big enough or strong enough to allow these giants to make their transoceanic voyages. The same limitations apply in the air. Freight planes that move high-value or time-sensitive supplies like pharmaceuticals churn through huge amounts of petroleum-based fuels. There is no electric fleet just waiting to replace them. When you understand this, the true danger of a major global fuel crisis becomes even clearer to see. A"
+    },
+    {
+      "id": 95,
+      "debut": 4660.84,
+      "fin": 4718.8,
+      "temps_estime": false,
+      "titre": "Oil depletion as a delete button and the demand destruction threshold",
+      "resume": "Total oil depletion would be a delete button for the global economy, and logistics systems would compete for a shrinking pool of oil as energy costs approach a breaking point. Wood Mackenzie puts the demand destruction threshold, where consumers permanently cut consumption, at between $125 and $150 a barrel, after which economic activity declines.",
+      "mots_cles": [
+        "demand destruction threshold",
+        "$125 to $150 a barrel",
+        "Wood Mackenzie",
+        "Goldman Sachs",
+        "oil prices",
+        "energy costs",
+        "economic decline",
+        "oil depletion"
+      ],
+      "texte": "total oil depletion is, in effect, a delete button for the global economy as we know it. If the oil stops flowing, everything stops moving. The rising popularity of EVs has no influence on that. That means the logistic systems we depend on have to compete for a shrinking pool of oil. As that competition intensifies, the cost of energy is set to reach an unprecedented breaking point. Energy analysts and financial experts like Goldman Sachs often talk about the demand destruction threshold. There comes a point at which the cost of a commodity is simply too high for consumers to absorb, so they dramatically and permanently adjust their behavior to reduce their consumption of that commodity. At that point, economic activity invariably begins to decline. Purchases are put off, travel is reduced, and investment slows down. Research and consultancy firm Wood Mackenzie believes that the demand destruction threshold for oil is between $125 and $150 a barrel. Once we enter that range, everything changes."
+    },
+    {
+      "id": 96,
+      "debut": 4718.8,
+      "fin": 4771.6,
+      "temps_estime": false,
+      "titre": "When moving goods costs more than the goods are worth",
+      "resume": "Above the threshold, the energy cost of moving a product across an ocean, rail line or highway exceeds the profit margin of the product itself. Companies can raise prices only so far, then customers stop buying and products stop moving, not because the world ran out of products but because it became too expensive to move them.",
+      "mots_cles": [
+        "shipping costs",
+        "fuel prices",
+        "profit margin",
+        "supply chain",
+        "container shipping",
+        "transportation costs",
+        "economic stall"
+      ],
+      "texte": "That's because the actual energy cost required to physically move a product across an ocean, along a rail line, or down a highway exceeds the profit margin of the product itself. Imagine a product making its way through the global supply chain. It has to be manufactured, packaged, stored, and shipped across the world. It's then trucked to a warehouse, delivered to a store, and sold to you. Every step costs money. As long as fuel stays reasonably cheap, the numbers work and everyone makes a profit. But when fuel prices spike, transportation becomes more expensive. If it costs more to move a container of goods than the goods themselves are worth, shipping them simply stops making sense. Sure, companies can raise prices, but only to a point. Eventually, customers stop buying, sales dry up, and products stop moving. That's when the economic engine begins to stall. Not because the world ran out of products, but because it became too expensive to move them. This"
+    },
+    {
+      "id": 97,
+      "debut": 4771.6,
+      "fin": 4826.96,
+      "temps_estime": false,
+      "titre": "Ripple effects: GDP contraction, luxury goods and layoffs",
+      "resume": "If oil stays at $125 to $150 or higher, global GDP growth contracts and basic goods begin to feel like luxury purchases, with families doing mental arithmetic in the grocery store. Soaring energy costs force even established brands to scale down and lay off workers, leaving consumers between rising costs and income insecurity.",
+      "mots_cles": [
+        "GDP contraction",
+        "energy costs",
+        "layoffs",
+        "cost of groceries",
+        "middle class",
+        "working class",
+        "income insecurity",
+        "luxury purchases"
+      ],
+      "texte": "phenomenon doesn't stop there. It ripples outward across society, impacting the middle and working classes the most. As long as oil sustains a price within or above the $125 to $150 range, global GDP growth contracts. Then all of a sudden, basic goods that were once cheap and accessible feel like luxury purchases. Families are forced to do mental arithmetic in the grocery store to work out what they can and can't afford. Job stability takes a hit, too. As energy costs soar and consume larger parts of corporate revenues, even large and established brands are forced to scale down their operations and lay off workers. Within what feels like the blink of an eye, the average consumer is stuck between a rock of rising costs and a hard place of income insecurity. All of the comforts and conveniences of their modern lifestyle are torn away. The solid foundations of the system they grew to rely on are replaced by increasingly shaky ground. And when we"
+    },
+    {
+      "id": 98,
+      "debut": 4826.96,
+      "fin": 4904.16,
+      "temps_estime": false,
+      "titre": "Why the US can't just use its own oil: record production but heavy crude imports",
+      "resume": "Despite record oil production, exports and a fracking boom, the US still imports huge volumes of heavy crude every day. Crude is a spectrum from thick, sticky heavy crude needing complex refineries to thin light crude that is easier to process, and they cannot always be used interchangeably.",
+      "mots_cles": [
+        "energy independence",
+        "record oil production",
+        "heavy crude",
+        "light crude",
+        "fracking",
+        "refineries",
+        "oil imports",
+        "Texas New Mexico"
+      ],
+      "texte": "think about this scenario, one obvious question emerges. Why doesn't the US just use its own oil? Honestly, there's no way that would work. The US is often hailed as a colossus of the energy sector with domestic production rates and export levels reaching record highs in recent years. It's easy to assume that the oil fields of Texas and New Mexico should provide more than enough fuel to insulate the domestic market even in cases of global shortages. Except that is not true. If you only read the headlines, you would think America has energy independence, record oil production, a booming fracking industry, no more relying on the rest of the world to keep the economy running. The reality is far more complicated. Despite producing record amounts of oil, the United States still imports huge volumes of heavy crude every single day. Sounds like a contradiction until you look at how America's oil infrastructure actually works. Not all crude oil is the same. Think of it as a spectrum. At one end is heavy crude, thick, sticky, and packed with impurities. Turning it into fuels like gasoline and diesel requires large complex refineries. At the other end is light crude, which is much thinner and easier to process. These aren't just different grades of the same product. They behave differently, require different refining processes, and can't always be used"
+    },
+    {
+      "id": 99,
+      "debut": 4904.16,
+      "fin": 4968.64,
+      "temps_estime": false,
+      "titre": "Refineries built for heavy sour crude versus fracked light sweet crude",
+      "resume": "US refineries were engineered for heavy sour crude from the Middle East and Latin America, but fracking produces light sweet shale crude, like pouring unleaded gasoline into a diesel engine. The US must export millions of barrels of light oil daily while importing heavy sour crude, so the fracking boom made dependency more complicated rather than ending it.",
+      "mots_cles": [
+        "heavy sour crude",
+        "light sweet crude",
+        "shale oil",
+        "refinery mismatch",
+        "oil exports and imports",
+        "fracking boom",
+        "energy dependency"
+      ],
+      "texte": "interchangeably. This is where the problem comes in. The multi-billion dollar refinery industry in the US was engineered and optimized to deal with heavy sour crude. It made sense at the time as the global energy market was highly reliant on imports of this type of oil from places like the Middle East and Latin America. These days, however, America's fracking revolution produces enormous quantities of light sweet crude from shale formations. But the infrastructure wasn't built for that. Trying to refine light sweet crude in facilities designed for heavy sour is like pouring unleaded gasoline into a diesel engine and expecting it to work just as well. It won't. The fuel and the facilities are entirely mismatched. Because of this, the US is stuck. It has to keep exporting millions of barrels of its domestic light sweet oil every day to markets around the world. Meanwhile, it also has to import millions more barrels of heavy sour from its international partners just to keep its own pumps up and running in the first place. In other words, the fracking boom didn't provide any sort of energy independence. It just made the existing dependency even more complicated. The"
+    },
+    {
+      "id": 100,
+      "debut": 4968.64,
+      "fin": 5041.4,
+      "temps_estime": false,
+      "titre": "Big Oil's exit strategy: Shell and BP fund carbon capture",
+      "resume": "Oil companies squeeze out every drop of profit but know their days are numbered, so Shell and BP are funding carbon capture, alternative energy infrastructure and positioning for what comes next. The narrator says this is not altruism but a way for companies that dominated energy to maintain their monopoly as long as possible.",
+      "mots_cles": [
+        "Shell",
+        "BP",
+        "carbon capture",
+        "oil companies",
+        "exit strategy",
+        "alternative energy",
+        "energy monopoly",
+        "transition"
+      ],
+      "texte": "oil companies at the top of the food chain know this. They can see their limitations in the infrastructure. They can see the problems this causes. So, what are they actually doing about it? People picture these big oil brands as desperate to preserve the age of petroleum at any cost. They refuse to accept the world is moving toward cleaner, more sustainable sources of energy. And there is some truth in that. The oil firms are money hungry. They are desperately attempting to squeeze out every last drop of profit they can get. But it's not because they want to stop the transition or think that they can keep selling oil indefinitely. They know their days are numbered. That's why they're planning their exit strategies. Just follow the money. Major firms like Shell and BP are funding carbon capture projects, building alternative energy infrastructure, and positioning themselves for what comes next. Money that once went to searching for new oil fields and expanding drilling capacity is being redirected into laying the groundwork for the next energy system. They're not doing this out of the goodness of their hearts. This is not some altruistic attempt to atone for the errors of the past and play a part in saving the planet. It's a way for these same companies that have dominated the energy sector for decades to maintain their monopoly as long as they possibly"
+    },
+    {
+      "id": 101,
+      "debut": 5041.4,
+      "fin": 5097.84,
+      "temps_estime": false,
+      "titre": "Oil giants plan to own the next energy system",
+      "resume": "The narrator says oil firms know the demand destruction threshold will eventually be crossed, making oil economically or physically unextractable, so they are buying next-generation infrastructure early to keep society dependent on the same corporations in a different form. Societies built on thin margins and days of food and fuel reserves now face eroding safety nets while the industry repositions to own the system.",
+      "mots_cles": [
+        "oil giants",
+        "next-generation infrastructure",
+        "lock-in",
+        "demand destruction",
+        "thin margins",
+        "energy transition",
+        "corporate control",
+        "safety nets"
+      ],
+      "texte": "can. They realize that the current petroleum dependent system is flawed, unsustainable, and screaming toward a brick wall. They know that the demand-to-destruction threshold will eventually be crossed, and there will be no going back from there. At that point, oil will become either physically or economically unextractable or both. Consequently, oil giants should become obsolete. But if they buy enough of the next generation infrastructure early, they can effectively lock in a system where we still depend on the same major corporations, just in a different form. That's the emerging geopolitical reality. Oil companies helped to build a world where modern societies run on thin margins, where we rely on small buffers and just days of food and fuel in the reserve. Now, as those safety nets continue to erode and inventory sit at multi-decade lows, the same industry players are repositioning themselves for what comes next, not by leaving the system, but by owning it. You think"
+    },
+    {
+      "id": 102,
+      "debut": 5097.84,
+      "fin": 5128.92,
+      "temps_estime": false,
+      "titre": "You're not broke because you aren't working hard enough: the housing ratio",
+      "resume": "In a new section the narrator says that in 1980 the median US home price was about 3.5 times median household income, and in hubs like New York and San Francisco it has ballooned to over 10 times. The American dream went from a reachable hurdle to the height of a 40-story skyscraper, and the system is working exactly as designed.",
+      "mots_cles": [
+        "home price to income ratio",
+        "1980",
+        "3.5 times income",
+        "10 times income",
+        "New York",
+        "San Francisco",
+        "American dream",
+        "productivity"
+      ],
+      "texte": "you're broke because you aren't working hard enough. You're wrong. In 1980, the median US home price was roughly three and a half times the median household income. Today, in major hubs like New York and San Francisco, that has ballooned to over 10 times. The American dream has moved from a reachable hurdle to the height of a 40-story skyscraper. You're producing more value than any generation in history, >> [music] >> but the math in today's economy makes it physically impossible to win. The system isn't failing, it's working exactly as designed. [music]"
+    },
+    {
+      "id": 103,
+      "debut": 5128.92,
+      "fin": 5170.48,
+      "temps_estime": false,
+      "titre": "Inflation and affordability: home prices from $63,700 to $403,000",
+      "resume": "The question that matters is why earnings do not go as far anymore. The median home price was $63,700 in Q1 1980 and $403,000 in Q1 2026, so the honest job and investment that bought a house in the 1980s can barely cover rent today.",
+      "mots_cles": [
+        "median home price",
+        "$63,700",
+        "$403,000",
+        "1980 vs 2026",
+        "inflation",
+        "affordability",
+        "rent",
+        "wages"
+      ],
+      "texte": "When it comes to wages and workload, most people ask two questions: Why are we working more? And why are we being paid less? But the question that matters the most is the one nobody's asking: Why isn't the money we're earning going as far anymore? And that's where we need to reckon with our first brutal reality. Inflation has stacked [music] the affordability cards against us. Take housing, where in quarter one of 1980, the median home price for an American was $63,700, compared [music] to quarter one of 2026, where it's an eye-watering $403,000. The same [music] honest job and clever investment that could have bought you a house in the 1980s can barely cover rent today. But it gets worse. [music] As of"
+    },
+    {
+      "id": 104,
+      "debut": 5170.48,
+      "fin": 5198.8,
+      "temps_estime": false,
+      "titre": "April 2026 CPI overshoot and $75 more for gas",
+      "resume": "In April 2026 the Consumer Price Index showed inflation overshooting expectations, and Navy Federal Credit Union chief economist Heather Long said Americans are literally getting squeezed. Gas prices were costing an extra $75 per consumer per month, and the narrator asks why people assume price increases are natural.",
+      "mots_cles": [
+        "Consumer Price Index",
+        "CPI",
+        "April 2026",
+        "Heather Long",
+        "Navy Federal Credit Union",
+        "gas prices",
+        "$75 extra per month",
+        "inflation"
+      ],
+      "texte": "April 2026, the Consumer Price Index, or CPI, the metric that tracks the prices of consumer goods, >> [music] >> showed that inflation rates were overshooting expectations. As Heather Long, the chief economist at Navy Federal Credit Union put it, \"Americans are literally getting squeezed [music] now.\" Gas prices at this same time were also costing $75 extra per consumer per month, which seriously [music] eats into anyone's wallet. You're probably thinking, \"Well, an increase in the cost of goods and services over time is only natural.\" But, why do you think that?"
+    },
+    {
+      "id": 105,
+      "debut": 5198.8,
+      "fin": 5256.8,
+      "temps_estime": false,
+      "titre": "Why prices never fall back: the Fed's view of inflation and money supply",
+      "resume": "Prices spiked during the Revolutionary War, Civil War and World War II, but after the first two they fell back while after WWII the cost of living kept rising. Notre Dame historian Thomas Stapleford, author of The Cost of Living in America, traces it to Federal Reserve policy, which treats gradually rising inflation as healthy and achieves it by increasing the money supply.",
+      "mots_cles": [
+        "Thomas Stapleford",
+        "The Cost of Living in America",
+        "Federal Reserve",
+        "money supply",
+        "inflation policy",
+        "World War II",
+        "price spikes",
+        "University of Notre Dame"
+      ],
+      "texte": ">> [music] >> Track notable price spikes throughout US history and you'll see that there are times when costs have been elevated way above the norm. The Revolutionary War, the Civil War, and World War II. The strange thing is, after the first two, the prices slowly fell back down to a reasonable baseline. After World War II, the cost of living kept on going up. Why? Well, figuring out the answer to this mystery is the key to knowing why you're overworked and underpaid today. Thomas Stableford is a historian at the University of Notre Dame and the author of The Cost of Living in America, A Political History of Economic Statistics. According to him, it all leads back to policies set by the Federal Reserve. They believe that gradually increasing inflation is actually healthy for an economy like the United States, which invests so heavily in new technology and productivity. And the most concrete way to achieve this end is by minting new cash and putting it into circulation. In economic circles, this is called increasing the money supply. Now, this isn't a video"
+    },
+    {
+      "id": 106,
+      "debut": 5256.8,
+      "fin": 5333.12,
+      "temps_estime": false,
+      "titre": "The deflationary spiral the Fed wanted to avoid",
+      "resume": "One reason for expanding the money supply after World War II was to avoid a deflationary spiral, a key driver of the Great Depression. In a crisis weaker demand drops prices, production is scaled back, workers are laid off, fewer can spend, and prices and production fall in a race to the bottom.",
+      "mots_cles": [
+        "deflationary spiral",
+        "Great Depression",
+        "money supply",
+        "falling demand",
+        "layoffs",
+        "Federal Reserve",
+        "recession",
+        "price drops"
+      ],
+      "texte": "telling you that your life is harder because the Fed made a bad decision 80 years ago for no good reason. Like with anything economic, we're dealing with an explosive rigged two-colored wires that we need to cut if we want to financially survive. And unless you can see the future, you're essentially color blind. One of the most concrete reasons for ramping up the money supply after World War II was to avoid a deflationary spiral. If you know anything about macroeconomics, these are two of the scariest words in the English language. A deflationary spiral was the key driver behind the start of the Great Depression, one of the most dire economic situations in American [music] history. And this is how it works. In the middle of an economic crisis like a recession or a depression, people have less disposable income to buy anything but the essentials. A reduction in demand in proportion to the supply of consumer goods leads to the price dropping. This in turn leads to production needing to downscale to reduce the supply and level out the costs. But, this scaling back also means that companies don't need as many employees, so they let people go. Fewer people can afford to spend while warehouses will fill with products that nobody can afford to buy. Prices and production both plummet in a terrifying race to the bottom, and that's what the Fed wanted to avoid. But, every solution"
+    },
+    {
+      "id": 107,
+      "debut": 5333.12,
+      "fin": 5430.12,
+      "temps_estime": false,
+      "titre": "Baumol's cost disease and rising costs in labor-intensive sectors",
+      "resume": "Intentional inflation assumes prices and wages both rise with technological efficiency, but labor-intensive sectors like the arts, education and healthcare hit an efficiency plateau, as a singer today is no more productive than a century ago. Baumol's cost disease means their costs must still rise to match wages elsewhere, which burdens consumers and raises the cost of essential services.",
+      "mots_cles": [
+        "Baumol's cost disease",
+        "efficiency plateau",
+        "labor-intensive sectors",
+        "healthcare",
+        "education",
+        "singer example",
+        "rising wages",
+        "cost of services"
+      ],
+      "texte": "creates new problems. One of them is Baumol's cost disease, a mathematical flaw baked into the modern economy. It's been one [music] of the huge hidden drivers for why you're overworked and underpaid. The central idea behind intentional inflation is that prices will rise, but so will wages as a result of increased technology efficiency [music] in the workplace. So, everything evens out, but not all of the time. In labor-intensive sectors, we reach an efficiency plateau where you can't use technological advancement to increase economic efficiency. Take a singer, for example. Auto-Tune [music] and post-production mastering technology aside, there's no real way to make singing a more efficient process than it is. It's a dead end compared [music] to, say, mass-market car manufacturing or synthesizing new compounds in the chemical industry. A singer singing a song a century ago isn't any more productive than a singer singing a song today. This is true across the arts as well as in industries like education and healthcare as [music] sectors that rely extremely heavily on human labor. Meanwhile, technological advances make manufacturing more cost-efficient all the time, which increases wages there and in turn decreases or stabilizes the price. This is where [music] the cost disease comes in. Costs in these low-productivity sectors still need to increase in order to keep pace with the rising wages across the rest of the economy. It's [music] the consumers who bear the weight of that. This can have brutal knock-on effects like slowing economic growth overall and leading to rising costs for essential services. This begins to really explain the structural rot behind why your hard-earned dollars don't seem to stretch nearly as far as they used to, >> [music]"
+    },
+    {
+      "id": 108,
+      "debut": 5430.12,
+      "fin": 5473.52,
+      "temps_estime": false,
+      "titre": "The job market works against you: labor share of income",
+      "resume": "The narrator says rising living costs may be a distraction while the job market pulls the rug out from under workers, who put in more effort for less value. The labor share of income measures whether the wealth workers generate goes to paychecks or to owners and shareholders, and studies show it going less and less to workers.",
+      "mots_cles": [
+        "labor share of income",
+        "job market",
+        "wages vs profits",
+        "owners and shareholders",
+        "worker effort",
+        "value extraction",
+        "2020s workers"
+      ],
+      "texte": ">> but that's only one part of the problem and it might just be the perfect distraction while the job market pulls the rug from underneath you. The job market is working against you. It's almost impossible to be a worker in the 2020s and not feel it. The effort you're putting in no longer seems to match the value you're getting back, but that value is going somewhere. To [music] understand what's happening, we need to look at the labor share of income. It measures where the wealth generated by workers actually ends up, in workers' paychecks or in the hands of the owners and the shareholders. Some concerning studies have shown that the answer actually seems to be less and less to the workers. One actually identified four key factors that have played a role in taking the labor share away from workers and giving it back to the owners"
+    },
+    {
+      "id": 109,
+      "debut": 5473.52,
+      "fin": 5574.64,
+      "temps_estime": false,
+      "titre": "Four forces taking labor share from workers",
+      "resume": "One study identifies four factors shifting income from workers to capital owners: technology, where a one-point rise in R&D share cuts labor share up to 1.3 points; globalization, where 1% more export revenue cuts it 0.3%; market concentration; and intangibles like patents and copyrights. Each raises owners' bargaining power, as the pie grows but corporate interests shrink workers' slice.",
+      "mots_cles": [
+        "labor share",
+        "bargaining power",
+        "technological advancement",
+        "globalization",
+        "market concentration",
+        "patents and copyrights",
+        "Sweden unions",
+        "pie analogy"
+      ],
+      "texte": "of capital. The first is technological advancement. They found that when the share of revenue spent on research and development goes up by one percentage point, [music] labor share falls by up to 1.3 percentage points. The threat of being able to replace your workers with a machine decreases their bargaining power and keeps them content with low wages. The second is globalization where a 1% increase in the share of revenue coming from exports leads to a 0.3% drop in labor share. Again, it gives the owners greater leverage over their employees. They have got freedom to relocate if they believe their workers are asking for too much of the share. The third is high market concentration where competition is low and the share is divided between a relatively small number of companies. In these cases, companies have the leverage to keep their workforces lean and set their terms. In countries with strong union presence like Sweden, this can turn to the workers' favor. But, in the US, it almost always shakes out in favor of the capital holders. The fourth is intangible factors like copyrights, patents, and trademarks >> [music] >> that keep the reins in the hands of the capital holders. That's especially true when it comes to the right to research and development. Again, it's all about bargaining power, and the more value that the shareholders can consolidate at the top of the pyramid, the more labor value they can extract from you without consequence. The pie keeps getting bigger thanks to technology advancing and your hard work, but every time the pie grows, corporate interests readjust the knife to just give you a smaller slice. The quality of jobs are declining and the numbers of jobs needed to survive increases. Meanwhile, the economy keeps producing more wealth than ever before. You are just getting less of it. Even if you're no stranger to the"
     }
   ]
 }
