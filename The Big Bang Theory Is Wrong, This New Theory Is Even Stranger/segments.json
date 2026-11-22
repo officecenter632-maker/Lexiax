@@ -1,0 +1,341 @@
+{
+ "version": 1,
+ "video_id": "eOZblHcqkvo",
+ "titre_video": "The Big Bang Theory Is Wrong, This New Theory Is Even Stranger",
+ "duree_s": 966.4,
+ "avancement": {
+  "lignes_traitees": 202,
+  "fin_traitee_s": 966.4,
+  "nb_lignes_total": 202,
+  "complet": true
+ },
+ "nb_segments": 17,
+ "segments": [
+  {
+   "id": 1,
+   "debut": 0.32,
+   "fin": 29.03,
+   "temps_estime": true,
+   "titre": "Intro: the Big Bang singularity as a cosmic error code",
+   "resume": "Opening hook: the claim that the universe exploded from a single infinitesimal point is impossible, because the singularity is a glitch where physics and gravity break down. Deep space exploration is exposing cracks in cosmology and raises the question of what really happened at the start of the universe.",
+   "mots_cles": [
+    "Big Bang",
+    "singularity",
+    "cosmology",
+    "universe origin",
+    "error code",
+    "physics breakdown",
+    "deep space exploration",
+    "hook"
+   ],
+   "texte": "13.8 billion years ago, the universe exploded out of a single, infinitesimal point. It’s a great story… and it’s impossible. The point of singularity isn’t a real place. It’s a glitch. A cosmic error code where physics and gravity broke down. Now deep space exploration is exposing the cracks at the foundation of cosmology. And it’s shattering reality. If the Bang wasn’t the beginning… what really happened at the start of the universe?"
+  },
+  {
+   "id": 2,
+   "debut": 29.03,
+   "fin": 89.52,
+   "temps_estime": true,
+   "titre": "Why the singularity at Time Zero breaks physics",
+   "resume": "Einstein's General Relativity traces the universe back to a tiny dense point at Time Zero, but compressing space-time to zero volume makes the fabric fall apart and requires quantum physics, which relativity ignores. Dividing by zero is a mathematical impossibility, so the textbook idea of birth from nothing is not established fact.",
+   "mots_cles": [
+    "General Relativity",
+    "Albert Einstein",
+    "Time Zero",
+    "singularity",
+    "space-time",
+    "quantum mechanics",
+    "divide by zero",
+    "birth from nothing",
+    "Big Bang theory"
+   ],
+   "texte": "For generations, Albert Einstein’s General Theory of Relativity, told us that the history of the universe could be traced back in a simple straight line. The further back you go, the closer the stars and galaxies and atoms get, until, eventually everything is condensed into a tiny and dense point. Time Zero. There’s just one problem. At Time Zero the laws of physics and time die. Einstein proved that space and time aren’t separate. They form a 4 dimensional fabric called space-time. Mass bends it and gravity shapes it. But when you compress it all into a single location, the idea of a continuous fabric falls apart. There’s no logical way to explain it. At that point, quantum physics takes over. But General Relativity ignores quantum mechanics. Condensing classical gravity all the way to zero volume forces the universe’s ultimation to divide by zero… a mathematical impossibility. The textbook explanation of how the universe formed, the idea of a “birth from nothing”, isn’t an established fact."
+  },
+  {
+   "id": 3,
+   "debut": 89.52,
+   "fin": 130.0,
+   "temps_estime": false,
+   "titre": "The Lambda Cold Dark Matter model and its successes",
+   "resume": "The Lambda Cold Dark Matter model became the most widely accepted explanation for how the universe began, grew and keeps expanding. It accurately predicted the temperature fluctuations of the Cosmic Microwave Background and explains the cosmic web of galaxies, clusters and voids.",
+   "mots_cles": [
+    "Lambda Cold Dark Matter",
+    "Lambda CDM",
+    "Cosmic Microwave Background",
+    "CMB",
+    "cosmic web",
+    "galaxies",
+    "cosmological model",
+    "expansion of the universe"
+   ],
+   "texte": "It’s a theory riddled with holes. Scientists have desperately tried to paper over those holes with different ideas and theories over the years. Arguably the most famous and widely-accepted of those theories is the “Lambda Cold Dark Matter” model. It tries to explain how the universe started, how it grew, and how it continues to expand even today. For decades, it was the cosmic Holy Grail. The model accurately predicted the temperature fluctuations of the leftover heat from the Big Bang, known as the Cosmic Microwave Background, or CMB. It also serves as a handy explainer for the cosmic web of galaxies, clusters, and voids that make up the known universe. It was hailed as a masterpiece."
+  },
+  {
+   "id": 4,
+   "debut": 130.0,
+   "fin": 183.52,
+   "temps_estime": false,
+   "titre": "The 95% dark sector: dark matter and dark energy never detected",
+   "resume": "Lambda CDM says baryonic matter is only 5% of the universe, with about 27% Cold Dark Matter and 68% Dark Energy. Despite decades of searching, neither has ever been detected in any physical form, so the model rests on two things impossible to prove.",
+   "mots_cles": [
+    "dark matter",
+    "dark energy",
+    "baryonic matter",
+    "95% of the universe",
+    "Cold Dark Matter",
+    "27%",
+    "68%",
+    "undetected",
+    "Lambda CDM flaws"
+   ],
+   "texte": "But it has its flaws. It states that “baryonic matter” matter, which is every single star, planet, moon, the air we breathe and our existence, accounts for just 5% of the entire universe. The other 95% is divided into 2 distinct categories, 2 invisible ghosts: Cold Dark Matter, which accounts for around 27% and Dark Energy, which makes up the remaining 68%. Cold Dark Matter is a shadow material holding galaxies together. Dark energy is the force driving the rapid expansion of the universe, ripping the fabric of space apart. At least, that’s the theory. In reality, despite decades of searching neither Cold Dark Matter nor Dark Energy has ever been detected or identified in any physical form. So, the Lambda Cold Dark Matter model relies on the assumption that 95% of the universe is made up of two things that are impossible to prove exist."
+  },
+  {
+   "id": 5,
+   "debut": 183.52,
+   "fin": 209.52,
+   "temps_estime": true,
+   "titre": "Why the theory went unchallenged until next-generation telescopes",
+   "resume": "The Lambda CDM theory was accepted not because it made sense but because the technology to disprove it did not exist, as telescopes could not see ancient light from 13.8 billion years ago. That changed with next-generation space observation technologies.",
+   "mots_cles": [
+    "unchallenged theory",
+    "deep-space telescopes",
+    "ancient light",
+    "13.8 billion years",
+    "space observation technology",
+    "early universe",
+    "cosmology"
+   ],
+   "texte": "For decades, the theory was accepted, not because it made sense… but because the technology to prove it wrong didn’t exist. Astronomers needed to go back 13.8 billion years, to the dawn of time. Even the best deep-space telescopes weren’t strong enough. The ancient light from the earliest days of the universe was out of reach. So the theory remained unchallenged. At least until the next-generation space observation technologies were developed. Then everything changed."
+  },
+  {
+   "id": 6,
+   "debut": 209.52,
+   "fin": 271.44,
+   "temps_estime": true,
+   "titre": "Sponsor segment: Matiks mind sport app",
+   "resume": "Sponsored section for Matiks, an app with one-minute duels in memory, math and puzzles against real opponents, including a Brain Rot Test of three quick games. It offers a three-day free trial and 20% off the annual plan.",
+   "mots_cles": [
+    "Matiks",
+    "sponsor",
+    "mind sport",
+    "brain rot test",
+    "one-minute duels",
+    "puzzles",
+    "memory and math games",
+    "free trial",
+    "doomscrolling"
+   ],
+   "texte": "But before we go any further, you might be able to solve a puzzle. Can you solve it in sixty seconds while someone else races you? That’s the challenge with today’s sponsor, Matiks - the mind sport. You play one-minute duels against real people across memory, math, and puzzles, with opponents matched to your rating. Knowing the answer is one thing. Getting there before your opponent is where it gets interesting. And if you’ve ever opened your phone for a quick break and somehow lost twenty minutes to scrolling, here’s a different way to spend that time. First up, we’re taking Matiks’ Brain Rot Test: three quick games that test your memory, speed, and focus. You get an in-app score, broken down by skill and can compare your brain rot score with your friends. Higher means more “brain rot” on their scale. To lower yours, swap a scroll session for a few short rounds. Challenge friends, climb the ranks, and build a daily streak to bring down your own brain rot score. So next time you catch yourself doomscrolling, give your focus a challenge instead. Download Matiks through the link in the description or scan the QR code to get started with a three-day free trial and get 20% off the annual plan."
+  },
+  {
+   "id": 7,
+   "debut": 271.44,
+   "fin": 350.08,
+   "temps_estime": false,
+   "titre": "Expected cosmic timeline versus fully formed early galaxies",
+   "resume": "Lambda CDM predicts rapid expansion, cooling, then 380,000 years and tens of millions of years of cosmic dark ages before gas gathered in dark matter pockets to form stars and, over billions of years, mature galaxies. Deep observations instead found fully formed galaxies with orderly rotation and heavy elements, leaving cosmology with an impossible timeline, a broken Zero Hour and a missing 95%.",
+   "mots_cles": [
+    "cosmic dark ages",
+    "early galaxies",
+    "mature galaxies",
+    "heavy elements",
+    "galaxy formation timeline",
+    "Lambda CDM",
+    "380,000 years",
+    "impossible timeline",
+    "dark sector"
+   ],
+   "texte": "According to the Lambda CDM model, after the Big Bang, there was a period of rapid expansion, then a period of cooling. After 380,000 years, the universe transitioned into the so-called “cosmic dark ages.” For tens of millions of years, the universe was a ghost town. No stars. No galaxies. Nothing. It was just a primordial mixture of gases drifting across space. Gravity then supposedly pulled these gases into pockets of dark matter. It took millions of years to create the first generation of primitive star formations. And it took billions of years to build mature galaxies. But when scientists took a closer look at the deepest stretches of space, they uncovered something that absolutely shattered the pre-existing timeline. Instead of the dark and sparse space soup they expected, they found fully formed galaxies. They had complex structures, orderly rotations, and high concentrations of heavy elements that simply couldn’t exist at the start of space. Complex and mature galaxies shouldn’t be able to exist without hundreds of millions of years of history behind them. Faced with an impossible timeline, a broken “Zero Hour” and a missing 95% “dark sector,” cosmology is now facing up to a frightening new reality. It’s a reality that forces them to throw out everything they thought they knew about the known universe."
+  },
+  {
+   "id": 8,
+   "debut": 350.08,
+   "fin": 426.4,
+   "temps_estime": false,
+   "titre": "The Black Hole Universe and the Big Bounce",
+   "resume": "The Black Hole Universe model proposes we live inside a gigantic black hole within a larger parent universe, and that the Big Bang was a Big Bounce: collapsing matter hit a quantum wall before forming a singularity and rebounded into a new space. Our universe is then part of a potentially endless cosmic cycle.",
+   "mots_cles": [
+    "Black Hole Universe",
+    "Big Bounce",
+    "parent universe",
+    "event horizon",
+    "quantum rebound",
+    "cosmic cycle",
+    "collapse",
+    "alternative to Big Bang"
+   ],
+   "texte": "What if it didn’t explode out of an infinitely dense point of absolute nothingness, after all? What if, instead, there was a different explanation? There is an alternative. One built on absolute and verifiable facts. And it’s called the Black Hole Universe. According to this model, the universe wasn’t crushed into a zero-volume point, and it wasn’t born out of nowhere. Instead, we’re living inside a gigantic black hole, which exists within a far larger, pre-existing “parent universe.” What we call the Big Bang wasn’t the origin story of space and time. It was, in fact, a “Big Bounce.” A massive quantum rebound occurring safely inside a black hole’s event horizon. Imagine a colossal cloud of matter collapsing under its own gravity in the parent universe, birthing a black hole. As matter was sucked in, it compressed to extreme densities. Right before it could form a broken point of singularity, it hit a quantum wall. The physical properties inverted. Instead of collapsing, the matter violently rebounded into a brand new part of space. What we see in the night sky is just the echo of that rebound. We aren’t the product of an explosion that happened “out of nowhere,” we’re just part of a potentially endless cosmic cycle. Our whole universe is a mere speck in a far larger one."
+  },
+  {
+   "id": 9,
+   "debut": 426.4,
+   "fin": 512.56,
+   "temps_estime": false,
+   "titre": "James Webb discovery of JADES-GS-z14-0, the galaxy that shouldn't exist",
+   "resume": "The James Webb Space Telescope found JADES-GS-z14-0, a galaxy at redshift about 14.18 formed roughly 300 million years after the Big Bang, over 1,600 light years wide with millions of stars. Spectroscopy showed ionized oxygen, a heavy element that requires generations of stars, contradicting Cold Dark Matter predictions.",
+   "mots_cles": [
+    "James Webb Space Telescope",
+    "JWST",
+    "JADES-GS-z14-0",
+    "redshift 14.18",
+    "early galaxy",
+    "ionized oxygen",
+    "heavy elements",
+    "spectroscopy",
+    "300 million years after Big Bang"
+   ],
+   "texte": "This isn’t just the random ramblings of theoretical physicists searching for some alternative explanation to the Big Bang. It’s a framework that’s based on actual data captured at the edge of observable space. That’s where the James Webb Space Telescope, or JWST comes in. Its Near-Infrared Camera and Mid-Infrared Instrument scoured deep space and locked onto a galaxy named JADES-GS-z14-0. This galaxy has a red-shift of about 14.18, which means that it’s one of the most distant galaxies ever discovered. The galaxy formed around 13.5 billion years ago, or around 300 million years after the Big Bang. According to the Lambda Cold Dark Matter framework, space at that time should have been empty, aside from primordial gas clouds swirling around dark matter pockets. It certainly shouldn’t have contained any complex, fully-formed galaxies. JADES-GS-z14-0 measures up at more than 1,600 light years wide and is packed with millions of stars. But the real smoking gun was the spectroscopic analysis, which found signatures of heavy elements, including ionized oxygen. This goes against the Cold Dark Matter model. That says that hydrogen and helium might be present around the time this galaxy formed. But oxygen can only appear after generations of stars being born, fusing, dying. It’s the galaxy that shouldn’t exist. And that’s just the start."
+  },
+  {
+   "id": 10,
+   "debut": 512.56,
+   "fin": 576.08,
+   "temps_estime": false,
+   "titre": "The Hubble Tension and the two failures of the Big Bang framework",
+   "resume": "Expansion measured from background radiation gives about 67 to 68 km/s/Mpc but local measurements give 73 to 74, a 5-sigma discrepancy with roughly a 1-in-3.5-million chance of being a fluke. Together with impossible early galaxies, the Big Bang framework fails in two major ways, motivating an alternative.",
+   "mots_cles": [
+    "Hubble Tension",
+    "expansion rate",
+    "5-sigma discrepancy",
+    "megaparsec",
+    "cosmic background radiation",
+    "67 km/s/Mpc",
+    "73 km/s/Mpc",
+    "Big Bang failures"
+   ],
+   "texte": "For years, astrophysicists have been haunted by the “Hubble Tension”. When scientists calculate how fast the universe expands using background radiation from the dawn of time, they find a rapid expansion rate of about 67 to 68 kilometers per second per megaparsec. A megaparsec is almost 3.3 million light years. But, when they look at the expansion rate closer to home, that expansion jumps to 73 to 74 kilometers per second per megaparsec. In physics, this is known as a “5-sigma statistical discrepancy”. That means that there’s roughly a 1-in-3.5-million chance that this mismatch is a random fluke. The equipment is perfect. The numbers are flawless. The mechanics are precise. Yet the numbers refuse to play ball. It defies all logic. The Big Bang framework is failing in two major ways: it can’t explain how complex galaxies could have formed at the so-called “dawn of time.” And it can't explain how the universe is expanding at two different speeds. And if the theory is so broken, we have no other option but to find a more reliable alternative."
+  },
+  {
+   "id": 11,
+   "debut": 576.08,
+   "fin": 660.88,
+   "temps_estime": false,
+   "titre": "Einstein-Cartan-Sciama-Kibble theory: torsion and the black hole bounce",
+   "resume": "Einstein assumed space-time could curve but not twist (no intrinsic torsion), so collapse led to a singularity. ECSK theory says extreme spin density creates a torsional field, inverting gravity from attractive to repulsive and triggering a Big Bounce inside a black hole, an idea championed by physicist Nikodem Poplawski.",
+   "mots_cles": [
+    "Einstein-Cartan-Sciama-Kibble",
+    "ECSK theory",
+    "torsion",
+    "spin density",
+    "Big Bounce",
+    "Nikodem Poplawski",
+    "black hole",
+    "singularity",
+    "repulsive gravity"
+   ],
+   "texte": "But modern physicists realized that they didn’t necessarily need to “throw out” all the hard work that had been done by their predecessors. They just needed to modify it. When Albert Einstein formulated his theory of General Relativity, he assumed that space-time was able to curve, but wasn’t able to twist. Or, in more technical terms, it didn’t possess any “intrinsic torsion.” It meant that a collapsing star was always destined to compress into an infinitely dense point… a singularity. But what if space-time can twist? TheEinstein-Cartan-Sciama-Kibble, or ECSK theory proves that when matter collapses to its extreme lime, the spin density skyrockets, generating an enormous torsional field. It acts like a giant cosmic shock absorber. At that moment, gravity essentially inverts, going from powerfully attractive to fiercely repulsive in an instant. That’s what triggers the resulting “Big Bounce” effect. This theory says that the universe didn’t just explode into existence out of nowhere. Instead, the mass of the universe compressed into a tiny point before violently bouncing back. It was a continuous event happening inside a black hole. Several scientists have explored this idea dating back to the 1970s. But today, it’s Polish theoretical physicist, Dr. Nikodem Poplawski, who is leading the charge. He argues that the Black Hole Universe model removes one of the biggest barriers to human exploration and understanding of the known universe…"
+  },
+  {
+   "id": 12,
+   "debut": 660.88,
+   "fin": 726.64,
+   "temps_estime": false,
+   "titre": "The illusion of Time Zero: time before the Big Bang",
+   "resume": "The classic Big Bang forced the idea of Time Zero, making questions about before it moot, as when Stephen Hawking compared them to asking what is north of the North Pole. Replacing the singularity with a quantum bounce means time flowed continuously before the bounce, restoring cause and effect according to Poplawski.",
+   "mots_cles": [
+    "Time Zero",
+    "Stephen Hawking",
+    "north of the North Pole",
+    "before the Big Bang",
+    "quantum bounce",
+    "Nikodem Poplawski",
+    "cause and effect",
+    "singularity"
+   ],
+   "texte": "The illusion of Time Zero. For decades, the classic Big Bang model forced that on us. It claimed that space and time exploded out of nothingness at the point when “time equals zero,” rendering any discussion of what might have happened before that point moot. Stephen Hawking once said that even asking the question “What happened before the Big Bang?” was pointless, like asking “What is north of the North Pole?” And it was this dogmatic viewpoint that protected a broken equation for so many years. The word “singularity” did all of the heavy-lifting, but was completely mysterious, defying so many of the laws of classical physics. Replacing that singularity with a quantum “bounce” changes everything. It means that time no longer started at “Time Zero”. Instead, it flowed continuously before the bounce, roared through it, and carried its momentum and energy into the creation of our universe. According to Poplawski, the singularity wasn’t the start of reality. It was just the wall that previous generations of physicists couldn’t get past. They didn’t have the tools, knowledge, and data they needed to break through Now, they do. And the rule of cause and effect has been restored."
+  },
+  {
+   "id": 13,
+   "debut": 726.64,
+   "fin": 775.95,
+   "temps_estime": true,
+   "titre": "Big Bounce solves the entropy, horizon and something-from-nothing problems",
+   "resume": "The Big Bounce explains the universe's low initial entropy as a consequence of space-time torsion and resolves the Horizon Problem because distant regions were causally connected before the bounce. It also replaces the ex nihilo mystery of something from nothing with something coming from something.",
+   "mots_cles": [
+    "low entropy",
+    "Horizon Problem",
+    "ex nihilo",
+    "Big Bounce",
+    "space-time torsion",
+    "causal connection",
+    "same temperature",
+    "classical Big Bang problems"
+   ],
+   "texte": "In the process, the classic Big Bang problems have been solved. The classical theory struggled to explain why the universe started off in such a low entropy state. The Big Bounce model solves that by revealing that the low entropy was a natural consequence of space-time torsion. The classical theory also had no answers for the so-called “Horizon Problem.” This is the mystery of why regions at different ends of the universe share the same temperature, despite being so far apart. The Big Bounce framework fixes that, too. It explains that those parts of space were causally connected before the bounce occurred. It would explain why they share the same thermal characteristics. And, the classical theory ultimately rested on an “ex nihilo” mystery of something coming from nothing. But the Big Bounce replaces that with a much more comprehensible “something came from something” explanation."
+  },
+  {
+   "id": 14,
+   "debut": 775.95,
+   "fin": 838.56,
+   "temps_estime": true,
+   "titre": "Black holes as universes: the multiverse of bubble universes",
+   "resume": "If our universe was born from a collapsing star in a parent universe, the same could happen in each of the estimated 40 quintillion black holes, each housing its own universe in an endless fractal. This aligns with the Multiverse theory and implies our universe is not special, just a speck in an infinitely larger entity.",
+   "mots_cles": [
+    "multiverse",
+    "bubble universes",
+    "40 quintillion black holes",
+    "fractal universes",
+    "ECSK theory",
+    "infinite universes",
+    "identical worlds",
+    "not special"
+   ],
+   "texte": "If you expand the theory further, an extraordinary realization emerges. If our universe was birthed from the gravitational collapse of a dying star in a parent universe, couldn’t the exact same thing happen again and again in other black holes? Scientists estimate that there are 40 quintillion black holes in our universe. When we apply Einstein-Cartan-Sciama-Kibble theory across them all, it’s possible that each one could house its very own separate universe. Inside those universes could be countless more black holes, with their own universes, and the pattern could continue like that, infinitely. It aligns perfectly with the “Multiverse” theory. Our entire universe is just one of an infinite number of bubble universes. An endless fractal where every possibility plays out an infinite number of times. It leaves us with infinite worlds identical to our own and countless more changing in ways we can’t imagine. This completely transforms our picture of reality even further. It suggests that our universe isn’t that special at all. It’s an infinitely small piece of an infinitely larger entity."
+  },
+  {
+   "id": 15,
+   "debut": 838.56,
+   "fin": 899.68,
+   "temps_estime": false,
+   "titre": "Parent and child universes: cosmic inheritance and evolution",
+   "resume": "Our universe could sit inside a parent, itself inside another, with child universes inheriting features such as the strength of gravity, speed of light and particle masses, altered by quantum fluctuations at each bounce. This resembles cosmic evolution: universes with conditions for many stars, galaxies and black holes produce more universes, and ours came from the right kind of parent.",
+   "mots_cles": [
+    "parent universe",
+    "child universe",
+    "inheritance of physical constants",
+    "speed of light",
+    "strength of gravity",
+    "cosmic evolution",
+    "quantum fluctuations",
+    "family tree of universes",
+    "stars and black holes"
+   ],
+   "texte": "A tiny speck among countless others. If the parent and child universe concept is accurate, then there’s no telling how far back that chain could go. Our universe could be sat inside a parent, which is, itself, sat inside another parent, and so on. And just as real children inherit characteristics from their birth parents, child universes are also believed to inherit certain features from their parents. Features like the strength of gravity, the speed of light, and even the size and mass of individual particles. Everything is passed down from parent to child, albeit slightly altered each time due to the quantum fluctuations that occur during every single “Big Bounce.” It’s almost like the process of evolution, expanded on a cosmic scale. Universes with the right kinds of physical constraints are able to form vast numbers of massive stars, dense galaxies, and black holes. They go on to give birth to countless more universes of their own, forming family trees that get infinitely wider as they grow. Our universe was just one that happened to have formed from the right kind of parent, with sufficient stars, heavy elements, and other key characteristics."
+  },
+  {
+   "id": 16,
+   "debut": 899.68,
+   "fin": 955.93,
+   "temps_estime": true,
+   "titre": "Conclusion: our universe is a node in a larger network, not the dawn of the cosmos",
+   "resume": "Our universe is presented as a singular node in a far larger network, and disagreements over the Hubble Tension and the 95% dark sector are signs science is progressing, not failing. Looking deep into space with telescopes, we may be seeing only the dawn of our pocket of reality, the aftermath of a cosmic rebound.",
+   "mots_cles": [
+    "conclusion",
+    "Hubble Tension",
+    "dark sector",
+    "science progress",
+    "dawn of the cosmos",
+    "cosmic rebound",
+    "telescopes",
+    "larger network of universes"
+   ],
+   "texte": "This is the next step in understanding our universe. We’re taking the next step forward, acknowledging that our universe isn’t actually some sort of unique arena of existence. It’s a singular node in a far larger network. And the facts that physicists may have been wrong up to now or that they continue to disagree on matters like the Hubble Tension and “95% Dark Sector” aren’t signs that science has failed. They’re signs that it’s progressing. That our understanding of everything around us is evolving, and that evolution may involve having to cross-out or rewrite some of our old notes and theories to bring them up to date. That’s exactly what scientists and astronomers have been doing for centuries. And so, when we glance deep into the night sky using the most advanced telescopes on Earth, it turns out we probably aren’t looking at the “dawn of the cosmos,” after all. Just the dawn of our little pocket of it. The aftermath of a chaotic cosmic rebound in a reality that is infinitely older, larger, and more interconnected than we could ever have imagined."
+  },
+  {
+   "id": 17,
+   "debut": 955.93,
+   "fin": 966.4,
+   "temps_estime": true,
+   "titre": "Outro: recommended video on surprising facts about space",
+   "resume": "Closing call to action pointing viewers to the video \"50 Surprising Facts About Space You Didn't Know\" to see how the final frontier is still surprising scientists.",
+   "mots_cles": [
+    "outro",
+    "call to action",
+    "50 Surprising Facts About Space",
+    "space facts",
+    "next video"
+   ],
+   "texte": "Think you know everything there is about space? Think again. Watch “50 Surprising Facts About Space You Didn't Know” to see how the final frontier is still surprising scientists. Or click on this."
+  }
+ ]
+}
