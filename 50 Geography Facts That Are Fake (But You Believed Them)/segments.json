@@ -1,0 +1,1002 @@
+{
+  "version": 1,
+  "video_id": "Ua_Q5VY0tDo",
+  "titre_video": "50 Geography Facts That Are Fake (But You Believed Them)",
+  "duree_s": 1757.52,
+  "avancement": {
+    "lignes_traitees": 486,
+    "fin_traitee_s": 1757.52,
+    "nb_lignes_total": 486,
+    "complet": true
+  },
+  "nb_segments": 54,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.16,
+      "fin": 12.4,
+      "temps_estime": false,
+      "titre": "Introduction: geography class myths",
+      "resume": "The narrator opens by claiming that most of what people learned in geography class is a lie. Millions of people confidently repeat facts about continents, cities and what can be seen from space, and those beliefs are closer to fiction than reality.",
+      "mots_cles": [
+        "geography myths",
+        "geography class",
+        "misconceptions",
+        "continents",
+        "cities",
+        "seen from space"
+      ],
+      "texte": "Most of what you learned in geography class… is a lie. Millions of people confidently repeat facts about continents, cities and what can be seen from space. And honestly, they’re probably closer to fiction than reality."
+    },
+    {
+      "id": 2,
+      "debut": 12.4,
+      "fin": 50.64,
+      "temps_estime": false,
+      "titre": "Number of continents and hidden Zealandia",
+      "resume": "Fact 50: people give different answers on how many continents exist (5, 6 or 7, with the Americas or Eurasia sometimes merged), yet an eighth is hidden. Zealandia is 1.65 times larger than India, 94% submerged, with New Caledonia and New Zealand as its visible parts.",
+      "mots_cles": [
+        "continents",
+        "Zealandia",
+        "how many continents",
+        "New Zealand",
+        "New Caledonia",
+        "submerged continent",
+        "India",
+        "Eurasia"
+      ],
+      "texte": "50. Ask anyone how many continents there are in the world… and the answer is probably wrong. Depending on where you grew up, you were taught there are 5, 6 or 7 continents. Some countries teach that the Americas are one whole continent. Others teach that Eurasia is one continent. But even if you were taught that there are 7, your teachers probably still lied to you. Because there’s an entire continent hidden from view. Welcome to Zealandia. It’s 1.65 times larger than India. But 94% of its landmass is submerged underwater. The biggest pieces poking out from the ocean’s surface? The islands of New Caledonia and New Zealand. Speaking of islands…"
+    },
+    {
+      "id": 3,
+      "debut": 50.64,
+      "fin": 86.76,
+      "temps_estime": false,
+      "titre": "Sweden has the most islands in the world",
+      "resume": "Fact 49: Indonesia and the Philippines are the usual guesses for the country with the most islands, but Sweden wins with over 267,000. Norway and Finland have about 150,000, carved out by glacial retreat in the last Ice Age, versus about 17,500 for Indonesia and 7,600 for the Philippines.",
+      "mots_cles": [
+        "most islands",
+        "Sweden",
+        "Indonesia",
+        "Philippines",
+        "archipelago",
+        "Norway",
+        "Finland",
+        "Ice Age"
+      ],
+      "texte": "49. Indonesia is the country with the most islands in the world. Or maybe it’s the Philippines. Those are the two most frequent guesses among the general public. And they’re both wrong. The crown belongs to Sweden, pacing over 267,000 islands spread across its territory. Its Nordic neighbors, Norway and Finland, aren’t too far behind with 150,000 islands. Massive chunks of these countries exist as archipelagos, carved out by glacial retreats during the last Ice Age. By comparison, Indonesia only has around 17,500, while the Philippines have 7,600. And since we’re in Scandinavia…"
+    },
+    {
+      "id": 4,
+      "debut": 86.76,
+      "fin": 121.12,
+      "temps_estime": false,
+      "titre": "Nordic versus Scandinavian countries",
+      "resume": "Fact 48: Finland is often wrongly called Scandinavian. Scandinavia is Denmark, Sweden and Norway, which share language, culture and history, while Finnish has unrelated roots and Finns have different ethnic origins. Finland and Iceland are Nordic, a group of five countries with political and cultural ties.",
+      "mots_cles": [
+        "Nordic",
+        "Scandinavian",
+        "Finland",
+        "Denmark",
+        "Sweden",
+        "Norway",
+        "Iceland",
+        "Finnish language"
+      ],
+      "texte": "48. Most people confuse Nordic and Scandinavian countries, which explains why Finland usually gets called “Scandinavian”... Even though it’s not. The real Scandinavian countries are Denmark, Sweden, and Norway. They all share closer linguistic, cultural, and historic ties with each other than they do with neighboring Finland. The Finnish language shares zero roots with them and its people come from completely different ethnic origins. However, Finland, as well as Iceland, is part of the Nordics. All 5 countries do share some political and cultural ties. Moving one over to Norway…"
+    },
+    {
+      "id": 5,
+      "debut": 121.12,
+      "fin": 145.68,
+      "temps_estime": false,
+      "titre": "Northernmost country in the world is Denmark",
+      "resume": "Fact 47: Norway is assumed to be the northernmost country because of its northernmost permanently inhabited town, but Russia, Canada and Greenland reach further north. The true northernmost land belongs to Denmark through Greenland, at Kaffeklubben Island.",
+      "mots_cles": [
+        "northernmost country",
+        "Norway",
+        "Denmark",
+        "Greenland",
+        "Kaffeklubben Island",
+        "North Pole",
+        "Russia",
+        "Canada"
+      ],
+      "texte": "47. People usually think Norway is the northernmost country in the world because the northernmost permanently inhabited town in the world is there. But Russia, Canada, and Greenland all reach further towards the North Pole. The actual northernmost country in the world? Denmark. It’s all thanks to a peninsula of Kaffeklubben Island, a slice of land sitting off the coast of its autonomous territory, Greenland. What about the other side of the world?"
+    },
+    {
+      "id": 6,
+      "debut": 145.68,
+      "fin": 186.48,
+      "temps_estime": false,
+      "titre": "The South Pole is not just one thing",
+      "resume": "Fact 46: the South Pole is often equated with Antarctica, but there are several poles. The Geographic South Pole is where Earth's axis meets the crust, the Geomagnetic and Magnetic South Poles relate to magnetic fields (the magnetic one keeps moving), and the Pole of Inaccessibility is the point farthest from any shoreline.",
+      "mots_cles": [
+        "South Pole",
+        "Antarctica",
+        "Geographic South Pole",
+        "Geomagnetic pole",
+        "Magnetic South Pole",
+        "Pole of Inaccessibility",
+        "Earth's axis"
+      ],
+      "texte": "46. Not only do many people believe that the South Pole is always by definition located in Antarctica; many even use the South Pole and Antarctica interchangeably. But the South Pole isn’t just one thing. There’s the Geographic South Pole, which is where the earth’s axis intersects Earth’s crust. Then there’s the Geomagnetic South Pole, where the geomagnetic field intersects the Earth’s surface. Then the Magnetic South Pole, where Earth’s magnetic fields intersect the crust. This pole isn’t even constant. It’s perpetually moving around. And, of course, there’s the Pole of Inaccessibility, where Antarctica is farthest from any nearby shoreline. Antarctica actually has many myths surrounding it."
+    },
+    {
+      "id": 7,
+      "debut": 186.48,
+      "fin": 210.96,
+      "temps_estime": false,
+      "titre": "Time zones in Antarctica",
+      "resume": "Fact 45: although some regions of Antarctica have no time zones, seven countries hold territorial claims and run research stations there. Each station uses the time zone of its home country or supply base so it can communicate with headquarters.",
+      "mots_cles": [
+        "Antarctica",
+        "time zones",
+        "research stations",
+        "territorial claims",
+        "supply base",
+        "headquarters"
+      ],
+      "texte": "45. While several regions in Antarctica don’t have time zones, that’s not true across the whole continent. 7 countries have territorial claims in Antarctica and operate numerous research stations that rely on time zones to work. Each station adjusts its time zone to its country of origin, or to their supply base. That way, they can communicate with their headquarters most effectively. Not that time zones always make sense to begin with…"
+    },
+    {
+      "id": 8,
+      "debut": 210.96,
+      "fin": 255.6,
+      "temps_estime": false,
+      "titre": "Spain's time zone and Franco",
+      "resume": "Fact 44: time zones are believed to follow longitude, which is mostly true. Spain lies under London's longitude but is one hour ahead because Francisco Franco switched it to German time during WWII to show support for Hitler. Spaniards kept it after Franco died.",
+      "mots_cles": [
+        "time zones",
+        "longitude",
+        "Spain",
+        "Francisco Franco",
+        "GMT",
+        "London",
+        "WWII",
+        "Germany"
+      ],
+      "texte": "44. A common belief is that Time zones are constructed based on longitude. And that’s true for most places. But some countries like to mess it up. Take Spain, for example. It should be in the same time zone as London, as it sits underneath it. It’d make sense for both of them to be on GMT time. Except, Spain is one hour ahead… all because of one man’s decision. Dictator Francisco Franco. He wanted to show support for Hitler during WWII - without actually joining the war - so he decided to change Spain’s time zone to match Germany’s. Despite Germany being significantly to the east of the country. When Franco died decades later, Spanish people had become used to the new time zone, so decided to keep it. There’s general time zone confusion all around though…"
+    },
+    {
+      "id": 9,
+      "debut": 255.6,
+      "fin": 287.84,
+      "temps_estime": false,
+      "titre": "France has more time zones than Russia",
+      "resume": "Fact 43: Russia is assumed to have the most time zones with 11, but France has 12 because of overseas territories such as French Polynesia, Reunion and French Guiana. The UK still has 9 for the same reason.",
+      "mots_cles": [
+        "time zones",
+        "France",
+        "Russia",
+        "overseas territories",
+        "French Polynesia",
+        "Reunion",
+        "French Guiana",
+        "United Kingdom"
+      ],
+      "texte": "43. Russia is so big it’s larger than Pluto, it would make sense for it to have the most time zones of any country. But that’s not the case. Because while Russia has 11 time zones, another country managed to sneak ahead and get 12. France. The extraordinary amount of time zones is due to the country’s overseas territories, including French Polynesia, Reunion, and French Guiana, to name just a few. Other former colonist countries also have an unexpectedly large number of time zones due to remaining territories; the UK still has 9."
+    },
+    {
+      "id": 10,
+      "debut": 287.84,
+      "fin": 313.76,
+      "temps_estime": false,
+      "titre": "Closest country to Madagascar is France",
+      "resume": "Fact 42: Mozambique looks like Madagascar's nearest neighbor, but the closest country is France. Mayotte, northwest of Madagascar, has officially been a French overseas department and territory since 1841.",
+      "mots_cles": [
+        "Madagascar",
+        "Mozambique",
+        "France",
+        "Mayotte",
+        "overseas department",
+        "closest country",
+        "mental map"
+      ],
+      "texte": "42. Any idea what the closest country to Madagascar is? Mozambique maybe? Incorrect, even though it may see that way on the map. The closest country to Madagascar is…France. And it’s all down to those overseas territories again. Northwest of Madagascar is the small island of Mayotte. And it is officially - and has been since 1841 - an overseas department and territory of France. It just shows that our mental map doesn’t always make sense…"
+    },
+    {
+      "id": 11,
+      "debut": 313.76,
+      "fin": 336.88,
+      "temps_estime": false,
+      "titre": "Greenland stretches west of Iceland",
+      "resume": "Fact 41: Greenland appears to lie west of Iceland, but that is an illusion. The huge island extends further west, north, east and south than Iceland, and its eastern peninsula Northern Foreland (Nordostrundingen) reaches over Iceland.",
+      "mots_cles": [
+        "Greenland",
+        "Iceland",
+        "geographic illusion",
+        "Northern Foreland",
+        "Nordostrundingen",
+        "east and west",
+        "longitude"
+      ],
+      "texte": "41. Greenland seems like it's west of Iceland. But that’s a geographic illusion. The frozen giant is so huge, it actually stretches further west, north, east, and south than Iceland. The eastern peninsula, known as Northern Foreland, or Nordostrundingen locally, reaches so far across, it hangs over Iceland. Turns out, figuring out east and west is harder than people think…"
+    },
+    {
+      "id": 12,
+      "debut": 336.88,
+      "fin": 360.16,
+      "temps_estime": false,
+      "titre": "Easternmost US state is Alaska, not Maine",
+      "resume": "Fact 40: Maine looks like the easternmost US state, but the International Date Line is ignored. Alaska's Aleutian Islands cross the 180th meridian into the eastern hemisphere, making Alaska the easternmost state.",
+      "mots_cles": [
+        "easternmost state",
+        "Maine",
+        "Alaska",
+        "Aleutian Islands",
+        "180th meridian",
+        "International Date Line",
+        "eastern hemisphere"
+      ],
+      "texte": "40. It seems like common sense to say Maine is the easternmost state in the U.S. When you look at a map of the United States, Maine is clearly furthest east. But most people don’t take the International Date Line into account. Alaska’s Aleutian islands cross over the 180th meridian, putting them in the eastern hemisphere. Making Alaska the country’s easternmost state. Alaska has other myths surrounding it, like…"
+    },
+    {
+      "id": 13,
+      "debut": 360.16,
+      "fin": 406.88,
+      "temps_estime": false,
+      "titre": "Alaska size and the Mercator projection",
+      "resume": "Fact 39: Alaska looks bigger than Libya, Algeria or the Democratic Republic of the Congo, but it is smaller than all three. The Mercator projection distorts landmasses far from the equator: Libya is 19% larger than Alaska, the DRC 59% and Algeria 61%.",
+      "mots_cles": [
+        "Alaska",
+        "Mercator projection",
+        "map distortion",
+        "Libya",
+        "Algeria",
+        "Democratic Republic of the Congo",
+        "country size",
+        "equator"
+      ],
+      "texte": "39. Alaska is so big, it dwarfs African nations like Libya Algeria or the Democratic Republic of the Congo. The map doesn’t lie afterall. Except it does. Alaska is smaller than all of these countries. The Mercator Map projection has been lying to us for years. Because the globe is stretched out flat to create most maps today, landmasses further away from the equator get distorted to appear much larger than they are. Meanwhile, the opposite happens for those closer to the equator. But most people still don’t understand just how bad the distortion is. Libya is 19% larger than Alaska. The DRC is 59% larger, and Algeria is 61% larger . To get a true idea of the size of something though, you should try viewing it from space…"
+    },
+    {
+      "id": 14,
+      "debut": 406.88,
+      "fin": 424.32,
+      "temps_estime": false,
+      "titre": "The Great Wall of China is not visible from space",
+      "resume": "Fact 38: very few things can be seen in detail from space, including the Great Wall of China. Because it is long but narrow and blends into surrounding terrain, its invisibility is a testament to its engineering.",
+      "mots_cles": [
+        "Great Wall of China",
+        "seen from space",
+        "visible from space",
+        "astronauts",
+        "engineering",
+        "myth"
+      ],
+      "texte": "38. Contrary to popular belief, very few things can actually be seen from space in such detail, and that includes the Great Wall of China. Which is actually a testament to its engineering. Because even though it’s huge, it’s relatively narrow, and it blends into its environment and surrounding geographical contours quite well."
+    },
+    {
+      "id": 15,
+      "debut": 424.32,
+      "fin": 456.8,
+      "temps_estime": false,
+      "titre": "Human-made structures visible from space",
+      "resume": "Continuing fact 38: a surprising number of human-made structures can be seen from space with the naked eye. Examples are the Palm Jumeirah in Dubai, Bingham Canyon Mine in Utah (largest human excavation) and China's Three Gorges Dam on the Yangtze.",
+      "mots_cles": [
+        "visible from space",
+        "Palm Jumeirah",
+        "Dubai",
+        "Bingham Canyon Mine",
+        "Utah",
+        "Three Gorges Dam",
+        "Yangtze River",
+        "naked eye"
+      ],
+      "texte": "So can any human-made structure be seen from space? With the naked eye, and no telephoto lens… a surprising amount can. Like the Palm Jumeirah in Dubai, an artificial island resembling a palm sticking out into the sea. And Bingham Canyon Mine in Utah, the biggest human-made excavation in the world. At least one visible manmade structure in China that’s not the Great Wall, has been seen by astronauts from space. The Three Gorges Dam, on the Yangtze River; known as the largest power-producing facility in the world. Oh, while we’re talking about myths and rivers…"
+    },
+    {
+      "id": 16,
+      "debut": 456.8,
+      "fin": 491.36,
+      "temps_estime": false,
+      "titre": "The Amazon is longer than the Nile",
+      "resume": "Fact 37: the Nile looks like the longest river from space, but multiple studies suggest the Amazon is longer. Its tributaries and dense rainforest made it hard to measure, and it wins by only about 65 miles (105 km).",
+      "mots_cles": [
+        "longest river",
+        "Nile",
+        "Amazon River",
+        "tributaries",
+        "rainforest",
+        "river length",
+        "105 km"
+      ],
+      "texte": "37. While the Nile is certainly impressive, and looks the longest from space, it’s not the longest river in the world. There have been multiple studies that suggest that the much-harder-to-visually-gauge Amazon River is longer. Because the Amazon has multiple tributaries, and incredibly dense rainforest cover, it’s taken a much longer time to accurately measure it down to the last inch. And the data shows that the Amazon wins… but not by much. Just 65 miles (105 km) But it’s enough to be crowned the longest river in the world. Beyond record-breaking rivers, people can’t even agree on basic facts about them…"
+    },
+    {
+      "id": 17,
+      "debut": 491.36,
+      "fin": 518.72,
+      "temps_estime": false,
+      "titre": "Rivers that flow backwards",
+      "resume": "Fact 36: rivers do not always flow in one direction. Storm surges can make the Mississippi back up, ocean tides push seawater up the Hudson, and Cambodia's Tonle Sap reverses twice a year with the monsoon season.",
+      "mots_cles": [
+        "river flow direction",
+        "Mississippi River",
+        "Hudson River",
+        "Tonle Sap",
+        "Cambodia",
+        "storm surge",
+        "tides",
+        "monsoon"
+      ],
+      "texte": "36. Rivers flow in one direction… or do they? It’s not always the case. Changes in direction can be caused by anything from temporary storm surges in the Mississippi River causing the water to back up. Or it can be ocean tides pushing seawater up the Hudson and causing it to reverse. The Tonle Sap in Cambodia changes its direction seasonally. Twice a year, it completely reverses flow, mostly based on the monsoon season. And that’s not it for unexpected directions…"
+    },
+    {
+      "id": 18,
+      "debut": 518.72,
+      "fin": 544.56,
+      "temps_estime": false,
+      "titre": "Sun rises over the Pacific in Panama",
+      "resume": "Fact 35: in the Americas the sun rises over the Atlantic and sets over the Pacific, except in Panama. The country's central bend puts the Atlantic to the northwest and the Pacific to the southeast, so near the Panama Canal the sun rises in the Pacific.",
+      "mots_cles": [
+        "Panama",
+        "Panama Canal",
+        "sunrise",
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "sunset",
+        "isthmus"
+      ],
+      "texte": "35. If you’re in the Americas, the sun always rises in the Atlantic and sets in the Pacific. Unless you’re in Panama. The central section of the country bends in a way that - for a very short distance - puts the Atlantic on its northwest coast, and the Pacific on its southeast coast. Meaning, if you’re near the Panama Canal, the sun rises in the Pacific and sets in the Atlantic. There’s a U.S. myth about bordering multiple oceans as well…"
+    },
+    {
+      "id": 19,
+      "debut": 544.56,
+      "fin": 568.56,
+      "temps_estime": false,
+      "titre": "Alaska borders two oceans",
+      "resume": "Fact 34: Florida touches the Atlantic and the Gulf, but it is not the only state with two seas. Alaska borders two oceans, the Pacific on its southern coast and the Arctic Ocean on its northern coast.",
+      "mots_cles": [
+        "Alaska",
+        "Florida",
+        "Pacific Ocean",
+        "Arctic Ocean",
+        "Gulf",
+        "two oceans",
+        "US states",
+        "coastline"
+      ],
+      "texte": "34. The east coast of Florida borders the Atlantic Ocean, while its west coast sits on the Gulf. But that doesn’t make it the only state to touch two seas. There’s another U.S. state that touches not just two seas, but two oceans. Alaska. The Last Frontier’s southern coast runs along the Pacific Ocean, while its northern coast borders the Arctic Ocean. Alaska really is very high on the geography myth list…"
+    },
+    {
+      "id": 20,
+      "debut": 568.56,
+      "fin": 605.36,
+      "temps_estime": false,
+      "titre": "Seeing Russia from Alaska: Little Diomede",
+      "resume": "Fact 33: Sarah Palin's claim that Russia is visible from Alaska became a pop-culture myth, and it is hard to see Russia from the mainland. But from Little Diomede Island you can see Big Diomede, Russia, 2.5 miles (4 km) away; only 100 people live on Little Diomede and Big Diomede holds only a Russian base.",
+      "mots_cles": [
+        "Sarah Palin",
+        "Alaska",
+        "Russia",
+        "Little Diomede",
+        "Big Diomede",
+        "Bering Strait",
+        "2.5 miles"
+      ],
+      "texte": "33. When U.S. vice presidential candidate Sarah Palin said on television that Russia is Alaska’s neighbor, it became ingrained in pop culture. Unless you’re on extremely high ground, on an exceptionally clear day… it’s hard to see Russia from the mainland. But… cross the water to a tiny Alaskan island and the myth becomes reality. Standing on Little Diomede Island, Alaska, you can actually see Big Diomede Island, Russia. The two superpowers are only 2.5 miles (4 km) apart. But only 100 people live on Little Diomede, and Big Diomede is uninhabited except for a Russian base. So most people will never experience that view."
+    },
+    {
+      "id": 21,
+      "debut": 605.36,
+      "fin": 640.56,
+      "temps_estime": false,
+      "titre": "Transcontinental countries beyond Russia and Turkey",
+      "resume": "Fact 32: Russia and Turkey are not the only countries spanning two continents. The Europe-Asia line cuts through the Caucasus (Georgia, Azerbaijan, Kazakhstan), Egypt spans Asia and Africa, and France with its overseas territories touches Europe, Africa, Oceania and South America.",
+      "mots_cles": [
+        "transcontinental countries",
+        "Europe Asia border",
+        "Caucasus",
+        "Georgia",
+        "Azerbaijan",
+        "Kazakhstan",
+        "Egypt",
+        "France"
+      ],
+      "texte": "32. Russia and Turkey are not the only transcontinental countries despite what your geography teacher told you. The line separating Europe from Asia cuts through the Caucasus. That means Georgia, Azerbaijan, and even Kazakhstan in Central Asia sit on two continents. And that’s just the start. Egypt sits in both Asia and Africa, also making it transcontinental. Add in non-contiguous landmasses that sit on two continents, and France is technically in Europe, Africa, Oceania, and South America. The list is much longer than anyone thinks. There’s much more confusion over borders…"
+    },
+    {
+      "id": 22,
+      "debut": 640.56,
+      "fin": 672.72,
+      "temps_estime": false,
+      "titre": "Denmark and Canada share a border: Hans Island",
+      "resume": "Fact 31: Denmark was thought to border only Germany, but since 2022 it also borders Canada. After about 50 years of dispute over Hans Island, with a 1973 treaty leaving it undecided, the two countries split the island down the middle.",
+      "mots_cles": [
+        "Hans Island",
+        "Denmark",
+        "Canada",
+        "Greenland",
+        "border dispute",
+        "2022",
+        "1973 treaty",
+        "land border"
+      ],
+      "texte": "31. Denmark only shares a border with Germany. But that changed in 2022. Since then, it also shares a border with Canada. Denmark and Canada had spent almost 50 years fighting over a tiny spit of land between Canada and Greenland known as Hans Island. A treaty was signed in 1973 leaving the issue to be decided at a later date, but the tension rolled on for decades. Eventually, in 2022, they decided the best thing to do would be to divide Hans Island down the middle, and give each country a half. Too bad this next issue can’t be settled so easily…"
+    },
+    {
+      "id": 23,
+      "debut": 672.72,
+      "fin": 708.8,
+      "temps_estime": false,
+      "titre": "Afghanistan is not a Middle Eastern country",
+      "resume": "Fact 30: Afghanistan is in South Asia according to geography and the UN, alongside Pakistan and India, or at the crossroads of Central and South Asia. It is lumped with the Middle East because Westerners associate it with the war, which hides its Asian geography.",
+      "mots_cles": [
+        "Afghanistan",
+        "Middle East",
+        "South Asia",
+        "Central Asia",
+        "Western Asia",
+        "UN regions",
+        "Pakistan",
+        "India"
+      ],
+      "texte": "30. Afghanistan isn’t a Middle Eastern country. Geographically, and according to the UN, Afghanistan sits squarely in South Asia, along with Pakistan and India. Even geographers who disagree on which region the country is located in put it at the crossroads of Central Asia and South Asia. Western Asia - the actual Middle East - is never mentioned. Unfortunately, Afghanistan likely got lumped in with the Middle East in most peoples’ minds because of the deadly war that raged in the country for years. Westerns connect the general conflict and the Middle Eastern region, masking the country’s true Asian geography. That’s not the only area of confusion…"
+    },
+    {
+      "id": 24,
+      "debut": 708.8,
+      "fin": 734.8,
+      "temps_estime": false,
+      "titre": "Central America belongs to North America",
+      "resume": "Fact 29: many people think Central America is part of South America, partly because it is part of Latin America and shares Spanish language and culture. Geographically Central America is firmly part of North America.",
+      "mots_cles": [
+        "Central America",
+        "South America",
+        "North America",
+        "Latin America",
+        "Spanish-speaking",
+        "Guatemala",
+        "Argentina",
+        "continents"
+      ],
+      "texte": "29. Many people think Central America is part of South America. It’s a common mistake because Central America is considered part of Latin America. That gives it a cultural and linguistic tie to most of South America. So when most foreigners see a bunch of Spanish-speaking countries all sharing borders from Guatemala down to Argentina, they assume there’s some continuity there. However, Central America is firmly part of North America. But confusion about continents is nothing new…"
+    },
+    {
+      "id": 25,
+      "debut": 734.8,
+      "fin": 774.48,
+      "temps_estime": false,
+      "titre": "South America lies mostly east of Miami",
+      "resume": "Fact 28: South America is not directly south of North America; about 99% of it lies east of Miami. The brain's cognitive simplification, which reduces complex information to simple shortcuts, and the word South in the name make people picture it directly below North America.",
+      "mots_cles": [
+        "South America",
+        "Miami",
+        "cognitive simplification",
+        "mental maps",
+        "east of Miami",
+        "continent location",
+        "brain shortcuts"
+      ],
+      "texte": "28. South America isn’t really directly south of America. Most of the continent - as in 99% - sits entirely east of Miami. It sounds ridiculous… until you look at a map. At which point, it becomes obvious. So why do our brains often think of it differently? It’s a phenomenon known as cognitive simplification. Instead of wasting energy on things that aren’t that useful or important in everyday life, your brain creates vague outlines. It helps reduce complex information and environments into simple, manageable shortcuts. Because “South” is in the name, your mind instantly puts the entire continent below North America. Cognitive simplification can also be amplified by other factors…"
+    },
+    {
+      "id": 26,
+      "debut": 774.48,
+      "fin": 800.64,
+      "temps_estime": false,
+      "titre": "Milan is north of Portland, Maine",
+      "resume": "Fact 27: Mediterranean countries seem to share latitude with the warmer US states, but Milan is north of Portland, Maine. Our mental maps put Europe in the wrong place, much like South America.",
+      "mots_cles": [
+        "Milan",
+        "Portland Maine",
+        "latitude",
+        "Mediterranean",
+        "Italy",
+        "mental maps",
+        "Europe latitude"
+      ],
+      "texte": "27. One look at the temperature and you’d think Mediterranean countries are at the same latitude as the warmer U.S. states They’re not. Milan is actually north of Portland, Maine. As ridiculous as it might sound that a major city in the sunny, Mediterranean country of Italy could lie north of a city in one of the U.S.’ northernmost, chilliest states…it's true. Our mental maps put Europe in the wrong place, much like they do with South America."
+    },
+    {
+      "id": 27,
+      "debut": 800.64,
+      "fin": 837.36,
+      "temps_estime": false,
+      "titre": "Gulf Stream warms Europe: London versus Calgary",
+      "resume": "Continuing fact 27: the Gulf Stream makes Europe warmer than its latitude suggests, so people place it nearer the equator. London and Calgary sit at nearly the same latitude, yet January lows average 39 F (3.9 C) in London and 13 F (-10.6 C) in Calgary.",
+      "mots_cles": [
+        "Gulf Stream",
+        "London",
+        "Calgary",
+        "latitude",
+        "January temperature",
+        "climate",
+        "Europe warmer",
+        "Mediterranean summers"
+      ],
+      "texte": "Europe is also much warmer than it should be because of the Gulf Stream. So people naturally place it closer to the equator in their mental maps than it should be. While London, England, sits at almost the same exact latitude as Calgary, Canada, spend a winter in each place and you will experience a very different climate. The average low temperature in January in London is 39 degrees Fahrenheit (3.9 Celsius). In Calgary it drops down to a bone chilling 13 degrees Fahrenheit (-10.6 Celsius). Which is why, even though it's further north, Milan is still associated with Mediterranean summers, while Portland is associated with puffy jackets and rainboots. There are many more myths about the Mediterranean and the countries in it though…"
+    },
+    {
+      "id": 28,
+      "debut": 837.36,
+      "fin": 873.52,
+      "temps_estime": false,
+      "titre": "Portugal is not a Mediterranean country",
+      "resume": "Fact 26: Portugal is often grouped with Spain, Italy and Greece, but no part of it lies on the Mediterranean Sea. Its coast is entirely Atlantic, which is why its beaches are known for surfing, though food, climate and culture tie it to the Mediterranean.",
+      "mots_cles": [
+        "Portugal",
+        "Mediterranean Sea",
+        "Atlantic Ocean",
+        "coastline",
+        "Spain",
+        "surfing",
+        "Med countries"
+      ],
+      "texte": "26. Portugal isn’t a Mediterranean country You might think the opposite because Portugal sits on the same line as Spain, Italy, and Greece. It’s also often grouped together with them by foreigners thinking of where to take their next summer vacation. But no part of Portugal lies on the Mediterranean Sea. The country’s coastline is entirely on the Atlantic Ocean; which is perhaps why its beaches are better known for surfing than crystal clear blue waters. Even though it's geographically false, Portugal will continue to be tied to the Mediterranean because of similarities to the other Med countries in terms of food, climate, and culture. Ready for another Mediterranean myth…"
+    },
+    {
+      "id": 29,
+      "debut": 873.52,
+      "fin": 901.84,
+      "temps_estime": false,
+      "titre": "Greece is 80% mountains",
+      "resume": "Fact 25: Greece is pictured as sandy islands like Mykonos and Santorini, but 80% of it is mountains. Mount Olympus stands near 9,600 feet (2,926 m), northern ranges stay below freezing in winter, and ski resorts operate.",
+      "mots_cles": [
+        "Greece",
+        "mountains",
+        "Mount Olympus",
+        "Mykonos",
+        "Santorini",
+        "ski resorts",
+        "80% mountains"
+      ],
+      "texte": "25. Most people associate Greece with a summer vacation to Mykonos or Santorini, making foreigners believe that the entire place is sandy, warm, and coastal. But 80% of Greece is made up of mountains. The highest is Mount Olympus, made famous through Greek mythology, which stands close to 9,600 feet (2,926 meters). Temperatures in the country’s northern ranges regularly fall - and stay - below freezing in the winter, and several ski and snowboard resorts operate during the cold season. Speaking of mountains…"
+    },
+    {
+      "id": 30,
+      "debut": 901.84,
+      "fin": 936.48,
+      "temps_estime": false,
+      "titre": "Europe's highest peak is Mount Elbrus, not Mont Blanc",
+      "resume": "Fact 24: Mont Blanc is highest only if Russia is excluded. Europe's highest peak is Mount Elbrus in Russia at about 18,500 feet (5,638 m), on the European plate, and one of the Seven Summits.",
+      "mots_cles": [
+        "Mount Elbrus",
+        "Mont Blanc",
+        "highest peak in Europe",
+        "Russia",
+        "Seven Summits",
+        "5,638 meters",
+        "mountain climbing"
+      ],
+      "texte": "24. Europe has some pretty impressive peaks, but the highest isn’t Mont Blanc It’s true if we’re looking solely at Western Europe, but remember, Russia is also considered a part of Europe. That's why Europe’s universally acknowledged highest peak is the summit of Mount Elbrus, Russia, standing just over 18,500 feet (5,638 meters) above sea level. Even if you were to argue that part of Russia belongs to Asia, Mount Elbrus sits squarely on the European continental plate. Mountain climbers see it as one of the Seven Summits - the highest peak in each of the seven continents. And they should know."
+    },
+    {
+      "id": 31,
+      "debut": 936.48,
+      "fin": 973.36,
+      "temps_estime": false,
+      "titre": "The Great Plains are not flat",
+      "resume": "Fact 23: the Great Plains look flat from a Nebraska field but slope gradually upward from east to west, from about 2,000 feet (610 m) to over 6,000 feet (1,829 m) near the Rocky Mountains. Denver, the mile-high city, is on the Great Plains.",
+      "mots_cles": [
+        "Great Plains",
+        "flattest place",
+        "Nebraska",
+        "elevation",
+        "Denver",
+        "Rocky Mountains",
+        "mile-high city"
+      ],
+      "texte": "23. If you’re standing in a field in Nebraska, the Great Plains must look like the flattest place on earth. No visible elevation change in any direction. But the Great Plains are a massive area. And they change elevation. It just happens so gradually it’s not visible to anyone standing in them. The mile-high (1.6 km) city of Denver, Colorado is located in the Great Plains. The plains gently slope upwards from east to west, starting from 2,000 feet (610 meters) high and eventually reach an elevation of over 6,000 feet (,1829 meters) as they approach the Rocky Mountains. Making the Great Plains not so flat after all. Other surprising myths about geographic features include…"
+    },
+    {
+      "id": 32,
+      "debut": 973.36,
+      "fin": 1008.56,
+      "temps_estime": false,
+      "titre": "The Namib is older than the Sahara",
+      "resume": "Fact 22: the Sahara is the most famous and the largest hot desert, but only 2-3 million years old at most, while the Namib has existed for at least 55 million years. Namib means an area where there is nothing; summers exceed 115 F (46.1 C) and nights drop below freezing.",
+      "mots_cles": [
+        "Namib Desert",
+        "Sahara",
+        "oldest desert",
+        "55 million years",
+        "largest hot desert",
+        "inhospitable",
+        "desert temperatures"
+      ],
+      "texte": "22. The Sahara is arguably the most famous desert in the world, and the largest hot desert. But it hasn’t been around as long as some others. The Namib Desert has been around for at least 55 million years. Meanwhile, the Sahara has only been in existence for 2-3 million years at most. In the local language, Namib name means “an area where there is nothing”. It’s one of the most picturesque - yet also inhospitable - deserts out there. Summer temperatures often shoot about 115 degrees Fahrenheit (46.1 Celsius) while nights plunge below freezing. But a harsh climate and land doesn’t always mean no one lives there…"
+    },
+    {
+      "id": 33,
+      "debut": 1008.56,
+      "fin": 1058.0,
+      "temps_estime": false,
+      "titre": "The stan countries are not empty",
+      "resume": "Fact 21: Kazakhstan, Uzbekistan, Tajikistan, Turkmenistan and Kyrgyzstan are seen as empty steppe nations. Kazakhstan has 20 million people, with Almaty at 2.4 million and Astana over 1.5 million, Uzbekistan 38 million, and Central Asia 85 million people, expected to exceed 114 million by 2050.",
+      "mots_cles": [
+        "stan countries",
+        "Central Asia",
+        "Kazakhstan",
+        "Uzbekistan",
+        "Almaty",
+        "Astana",
+        "population",
+        "114 million by 2050"
+      ],
+      "texte": "21. The “stan” countries - Kazakhstan, Uzbekistan, Tajikistan, Turkmenistan, and Kyrgyzstan - are often thought of as mostly empty nations on the steppes of Central Asia. It’s true that the climate and landscape of most of Central Asia is very unforgiving, leaving large parts sparsely inhabited. Kazakhstan, for example, has a population of 20 million people while being the ninth largest country by area in the world. But that doesn’t mean the region is empty. Kazakhstan’s cities are booming metropolises, with 2.4 million people living in Almaty and over 1.5 million in Astana. Uzbekistan, an especially fertile pocket of the region, has a population of 38 million people. Overall, the Central Asian population is 85 million people as of today, and expected to exceed 114 million people by 2050. Which will change this next myth even more…"
+    },
+    {
+      "id": 34,
+      "debut": 1058.0,
+      "fin": 1094.8,
+      "temps_estime": false,
+      "titre": "60% of the world's population lives in Asia",
+      "resume": "Fact 20: people say a third of humanity lives in Asia, but it is actually 60%, roughly a 3 in 5 chance that a random human is Asian. The continent has about 4.7 billion people.",
+      "mots_cles": [
+        "Asia population",
+        "60% of world population",
+        "4.7 billion",
+        "most populated continent",
+        "population share",
+        "Asian"
+      ],
+      "texte": "20. It’s often said that one third of the global population is in Asia As astounding as it is to think that 33% of the entire earth’s population is located in just one continent, the truth is even more shocking. 60% of the world’s population is in Asia. That means if an alien were to pick a human, any human from earth, there’s a 3 in 5 chance that person would be Asian. Considering the continent has some of the most highly populated countries on the planet, it should come as no surprise. But most people don’t guess that the ratio is that high. The current population of the Asian continent is 4.7 billion people. But where they are is shifting…"
+    },
+    {
+      "id": 35,
+      "debut": 1094.8,
+      "fin": 1122.96,
+      "temps_estime": false,
+      "titre": "India overtook China as the most populous country",
+      "resume": "Fact 19: China was the most populous nation for 75 years, but in April 2023 India overtook it, partly due to China's one-child policy decline. Today China has 1.41 billion people and India 1.48 billion.",
+      "mots_cles": [
+        "most populated country",
+        "India",
+        "China",
+        "population 2023",
+        "one child policy",
+        "1.48 billion",
+        "1.41 billion"
+      ],
+      "texte": "19. Any idea what the most populated nation in the world is? China is the most frequent guess… and for 75 years, that answer was 100% correct. But then the global leaderboard changed. In April 2023, India’s rapidly growing population overtook China’s stalling one, a decline partly due to the one child policy. Today, China has 1.41 billion people, while India has surged to 1.48 billion. On the topic of population upsets…"
+    },
+    {
+      "id": 36,
+      "debut": 1122.96,
+      "fin": 1145.92,
+      "temps_estime": false,
+      "titre": "Jakarta overtook Tokyo as the largest city",
+      "resume": "Fact 18: Tokyo is seen as the world's largest city, but according to the UN it lost that title to Jakarta in 2025. Jakarta has 42 million residents against 37 million in the Tokyo metropolitan area.",
+      "mots_cles": [
+        "largest city",
+        "Tokyo",
+        "Jakarta",
+        "UN",
+        "2025",
+        "metropolitan area",
+        "42 million"
+      ],
+      "texte": "18. Tokyo is seen as the largest city in the world A more accurate statement would be that Tokyo was the largest city in the world. According to the UN, Tokyo lost that title to Jakarta in 2025. The Indonesian capital now has 42 million residents, compared to the Tokyo metropolitan area that currently has 37 million people. Let’s move away from booming cities to lonely ones…"
+    },
+    {
+      "id": 37,
+      "debut": 1145.92,
+      "fin": 1190.08,
+      "temps_estime": false,
+      "titre": "Honolulu is the most isolated city, not Perth",
+      "resume": "Fact 17: Perth claims to be the most isolated state capital and city, but Honolulu is 2,300 miles (3,701 km) from San Francisco. Honolulu's metro area, about 998,700 in 2024 and growing, likely passed 1 million, making it the most isolated state capital and large city, while Perth has about 2.4 million.",
+      "mots_cles": [
+        "most isolated city",
+        "Honolulu",
+        "Perth",
+        "San Francisco",
+        "state capital",
+        "large city",
+        "Hawaii",
+        "Australia"
+      ],
+      "texte": "17. Residents of Perth, Australia, love to boast that they live in the most isolated state capital and the most isolated city in the world. But that title belongs to Honolulu, Hawaii, which is 2,300 miles (3,701 km) away from the nearest major city of San Francisco. As far as the most isolated large city goes? Large cities are generally defined as having a population over 1 million, and Perth had about 2.4 million residents. But as of 2024, Honolulu had 998,700 people in its metropolitan area, and was growing. Meaning the population is almost certainly over 1 million now. Making Honolulu both the most isolated state capital and large city. From isolated cities to isolated landscapes, let’s get to…"
+    },
+    {
+      "id": 38,
+      "debut": 1190.08,
+      "fin": 1228.64,
+      "temps_estime": false,
+      "titre": "Largest US national park: Wrangell-St. Elias",
+      "resume": "Fact 16: Yellowstone is named the biggest US national park, but Death Valley (3.4 million acres) beats it (2.2 million) in the lower 48. The largest is Alaska's Wrangell-St. Elias at 13.2 million acres, almost twice the size of Hawaii.",
+      "mots_cles": [
+        "largest national park",
+        "Yellowstone",
+        "Death Valley",
+        "Wrangell-St. Elias",
+        "Alaska",
+        "acres",
+        "national parks"
+      ],
+      "texte": "16. People often name Yellowstone the biggest National Park in the U.S. While it might definitely be one of the most famous parks, it’s not even the biggest in the lower 48 states. That title would go to Death Valley National Park; 3.4 million acres (1.3 million hectares) to Yellowstone’s 2.2 million acres (890,308 hectares). More than one a half times its size. But both these parks pale in comparison to the U.S. true largest National Park: Wrangell-St. Elias. Never heard of it? Truth is, most people, even Americans, haven’t. Because it’s up in the Alaskan wilderness, clocking in at a massive 13.2 million acres. That’s almost twice the size of Hawaii. Moving on to the British Isles…"
+    },
+    {
+      "id": 39,
+      "debut": 1228.64,
+      "fin": 1254.08,
+      "temps_estime": false,
+      "titre": "Great Britain versus the United Kingdom",
+      "resume": "Fact 15: Great Britain and the United Kingdom are not the same. The UK is England, Wales, Scotland and Northern Ireland; Great Britain is the island with England, Wales and Scotland; Northern Ireland is on the island of Ireland.",
+      "mots_cles": [
+        "Great Britain",
+        "United Kingdom",
+        "England",
+        "Wales",
+        "Scotland",
+        "Northern Ireland",
+        "British Isles",
+        "island of Ireland"
+      ],
+      "texte": "15. Great Britain and the United Kingdom are not the same Every person from the region probably already knows this, but many people in the rest of the world use these names interchangeably. But the United Kingdom is a country consisting of England, Wales, Scotland, and Northern Ireland. Great Britain is the name given to the island which is home to England, Wales, and Scotland. Northern Ireland is also part of the island of Ireland. Speaking of confusing names…"
+    },
+    {
+      "id": 40,
+      "debut": 1254.08,
+      "fin": 1298.64,
+      "temps_estime": false,
+      "titre": "Holland is not the Netherlands",
+      "resume": "Fact 14: Holland and the Netherlands are not interchangeable. The Netherlands has 12 provinces including North and South Holland, home to Amsterdam, Rotterdam and The Hague, and traders once said they were from Noord or Zuid Holland, which started the confusion.",
+      "mots_cles": [
+        "Holland",
+        "Netherlands",
+        "North Holland",
+        "South Holland",
+        "Amsterdam",
+        "Rotterdam",
+        "The Hague",
+        "provinces"
+      ],
+      "texte": "14. Holland is an old/alternate name for the Netherlands False. The Netherlands is the official name of an EU country, but many people also call it Holland. However, those terms can’t be used interchangeably. The Netherlands has 12 provinces, 2 of which are North Holland and South Holland. So why the confusion? Because North and South Holland are pretty important provinces, since they include Amsterdam, Rotterdam, and the Hague. In other words, the main legislative, financial, and trading centers of the country. Centuries ago, traders from the Netherlands would tell foreigners they encountered they were from “Noord Holland” or “Zuid Holland”. So the confusion began… and apparently, continued. Sometimes people don’t confuse the name of a place, just where it came from…"
+    },
+    {
+      "id": 41,
+      "debut": 1298.64,
+      "fin": 1330.72,
+      "temps_estime": false,
+      "titre": "New Mexico is older than Mexico",
+      "resume": "Fact 13: New Mexico is not named after the country Mexico. Spanish explorers named it after Aztec lands 223 years before Mexico's independence, and when Spain withdrew in 1821 the name Mexico was applied to the new country.",
+      "mots_cles": [
+        "New Mexico",
+        "Mexico",
+        "name origin",
+        "Aztec",
+        "Spanish explorers",
+        "1821",
+        "independence"
+      ],
+      "texte": "13. New Mexico isn’t named after the country of Mexico. It’s actually the other way around. The area now called New Mexico was called that 223 years before Mexico became an independent country. The Spanish explorers had originally named it after Aztec lands in the area of Mexico it reminded them of. Back then, “Mexico” was just a name for the area around the Aztec capital city. So when Spain withdrew from its colony in 1821, New Mexico became…part of the new independent country of Mexico. Speaking of…"
+    },
+    {
+      "id": 42,
+      "debut": 1330.72,
+      "fin": 1358.0,
+      "temps_estime": false,
+      "titre": "Santa Fe is the oldest US state capital",
+      "resume": "Fact 12: people guess Boston as the oldest state capital, but Santa Fe, New Mexico, established by the Spanish in 1610, predates Boston, founded in 1630.",
+      "mots_cles": [
+        "oldest state capital",
+        "Santa Fe",
+        "Boston",
+        "New Mexico",
+        "1610",
+        "1630",
+        "Massachusetts"
+      ],
+      "texte": "12. The historic city of Boston is one of the major U.S. cities most tied to the American Revolution and the entire independence movement. And Massachusetts was one of the original 13 colonies. So most people guess that the oldest state capital is… Boston. And they would be wrong. Because it’s actually Sante Fe, New Mexico. The Spanish established it in 1610. Boston wasn’t officially established until 1630. Making Santa Fe the oldest state capital in the USA."
+    },
+    {
+      "id": 43,
+      "debut": 1358.0,
+      "fin": 1394.56,
+      "temps_estime": false,
+      "titre": "Maine is the US state closest to Africa",
+      "resume": "Fact 11: Florida seems closest to Africa, but Maine is, because the eastern seaboard slants west the further south it goes. Quoddy Head, Maine, is over 3,100 miles (4,989 km) from Morocco, about 1,000 miles closer than Florida's closest point.",
+      "mots_cles": [
+        "closest US state to Africa",
+        "Maine",
+        "Florida",
+        "Quoddy Head",
+        "Morocco",
+        "eastern seaboard",
+        "Atlantic Ocean"
+      ],
+      "texte": "11. While the southeastern state of Florida might make sense as being closest to Africa, the actual closest state is Maine. At first glance, snowy Maine seems the furthest possible thing from Africa. But because the slope of the U.S.’ eastern seaboard is much more slanted than it seems. It heads further and further west and inland the further south it goes… leaving Maine jutting out into the Atlantic. The peninsula of Quoddy Head, Maine, is over 3,100 miles (4,989 km) from Morocco. Florida’s closest point to Africa is over 1,000 miles (1,6099 km) further away. How about dispelling some African geographic facts?"
+    },
+    {
+      "id": 44,
+      "debut": 1394.56,
+      "fin": 1430.48,
+      "temps_estime": false,
+      "titre": "Abuja replaced Lagos as Nigeria's capital",
+      "resume": "Fact 10: Lagos is not Nigeria's capital; it moved to Abuja in 1991 because of overpopulation, traffic and poor infrastructure. Abuja was chosen where no dominant ethnic group had a stronghold, to reduce infighting.",
+      "mots_cles": [
+        "Nigeria capital",
+        "Lagos",
+        "Abuja",
+        "1991",
+        "ethnic groups",
+        "overpopulation",
+        "new capital"
+      ],
+      "texte": "10. Lagos is the capital of Nigeria File this one under “used to be true, but most people didn’t catch the update”. The capital of Nigeria was moved from Lagos to Abuja in 1991. That was before Gen Z were even born. Crushed by overpopulation, gridlocked traffic, and poor infrastructure, Nigerian officials decided to abandon Lagos and establish a new capital. The government chose a place where none of the country’s dominant ethnic groups had a stronghold, reducing the possibility of domestic infighting. Abuja seemed like the perfect choice. Though most Nigerians don’t think it accomplished much after all. But there’s more capital confusion as people think…"
+    },
+    {
+      "id": 45,
+      "debut": 1430.48,
+      "fin": 1468.96,
+      "temps_estime": false,
+      "titre": "Switzerland's capital is Bern, a federal city",
+      "resume": "Fact 9: Geneva and Zurich are not the Swiss capital; Switzerland technically has no capital but a federal city, Bern. Putting a capital in one canton would give it privileged status over the equal cantons.",
+      "mots_cles": [
+        "Switzerland capital",
+        "Bern",
+        "federal city",
+        "Geneva",
+        "Zurich",
+        "cantons",
+        "no official capital"
+      ],
+      "texte": "9. Geneva may be the most well-known Swiss city, as it functions as a huge financial center and tourist hub. But it’s not the Swiss capital. No, Zurich isn’t the answer either. In fact, Switzerland technically doesn’t have a capital. Instead, it has a “federal city” that acts like a capital… Bern. The reason Switzerland doesn’t have an official capital is because of the unique way it's divided. The separate cantons theoretically should have equal power. Putting a capital in any one of them would give that canton a privileged status. So Switzerland decided to go with a “federal city” instead. It’s not the only country to do its own thing regarding capitals…"
+    },
+    {
+      "id": 46,
+      "debut": 1468.96,
+      "fin": 1503.76,
+      "temps_estime": false,
+      "titre": "South Africa has three capitals",
+      "resume": "Fact 8: Cape Town is only one of South Africa's three capitals: legislative Cape Town, administrative Pretoria and judicial Bloemfontein. The split keeps balance of power between regions, the opposite of Switzerland.",
+      "mots_cles": [
+        "South Africa capitals",
+        "Cape Town",
+        "Pretoria",
+        "Bloemfontein",
+        "legislative",
+        "judicial",
+        "administrative",
+        "three capitals"
+      ],
+      "texte": "8. Cape Town isn’t the capital of South Africa Well, not the only one. South Africa decided to go in the opposite direction of Switzerland; and institute three capitals instead. Cape Town is one of them; the legislative capital. Pretoria is the administrative capital and Bloemfontein is the judicial capital. Cape Town is probably the one that gets named because it’s the South Africa city foreigners are most familiar with. Strangely enough, South Africa split the system to keep the balance of power between different South African regions. The opposite of Switzerland. This next country is fully balanced, but the myth is that…"
+    },
+    {
+      "id": 47,
+      "debut": 1503.76,
+      "fin": 1528.88,
+      "temps_estime": false,
+      "titre": "Kiribati lies in all four hemispheres",
+      "resume": "Fact 7: it is believed no country sits in all four hemispheres, but Kiribati does. It has 130,000 people and under 6,000 tourists a year, stretches 1,800 miles (2,897 km) across the Pacific, and is the only sovereign nation touching all four.",
+      "mots_cles": [
+        "Kiribati",
+        "four hemispheres",
+        "Pacific Ocean",
+        "northern southern eastern western hemisphere",
+        "island nation",
+        "130,000 people"
+      ],
+      "texte": "7. Most people believe that no country sits in all four hemispheres. But Kiribati is here to prove them wrong. The country has a population of 130,000 people and less than 6,000 tourists annually. It stretches 1,800 miles (2,897 km) across the Pacific Ocean, touching the southern, northern, eastern, and western hemispheres all at once. Making it the world’s only sovereign nation to do so. Onto other island countries..."
+    },
+    {
+      "id": 48,
+      "debut": 1528.88,
+      "fin": 1560.16,
+      "temps_estime": false,
+      "titre": "The Caribbean has about 7,000 islands",
+      "resume": "Fact 6: the Caribbean seems to have a few dozen islands but has around 7,000, mostly uninhabited. Only 40 to 70 are permanently inhabited, and Cuba, Haiti and the Dominican Republic hold 75% of the population.",
+      "mots_cles": [
+        "Caribbean",
+        "7,000 islands",
+        "inhabited islands",
+        "Cuba",
+        "Haiti",
+        "Dominican Republic",
+        "cays",
+        "islets"
+      ],
+      "texte": "6. The Caribbean is made up of a few dozen islands… or so you’d think. It actually has around 7,000 islands. We just don’t hear about most of them because they’re not inhabited. Depending on the source, anywhere from 40, to 50, to 70 Caribbean islands are permanently inhabited. Of those, just three islands - Cuba, Haiti, and the Dominican Republic - hold 75% of the total Caribbean population. The rest are islets, cays, and other small features with no permanent population. It’s not just islands; there are myths about the seas themselves, like…"
+    },
+    {
+      "id": 49,
+      "debut": 1560.16,
+      "fin": 1584.64,
+      "temps_estime": false,
+      "titre": "The Dead Sea is a salt lake",
+      "resume": "Fact 5: despite its name, the Dead Sea is a landlocked salt lake. A sea needs an outlet to the world's oceans, and the Dead Sea is surrounded by land.",
+      "mots_cles": [
+        "Dead Sea",
+        "salt lake",
+        "landlocked",
+        "sea definition",
+        "outlet to ocean",
+        "salty water"
+      ],
+      "texte": "5. The Dead Sea is a sea This one seems like it must be true. After all, it’s right there in the name. Visitors from all over the world flock there to swim in the intensely salty body of water. But the world-famous destination is actually a landlocked salt lake. In order to qualify as a sea, it would have to have some outlet into the world’s oceans. Instead, it is completely surrounded by land. Another sea myth…"
+    },
+    {
+      "id": 50,
+      "debut": 1584.64,
+      "fin": 1622.8,
+      "temps_estime": false,
+      "titre": "The Sargasso Sea has no coast",
+      "resume": "Fact 4: seas are thought to need coasts, but the Sargasso Sea in the middle of the Atlantic has no land around it. Formed by ocean currents, it is warmer, saltier, calmer and deeper blue than the surrounding Atlantic, covered by drifting golden-brown seaweed.",
+      "mots_cles": [
+        "Sargasso Sea",
+        "Atlantic Ocean",
+        "ocean currents",
+        "seaweed",
+        "no coastline",
+        "warmer saltier",
+        "sea definition"
+      ],
+      "texte": "4. Seas must be bordered by coasts Not true for one strange sea, which is located in the middle of the Atlantic Ocean: the Sargasso Sea. There is no land around it, no island… nothing. Just a swirling sea formed by a confluence of ocean currents. These currents change the nature of the Sargasso Sea itself, making it warmer and saltier than the Atlantic that surrounds it. Observers have also said the Sargasso Sea is unusually calm, and has a deep blue water that’s different to that of the neighboring Atlantic. Its most prominent feature is the drifting golden-brown seaweed that covers the majority of its surface. Nothing like the sandy beaches of our next myth’s focus…"
+    },
+    {
+      "id": 51,
+      "debut": 1622.8,
+      "fin": 1665.52,
+      "temps_estime": false,
+      "titre": "Miami heat is humidity: temperature records",
+      "resume": "Fact 3: Miami feels like one of the hottest US places because of humidity. An 86 F (30 C) day can feel like 108 F (42.2 C) at 95% humidity, and Miami had hit 100 F (37.8 C) only once, on July 21, 1942, until August 18, 2026.",
+      "mots_cles": [
+        "Miami",
+        "humidity",
+        "heat index",
+        "100 degrees Fahrenheit",
+        "1942",
+        "August 18 2026",
+        "temperature record"
+      ],
+      "texte": "3. If you’re in Miami, it probably feels like it’s one of the hottest places you could visit in the United States. But that’s mostly due to the city’s humidity; not its actual temperature. Humidity significantly affects how heat is experienced. For example, a sunny 86-degree (30 Celsius) summer day can feel like 108 degrees (42.2 Celsius) with 95% humidity. Because even as the rest of the U.S. sweats during the summer, the temperature in Miami has never gone above 100 degrees Fahrenheit (37.8 Celsius). In fact, for a long time it only hit that triple digit threshold once: on July 21, 1942. But August 18th, 2026, it hit that ceiling again. So it’s possible this geography fact might change yet again in the near future. Let’s zoom out a little…"
+    },
+    {
+      "id": 52,
+      "debut": 1665.52,
+      "fin": 1708.32,
+      "temps_estime": false,
+      "titre": "90% of the world's population lives in the Northern Hemisphere",
+      "resume": "Fact 2: the Northern and Southern Hemisphere populations are assumed to be roughly balanced, but 90% of people live in the Northern Hemisphere. Sao Paulo is the largest Southern city; of the ten most populous countries only Brazil and Indonesia extend into the south.",
+      "mots_cles": [
+        "Northern Hemisphere",
+        "Southern Hemisphere",
+        "population distribution",
+        "90% of population",
+        "Sao Paulo",
+        "most populated countries",
+        "Brazil",
+        "Indonesia"
+      ],
+      "texte": "2. Even if most people don’t think the split is 50-50, many believe that the populations of the Northern and Southern Hemisphere are pretty well balanced. Maybe a 60-40. In fact, 90% of the world’s population lives in the Northern Hemisphere. The biggest city in the Southern Hemisphere is Sao Paulo, Brazil, which has over 20 million people, which is pretty impressive. But most of the most populated countries in the world reside entirely, or almost entirely, in the Northern Hemisphere. This includes China, India, the USA, Pakistan, Nigeria, Bangladesh, Russia, and Mexico. Of the top 10 populated countries, only Brazil and Indonesia are partly in the Southern Hemisphere as well. At least there are some general facts that must be true, right? Like…"
+    },
+    {
+      "id": 53,
+      "debut": 1708.32,
+      "fin": 1744.8,
+      "temps_estime": false,
+      "titre": "Ethiopia's 13-month calendar and different year",
+      "resume": "Fact 1: not every country is in the same year. Ethiopia has a 13-month year using the Coptic calendar and a dawn-to-dusk 12-hour clock, so while the world is in 2026 Ethiopia welcomes 2019.",
+      "mots_cles": [
+        "Ethiopia",
+        "calendar",
+        "13 months",
+        "Coptic calendar",
+        "Gregorian calendar",
+        "year 2019",
+        "12-hour time",
+        "different year"
+      ],
+      "texte": "1. Every country is in the same year Even if you haven’t thought about this, most people assume it’s true. Why would different countries around the world be experiencing years differently? But it’s not actually the case. Especially in Ethiopia. There, a year lasts 13 months. The country didn’t adjust to the Gregorian calendar when it was introduced in 500 A.D, preferring to use the old Coptic calendar. Time is also calculated differently in general, as the country uses 2 12-hour periods calculated from dawn to dusk and vice versa. That means while the rest of the world is in 2026, Ethiopia will be welcoming the new year of 2019."
+    },
+    {
+      "id": 54,
+      "debut": 1744.8,
+      "fin": 1757.52,
+      "temps_estime": false,
+      "titre": "Conclusion and next video suggestion",
+      "resume": "The narrator wraps up that geography is full of surprises and recommends the video '50 Insane US Geography Facts That Seem Fake But Are 100% Real' for more.",
+      "mots_cles": [
+        "conclusion",
+        "geography surprises",
+        "50 Insane US Geography Facts",
+        "next video",
+        "US geography"
+      ],
+      "texte": "Geography is full of surprises. And one continent has more than its fair share. Watch “50 Insane US Geography Facts That Seem Fake But Are 100% Real” to see how wild geography can actually get. Or click on this."
+    }
+  ]
+}
