@@ -23,3 +23,10 @@ Reprise à la ligne 2910 (travail d'un agent précédent vérifié : 143 segment
 
 ## Point d'arrêt
 Dernière ligne traitée : 3892 (fin du segment 185, sur le récit du motard accidenté). Prochaine étape : tranche 5, à partir de la ligne 3893 (« amputated. Amputation can also be a consequence of a car crash... », suite sur le fémur et les fractures), id 186.
+
+Reprise à la ligne 3893 (travail d'un agent précédent vérifié : 185 segments, lignes 1 à 3892, OK ; non modifié).
+
+- Tranche 5 : lignes 3893 à 4818 (7319,44 à 9216,16 s, ≈ 31,6 min), 36 segments (id 186 à 221). Contenu : fin de la section sur les morts douloureuses (écrasement et fémur, noyade, expériences de mort imminente), puis une première liste « top 10 » des douleurs (ornithorynque, mal de dents et dents qui explosent, calculs rénaux, guêpe tarentule, cancer des os, céphalée rachidienne, torsion testiculaire, balle dans le genou et Irlande du Nord, algie vasculaire de la face, névralgie du trijumeau, proctalgie fugace), puis une seconde liste de maladies (n° 10 à 6 : syndrome de Stoneman, épidermolyse bulleuse, névralgie post-zostérienne, ostéosarcome, syndrome de l'homme raide). Remarques : aucune coupure estimée ; plusieurs coupures tombent au milieu d'une phrase ou sur un « Number N » car les lignes de sous-titres automatiques sont courtes ; la tranche s'arrête à la ligne 4818 (« agonizing spasms. Number five, ») et la suivante commence à « arachnoiditis. ».
+
+## Point d'arrêt (mis à jour)
+Dernière ligne traitée : 4818 (fin 9216,16 s). Prochaine étape : tranche 6, à partir de la ligne 4819 (« arachnoiditis. Think about the worst back pain you've ever had… »), id 222.
