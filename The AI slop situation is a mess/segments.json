@@ -1,0 +1,281 @@
+{
+  "version": 1,
+  "video_id": "NrL10B3ZXDg",
+  "titre_video": "The AI slop situation is a mess",
+  "duree_s": 486.88,
+  "avancement": {
+    "lignes_traitees": 107,
+    "fin_traitee_s": 486.88,
+    "nb_lignes_total": 107,
+    "complet": true
+  },
+  "nb_segments": 14,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.16,
+      "fin": 38.24,
+      "temps_estime": false,
+      "titre": "Hook: the internet is collapsing under AI slop",
+      "resume": "The internet is described as collapsing under an endless flood of low-quality AI slop made without artists, writers or editors. The worst part, according to the video, is that platforms refuse to tell users what is real and what is automated. Creators are suffocated by server farms and the digital world is said to be under attack.",
+      "mots_cles": [
+        "AI slop",
+        "internet collapsing",
+        "AI-generated content",
+        "platforms",
+        "server farms",
+        "creators",
+        "algorithms",
+        "labeling"
+      ],
+      "texte": "The internet is collapsing. Scroll through your feed and you’ll notice it. Every piece of content you consume is turning into mindless lines of code. No artist. No writer sitting at a desk. No editor tweaking a frame. No voice over artist reading off a script. And no soul. We’re being drowned in an endless flood of low-quality AI slop. And the worst part isn't that the technology exists. It’s that the platforms hosting it refuse to tell you what is real and what is automated. Creators are being suffocated by server farms, and everyday people are being robbed by algorithms. The digital world as we know it, is under attack… And it’s time to do something about it."
+    },
+    {
+      "id": 2,
+      "debut": 38.24,
+      "fin": 65.84,
+      "temps_estime": false,
+      "titre": "The rise of AI: companies replacing staff and people mass-producing content",
+      "resume": "AI changed from an experimental tool into a way to maximize efficiency and cut costs. Companies replace employees with AI, use it for customer service and flood search engines with artificial data, while ordinary people use it for social media, websites and mass-produced content.",
+      "mots_cles": [
+        "rise of AI",
+        "replacing employees",
+        "customer service AI",
+        "artificial data",
+        "search engines",
+        "mass produced content",
+        "social media",
+        "cost cutting"
+      ],
+      "texte": "The rapid rise of AI has changed the way we view the world. And it’s taken over. What started as an experimental tool has transformed into a way to maximize efficiency and cut costs. Companies are actively replacing employees with AI, using it for customer service agents and even flooding search engines with artificial data. And it’s not just the corporations. More and more people are using it across the internet. They use it for social media, to build websites and mass produce content. And as the technology advanced,"
+    },
+    {
+      "id": 3,
+      "debut": 65.84,
+      "fin": 109.68,
+      "temps_estime": false,
+      "titre": "AI content is now hard to detect and devalues human creativity",
+      "resume": "Early AI content was easy to spot, such as six-fingered humans and robotic voices, but the latest models mimic human voices with 99.99% accuracy and produce hyper-realistic images and near-flawless deepfake videos. The real casualty of the AI goldrush is creativity, as AI slop devalues human effort, creativity and skill.",
+      "mots_cles": [
+        "deepfake",
+        "voice cloning 99.99%",
+        "hyper-realistic images",
+        "six fingers",
+        "AI detection",
+        "devaluation of creativity",
+        "generative models",
+        "human effort"
+      ],
+      "texte": "the darker side started to emerge. Back in its infancy AI content was a joke. The 6 fingered humans with robotic voices joke made it easy even for a non-tech-savvy person to distinguish AI generation from real content. But things have changed since then. Today, AI-generated content is becoming far more difficult to discern from the real thing. The latest generative models can mimic human voices with 99.99% accuracy in the fraction of a second. They can create hyper-realistic images and near-flawless “deepfake” videos with incredible effectiveness. But the real casualty of this AI goldrush? Creativity. AI slop is single-handedly leading the charge towards the total devaluation of human effort, creativity, and skill."
+    },
+    {
+      "id": 4,
+      "debut": 109.68,
+      "fin": 141.68,
+      "temps_estime": false,
+      "titre": "Human creative work takes time, effort and passion",
+      "resume": "Human creators put days, weeks or months into videos, writing and art, editing, adjusting and refining before sharing. The result may not be perfect but it is human, the product of genuine effort and expression.",
+      "mots_cles": [
+        "human creators",
+        "creative process",
+        "effort and passion",
+        "video games video",
+        "pencil sketch",
+        "editing and refining",
+        "genuine expression",
+        "handmade"
+      ],
+      "texte": "Human creators put time and effort into their work. All the videos, the writing and art is a process. It demands passion and patience, too. Even something as seemingly simple as a video about video games or a pencil sketch of an original character takes a lot out of the person that made it. They can spend days, weeks, and even months crafting it. They need to edit, adjust, and refine, before sharing what they made with the world. It might not be perfect… But it’s human. The end product of genuine effort. A genuine expression of real creativity."
+    },
+    {
+      "id": 5,
+      "debut": 141.68,
+      "fin": 173.44,
+      "temps_estime": false,
+      "titre": "AI bots churn out hundreds of pieces of content: quantity over quality",
+      "resume": "AI bots and server farms can produce hundreds of images, blog posts and videos in minutes with a single click. The people behind this content care about quantity, not quality, expecting that saturating feeds with slop will bring money, attention and influence.",
+      "mots_cles": [
+        "server farms",
+        "content churn",
+        "quantity over quality",
+        "AI bots",
+        "saturating feeds",
+        "single click",
+        "money and influence",
+        "slop"
+      ],
+      "texte": "Then there’s AI AI bots and server farms can churn out literally hundreds of pieces of content in a matter of minutes. Images, blog posts, and videos all thrown out into the digital ether with a single click of a button. They’re not thought about, drafted, and refined… they’re generated. And the people behind that kind of content don’t care about quality. They only care about quantity. They know that if they saturate your feed with enough slop, some of it will have an impact. Some of it will be seen, some of it will be engaged with, and some of it will give them money, attention, and influence."
+    },
+    {
+      "id": 6,
+      "debut": 173.44,
+      "fin": 201.44,
+      "temps_estime": false,
+      "titre": "Human creators lost in the slop; algorithms reward volume",
+      "resume": "Real creators are submerged in slop and fighting a losing battle against algorithms, unable to keep up with machines producing 500 times as much content. Social media algorithms reward volume and frequency above all else. The Infographics Show team states it is not anti-technology or anti-AI.",
+      "mots_cles": [
+        "creators drowned",
+        "algorithms reward volume",
+        "500 times content",
+        "losing battle",
+        "frequency",
+        "Infographics Show",
+        "not anti-AI",
+        "social media"
+      ],
+      "texte": "Real human creators, meanwhile, are completely lost in the crowd. Their creations utterly submerged in the swamps of slop. They’re fighting a losing battle with algorithms. Even the most passionate and talented creators can’t keep up with machines that produce 500 times as much content as they can. Not when social media algorithms are designed to reward volume and frequency above all else. The team at the Infographics Show aren’t anti-technology. Of course we’re not. And we’re not anti-AI, either."
+    },
+    {
+      "id": 7,
+      "debut": 201.44,
+      "fin": 231.6,
+      "temps_estime": false,
+      "titre": "How the Infographics Show uses AI: a tool, not a replacement",
+      "resume": "The Infographics Show uses AI as a tool to change text on thumbnails, auto-generate sheets for directors breaking down scripts, and upscale video from HD to 4K. A human team researches, writes, animates and voices every video.",
+      "mots_cles": [
+        "Infographics Show",
+        "AI as a tool",
+        "thumbnail text",
+        "upscale 4K",
+        "script breakdown",
+        "human team",
+        "voiceover",
+        "not a replacement"
+      ],
+      "texte": "Like we’ve said before, we use it as a tool, not a replacement. We use it to change text on a thumbnail, without a producer needing photoshop experience. We use it to autogenerate sheets so our directors can break down a script. We use it to upscale a video from normal HD to 4K so it’s more TV friendly. But that’s it. We have a highly talented human team who work hard to research, write and animate every single video. And of course, bring it to life through voiceover. Seriously, I’m human… I see the comments."
+    },
+    {
+      "id": 8,
+      "debut": 231.6,
+      "fin": 270.08,
+      "temps_estime": false,
+      "titre": "The problem is how AI is used: platforms can detect and label it but don't",
+      "resume": "The channel is not against AI as a concept, which can do good if used responsibly, but against how it is used and platforms' failure to be transparent. Platforms already have technology to detect and label AI-generated content and know when files come from bots and server farms, with the resources to enforce strict classification systems.",
+      "mots_cles": [
+        "AI transparency",
+        "platform labeling",
+        "detect AI content",
+        "classification systems",
+        "server farm files",
+        "responsible AI use",
+        "platform responsibility",
+        "human-made vs AI-generated"
+      ],
+      "texte": "So, we're not against AI as a concept. It’s a powerful piece of technology that has the potential to do a lot of good in this world… as long as it’s used responsibly and by the right people. Our problem isn’t the fact that AI exists. Our problem is about how it’s being used. Especially the failure of major platforms to be honest and transparent about it. They’re not powerless. They already have the technology they need to detect and label AI-generated content. They know when files were made by automated bots and AI server farms. And they have more than enough money, resources, and influence to implement and enforce strict classification systems that differentiate between human-made and AI-generated content."
+    },
+    {
+      "id": 9,
+      "debut": 270.08,
+      "fin": 320.96,
+      "temps_estime": false,
+      "titre": "Platforms profit from engagement, not ethics",
+      "resume": "Platforms do not label AI because it is about profit: views, clicks and engagement create ad revenue whether content is human or machine made. They treat human passion, deepfake scams and server-farm spam as the same, and prioritize engagement over user safety, ethics and the survival of human creativity.",
+      "mots_cles": [
+        "platform profit",
+        "ad revenue",
+        "engagement",
+        "deepfake scams",
+        "server-farm spam",
+        "CEOs and shareholders",
+        "ethics",
+        "death of creativity"
+      ],
+      "texte": "But they don’t do it. Because, for them, it’s not about right and wrong. It’s not about responsibility and ethics. It’s about profit. Pure and simple. It doesn’t matter whether a video was made by a human or a machine. If it gets views, clicks, and engagement, then that means it also creates more ad revenue for the platform that hosts it. These companies are deliberately treating human passion, deepfake scams, and server-farm spam as the exact same thing. As long as it keeps you scrolling, it’s all the same in their eyes. They’re actively profiting off the death of creativity, and as long as the CEOs and shareholders are lining their pockets, they’re not going to change. They've proven time and time again that their number one priority is engagement. Everything else – be it user safety, ethics, or even the survival of human creativity – is far less important. They’ve made their position clear. So we’re doing the same."
+    },
+    {
+      "id": 10,
+      "debut": 320.96,
+      "fin": 348.24,
+      "temps_estime": false,
+      "titre": "Team Human: a creator-built campaign with 350 million reach",
+      "resume": "The channel joins Team Human, a campaign built by creators to keep humans in control of AI. It says this is not a sponsored deal but a movement of major creators and channels with a combined reach of over 350 million followers and subscribers, expressing frustration over where the internet and the world are heading.",
+      "mots_cles": [
+        "Team Human",
+        "creator campaign",
+        "350 million followers",
+        "not sponsored",
+        "movement",
+        "humans in control of AI",
+        "creators",
+        "internet future"
+      ],
+      "texte": "We’re joining Team Human, a new campaign built by creators to keep humans in control of AI. This isn’t some sort of corporate partnership or sponsored ad deal. It’s a movement, involving some of the biggest creators and channels on the internet, with a combined reach of over 350 million followers and subscribers. We’re standing up and making a statement about how we feel. And, in case it wasn’t already clear, we’re frustrated and worried about the way the internet is heading. And the world broadly."
+    },
+    {
+      "id": 11,
+      "debut": 348.24,
+      "fin": 396.16,
+      "temps_estime": false,
+      "titre": "AI arms race and the push for international regulation",
+      "resume": "Tech giants and governments are in a high-stakes arms race to deploy smarter AI models, blind to societal collapse. The good news is that major powers show willingness to set guardrails and slow dangerous, barely-vetted technology, as AI safety experts urge, but the public must show policymakers it wants this.",
+      "mots_cles": [
+        "AI arms race",
+        "international regulation",
+        "guardrails",
+        "AI safety experts",
+        "policymakers",
+        "tech giants",
+        "societal collapse",
+        "public pressure"
+      ],
+      "texte": "As we speak, tech giants and global governments are locked in a high-stakes arms race to deploy increasingly intelligent AI models ahead of their rivals. They are completely blind to the societal collapse occurring all around them. A collapse that’s a direct result of their actions. That’s the bad news. The good news is that the world is edging closer towards real, enforceable and impactful international regulations. Major powers are starting to show a willingness to take control of the situation and set up stricter guardrails. They want to slow down the reckless development of dangerous and barely-vetted technologies. Numerous AI safety experts have urged for these kinds of regulations to be put in place and argued that guardrails are necessary in order to protect humanity from a potential catastrophe. But it’s up to the public to actually show policymakers that this is what they want, too."
+    },
+    {
+      "id": 12,
+      "debut": 396.16,
+      "fin": 431.44,
+      "temps_estime": false,
+      "titre": "The goal: 200,000 pledge signatures at teamhuman.org by November 1st",
+      "resume": "Team Human wants 200,000 people to sign the official pledge at teamhuman.org before November 1st. The Center for AI Safety says that would give public interest groups and AI safety advocates enough leverage to push world leaders to pass legislation, keep humans in control of AI, stop deepfake scams and protect human art.",
+      "mots_cles": [
+        "teamhuman.org",
+        "pledge",
+        "200,000 signatures",
+        "November 1st",
+        "Center for AI Safety",
+        "legislation",
+        "deepfake scams",
+        "human art"
+      ],
+      "texte": "And we can make that happen. Our goal is simple, but vital for the future of humanity. We want 200,000 people to sign the official pledge at teamhuman.org before November 1st. The Center for AI Safety says this should be enough to help public interest groups and AI safety advocates exactly what they need: enough leverage to drag world leaders to the table and force them to pass long-overdue legislation. If you want to keep humans in control of AI, stop deepfake scams, and make sure that real human art doesn’t become a relic of the past, head to teamhuman.org and add your name to the pledge."
+    },
+    {
+      "id": 13,
+      "debut": 431.44,
+      "fin": 471.36,
+      "temps_estime": false,
+      "titre": "Urgency: tipping point and the internet becoming a digital dump",
+      "resume": "The more people sign, the louder their collective voice, showing politicians the public demands change. The internet is approaching a tipping point, AI development is outpacing control, and without safety standards and platform labeling the internet risks becoming a digital dump of AI-generated garbage.",
+      "mots_cles": [
+        "tipping point",
+        "emergency brake",
+        "safety standards",
+        "platform labeling",
+        "digital dump",
+        "AI garbage",
+        "collective voice",
+        "too late"
+      ],
+      "texte": "The more people sign, the louder our collective voices become. That’s how we show politicians we don’t just want change, we demand it. Because if we don’t act soon… it might be too late. We’re already approaching a dangerous tipping point. The pivotal moment that the internet and the world, as we know it, changes forever. The pace of AI development is rapidly outpacing our own ability to keep it under control. If we let it continue without proper safety standards and platform labeling, we risk losing control of the internet forever. And if we don’t hit the emergency brake right now, the internet will become little more than a digital dump, bursting at the seams with AI-generated garbage. We don’t want to see that."
+    },
+    {
+      "id": 14,
+      "debut": 471.36,
+      "fin": 486.88,
+      "temps_estime": false,
+      "titre": "Outro: space for AI and for people; sign the pledge",
+      "resume": "There is space for AI-generated content on the internet, but also for the people who made it great. The Infographics Show has signed up, and viewers are asked to click the link in the description and demand a slowdown from politicians and platforms.",
+      "mots_cles": [
+        "Infographics Show signed",
+        "pledge link",
+        "space for people",
+        "demand a slowdown",
+        "AI-generated content",
+        "outro",
+        "description link",
+        "human creators"
+      ],
+      "texte": "There’s space for AI-generated content on the internet. But there also needs to be space for what made it great to begin with… people. The team at The Infographics Show has already signed up. You should too. Click the link in the description and let’s show the politicians and platforms that we demand a slowdown."
+    }
+  ]
+}
