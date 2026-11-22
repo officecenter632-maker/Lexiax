@@ -1,0 +1,767 @@
+{
+  "version": 1,
+  "video_id": "dbcrn-0gY1w",
+  "titre_video": "You're Witnessing the Death of American Capitalism and More Insane Stories About the Economy",
+  "duree_s": 11029.12,
+  "avancement": {
+    "lignes_traitees": 887,
+    "fin_traitee_s": 1804.24,
+    "nb_lignes_total": 5541,
+    "complet": false
+  },
+  "nb_segments": 40,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.0,
+      "fin": 33.64,
+      "temps_estime": false,
+      "titre": "AI and the closed loop of capitalism",
+      "resume": "The video opens with a paradox: if AI makes everything nearly free but nobody has a job, nobody can afford anything. Capitalism is a closed loop in which businesses need workers who earn wages to buy products, so eliminating the worker eliminates the consumer. The narrator frames this as a corporate execution of the global economy that has already started.",
+      "mots_cles": [
+        "AI",
+        "capitalism closed loop",
+        "workers and consumers",
+        "wages",
+        "automation",
+        "unemployment",
+        "death of the worker",
+        "utopia"
+      ],
+      "texte": "Imagine a world where everything you want costs practically nothing, but you still can't afford it. AI is supposed to make everything cheaper. Cars, rent, groceries, all free. It's the ultimate utopian dream, but capitalism is a closed loop. Businesses need workers to make products, and workers need wages to buy them. If you eliminate the worker, you eliminate the consumer. When nobody has a job, who is left to buy what the AI is making? This isn't a tech upgrade, it's a corporate execution for the global economy, and it's already started. The death of the worker doesn't"
+    },
+    {
+      "id": 2,
+      "debut": 33.64,
+      "fin": 83.36,
+      "temps_estime": false,
+      "titre": "Amazon's one millionth warehouse robot and thinner staffing",
+      "resume": "In July 2025 Amazon switched on its 1 millionth warehouse robot, close to its 1.56 million human workers. The average warehouse now runs on about 670 workers, the thinnest staffing in 16 years, and the Shreveport, Louisiana facility needs 25% fewer people. Nobody was fired; those jobs simply never existed.",
+      "mots_cles": [
+        "Amazon",
+        "warehouse robots",
+        "1 millionth robot",
+        "670 workers",
+        "Shreveport Louisiana",
+        "automation",
+        "staffing",
+        "jobs that never existed"
+      ],
+      "texte": "start with mass firings. It's more subtle than that. Most people don't even realize it's happening. In July of 2025, Amazon switched on its 1 millionth warehouse robot. >> [music] >> That sounds impressive, and it is, especially when you consider it's close to matching the 1.56 million human workers on its payroll. But robots in warehouses aren't a new thing. Amazon's been using them for a decade. What has changed is the size of the workforce. The average Amazon warehouse now runs on around 670 workers, the thinnest staffing in 16 years. The building still ships your order, it just needs fewer people to get it to you. The warehouse in Shreveport, Louisiana, is Amazon's most automated warehouse. It gets by with 25% fewer [music] people than a standard warehouse. Nobody there got fired, those jobs never existed in the first place. The erasure of the human"
+    },
+    {
+      "id": 3,
+      "debut": 83.36,
+      "fin": 124.28,
+      "temps_estime": false,
+      "titre": "Waymo robotaxis and driverless tractors",
+      "resume": "By March 2026 Waymo ran 500,000 paid rides a week in 10 US cities with no wages going to human drivers. The Farm Bureau counts over 2.4 million jobs needing to be filled, and John Deere markets fully driverless tractors to fill the gap and boost profits.",
+      "mots_cles": [
+        "Waymo",
+        "robotaxi",
+        "500,000 rides a week",
+        "John Deere",
+        "driverless tractors",
+        "Farm Bureau",
+        "farm labor",
+        "autonomous vehicles"
+      ],
+      "texte": "isn't confined to warehouses, either. By March 2026, Waymo was running 500,000 paid rides a week across 10 American cities, and none of those trips saw a wage going to a human driver. The paying customer was still there, but the person behind the wheel wasn't. Automated vehicles are also taking over farm work. According to the Farm Bureau, there are over 2.4 million jobs that desperately need filling. If humans don't do the work, the autonomous machines will. Companies like John Deere, who now market fully driverless tractors, see it as their duty to fill in that space, and it'll boost their profits, too. With every sector that automates, the human workforce is being slowly marched to the edge of extinction, and it's not like no"
+    },
+    {
+      "id": 4,
+      "debut": 124.28,
+      "fin": 148.76,
+      "temps_estime": false,
+      "titre": "Walter Reuther's warning: how will Ford sell them cars",
+      "resume": "In the 1950s UAW leader Walter Reuther toured a Ford engine plant where an executive asked how the union would collect dues from machines. Reuther replied by asking how Ford planned to sell them cars. The narrator says capitalism has reached the punchline: an AI that makes everything is worthless if nobody can afford it.",
+      "mots_cles": [
+        "Walter Reuther",
+        "United Auto Workers",
+        "Ford",
+        "union dues",
+        "automation joke",
+        "1950s",
+        "consumers",
+        "AI production"
+      ],
+      "texte": "one saw it coming. Walter Reuther, who ran the United Auto Workers, warned us about it back in the 1950s. When he toured a new Ford engine plant, an executive pointed at the automated equipment and asked how the union plans to collect dues from the machines. Reuther shot back asking how Ford plans to sell them cars. Decades later, capitalism has reached the punchline of that joke. An AI that makes everything is worthless if nobody can afford what"
+    },
+    {
+      "id": 5,
+      "debut": 148.76,
+      "fin": 176.8,
+      "temps_estime": false,
+      "titre": "Universal Basic Income: a wage versus a handout",
+      "resume": "Big Tech's proposed fix is Universal Basic Income, a monthly government check to every adult. The narrator argues a wage is money owed for work done, while a UBI check is a political decision that can be reversed, so whoever signs it owns the recipient once it is the sole means of survival.",
+      "mots_cles": [
+        "Universal Basic Income",
+        "UBI",
+        "government check",
+        "wage vs handout",
+        "political decision",
+        "dependence",
+        "Big Tech"
+      ],
+      "texte": "it makes. So, Big Tech had to come up with a solution. Universal Basic Income. The idea is simple. The government hands out a monthly check to every adult. The bills get paid, stores still sell some products, and everyone is happy. At least that's the idea. But, a wage and a government handout are completely different things. A wage is money you're owed for work you've done. A UBI check is a political decision, and a decision can be reversed. Once that payment is your sole means of survival, whoever"
+    },
+    {
+      "id": 6,
+      "debut": 176.8,
+      "fin": 234.0,
+      "temps_estime": false,
+      "titre": "AT&T in 1964 and the productivity-pay gap",
+      "resume": "In 1964 AT&T employed over 750,000 people, whose wages bought cars and homes during the American Dream. According to the Economic Policy Institute, productivity rose 108% and worker pay 93% from 1948 to 1979, but from 1979 to 2025 productivity rose another 90% while pay crawled up just 33%.",
+      "mots_cles": [
+        "AT&T 1964",
+        "American Dream",
+        "Economic Policy Institute",
+        "productivity vs pay",
+        "1948 to 1979",
+        "wage stagnation",
+        "switchboard operators",
+        "worker pay"
+      ],
+      "texte": "signs it owns you. The roots of it can be traced back to the moment the American Dream was shattered. In 1964, AT&T was a powerhouse. Making a phone call took a massive team effort. Employees had to push plugs into a switchboard, while linemen climbed poles in the pouring rain. Over 750,000 people ran that single network, and they used those wages to buy cars and homes with the white picket fence. The American Dream was in full flow, and the numbers backed it up. According to the Economic Policy Institute, American pro- ductivity rose by 108% [music] between 1948 and 1979. At that same time, worker pay rose by 93% It was capitalism in its pure form. Build more, sell more, pay more. And then, the American Dream became a nightmare. From 1979 to 2025, productivity rose by another 90%, but worker pay, it crawled up by just 33%. The work kept getting more valuable, but"
+    },
+    {
+      "id": 7,
+      "debut": 234.0,
+      "fin": 276.32,
+      "temps_estime": false,
+      "titre": "The 1964 Ad Hoc Committee on the Triple Revolution",
+      "resume": "In March 1964 a group of 35 economists, scientists and activists called the Ad Hoc Committee on the Triple Revolution warned automation would permanently break the link between jobs and income and proposed a government-guaranteed income. Silicon Valley's UBI idea is a reworking of that six-decade-old plan, which failed then because 1960s technology was primitive.",
+      "mots_cles": [
+        "Ad Hoc Committee on the Triple Revolution",
+        "1964",
+        "automation",
+        "guaranteed income",
+        "Silicon Valley",
+        "job market",
+        "UBI history"
+      ],
+      "texte": "paychecks lagged behind. None of this was a surprise. The signs were always there. In March 1964, a group of 35 leading economists, scientists, [music] and activists, calling themselves the Ad Hoc Committee on the Triple Revolution, warned automation would kill the American worker. They predicted the link between having a job and having an income would permanently collapse. Their solution was a guaranteed income from the government for every single person. So, the idea being floated around Silicon Valley billionaires isn't new. It is a reworking of a six-decade-old crisis plan. The committee had a bold vision, but their timing was wrong. 1960s technology was primitive. The job market remained strong, and humans were essential. But this time, it's"
+    },
+    {
+      "id": 8,
+      "debut": 276.32,
+      "fin": 316.76,
+      "temps_estime": false,
+      "titre": "Oxford study: 47 percent of jobs could be automated",
+      "resume": "In 2013 Oxford researchers Carl Frey and Michael Osborne modeled every American job and found 47% could feasibly be taken over by AI, though economists dispute the result. Earlier machines like the loom and assembly line still needed people, while the AI wave targets the chain itself, and companies admit it through hiring numbers.",
+      "mots_cles": [
+        "Carl Frey",
+        "Michael Osborne",
+        "Oxford",
+        "47 percent of jobs",
+        "automation risk",
+        "AI replacing workers",
+        "loom",
+        "assembly line"
+      ],
+      "texte": "different. Oxford researchers Carl Frey and Michael Osborne ran every job in the American economy through a computer model in 2013, asking how many AI could feasibly take over. The answer came back at 47%. That's close to half of the jobs in the country, and you don't get told which half you're in. Economists have argued with the results ever since, but the reality isn't possible to ignore. Previous generations of machines still needed people somewhere in the loop. The loom needed a weaver. The assembly line needed hands on it. The AI wave is taking aim at the chain itself. The companies buying the technology admit it themselves. The proof is in the number of new hires and job posts. But that presents its own problem, one that's"
+    },
+    {
+      "id": 9,
+      "debut": 316.76,
+      "fin": 362.8,
+      "temps_estime": false,
+      "titre": "Stock buybacks: $942 billion and the pizza analogy",
+      "resume": "Money saved by replacing workers with AI is not lowering prices but flowing back into the stock market, with S&P 500 companies spending a record $942 billion on buybacks in 2024. The narrator compares it to cutting a pizza into ten slices and buying back two to claim the remaining eight are worth more, so wealth piles up at the top without trickling down.",
+      "mots_cles": [
+        "stock buybacks",
+        "$942 billion",
+        "S&P 500",
+        "2024",
+        "labor cost savings",
+        "shareholders",
+        "pizza analogy",
+        "wealth at the top"
+      ],
+      "texte": "built entirely on an illusion. When companies use AI to replace workers, they save millions, even billions, in labor costs. But that money isn't being used to lower prices or build new opportunities. Instead, they funnel it back into the stock market. In 2024, the S&P 500 companies spent a record $942 billion buying back their own stock. Think of it like cutting a pizza into 10 slices, and you buy back two yourself. And then, you claim the remaining eight are worth more. You didn't make a new pizza or hire a new chef. You just manipulated the supply to inflate the price and pocketed the profits. That artificial demand reaps massive benefits for shareholders, but for ordinary Americans, that wealth doesn't trickle down. When the money piles up at the top, it stays there. Economists use the"
+    },
+    {
+      "id": 10,
+      "debut": 362.8,
+      "fin": 389.04,
+      "temps_estime": false,
+      "titre": "Velocity of money at record lows",
+      "resume": "Money velocity, how often a dollar changes hands per year, peaked at 2.192 in 1997, fell to a record low of 1.126 in spring 2020 and had recovered only to about 1.4 by early 2026. Fewer hands means fewer consumers.",
+      "mots_cles": [
+        "velocity of money",
+        "1997",
+        "2.192",
+        "1.126",
+        "2020",
+        "1.4",
+        "consumers",
+        "spending"
+      ],
+      "texte": "term velocity to track how often a dollar changes hands in a single year. American velocity peaked in 1997, sitting at 2.192, but then it came crashing back down, and by the spring of 2020, it hit 1.126, the lowest number ever recorded. By early 2026, it had only crept back to about 1.4. That means the dollar is passing through fewer hands. Fewer hands means fewer consumers. Say the"
+    },
+    {
+      "id": 11,
+      "debut": 389.04,
+      "fin": 414.12,
+      "temps_estime": false,
+      "titre": "The $3.7 trillion price tag of a $1,200 UBI",
+      "resume": "A $1,200 monthly check to every American adult would cost almost $3.7 trillion a year, more than Social Security, Medicare and the military budget combined, and about 55% of the entire federal budget. Slashing other budgets would not cover it, so the answer offered is taxes.",
+      "mots_cles": [
+        "UBI cost",
+        "$1,200 checks",
+        "$3.7 trillion",
+        "federal budget",
+        "Social Security",
+        "Medicare",
+        "military budget",
+        "55 percent"
+      ],
+      "texte": "government starts handing out $1,200 checks to every American adult, the total bill would come to almost $3.7 trillion every single year. That is more than Social Security, Medicare, and the US military budget combined. A basic UBI program would consume 55% of the entire federal budget. Moving money around by slashing budgets would not solve [music] it. So, how do you fund it? Easy, tax."
+    },
+    {
+      "id": 12,
+      "debut": 414.12,
+      "fin": 440.56,
+      "temps_estime": false,
+      "titre": "Robot tax: Bill Gates and South Korea",
+      "resume": "In 2017 Bill Gates said a robot taking a human job should be taxed like the worker it replaced, and South Korea created the world's first robot tax by cutting tax breaks for automated factories. The narrator says it cannot work at scale because a robot earns no salary and is an asset on a balance sheet.",
+      "mots_cles": [
+        "robot tax",
+        "Bill Gates",
+        "South Korea",
+        "automated factories",
+        "tax breaks",
+        "balance sheet",
+        "wage tax",
+        "2017"
+      ],
+      "texte": "In 2017, Bill Gates said that if a robot takes a human job, it should be taxed like the worker it replaced. South Korea did exactly that. It cut tax breaks for automated factories, creating the world's first robot tax. It's a nice idea, >> [music] >> but not one that works at scale. A robot doesn't earn a salary. It's an asset on a balance sheet. You can't take a cut from a non-existent wage. So, if taxing the robots is impossible, the government needs to look inward, and that's when"
+    },
+    {
+      "id": 13,
+      "debut": 440.56,
+      "fin": 475.28,
+      "temps_estime": false,
+      "titre": "Welfare cliffs: the Atlanta Fed child care study",
+      "resume": "A 2022 Atlanta Fed study showed a family raising household income from $54,000 to $55,000 could lose over $25,000 in child care support, so a $1,000 raise costs 25 times that in lost aid. The narrator argues a nationwide UBI would amplify this and become a tool of bureaucratic control.",
+      "mots_cles": [
+        "Atlanta Fed",
+        "welfare cliff",
+        "child care support",
+        "$54,000 to $55,000",
+        "government handouts",
+        "bureaucratic control",
+        "means testing"
+      ],
+      "texte": "the suffering really ramps up. Current government handouts are complicated and messy, and they come with strings attached. A 2022 study by the Atlanta Fed showed [music] that a family increasing their household income from 54,000 to 55,000 a year could lose more than $25,000 in child care support. A $1,000 raise ends up costing 25 times that in lost aid. Americans are already being punished for trying to succeed. A nationwide UBI program would amplify that across the entire population. It would be a tool for bureaucratic control [music] and Big Tech is pushing hard for"
+    },
+    {
+      "id": 14,
+      "debut": 475.28,
+      "fin": 511.64,
+      "temps_estime": false,
+      "titre": "Musk, Altman and Universal Basic Compute",
+      "resume": "Elon Musk told the 2017 World Government Summit that UBI would become necessary, and Sam Altman's essay Moore's Law for Everything argued AI would generate enough wealth to pay every adult, later adding Universal Basic Compute, a slice of the AI itself instead of cash. The narrator asks whether the machine builders pushing UBI are generous or desperate to keep people buying.",
+      "mots_cles": [
+        "Elon Musk",
+        "Sam Altman",
+        "Moore's Law for Everything",
+        "Universal Basic Compute",
+        "World Government Summit",
+        "Dubai",
+        "UBI",
+        "AI wealth"
+      ],
+      "texte": "it. In 2017, Elon Musk told the World Government Summit in Dubai that Universal Basic Income would become a necessity as automation spread. Four years later, Sam Altman published his essay Moore's Law for Everything, arguing that AI would generate enough wealth to pay every American adult a yearly income. By 2024, he added a second version called Universal Basic Compute, where instead [music] of cash, you would get a slice of the AI itself. The people building the machines to replace the workers are the ones pushing for UBI. It could be corporate generosity or it could be the last desperate attempt to keep people buying [music] things. And Altman has put his"
+    },
+    {
+      "id": 15,
+      "debut": 511.64,
+      "fin": 554.16,
+      "temps_estime": false,
+      "titre": "OpenAI-funded UBI experiment results",
+      "resume": "OpenAI put $24 million into the nonprofit Open Research for the largest UBI test in US history: 1,000 low-income people received $1,000 a month for three years versus 2,000 receiving $50. The main group spent about $310 more per month, mostly on food, rent and transport, and worked about 1.3 fewer hours a week.",
+      "mots_cles": [
+        "OpenAI",
+        "$24 million",
+        "Open Research",
+        "UBI experiment",
+        "$1,000 a month",
+        "1.3 fewer hours",
+        "low-income participants",
+        "spending"
+      ],
+      "texte": "money where his mouth is. OpenAI poured $24 million into a nonprofit called Open Research to run the largest UBI test in American history. For 3 years, 1,000 low-income participants were paid $1,000 a month. >> [music] >> Another 2,000 people got $50 a month for comparison. The results showed up that the main test group spent about $310 more a month than the comparison group. Most of it went to food, rent, and transport. They also worked about 1.3 fewer hours a week. On the surface, sounds like a dream, but take a closer look and it's a grim prediction of the future. The money arrives from the state. Working hours drop and the cash immediately goes straight back out. It lands in your account and it's gone before the month ends. The US government"
+    },
+    {
+      "id": 16,
+      "debut": 554.16,
+      "fin": 594.36,
+      "temps_estime": false,
+      "titre": "Stimulus payments: only 26 percent was spent",
+      "resume": "From March 2020 to March 2021 the Treasury sent 476 million stimulus payments worth $814 billion, and the New York Fed found only about 26% was spent, with the rest saved or used to pay down debt. A wage is spent out of necessity while a handout is like a lottery win, so companies counting on it see a fraction, and the consumer becomes a conduit for corporations.",
+      "mots_cles": [
+        "stimulus payments",
+        "$814 billion",
+        "476 million payments",
+        "New York Fed",
+        "26 percent spent",
+        "saved",
+        "debt paydown",
+        "consumer"
+      ],
+      "texte": "has already run its own version of this. Between March 2020 and March 2021, the Treasury sent out 476 million stimulus payments worth $814 billion. The New York Fed tracked where the money went and discovered a fatal flaw. About 26% of it got spent. The rest was saved or paid down debt. A wage gets spent out of necessity. A free handout is like a lottery win. The two are fundamentally different. The companies counting on that money to survive only will see a fraction of it. That's how capitalism dies. The consumer becomes a biological conduit for big corporations. They aren't part of the economy anymore. At that point, any money you do have isn't"
+    },
+    {
+      "id": 17,
+      "debut": 594.36,
+      "fin": 647.76,
+      "temps_estime": false,
+      "titre": "IMF on programmable CBDC money and the BIS survey",
+      "resume": "A senior IMF official explained that a central bank digital currency could be programmed for welfare payments, shopping coupons and food stamps and precisely targeted to who may have it and what it can be spent on. The Bank for International Settlements found 91% of 93 central banks working on digital money, mostly wholesale.",
+      "mots_cles": [
+        "CBDC",
+        "central bank digital currency",
+        "IMF",
+        "Bo Li",
+        "programmable money",
+        "Bank for International Settlements",
+        "93 central banks",
+        "food stamps"
+      ],
+      "texte": "yours. It's controlled. In October 2002, Bo Li, deputy managing director at the International Monetary Fund, sat on a panel and explained what a digital currency could do. >> [music] >> More specifically, what a central bank digital currency or CBDC could do. This is the money that the central bank hands out directly. It sits in its own system instead of a commercial bank's. Li said that this kind of money could be programmed for specific uses like welfare payments, shopping coupons, and food stamps. Then he spelled out what that means. The money can be, quote, precisely targeted to set who is allowed to have it and what it could be spent on. Someone else would decide what your money is for. When the Bank for International Settlements surveyed 93 central banks in 2025, it found 91% working on some form of digital money. Most of that work is wholesale, meaning that money is moving between banks. But the consumer version is the one governments keep hesitating on. One city"
+    },
+    {
+      "id": 18,
+      "debut": 647.76,
+      "fin": 682.24,
+      "temps_estime": false,
+      "titre": "Shenzhen's digital yuan lottery and programmable money",
+      "resume": "In October 2020 Shenzhen ran a digital yuan lottery with nearly 2 million applicants and 50,000 winners, whose money was non-transferable, expiring and usable only at pre-approved stores in one district. The narrator argues programmed money chains people to the system because the restrictions live inside the money itself.",
+      "mots_cles": [
+        "Shenzhen",
+        "digital yuan",
+        "e-CNY",
+        "lottery",
+        "programmable money",
+        "expiry date",
+        "non-transferable",
+        "government control"
+      ],
+      "texte": "didn't wait. The city of Shenzhen ran a lottery for digital yuan in October 2020. Nearly 2 million people applied and 50,000 won. The money could be spent at pre-approved stores inside one specific district. It was non-transferable and it had an expiry date. It's like a regular gift card that you need to use. It seems harmless, but when a government starts programming your money, you are chained to the system. They control your daily life. There's no need for police or a bank to enforce the rules. The restrictions are contained within the money. Your livelihood is dictated by a setting on a computer, one that someone else can"
+    },
+    {
+      "id": 19,
+      "debut": 682.24,
+      "fin": 726.56,
+      "temps_estime": false,
+      "titre": "Two end-game scenarios and Taleb's fragility warning",
+      "resume": "The narrator outlines two futures: the state owns the machines and hands out what they produce, or mega corporations own the AI revolution while the state funds UBI so they have buyers. Either way the ordinary person owns none of the technology and depends on a centralized digital paycheck, a fragile system with no plan B, as Nassim Taleb warned.",
+      "mots_cles": [
+        "end game scenarios",
+        "state-owned machines",
+        "mega corporations",
+        "AI ownership",
+        "Nassim Taleb",
+        "fragility",
+        "digital paycheck",
+        "no plan B"
+      ],
+      "texte": "change. Humanity is nearing the end game and there are two ways it plays out. The first scenario sees the state own the machines. It runs the automated farms and the delivery network, and it hands out what they produce. In the second scenario, a handful of mega corporations own the AI revolution and the [music] state funds the public funded UBI so those firms have somebody left to sell to. But for the ordinary American, the results are the same. You don't own a single piece of the technology that produces wealth. There's no alternative retailer or supplier. Your entire survival depends on a digital paycheck issued from a centralized department that you can't argue with. Nassim Taleb, a former options trader, warned that a system like this is fragile. There is no backup. There's no plan B. Everything works just fine until it doesn't."
+    },
+    {
+      "id": 20,
+      "debut": 726.56,
+      "fin": 768.0,
+      "temps_estime": false,
+      "titre": "When the money stops: Xerox 2013 outage and the 2025 SNAP shutdown",
+      "resume": "In 2013 a Xerox backup generator test crashed the food stamp system in 17 states, leaving shoppers at a Marketbasket in Biddeford, Maine unable to use their cards. In November 2025 food aid for about 42 million Americans stopped during a federal shutdown and went to court while people relied on food banks.",
+      "mots_cles": [
+        "Xerox 2013",
+        "food stamps",
+        "EBT outage",
+        "Biddeford Maine",
+        "SNAP shutdown",
+        "November 2025",
+        "42 million Americans",
+        "food banks"
+      ],
+      "texte": "America already has seen a small version of that. In 2013, Xerox ran a maintenance test on a backup generator at its main data center. The system crashed, cutting power to the servers and network connection for the US food stamp program in 17 states. Benefit cards stopped working. At a Marketbasket in Biddeford, Maine, shoppers pushed full carts to the register and watched as their state-funded cards declined. They were forced to leave the store with nothing. Then in November 2025, food aid for about 42 million Americans stopped during a federal shutdown. The situation was so dire it had to go to court. While government lawyers argued, millions of Americans were forced to rely on food banks just to survive. The technology worked at that time, but the money"
+    },
+    {
+      "id": 21,
+      "debut": 768.0,
+      "fin": 814.36,
+      "temps_estime": false,
+      "titre": "Spending dictated by code: farmers and right to repair",
+      "resume": "The narrator warns that with UBI you would keep your rights, vote and passport but your spending would be limited to certain products and conditions set by code. He compares it to farmers whose tractors lock down with an error code after replacing a simple part, needing an authorized engineer, so owned machines are not truly theirs.",
+      "mots_cles": [
+        "right to repair",
+        "farmers",
+        "tractor software lock",
+        "error code",
+        "proprietary software",
+        "spending restrictions",
+        "ownership",
+        "UBI control"
+      ],
+      "texte": "stopped anyway. Now we're being asked by Big Tech [music] to trust the process, to put our entire future in their hands. You would still have rights, you'd still be able to vote, and you would still have your passport, but your ability to spend would be dictated by lines of code. You would be limited to certain products, certain manufacturers, and certain conditions. This is a battle American farmers have been fighting for a decade. As technology advanced, so too did their machinery. Now, if they replace something as simple as a water pump, those onboard computers fire off an error code. That locks down their entire engine, rendering it useless. It needs an authorized engineer to plug in proprietary software and approve the repair. A machine the farmers bought and paid for isn't really theirs, and an income that you can't spend without permission works much the same way. For"
+    },
+    {
+      "id": 22,
+      "debut": 814.36,
+      "fin": 841.8,
+      "temps_estime": false,
+      "titre": "A wage is a claim on the world; UBI is a claim over you",
+      "resume": "For centuries wages bought goods and those purchases paid the next wages, but the AI revolution keeps the supply chain and removes the wage, replacing it with terms and conditions. A wage is a claim of value over the world, while Big Tech's UBI is a claim the world holds over you: customer or captive.",
+      "mots_cles": [
+        "wage",
+        "terms and conditions",
+        "customer or captive",
+        "AI revolution",
+        "supply chain",
+        "claim of value",
+        "UBI"
+      ],
+      "texte": "centuries, wages bought goods, and those purchases paid for the next round of wages. The AI revolution keeps the supply chain intact, it just wipes out the human element. It eliminates the wage, and it replaces it with something that comes with terms and conditions. A wage is a claim of value you hold over the world. Big Tech's version of UBI is a claim the world holds over you. Automated factories will continue come online. The only question is whether you'll be a customer or captive. As the"
+    },
+    {
+      "id": 23,
+      "debut": 841.8,
+      "fin": 872.44,
+      "temps_estime": false,
+      "titre": "Was the American dream always a nightmare? Episode intro",
+      "resume": "The narrator shifts from factories to offices and asks whether the American dream, a steady job, a two-bedroom house with a white picket fence and 2.5 kids, still exists amid flat wages and crushing debt. The episode of The Infographic Show sets out to expose the death of American capitalism.",
+      "mots_cles": [
+        "American dream",
+        "picket fence",
+        "2.5 kids",
+        "flat wages",
+        "debt",
+        "Infographic Show",
+        "death of American capitalism",
+        "office jobs"
+      ],
+      "texte": "relentless AI push continues, the purge is moving from the factory floor to the office. Was the American dream always just a nightmare in disguise? For decades, it meant a steady job, a two-bedroom house with a white picket fence, [music] and the classic two and a half kids, maybe even a college fund tucked away. But does that [music] dream still exist? Today, wages are flat, and debt is crushing. The very bedrock of the economy is [music] cracking beneath our feet. So, what happens next? On today's episode of the Infographic Show, we're exposing [music] the death of"
+    },
+    {
+      "id": 24,
+      "debut": 872.44,
+      "fin": 915.88,
+      "temps_estime": false,
+      "titre": "What capitalism is: means of production and capital",
+      "resume": "Capitalism is described as a concept both simple and complicated whose earliest forms predate America. Its core is private ownership of the means of production, including infrastructure, equipment, resources and labor, with sales proceeds reinvested to grow the process; those resources are called capital.",
+      "mots_cles": [
+        "capitalism definition",
+        "means of production",
+        "capital",
+        "private ownership",
+        "reinvestment",
+        "infrastructure",
+        "labor"
+      ],
+      "texte": "American capitalism. Capitalism is one of those popular buzzwords that you have probably heard a thousand times. It's a concept that's both simple [music] and complicated. Depending on who you ask, the earliest versions of capitalism appeared centuries before America even existed. The core of capitalism is an idea that it's a means of production. It's a pretty big umbrella term for [music] things like the infrastructure, equipment, resources, and labor involved in making products or services. And [music] it can be privately owned by someone who isn't actively taking part in all of that stuff, [music] and the resources made from selling those goods and services can be invested back into the process to make it bigger, and in theory, better. The name for those resources is capital, hence capitalism."
+    },
+    {
+      "id": 25,
+      "debut": 915.88,
+      "fin": 944.12,
+      "temps_estime": false,
+      "titre": "The cobbler: a single craftsman's business",
+      "resume": "A cobbler example shows an artisan buying or tanning leather, designing and assembling boots, and pricing them by materials, time and skill. If lucky, he earns enough to support himself and his family.",
+      "mots_cles": [
+        "cobbler",
+        "shoemaker",
+        "artisan",
+        "leather boots",
+        "pricing",
+        "craftsmanship",
+        "small business"
+      ],
+      "texte": "Let's just say you're a cobbler, someone who makes shoes for a living. If you want to sell some nice leather boots, you'd either buy the leather or tan it yourself. Then you design the shoe, cut the leather into the right shapes in your workshop, and fuse it all together, and now you got yourself a pair of boots to sell. You can set the price of those boots based on the cost of the materials and the time it took you to make them, and a little extra for the skill you've built over the years. [music] If you're lucky, you might just make enough off of those shoes to support yourself and maybe your family. But,"
+    },
+    {
+      "id": 26,
+      "debut": 944.12,
+      "fin": 1019.24,
+      "temps_estime": false,
+      "titre": "Scaling up: the factory, division of labor and the capitalist's cut",
+      "resume": "A capitalist with family money, profits or loans buys a factory and hires workers for specialized, easily trained tasks, producing boots faster and giving the public more choice. Each worker earns less than the cobbler, and a greedy capitalist can pay terrible wages, cut corners or overcharge consumers.",
+      "mots_cles": [
+        "factory",
+        "division of labor",
+        "production line",
+        "capitalist profit",
+        "low wages",
+        "cutting corners",
+        "overpricing",
+        "specialized workers"
+      ],
+      "texte": "capitalists think a lot bigger than that. One highly skilled artisan might be able to craft a beautiful boot, but that takes [music] time. What if you want to scale the process? Maybe the capitalist has family money, profits from another industry, or loans from the wealthy. With that cash, he snaps up a factory and begins hiring workers. Rather than one skilled person who makes a whole shoe, you hire one person to design [music] the shoe, another person to cut the leather, another to sew it all together. None of them need the skills going in, but each job is simple enough that it's easy to train. With a production line of specialized workers, they can make and sell those boots a lot faster, which means the general public gets a lot more choice. In theory, it can be a more stable living for the workers, too. They don't need to worry about marketing the products to their customers or getting the raw materials from their suppliers. The only thing they need to do is their little bit again and again. But, each person involved in the process makes less than the cobbler. It's [music] not just the extra overhead of a bigger system, the capitalist who set it up also wants his cut for [music] putting in the money. And if they're particularly greedy, they can do one or more of three [music] things. Pay workers terrible wages, cut corners on production, or hit the consumer with a price tag way higher than the boots deserve. [music] But, in"
+    },
+    {
+      "id": 27,
+      "debut": 1019.24,
+      "fin": 1071.0,
+      "temps_estime": false,
+      "titre": "Competition and Adam Smith's free market",
+      "resume": "Capitalism's built-in check on greed is competition: many businesses compete for customers and talent, so customers can leave overpriced shoes and employees can leave poor jobs. Adam Smith described the system as turning selfishness into something useful because employers want to keep customers and workers.",
+      "mots_cles": [
+        "competition",
+        "free market",
+        "Adam Smith",
+        "selfishness",
+        "market share",
+        "labor competition",
+        "prices and wages"
+      ],
+      "texte": "theory, capitalism has a mechanism built in for stopping this from happening. Competition. In an ideal capitalist world, there isn't just one sole person running an industrialized cobbling business. There might be a huge number of businesses doing this, and they are competing both [music] for market share and the best talent for their labor. If the shoes are overpriced or if quality is poor, the customer can go elsewhere that sells better quality shoes for less. And if the work conditions [music] are poor and the pay is terrible, employees can leave and join rival competitors. And that's when production [music] lines fall apart. This is the free market, one of the core concepts of capitalism in action. The daddy of capitalism, Scottish economist [music] Adam Smith, described capitalism as a system that turns selfishness into something [music] useful. Since employers want to keep both customers and workers, it's in their interest to keep [music] prices and wages fair and competitive. And nowhere on Earth has"
+    },
+    {
+      "id": 28,
+      "debut": 1071.0,
+      "fin": 1126.36,
+      "temps_estime": false,
+      "titre": "Why capitalism flourished in America: Weber, Ford and industry",
+      "resume": "Max Weber's 1905 book The Protestant Ethic and the Spirit of Capitalism argued America's Protestant roots helped the system take hold in a nation that hated monarchy. While Europe fought petty wars, US industry grew, and by the end of World War I it produced giants like AT&T, Levi's, Coca-Cola and Ford, which pioneered affordable mass-produced cars.",
+      "mots_cles": [
+        "Max Weber",
+        "Protestant Ethic",
+        "American capitalism",
+        "Ford",
+        "AT&T",
+        "Levi's",
+        "Coca-Cola",
+        "World War I"
+      ],
+      "texte": "capitalism flourished more than in the United States. In 1905, economist Max Weber published The Protestant Ethic and the Spirit of Capitalism. He argued that America's Protestant roots were a big reason [music] the system took hold so strongly. A nation that hated monarchy from the very beginning became the perfect breeding ground for capitalism. And as the centuries went on and European countries kept knee-capping each other in petty wars, [music] the US saw its industrial sector grow and grow. By the end of World War I, it was a true capitalist powerhouse on the world stage. This saw the birth of the iconic American industrial heavy-hitters like AT&T, Levi's, Coca-Cola, and of course Ford, the first company to make affordable mass-produced cars. Ford's unprecedented [music] growth came from the same production line method we described earlier with our hypothetical shoe business. But it's not just the manufacturers that flourished [music] in the US after the Great Depression. More on that later. It"
+    },
+    {
+      "id": 29,
+      "debut": 1126.36,
+      "fin": 1167.92,
+      "temps_estime": false,
+      "titre": "Post-World War II boom and the middle class",
+      "resume": "After World War II women entered the workforce, creating a larger labor pool and more disposable income, and the postwar boom produced a strong middle class. With much of the world recovering from war, selling to Americans became the most lucrative deal on Earth, and manufacturers got rich domestically while avoiding tariffs.",
+      "mots_cles": [
+        "post-war economy",
+        "middle class",
+        "women in workforce",
+        "disposable income",
+        "American manufacturers",
+        "tariffs",
+        "golden age",
+        "consumers"
+      ],
+      "texte": "was the other key part of capitalism, too, the consumers. After World War II, women had entered the workforce creating a larger labor pool and more people with disposable income. The booming post-war [music] economy gave rise to a strong middle class and with it plenty of cash to spend. Meanwhile, [music] much of the world was still recovering from mass bombings, invasions, occupations, and genocides. Selling goods to the American [music] people became the most lucrative deal in the world. So plenty of American manufacturers could get rich selling their products domestically and avoiding tariffs. For a brief moment, it seemed like the whole capitalism thing might be the US's golden ticket to global supremacy and the greatest [music] quality of life for its people. And then"
+    },
+    {
+      "id": 30,
+      "debut": 1167.92,
+      "fin": 1262.4,
+      "temps_estime": false,
+      "titre": "Globalization and offshoring: wages shrink while prices soar",
+      "resume": "Markets need growing profits, and after World War II GATT and later the WTO let US companies move manufacturing to developing countries, ship goods back at a markup and use sweatshop labor. Trade deficits dragged down wages for non-college Americans, who from 1979 to the mid-2010s saw wages fall about 5 or 6% while prices rose almost 226%.",
+      "mots_cles": [
+        "globalization",
+        "offshoring",
+        "GATT",
+        "World Trade Organization",
+        "sweatshop labor",
+        "trade deficit",
+        "wage decline",
+        "226 percent price rise"
+      ],
+      "texte": "it all started tumbling down. The slow, agonizing death of American capitalism began with increased globalization of trade not long after World War [music] II. The thing about markets under capitalism is, for them to stay healthy, they always need to grow their profits. >> [music] >> This can happen in three ways, like we were mentioning earlier, less expensive manufacturing, higher market share, or more expensive products. But any one of those methods can be risky in a free market of choice for both consumers and workers. So, what if you just pushed manufacturing somewhere else? Thanks to the General Agreement on Tariffs and Trade and much later [music] the World Trade Organization, the waters were smooth for international trade. American companies started realizing that they could save a lot of money by putting their manufacturing plants in [music] developing countries with weaker economies. They would ship the goods back to the US to sell them to American consumers at [music] considerable markup, meaning a nice fat profit. And because some of these companies rely [music] on sweatshop labor, their workers don't have the freedom to walk away when pay or conditions are terrible. Massive trade deficits with countries where US companies moved their [music] factories have dragged down wage growth for Americans without a college degree. >> [music] >> From 1979 to the mid-2010s, this group saw their wages shrink by about 5 or 6%. [music] That's bad enough, but it's even worse when you compare it to the almost 226% rise in prices [music] during the same period. But you wouldn't see that on the news, where many of the companies outsourcing jobs overseas are buying lucrative ad spots. And if it seems like this has gotten even worse in the last few years, you are not just"
+    },
+    {
+      "id": 31,
+      "debut": 1262.4,
+      "fin": 1307.24,
+      "temps_estime": false,
+      "titre": "COVID supply chain fragility and why manufacturing won't return",
+      "resume": "Globalized trade left the US vulnerable to shocks like COVID-19, which collapsed trade flows and still feeds inflation. Bringing manufacturing back would require restructuring the economy and either massive cuts to the wealth of the 1% or higher consumer prices, neither of which is likely without government pressure.",
+      "mots_cles": [
+        "COVID-19",
+        "supply chain",
+        "inflation",
+        "bringing back manufacturing",
+        "reshoring",
+        "the 1 percent",
+        "government pressure",
+        "trade flows"
+      ],
+      "texte": "imagining things. The globalization of trade over domestic manufacturing made it extremely vulnerable to globe-shaking events [music] like the COVID-19 pandemic. This caused a lot of these trade flows to collapse for months on end, an event we are still seeing the ramifications of today in unchecked inflation. [music] However, as much as every politician hopes to ride into office on promises of bringing back [music] manufacturing jobs like a magic carpet, there is no putting that genie back in the bottle without entirely restructuring the US economy. Unless the 1% [music] is willing to take massive cuts to their wealth or pass the expense on to consumers and risk losing them, manufacturing will likely stay abroad. Neither option looks appealing, and without government pressure, which isn't coming, >> [music] >> nothing is going to change. The US is"
+    },
+    {
+      "id": 32,
+      "debut": 1307.24,
+      "fin": 1384.08,
+      "temps_estime": false,
+      "titre": "Falling pay, financial stress and $90,000 of consumer debt",
+      "resume": "A 2023 ZipRecruiter study found 48% of 2,000 companies had cut pay for some roles, especially the lowest paid, aided by an oversupply of labor. A CBS poll found two in three Americans stressed about finances and three in four say income has not kept up with inflation, while average consumer debt approaches $90,000.",
+      "mots_cles": [
+        "post-industrial society",
+        "ZipRecruiter",
+        "pay cuts",
+        "CBS poll",
+        "financial stress",
+        "inflation",
+        "consumer debt $90,000",
+        "multiple jobs"
+      ],
+      "texte": "now a post-industrial capitalist society, and what does that mean for you? Well, just take a look at [music] your wage packet. We've seen pay for all but the richest take a sharp drop in the middle of a cost-of-living crisis. A study conducted on job website ZipRecruiter in 2023 found 48% of the 2,000 companies surveyed had dropped pay rates for some of their roles, especially the ones that were already the lowest paying. As prices rise, [music] companies scale back to save money, creating an oversupply of labor that allows [music] employers to lowball potential recruits. The competition for job offers is so low that there is no incentive [music] to offer anything better, and we are all feeling this in our wallets on a day-to-day [music] basis. A CBS poll found that two out of three Americans are stressed about their finances, and we [music] are insanely jealous of that third American. And this still isn't as bad as the three out of four Americans who claim that their income hasn't managed to keep up with rampant inflation. Many Americans are having to work multiple jobs just to make ends meet with zero hope of ever rising out of their economic bracket. For the average American, there's also the anchor of consumer debt hanging around their neck. That's an average of almost $90,000 from a soul-crushing combination of credit card debt, auto loans, mortgage and personal loans, home equity lines of credit, and student loans."
+    },
+    {
+      "id": 33,
+      "debut": 1384.08,
+      "fin": 1429.44,
+      "temps_estime": false,
+      "titre": "Teacher pay and first-time homebuyers",
+      "resume": "Adjusted for inflation, teachers in many states make about 5% less than ten years ago, undermining education as the great equalizer. In 2024 only 24% of home sales went to first-time buyers, down 50% from 2010, and the average first-time buyer is 38, ten years above the historical norm.",
+      "mots_cles": [
+        "teacher pay",
+        "education",
+        "first-time home buyers",
+        "24 percent",
+        "average age 38",
+        "homeownership",
+        "middle class",
+        "housing"
+      ],
+      "texte": ">> [music] >> In theory, education should be the great equalizer, giving Americans equal opportunities to control their life and improve their chances in the job market. But, how could that be possible when teaching [music] itself is becoming a more hostile profession to get involved with? When adjusting for inflation, teachers [music] in many states are making 5% less than they did 10 years ago, despite attempts at pay increases. For people in the rapidly dissolving middle class, some of the traditional markets of capitalist success now feel hopelessly out of reach. And [music] what's a better example of this than home ownership? In 2024, only 24% of housing sales were by first-time home buyers. It's down an eye-watering 50% from 2010. These days, the average age of a first-time home buyer is 38, 10 years above the historical norm for home buying."
+    },
+    {
+      "id": 34,
+      "debut": 1429.44,
+      "fin": 1476.56,
+      "temps_estime": false,
+      "titre": "Housing affordability and record homelessness",
+      "resume": "In March 2025 only one in five homes was affordable on a $75,000 salary, and at $50,000 only 8.7% of listings were affordable. Homelessness has risen 18% since 2024 to about 771,000 people, including 150,000 children, the worst numbers HUD has ever recorded.",
+      "mots_cles": [
+        "housing affordability",
+        "$75,000 salary",
+        "8.7% of listings",
+        "homelessness",
+        "771,000 people",
+        "HUD",
+        "150,000 children",
+        "18 percent rise"
+      ],
+      "texte": ">> [music] >> Back in March 2025, only one in five homes was seen as affordable for someone with a $75,000 annual salary. If you are making a little less than that, at 50,000, you can only afford 8.7% of home [music] listings. That's down 9.4% from 2024. And while being forced into the position of the eternal renter is pretty bad, an even [music] worse possibility is becoming increasingly likely. Since 2024, homelessness in the United States has risen a completely depressing 18%. [music] That's around 771,000 people, almost a million Americans sleeping in their cars or on the streets. 150,000 of them are children. The [music] US Department of Housing and Urban Development, who conducted the reports on these matters, have said these are the worst numbers they've ever seen."
+    },
+    {
+      "id": 35,
+      "debut": 1476.56,
+      "fin": 1518.32,
+      "temps_estime": false,
+      "titre": "The unattainable picket fence and the cost of child care",
+      "resume": "If trends hold, the house with a white picket fence will be unattainable for most Americans. Child care for about 10 million kids averages nearly $1,000 a month per child, close to $2,000 in California, before food, clothes and leisure.",
+      "mots_cles": [
+        "picket fence",
+        "child care costs",
+        "$1,000 a month",
+        "California",
+        "raising kids",
+        "10 million children",
+        "cost of living"
+      ],
+      "texte": ">> [music] >> If these trends hold up, that means one of the most basic tenets of the American dream, the house with a white [music] picket fence, is going to be completely unattainable for the majority of Americans. The only way they'll ever be able to experience it is actually in their dreams. But, what about the two and a half kids? Well, it turns out in this modern form of American capitalism, your prospects for that ain't looking so good either. There are around 10 million kids in the child care system around the US with an average cost of [music] nearly $1,000 a month per child, and that is on the cheaper end. In California, you're looking closer to 2,000 per month, and that's not even factoring in costs of food, clothes, and leisure, which are only going to increase as they grow. And what about"
+    },
+    {
+      "id": 36,
+      "debut": 1518.32,
+      "fin": 1546.8,
+      "temps_estime": false,
+      "titre": "Retirement crisis: working until the grave while Bezos weds",
+      "resume": "Eleven million Americans, one in five over 65, are still working, and 50% of women and 47% of men aged 55 to 66 have no retirement savings. The narrator contrasts this with 90 private jets flying to Jeff Bezos's second wedding.",
+      "mots_cles": [
+        "retirement",
+        "no retirement savings",
+        "11 million seniors working",
+        "55 to 66",
+        "Jeff Bezos wedding",
+        "private jets",
+        "pension",
+        "savings"
+      ],
+      "texte": "the promise that you'll be able to retire in your twilight years to rest, relax, and pursue your passions while living off your savings and pension? We're sorry to tell you that that window is closing, too. 11 million Americans, one in five people over 65, are still working with no escape but the grave in sight. 50% of women and 47% of men between the ages of 55 [music] and 66 have no retirement savings. Meanwhile, 90 private jets flew to the second wedding of Jeff Bezos. [music]"
+    },
+    {
+      "id": 37,
+      "debut": 1546.8,
+      "fin": 1623.36,
+      "temps_estime": false,
+      "titre": "Wealth inequality: billionaires and the richest 1 percent",
+      "resume": "2025 census data show average household income stagnating since the pandemic while the richest households gained. US billionaire wealth grew from about $2.9 trillion to $5 trillion between March 2020 and October 2021, the bottom 50% owns just 2.5% of wealth, and the top 1% owns half of stocks and mutual funds, up from 40% in 2002.",
+      "mots_cles": [
+        "wealth inequality",
+        "billionaires",
+        "$2 trillion increase",
+        "bottom 50 percent",
+        "top 1 percent",
+        "Federal Reserve",
+        "stock ownership",
+        "census 2025"
+      ],
+      "texte": "The divide between the haves and the have-nots seems to be getting wider and wider. According to [music] 2025 census data, we have seen the income of the average household stagnate since the pandemic, while the richest households in the country have actually seen a little boost. Normal people were suffering during the worst years of the pandemic lockdown, and the billionaire class was actually getting richer. >> [music] >> The combined wealth of all US billionaires increased by just over $2 trillion between March 18th, 2020 and October 15th, [music] 2021, going from approximately 2.9 trillion to around 5 trillion. The US has over 700 billionaires, the most of any country in the world. But let's look at the five richest people in that period. Bill Gates, [music] Mark Zuckerberg, Larry Page, Elon Musk, and of course, the happily married Jeff Bezos. In that lockdown period, their combined wealth grew 123% in the first [music] financial quarter of 2025, the bottom 50% of earners in the US owned only a combined 2.5% [music] of all the wealth in the US. The richest 1% now own half of all US stocks and mutual funds, up from 40% in 2002, according to the Federal Reserve. So, when the news celebrates a booming stock market, we know who is really cashing in, and it's not us. It's important to"
+    },
+    {
+      "id": 38,
+      "debut": 1623.36,
+      "fin": 1709.68,
+      "temps_estime": false,
+      "titre": "The Roaring Twenties and the 1929 crash",
+      "resume": "The Roaring Twenties were not roaring for everyone: in 1923 the Supreme Court struck down minimum wage laws and in 1926 Coolidge cut taxes for the rich. By 1929 just 0.1% held 34% of the nation's wealth and 200 companies controlled half of corporate wealth, and with workers lacking purchasing power overproduced goods went unsold, setting the stage for the Great Depression.",
+      "mots_cles": [
+        "Roaring Twenties",
+        "1929 crash",
+        "Coolidge tax cuts",
+        "minimum wage ruling 1923",
+        "wealth concentration",
+        "overproduction",
+        "Great Depression",
+        "deregulation"
+      ],
+      "texte": "[music] remember that we have been here before. The Roaring Twenties weren't exactly roaring for everyone. While the Gatsbys of the world were living it up, average people were having a harder time keeping it together. In 1923, the Supreme Court ruled that the minimum wage laws were unconstitutional. So, if employers wanted to pay chicken feed to their workers, they could. In 1926, President [music] Coolidge cut taxes for the rich to stimulate the economy, and this ended up having the absolute opposite effect. >> [music] >> By 1929, deregulation had concentrated wealth to a staggering degree. Just 0.1% of the population held 34% of the nation's wealth, the same as the bottom 42% combined. [music] Half of all corporate wealth in a country of more than 100 million people was controlled by only 200 companies. Despite corporate profits rising by around 62% over the course of the decade, that success did not trickle down. In October of 1929, the US economy exploded, and even that is putting it [music] mildly. One of the main reasons why the stock market crashed and the US banking system went belly up is a pretty obvious result of shortsightedness and greed. Companies paid their workers terrible money to create a huge amount of industrial output and products, but because everyone [music] was making terrible money, they had no purchasing power. So, there was nobody to buy the products that those companies overproduced. [music] Everyone was sitting on a surplus of overpriced goods, from agriculture to consumer products. And that set the stage for the Great Depression."
+    },
+    {
+      "id": 39,
+      "debut": 1709.68,
+      "fin": 1749.52,
+      "temps_estime": false,
+      "titre": "The New Deal and Keynes' idea of circulation",
+      "resume": "The New Deal under Franklin D. Roosevelt rescued America using the philosophy of John Maynard Keynes, who stressed circulation: bosses pay workers well, workers buy products, money returns to bosses, and the government taxes the flow. With strong labor protections this works for everybody but consolidates less wealth in the ultra-wealthy.",
+      "mots_cles": [
+        "New Deal",
+        "Franklin D. Roosevelt",
+        "Keynes",
+        "circulation of money",
+        "labor protections",
+        "wages",
+        "taxes",
+        "Great Depression"
+      ],
+      "texte": ">> [music] >> What saved America back then was the New Deal, put in place by Franklin D. Roosevelt. Under the economic philosophies of Maynard Keynes, Keynes, [music] to put it simply, believed in the importance of circulation. A good, healthy economy is one where the money is always flowing. Bosses pay their workers well, who then can buy products with their disposable income, sending money back to the bosses. They use it to make more products and pay their workers. Meanwhile, the government makes a pretty penny on taxes from all those money movements. If there are strong labor protections in place, >> [music] >> this system can work out for everybody. But that means less of the collective wealth is consolidated in the hands of the ultra-wealthy, >> [music]"
+    },
+    {
+      "id": 40,
+      "debut": 1749.52,
+      "fin": 1804.24,
+      "temps_estime": false,
+      "titre": "Gig economy: 64 million freelancers without protections",
+      "resume": "Faced with labor laws requiring fair wages, companies found two workarounds: corporate lobbying and the gig economy. Uber, Airbnb, DoorDash, Fiverr, Upwork, Etsy and LegalZoom offer gigs, not jobs, in a legal gray area, and an estimated 64 million Americans, 38% of the workforce, did freelance work in 2023.",
+      "mots_cles": [
+        "gig economy",
+        "Uber",
+        "DoorDash",
+        "contractors",
+        "64 million freelancers",
+        "38 percent of workforce",
+        "labor laws",
+        "lobbying"
+      ],
+      "texte": ">> our American super capitalists. Faced with labor laws that make them pay fair [music] wages, companies found a workaround, well, two of them. Corporate lobbying and the gig economy. Uber, Airbnb, DoorDash, Fiverr, Upwork, CrowdSpring, [music] Etsy, and LegalZoom all have one thing in common. They are not jobs, they are gigs. They sit in a legal gray area that lacks the protections or regulation of traditional employment, and they are becoming an increasingly popular way to monetize every aspect of life while saving money for the companies. Fewer people in a legal sense are employees than ever. From taxi drivers to writers of online entertainment videos, all of these people are contractors, [music] and that is an entirely different dynamic to traditional employment on paper. An estimated 64 million Americans, representing 38% of the US workforce, [music] did freelance work in 2023. That is 4 million more than 2022, and it's only gotten worse since. >> [music]"
+    }
+  ]
+}
