@@ -1,0 +1,698 @@
+{
+  "version": 1,
+  "video_id": "jC9SVUBk6Fw",
+  "titre_video": "1 Astronaut. 1 Lunar Lava Tube. A Survival Simulation.",
+  "duree_s": 1557.12,
+  "avancement": {
+    "lignes_traitees": 380,
+    "fin_traitee_s": 1557.12,
+    "nb_lignes_total": 380,
+    "complet": true
+  },
+  "nb_segments": 37,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.16,
+      "fin": 37.52,
+      "temps_estime": false,
+      "titre": "Falling into the lava tube",
+      "resume": "The narrator puts the listener in the position of an astronaut who falls through the lunar ground into a lava tube untouched by light for 3.5 billion years. Trapped 130 feet (40 meters) under basalt, with a dead radio and a dropping oxygen supply, a survival countdown begins.",
+      "mots_cles": [
+        "lunar lava tube",
+        "fall",
+        "basalt",
+        "darkness",
+        "oxygen supply",
+        "radio static",
+        "survival countdown",
+        "trapped astronaut"
+      ],
+      "texte": "The ground disappears beneath you. One second there’s solid lunar rock, the next…nothing. You are falling into a darkness that has not been touched by light for 3.5 billion years. You hit the floor hard. Lunar dust billows around you in perfect, terrifying silence. You fumble at your radio. Static. Your oxygen supply is dropping. Trapped under 130 feet (40 meters) of solid basalt, you’re inside a colossal lunar tube the size of a cathedral. No human has ever been here. There’s only darkness in every direction. You’re completely alone. And your countdown to survival has just started."
+    },
+    {
+      "id": 2,
+      "debut": 37.52,
+      "fin": 84.96,
+      "temps_estime": false,
+      "titre": "Hour 0: the 2038 fall and the suit's impact buffers",
+      "resume": "In 2038 the astronaut, on NASA's Artemis IX rotation at a habitat on the lunar near side, falls 130 feet. In one-sixth gravity the fall takes 7 seconds, and the suit's automated impact buffers inflate to protect joints and torso, though the left ankle is badly hurt.",
+      "mots_cles": [
+        "Hour 0",
+        "2038",
+        "Artemis IX",
+        "lunar gravity",
+        "7 second fall",
+        "impact buffers",
+        "ankle injury",
+        "spacesuit"
+      ],
+      "texte": "Hour 0 The year is 2038. You are an astronaut on NASA’s Artemix IX research rotation, stationed at a pressurized habitat on the lunar near side. And you have just achieved something you never thought you’d put on your resume… You fell into the Moon. In lunar gravity, which is one-sixth of Earth’s, a 130 foot (40 meter) fall takes 7 agonizing seconds. That’s long enough to watch the rim of the skylight shrink above you, jagged and receding, while the darkness underneath comes up to meet you. Your suits' automated impact buffers fired in milliseconds, inflating to protect your joints and torso. Engineers built this foam-dense system hoping you’d never need it. But you still hit the ground hard. The impact rattled your spine and radiated outward. Your left ankle flared with a searing pain… but you're alive."
+    },
+    {
+      "id": 3,
+      "debut": 84.96,
+      "fin": 109.76,
+      "temps_estime": false,
+      "titre": "Alone: regolith dust, helmet lamp and no one knows",
+      "resume": "Razor-sharp regolith from micrometeorite bombardment settles around the astronaut. The EVA partner turned back 40 minutes earlier with a heating fault, the habitat in the Marius Hills is 3 miles (4.7 km) away, and no one knows where the astronaut is.",
+      "mots_cles": [
+        "regolith",
+        "micrometeorite",
+        "helmet lamp",
+        "EVA partner",
+        "heating fault",
+        "Marius Hills",
+        "habitat",
+        "isolation"
+      ],
+      "texte": "A plume of lunar regolith, ground to razor sharp powder by billions of years of micrometeorite bombardment settles around you as you groggily get to your feet. Your helmet lamp cuts a narrow path through the inky blackness. You try to get your bearings, looking back up toward the surface. Your EVA partner had turned back 40 minutes ago with a heating fault. The pressurized habitat in the Marius Hills is 3 miles (4.7 kilometers) behind you. No one knows you're here."
+    },
+    {
+      "id": 4,
+      "debut": 109.76,
+      "fin": 163.84,
+      "temps_estime": false,
+      "titre": "What a lava tube is: Kaguya's discovery and the Ocean of Storms",
+      "resume": "The astronaut is in a volcanic complex called the Ocean of Storms, where Japan's Kaguya satellite spotted a pit in 2009 about 210 feet (65 m) across. A lava tube forms when a lava river's crust hardens and the lava drains away, and on the Moon low gravity lets such tubes reach an estimated 1,200 feet (360 m) wide, big enough to hold the Vehicle Assembly Building.",
+      "mots_cles": [
+        "lava tube formation",
+        "Ocean of Storms",
+        "Kaguya satellite",
+        "JAXA",
+        "skylight pit",
+        "1,200 feet wide",
+        "low gravity",
+        "Vehicle Assembly Building"
+      ],
+      "texte": "You’re trapped in a volcanic complex early astronomers ominously named the “Ocean of Storms.” In 2009, the Japanese Space Agency’s Kaguya satellite was photographing this region when it caught something that stopped researchers cold. A small pinprick on the lunar surface, roughly 210 feet (65 meters) across, dropping almost 290 feet (80 meters) into the lunar surface. The collapsed ceiling of a lava tube. A lava tube is exactly what it sounds like. A river of lava flows, the outer crust hardens, the inside keeps moving, eventually drains away, and leaves a hollow tunnel behind. On Earth, these tunnels are human-scaled, crawlable, and at most even walkable. But the moon’s low gravity changes everything. The structural limitations disappear. Researchers estimate this tube could be 1,200 feet (360 meters) wide. That’s large enough to park the Vehicle Assembly Building at Kennedy Space Center inside on its side with room to spare."
+    },
+    {
+      "id": 5,
+      "debut": 163.84,
+      "fin": 197.84,
+      "temps_estime": false,
+      "titre": "A stable 62°F interior: why NASA wants lava tubes for settlements",
+      "resume": "The suit reads 62 °F (17 °C) inside the tube, while the surface swings from 260 °F (127 °C) in sunlight to -279 °F (-173 °C) in darkness. This is why NASA decided in 2025 that lava tubes are the future of settlements, shielding occupants from radiation and meteor strikes, even though the cave may still kill the astronaut.",
+      "mots_cles": [
+        "lava tube temperature",
+        "62 degrees Fahrenheit",
+        "radiation shielding",
+        "meteor strikes",
+        "NASA 2025",
+        "lunar settlements",
+        "surface temperature extremes"
+      ],
+      "texte": "The suit computer comes to life displaying an external temperature that makes you do a double take. 62 degrees Fahrenheit (17 degrees Celsius). While the surface above you swings between a deadly 260 Fahrenheit (127 Celsius) in sunlight and -279 Fahrenheit ( -173 Celsius) in darkness, this tube holds steady at room temperature. That’s why, in 2025, NASA decided these tubes were the future of human settlements. They shield occupants from lethal radiation and constant meteor strikes. Right now, this cave is keeping you alive. But depending on how long you’re down here… it might kill you."
+    },
+    {
+      "id": 6,
+      "debut": 197.84,
+      "fin": 222.64,
+      "temps_estime": false,
+      "titre": "The 24-hour oxygen limit",
+      "resume": "The suit's readout shows 23 hours 59 minutes of oxygen, far more than early suits would have given. The astronaut has only 24 hours to escape before the cave becomes a tomb.",
+      "mots_cles": [
+        "oxygen readout",
+        "24 hours",
+        "life support",
+        "NASA suit",
+        "Artemis",
+        "survival deadline",
+        "escape"
+      ],
+      "texte": "You don’t have time to appreciate the magnitude of being the first to experience this firsthand. You look down at your suit’s oxygen readout. 23 minutes 59 minutes. NASA suits have come a long way since the early days of the Artemis project. Without this advanced life support tech, you’d be dead in less than half that time. But 24 hours is all you get. You need to get out of here, before this cathedral of rock becomes your tomb."
+    },
+    {
+      "id": 7,
+      "debut": 222.64,
+      "fin": 280.64,
+      "temps_estime": false,
+      "titre": "Hour 1: the suit alert is sent but the basalt blocks the signal",
+      "resume": "The suit AI streams GPS, oxygen, heart rate and metabolic load to Marius Base and fires an alert at the moment of the fall. The basalt absorbs the signal, so the crew knows something is wrong but not that the astronaut fell, and a rescue rover might search the surface 130 feet overhead.",
+      "mots_cles": [
+        "Hour 1",
+        "suit AI",
+        "biometrics",
+        "GPS lock lost",
+        "automated alert",
+        "Marius Base",
+        "signal blocked by basalt",
+        "rescue rover"
+      ],
+      "texte": "Hour 1 The first rule of survival is simple. Don’t panic. Assess your surroundings. You are not panicking, though you are breathing at twice your normal rate inside a sealed helmet on the floor of a lava tube. Back at Marius base, someone already knows you’re in trouble. Your suit’s built-in AI monitors continuously streams your data, GPS, oxygen levels, heart rate and metabolic load, over the habitat’s relay network. The exact second you fell, your biometrics spiked, your GPS lock went underground and an automated alert fired off. Marius Base is in the process of calling you right now… But you can’t hear them. The problem is the basalt above you. It’s absorbing most of the signal. Your crewmates know something’s wrong, but they don’t know you fell. A rescue rover could be moving toward where your last surface GPS position puts you, 130 feet (40 meters) above your head. They’ll scan the barren surface, desperately calling your name into the static. Eventually, they might find the collapsed skylight. But “eventually” isn’t a luxury you have."
+    },
+    {
+      "id": 8,
+      "debut": 280.64,
+      "fin": 336.64,
+      "temps_estime": false,
+      "titre": "Gear check and the hairline fracture in the left boot",
+      "resume": "The 262-foot (80 m) climbing rope is intact, but the suit flags micro-deformation in the left boot assembly, a hairline stress fracture in the locking ring at the cuff. Each step cycles the pressure and works the crack wider, and the suit's damage model predicts 18 hours before breach probability exceeds 30%, against under 24 hours of oxygen.",
+      "mots_cles": [
+        "climbing rope",
+        "boot assembly",
+        "stress fracture",
+        "locking ring",
+        "pressure cycling",
+        "breach probability",
+        "suit damage model",
+        "18 hours"
+      ],
+      "texte": "You check your gear. Your 262 feet (80 meter) climbing rope is still intact. It’s rated for loads far beyond anything you’ll ask of it in 1/6th gravity. You look up at the rubble pile, then the rope and allow yourself a brief flicker of hope. It doesn’t last long. Your suit throws up a new alert you missed in the adrenaline rush of the fall. Boot assembly, left. Micro-deformation detected. It’s not a breach. Not yet. Your pressure remains nominal, so no oxygen is bleeding out into the vacuum. But the locking ring where your boot cuff meets the lower leg assembly has a hairline stress fracture. The suit knows what that means. Every step you now take fractionally pressurizes and depressurizes the suit. Pressure cycling works a fracture into oblivion. The suit’s damage model runs its projection and delivers the result with a flat indifference: You have eighteen hours before breach probability exceeds 30%. Less than 24 hours of oxygen. 18 hours of suit integrity."
+    },
+    {
+      "id": 9,
+      "debut": 336.64,
+      "fin": 363.6,
+      "temps_estime": false,
+      "titre": "Hydration and the decision to climb out",
+      "resume": "The suit prompts the astronaut to drink 8 ounces (240 ml) of water per hour to avoid performance degradation. Unwilling to wait for rescue, the astronaut clips the rope into the harness and walks toward the rubble pile.",
+      "mots_cles": [
+        "hydration",
+        "internal straw",
+        "8 ounces per hour",
+        "rubble pile",
+        "self-rescue",
+        "harness",
+        "decision"
+      ],
+      "texte": "Your suit prompts you to drink from your internal straw. You need 8 ounces (240 milliliters) of water per hour to prevent performance degradation. You take a long pull from the reservoir. The water is room temperature and tastes like the inside of the tube, but feeling the water hit the back of your dry throat is oddly grounding. Time is of the essence. The last thing you want to do is put your life in fate’s hands, sitting around and waiting for someone to come rescue you. So you clip the rope into your harness and walk toward the rubble pile."
+    },
+    {
+      "id": 10,
+      "debut": 363.6,
+      "fin": 418.0,
+      "temps_estime": false,
+      "titre": "Hour 2: EVA gloves are useless for rock climbing",
+      "resume": "EVA gloves, built from pressure bladder, thermal protection, abrasion shielding and outer shell, are like oven mitts for climbing. In lunar gravity the astronaut weighs about 66 pounds (30 kg) in full kit and scrambles easily at first, but cannot feel whether rock is stable or regolith is shifting.",
+      "mots_cles": [
+        "Hour 2",
+        "EVA gloves",
+        "rock climbing",
+        "pressure bladder",
+        "oven mitts",
+        "66 pounds",
+        "loss of tactile feedback",
+        "rubble pile"
+      ],
+      "texte": "Hour 2 Nobody designs EVA gloves for rock climbing. That’s the first realization you have as you approach the rubble. They’re engineering marvels designed to keep you alive in a vacuum. To do that, they require layer upon layer of specialized material between your fingers and the void. A Pressure bladder. Thermal protection. Abrasion shielding. Outer shell. They are engineering marvels. But out here, they’re like working in oven mitts. The rubble pile rises high above you. In lunar gravity you weigh barely 66 pounds (30 kilograms) in full kit. In theory, you should be able to scramble up this. At first, the low gravity feels almost insulting in how helpful it is. Each push launches you slightly further than expected; each handhold requires less grip strength than it should. The problem is that you can’t feel the rock. You can’t tell if the slab under your left hand is stable or balanced on nothing. You can’t feel the granular shift of regolith beneath your boots before it moves."
+    },
+    {
+      "id": 11,
+      "debut": 418.0,
+      "fin": 451.36,
+      "temps_estime": false,
+      "titre": "Rockslide at 50 feet",
+      "resume": "At 50 feet (15 m) a slab the size of a dining table shifts silently, since sound does not travel in a vacuum. The astronaut grabs a protruding rock and presses flat while about 440 pounds (200 kg) of basalt tumbles into the dark, then rests and keeps climbing.",
+      "mots_cles": [
+        "rockslide",
+        "50 feet",
+        "basalt slab",
+        "silent vacuum",
+        "440 pounds",
+        "handhold",
+        "close call",
+        "climbing"
+      ],
+      "texte": "At 50 feet (15 meters), a slab the size of a dining table decides to redistribute itself. You hear nothing. Sound doesn’t travel in a vacuum. It catches you by surprise. The massive rock shifts slowly. Then you notice it. You throw your weight left and grab a protruding rock that holds, pressing yourself flat against the pile. Below you, approximately 440 pounds (200 kg) of basalt tumbles into the darkness. You’ve still got a foothold, but there is a substantial drop to safety now. You rest for a few minutes, waiting for your pulse to settle. Then you keep climbing."
+    },
+    {
+      "id": 12,
+      "debut": 451.36,
+      "fin": 489.2,
+      "temps_estime": false,
+      "titre": "The vertical escape is blocked: the interlocked rubble",
+      "resume": "At 80 feet (24 m) the astronaut sees that the collapse compacted into something like solid concrete, which a basic geological core drill and two hands cannot get through. The astronaut lets go, climbs back down, and accepts that the lava tube itself is the only way out.",
+      "mots_cles": [
+        "80 feet",
+        "compacted rubble",
+        "core drill",
+        "blocked escape route",
+        "climb down",
+        "lava tube route",
+        "painful decision"
+      ],
+      "texte": "At 80 feet (24 meters), you stop. You can see what is above you for the first time. It’s a death sentence. The initial collapse piled up, but it also sheared, compacted and interlocked under immense pressure. It’s more like solid concrete than loose debris. You have a basic geological core drill and two hands. You’re not drilling through this stuff… not in your wildest dreams. You must make the most painful decision of your life. You let go… You drop to the lower ledge with a thud and gingerly climb back down the basalt. The vertical escape route is blocked. The pitch black lava tube is your only way out… At least you hope it is."
+    },
+    {
+      "id": 13,
+      "debut": 489.2,
+      "fin": 514.64,
+      "temps_estime": false,
+      "titre": "Hour 3: the second skylight 3 miles northeast",
+      "resume": "Mission survey data loaded in the suit shows that Kaguya mapped the tube in 2009 and 2030s high-resolution imaging found a second skylight about 3 miles (4.8 km) northeast. The astronaut hopes to reach a stable pit opening there, not a thin-crusted anomaly like the one that caused the fall.",
+      "mots_cles": [
+        "Hour 3",
+        "survey data",
+        "Kaguya orbiter",
+        "second skylight",
+        "3 miles northeast",
+        "pit opening",
+        "suit computer heading"
+      ],
+      "texte": "Hour 3 Before your EVA began, the mission survey data was loaded into your suit computer. Back in 2009, JAXA's Kaguya orbiter first mapped this colossal tube system. Follow-up high-resolution imaging in the 2030s identified a second skylight approximately 3 miles (4.8 kilometers) northeast of your entry point. If you can reach that, and hopefully find a stable pit opening, rather than a thin-crusted anomaly like the one that just swallowed you, it’s another potential way out."
+    },
+    {
+      "id": 14,
+      "debut": 514.64,
+      "fin": 553.28,
+      "temps_estime": false,
+      "titre": "Walking the cathedral-sized tube",
+      "resume": "As the astronaut walks, the tube widens from a 98 foot (30 m) ceiling at the entry to 200 feet (61 m) at 1,000 feet (305 m). The walls bow outward and the floor alternates between smooth basalt and cracked polygons formed when lava cooled and contracted.",
+      "mots_cles": [
+        "tube widening",
+        "cathedral of stone",
+        "200 feet ceiling",
+        "basalt floor",
+        "cooling polygons",
+        "contracted lava",
+        "route testing",
+        "helmet beam"
+      ],
+      "texte": "Your suit computer has already updated your heading. 2 degrees north-northeast. The lava tube opens up as you walk. At the entry point, the ceiling was 98 feet (30 meters) overhead. Now, at 1,000 feet (305 meters), it’s 200 feet (61 meters tall). The tube is not a uniform tunnel. It’s a cathedral of stone, getting bigger and more majestic with every step. Its walls bow outward in long curves. The floor is fractured into patches of smooth, basalt alternate with sections that look like cracked tile. It’s lava that cooled and contracted and split into irregular polygons eons ago. You pick your route carefully through the darkness, testing the floor where the beam of light makes depth ambiguous."
+    },
+    {
+      "id": 15,
+      "debut": 553.28,
+      "fin": 587.76,
+      "temps_estime": false,
+      "titre": "The fall that turns the boot crack into a breach",
+      "resume": "The right boot drops into a hidden fracture and the astronaut falls onto the left knee and hand. The suit computer flashes SUIT INTEGRITY ALERT for the left boot lower cuff: the micro-deformation is now a breach, leaking at 1.1 PSI per hour.",
+      "mots_cles": [
+        "hidden fracture",
+        "fall",
+        "suit integrity alert",
+        "left boot cuff",
+        "breach",
+        "1.1 PSI per hour",
+        "HUD warning"
+      ],
+      "texte": "But you don’t test carefully enough. Your right boot drops a few inches into a hidden fracture. As you pull it free, your left boot catches the lip of a raised basalt edge. Down you go, crashing left knee first, then left hand. The suit takes the brunt of the fall. But your left boot is on its last legs. The suit computer overrides your display, announcing in pulsing red letters on your HUD. “SUIT INTEGRITY ALERT–LEFT BOOT LOWER CUFF.” The micro-deformation has now become a breach. The boot seal is leaking at 1.1 PSI per hour. Your escape just got a whole lot harder."
+    },
+    {
+      "id": 16,
+      "debut": 587.76,
+      "fin": 636.72,
+      "temps_estime": false,
+      "titre": "Hour 4: running the numbers on a worsening leak",
+      "resume": "At 1.1 PSI per hour the astronaut has roughly 4.8 hours of suit pressure, which could just be enough to reach the secondary skylight if it is climbable. Each step flexes the cuff and widens the tear, so walking slowly lets the leak drain more while walking fast accelerates the damage.",
+      "mots_cles": [
+        "Hour 4",
+        "leak rate",
+        "4.8 hours of pressure",
+        "survivable threshold",
+        "trade-off",
+        "boot cuff flex",
+        "secondary skylight",
+        "lesser of two bad options"
+      ],
+      "texte": "Hour 4 For a while you don't move. You just stand, frozen to the spot. You run the numbers over and over again. At a leak rate of 1.1 PSI per hour, you have roughly 4.8 hours of suit pressure remaining before you drop below the survivable threshold. The secondary skylight is somewhere ahead in the blackness. The math says you can probably make it, assuming the secondary skylight is climbable. That’s a rather big if. The math also assumes your boot’s leak rate stays at 1.1 PSI per hour. It won’t. Every step you take flexes the boot cuff. Every flex cycles the breach, working the tear incrementally wider, ratcheting the leak rate up by degrees you can't predict or stop. Walking slower means the leak has more time to drain. Walk fast, and you accelerate the damage. There is only the lesser of two bad options."
+    },
+    {
+      "id": 17,
+      "debut": 636.72,
+      "fin": 707.12,
+      "temps_estime": false,
+      "titre": "Impossible to fix the boot: walking heel-first to protect the seal",
+      "resume": "The xEMU suit acts like a pressurized balloon with joints, so even sitting or lying down the astronaut cannot reach the leak. The astronaut walks at a compromise pace, planting the heel first with a stiff ankle, and the leak is updated to 1.3 PSI per hour four minutes later.",
+      "mots_cles": [
+        "xEMU suit",
+        "pressurized suit mobility",
+        "unreachable leak",
+        "walking technique",
+        "heel first stiff ankle",
+        "1.3 PSI per hour",
+        "suit pressure 3 PSI",
+        "compromise pace"
+      ],
+      "texte": "To avoid making that difficult decision, you decide instead to reach down toward the tear just in case there’s an easier fix. Your xEMU suit is the equivalent of a pressurized balloon with joints, especially after a hard impact deployed its emergency foam dampers. A pressurized suit doesn’t bend the way your body does. You’d struggle to touch your toes under normal circumstances. In a pressurized suit, on the Moon, working on your own boot with any precision is a flat out impossibility. You try sitting, legs forward, leaning hard. You try laying on your side, curling toward the boot. Your gloved hands reach the upper boot cuff and stop. You can’t reach the leak. Getting up, you decide to walk at a pace that feels like a compromise between your brain and your boot. Fast enough to cover the distance before your suit pressure drops below 3 PSI, but slow enough that each footfall lands with as little flex as possible. You ignore a lifetime of athletic training, deliberately planting your boot heel first in the regolith, keeping the ankle assembly stiff. Your suit computer updates the leak rate 4 minutes later. 1.3 PSI per hour. You walk faster, mirroring your heart rate. You try not to think about what’s happening to the compromised cuff."
+    },
+    {
+      "id": 18,
+      "debut": 707.12,
+      "fin": 727.76,
+      "temps_estime": false,
+      "titre": "Hour 5: leak at 1.6 PSI per hour and 2 hours left",
+      "resume": "The leak rises to 1.6 PSI per hour. Stopping helps the boot seal but leaves the astronaut trapped, so with about 2 hours before fatal pressure the secondary skylight is still 2 miles (3.1 km) ahead.",
+      "mots_cles": [
+        "Hour 5",
+        "1.6 PSI per hour",
+        "2 hours left",
+        "fatal danger zone",
+        "stopping versus moving",
+        "2 miles to skylight"
+      ],
+      "texte": "Hour 5 Your suit computer updates the leak rate one again. 1.6 PSI per hour. When you stop walking it helps maintain the boot seal, but stopping keeps you indefinitely trapped. At 1.6 PSI per hour, you have roughly 2 hours before your suit pressure drops below the fatal danger zone. The secondary skylight is still 2 miles (3.1 kilometers) ahead."
+    },
+    {
+      "id": 19,
+      "debut": 727.76,
+      "fin": 776.4,
+      "temps_estime": false,
+      "titre": "Water ice on the wall and fresh fractures in the floor",
+      "resume": "The headlamp reveals a sheet of water ice about 6.5 feet (2 m) across where a wall section has sloughed away. Ice normally migrates deeper over geological time, so finding it near the surface means the wall moved recently, and some fracture edges in the basalt are razor sharp and fresh, not worn.",
+      "mots_cles": [
+        "water ice sheet",
+        "lunar ice",
+        "ice migration",
+        "recent wall movement",
+        "fresh fractures",
+        "basalt edges",
+        "geology"
+      ],
+      "texte": "Soon, your headlamp catches something on the far wall that isn’t basalt. You cross the tube floor and are amazed to discover a massive sheet of water ice. It’s 6.5 feet (2 meters) across, exposed where a section of wall has sloughed away. It’s eerily beautiful, and it confuses you… because it shouldn't be here. Ice deposits migrate deeper into tube systems over geological time, pushed down by heat and pressure cycling. For this much ice to be sitting this close to the surface, this wall has moved recently. You look down at the floor you’ve been walking on, reexamining the fracture patterns in the basalt. You saw them as ancient cooling when you first came through. Lava contracting over millions of years into irregular forms, geology textbook stuff. But some of those edges are razor sharp and not worn. That means they’re fresh."
+    },
+    {
+      "id": 20,
+      "debut": 776.4,
+      "fin": 809.84,
+      "temps_estime": false,
+      "titre": "A moonquake rumbles through the tube",
+      "resume": "A low vibration travels through the basalt into the astronaut's chest, and the suit's seismic sensor logs a 0.4 magnitude event lasting 2 seconds. The leak rises to 1.7 PSI per hour, and the astronaut walks faster, trusting legs more than the unstable floor.",
+      "mots_cles": [
+        "seismic sensor",
+        "moonquake",
+        "0.4 magnitude",
+        "1.7 PSI per hour",
+        "vibration",
+        "tube instability",
+        "walking faster"
+      ],
+      "texte": "That’s when something moves. It feels like a deep vibration, low and brief, traveling up through the basalt and into your boots all the way to your chest. Your suit’s seismic sensor logs the event before you’ve finished deciding if it was real. 0.4 magnitude. Duration, 2 seconds. Your suit chimes again. 1.7 PSI per hour. You walk even faster. The boot flexes with every stride and you know what that costs and you do it anyway. The tube behind you has just reminded you that standing has its own deadly price. Right now you trust your legs more than you trust the floor."
+    },
+    {
+      "id": 21,
+      "debut": 809.84,
+      "fin": 848.96,
+      "temps_estime": false,
+      "titre": "Hour 6: the ice patch sublimates in 8 seconds",
+      "resume": "The astronaut scrapes ice from the wall and presses it against the suspected breach, hoping it will freeze and fill the hole. In the vacuum it sublimates directly from solid to vapor within 8 seconds, so the plan fails.",
+      "mots_cles": [
+        "Hour 6",
+        "ice patch",
+        "sublimation",
+        "vacuum",
+        "improvised repair",
+        "sample tool",
+        "failed fix"
+      ],
+      "texte": "Hour 6 As you continue to push ahead toward the secondary skylight and–you hope–your ultimate freedom, you have a strange thought. You scrape a chunk of ice from the wall of the lava tube with your sample tool, and reach around to the back of your heel. You press the ice against where you think the cuff of your boot is compromised. Ice expands as it freezes, fills the breach, buys you time. At least, that’s the plan. It’s a bad one, but you try it anyway. The ice is gone in 8 seconds. It doesn’t melt. It sublimates instantly from solid ice to vapor in the vacuum of space. The environment is so unforgiving, it doesn’t have time for liquids. You stare at where it was and then remember time is ticking."
+    },
+    {
+      "id": 22,
+      "debut": 848.96,
+      "fin": 884.4,
+      "temps_estime": false,
+      "titre": "Fork in the tube: the warmer right branch",
+      "resume": "The tube splits: the left branch follows the mapped northeast heading, while the right branch veers 30 degrees off axis and reads 20 °F (11 °C) warmer. With no heat source in sealed basalt, the warmth suggests a hole going deeper into the Moon, opposite of where the astronaut needs to go.",
+      "mots_cles": [
+        "fork in the lava tube",
+        "left branch northeast",
+        "right branch warmer",
+        "temperature reading",
+        "30 degrees off axis",
+        "deeper hole",
+        "route choice"
+      ],
+      "texte": "You press on and are met with something that didn’t even cross your mind. A decision you didn’t think you’d have to make. A fork in the road. Choosing one over the other could mean certain death. The left branch tracks northeast. It goes along your heading, your mapped route, and your best bet. The right branch bleeds away at 30 degrees off the axis. The number that stops you now is a temperature reading. That tube is 20 degrees (11 degrees Celsius) warmer than the air behind you. In a sealed basalt tube with no heat source, that change in temperature means a hole going even deeper into the Moon. The opposite of where you want to be going."
+    },
+    {
+      "id": 23,
+      "debut": 884.4,
+      "fin": 922.56,
+      "temps_estime": false,
+      "titre": "Trading oxygen for pressure: maximum compensation",
+      "resume": "The oxygen regulator has been bleeding reserves for 3 hours to compensate for pressure loss. The astronaut orders maximum compensation through four button presses in a pressurized glove, the pressure locks, but oxygen now falls faster, leaving 4.5 hours.",
+      "mots_cles": [
+        "oxygen regulator",
+        "pressure compensation",
+        "management menu",
+        "oxygen reserve trade-off",
+        "4.5 hours of oxygen",
+        "glove button presses",
+        "gamble"
+      ],
+      "texte": "You only allow yourself a minute to weigh the two options. Inside your suit, the oxygen regulator has been bleeding your reserve for 3 hours, automatically compensating for the pressure loss. The system has headroom. You can either push it harder, forcing it to hold pressure no matter what the boot is doing, or trade what’s left of your oxygen reserve for time. You pull up your management menu. 4 button presses through your pressurized glove leads to the screen where you order the suit to offer maximum compensation. You confirm one last time, and the pressure reading locks. Now your O2 counter begins falling faster than it should. You have 4 and a half hours of oxygen left. Could this be your ultimate gamble?"
+    },
+    {
+      "id": 24,
+      "debut": 922.56,
+      "fin": 963.52,
+      "temps_estime": false,
+      "titre": "Patching the boot with a drill handle",
+      "resume": "The astronaut tapes an adhesive suit patch to the end of the core drill extension handle and presses it against the breach by reaching behind at an awkward angle, holding for 45 seconds. The leak drops to 1.3 PSI per hour, which combined with oxygen compensation is barely enough.",
+      "mots_cles": [
+        "adhesive suit patch",
+        "core drill extension",
+        "45 seconds",
+        "breach patch",
+        "1.3 PSI per hour",
+        "improvised repair",
+        "retention tape"
+      ],
+      "texte": "You have one more idea as you walk and decide to take a 3 minute pause. You grab an adhesive suit patch from your utility pouch. You work fast, clipping the patch to the end of your core drill extension handle with retention tape. Reaching back and down toward the boot, you wrench your arm behind you at an agonizing angle. You can’t see the cuff, but you press the drill head against the breach site and count to 45. Your arm shakes and the seconds stretch out into eternity. You glance at your HUD again when the time is up. It reads 1.3 PSI per hour. The leak is still leaking, but it’s slower. Combined with the O2 compensation, it’s enough. Barely. If nothing else goes wrong."
+    },
+    {
+      "id": 25,
+      "debut": 963.52,
+      "fin": 987.36,
+      "temps_estime": false,
+      "titre": "Choosing left and wondering what if",
+      "resume": "The astronaut weighs the warm, unmapped right branch as a possible shortcut against the risk of a dead end costing 45 minutes. The astronaut goes left, and the doubt about the right branch keeps nagging long after the fork disappears.",
+      "mots_cles": [
+        "left or right branch",
+        "unmapped tunnel",
+        "dead end risk",
+        "45 minutes",
+        "choice",
+        "regret",
+        "fork"
+      ],
+      "texte": "You glance at the right branch of the forked lava tube one more time. It’s warmer. It’s unmapped. And it could be a short cut to the surface. Or it could be a dead end that costs you 45 minutes you don’t have. You go left. The right branch breathes its warmth at your back as you walk away from it. Some part of your brain keeps asking what if, what if, what if in the dark long after the fork disappears behind you."
+    },
+    {
+      "id": 26,
+      "debut": 987.36,
+      "fin": 1027.92,
+      "temps_estime": false,
+      "titre": "Hour 7: oxygen burn and a chemical sensor spike",
+      "resume": "The oxygen counter replaces the pressure gauge as the number to watch, with 4 hours 11 minutes of air left, and the oxygen used for compensation is gone forever. At 3,600 feet (1,100 m) past the fork the chemical sensor detects trace volatiles and water vapor and flags POSSIBLE EXTERNAL INTRUSION, which here means an opening to the outside.",
+      "mots_cles": [
+        "Hour 7",
+        "oxygen counter",
+        "4 hours 11 minutes",
+        "chemical sensor",
+        "trace volatiles",
+        "water vapor",
+        "possible external intrusion",
+        "3,600 feet"
+      ],
+      "texte": "Hour 7 As the clock grinds into your seventh hour, your O2 counter has replaced the pressure gauge as the number you can’t stop checking. 4 hours, 11 minutes of air at your current burn rate. The suit’s pressure is somehow holding. The compensation is working, but the oxygen it's burning to maintain that pressure is gone forever. At 3,600 feet (1,100 meters) past the fork your suit’s chemical sensor suddenly spikes. This apparatus detects trace volatiles, water vapor, and other types of atmospheric signatures that only happen when a sealed environment isn’t fully sealed. Your visor annotation reads: POSSIBLE EXTERNAL INTRUSION. In any other context that would be alarming, but right now it can mean only one thing."
+    },
+    {
+      "id": 27,
+      "debut": 1027.92,
+      "fin": 1078.0,
+      "temps_estime": false,
+      "titre": "The secondary skylight and Earth overhead",
+      "resume": "About 100 feet (30 m) ahead the ceiling cracks open and diffuse gray-blue Earthlight shines through. The secondary skylight is 10 feet (3 m) wide at its widest with rough basalt ledges for handholds, and Earth in full phase hangs directly overhead.",
+      "mots_cles": [
+        "secondary skylight",
+        "Earthlight",
+        "ceiling fissure",
+        "10 feet wide",
+        "basalt handholds",
+        "Earth overhead",
+        "relief"
+      ],
+      "texte": "You look up. 100 feet (30 meters) ahead of you the ceiling cracks open. It’s a small fissure, maybe a few feet wide. But it’s running perpendicular to the tube. And through it, somehow, light. It’s gray and blue and diffuse. Earthlight pressing deep through a hole in the Moon. You rush toward it. The compromised boot fires off a bevy of frantic warnings into your visor. You run anyway. Your legs are making this decision for you. The secondary skylight opens up above you, 10 feet (3 meters) across at its widest. It narrows back down to a slot at one end. The walls are rough basalt, fractured by geological time into ledges and cracks and handholds that have been waiting for this very moment. You stop at the base and tilt your helmet back. Improbably, Earth is directly overhead. It’s in full phase, a blue-and-white orb so tantalizingly close you can hardly bear to look at it."
+    },
+    {
+      "id": 28,
+      "debut": 1078.0,
+      "fin": 1105.76,
+      "temps_estime": false,
+      "titre": "Contact: Houston Lunar Relay finds the signal",
+      "resume": "The suit's comms antenna, retrying every 30 seconds for 7 hours, finally gets a signal through the skylight, and Houston Lunar Relay confirms they have the Artemis IX EVA-2 astronaut. The astronaut touches the basalt wall and answers, still here.",
+      "mots_cles": [
+        "comms antenna",
+        "Houston Lunar Relay",
+        "Artemis IX EVA-2",
+        "handshake",
+        "signal found",
+        "contact",
+        "still here"
+      ],
+      "texte": "Your suit’s comms antenna deploys at that very moment, trying to complete a protocol it has been attempting every 30 seconds for the last 7 hours. This time the signal snakes through the basalt tube and finds the sky. The handshake takes a fraction of a second. “Artemis IX EVA-2 this is Houston Lunar Relay. We have you. We have you. Confirm status.” You put your hand on the basalt wall. You feel it through the glove. It feels solid, real, even climbable. “Still here,” you say. “Still here…”"
+    },
+    {
+      "id": 29,
+      "debut": 1105.76,
+      "fin": 1143.76,
+      "temps_estime": false,
+      "titre": "Hour 8: waiting 90 minutes for the rover or climbing now",
+      "resume": "Houston says the rescue rover with a crane attachment needs 90 minutes because of a tire problem, but only 3 hours 51 minutes of oxygen remain. Doubting that the rover will find the hidden fissure and lower a winch hook, the astronaut decides to try improving the odds.",
+      "mots_cles": [
+        "Hour 8",
+        "rescue rover ETA",
+        "90 minutes",
+        "crane attachment",
+        "3 hours 51 minutes oxygen",
+        "winch hook",
+        "wait or climb",
+        "Houston"
+      ],
+      "texte": "Hour 8 Houston wants you to wait 90 minutes. That’s the official rescue rover ETA. Something had gone wrong with one of its tires and they were in the process of fixing it. Stand pat and wait, they said. It’s probably worth the wait. The rover has a crane attachment, purpose built for extractions like these. But your oxygen counter is a ticking timebomb. You have 3 hours and 51 minutes of it left. You look up at the towering rock wall again. The chances they find the exact hidden fissure, drop a winch hook down the winding tube, and lift you out safely feels like the improbable ending to a fairy tale. Your life is one on the line. And you’re desperate enough to try to push the odds further into your favor."
+    },
+    {
+      "id": 30,
+      "debut": 1143.76,
+      "fin": 1207.12,
+      "temps_estime": false,
+      "titre": "Drill, clip, climb: the core drill as a climbing anchor",
+      "resume": "The core drill, built to pull 1 inch (2.5 cm) samples, is used as an anchor, with a carabiner clipped through the chuck collar. The astronaut repeats drill, clip, climb up the skylight wall past 30 and 50 feet while the cooling system struggles and Houston stops talking.",
+      "mots_cles": [
+        "core drill anchor",
+        "carabiner",
+        "drill clip climb",
+        "fractured basalt",
+        "suit cooling",
+        "30 and 50 feet",
+        "climbing rhythm",
+        "Houston silent"
+      ],
+      "texte": "The core drill was designed to pull 1 inch (2.5 centimeter) samples from compacted regolith. It’s not supposed to be a climbing anchor in a fractured basalt column under lateral load. You know this. But you also know NASA tends to overengineer everything on lunar missions. You hammer the first bit into a crack in the wall. You clip a carabiner through the chuck collar and lean back, testing it with your weight. It holds. You start climbing. The process becomes repetitive and arduous. Drill. Clip. Climb. Drill. Clip. Climb. Houston has stopped arguing. They’re still tracking your biometrics, and whoever made the call to stop talking made the right one. You don’t have the breath for conversation anyway. The suit’s cooling system is fighting your body heat and losing. The inside of your helmet has the thick, recycled-air taste of a machine working too hard for too long. 30 feet (9 meters). 50 feet (15 meters). The basalt here is solid rock that takes a drill bit cleanly and holds. You find a rhythm. Your compromised boot with its jerry-rigged seal finds footholds. You try not to think about what each push-off costs the cuff seal."
+    },
+    {
+      "id": 31,
+      "debut": 1207.12,
+      "fin": 1261.84,
+      "temps_estime": false,
+      "titre": "The anchor shears and the overhang blocks the way",
+      "resume": "At 60 feet (18 m) the drill bit shears on a micro-fracture and the astronaut drops 13 feet (4 m) before the carabiner stops the fall. Above remain 6 feet of climbable wall and a 15 foot (4.5 m) blank vertical overhang of shattered rock with no anchor points, until the astronaut spots a crack wide enough for two gloved fingers.",
+      "mots_cles": [
+        "drill bit shear",
+        "13 foot fall",
+        "carabiner catch",
+        "overhang",
+        "shattered basalt",
+        "no anchor points",
+        "crack for fingers",
+        "Houston calls"
+      ],
+      "texte": "At 60 feet (18 meters), the drill bit shears without warning. The chuck torques on a micro-fracture you couldn’t see. As the anchor point crumbles, you drop 13 feet (4 meters) before the carabiner snaps you to a stop against the smooth wall. Hanging there, your suit reports a spike in your heart rate. You already know. You can still feel the gravity-blunted impact in your elbow. 20 seconds pass. Then you look up at what’s left. 6 feet (2 meters) of climbable wall to the base of the overhang, and then 15 feet (4.5 meters) of blank, vertical basalt. The drill finds nothing to bite. The rock near the lip is shattered. It fractures into a surface that crumbles when you push the bit in. There’s no anchor points. Houston calls you again. They’re coming to find you, but you’ll need to get some sort of signal onto the surface. You look at your O2 counter, then back to the overhang. Then, as if hiding in plain sight, you focus on a crack in the blank face. A crack wide enough for two fingers in a pressure glove…"
+    },
+    {
+      "id": 32,
+      "debut": 1261.84,
+      "fin": 1332.0,
+      "temps_estime": false,
+      "titre": "Hour 9: climbing the blank overhang by friction",
+      "resume": "The astronaut jams both hands in the crack to the second knuckle and walks the feet up the blank face using only friction, moving one limb at a time as oxygen drops below 3 hours. A thumb-sized crystalline intrusion serves as a foothold while survival depends on the patched boot cuff holding.",
+      "mots_cles": [
+        "Hour 9",
+        "crack climbing",
+        "friction climbing",
+        "blind moves",
+        "crystalline intrusion foothold",
+        "patched Vectran",
+        "oxygen below 3 hours",
+        "overhang"
+      ],
+      "texte": "Hour 9 Taking one last breath, you jam your right hand in the crack down to the second knuckle. Then your left. You walk your feet up the blank face before you, using only friction to hold you. The boot sole presses flat against the basalt and you force yourself upwards. Each move poses its own terrifying problem. You put your weight into your right hand, breathe, then move your left foot higher, committing your right foot to the next blind move. You are closer than ever to safety, but at the back of your mind, the threat of a drop begins to form. You close your eyes, forcing it from your mind. You try not to think about the O2 counter in the corner of your visor, ticking interminably down below 3 hours. Left hand higher. Weight transfer. Breathe. Houston is silent. Your left boot finds a feature in the rock. Feature is a generous term. It’s more like a crystalline intrusion in the basalt face the size of your thumb. You press into that for one half a second. For a moment, your entire survival rests on a piece of patched Vectran, tape, and a geology drill bit applicator pressed against a boot cuff in total darkness. Against all odds, it continues to hold."
+    },
+    {
+      "id": 33,
+      "debut": 1332.0,
+      "fin": 1379.92,
+      "temps_estime": false,
+      "titre": "Reaching the surface: Earth looming overhead",
+      "resume": "The astronaut gets a hand, elbow and chest over the lip and drags inch by inch to avoid slipping, then lies face-up on the lunar surface under a black sky with Earth overhead. The O2 counter reads 1 hour 13 minutes, the boot seal leaks 1.4 PSI per hour, and the rover is at least 30 minutes away.",
+      "mots_cles": [
+        "surface of the Moon",
+        "over the lip",
+        "regolith cold",
+        "Earth in the sky",
+        "1 hour 13 minutes oxygen",
+        "1.4 PSI per hour",
+        "rover 30 minutes away"
+      ],
+      "texte": "Your right hand comes over the lip first. You get your elbow on the rim, then your chest. You want to vault over, but resist the urge. The probability of slipping is still too high. Dragging yourself inch by inch, the suit catches on every irregularity in the basalt. It’s an undignified way to survive, but you could care less. Within minutes, you’re laying face-up on the surface of the moon. The regolith is frigid on your back, which feels oddly refreshing after hours of exertion. The sky is black and full of spectacular sights. Earth is still there, looming over you with what feels like the only color in the whole universe. The O2 counter reads 1 hour, 13 minutes. That last climb had stretched for longer than you’d anticipated. Suit pressure is holding. Boot seal is at 1.4 PSI per hour. The rover is 30 minutes away… at least."
+    },
+    {
+      "id": 34,
+      "debut": 1379.92,
+      "fin": 1446.16,
+      "temps_estime": false,
+      "titre": "Hour 10: critical breach and ebullism, with the Kittinger comparison",
+      "resume": "As the rover's dust plume appears, the boot seal fails and the visor flashes CRITICAL BREACH with 4 minutes to unrecoverable pressure loss. The astronaut's foot experiences ebullism, as Joe Kittinger's hand did in 1960 on his jump from 102,000 feet, and swelling flesh partially seals the tear, destroying and saving the foot at once.",
+      "mots_cles": [
+        "Hour 10",
+        "critical breach",
+        "ebullism",
+        "Joe Kittinger",
+        "1960 high-altitude jump",
+        "vacuum exposure",
+        "swelling seals tear",
+        "body fluids vaporize"
+      ],
+      "texte": "Hour 10 The rover’s dust plume grows bigger on the horizon when the boot seal goes. The suit alarm doesn’t bother to say PSI per hour anymore. Instead, flashing text floods your visor in blinding crimson: CRITICAL BREACH instead. 4 minutes to unrecoverable pressure loss. The rover is 24 minutes out. It’s at this point when something happens inside your boot that you will spend a long time trying to find the words to describe. The closest you will ever get is the word “boiling.” It’s like your foot suddenly trying to expand into something larger than itself. The same thing happened to Joe Kittinger’s hand in 1960 when he jumped from a hot air balloon in a near-vacuum at 102,000 feet (31,090 meters). His pressure glove failed, causing an ebullism. It’s a terrifying phenomenon where body fluids vaporize into the vacuum. His right hand rapidly swelled to twice its normal size. But Kittinger was on Earth. The vacuum of space is far less forgiving. Yet as your tissue swells outward, something miraculous happens. Your expanding flesh partially seals the tear. Your own body is destroying itself… but helping you survive at the same time."
+    },
+    {
+      "id": 35,
+      "debut": 1446.16,
+      "fin": 1501.6,
+      "temps_estime": false,
+      "titre": "Walking on the breach toward the rover as hypoxia sets in",
+      "resume": "The astronaut forces weight onto the injured foot, which keeps pressure on the breach and counterintuitively helps survival, while hypoxia softens vision. The rover accelerates across Oceanus Procellarum on a direct hazardous route drawn by mission control, its hatch opens before stopping, and the astronaut blacks out after grabbing the frame.",
+      "mots_cles": [
+        "hypoxia",
+        "walking on the breach",
+        "white hot pain",
+        "rover ETA",
+        "Oceanus Procellarum",
+        "rover hatch",
+        "blackout",
+        "mission control route"
+      ],
+      "texte": "The O2 counter improbably ticks up, buying you 6 minutes until catastrophic decompression. You understand what is happening and will happen with your foot. With white hot pain searing into your brain, you force yourself to walk toward the rover. Putting weight on your foot maintains pressure on the breach which, counterintuitively, is keeping you alive. The edges of your vision begin to soften. Hypoxia is setting in as your brain starves of oxygen. Your world is getting smaller, but everything feels far away. Houston desperately calls your name. Answering feels almost automatic. The rover ETA closes from just over 20 minutes to 4, the distance shrinking as it accelerates across the Oceanus Procellarum. It’s on a direct, more hazardous line someone at mission control drew up the moment the boot alarm fired. The driver is redlining the engine. The rover’s hatch flies open before it stops moving. You grab the frame… It’s the last thing you do before darkness claims you…"
+    },
+    {
+      "id": 36,
+      "debut": 1501.6,
+      "fin": 1546.88,
+      "temps_estime": false,
+      "titre": "Rescued, but the foot is lost: you saved yourself",
+      "resume": "The astronaut wakes inside the pressurized rover with the O2 counter at zero because the secondary reserve bled out during unconsciousness. The foot is essentially gone below the ankle, since the swelling that saved the life destroyed the tissue, and the astronaut knows the escape was self-rescue, not NASA's.",
+      "mots_cles": [
+        "rover pressurization",
+        "oxygen zero",
+        "secondary reserve",
+        "foot amputation",
+        "swelling damage",
+        "NASA rescue",
+        "self-rescue",
+        "crew celebration"
+      ],
+      "texte": "When the world comes back, it comes back loud. It’s a chaotic welter of voices and hands and the deafening hiss of pressurization completing inside the rover. Someone saying your name with a frequency that means they've been saying it for a while. Your foot is still searing in white hot pain at the end of your leg. Your 02 counter reads zero. The suit’s secondary reserve bled out while you were unconscious. Your crew mates celebrate. You let them. But you know the truth. Your foot is essentially gone below the ankle. The swelling that saved your life eviscerated what it saved. The doctors on call at NASA will confirm that fact in about 10 minutes’ time. NASA thinks it rescued you. But you know what you did in that tube to survive. You drew the short straw. You saved yourself."
+    },
+    {
+      "id": 37,
+      "debut": 1546.88,
+      "fin": 1557.12,
+      "temps_estime": false,
+      "titre": "Outro: what if the clock hit zero? Promo for a related video",
+      "resume": "The narrator asks what would have happened if the astronaut never made it and the clock hit zero. Viewers are pointed to the video What Happens If You Die In Space? and another suggested video.",
+      "mots_cles": [
+        "what if the clock hit zero",
+        "What Happens If You Die In Space",
+        "outro",
+        "video recommendation",
+        "death in space",
+        "final frontier"
+      ],
+      "texte": "But what if you never made it? What if the clock hit zero? Watch “What Happens If You Die In Space?” to see what happens when the void becomes your own personal final frontier. Or clock on this."
+    }
+  ]
+}
