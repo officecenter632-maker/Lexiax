@@ -1,0 +1,548 @@
+{
+  "version": 1,
+  "video_id": "M3hvIUwAL7c",
+  "titre_video": "Wall Street is freaking out over OpenAI now...",
+  "duree_s": 1094.08,
+  "avancement": {
+    "lignes_traitees": 204,
+    "fin_traitee_s": 1094.08,
+    "nb_lignes_total": 204,
+    "complet": true
+  },
+  "nb_segments": 29,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.16,
+      "fin": 38.0,
+      "temps_estime": false,
+      "titre": "Hook: OpenAI as a financial hostage situation",
+      "resume": "Claims ChatGPT is hype and a financial hostage situation: OpenAI burns billions daily, and if it fails the rest of Big Tech goes down with it. Sam Altman has cornered Big Tech, and a stealth corporate restructuring will land in ordinary people's pockets.",
+      "mots_cles": [
+        "OpenAI",
+        "ChatGPT",
+        "cash burn",
+        "Sam Altman",
+        "Big Tech",
+        "financial hostage",
+        "corporate restructuring"
+      ],
+      "texte": "ChatGPT is nothing but hype. It might be portrayed as the greatest technology breakthrough, but it’s really, it’s a financial hostage situation. Every single day, OpenAI is burning through cash. Billions of dollars are going up in smoke trying to keep the AI dream alive. And the industry knows it. If OpenAI fails, the rest go down with it. Sam Altman has literally forced Big Tech into a corner. But OpenAI isn’t limiting their spending. They’re doubling down. A stealth corporate restructuring is going to land firmly in your pocket. And there’s nothing you can do to stop it. The crisis isn’t coming. It’s already here."
+    },
+    {
+      "id": 2,
+      "debut": 38.0,
+      "fin": 69.28,
+      "temps_estime": false,
+      "titre": "ChatGPT is hugely popular yet loses money",
+      "resume": "More than 900 million people use ChatGPT weekly, paying around $20 a month for the latest model, making it one of the most successful consumer products ever. Yet audited figures from June 2026 showed OpenAI growing and losing money at record, unprecedented paces.",
+      "mots_cles": [
+        "ChatGPT users",
+        "900 million weekly",
+        "$20 per month",
+        "audited figures",
+        "June 2026",
+        "OpenAI losses",
+        "consumer product"
+      ],
+      "texte": "Every week, more than 900 million people type something into ChatGPT. They ask it to fix code, plan meals, and even settle arguments about history. By almost any measure, it’s one of the most successful consumer products ever built, costing users around $20 each month for the latest model. And yet, the company behind it operates at a massive loss. In June 2026, audited figures showed OpenAI was growing at a pace almost nobody has ever seen… while losing money at a pace nobody has ever seen."
+    },
+    {
+      "id": 3,
+      "debut": 69.28,
+      "fin": 110.56,
+      "temps_estime": false,
+      "titre": "OpenAI's 2025 financials: revenue vs. $20.9 billion operating loss",
+      "resume": "In 2025 OpenAI's revenue tripled from $3.7 billion to $13.07 billion, but costs reached $34 billion, an operating loss of $20.92 billion, about $2.60 spent per dollar earned. The net loss hit $38.53 billion, partly accounting paperwork.",
+      "mots_cles": [
+        "OpenAI revenue",
+        "$13.07 billion",
+        "operating loss",
+        "$34 billion costs",
+        "net loss $38.53 billion",
+        "2025",
+        "unit economics"
+      ],
+      "texte": "In 2025, revenue jumped from $3.7 billion to $13.07 billion. Tripling sales in a single year would be the highlight of a decade for most. But that’s not the case with OpenAI. Total costs and expenses that same year reached $34 billion, leaving an operating loss of $20.92 billion. PFor every dollar ChatGPT and its sister products brought in, OpenAI spent roughly $2.60 to earn it. The bottom-line number looks even worse. OpenAI’s net hit $38.53 billion. Some of that is just accounting paperwork and no real cash left the building, but the real world damage is terrifying."
+    },
+    {
+      "id": 4,
+      "debut": 110.56,
+      "fin": 134.08,
+      "temps_estime": false,
+      "titre": "Why the Amazon playbook comparison fails",
+      "resume": "Defenders say OpenAI is copying Amazon by losing money now to dominate later. Amazon's worst yearly net loss was $1.4 billion, while OpenAI's operating loss was about 15 times that, and one analyst said no startup has ever lost so much.",
+      "mots_cles": [
+        "Amazon playbook",
+        "Amazon net loss",
+        "$1.4 billion",
+        "15 times",
+        "startup losses",
+        "scale of losses",
+        "defenders"
+      ],
+      "texte": "They ran a $21 billion operating deficit. Defenders like to say OpenAI is following the Amazon playbook: lose money now to dominate the market later. But look at the scale. Amazon’s worst single-year net loss was $1.4 billion. OpenAI’s operating loss alone was about 15 times that. One analyst commented that no startup in history has ever operated with"
+    },
+    {
+      "id": 5,
+      "debut": 134.08,
+      "fin": 159.04,
+      "temps_estime": false,
+      "titre": "Deutsche Bank: $143 billion in losses by 2029",
+      "resume": "A Deutsche Bank analysis expects OpenAI to lose $143 billion by 2029. OpenAI holds about $50 billion in assets, nearly half in cash, which won't last at this burn rate, and someone has to pay for such losses.",
+      "mots_cles": [
+        "Deutsche Bank",
+        "$143 billion",
+        "2029",
+        "cash burn",
+        "$50 billion assets",
+        "projected losses",
+        "OpenAI cash"
+      ],
+      "texte": "losses anywhere close to this size. And that financial hole isn’t closing anytime soon. A Deutsche Bank analysis said OpenAI is expected to hemorrhage $143 billion by2029. Right now, they’re sitting on $50 billion in assets, nearly half of it in cash. But at this burn rate, that won’t last long. And losses like that don’t just disappear. Someone has to pay for them."
+    },
+    {
+      "id": 6,
+      "debut": 159.04,
+      "fin": 208.8,
+      "temps_estime": false,
+      "titre": "From non-profit mission to for-profit: founding and the 2023 firing of Altman",
+      "resume": "OpenAI became for-profit in October 2025 after being founded in 2015 with Elon Musk and Sam Altman as co-chairs to benefit all humanity. The mission gave way to money in 2019, and in November 2023 the board fired Altman, but employees threatened mutiny, he was reinstated and the board purged.",
+      "mots_cles": [
+        "OpenAI non-profit",
+        "for-profit conversion",
+        "Elon Musk",
+        "Sam Altman fired",
+        "November 2023",
+        "board purge",
+        "2015 founding",
+        "mission"
+      ],
+      "texte": "In October 2025, OpenAI underwent a corporate mutation. It shed its non-profit identity and became a massive for profit juggernaut. It was a long way from where it all started. OpenAI was founded in 2015, with Elon Musk and Sam Altman as co-chairs. Its mission was to make sure advanced AI benefited all of humanity, not a handful of shareholders. But building cutting-edge AI turned out to be insanely expensive, and a charity can’t sell stock to raise tens of billions of dollars. So in 2019, the mission gave way to money. And the blowblack almost exploded in November 2023, when OpenAI’s board abruptly fired Sam Altman as CEO. Within days, hundreds of employees threatened to mutiny and follow him to Microsoft. Altman was reinstated, the board was purged and the financial brakes were cut immediately."
+    },
+    {
+      "id": 7,
+      "debut": 208.8,
+      "fin": 248.4,
+      "temps_estime": false,
+      "titre": "Insiders cash out: $6.6 billion employee share sale",
+      "resume": "In October 2025 OpenAI employees sold about $6.6 billion of stock at a $500 billion valuation, up from $300 billion in the earlier SoftBank-led round. Around 600 employees got $11 million each, a legal sale whose timing at the peak leaves later buyers holding the bag.",
+      "mots_cles": [
+        "employee share sale",
+        "$6.6 billion",
+        "$500 billion valuation",
+        "SoftBank",
+        "insiders cash out",
+        "$11 million each",
+        "holding the bag"
+      ],
+      "texte": "Two years later, before the public ever got a chance to buy in, the people closest to the company orchestrated a historic payday. In October 2025, with the company losing more money, OpenAI employees sold about $6.6 billion of stock to private investors. The deal was valued at $500 billion, making it the world’s most valuable startup at the time. Just months earlier, during a SoftBank-led round, it had been valued at $300 billion. Around 600 employees walked away with $11 million each. While it’s totally legal, the timeline is suspect. The insiders cashed out at the peak. Anyone buying in next is left holding the bag."
+    },
+    {
+      "id": 8,
+      "debut": 248.4,
+      "fin": 279.28,
+      "temps_estime": false,
+      "titre": "Why investors pay 25 times revenue for OpenAI",
+      "resume": "At $500 billion OpenAI was valued at about 25 times projected annual revenue, versus 5 to 15 times for established software companies. Investors paid for what OpenAI might become: the first to build the most powerful AI and own the market.",
+      "mots_cles": [
+        "valuation multiple",
+        "25 times revenue",
+        "software companies",
+        "investor expectations",
+        "most powerful AI",
+        "$500 billion",
+        "market dominance"
+      ],
+      "texte": "Which raises an obvious question. Why would investors keep paying more for a company that keeps losing more? At $500 billion, OpenAI was valued at roughly 25 times its projected annual revenue. Most established software companies trade at somewhere between 5 and 15 times. The answer is that investors weren’t paying for what OpenAI earned. They were paying for what they believed it would become: the company that builds the most powerful AI first, and then owns the market. In AI, that comes with a price tag."
+    },
+    {
+      "id": 9,
+      "debut": 279.28,
+      "fin": 308.24,
+      "temps_estime": false,
+      "titre": "Valuation as fuel for computing power",
+      "resume": "Better models require more computing power, so each valuation jump funds the next multi-billion dollar round. The SoftBank-led $300 billion valuation came with a demand to pour another $40 billion into infrastructure, so valuation and spending are one story.",
+      "mots_cles": [
+        "compute",
+        "valuation",
+        "SoftBank",
+        "$40 billion",
+        "infrastructure spending",
+        "funding rounds",
+        "AI scaling"
+      ],
+      "texte": "To build a better model, you need to throw more computing power at it. That means every jump in valuation isn’t just for show. It’s the fuel OpenAI needs to raise its next multi-billion dollar round of cash. When SoftBank-led valued OpenAI at $300 billion, it wasn’t just paper wealth. It came with a demand to pour another $40 billion straight into infrastructure. In other words, the valuation and the spending aren't two separate stories. And the numbers are spiraling out of control."
+    },
+    {
+      "id": 10,
+      "debut": 308.24,
+      "fin": 329.28,
+      "temps_estime": false,
+      "titre": "2025 spending: R&D, marketing and the Microsoft payments",
+      "resume": "In 2025 OpenAI spent $19.18 billion on R&D, sales and marketing jumped more than fivefold to $5.73 billion, and it paid Microsoft $17.2 billion while Microsoft paid it $303 million.",
+      "mots_cles": [
+        "R&D spending",
+        "$19.18 billion",
+        "sales and marketing",
+        "Microsoft",
+        "$17.2 billion",
+        "OpenAI expenses",
+        "2025"
+      ],
+      "texte": "In 2025, OpenAI’s research and development spending reached $19.18 billion. Sales and marketing jumped more than fivefold, to $5.73 billion. And OpenAI handed Microsoft $17.2 billion for research, infrastructure, and other costs. Microsoft paid OpenAI $303 million in return."
+    },
+    {
+      "id": 11,
+      "debut": 329.28,
+      "fin": 349.92,
+      "temps_estime": false,
+      "titre": "The fatal flaw: every ChatGPT answer has real costs",
+      "resume": "Unlike traditional software, where serving one more customer costs almost nothing, every ChatGPT answer runs on expensive chips in power-hungry data centers. More users mean more servers, electricity, cooling and chips, which feeds back into costs.",
+      "mots_cles": [
+        "marginal cost",
+        "inference cost",
+        "data centers",
+        "chips",
+        "electricity",
+        "cooling",
+        "traditional software",
+        "scaling costs"
+      ],
+      "texte": "And here’s the fatal flaw of AI. With traditional software, serving one more customer costs practically nothing. But every single ChatGPT answer runs on expensive chips inside power-hungry data centers. More users means more revenue, but it also means more servers, more electricity, more cooling, and more chips, which feeds back into costs."
+    },
+    {
+      "id": 12,
+      "debut": 349.92,
+      "fin": 401.84,
+      "temps_estime": false,
+      "titre": "10 gigawatts and $1.4 trillion in computing commitments",
+      "resume": "In September 2025 OpenAI committed to at least 10 gigawatts of Nvidia-based data centers, roughly ten large nuclear reactors, with one gigawatt costing up to $60 billion per Jensen Huang. It has about $1.4 trillion in commitments, $70 promised per dollar of revenue, and expects about $856 billion of spending by 2030.",
+      "mots_cles": [
+        "10 gigawatts",
+        "Nvidia",
+        "Jensen Huang",
+        "$1.4 trillion commitments",
+        "$856 billion by 2030",
+        "data centers",
+        "nuclear reactors",
+        "long-term promises"
+      ],
+      "texte": "To feed this demand, OpenAI went nuclear. Literally. In September 2025, OpenAI committed to building at least 10 gigawatts of AI data centers running on Nvidia systems. That’s roughly the output of 10 large nuclear reactors. And according to NVIDIA CEO Jensen Huang, building just one gigawatt of AI data center capacity costs up to $60 billion. By late 2025, OpenAI had racked up around $1.4 trillion in data center and computing commitments. They made $70 in long-term promises for every dollar in revenue they brought in. Internal projections show the company expects to spend around $856 billion on computing power and infrastructure by the end of 2030 alone. That’s larger than the annual GDP of almost every country on Earth. No company can pay for that out of its own pocket."
+    },
+    {
+      "id": 13,
+      "debut": 401.84,
+      "fin": 423.44,
+      "temps_estime": false,
+      "titre": "The hardware store analogy for AI funding",
+      "resume": "Compares the AI boom to a hardware store owner lending a contractor money on condition that it is spent in his store, so he reports record sales. This is described as what is happening at the center of the AI boom.",
+      "mots_cles": [
+        "hardware store analogy",
+        "vendor financing",
+        "contractor",
+        "record sales",
+        "AI boom",
+        "lending condition"
+      ],
+      "texte": "This is where the story gets strange. Imagine you run a hardware store. A contractor walks in wanting to build a mansion, but he can’t afford the materials. So you lend him the money, on one condition: every dollar has to be spent in your store. He buys your lumber with your cash, and at the end of the quarter, you report record sales. That’s what’s happening at the center of the AI boom."
+    },
+    {
+      "id": 14,
+      "debut": 423.44,
+      "fin": 478.8,
+      "temps_estime": false,
+      "titre": "The circular deal: Nvidia, OpenAI and Oracle",
+      "resume": "Nvidia planned to invest up to $100 billion in OpenAI, which agreed to spend $300 billion on Oracle's cloud, sending Oracle's stock up 36% in a day. Oracle must buy Nvidia chips, so money circles back to Nvidia and shows as growth at all three companies.",
+      "mots_cles": [
+        "circular financing",
+        "Nvidia $100 billion",
+        "Oracle $300 billion",
+        "Oracle stock 36%",
+        "chip revenue",
+        "order backlog",
+        "round-tripping"
+      ],
+      "texte": "In September 2025, NVIDIA announced plans to invest up to $100 billion in OpenAI, released in stages as OpenAI switched on new Nvidia-powered data centers. The first $10 billion would arrive when the first gigawatt came online. Around the same time, OpenAI agreed to spend $300 billion on Oracle’s cloud services. Oracle’s stock soared 36% in a single day, adding $251 billion in market value. But Oracle can’t run that cloud without NVIDIA chips, so it has to buy them from Nvidia. So NVIDIA invests in OpenAI. OpenAI pays Oracle. Oracle buys from NVIDIA. After going around in that circle, the money ends up right back in NVIDIA’s pocket. And along the way, the same cash shows up as growth at all 3 companies at once: chip revenue at NVIDIA, a booming order backlog at Oracle, and infrastructure backing OpenAI’s growth forecasts."
+    },
+    {
+      "id": 15,
+      "debut": 478.8,
+      "fin": 494.72,
+      "temps_estime": false,
+      "titre": "Over $800 billion in circular AI arrangements",
+      "resume": "By 2026 analysts identified more than $800 billion in circular arrangements across the AI supply chain, and Anthropic uses a similar structure with Google and Amazon to create funding seemingly out of nowhere.",
+      "mots_cles": [
+        "circular arrangements",
+        "$800 billion",
+        "AI supply chain",
+        "Anthropic",
+        "Google",
+        "Amazon",
+        "analysts"
+      ],
+      "texte": "And OpenAI isn’t the only AI company abusing the loop. By 2026, analysts had identified more than $800 billion in these kinds of circular arrangements across the AI supply chain. Even OpenAI’s biggest competitor, Anthropic is using a similar structure"
+    },
+    {
+      "id": 16,
+      "debut": 494.72,
+      "fin": 556.0,
+      "temps_estime": false,
+      "titre": "Nvidia guarantees $250 billion for OpenAI's Ohio campus",
+      "resume": "In July 2026 the Wall Street Journal reported Nvidia was in talks to guarantee about $250 billion of financing for a 10-gigawatt Ohio campus, because OpenAI lacks an investment-grade credit rating. An SEC filing disclosed guarantees of up to $105 billion for land, power and buildings, with chips potentially adding $350 billion.",
+      "mots_cles": [
+        "Nvidia guarantee",
+        "Ohio data center",
+        "$250 billion financing",
+        "credit rating",
+        "SEC filing",
+        "$105 billion",
+        "$350 billion chips",
+        "Wall Street Journal"
+      ],
+      "texte": "with Google and Amazon to create funding seemingly out of nowhere. Then in July 2026, the Wall Street Journal reported that NVIDIA was in talks to guarantee roughly $250 billion in financing for a 10-gigawatt campus being developed in southern Ohio. But why would the world’s most valuable chipmaker need to vouch for one of its largest AI customers? Because OpenAI doesn’t have an investment-grade credit rating. Lenders price loans on a borrower’s ability to pay. A company losing more than $20 billion a year doesn’t look great on paper. To bypass this, Nvidia stepped in as the ultimate financial safety net. An SEC filing disclosed that Nvidia is guaranteeing the land, power, and buildings for about 4.25 gigawatts at the Ohio site, which will host NVIDIAup to $105 billion to cover the land, power and buildings for OpenAIs data centers. But that’s just for real estate. The chips going inside could reach another $350 billion. If this sounds familiar, it should."
+    },
+    {
+      "id": 17,
+      "debut": 556.0,
+      "fin": 591.52,
+      "temps_estime": false,
+      "titre": "The dot-com parallel: Lucent, Nortel and Cisco",
+      "resume": "In the late 1990s Lucent, Nortel and Cisco lent billions to internet start-ups to buy gear, and when the bubble burst the loans went bad and the vendors fell too. Nvidia is far stronger, with $193.7 billion data center revenue in 2026, but its fortunes are tied to OpenAI's ability to pay.",
+      "mots_cles": [
+        "dot-com bubble",
+        "Lucent",
+        "Nortel",
+        "Cisco",
+        "vendor financing",
+        "Nvidia data center revenue",
+        "customer risk",
+        "bubble burst"
+      ],
+      "texte": "In the late 1990s, tech giants like Lucent, Nortel and Cisco lent billions to cash strapped internet start ups so they could buy gear. When the dot-com bubble burst, the start ups went under, the loans went bad, and the tech vendors’ went with them. NVIDIA is a far stronger company than Lucent ever was. Its data center business alone brought in $193.7 billion in 2026. But the structure is similar. The supplier’s fortunes and the customer’s ability to pay are now tied together. If OpenAI can’t cover its rent, NVIDIA loses its biggest customer and inherits the bill."
+    },
+    {
+      "id": 18,
+      "debut": 591.52,
+      "fin": 624.0,
+      "temps_estime": false,
+      "titre": "Way 1: your retirement account and Microsoft's OpenAI losses",
+      "resume": "The bill reaches ordinary people in at least four ways, the first being retirement accounts tracking the S&P 500, where AI is a large share. Microsoft's October 2025 filing showed OpenAI investment losses cut net income by $3.1 billion in a quarter, about 11% of earnings.",
+      "mots_cles": [
+        "retirement account",
+        "401(k)",
+        "Roth IRA",
+        "S&P 500",
+        "Microsoft earnings",
+        "$3.1 billion loss",
+        "earnings per share",
+        "four ways"
+      ],
+      "texte": "And that bill doesn’t stop at NVIDIA’s front door. It has at least four ways of reaching you. The first might be your retirement account, since most traditional 401(k)s and Roth IRAs bet on the same thing: the S&P 500. And AI has become a large part of that. In its October 2025 quarterly filing, Microsoft revealed that losses from its OpenAI investment slashed its net income by $3.1 billion in a single quarter. That knocked 41 cents off its earnings per share. Without OpenAI, they would have been about 11% higher."
+    },
+    {
+      "id": 19,
+      "debut": 624.0,
+      "fin": 679.2,
+      "temps_estime": false,
+      "titre": "Paper AI gains inflate the S&P 500 and concentrate risk",
+      "resume": "When private AI companies raise at higher valuations, investors book paper gains: early 2026 S&P 500 earnings grew about 48%, but about 29% without Big Tech's AI paper gains. The top 10 S&P 500 companies are tied to AI, so an OpenAI stumble could hurt investors who never chose AI.",
+      "mots_cles": [
+        "S&P 500 earnings",
+        "paper gains",
+        "48% growth",
+        "29% underlying growth",
+        "market concentration",
+        "Nvidia Apple Microsoft",
+        "top-heavy index",
+        "OpenAI valuation"
+      ],
+      "texte": "And it works in both directions. When private AI companies raise cash at higher valuations, their investors book paper gains straight into their profits. In early 2026, S&P 500 earnings grew by around 48%. But strip out the paper AI gains from Big Tech, and the true market growth drops to closer to 29%. This all matters because of how top-heavy the stock market has become. By late 2025, the top 10 companies in the S&P 500 are involved in AI or software in some way. Several of the S&P 500’s largest companies are heavily exposed to AI. NVIDIA, Apple, Microsoft, Amazon, Alphabet, Broadcom Meta and Tesla are all locked in. So when OpenAI’s valuation goes up, a big part of the index gets a lift. But if OpenAI stumbles, the shockwave wipes out the savings of millions of ordinary investors who never even went in on AI."
+    },
+    {
+      "id": 20,
+      "debut": 679.2,
+      "fin": 711.44,
+      "temps_estime": false,
+      "titre": "Way 2: electricity bills and data center power demand",
+      "resume": "AI data centers use enormous electricity on a grid not built for them. PJM, serving about 65 million customers in 13 states and D.C., projects summer demand about 30 gigawatts higher by 2030, like adding several large cities in five years.",
+      "mots_cles": [
+        "electricity bill",
+        "PJM",
+        "data center power demand",
+        "30 gigawatts",
+        "2030",
+        "power grid",
+        "65 million customers"
+      ],
+      "texte": "The second way is one you’ll see in your mailbox every month. Your electricity bill. AI data centers use staggering amounts of electricity, but the grid was never built for them. PJM, the operator that runs the largest wholesale power market in North America, serves around 65 million customers across 13 states and Washington, D.C. And demand keeps climbing. By 2030, PJM projects summer demand will be about 30 gigawatts higher than in 2025, much of it from data centers. That’s like adding several large cities’ worth of"
+    },
+    {
+      "id": 21,
+      "debut": 711.44,
+      "fin": 763.52,
+      "temps_estime": false,
+      "titre": "PJM capacity auction price jump and who pays",
+      "resume": "PJM's capacity auction price rose from $28.92 per megawatt-day for 2024-25 to $329.17 for 2026-27, with data centers responsible for 63% of the increase per its market monitor. The NRDC estimates consumers could pay an extra $163 billion through 2033, and OpenAI's flagship Ohio site is in PJM territory.",
+      "mots_cles": [
+        "PJM capacity auction",
+        "$329.17",
+        "$28.92",
+        "63% data centers",
+        "NRDC",
+        "$163 billion",
+        "market monitor",
+        "Ohio"
+      ],
+      "texte": "power demand to the grid in just 5 years. Every year, PJM holds an auction to make sure there will be enough power capacity in the future. For the 2024-25 period, the price was $28.92 per megawatt-day. For 2026-27, it cleared at $329.17, a more than tenfold jump. PJM’s own independent market monitor found that data centers were responsible for 63% of the price increase. The Natural Resources Defense Council estimates that PJM consumers could pay an extra $163 billion through 2033 to cover the difference. OpenAI isn’t the sole culprit. Every major tech company is racing to build data centers. But OpenAI is building at a scale almost nobody else can match, and its flagship center in Ohio sits squarely inside PJM territory."
+    },
+    {
+      "id": 22,
+      "debut": 763.52,
+      "fin": 785.57,
+      "temps_estime": true,
+      "titre": "Backlash: New York's data center moratorium",
+      "resume": "In July 2026 New York placed a one-year moratorium on new data center construction, the first statewide ban of its kind, and other states try to claw back tax breaks. Families paying more for electricity get no share of the data center, only the bill.",
+      "mots_cles": [
+        "New York moratorium",
+        "data center ban",
+        "July 2026",
+        "tax breaks",
+        "backlash",
+        "electricity costs",
+        "ratepayers"
+      ],
+      "texte": "The backlash has already started. In July 2026, New York placed a one-year moratorium on new data center construction, the first statewide ban of its kind. Other states are trying to claw back the tax breaks they handed out to attract these projects. And when a family pays more for electricity to keep an AI campus running, they don’t get a share of the data center. They just get the bill."
+    },
+    {
+      "id": 23,
+      "debut": 785.57,
+      "fin": 835.76,
+      "temps_estime": true,
+      "titre": "Way 3: taxes and the government backstop remark by Sarah Friar",
+      "resume": "The third way is taxes: on November 5, 2025 OpenAI CFO Sarah Friar suggested a government guarantee could make chip financing cheaper and agreed it would be a taxpayer backstop. After uproar she backpedaled on LinkedIn, David Sacks ruled out a federal bailout, and Altman said taxpayers should not bail out bad business decisions.",
+      "mots_cles": [
+        "Sarah Friar",
+        "government backstop",
+        "taxpayer bailout",
+        "November 2025",
+        "David Sacks",
+        "Sam Altman",
+        "LinkedIn",
+        "too big to fail"
+      ],
+      "texte": "The third way is the one OpenAI has tried hardest to deny: taxes. On November 5th, 2025, OpenAI CFO Sarah Friar dropped a massive bombshell at a Wall Street Journal event. She suggested a government guarantee could make financing their AI chips much cheaper and let the company borrow more. When the interviewer asked whether she meant a taxpayer backstop, she agreed. The public uproar was instant. That same night, Friar backpeddled on LinkedIn, saying “OpenAI is not seeking a government backstop.” The next day, White House AI czar David Sacks said there would be no federal bailout for AI, while Sam Altman insisted that taxpayers should not bail out “companies that make bad business decisions.” Sacks added that the U.S. had at least 5 major frontier AI companies, so no single AI lab was too big to fail. But Altman’s statement had a caveat."
+    },
+    {
+      "id": 24,
+      "debut": 835.76,
+      "fin": 878.24,
+      "temps_estime": false,
+      "titre": "OpenAI's lobbying for loan guarantees and Warren's warning",
+      "resume": "OpenAI had lobbied the White House to extend chip tax credits to data centers and suggested grants, loans or loan guarantees. Senator Elizabeth Warren warned of a pattern of debt, risky bets and bailouts, and in January 2026 wrote to Altman about debt-laden partners like CoreWeave while OpenAI carries little debt itself.",
+      "mots_cles": [
+        "chip tax credits",
+        "loan guarantees",
+        "Elizabeth Warren",
+        "CoreWeave",
+        "debt",
+        "lobbying",
+        "White House",
+        "January 2026"
+      ],
+      "texte": "Shortly before those comments,OpenAI had lobbied the White House to extend chip-manufacturing tax credits to AI data centers. They suggested the government “should deploy grants, cost-sharing agreements, loans, or loan guarantees.” Senator Elizabeth Warren sounded the alarm, warning of a pattern America has seen before: companies take on huge debt, make risky bets, and then demand a taxpayer bailout when those bets go south. In January 2026, she wrote to Altman directly, flagging partners like CoreWeave that are loaded with debt to fulfill their OpenAI contracts, meanwhile OpenAI itself carries comparatively little debt on its own books. In other words, the borrowing is everyone else’s problem."
+    },
+    {
+      "id": 25,
+      "debut": 878.24,
+      "fin": 923.6,
+      "temps_estime": false,
+      "titre": "Altman's proposal of a 5% government stake as a Trojan Horse",
+      "resume": "In July 2026 Altman proposed giving the US government a 5% stake worth about $42.6 billion, letting Americans share in the upside, with Google, Meta and Anthropic asked to do the same; Bernie Sanders has pushed for 50%. The narrator calls it a Trojan Horse that turns a collapse into a public loss, pre-selling the downside.",
+      "mots_cles": [
+        "government stake",
+        "5% of OpenAI",
+        "$42.6 billion",
+        "Bernie Sanders",
+        "Trojan Horse",
+        "public asset",
+        "downside",
+        "July 2026"
+      ],
+      "texte": "Then, in July 2026, Altman launched his ultimate play. He proposed giving the U.S. government a 5% stake in the company, worth about $42.6 billion. Altman’s pitch was that it would let ordinary Americans share in AI’s upside. Other leading AI developers, including Google, Meta and Anthropic, would be asked to do the same. It’s not a fringe idea, either. Even Senator Bernie Sanders has pushed for the public to take a 50% stake in AI companies. On paper, a public stake sounds generous. But in practice, it’s a Trojan Horse. Once the government owns 5% of OpenAI, a collapse is no longer just a private loss. It’s a loss on a public asset held in the name of every American. OpenAI isn’t sharing the upside, it’s pre-selling the downside."
+    },
+    {
+      "id": 26,
+      "debut": 923.6,
+      "fin": 992.24,
+      "temps_estime": false,
+      "titre": "Way 4: IPO, index fast-entry rules and your retirement fund",
+      "resume": "OpenAI confidentially submitted a draft S-1 on June 8, 2026, with a 2027 listing likely. Nasdaq's 2026 fast-entry rule lets large new listings join the Nasdaq-100 within 15 trading days, so index funds tracking over $30 trillion become automatic buyers, giving insiders someone to sell to and exposing retirement funds.",
+      "mots_cles": [
+        "OpenAI IPO",
+        "S-1 filing",
+        "Nasdaq-100 fast entry",
+        "15 trading days",
+        "index funds",
+        "$30 trillion",
+        "retirement funds",
+        "S&P 500"
+      ],
+      "texte": "Then there’s the fourth way: the collapse of your retirement fund. On June 8th, 2026, OpenAI took its first steps to going public by confidentially submitting a draft S-1 to the SEC. While Sam Atlman confirmed they wouldn’t go public in 2026, a 2027 listing is looking likely. And when it does arrive, the rules of the market have been rewritten to snare your money. In 2026, Nasdaq introduced a “fast entry” rule. Any newly listed companies big enough to rank among the top 40 members of the Nasdaq-100 can be forced into the index within 15 trading days of their IPO. They don’t have to wait the standard 3 months. The S&P500 and FTSE Russell are making similar moves. This is important because more than $30 trillion in global wealth tracks these indexes. The moment OpenAI goes public and uses the fast lane, index funds and private pension accounts will become automatic buyers of OpenAI stock. Whether you want to or not. The early investors and insiders who got in at lower prices finally have someone to sell to. And if OpenAI does collapse, so will the retirement funds."
+    },
+    {
+      "id": 27,
+      "debut": 992.24,
+      "fin": 1024.34,
+      "temps_estime": true,
+      "titre": "OpenAI is not necessarily doomed",
+      "resume": "Back in 2019 Altman joked OpenAI would ask its AI how to make returns, and now it earns billions and serves nearly a billion people weekly. If OpenAI hits $350 billion in annual revenue by 2030, today's losses will look like one of the boldest investments in history.",
+      "mots_cles": [
+        "OpenAI not doomed",
+        "Sam Altman 2019",
+        "$350 billion revenue 2030",
+        "bold investment",
+        "billion weekly users",
+        "optimistic case"
+      ],
+      "texte": "None of this means OpenAI is doomed. Back in 2019, before ChatGPT existed, Sam Altman joked that OpenAI had no plans to make revenue. Once it built a truly intelligent system, it would simply ask the AI how to generate returns for investors. 7 years later, the company brings in billions of dollars and serves close to a billion people a week. If OpenAI really does hit $350 billion in annual revenue by 2030, today’s losses will look like one of the boldest investments in business history. Everyone holding a piece of it will be glad they did."
+    },
+    {
+      "id": 28,
+      "debut": 1024.34,
+      "fin": 1081.52,
+      "temps_estime": true,
+      "titre": "Who bears the risk: chipmakers, cloud giants, utilities and households",
+      "resume": "The size of the bet has changed who is making it: chipmakers guaranteeing leases, cloud giants booking paper profits, utilities passing costs to households, a government offered a stake and index funds waiting on Day 15. Everyone has a reason to believe except the people at the end of the line with a 401(k), an electric bill and a tax return, and the real question is who pays if the future arrives late.",
+      "mots_cles": [
+        "who pays",
+        "Nvidia",
+        "Oracle",
+        "Microsoft",
+        "401(k)",
+        "electric bill",
+        "taxpayers",
+        "AI bubble risk",
+        "conclusion"
+      ],
+      "texte": "But the size of the bet has changed who’s making it. This is no longer a handful of venture capitalists rolling the dice on a startup. It’s chipmakers guaranteeing leases, cloud giants booking paper profits, utilities passing costs to households, a government being offered a stake, and index funds waiting to buy in on Day 15. Every one of those players has a reason to believe. NVIDIA sells more chips. Oracle and Microsoft fill their data centers. Insiders have already cashed out once. Governments get a seat at the table of the most important technology of the century. The only group that never really got asked is the one at the end of the line. OpenAI burns the cash. Big Tech funds the lifeline. And if the numbers don’t come through, the people left holding the bill won’t be the ones who wrote the business plan. They’ll be the ones with a 401(k), an electric bill, and a tax return. So the real question isn’t whether OpenAI can build the future. It’s who pays for it if the future arrives late."
+    },
+    {
+      "id": 29,
+      "debut": 1081.52,
+      "fin": 1094.08,
+      "temps_estime": true,
+      "titre": "Outro and pointer to the video on why OpenAI is unprofitable",
+      "resume": "As the AI arms race accelerates, powerful models are putting hard limits on how much people can use them. Viewers are invited to watch \"Why is OpenAI so Unprofitable\" to find out why the industry is hitting a wall.",
+      "mots_cles": [
+        "usage limits",
+        "AI arms race",
+        "Why is OpenAI so Unprofitable",
+        "recommended video",
+        "industry wall",
+        "call to action"
+      ],
+      "texte": "As the AI arms race accelerates, the world's most powerful models are suddenly putting hard limits on how much you can use them. Watch “Why is OpenAI so Unprofitable” to find out why the industry is hitting a wall. Or click on this."
+    }
+  ]
+}
