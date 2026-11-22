@@ -1,0 +1,665 @@
+{
+  "version": 1,
+  "video_id": "JhuL2Yr-tvs",
+  "titre_video": "UNPLUG Your Smart TV NOW!",
+  "duree_s": 947.44,
+  "avancement": {
+    "lignes_traitees": 214,
+    "fin_traitee_s": 947.44,
+    "nb_lignes_total": 214,
+    "complet": true
+  },
+  "nb_segments": 34,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.24,
+      "fin": 36.0,
+      "temps_estime": false,
+      "titre": "Your TV is spying on you",
+      "resume": "Hook: the 65-inch smart TV in the living room tracks everything watched, every show, movie and game, and harvests the data all day. The terms were buried in 80 pages of fine print. Texas has launched a legal war, alleging manufacturers take screenshots every 500 milliseconds and sell the data.",
+      "mots_cles": [
+        "smart TV",
+        "spying",
+        "data harvesting",
+        "fine print",
+        "Texas lawsuit",
+        "screenshots",
+        "500 milliseconds",
+        "privacy"
+      ],
+      "texte": "Somewhere in your living room there’s a 65-inch rectangle that’s spying on you. Every single second, your television is tracking everything you watch. Every show, every movie, every game you play. What was supposed to be entertainment has turned into a digital wiretap, harvesting your data every moment of the day. They told you they were doing this… but they buried it in 80 pages of fine print. Now, state prosecutors have had enough. Texas has launched a massive legal war over this. They allege major manufacturers are taking screenshots of your tv every 500 milliseconds. Big Brother is watching you… and they’re selling off your private data to the highest bidder."
+    },
+    {
+      "id": 2,
+      "debut": 36.0,
+      "fin": 72.48,
+      "temps_estime": false,
+      "titre": "How ACR fingerprints what you watch",
+      "resume": "According to Texas lawsuits, every half second the TV samples a few pixels and a snippet of audio, turns them into a unique digital fingerprint and sends it to a remote server. It is matched against a global database that catalogues show, season, episode and viewing time. This technology is called Automated Content Recognition (ACR).",
+      "mots_cles": [
+        "ACR",
+        "Automated Content Recognition",
+        "fingerprint",
+        "pixels",
+        "audio snippet",
+        "server",
+        "viewing habits",
+        "database"
+      ],
+      "texte": "Anytime you switch on a tv and settle, you might think it’s just you and the screen. It’s not. According to lawsuits filed by the State of Texas, every half second, your television is analyzing whatever’s on the screen. It doesn’t save a full recording. Instead, it takes a tiny sample, a few pixels here and a snippet of audio there. The tv instantly converts them into a unique digital “fingerprint,” and fires it off to a remote server. You’ll never get to see it. But it’s matched against a global database, where all your viewing habits are catalogued. What show, what season, what episode and the night you watched it. It’s called Automated Content Recognition, or ACR."
+    },
+    {
+      "id": 3,
+      "debut": 72.48,
+      "fin": 97.28,
+      "temps_estime": false,
+      "titre": "ACR works on everything on the screen",
+      "resume": "The lawsuits allege ACR was enabled from the moment the TV left its box. It works at the screen level, so it does not depend on the streaming platform: cable boxes, PlayStation or a DVD played over HDMI are all fair game, since anything displayed on the glass can be reported.",
+      "mots_cles": [
+        "ACR",
+        "HDMI",
+        "cable box",
+        "PlayStation",
+        "DVD",
+        "streaming platform",
+        "screen level",
+        "out of the box"
+      ],
+      "texte": "And the lawsuits allege, the software was switched the moment you took your TV out of its box. ACR works at the level of the screen, so it isn’t contingent on what streaming platform you’re paying for. Use a cable box? Fingerprinted. PlayStation? Fingerprinted. That dusty DVD of your wedding plugged in through an HDMI? According to the complaints, that’s fair game, too. Anything that makes it onto the glass is potentially something it reports on."
+    },
+    {
+      "id": 4,
+      "debut": 97.28,
+      "fin": 134.88,
+      "temps_estime": false,
+      "titre": "Texas sues five TV makers; Samsung and LG settle",
+      "resume": "In December 2025 Texas Attorney General Ken Paxton sued Samsung, LG, Sony, Hisense and TCL, calling it a mass surveillance system. Hisense got a temporary restraining order within days, Samsung one in January 2026 and settled a month later, agreeing to stop collecting ACR data without explicit consent. LG followed in May while the other three keep fighting.",
+      "mots_cles": [
+        "Ken Paxton",
+        "Texas",
+        "Samsung",
+        "LG",
+        "Sony",
+        "Hisense",
+        "TCL",
+        "restraining order",
+        "settlement"
+      ],
+      "texte": "That’s precisely what set Texas off. In December 2025, Attorney General Ken Paxton sued 5 of the biggest television makers on Earth in one sweep. Samsung, LG, Sony, Hisense, and TCL were all in his crosshairs. His office called the whole setup “a mass surveillance system” sitting in millions of American living rooms. Within days, a judge had issued a temporary restraining order against Hisense. Samsung got one in January 2026. Just one month later, Samsung had settled and agreed to stop collecting ACR data from Texans without their explicit consent. LG followed in May. The other 3 are still fighting their corner."
+    },
+    {
+      "id": 5,
+      "debut": 134.88,
+      "fin": 155.36,
+      "temps_estime": false,
+      "titre": "$10,000 per violation: the stakes for TV makers",
+      "resume": "Texas consumer protection law allows up to $10,000 per violation, and the same office extracted $1.4 billion from Meta. Multiplied by every smart TV in a state of 31 million people, the potential penalties explain why TV makers' lawyers started panicking.",
+      "mots_cles": [
+        "$10,000 per violation",
+        "consumer protection law",
+        "Meta $1.4 billion",
+        "penalties",
+        "Texas",
+        "31 million",
+        "lawyers"
+      ],
+      "texte": "The penalties in play aren’t pocket change. Texas's consumer protection law allows up to $10,000 per violation. This is the same office that squeezed $1.4 billion out of Meta. Multiply \"per violation\" by every smart TV in a state of 31 million people and you'll see why TV makers' lawyers started panicking."
+    },
+    {
+      "id": 6,
+      "debut": 155.36,
+      "fin": 183.6,
+      "temps_estime": false,
+      "titre": "The LG G5 investigation and 216 million TVs",
+      "resume": "The most damning independent investigation used an LG G5, one of the priciest OLED TVs, showing that paying more does not buy privacy, only sharper surveillance. LG alone has sold an estimated 216 million smart TVs worldwide, more screens than there are people in Brazil.",
+      "mots_cles": [
+        "LG G5",
+        "OLED",
+        "independent investigation",
+        "expensive TV",
+        "216 million",
+        "Brazil",
+        "surveillance",
+        "Samsung"
+      ],
+      "texte": "IThe most damning independent investigation of all didn't use a bargain-bin smart TV set from a WalMart. It used an LG G5, one of the priciest OLEDs the company makes. Paying more doesn't buy you privacy, it turns out. It just buys sharper surveillance. LG alone has sold an estimated 216 million smart TVs worldwide. That's more screens than there are people in Brazil, and that's before you count Samsung, Sony, and the others."
+    },
+    {
+      "id": 7,
+      "debut": 183.6,
+      "fin": 231.04,
+      "temps_estime": false,
+      "titre": "Vizio: the company that got caught in 2014",
+      "resume": "The path to TV espionage starts with a company fined about 20 cents per TV. According to the FTC, from 2014 Vizio TVs sold at stores like Best Buy and Walmart recorded what owners watched second by second under the friendly name Smart Interactivity, described as a tool for program offers and suggestions, without mentioning that viewing history would be sold.",
+      "mots_cles": [
+        "Vizio",
+        "FTC",
+        "Smart Interactivity",
+        "2014",
+        "cheap TVs",
+        "viewing history",
+        "20 cents per TV",
+        "Best Buy",
+        "Walmart"
+      ],
+      "texte": "How did the humble television turn into a source of corporate espionage? The answer lies with a company that got caught, paid a fine of about 20 cents per TV and a slap on the wrist. And that taught the entire industry a multi-billion dollar lesson. Spying is cheap… if you do it right. Walk through a Best Buy or Wal-Mart and you’ll see a wall of suspiciously affordable 55-inch TVs. Most of them are made by a company called Vizio. Starting in 2014, according to the FTC, these TVs were recording what their owners watched second by second. The feature had a friendly, innocuous name. “Smart Interactivity.” The FTC revealed that the TVs described this as nothing more than a tool for “program offers and suggestions.” It didn’t mention the part where you’re viewing history got packaged up and sold to the highest bidder."
+    },
+    {
+      "id": 8,
+      "debut": 231.04,
+      "fin": 255.36,
+      "temps_estime": false,
+      "titre": "Vizio forces tracking onto older TVs",
+      "resume": "Vizio used a software update to push tracking onto sets people already owned. The company boasted of collecting up to 100 billion data points a day from millions of screens, and the FTC said the data was sold to third parties and combined with data broker information.",
+      "mots_cles": [
+        "Vizio",
+        "software update",
+        "older TVs",
+        "100 billion data points",
+        "FTC",
+        "data brokers",
+        "third parties",
+        "tracking"
+      ],
+      "texte": "It wasn’t just new TVs either. Vizio used a software update to force the tracking onto older sets that people already owned. Consumers went to bed with a regular TV and woke up with an informant in their bedroom. Vizio boasted that the system was hoovering up as many as 100 billion data points a day from millions of screens. That data, the FTC said, was sold to third parties and paired with details from data brokers."
+    },
+    {
+      "id": 9,
+      "debut": 255.36,
+      "fin": 274.64,
+      "temps_estime": false,
+      "titre": "Granular viewer profiles from IP addresses",
+      "resume": "By matching IP addresses with external databases, Vizio could identify details such as a married, college-educated homeowner in their 40s in Ohio who watched Jeopardy followed by three hours of Forged in Fire.",
+      "mots_cles": [
+        "IP address",
+        "data matching",
+        "viewer profile",
+        "Jeopardy",
+        "Forged in Fire",
+        "demographics",
+        "Ohio",
+        "Vizio"
+      ],
+      "texte": "The level of detail got pretty granular. It didn’t just know that someone in Ohio was watching Jeopardy. By matching IP addresses with external databases, it could figure out that specific viewer was a married, college-educated homeowner in their 40s watching Jeopardy! followed by 3 hours of Forged in Fire."
+    },
+    {
+      "id": 10,
+      "debut": 274.64,
+      "fin": 306.56,
+      "temps_estime": false,
+      "titre": "The 2017 Vizio settlement: less than a gumball per TV",
+      "resume": "In February 2017 the FTC and New Jersey settled with Vizio for $2.2 million over 11 million TVs, less than a gumball per set, and Vizio paid $17 million in a separate class action. Each affected person was entitled to a $17 to $31 share for three years of being watched.",
+      "mots_cles": [
+        "Vizio settlement",
+        "FTC",
+        "New Jersey",
+        "$2.2 million",
+        "11 million TVs",
+        "class action",
+        "$17 million",
+        "$17 to $31",
+        "2017"
+      ],
+      "texte": "In February 2017, the FTC and the State of New Jersey caught up with them. The case covered 11 million TVs, and Vizio settled for $2.2 million. The settlement worked out at less than a gumball per TV. Vizio also paid $17 million to settle a separate class action. It sounds bigger until you understand how much that data was worth. Each person whose data was taken was entitled to a $17 to $31 share of the settlement. For 3 years of a machine in your house watching you watch it."
+    },
+    {
+      "id": 11,
+      "debut": 306.56,
+      "fin": 331.6,
+      "temps_estime": false,
+      "titre": "Jason Huntley: LG TV phones home even when told not to",
+      "resume": "In 2013 IT consultant Jason Huntley in England monitored his new LG TV's network traffic and found it reported to LG every time he changed channel. He found a setting to disable viewing-data collection and switched it off, but the TV kept sending the data anyway.",
+      "mots_cles": [
+        "Jason Huntley",
+        "LG",
+        "2013",
+        "network traffic",
+        "phoning home",
+        "opt-out ignored",
+        "viewing data",
+        "IT consultant"
+      ],
+      "texte": "Vizio wasn’t even the first to get caught. In 2013, Jason Huntley, an IT consultant from England, started to suspect his new LG television was up to something nefarious. So, he started monitoring its network traffic. He discovered the TV was phoning home to LG every time he changed the channel. He dug into the settings and found an option to turn off the collection of watching info. So, he switched it off. And the TV kept doing it anyway."
+    },
+    {
+      "id": 12,
+      "debut": 331.6,
+      "fin": 360.64,
+      "temps_estime": false,
+      "titre": "The USB stick filenames and LG's reply",
+      "resume": "Huntley plugged in a USB stick and found the TV scanned it and sent the file names to LG servers in unencrypted plain text, including holiday videos and kids' birthday parties. LG customer support reportedly told him he had accepted the terms and conditions at purchase and could take it up with the store.",
+      "mots_cles": [
+        "USB stick",
+        "file names",
+        "plain text",
+        "unencrypted",
+        "LG servers",
+        "customer support",
+        "terms and conditions",
+        "Huntley"
+      ],
+      "texte": "Then things got really weird. Huntley plugged a USB stick into the TV and uncovered a digital horror show. The TV was scanning the drive and sending the names of the files back to LG’s servers in unencrypted plain text. Private holiday videos, kids’ birthday parties and embarrassing filenames, the TV was reading the labels and snitching. When he complained, LG's customer support reportedly told him he'd agreed to the terms and conditions when he bought the TV. If Huntley had a problem, he could take it up with the store."
+    },
+    {
+      "id": 13,
+      "debut": 360.64,
+      "fin": 386.88,
+      "temps_estime": false,
+      "titre": "LG's ad pitch and the industry's lesson from 2017",
+      "resume": "LG's marketing promised advertisers that LG Smart Ad analyses favourite programs, online behavior and search keywords; after the story blew up, LG pulled the promo video and promised a software fix. By 2017 the industry had learned that people hate being spied on, but that the bill for getting caught is tiny.",
+      "mots_cles": [
+        "LG Smart Ad",
+        "advertisers",
+        "promo video",
+        "software fix",
+        "2017 lesson",
+        "small fines",
+        "privacy",
+        "LG"
+      ],
+      "texte": "Meanwhile, LG’s own marketing was promising advertisers that their “LG Smart Ad analyses users' favourite programs, online behavior, search keywords and other information.” After the story blew up, LG pulled the promo video and promised a software fix. So by 2017, the industry had 2 lessons in front of it. First, people hate being spied on. Second, when you get caught, the bill is tiny. Guess which lesson stuck?"
+    },
+    {
+      "id": 14,
+      "debut": 386.88,
+      "fin": 423.84,
+      "temps_estime": false,
+      "titre": "Gamers Nexus and Level1Techs tear down LG OLED TVs",
+      "resume": "By 2026 people accepted that their TV knew what they watched, until Gamers Nexus teamed up with Wendell Wilson of Level1Techs and independent security researchers. They spent over 500 hours and about $70,000 dismantling retail LG OLED TVs, including one of the most expensive models, and monitored their network traffic.",
+      "mots_cles": [
+        "Gamers Nexus",
+        "Level1Techs",
+        "Wendell Wilson",
+        "LG OLED",
+        "500 hours",
+        "$70,000",
+        "network monitoring",
+        "security researchers",
+        "investigation"
+      ],
+      "texte": "By 2026, most people had made their peace with the idea that their TV knew what they watched. Then a YouTube channel decided to find out what else it knew. Gamers Nexus, a hardware channel better known for tearing apart graphics cards, teamed up with Wendell Wilson of Level1Techs and a few independent security researchers. They spent more than 500 hours and roughly $70,000 taking apart retail LG OLED TVs, including one of the most expensive sets LG sells. They hooked the TVs up to network-monitoring software and watched what went in and out, like a stakeout, except the suspect was bolted to their living room wall."
+    },
+    {
+      "id": 15,
+      "debut": 423.84,
+      "fin": 447.36,
+      "temps_estime": false,
+      "titre": "The TV scans your home network for devices",
+      "resume": "The first finding was that the TV sweeps the home network and identifies phones, PCs, printers, network switches and smart-home gadgets. LG confirmed its TVs scan for nearby devices and called it a standard function of all smart TVs, which the video points out is exactly the problem.",
+      "mots_cles": [
+        "device scanning",
+        "home network",
+        "smart home",
+        "phones",
+        "printers",
+        "LG response",
+        "standard function",
+        "network switches"
+      ],
+      "texte": "The first thing they caught was the TV counting devices. The TV was sweeping the home network and identifying everything connected to it: phones, PCs, printers, network switches, smart-home gadgets. LG denied the spying claims but confirmed its TVs scan for nearby devices and called it “a standard function of all smart TVs and other smart home devices.” Which it is. And that's the problem."
+    },
+    {
+      "id": 16,
+      "debut": 447.36,
+      "fin": 462.08,
+      "temps_estime": false,
+      "titre": "ACR keeps running in monitor mode over HDMI",
+      "resume": "The investigation found ACR still fingerprinting the screen while the TV was used as a plain monitor over HDMI. Plugging in a gaming PC or Blu-ray player does not avoid the snooping; it only gives the TV more material.",
+      "mots_cles": [
+        "ACR",
+        "HDMI",
+        "monitor mode",
+        "gaming PC",
+        "Blu-ray player",
+        "fingerprinting",
+        "snooping",
+        "LG"
+      ],
+      "texte": "Next, the investigation found ACR still fingerprinting the screen while the TV was being used as a plain monitor over HDMI. So plugging in a gaming PC or a Blu-ray player doesn’t route around the snooping. It just feeds the prying eyes more material."
+    },
+    {
+      "id": 17,
+      "debut": 462.08,
+      "fin": 476.72,
+      "temps_estime": false,
+      "titre": "The microphone stays live after you stop speaking",
+      "resume": "The team reported that the TV's microphone stayed live for 10 to 15 seconds after someone stopped speaking, long enough to catch the end of a voice command like Hi LG, play Bluey and whatever is said to a spouse afterwards.",
+      "mots_cles": [
+        "microphone",
+        "voice assistant",
+        "10 to 15 seconds",
+        "Hi LG",
+        "Bluey",
+        "eavesdropping",
+        "voice command",
+        "LG"
+      ],
+      "texte": "Then came the microphones. The team reported that the TV's microphone stayed live for 10 to 15 seconds after someone stopped speaking. Long enough to catch the end of “Hi LG, play Bluey” and the beginning of whatever you said to your spouse afterwards."
+    },
+    {
+      "id": 18,
+      "debut": 476.72,
+      "fin": 494.96,
+      "temps_estime": false,
+      "titre": "A compromised TV can record while appearing off",
+      "resume": "Researchers showed that a compromised LG TV could record audio while appearing to be switched off, store it while disconnected from the internet and upload it once the connection returned. This came with an important asterisk, explained next.",
+      "mots_cles": [
+        "compromised TV",
+        "record audio",
+        "appears off",
+        "offline storage",
+        "upload",
+        "microphone",
+        "researchers",
+        "LG"
+      ],
+      "texte": "The most unnerving demonstration came with an asterisk… And it’s an important one. Researchers showed that a compromised LG TV could record audio while it appeared to be switched off. It could store it while disconnected from the internet, and then send it to servers once the connection came back."
+    },
+    {
+      "id": 19,
+      "debut": 494.96,
+      "fin": 511.44,
+      "temps_estime": false,
+      "titre": "Remote-code-execution flaws in LG TVs",
+      "resume": "The researchers had to break into the TV first, but they also found remote-code-execution vulnerabilities that could let a stranger do the break-in over the network. Details are being withheld while LG patches them.",
+      "mots_cles": [
+        "remote code execution",
+        "vulnerabilities",
+        "network attack",
+        "break in",
+        "patch",
+        "withheld details",
+        "LG",
+        "security"
+      ],
+      "texte": "Sure, they had to break into the TV first to uncover all of this. But that’s not exactly comforting when you learn they also found remote-code-execution vulnerabilities, the kind of holes that could let a stranger do that breaking-in over the network. The details are being withheld while LG patches them."
+    },
+    {
+      "id": 20,
+      "debut": 511.44,
+      "fin": 540.48,
+      "temps_estime": false,
+      "titre": "LG denies the claims but boasts of 216 million TVs",
+      "resume": "LG called the claims obviously not true, saying it processes voices only when the mic button is pressed or the wake word is spoken. Yet LG openly advertised its 216 million smart TVs in a sales brochure from its advertising division to secure ad revenue.",
+      "mots_cles": [
+        "LG denial",
+        "wake word",
+        "mic button",
+        "216 million TVs",
+        "sales brochure",
+        "advertising division",
+        "ad revenue",
+        "microphone"
+      ],
+      "texte": "LG’s official verdict on the whole thing was that the claims were obviously not true. The company says it only processes voices when the mic button is pressed or the wake word is uttered. They want consumers to believe that the microphones are completely silent until they’re activated. But LG openly bragged about the size of their surveillance network: 216 million smart TVs. The number wasn’t a secret. It was right there in the sales brochure sent out by the company’s advertising division to secure ad revenue."
+    },
+    {
+      "id": 21,
+      "debut": 540.48,
+      "fin": 567.28,
+      "temps_estime": false,
+      "titre": "Why companies get away with it: you clicked yes",
+      "resume": "Tech companies share the same defense: you consented when you bought the TV. In the roughly 15 minutes between unboxing and the first show, a screen appeared and the viewer pressed a button that meant yes. The video then turns to what people actually agreed to.",
+      "mots_cles": [
+        "consent",
+        "setup screen",
+        "terms of service",
+        "unboxing",
+        "legal defense",
+        "explicit permission",
+        "button",
+        "smart TV"
+      ],
+      "texte": "Companies keep getting away with this. Why? Because you gave them explicit permission. You just don’t remember. Every tech company in this story employs the same defense. That you consented when you bought their TV. Technically, that’s true. Somewhere in the 15 minutes between unboxing your TV and watching your first show, a screen appeared and you pressed a button. That button meant yes. Let’s talk about what you agreed to."
+    },
+    {
+      "id": 22,
+      "debut": 567.28,
+      "fin": 598.0,
+      "temps_estime": false,
+      "titre": "Unreadable privacy policies and euphemistic wording",
+      "resume": "Smart TV privacy policies run to tens of thousands of words across linked documents, sometimes shown about five lines at a time and scrolled with a remote, so nobody reads them and companies bank on that. The January 2026 class action against Samsung alleges the company called screen sampling processing instead of collecting what you watch.",
+      "mots_cles": [
+        "privacy policy",
+        "fine print",
+        "tens of thousands of words",
+        "Samsung class action",
+        "processing",
+        "euphemism",
+        "remote control",
+        "screen sampling"
+      ],
+      "texte": "Start with the paperwork. Smart TV privacy policies run to tens of thousands of words across multiple linked documents. On some sets they're displayed on screen about 5 lines at a time, scrolled with a remote control. So nobody reads it. The companies know this. In fact, they bank on it. Then there’s the language they use to write it. The class action filed against Samsung in January 2026 alleges the company described its screen-sampling as “processing” rather than saying it was collecting what you watch from every source."
+    },
+    {
+      "id": 23,
+      "debut": 598.0,
+      "fin": 640.0,
+      "temps_estime": false,
+      "titre": "Opting out takes dozens of clicks",
+      "resume": "According to The Markup, disabling tracking took 11 to 24 clicks on a Roku, 27 on an LG and 10 to 37 on a Samsung, hidden in submenus with arcane names. Consumer Reports and UCL researcher Dr. Anna Maria Mandalari note that users rarely know what ACR is, while opting in is a single click during setup.",
+      "mots_cles": [
+        "opt out",
+        "The Markup",
+        "Roku",
+        "LG",
+        "Samsung",
+        "Consumer Reports",
+        "Anna Maria Mandalari",
+        "privacy settings",
+        "clicks"
+      ],
+      "texte": "But even switching off the tracking can be difficult. According to The Markup, switching off tracking took 11 to 24 clicks on a Roku, 27 clicks on an LG, and anywhere from 10 to 37 clicks on a Samsung. These settings were tucked inside submenus with arcane names. None of which mean anything to a normal person holding a remote. Consumer Reports asked actual TV owners to go find their privacy settings, and the results were what you'd expect. As UCL Researcher Dr. Anna Maria Mandalari put it, “the average user is unlikely to know what ACR is or that they can opt out” at all. Whereas, the “‘opt in’ is usually a single click during the initial setup… often buried in a wall of legal text.”"
+    },
+    {
+      "id": 24,
+      "debut": 640.0,
+      "fin": 660.96,
+      "temps_estime": false,
+      "titre": "Roku's 2024 terms: give up your right to sue",
+      "resume": "In 2024 Roku pushed new terms requiring users to give up their right to bring a class action. Users who declined found their TVs locked until they consented, and opting out required mailing a physical letter to corporate headquarters within 30 days.",
+      "mots_cles": [
+        "Roku",
+        "2024 terms",
+        "class action waiver",
+        "right to sue",
+        "locked TV",
+        "mail a letter",
+        "30 days",
+        "opt out"
+      ],
+      "texte": "But the boldest move in the whole genre belongs to Roku. In 2024, Roku pushed out new terms requiring users to give up their right to sue as part of a class action. Users who declined found their televisions locked until they consented. People who wanted to opt out of these enforced terms had to physically mail a letter to corporate headquarters within 30 days of receipt."
+    },
+    {
+      "id": 25,
+      "debut": 660.96,
+      "fin": 683.68,
+      "temps_estime": false,
+      "titre": "The television was never the point",
+      "resume": "The video asks why companies go to so much trouble: because the TV was never the point. It contrasts the traditional model, where a company builds a TV, sells it for more than it costs and you own it and watch what you want, with what the industry does now.",
+      "mots_cles": [
+        "business model",
+        "TV hardware",
+        "selling TVs",
+        "commerce",
+        "why spy",
+        "smart TV economics",
+        "margin",
+        "ownership"
+      ],
+      "texte": "Why would a streaming device company, and television manufacturers in general, go through so much trouble? Because the television was never the point. The television business was supposed to be simple. A company builds a television, sells it to you for more than it costs to make, and pockets the difference. You then own the television and watch what you want to watch. That’s the way commerce has worked since forever."
+    },
+    {
+      "id": 26,
+      "debut": 683.68,
+      "fin": 754.08,
+      "temps_estime": false,
+      "titre": "Vizio's real business: ads and data (razor and blades)",
+      "resume": "Vizio's Q4 2023 report showed its hardware division lost $7.3 million while Platform+, its ad and data arm, made $105.4 million in gross profit. Over 2023 TVs lost $8.6 million while the ad platform made $364.9 million, and CEO William Wang described a shift to a CTV platform company. Platform+ revenue was $598 million. The video compares this to the razor and blades model, with the viewer as the refill.",
+      "mots_cles": [
+        "Vizio",
+        "Platform+",
+        "William Wang",
+        "gross profit",
+        "razor and blades",
+        "CTV platform",
+        "ad revenue",
+        "Q4 2023",
+        "hardware loss"
+      ],
+      "texte": "Vizio’s financial report from the fourth quarter of 2023 revealed that the hardware division, the part that builds and sells televisions, lost $7.3 million dollars. The ad and data division, which Vizio calls Platform+, made $105.4 million in gross profit in the same 3 months. Across all of 2023, the television business lost $8.6 million while the ad platform cleared $364.9 million in gross profit. In the shareholder letter, Vizio’s CEO, William Wang, described the company as having “transformed… from a hardware company into a powerful CTV platform company.” He wasn’t wrong. They lost money on virtually every TV they sold, but made a fortune on what those televisions did afterward. Across all of 2023, Platform+ brought in $598 million in revenue, with advertising revenue up 36% in the final quarter alone. This had been the trajectory for years. It’s the razor and blades model. Gillette sells you a cheap handle and profits on the refills. Vizio sells you a cheap TV and profits on you. At least the razor company tells you what the blades cost."
+    },
+    {
+      "id": 27,
+      "debut": 754.08,
+      "fin": 772.16,
+      "temps_estime": false,
+      "titre": "Google pays TV makers per unit for Google TV",
+      "resume": "In 2021 The Intercept reported that Google pays TV manufacturers between $10 and $15 per unit to preinstall Google TV, so the surveillance layer is a revenue stream before the TV leaves the warehouse.",
+      "mots_cles": [
+        "Google TV",
+        "The Intercept",
+        "$10 to $15 per unit",
+        "preinstalled software",
+        "manufacturer revenue",
+        "2021",
+        "surveillance revenue"
+      ],
+      "texte": "The payments start before you even get the tv home. In 2021, the Intercept reported that Google pays TV manufacturers somewhere between $10 and $15 per unit just to have Google TV preinstalled. The surveillance layer is a revenue stream for the manufacturer before the box leaves the warehouse."
+    },
+    {
+      "id": 28,
+      "debut": 772.16,
+      "fin": 796.8,
+      "temps_estime": false,
+      "titre": "LG Ad Solutions and the $18.6 billion smart TV ad market",
+      "resume": "LG's advertising arm, LG Ad Solutions, earned roughly $700 million in 2024 and made the Inc. 5000 list of fastest-growing private companies in 2025. Smart TV ad spend was estimated at $18.6 billion in 2022.",
+      "mots_cles": [
+        "LG Ad Solutions",
+        "$700 million",
+        "Inc. 5000",
+        "advertising business",
+        "$18.6 billion",
+        "smart TV ad spend",
+        "2024",
+        "2022"
+      ],
+      "texte": "LG plays the same game. Its advertising arm, LG Ad Solutions, pulled in roughly $700 million in 2024 and landed on the Inc. 5000 list of America’s fastest-growing private companies in 2025. Again, the TV manufacturer is being celebrated for how fast its advertising business is growing. The whole pot was worth an estimated $18.6 billion in smart TV ad spend in 2022."
+    },
+    {
+      "id": 29,
+      "debut": 796.8,
+      "fin": 820.64,
+      "temps_estime": false,
+      "titre": "Dumb TVs are almost gone",
+      "resume": "Buying a dumb TV is increasingly hard: fewer than half a dozen genuinely dumb models remain on the US market, mostly bottom-shelf panels from obscure brands. Manufacturers know that a TV that cannot spy on you earns money only once.",
+      "mots_cles": [
+        "dumb TV",
+        "non-smart TV",
+        "US market",
+        "cheap panels",
+        "no escape",
+        "TV manufacturers",
+        "avoid smart TV",
+        "revenue"
+      ],
+      "texte": "And as televisions get more advanced, there’s no escape. So why not buy a dumb set? Well, that’s becoming harder and harder. Fewer than a half-dozen genuinely dumb models remain on the U.S. market, and they’re mostly bottom-shelf panels from brands you’d struggle to name. Of course there’s demand, but TV manufacturers know that a TV that can’t watch your back is a TV that only earns money once."
+    },
+    {
+      "id": 30,
+      "debut": 820.64,
+      "fin": 849.92,
+      "temps_estime": false,
+      "titre": "Walmart buys Vizio for its ad platform",
+      "resume": "In 2024 Walmart bought Vizio, a retailer buying a TV maker for the advertising platform attached to millions of living rooms. Each low-priced TV became a virtual in-home billboard for Walmart, as a Redditor joked about unlocking 4K with a Walmart+ plan.",
+      "mots_cles": [
+        "Walmart",
+        "Vizio acquisition",
+        "2024",
+        "advertising platform",
+        "in-home billboard",
+        "Walmart+",
+        "Reddit",
+        "retail"
+      ],
+      "texte": "If you want the purest expression of what a television company is actually worth these days, consider this: in 2024, Walmart actually bought Vizio. A powerhouse retailer bought a TV manufacturer. Why? For the advertising platform that came attached to millions of living rooms. Each of those low-priced tv’s turned into virtual in-home billboards for Wal-Mart. As one jaded Redditor commented after the deal, “Now you can “unlock your Vizio 4k resolution with a monthly Walmart+ plan!”"
+    },
+    {
+      "id": 31,
+      "debut": 849.92,
+      "fin": 884.8,
+      "temps_estime": false,
+      "titre": "Texas strikes back with the Deceptive Trade Practices Act",
+      "resume": "For about a decade the industry's gamble worked: collect everything, disclose in an unread document, pay a minuscule fine if caught. Texas then used its Deceptive Trade Practices Act (DTPA), the same statute Paxton used against Meta and Google, which allows up to $10,000 per violation with steeper penalties for violations affecting older consumers.",
+      "mots_cles": [
+        "Texas",
+        "DTPA",
+        "Deceptive Trade Practices Act",
+        "Ken Paxton",
+        "Meta",
+        "Google",
+        "$10,000 per violation",
+        "older consumers",
+        "industry gamble"
+      ],
+      "texte": "For about a decade the television industry’s calculated gamble worked. Collect everything, disclose it in a document nobody reads. If a regulator ever notices, the fine will be miniscule. Then Texas came in like a wrecking ball The legal weapon they used was the Texas Deceptive Trade Practices Act, or DTPA. Attorney General Ken Paxton used the same statute to hit Meta and Google with billion dollar fines, so clearly he was onto something. The DTPA allows penalties of up to $10,000 per violation, with steeper penalties for violations affecting older consumers. The courts moved quickly."
+    },
+    {
+      "id": 32,
+      "debut": 884.8,
+      "fin": 913.92,
+      "temps_estime": false,
+      "titre": "The Samsung and LG settlements in Texas",
+      "resume": "On February 26, 2026 Samsung agreed to stop collecting ACR data without consent and to show clear disclosure and consent screens, nine years after the FTC pursued Vizio for the same behavior. LG agreed to pop-up disclosures, website notices and a simple opt-out, and to not transfer viewing data to the Chinese Communist Party.",
+      "mots_cles": [
+        "Samsung settlement",
+        "LG settlement",
+        "February 26 2026",
+        "ACR consent",
+        "disclosure screens",
+        "opt-out",
+        "Chinese Communist Party",
+        "FTC",
+        "Vizio"
+      ],
+      "texte": "On February 26th, 2026, Samsung agreed to stop collecting ACR data without consumer consent and to put clear, conspicuous disclosure and consent screens on its TVs. 9 years after the FTC nailed Vizio for the same behavior, a major manufacturer agreed to just ask permission first. LG agreed to pop-up disclosures, website notices, and a clear and simple way to opt-out. The settlement also included a provision barring LG from transferring viewing data to the Chinese Communist Party."
+    },
+    {
+      "id": 33,
+      "debut": 913.92,
+      "fin": 935.2,
+      "temps_estime": false,
+      "titre": "Settlements protect only Texans",
+      "resume": "The settlements cover only Texans: viewers in Ohio, Oregon, Boston or Baltimore got no such promise, and their TVs still harvest every sound and pixel. Privacy is not a universal right in the smart TV age, and even in the dark the TV is still watching.",
+      "mots_cles": [
+        "Texas only",
+        "settlement scope",
+        "privacy rights",
+        "Ohio",
+        "Oregon",
+        "smart TV age",
+        "still watching",
+        "harvesting data"
+      ],
+      "texte": "But these are only Texas settlements which protect only Texans. If you’re TV in Ohio or Oregon or Boston or Baltimore, the companies made no such promise to you. They’re still harvesting every sound in your room and every pixel on the screen. This is the reality of the smart television age. Privacy isn’t a universal right. Even in the dark, your television is still watching you."
+    },
+    {
+      "id": 34,
+      "debut": 935.2,
+      "fin": 947.44,
+      "temps_estime": false,
+      "titre": "Outro: other spying in your house",
+      "resume": "The video closes by noting the TV is not the only device spying at home and recommends the video Somebody Is Watching You Right Now about the lack of internet privacy, or another video via the on-screen link.",
+      "mots_cles": [
+        "internet privacy",
+        "Somebody Is Watching You Right Now",
+        "home devices",
+        "outro",
+        "next video",
+        "surveillance"
+      ],
+      "texte": "And if you're thinking the television is the only thing in your house spying on you, we have bad news. Watch “Somebody Is Watching You Right Now” to find out how you have no internet privacy. Or click on this."
+    }
+  ]
+}
