@@ -1,0 +1,645 @@
+{
+  "version": 1,
+  "video_id": "bD8ta7nsA8A",
+  "titre_video": "Meta's AI Layoff Gamble Backfired as Engineering Problems Mounted",
+  "duree_s": 945.92,
+  "avancement": {
+    "lignes_traitees": 225,
+    "fin_traitee_s": 945.92,
+    "nb_lignes_total": 225,
+    "complet": true
+  },
+  "nb_segments": 33,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.24,
+      "fin": 31.04,
+      "temps_estime": false,
+      "titre": "Zuckerberg halts a secret engineer purge",
+      "resume": "Big Tech is said to chase record profits by culling human workers so AI can fill the void, but that is not what is happening at Meta. Hours before a secretive project was due to launch a purge of engineers, Mark Zuckerberg pulled the plug after something went catastrophically wrong, leaving the company close to an internal meltdown.",
+      "mots_cles": [
+        "Meta",
+        "Mark Zuckerberg",
+        "AI layoffs",
+        "engineer purge",
+        "Big Tech",
+        "workforce",
+        "internal meltdown",
+        "C suite plan"
+      ],
+      "texte": "Big Tech is chasing record profits by culling its human workforce so AI can step into the void. Except that’s not what’s happening… at least not at Meta. Deep inside a corporate boardroom, Mark Zuckerberg is panicking. Hours before a secretive project was due to launch a brutal purge of engineers, Zuckerberg pulled the plug. Something had gone catastrophically wrong. A ruthless C suite plan had pushed one of the world’s most profitable companies to the brink of an internal meltdown. And now, Zuckerberg is trapped in the fallout."
+    },
+    {
+      "id": 2,
+      "debut": 31.04,
+      "fin": 50.24,
+      "temps_estime": false,
+      "titre": "May 2026 layoffs of 8,000 engineers",
+      "resume": "The chaos at Meta had been building for a long time and is a warning for any company replacing headcount with AI. In May 2026 over 8,000 engineers, roughly 10% of Meta's workforce, lost their jobs, and it was only the start.",
+      "mots_cles": [
+        "Meta layoffs",
+        "May 2026",
+        "8,000 engineers",
+        "10% of workforce",
+        "headcount",
+        "AI replacement",
+        "warning"
+      ],
+      "texte": "The chaos brewing at Meta has been a long time coming. And it’s a warning for any company looking to axe their headcount and replace it with AI. It all came to a head in May 2026, when over 8,000 engineers lost their jobs. It was a massive number, roughly 10% of Meta’s entire workforce. And it was just the start."
+    },
+    {
+      "id": 3,
+      "debut": 50.24,
+      "fin": 86.88,
+      "temps_estime": false,
+      "titre": "AI agents break Meta's systems",
+      "resume": "While executives planned the purge, tech and security issues surged by 40% and engineers took 70% longer to keep the platform online. Active AI agents were changing live code with no human oversight and nobody could track the changes. Weeks earlier Zuckerberg had told staff AI integration was not driving the coming layoffs and refused to give the real reason.",
+      "mots_cles": [
+        "AI agents",
+        "live code",
+        "no human oversight",
+        "40% more issues",
+        "70% longer",
+        "security issues",
+        "Zuckerberg",
+        "platform uptime"
+      ],
+      "texte": "But while Zuckerberg and his high paid executives were planning their purge, Meta’s systems were beginning to fracture. Tech and security issues had surged by 40%. Overwhelmed engineers were taking 70% longer just to keep the platform online. The culprit was the company’s active AI agents, which were making changes to live code. With no human oversight, the agents were running amok. No one could track the changes at the scale they were being made. Just weeks earlier, Zuckerberg had told his staff that the integration of AI tools was not the driver of upcoming layoffs. He refused to say the real reason, leaving his workforce completely in the dark."
+    },
+    {
+      "id": 4,
+      "debut": 86.88,
+      "fin": 119.52,
+      "temps_estime": false,
+      "titre": "Reuters leak of the AI Native Guide and Project OT",
+      "resume": "Reuters journalist Katie Paul revealed the real story through internal documents and confidential sources. The leaks described a blueprint called the AI Native Guide and a restructuring named Project OT, for Organizational Transformation, hatched at Zuckerberg's Hawaii compound during his leadership retreat, whose goal was to erase the workforce.",
+      "mots_cles": [
+        "Katie Paul",
+        "Reuters",
+        "leaks",
+        "AI Native Guide",
+        "Project OT",
+        "Organizational Transformation",
+        "Hawaii",
+        "leadership retreat"
+      ],
+      "texte": "Then the leaks came. Katie Paul, an investigative journalist at Reuters, was the one to reveal the truth. Paul exposed the real story through internal documents, and confidential sources within Meta. Those leaks revealed the sheer brutality of Zuckerberg’s plan, which was based on a blueprint called the “AI Native Guide”. The document outlined a full corporate restructuring called “Project OT”, or Organizational Transformation. The scheme was hatched at Zuckerberg’s Hawaii compound, during his annual leadership retreat. And it wasn’t about cost cutting. The goal was to erase the workforce."
+    },
+    {
+      "id": 5,
+      "debut": 119.52,
+      "fin": 152.16,
+      "temps_estime": false,
+      "titre": "How Project OT would replace workers",
+      "resume": "Autonomous AI agents would replace thousands of employees, removing the need for engineers, project managers and designers, while the remaining workers formed small teams overseeing the agents under unrealistic targets. Project OT would also go global, sold to other corporations to help them eliminate their staff.",
+      "mots_cles": [
+        "Project OT",
+        "autonomous agents",
+        "replace employees",
+        "small teams",
+        "targets",
+        "sold to corporations",
+        "engineers",
+        "designers",
+        "project managers"
+      ],
+      "texte": "Autonomous AI agents would replace thousands of employees, removing the need for engineers, project managers and designers. The remaining workers would be formed into small teams that would oversee the agents. They would be forced to hit targets while handling more work than was feasible. But this was just the beginning. Meta’s plan was much bigger. Project OT would go global. It would be sold to other corporations and businesses across the world to help them eliminate their staff. Zuckerberg had seen the future and human employees weren’t part of it. Well, at least not in his vision of it."
+    },
+    {
+      "id": 6,
+      "debut": 152.16,
+      "fin": 176.64,
+      "temps_estime": false,
+      "titre": "Meta as the testing ground for the master plan",
+      "resume": "The eradication of human workers was pitched on every slide at the Hawaii meeting. Meta had the money, the structure and 2 billion daily users as guinea pigs, and executives believed agents replacing engineers would happen there first, but pitching on a slide is different from real life.",
+      "mots_cles": [
+        "Hawaii compound",
+        "2 billion daily users",
+        "guinea pigs",
+        "master plan",
+        "executives",
+        "autonomous agents",
+        "pitch slides"
+      ],
+      "texte": "The eradication of human workers was pitched on every slide at the meeting on the Hawaii compound. Meta had the money. It had the structure. And more importantly, it had the guinea pigs. 2 billion daily users to test their master plan on. The executives believed that if autonomous agents could replace engineers anywhere on earth, it would happen here first. But pitching on a slide is one thing. Doing it in real life is something else."
+    },
+    {
+      "id": 7,
+      "debut": 176.64,
+      "fin": 203.6,
+      "temps_estime": false,
+      "titre": "Bosworth's metric: 220% more code changes, 36% more features",
+      "resume": "By June 2026 the gamble was starting to fail. CTO Andrew Bosworth reported a 220% increase in code changes to internal platforms, while features reaching users rose only 36%, a tripling of code changes with practically no product improvement.",
+      "mots_cles": [
+        "Andrew Bosworth",
+        "June 2026",
+        "220% code changes",
+        "36% features",
+        "CTO",
+        "product improvement",
+        "code volume",
+        "internal platforms"
+      ],
+      "texte": "By June 2026, Zuckerberg’s gamble was starting to fail. And the evidence was in Meta’s code. Chief Technical Officer Andrew Bosworth posted a metric to internal staff. According to Bosworth, Meta saw 220% increase in code changes to internal platforms and infrastructures. But when it came to the actual features reaching users, the number stood at a paltry 36%. There was a tripling of code changes resulting in practically zero product improvement."
+    },
+    {
+      "id": 8,
+      "debut": 203.6,
+      "fin": 243.6,
+      "temps_estime": false,
+      "titre": "METR study: AI made developers slower without them noticing",
+      "resume": "In July 2025 research group METR recruited 16 experienced developers for almost 250 coding tasks, flipping a coin to allow AI tools or manual coding. Developers expected AI to make them 24% more productive but they were 19% less productive, and afterwards they believed AI had made them about 20% faster; the narrator says they were about 40% slower and did not realize it.",
+      "mots_cles": [
+        "METR",
+        "study",
+        "16 developers",
+        "250 coding tasks",
+        "19% less productive",
+        "AI coding tools",
+        "productivity illusion",
+        "July 2025"
+      ],
+      "texte": "And this issue isn’t confined to Meta. It’s the dirty little secret of the AI industry. Back in July 2025, research group METR conducted a groundbreaking study. They recruited 16 experienced developers and gave them almost 250 coding tasks. Then, they flipped a coin to decide to see if they could use AI tools or code manually. Before the testing, the developers estimated that AI would make them 24% more productive. In reality, it made them 19% less productive. The psychological results were even more alarming. After the study finished, the developers genuinely believed that AI had made them about 20% faster. They were about 40% slower and didn’t even realize it."
+    },
+    {
+      "id": 9,
+      "debut": 243.6,
+      "fin": 285.2,
+      "temps_estime": false,
+      "titre": "Illusion of speed and GitClear code data",
+      "resume": "Code generated at the push of a button creates an illusion of speed: a senior engineer may spend 45 minutes tweaking a prompt for something they could write in 12 minutes. GitClear reports copy-pasted code grew about 400% and cleanup of old code fell 60%, turning Zuckerberg's automated paradise into a bloated, growing digital monster.",
+      "mots_cles": [
+        "illusion of speed",
+        "GitClear",
+        "copy-pasted code",
+        "400% growth",
+        "code cleanup",
+        "60% drop",
+        "prompt tweaking",
+        "senior engineer",
+        "technical debt"
+      ],
+      "texte": "That blind spot was the reason for Meta’s 220% system overload. When code is generated by a push of a button, it creates the illusion of speed. A senior engineer will spend about 45 minutes tweaking and modifying an AI prompt that they could have produced themselves in 12 minutes. All while swearing the tool saved time. Industry data proves this. GitClear, an analytics firm that monitors live production codebases, reported that after AI tools spread, copy-pasted code grew by about 400%. At the same time, they reported a 60% drop in the work of cleaning up and simplifying old code. Zuckerberg’s vision of an automated paradise was actually a bloated, rapidly growing digital monster that was spiraling out of control."
+    },
+    {
+      "id": 10,
+      "debut": 285.2,
+      "fin": 328.08,
+      "temps_estime": false,
+      "titre": "AI reviewing AI code and the skills cost",
+      "resume": "Anthropic ran a study showing junior developers relying on AI scored 17% lower at explaining code snippets to peers. The volume of code changes created extra work and trapped engineers in a loop of AI tools reviewing AI-written code using AI-written review software, with lower quality and more bugs; Project OT accelerated the loop instead of breaking it.",
+      "mots_cles": [
+        "Anthropic study",
+        "junior developers",
+        "17% lower",
+        "AI code review",
+        "feedback loop",
+        "bugs",
+        "review volume",
+        "Project OT",
+        "code quality"
+      ],
+      "texte": "Anthropic, the lab behind Claude, ran a separate study on junior developers. Those who relied on AI to help them scored 17% lower on their ability to explain code snippets to their peers. The sheer volume code changes created a mountain of additional work for other engineers. They were trapped in a dystopian feedback loop. They were using AI tools to review code changes that were written by AI, using review software that was also written by AI. The volume of reviews skyrocketed, the quality tanked, and increased the chance of errors. Meta engineers were forced to work twice as hard to catch bugs that weren’t written by human developers. Project OT was meant to break this loop. Instead, it just accelerated it."
+    },
+    {
+      "id": 11,
+      "debut": 328.08,
+      "fin": 372.56,
+      "temps_estime": false,
+      "titre": "Claudeonomics token leaderboard",
+      "resume": "In February 2026 Bosworth publicly claimed Meta's top engineer puts annual salary into tokens for a 10 times return. An engineer built an internal dashboard, Claudeonomics, ranking over 85,000 employees by AI tokens used, with titles like Token Legend and Session Immortal. Token burning became a performance metric: 60.2 trillion tokens in one month, with the top user at 281 billion and neither Zuckerberg nor Bosworth in the Top 250.",
+      "mots_cles": [
+        "Claudeonomics",
+        "token leaderboard",
+        "Andrew Bosworth",
+        "February 2026",
+        "tokens",
+        "60.2 trillion",
+        "281 billion",
+        "performance reviews",
+        "Token Legend"
+      ],
+      "texte": "And in February 2026, Andrew Bosworth poured fuel on this AI dumpster fire. He publicly claimed that Meta’s top engineer puts his annual salary into tokens and gets a 10 times return. In response, a Meta engineer created an internal dashboard that listed over 85,000 employees by who burned through the most A.I. tokens. This dashboard, dubbed Claudeonomics, publicly ranked the top 250 users and gave them titles such as Token Legend and Session Immortal. Suddenly, burning tokens became the ultimate metric for performance reviews. In one month, Meta employees burned a total of 60.2 trillion tokens, and the top user burned 281 billion tokens alone. Neither Zuckerberg nor Bosworth made the Top 250."
+    },
+    {
+      "id": 12,
+      "debut": 372.56,
+      "fin": 395.75,
+      "temps_estime": true,
+      "titre": "The cost of burning tokens",
+      "resume": "60.2 trillion tokens equal about $900 million at public model prices, though engineers believe Meta's true cost is $100 to $200 million, the budget of a Triple A video game, with no product users could enjoy. The money came from the same pot the upcoming layoffs were supposed to protect.",
+      "mots_cles": [
+        "token cost",
+        "$900 million",
+        "$100-200 million",
+        "AAA game budget",
+        "layoffs",
+        "60.2 trillion tokens",
+        "public model price",
+        "budget"
+      ],
+      "texte": "60.2 trillion tokens equals an approximate public model price of $900 million. Meta probably pays less, but engineers believe the true price is in the range of $100 to $200 million. That’s the budget of a Triple A video game. But there was no physical product, nothing that users could enjoy. The cash came from the same pot the upcoming layoffs was supposed to protect."
+    },
+    {
+      "id": 13,
+      "debut": 395.75,
+      "fin": 415.68,
+      "temps_estime": true,
+      "titre": "Leaderboard warps behavior and repeats the lines-of-code mistake",
+      "resume": "Although no one was forced to compete, the leaderboard warped the company's behaviour: a metric became a performance target and so became worthless. The narrator compares it to the decades-long failure to measure programmers by lines of code, which rewarded bloated code and penalized clean code, a mistake Meta repeated.",
+      "mots_cles": [
+        "leaderboard",
+        "metric as target",
+        "performance target",
+        "lines of code",
+        "Goodhart",
+        "clean code",
+        "bloated code",
+        "incentives"
+      ],
+      "texte": "While no one was forced to compete, the leaderboard warped the company’s behaviour. A metric became a performance target. At that point, it became worthless. For decades, have failed at quantifying programmers by lines of code. Bloated, messy engineers were rewarded while the ones who wrote clean code were penalized. Meta repeated that mistake."
+    },
+    {
+      "id": 14,
+      "debut": 415.68,
+      "fin": 438.56,
+      "temps_estime": false,
+      "titre": "Token usage keeps rising and a toxic culture sets in",
+      "resume": "Engineers used AI on simple tasks to avoid looking anti-AI once the leaderboard showed company priorities. Company-wide token usage rose to 73.7 trillion and kept increasing even after the leaderboard was scrapped under media pressure, and the toxic behaviour became embedded in the culture.",
+      "mots_cles": [
+        "token usage",
+        "73.7 trillion",
+        "anti-AI",
+        "leaderboard scrapped",
+        "company culture",
+        "simple tasks",
+        "media pressure",
+        "engineers"
+      ],
+      "texte": "Engineers began using AI on simple tasks that could have been done by hand. They didn’t want to look like anti-AI employees. Once the leaderboard went up, the company’s priorities were clear to everyone. Company wide token usage skyrocketed to 73.7 trillion, and it continued to increase even after growing media pressure caused it to be scrapped. The toxic behaviour became embedded in the culture."
+    },
+    {
+      "id": 15,
+      "debut": 438.56,
+      "fin": 464.16,
+      "temps_estime": false,
+      "titre": "Bosworth's late memo and delayed review criteria",
+      "resume": "In June Bosworth sent a memo to 6,000 employees about AI misuse, reminding them they did not have to use AI just because they could, but it came months too late after token burning had decided who was productive. It took another 3 months to change the review criteria, so ratings for a quarter followed the old behavior.",
+      "mots_cles": [
+        "Bosworth memo",
+        "6,000 employees",
+        "AI misuse",
+        "review criteria",
+        "performance ratings",
+        "token burning",
+        "June",
+        "too late"
+      ],
+      "texte": "It took until June for Andrew Bosworth to send out a memo to 6,000 employees about the misuse of AI tools. He reminded staff that just because they could use AI, it didn’t mean they had to. The sentiment was right. But it was months too late. The message landed months after token burning had already determined who was productive and who was replaceable. It took them another 3 months to change the review criteria. So, for a quarter, ratings were based on the old behavior."
+    },
+    {
+      "id": 16,
+      "debut": 464.16,
+      "fin": 482.24,
+      "temps_estime": false,
+      "titre": "Keystroke and click data harvested to train agents",
+      "resume": "Even though AI models could not solve complex problems, Meta pressed on and looked for training data on employees' computers. It harvested staff click and keystroke data to show agents how the workforce functions, while staff still had to hit productivity outputs as a machine watched and learned.",
+      "mots_cles": [
+        "keystroke data",
+        "click data",
+        "employee surveillance",
+        "training data",
+        "AI agents",
+        "productivity",
+        "monitoring",
+        "Meta employees"
+      ],
+      "texte": "But even though AI models could not solve complex problems, this did not slow down Meta’s efforts. They started looking for training data on employees’ computers. They harvested staff click and keystroke data to show agents how the workforce functions. Staff still had to hit productivity outputs while a machine watched and learned.]"
+    },
+    {
+      "id": 17,
+      "debut": 482.24,
+      "fin": 519.28,
+      "temps_estime": false,
+      "titre": "Employee protests defeat the surveillance program",
+      "resume": "Employees fought back with protest flyers criticising keystroke surveillance. Meta put it on hold, provided exemptions and said staff could opt out; it never ran in the UK, where laws on watching staff are tighter. The resistance sabotaged the plan to downsize engineering, and some engineers forced onto AI teams returned to their old jobs.",
+      "mots_cles": [
+        "protest flyers",
+        "keystroke surveillance",
+        "opt out",
+        "UK laws",
+        "employee resistance",
+        "sabotage",
+        "AI teams",
+        "exemptions",
+        "automation program"
+      ],
+      "texte": "Then the employees fought back. Protest flyers started to be hung around the workspace, criticising the keystroke surveillance. The blowback was so severe, Meta put it on hold, provided exemptions, and said that employees could opt out in the future. A few flyers hung in a shared kitchen brought down a multi-million dollar automation program. The keystroke surveillance never ran in the UK, where the laws on watching staff are tighter. Same company, same agents, different rules. The resistance worked. Zuckerberg’s master plan to aggressively downsize the engineering team was sabotaged by his own staff. Some engineers who had been forced on to AI teams were allowed to return to their old jobs."
+    },
+    {
+      "id": 18,
+      "debut": 519.28,
+      "fin": 544.0,
+      "temps_estime": false,
+      "titre": "Morale collapse and the elephant jokes",
+      "resume": "Meta's internal Pulse surveys showed a 19 point drop in 6 months and staff flooded forums with pictures of elephants, joking about the elephant in the room that leadership ignored. Bosworth said morale had probably never been lower in his 20 years at the company and that leaders had done an atrocious job explaining the vision.",
+      "mots_cles": [
+        "Pulse surveys",
+        "morale",
+        "19 point drop",
+        "elephants",
+        "Andrew Bosworth",
+        "internal forums",
+        "leadership",
+        "vision"
+      ],
+      "texte": "But the psychological damage had already been done. In just 6 months, Meta’s internal Pulse surveys showed a 19 point drop. Staff flooded internal forums with pictures of elephants. The joke being the elephant in the room that the leadership team refused to acknowledge. Andrew Bosworth said that in the 20 years he had spent working at the company, morale had probably never been lower. He told engineers the people in charge had done an atrocious job of explaining the vision."
+    },
+    {
+      "id": 19,
+      "debut": 544.0,
+      "fin": 564.72,
+      "temps_estime": false,
+      "titre": "Agentic path stalls: always 3 to 6 months away",
+      "resume": "In July 2026 Zuckerberg admitted the agentic path had stalled while still claiming autonomous AI was 3 to 6 months away, a target recycled for 2 years. Every quarter the breakthrough is estimated at 6 months out and spending is approved in the meantime.",
+      "mots_cles": [
+        "agentic path",
+        "July 2026",
+        "3 to 6 months",
+        "autonomous AI",
+        "recycled target",
+        "Zuckerberg",
+        "spending",
+        "stalled"
+      ],
+      "texte": "In July 2026, Zuckerberg admitted what many had already guessed. The “agentic path” had stalled. He was still claiming that autonomous AI capabilities were 3 to 6 months away. It’s a target that has been recycled for 2 years, and it’s not any closer to being reached. Every quarter the breakthrough is estimated to be 6 months out, and spending is approved in the meantime."
+    },
+    {
+      "id": 20,
+      "debut": 564.72,
+      "fin": 624.24,
+      "temps_estime": false,
+      "titre": "Why a second wave: capital expenditure versus people",
+      "resume": "Broken code and staff revolts froze the second wave of cuts, but that does not explain why it was scheduled. Meta has two huge expenses, people and computing, and capital expenditures went from $39.2 billion in 2024 to $72.2 billion in 2025, with a 2026 infrastructure budget of $145 billion and $107 billion of multi-year contracts locked in during Q1.",
+      "mots_cles": [
+        "second wave layoffs",
+        "capital expenditures",
+        "$39.2 billion",
+        "$72.2 billion",
+        "$145 billion",
+        "infrastructure",
+        "$107 billion contracts",
+        "people vs computing"
+      ],
+      "texte": "Broken code and staff revolts were the reason the second wave of cuts were frozen. But that doesn’t explain why a bigger, second wave was ever scheduled in the first place. The answer lies in the numbers. Meta has two huge expenses: People and Computing. They can’t increase spending on one without trimming the other. It’s not a complex business philosophy, it’s reality. In 2024, Meta spent $39.2 billion on capital expenditures. By 2025, it had nearly doubled to $72.2 billion. 2026 was a completely different beast. Zuckerberg and his team jacked up Meta’s annual infrastructure budget to $145 billion. In the first quarter of 2026 alone, Meta locked themselves into $107 billion worth of multi-year infrastructure contracts. They were buying up long lead items like power, land, buildings, and next generation microchips. Meta’s 2026 spending completely eclipses their total spending for 2024 and 2025 combined."
+    },
+    {
+      "id": 21,
+      "debut": 624.24,
+      "fin": 652.48,
+      "temps_estime": false,
+      "titre": "Q2 2026 revenue growth masks a cash drain",
+      "resume": "Second quarter 2026 revenue rose 28% to $60.8 billion, the strongest growth in 5 years, with advertising up 27%. But capital expenditures more than doubled to $31.1 billion in the quarter and free cash flow fell 91% from the same quarter a year earlier.",
+      "mots_cles": [
+        "Q2 2026",
+        "revenue $60.8 billion",
+        "28% growth",
+        "advertising 27%",
+        "capex $31.1 billion",
+        "free cash flow",
+        "91% decline"
+      ],
+      "texte": "And it seems to be working. Second Quarter 2026 Revenues increased 28% to $60.8 billion, the strongest growth in 5 years. Despite this impressive growth, advertising revenues were up only 27%. But those headline figures mask the truth. Capital expenditures in the quarter more than doubled to $31.1 billion, cannibalizing the company’s liquid cash. Free Cash Flow saw a 91% decline from the same quarter last year."
+    },
+    {
+      "id": 22,
+      "debut": 652.48,
+      "fin": 679.44,
+      "temps_estime": false,
+      "titre": "Share drop, borrowing spree and halted buyback",
+      "resume": "The unexpected infrastructure bills made Meta's share price fall 10% in after-hours trading. Meta issued nearly $25 billion of long-term debt, taking total debt to $83.66 billion, and halted its share buyback, plowing the cash into the machine instead of returning it to shareholders.",
+      "mots_cles": [
+        "share price drop",
+        "10% after hours",
+        "$25 billion debt",
+        "$83.66 billion",
+        "buyback halted",
+        "borrowing",
+        "shareholders",
+        "Meta debt"
+      ],
+      "texte": "When the unexpected infrastructure bills landed, Meta’s share prices plummeted. It tanked 10% in after hours trading. To keep the lights on, Meta did something unprecedented. It went on a borrowing spree. The company issued nearly $25 billion of long-term debt, causing their total debt to hit $83.66 billion. Worst, they halted their buyback scheme of shares. Instead of returning cash to shareholders, like they did every year, they ploughed it into the machine.."
+    },
+    {
+      "id": 23,
+      "debut": 679.44,
+      "fin": 714.64,
+      "temps_estime": false,
+      "titre": "Locked-in infrastructure commitments",
+      "resume": "Net property and equipment surged to $225 billion, up almost $50 billion in 6 months, with $68 billion of additional data center leases and $279 billion of leases still to be fulfilled. Meta is also designing its Iris chip for gigawatt scale by September 2026, and since steel and power contracts are signed, the bills will come regardless.",
+      "mots_cles": [
+        "net property and equipment",
+        "$225 billion",
+        "data center leases",
+        "$279 billion",
+        "Iris chip",
+        "gigawatt",
+        "power contracts",
+        "infrastructure commitments"
+      ],
+      "texte": "Meta’s Net Property and Equipment surged to $225 billion, an increase of almost $50 billion in just 6 months. They also leased an additional $68 billion of data center space, with a total of $279 billion of such leases still to be fulfilled. It’s a lot of money regardless of whether the AI actually works. They’re also designing their own custom AI chip, Iris, to help them reach gigawatt scale compute capacity by September 2026. None of this can be put on hold. The steel has already been ordered, and power contracts have already been signed. So the bills will start coming regardless."
+    },
+    {
+      "id": 24,
+      "debut": 714.64,
+      "fin": 746.16,
+      "temps_estime": false,
+      "titre": "Layoffs save only three weeks of the buildout",
+      "resume": "In the second quarter of 2026 Meta cut 8,000 jobs and spent over $1 billion on severance. Bank of America estimates savings of $7 to $8 billion a year, roughly three weeks of a $137.5 billion buildout, so employees and departments were replaceable because the infrastructure timeline could not change.",
+      "mots_cles": [
+        "8,000 jobs",
+        "severance $1 billion",
+        "Bank of America",
+        "$7-8 billion savings",
+        "$137.5 billion buildout",
+        "three weeks",
+        "replaceable employees",
+        "hiring plan"
+      ],
+      "texte": "A hiring plan can change in the span of an afternoon. A gigawatt of power locked into a 10 year contract can’t. In the second quarter of 2026, Meta cut 8,000 jobs and spent over $1 billion on severance pay.. Bank of America estimates the cuts could save the company between $7 billion and $8 billion a year. That covers roughly three weeks of a $137.5 billion buildout. Three weeks. Employees were replaceable. Departments could be cut along with the people in them because the infrastructure timeline couldn’t."
+    },
+    {
+      "id": 25,
+      "debut": 746.16,
+      "fin": 762.64,
+      "temps_estime": false,
+      "titre": "Zuckerberg dodges the investor question",
+      "resume": "Investors were concerned about margins as the spending pushed profits further away. Asked about returns over the next 12 to 24 months, Zuckerberg avoided the question, calling it too technical, which the narrator describes as a CEO buying time.",
+      "mots_cles": [
+        "investors",
+        "margins",
+        "returns 12 to 24 months",
+        "Zuckerberg",
+        "avoided question",
+        "buying time",
+        "profits",
+        "spending"
+      ],
+      "texte": "Investors were concerned about margins because all that spending was pushing profits further away. When asked about returns over the next 12 to 24 months, Zuckerberg avoided the question. He said it was too technical. It wasn’t really an answer. It was a CEO buying time when he didn’t have much left."
+    },
+    {
+      "id": 26,
+      "debut": 762.64,
+      "fin": 774.96,
+      "temps_estime": false,
+      "titre": "Project OT's purpose and its unraveling",
+      "resume": "Project OT was designed to save profit margins by cutting staff while protecting the real investment in infrastructure. It began to unravel quickly because of the code the AI agents wrote and the product users received.",
+      "mots_cles": [
+        "Project OT",
+        "profit margins",
+        "staff cuts",
+        "AI agents code",
+        "unraveled",
+        "product quality",
+        "infrastructure investment",
+        "users"
+      ],
+      "texte": "Project OT was designed to save the company’s profit margins by executing the staff, while protecting the real investment. But things began to quickly unravel because of the code the AI agents wrote and the product that users received."
+    },
+    {
+      "id": 27,
+      "debut": 774.96,
+      "fin": 799.92,
+      "temps_estime": false,
+      "titre": "The August 2026 essay versus the data",
+      "resume": "In August 2026 Zuckerberg wrote an essay arguing AI would create more jobs than it eliminates, yet in the same year he cut 8,000 jobs, shuttered 6,000 open positions and shrank teams, all within a 90 day window. The narrator calls the essay PR that the data contradicted.",
+      "mots_cles": [
+        "August 2026 essay",
+        "AI creates jobs",
+        "8,000 jobs",
+        "6,000 open positions",
+        "90 day window",
+        "reorganized teams",
+        "PR",
+        "Zuckerberg"
+      ],
+      "texte": "In August 2026, Zuckerberg wrote an essay about AI. He argued that in his estimation, AI would create more jobs than it would eliminate. But 2026 was also the year he axed 8,000 jobs and shuttered 6,000 open positions. It was when he reorganized teams to a fraction of their previous sizes. All of this happened within a 90 day window. His essay was PR. And the data contradicted it."
+    },
+    {
+      "id": 28,
+      "debut": 799.92,
+      "fin": 837.68,
+      "temps_estime": false,
+      "titre": "Meta is a test case other companies cannot copy",
+      "resume": "Meta is the biggest example of a company trying to automate jobs out of existence and the tech industry is watching, but it builds its own data centers and AI and recruits top engineers, so most companies are not in its position. Even spending $130 billion a year on computing, it needed human workers to check its agents' mistakes and brought them back.",
+      "mots_cles": [
+        "Meta test case",
+        "automation",
+        "data centers",
+        "$130 billion",
+        "human workers",
+        "agent mistakes",
+        "tech industry",
+        "rehiring"
+      ],
+      "texte": "Meta is the biggest example of a company trying to automate jobs out of existence. It’s the company the tech industry will be watching closely. It’s a tech giant with deep pockets, taking giant leaps with huge proposals. Meta designs and builds its own data centers, creates its own AI, and recruits the top engineers. The vast majority of companies will never be in the same position as Meta. Sure, it can spend $130 billion in a single year on computing power. Yet, even with infinite resources it still needed human workers to check the mistakes made by its AI agents. In fact, Meta’s agents made so many mistakes that Meta brought those human workers back."
+    },
+    {
+      "id": 29,
+      "debut": 837.68,
+      "fin": 865.44,
+      "temps_estime": false,
+      "titre": "The next company to try: banks, insurers, hospitals",
+      "resume": "The next company to try this could be a bank, insurer or hospital system, where an executive looks at a slide showing fewer engineers and no change in output, believing Big Tech has proven it works. The narrator says Zuckerberg proved nothing: Meta stopped hours before the second round of layoffs and hid the truth for another 3 months.",
+      "mots_cles": [
+        "bank",
+        "insurance company",
+        "hospital system",
+        "Big Tech proof",
+        "headcount slide",
+        "second round of layoffs",
+        "hid the truth",
+        "executives",
+        "strategy"
+      ],
+      "texte": "The next company to try this won’t be a tech company. It could be a bank, an insurance company, or a hospital system. Somewhere, an executive is probably looking at a slide that shows a decrease in engineers with no change in output. That entire corporate strategy sits on the belief that Big Tech has already proven it works. But Zuckerberg hasn’t proved anything. Meta only survived because it stopped hours before the second round of layoffs. And it hid the truth for another 3 months."
+    },
+    {
+      "id": 30,
+      "debut": 865.44,
+      "fin": 894.8,
+      "temps_estime": false,
+      "titre": "Klarna replaces 700 agents with AI",
+      "resume": "Klarna revealed in February 2024 that it had replaced 700 customer service agents with an OpenAI assistant that handled over two thirds of chats. CEO Sebastian Siemiatkowski believed he had technology to replace human jobs and imposed a company-wide hiring freeze lasting over a year, but it was big talk that did not stand up.",
+      "mots_cles": [
+        "Klarna",
+        "700 agents",
+        "OpenAI assistant",
+        "Sebastian Siemiatkowski",
+        "February 2024",
+        "customer service",
+        "hiring freeze",
+        "AI replacement"
+      ],
+      "texte": "But this experiment has already played out in public. Klarna, the Swedish payments company, revealed in February 2024 that it had replaced 700 customer service agents with an OpenAI assistant. It said AI agents handled over two thirds of all customer chats. The CEO of Klarna, Sebastian Siemiatkowski, believed he had the technology to replace human jobs. After that announcement, the company put in a company wide hiring freeze which lasted for over a year. It was big talk. And it didn’t stand up."
+    },
+    {
+      "id": 31,
+      "debut": 894.8,
+      "fin": 913.2,
+      "temps_estime": false,
+      "titre": "Klarna reverses course",
+      "resume": "By 2025 Klarna was hiring people again, and Siemiatkowski admitted the company had gone too far with cost cutting, producing a poor product when customers have the right to talk to a real person. This happened two years before Zuckerberg's Hawaii meeting, so anyone building Project OT could have looked it up.",
+      "mots_cles": [
+        "Klarna",
+        "2025",
+        "rehiring",
+        "cost cutting",
+        "poor product",
+        "real person",
+        "Siemiatkowski",
+        "Hawaii meeting",
+        "lesson"
+      ],
+      "texte": "By 2025, Klarna was hiring people again. Siemiatkowski admitted that the company had gone too far with its cost cutting. Chasing profit had resulted in a poor product, and customers had the right to talk to a real person. This happened two years before Zuckerberg's Hawaii meeting. Anyone building Project OT could have looked it up."
+    },
+    {
+      "id": 32,
+      "debut": 913.2,
+      "fin": 922.16,
+      "temps_estime": false,
+      "titre": "Zuckerberg still believes: agents are 6 months away",
+      "resume": "Zuckerberg still believes in a future where workers are replaced by agents, but those agents will remain 6 months away, as they always are.",
+      "mots_cles": [
+        "Zuckerberg vision",
+        "AI agents",
+        "6 months away",
+        "replace workers",
+        "belief",
+        "Meta",
+        "recycled promise"
+      ],
+      "texte": "But Zuckerberg still believes in his vision of the future. The one where workers are replaced by agents. But those agents will still be 6 months away, as they always are."
+    },
+    {
+      "id": 33,
+      "debut": 922.16,
+      "fin": 945.92,
+      "temps_estime": false,
+      "titre": "Meta can afford mistakes, other companies cannot",
+      "resume": "AI has already started to change how software is built through a staggering amount of generated code, but no one has answered what happens when a company without $60 billion in quarterly revenue makes the same bet and cuts the same people. Meta can make mistakes in public and keep paying remaining staff, while other companies only get one big mistake.",
+      "mots_cles": [
+        "generated code",
+        "$60 billion quarterly revenue",
+        "same bet",
+        "smaller companies",
+        "mistakes",
+        "software development",
+        "remaining employees",
+        "conclusion"
+      ],
+      "texte": "AI has already started to change how software gets built, driven by a staggering amount of generated code. But no one has answered the question. What happens when a company that does not have $60 billion in quarterly revenue makes the same bet and cuts the same people? Meta can make mistakes in public and keep paying the employees who remained. That is how it got to change its mind. Other companies only get to make one big mistake."
+    }
+  ]
+}
