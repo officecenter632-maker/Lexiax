@@ -1,0 +1,699 @@
+{
+  "version": 1,
+  "video_id": "qERTeNo8kNI",
+  "titre_video": "World War 3 - Hour by Hour at 35,000 Feet",
+  "duree_s": 1387.2,
+  "avancement": {
+    "lignes_traitees": 323,
+    "fin_traitee_s": 1387.2,
+    "nb_lignes_total": 323,
+    "complet": true
+  },
+  "nb_segments": 36,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.16,
+      "fin": 21.68,
+      "temps_estime": false,
+      "titre": "Opening: a regular flight at 35,000 feet and a blinding flash",
+      "resume": "A routine flight cruising at 35,000 feet carries passengers watching movies and sleeping until a blinding white flash obliterates the horizon and a fireball erupts in the distance. The passengers do not know that the world below them is gone.",
+      "mots_cles": [
+        "35,000 feet",
+        "regular flight",
+        "blinding white flash",
+        "fireball",
+        "nuclear blast",
+        "passengers",
+        "hour by hour",
+        "World War 3"
+      ],
+      "texte": "It’s just another regular flight, cruising at 35,000 feet (10,668 meters). Passengers do what they usually do: watching movies, sleeping and counting the hours until their back on the ground. It’s a completely uneventful journey. Until a blinding white flash obliterates the horizon. A fireball erupts in the distance. The passengers don’t know it, but the world below them is gone…"
+    },
+    {
+      "id": 2,
+      "debut": 21.68,
+      "fin": 39.36,
+      "temps_estime": false,
+      "titre": "Tony Benelli on United Flight 1202 at 2:45 P.M.",
+      "resume": "At 2:45 P.M. ET, Tony Benelli, a New Jersey sales manager, is flying to Los Angeles for a mandatory conference in seat 12A of United Flight 1202. He adjusts his neck pillow and headphones as the plane cruises over the heartland.",
+      "mots_cles": [
+        "Tony Benelli",
+        "United Flight 1202",
+        "seat 12A",
+        "sales manager",
+        "New Jersey",
+        "Los Angeles",
+        "2:45 P.M.",
+        "heartland"
+      ],
+      "texte": "2:45:00 P.M. ET Tony Benelli didn’t even want to be on this flight. The sales manager from New Jersey is flying to Los Angeles for a mandatory conference. He’s settled into seat 12A onboard United Flight 1202, adjusting his neck pillow and noise cancelling headphones as the plane cruises over the heartland."
+    },
+    {
+      "id": 3,
+      "debut": 39.36,
+      "fin": 99.52,
+      "temps_estime": false,
+      "titre": "The flash: 80 miles from the blast and an Air Force pilot's account",
+      "resume": "At 2:47 P.M. the sky turns searing white and Tony shuts his eyes. The text quotes an Air Force pilot describing 1950s nuclear tests, seeing the bones in his hand and feeling on fire. Tony is about 80 miles from the epicenter inside a Boeing 737, and the distance saves his life, though the flash burns an afterimage in his left retina and causes a headache.",
+      "mots_cles": [
+        "nuclear flash",
+        "80 miles from epicenter",
+        "Boeing 737",
+        "retina afterimage",
+        "1950s nuclear tests",
+        "Air Force pilots",
+        "searing white sky",
+        "distance saves life"
+      ],
+      "texte": "2:47:00 P.M. ET Tony stares at clouds drifting lazily past his window when the sky suddenly turns a searing white. He gasps, staring into the blinding glare for one frozen second before his reflexes force his eyes shut. Even for elite Air Force pilots flying near nuclear test detonations in the 1950s, the level of the brightness was unforgettable. As one described, “Shards of brilliant light penetrated all the protective devices and severely pained my eyes for a few seconds. As the brilliance faded, I could see the bones in my hand. Suddenly I began to feel as if millions of long, hot needles were shooting through my body… I had the horrible sensation of being on fire.” Tony is about 80 miles (129 km) from the epicenter of the nuclear blast, sealed inside in a commercial Boeing 737. The distance saved his life, but it doesn’t mean he’s unscathed. The intense flash instantly burns an afterimage in his left retina, causing a headache that will last for hours. But in the sheer confusion of the moment, he won’t connect either symptom to the blast."
+    },
+    {
+      "id": 4,
+      "debut": 99.52,
+      "fin": 127.04,
+      "temps_estime": false,
+      "titre": "Maya and flash blindness",
+      "resume": "A grad student named Maya looked directly at the flash for 3 seconds and is convinced she is permanently blind. Flash blindness from a distant nuclear detonation lasts up to 2 minutes in daylight and up to 10 at night, but she does not know this.",
+      "mots_cles": [
+        "Maya",
+        "flash blindness",
+        "2 minutes daylight",
+        "10 minutes at night",
+        "looked at flash",
+        "grad student",
+        "terror",
+        "aisle A"
+      ],
+      "texte": "Three rows back, a grad student named Maya looked directly at the flash for 3 full seconds. Now, she’s got her hands clamped over her eyes, convinced she’s gone permanently blind. That’s the story of most people in aisle A, who didn’t look away fast enough. Flash blindness from a nuclear detonation at a distance lasts up to 2 minutes in daylight, and up to 10 at night. Maya doesn't know this. She’s sitting in the dark, with nothing but the sheer terror of the unknown to keep her company."
+    },
+    {
+      "id": 5,
+      "debut": 127.04,
+      "fin": 157.2,
+      "temps_estime": false,
+      "titre": "Chicago destroyed: Tony sees the mushroom cloud and the cabin screams",
+      "resume": "Tony sees Chicago as a column of fire with a mushroom cloud, the city of 2.7 million reduced to a boiling wasteland. He removes his noise-cancelling headphones to hear 150 people screaming. Passengers realize America is on fire and have no idea what to do.",
+      "mots_cles": [
+        "Chicago destroyed",
+        "mushroom cloud",
+        "2.7 million people",
+        "screaming cabin",
+        "150 passengers",
+        "noise-cancelling headphones",
+        "America on fire",
+        "nuclear strike"
+      ],
+      "texte": "As the flash fades, Tony looks down. Chicago is now a column of fire climbing toward the edge of space. A mushroom cloud swallows everything in its path. The city that 2.7 million people called home is nothing but a boiling wasteland. Still dazed, Tony manages to rip off his noise-cancelling headphones. The cabin is flooded with a sound that makes his skin crawl. 150 people are screaming at once. The realization hits them all at once. Chicago is gone, America is on fire… and they have no idea what to do next."
+    },
+    {
+      "id": 6,
+      "debut": 157.2,
+      "fin": 188.56,
+      "temps_estime": false,
+      "titre": "Captain Okafor's calm PA and a plane flying blind",
+      "resume": "At 2:48 P.M. Captain Jamila Okafor tells passengers of a minor routing change due to airspace restrictions, which Tony doubts while looking at the Chicago mushroom cloud. In reality the cockpit instruments are dead, with no radar, datalink or ground control.",
+      "mots_cles": [
+        "Captain Jamila Okafor",
+        "PA announcement",
+        "airspace restrictions",
+        "flying blind",
+        "dead instruments",
+        "no radar",
+        "no ground control",
+        "cockpit"
+      ],
+      "texte": "2:48:00 P.M. E.T. The PA crackles to life. Captain Jamila Okafor’s voice cuts through the screams filling the cabin. Remarkably, she sounds calm. She tells the passengers they are making a minor routing change due to airspace restrictions up ahead and orders them to fasten their seatbelts. Airspace restrictions? Tony glances back out the mushroom cloud looming over Chicago. What Tony doesn't know is that the plane he’s currently sitting in… is flying blind. The cockpit is a bank of dead instruments. No radar. No datalink. No ground control."
+    },
+    {
+      "id": 7,
+      "debut": 188.56,
+      "fin": 213.6,
+      "temps_estime": false,
+      "titre": "Russian RS-28 Sarmat missile detonates over Chicago",
+      "resume": "The Chicago air traffic control sector went dark when a Russian RS-28 Sarmat missile, known as Satan II, completed its 28-minute arc from western Russia and detonated 6,500 feet above West Adams Street. The silence was not a technical fault, because Chicago was vaporized, and Captain Okafor knew when she saw the flash.",
+      "mots_cles": [
+        "RS-28 Sarmat",
+        "Satan II",
+        "28-minute arc",
+        "West Adams Street",
+        "6,500 feet detonation",
+        "Chicago air traffic control",
+        "vaporized",
+        "Russian missile"
+      ],
+      "texte": "The Chicago air traffic control sector went dark right around the time a Russian RS-28 Sarmat missile, known as Satan II, completed its 28-minute arc from western Russia. It detonated 6,500 feet (1981 meters) above Chicago’s West Adams Street. The Chicago sector didn’t fall silent because of a technical fault. It went silent because Chicago was vaporized. And Captain Okafor knew the minute she saw the flash."
+    },
+    {
+      "id": 8,
+      "debut": 213.6,
+      "fin": 233.44,
+      "temps_estime": false,
+      "titre": "Okafor maps the dead cities: Denver, NORAD, Kansas City",
+      "resume": "Captain Okafor mentally runs through cities she can no longer reach: Chicago wiped out, Denver silent, NORAD, Peterson and Schriever Air Force Bases presumed destroyed as confirmed nuclear targets, and Kansas City's Whiteman Air Force Base with its B-2 bombers probably gone.",
+      "mots_cles": [
+        "Denver dead air",
+        "NORAD",
+        "Peterson Air Force Base",
+        "Schriever Air Force Base",
+        "Whiteman Air Force Base",
+        "B-2 bombers",
+        "nuclear targets",
+        "radio static"
+      ],
+      "texte": "She is already running the map in her head. Every frequency that’s just static is a city she can’t reach. Chicago: Wiped off the map. Denver? Dead air. Which means NORAD, Peterson and Schriever Air Force Bases, all confirmed nuclear targets, are gone. Kansas City? Whiteman Air Force Base, with its B-2 bombers? Probably dust."
+    },
+    {
+      "id": 9,
+      "debut": 233.44,
+      "fin": 280.16,
+      "temps_estime": false,
+      "titre": "The pilots were blinded: PLZT goggles versus a commercial windshield",
+      "resume": "Military nuclear bomber pilots use $7 million PLZT goggles made of Polarized Lead Zirconium Titanate that turn opaque within a ten-millionth of a second. The pilots of Flight 1202 had only a standard windshield, so the blast seared their retinas, and the aircraft flies on autopilot as Okafor's vision fights through the haze.",
+      "mots_cles": [
+        "PLZT goggles",
+        "Lead Zirconium Titanate",
+        "pilots blinded",
+        "retinas",
+        "commercial windshield",
+        "autopilot",
+        "Cold War engineering",
+        "nuclear bomber pilots"
+      ],
+      "texte": "She hasn’t dropped a hint of this to the cabin. What the passengers also don't know is what happened in the cockpit when the flash lit up the sky. Military nuclear bomber pilots fly with $7 million PLZT goggles, made of Polarized Lead Zirconium Titanate. It’s a masterpiece of Cold War engineering that detects a nuclear flash and turns opaque in a ten-millionth of a second. It’s so the people dropping the bombs don't go blind doing it. The pilots of United Flight 1202 had nothing but a standard commercial windshield. When Chicago was obliterated, that windshield offered zero protection. The blast seared straight through their retinas. Right now, the aircraft is flying on autopilot, holding the heading and altitude Okafor set before her world plunged into darkness. Her vision begins to fight through the haze, her mind races. coming back."
+    },
+    {
+      "id": 10,
+      "debut": 280.16,
+      "fin": 302.64,
+      "temps_estime": false,
+      "titre": "T+4 minutes: the plane banks south away from Chicago",
+      "resume": "At 2:51 P.M., four minutes after the blast, the aircraft banks hard left to the south, abandoning the flight path through Iowa and Nebraska into Denver airspace. Tony watches the mushroom cloud over Lake Michigan shrink behind his window.",
+      "mots_cles": [
+        "T+4 minutes",
+        "banks south",
+        "flight path Denver",
+        "Iowa Nebraska",
+        "Lake Michigan",
+        "mushroom cloud",
+        "2:51 P.M.",
+        "route dead"
+      ],
+      "texte": "2:51:00 P.M. E.T. – T+4 Minutes The aircraft banks hard left, to the south, fleeing the cloud and what remains of Chicago. They’re abandoning the flight path that was supposed to take them through Iowa and Nebraska and into Denver airspace. That route is dead. As they bank, the mushroom cloud towering over Lake Michigan slowly slide behind Tony’s window, shrinking against the horizon."
+    },
+    {
+      "id": 11,
+      "debut": 302.64,
+      "fin": 373.44,
+      "temps_estime": false,
+      "titre": "T+7: the EMP and the Starfish Prime precedent",
+      "resume": "A jet depends on a web of infrastructure including 14,000 air traffic controllers, navigation beacons, instrument landing systems and GPS satellites. The warhead also emitted an electromagnetic pulse that burns unshielded electronics, as in the 1962 Starfish Prime test, a 1.4-megaton blast 250 miles above the Pacific that knocked out streetlights in Hawaii 900 miles away. Flight 1202 was only 80 miles from ground zero.",
+      "mots_cles": [
+        "EMP",
+        "electromagnetic pulse",
+        "Starfish Prime 1962",
+        "1.4 megaton",
+        "Hawaii streetlights",
+        "air traffic controllers",
+        "GPS satellites",
+        "T+7 minutes"
+      ],
+      "texte": "2:54:00 P.M. E.T. - T+7 Minutes Tony Benelli is sitting inside a 70 ton metal tube traveling through the sky at over 530 miles per hour (853 kph). On a normal day, this works because of a vast, invisible web of infrastructure. 14,000 air traffic controllers, thousands of navigation beacons, instrument landing systems, GPS satellites all work flawlessly to keep aircraft in the sky. All because the civilization on the ground is functioning. Today, that ground is gone. When the warhead detonated above West Adams Street, it not only destroyed Chicago but also sent an electromagnetic pulse outward at the speed of light. This pulse, invisible and instantaneous, carried enough energy to find every unshielded electronic system within its radius and burn it alive. It’s a well-documented phenomenon. In 1962, the United States detonated a 1.4-megaton nuclear weapon almost 250 miles (400 km) above the Pacific Ocean in a test called Starfish Prime. The EMP it produced blew out streetlights in Hawaii, triggered burglar alarms, and took down a telephone microwave relay station… and that was 900 miles (1448 km) from ground zero. Flight 1202 was just 80 miles (129 km) away."
+    },
+    {
+      "id": 12,
+      "debut": 373.44,
+      "fin": 403.2,
+      "temps_estime": false,
+      "titre": "Why Chicago was hit: Lviv strike, 72-hour ultimatum, 14 warheads",
+      "resume": "Three days earlier Russia detonated a tactical nuclear weapon over a Ukrainian military installation outside Lviv, the first nuclear strike since 1945, and Washington issued a 72-hour ultimatum. When the clock hit zero, Russia replied with 14 nuclear warheads on American soil, a global war no one thought possible.",
+      "mots_cles": [
+        "Lviv tactical nuclear weapon",
+        "72 hour ultimatum",
+        "first nuclear strike since 1945",
+        "14 nuclear warheads",
+        "Russia",
+        "Ukraine",
+        "global war",
+        "escalation"
+      ],
+      "texte": "Nobody onboard knows why Chicago just got vaporized. 3 days earlier, Russia had detonated a tactical nuclear weapon over a Ukrainian military installation outside Lviv, the first nuclear strike since 1945. Washington issued a 72 hour ultimatum. That clock just hit zero. And Russia's reply just arrived on American soil. 14 nuclear warheads, each one with a city’s name on it. No one believed it was possible. No one thought Russia would actually plunge the world into a global war. But they did…"
+    },
+    {
+      "id": 13,
+      "debut": 403.2,
+      "fin": 420.56,
+      "temps_estime": false,
+      "titre": "The Chicago shockwave hits the aircraft",
+      "resume": "The shockwave from the Chicago blast catches up with the aircraft, rips through the airframe with groaning metal, and makes the cabin vibrate violently for 3 seconds before it stops.",
+      "mots_cles": [
+        "shockwave",
+        "airframe",
+        "groaning metal",
+        "cabin vibrates",
+        "3 seconds",
+        "blast wave",
+        "turbulence",
+        "passengers scream"
+      ],
+      "texte": "The aircraft suddenly shudders. The shockwave from the Chicago blast has caught up with them. It rips through the airframe, as the sound of groaning metal fills the cabin. Passengers scream as the plane lurches. The entire cabin violently vibrates. Then after 3 agonizing seconds… it stops."
+    },
+    {
+      "id": 14,
+      "debut": 420.56,
+      "fin": 453.68,
+      "temps_estime": false,
+      "titre": "T+14: cell phone networks collapse",
+      "resume": "At 3:01 P.M. Tony's phone, left off airplane mode, shows a blank screen after the networks collapsed. Cell towers below are destroyed, without power, or overwhelmed by 9 million panicked people in the Chicago area.",
+      "mots_cles": [
+        "phone no signal",
+        "networks collapse",
+        "cell towers",
+        "9 million people Chicago",
+        "airplane mode",
+        "blank screen",
+        "T+14 minutes",
+        "communications"
+      ],
+      "texte": "3:01:00 P.M. E.T. -- T+14 Minutes Tony glances at his phone, the screen is blank. He was never one to follow the rules and had left it off airplane mode. Just a few minutes ago it had a signal and then the networks collapsed. He stares at the screen hoping the bars will miraculously come back. They won’t. Somewhere below, the cell towers that would normally route his call home are either destroyed or without power. The ones that are still standing are overwhelmed by 9 million panicked people in the greater Chicago area simultaneously screaming into a dead network."
+    },
+    {
+      "id": 15,
+      "debut": 453.68,
+      "fin": 504.32,
+      "temps_estime": false,
+      "titre": "Second EMP: total electrical failure and the dead APU",
+      "resume": "At 3:03 P.M. a second EMP from a detonation southwest of the aircraft over eastern Nebraska shuts down every display and light. The pilots lose navigation display, autopilot, Denver Center radio and landing gear controls, and try the APU backup turbine, whose digital controller was also hit.",
+      "mots_cles": [
+        "second EMP",
+        "eastern Nebraska",
+        "cabin darkness",
+        "APU",
+        "auxiliary power unit",
+        "autopilot lost",
+        "landing gear controls",
+        "T+16 minutes"
+      ],
+      "texte": "3:03:00 P.M. E.T. – T+16 Minutes Every seatback monitor, every overhead display, every single cabin light shuts down. The plane is engulfed in darkness. A second EMP blast, from a second detonation somewhere to the southwest, has intercepted the aircraft over eastern Nebraska. Someone in the back starts crying. Someone else starts praying. In the cockpit, the situation is terminal. The pilots have just lost their primary navigation display, their autopilot, their radio contact with Denver Center, and their landing gear controls. The crew reach for the last resort. The APU. It’s a backup gas turbine engine in the tail designed to save the aircraft when everything else fails. The pilots abandon their safety checks and frantically try to bring it online. Then reality hits. Its electronic controller is digital. And the EMP got there first."
+    },
+    {
+      "id": 16,
+      "debut": 504.32,
+      "fin": 529.28,
+      "temps_estime": false,
+      "titre": "Mechanical backup instruments only: no beacons, no radio",
+      "resume": "Even if the APU started, systems need ground infrastructure. Navigation beacons and instrument landing systems at every airport in range are dark and radio frequencies empty, leaving only the mechanical altimeter, attitude indicator and airspeed needle, plus a rough map in the pilots' heads.",
+      "mots_cles": [
+        "mechanical instruments",
+        "altimeter",
+        "attitude indicator",
+        "airspeed needle",
+        "navigation beacons",
+        "instrument landing systems",
+        "radio silence",
+        "fuel state"
+      ],
+      "texte": "Even if it starts, it doesn’t matter. The APU powers the aircraft’s systems; the systems need people running underneath them to mean anything. The navigation beacons are all gone. The instrument landing systems at every airport in range are all dark. The radio frequencies are empty. All they have is their mechanical backup instruments: an altimeter, an attitude indicator, and an airspeed needle. They know the remaining fuel state, and have a rough map burned into their head."
+    },
+    {
+      "id": 17,
+      "debut": 529.28,
+      "fin": 579.12,
+      "temps_estime": false,
+      "titre": "No airport to land at and the landing gear crank snaps",
+      "resume": "Captain Okafor cannot know whether Salt Lake City or Denver International still exist, and major airports sit next to potential targets. The first officer cranks the manual emergency landing gear but the link shears after 20 turns, so every landing will be a belly landing of 70 tons of metal.",
+      "mots_cles": [
+        "Salt Lake City",
+        "Denver International",
+        "manual landing gear crank",
+        "belly landing",
+        "emergency crank snaps",
+        "first officer",
+        "glide path",
+        "target cities"
+      ],
+      "texte": "Captain Okafor could try to find an airport in their flight path. Salt Lake City? Denver International? But she has no way of knowing if those cities even exist anymore. Every other major airport within her glide path sits next to a potential target. The minor ones have runways she can’t see, with ground control crews that aren't answering. With the automated hydraulic landing gear offline, their only hope is for the manual emergency crank to lower the wheels. The first officer tears open the floor panel, grips the handle and starts to crank furiously. They hear an audible groan from underneath them. 10 turns. 20. Then… a sickening metallic snap. The manual link shears under the strain. The handle spins loose in the first officer's hand. Every landing, airport or otherwise, is now a belly landing. They have 70 tones of screaming metal, a cabin full of terrified passengers and no wheels."
+    },
+    {
+      "id": 18,
+      "debut": 579.12,
+      "fin": 624.48,
+      "temps_estime": false,
+      "titre": "Eastern Colorado plains chosen and the rehearsed PA with a lie",
+      "resume": "Okafor realizes the vast, flat and empty eastern Colorado plains offer a chance of survival. At 3:04 P.M. she tells passengers about electrical failure and an emergency landing in 30 minutes, orders them to brace, and says everything will be fine, a lie even she does not believe.",
+      "mots_cles": [
+        "eastern Colorado plains",
+        "emergency landing",
+        "brace for impact",
+        "Okafor intercom",
+        "30 minutes",
+        "T+17 minutes",
+        "lie to passengers",
+        "electrical failure"
+      ],
+      "texte": "Then the answer comes. The eastern Colorado plains. It flashes through Captain Okafor’s mind. It’s vast, flat and more importantly, it’s empty. It’s the kind of terrain where a heavy aircraft with fried instruments and 150 people aboard might have a chance of survival. 3:04:00 P.M. E.T. – T+17 Minutes After flying as long as she can, Captain Okafor reaches for the intercom. She doesn’t tell the passengers about the utter devastation ripping across America. Instead, she delivers a rehearsed script. The main electrical systems have failed and they need to attempt an emergency landing. They have 30 minutes. Then she gives the commands every passenger dreads: prepare to brace for impact. Then she lies. Everything will be fine. She puts the intercom down. Even she doesn’t believe that last part."
+    },
+    {
+      "id": 19,
+      "debut": 624.48,
+      "fin": 656.64,
+      "temps_estime": false,
+      "titre": "T+43: crew prepares the cabin and the Rockies loom",
+      "resume": "At 3:30 P.M. the crew shouts emergency landing instructions: shoes off, glasses off, brace for impact. Tony grips his wedding band as the flat plains stretch below and the dark line of the Rockies approaches. The countdown reaches 3:34 P.M., T+47 minutes.",
+      "mots_cles": [
+        "emergency landing instructions",
+        "brace for impact",
+        "wedding band",
+        "Colorado plains",
+        "Rockies",
+        "T+43 minutes",
+        "T+47 minutes",
+        "crash preparation"
+      ],
+      "texte": "3:30:00 P.M. E.T. – T+43 Minutes The flight crew moves through the cabin one last time. Over the panic, they shout the instructions for the emergency landing. Shoes off, glasses off, brace for impact. Tony tightens his seatbelt and, his hands trembling, he grips his wedding band. Outside his window, the eastern Colorado plains stretch in every direction: flat, brown, and seemingly endless. But towering over the horizon, the faint dark line of the Rockies is rushing forward, getting closer with every second. 3:34:00 P.M. E.T. – T+47 Minutes"
+    },
+    {
+      "id": 20,
+      "debut": 656.64,
+      "fin": 720.88,
+      "temps_estime": false,
+      "titre": "Crash landing at 198 mph",
+      "resume": "The cabin shouts 'BRACE' and the fuselage meets the frozen earth at 198 miles per hour. Tony feels the grinding in his chest and spine as the bins shatter and the seatbelt cuts into his waist. The engines shear off, which makes the aircraft feel lighter and 'most wrong' to him.",
+      "mots_cles": [
+        "crash landing",
+        "198 mph",
+        "brace",
+        "fuselage impact",
+        "belly landing",
+        "engines shear off",
+        "seatbelt",
+        "overhead bins"
+      ],
+      "texte": "“BRACE. BRACE. BRACE.” Tony folds forward, along with everyone else on the plane. Forehead on the seat back. Arms locked over his head. Eyes shut tight. He can feel the aircraft through his shoes, through the seat, through the armrests. The whole machine is vibrating with the frequency of something moving faster than it was designed to. He counts. One. Two. Three. Four… Contact. An enormous grinding sound tears through the cabin as the heavy aluminum fuselage meets the frozen earth at 198 miles per hour (319 kph). The sound doesn’t register in his ears, it slams into his chest, his spine, his back teeth. The overhead bins shatter. Someone screams. The violent deceleration throws him forward into his seatbelt. It cuts into his waist, feeling like it could snap at any moment. He grips the armrests, knuckle-white, and grinds his teeth waiting either for the terror to stop… or for his world to go black. Neither happens. The engines hit the ground and shear off their mounts. At that point, the sound drops in pitch and the aircraft feels lighter. It’s the most wrong sensation Tony has ever felt in his life."
+    },
+    {
+      "id": 21,
+      "debut": 720.88,
+      "fin": 784.08,
+      "temps_estime": false,
+      "titre": "The rear section breaks off and burns: 34 passengers lost",
+      "resume": "The airframe twists and the rear section buckles, leaving daylight behind Tony where a bulkhead was. Between row 28 and 29 there is only sky. The rear section separated, rolled twice, and the center fuel tank ignited in a 4-second fireball that Tony felt on the back of his neck.",
+      "mots_cles": [
+        "rear section separates",
+        "row 28",
+        "center fuel tank",
+        "fireball",
+        "jagged aluminum",
+        "fuselage breaks",
+        "34 passengers",
+        "Jet-A"
+      ],
+      "texte": "Then physics catches up. The airframe twists and creaks under the immense stress of the landing. The rear section buckles and snaps. Suddenly, there is daylight behind Tony where a bulkhead used to be. The wind rushes in… then the heat comes. A wall of fire, lasting just 2 seconds, roars over him and speeds toward the front of the cabin. Then, just as soon as it arrived, it dissipates and is gone. Silence. Complete and total silence. Tony lifts his head. The seat in front of him is there. The seat behind him is there. Cold air blasts through the cabin from the wrong direction, carrying the bitter stench of Jet-A and frozen dirt. Tony grimaces as he looks back toward the rear of the aircraft. Where row 28 used to connect to row 29, there is only sky and a jagged cross-section of aluminum. The rear section separated when the jet hit the ground, rolling twice, and on the second roll the center fuel tank found what it needed: friction and heat. The fireball lasted 4 seconds. Tony felt 2 of them on the back of his neck, along with the seared memories of a few milliseconds of anguished screams."
+    },
+    {
+      "id": 22,
+      "debut": 784.08,
+      "fin": 819.6,
+      "temps_estime": false,
+      "titre": "Second Russian wave lands on Colorado Springs: 'the opening move'",
+      "resume": "Flight 1202 is missing 34 passengers when Tony sees an enormous glow on the southwestern horizon over Peterson Air Force Base, Colorado Springs and NORAD. The second wave of Russian warheads lands at the same time as the crash, and Tony understands that Chicago was just the opening move.",
+      "mots_cles": [
+        "second wave Russian warheads",
+        "Colorado Springs",
+        "Peterson Air Force Base",
+        "NORAD",
+        "glow on horizon",
+        "Colorado wheat field",
+        "opening move",
+        "34 missing"
+      ],
+      "texte": "Flight 1202 is missing 34 passengers. Dazed and confused, Tony looks out the window. On the southwestern horizon, something is building. A glow. Orange-white. Enormous. Too fast and too total to be a fire, at least not one he can describe. Peterson Air Force Base. Colorado Springs. NORAD. The second wave of Russian warheads is landing on the horizon at the same time as Flight 1202. Tony watches them bloom against the mountains and understands now, sitting shoeless in a broken aircraft in a Colorado wheat field, that what he saw over Chicago was not the end of anything. It was just the opening move."
+    },
+    {
+      "id": 23,
+      "debut": 819.6,
+      "fin": 888.8,
+      "temps_estime": false,
+      "titre": "T+49: trapped in the forward fuselage; flight attendant and doctor triage",
+      "resume": "At 3:36 P.M. 98 people are still trapped in the splayed forward fuselage and Tony, unhurt, feels guilt about the 34 who disappeared. The cabin is a wall of sound with bins burst open, while lead flight attendant Michelle and a doctor from row 7 triage row by row, finding broken wrists, concussions and lacerations.",
+      "mots_cles": [
+        "T+49 minutes",
+        "98 trapped",
+        "Michelle flight attendant",
+        "triage",
+        "doctor row 7",
+        "cabin chaos",
+        "injuries",
+        "survivor guilt"
+      ],
+      "texte": "3:36:00 P.M. E.T. – T+49 Minutes The forward fuselage of United Flight 1202 sits splayed and sheared, with its tail end torn open. Inside, 98 people are still trapped. Tony is one of them. He does a fast inventory of himself. Neck. Okay. Back. Both hands. Both feet. He’s fine, miraculously. But then a wave of guilt hits him as he thinks about the 34 people who disappeared in a fireball behind him moments earlier. Around him, the cabin is a wall of sound. People are crying, screaming and shouting. A man in row 9 prays in a language nobody recognizes. The overhead bins above rows 26 and 27 have burst open, shedding their contents across the seats below. Someone’s roller bag. A laptop. A child’s backpack. An unused neck pillow. Michelle, the lead flight attendant, is already moving. She covers the length of the cabin in 20 seconds, assessing, triaging, her voice trying to cut through the noise. A doctor in row 7 identifies herself and starts working forward from there. They meet in the middle and begin moving row by row. A broken wrist in 11C. Concussion in 15A. Lacerations across half the left side of the cabin where the overhead bins came down."
+    },
+    {
+      "id": 24,
+      "debut": 888.8,
+      "fin": 921.36,
+      "temps_estime": false,
+      "titre": "Row 17: a passenger killed by impact debris",
+      "resume": "Tony sees a man in seat 17B, still belted upright with eyes open, killed by a piece of aluminum driven through the seat back into his chest. The woman beside him is hysterical while the doctor checks him and moves on.",
+      "mots_cles": [
+        "row 17",
+        "17B",
+        "aluminum shard",
+        "fatal injury",
+        "seat back",
+        "doctor checks",
+        "hysterical passenger",
+        "crash casualties"
+      ],
+      "texte": "ThenTony looks at Row 17… and wishes he hadn’t. A man is sitting perfectly upright in 17B with his seatbelt still fastened, his eyes wide open. A piece of aluminum the length of a forearm embedded deep in his chest, driven through the seat back in front of him on impact. He’s not breathing and hasn’t been breathing since the aircraft shuddered to a stop. A dark stain of blood is seeping through his white shirt. The woman next to him in 17A is hysterical, screaming his name. The doctor from row 7 gets there, checks, and moves on without stopping."
+    },
+    {
+      "id": 25,
+      "debut": 921.36,
+      "fin": 962.72,
+      "temps_estime": false,
+      "titre": "Row 22: a lost leg, a nurse's tourniquet and a missing-fingers passenger",
+      "resume": "In row 22 a man in 22C lost his left leg below the knee to shrapnel but is in shock and not screaming. The nurse from row 18 applies his belt as a tourniquet in 45 seconds, and a woman in 23A missing three fingers does not realize it and is told to keep her arm elevated.",
+      "mots_cles": [
+        "row 22",
+        "22C",
+        "tourniquet",
+        "nurse row 18",
+        "shock",
+        "23A missing fingers",
+        "emergency medicine",
+        "shrapnel"
+      ],
+      "texte": "Row 22 is worse. When the rear section separated, the structural failure sent a shear wave through the floor, buckling the cabin. A man in 22C has lost his left leg below the knee, sliced off by a piece of aluminum shrapnel. He is conscious but he isn't screaming. The raw shock has scrambled his nervous system. The pain hasn’t caught up yet. The nurse from row 18 has his belt off and around the stump as an emergency tourniquet. It takes her all of 45 seconds. She doesn’t look up. Her hands don’t shake. She is focused on the job. A woman in 23A is missing 3 fingers on her right hand and doesn't even realize. She calmly asks if she's ok. The nurse tells her to keep the arm elevated and moves on."
+    },
+    {
+      "id": 26,
+      "debut": 962.72,
+      "fin": 995.76,
+      "temps_estime": false,
+      "titre": "Five dead in the forward section and Tony starts helping",
+      "resume": "Five people in the forward section are dead: 3 from impact forces, 1 from the aluminum shard in row 17, and 1 elderly woman in row 25 with no obvious injuries. Tony, sitting between two mushroom clouds, is snapped out of his trance by a passenger's screams and starts helping with water.",
+      "mots_cles": [
+        "five dead",
+        "row 25 elderly woman",
+        "impact forces",
+        "Tony helps",
+        "shock",
+        "water bottle",
+        "survivors",
+        "between two mushroom clouds"
+      ],
+      "texte": "5 people in the forward section are dead. 3 from impact forces. 1 from the shard of aluminum in row 17. And 1 elderly woman in row 25 who has no obvious injuries but no pulse. Suddenly Tony’s gaze locks onto a set of broad shoulders, still upright in their seat. There’s no head. Tony just stares. Saying nothing, doing nothing. The screams of the woman sitting next to the headless passenger snap Tony out of his trance. Tony doesn’t know what to do. He’s sitting between two mushroom clouds and a whole lot of carnage. IHe stands up, picks up a bottle of water, and stumbles through the cabin to help."
+    },
+    {
+      "id": 27,
+      "debut": 995.76,
+      "fin": 1034.88,
+      "temps_estime": false,
+      "titre": "Fallout danger: Michelle orders everyone to stay inside",
+      "resume": "Outside, the Colorado Springs mushroom cloud rises and the second detonation expands the EMP radius and changes the fallout map. Michelle warns passengers that the outside air is lethal, orders them not to touch the emergency exits and says they must wait as long as it takes.",
+      "mots_cles": [
+        "Colorado Springs mushroom cloud",
+        "fallout",
+        "EMP radius",
+        "lethal air",
+        "stay inside",
+        "emergency exits",
+        "Michelle",
+        "wait it out"
+      ],
+      "texte": "Outside, the Colorado Springs mushroom cloud is doing what mushroom clouds do. Rising, spreading, expanding. The second detonation means the EMP radius has expanded. It means the fallout map has changed. Anything that was still airspace above eastern Colorado 20 minutes ago is probably falling out of the sky. Tony knows none of the specifics, and doesn’t care. Michelle calls the cabin to attention again, her voice booming down the aisle. She warns the passengers that the air outside is lethal. She orders them to stay inside the cabin. No one can touch the emergency exits. The need to stay in place and wait it out. A voice from the back cracks, demanding to know how long they have to wait. As long as it takes."
+    },
+    {
+      "id": 28,
+      "debut": 1034.88,
+      "fin": 1096.32,
+      "temps_estime": false,
+      "titre": "Fallout shelter: Protection Factor and sealing the fuselage",
+      "resume": "Okafor sees the prevailing winds carrying a radioactive fallout plume from Colorado Springs toward them. An open wheat field has a Protection Factor of 1, while the aluminum skin, insulation and seat mass of the fuselage offer far better protection. Survivors seal the open rear with an escape slide, garbage bags, duct tape and clothing, and inventory 23 water bottles, 400 snack packages and 14 first class meal trays.",
+      "mots_cles": [
+        "fallout plume",
+        "Protection Factor 1",
+        "fuselage shelter",
+        "sealing the rear",
+        "duct tape and garbage bags",
+        "escape slide",
+        "water and food inventory",
+        "radioactive fallout"
+      ],
+      "texte": "Back in the cockpit, Captain Okafor is staring at the horizon. She knows the prevailing winds are carrying a toxic, radioactive fallout plume from Colorado Springs straight toward them. An open wheat field has a Protection Factor of 1. Meaning no protection at all. The aircraft's aluminum skin, insulation, seat mass, and the density of everything packed into the forward fuselage adds up to something significantly better than standing in a field. Working together, the survivors launch into a desperate survival plan. They use part of an emergency egress slide, plastic garbage bags, duct tape, and clothes from the overhead bins to seal the open rear of the aircraft. There is a patchwork of sweaters, jackets, and bridesmaid dress still in its dry-cleaning bag, and a child’s fancy dress costume that Tony doesn’t spend too long looking at. They pack every gap. They cover bare skin. They inventory the galley. There’s still 23 large bottles of water, 400 snack packages, 14 first class meal trays that never got served because the world ended before the flight attendants could hand them out. It’s enough, probably. But for how long?"
+    },
+    {
+      "id": 29,
+      "debut": 1096.32,
+      "fin": 1123.36,
+      "temps_estime": false,
+      "titre": "The 7/10 rule for radiation decay",
+      "resume": "Tony sits in the aisle of row 12 while the 7/10 rule runs outside: for every sevenfold increase in time after a nuclear blast, the radiation dose rate drops by a factor of 10. At 7 hours it is one-tenth of hour 1 and at 49 hours one-hundredth, so each hour inside favors the survivors.",
+      "mots_cles": [
+        "7/10 rule",
+        "radiation dose rate",
+        "sevenfold time",
+        "decay of fallout",
+        "7 hours",
+        "49 hours",
+        "shelter time",
+        "nuclear fallout math"
+      ],
+      "texte": "Tony sits on the floor of the aisle in row 12 with his back against the seat. He glances at the mushroom cloud on the horizon. Outside, the 7/10 rule is running whether any of the survivors know it or not. For every sevenfold increase in time after a nuclear blast, the radiation dose rate outside drops by a factor of 10. At 7 hours, it's one-tenth of what it was at hour 1. At 49 hours, one-hundredth. Every hour they stay inside this makeshift shelter, the math moves in their favor."
+    },
+    {
+      "id": 30,
+      "debut": 1123.36,
+      "fin": 1149.6,
+      "temps_estime": false,
+      "titre": "Midnight: freezing cabin without power",
+      "resume": "At midnight, T+8 hours 26 minutes, eastern Colorado drops to 18 degrees F (-7.8 C) in February. The unpowered fuselage has only 2 inches of fiberglass insulation, which slows but does not stop heat loss, and the cabin reaches 38 degrees F (3.3 C).",
+      "mots_cles": [
+        "midnight T+8 hours",
+        "18 degrees overnight",
+        "freezing cabin",
+        "fiberglass insulation",
+        "no power",
+        "heat loss",
+        "February Colorado",
+        "38 degrees"
+      ],
+      "texte": "Midnight – T+8 Hours 26 Minutes Eastern Colorado in February drops to 18 degrees (-7.8 Celsius) overnight. A commercial aircraft fuselage is designed to be pressurized and heated by systems that run on electricity. United Flight 1202 has none. The insulation in the cabin walls, just 2 inches (5 cm) of fiberglass batting behind the interior panels, slows the heat loss. But it does not stop it. By midnight the cabin temperature is 38 degrees (3.3 Celsius)"
+    },
+    {
+      "id": 31,
+      "debut": 1149.6,
+      "fin": 1185.92,
+      "temps_estime": false,
+      "titre": "Huddling like the Andes survivors; the dead remain in their seats",
+      "resume": "Passengers huddle and share body heat as the Andes plane crash survivors did in 1972, using spare clothing as insulation. The dead stay in their seats, including the man in 17B, and the 34 in the rear section lie 600 feet away under frost. The clock reads 3:00 A.M., T+11 hours 26 minutes.",
+      "mots_cles": [
+        "huddling",
+        "Andes plane crash 1972",
+        "body heat",
+        "dead remain in seats",
+        "17B",
+        "34 in rear section",
+        "frost",
+        "T+11 hours 26 minutes"
+      ],
+      "texte": "To survive the freezing dark, the passengers are forced to adapt. They huddle together, just like the Andes plane crash survivors did in 1972. They piled together, sharing their body heat, using every piece of clothing not sealing a fuselage gap as insulation. The dead, meanwhile, remain in their seats. The man in 17B is still upright, still seatbelted, still with the piece of aluminum in his chest. The 4 in the forward section are covered. The 34 in the rear section are still a mangled, charred heap 600 feet (183 meters) away, buried under the frost that’s forming on the blackened aluminium. 3:00 A.M. – T+11 Hours 26 Minutes"
+    },
+    {
+      "id": 32,
+      "debut": 1185.92,
+      "fin": 1228.16,
+      "temps_estime": false,
+      "titre": "3 A.M.: fever in 22C and Tony's sleepless thoughts",
+      "resume": "The cabin is 29 degrees F (-1.7 C) at 3 A.M. and the man in 22C runs a dangerous fever while the nurse monitors him, holding his hand. He jokes the crash will make a great best man speech for his brother's wedding. Tony cannot sleep and thinks about his wife, the man in 17B and the 34 in the field.",
+      "mots_cles": [
+        "3 A.M.",
+        "29 degrees",
+        "fever",
+        "nurse by his side",
+        "best man speech",
+        "Tony cannot sleep",
+        "wife",
+        "cold cabin"
+      ],
+      "texte": "The cabin temperature is 29 degrees (-1.7 Celsius). Tony’s breath hangs in the frozen air. The man in 22C, the one who lost his leg below the knee, is running a dangerous fever. The nurse sits with him through the night, monitoring, adjusting the tourniquet, and holding his hand. He was supposed to be flying home for his brother’s wedding and jokes the crash will make a great best man speech. The nurse smiles back and nods her head. She doesn’t have the heart to tell it’s a speech he’ll never live to make. Tony tries to sleep. It’s pointless. He drifts in and out, too cold and too uncomfortable to fully lose consciousness. He thinks about his wife. He thinks about the man in 17B. He thinks about the 34 in the field and then stops. There’s a limit to how much suffering someone can think of."
+    },
+    {
+      "id": 33,
+      "debut": 1228.16,
+      "fin": 1281.12,
+      "temps_estime": false,
+      "titre": "4 A.M.: the kindergarten teacher in 23C dies of internal bleeding",
+      "resume": "At 4 A.M., T+12 hours 26 minutes, a child cries and her mother soothes her. The nurse finds that the woman in 23C, a 58-year-old kindergarten teacher from Naperville, Illinois, has died with no visible injuries, because the impact ruptured her spleen and adrenaline masked the internal bleeding.",
+      "mots_cles": [
+        "4 A.M.",
+        "seat 23C",
+        "kindergarten teacher Naperville",
+        "ruptured spleen",
+        "internal bleeding",
+        "adrenaline masks injury",
+        "delayed death",
+        "nurse"
+      ],
+      "texte": "4:00 A.M. - T+12 Hours 26 Minutes A child 2 rows back starts crying. Her mother holds her close and whispers something soothing until the cabin falls quiet again. Sometime after 4 a.m., the nurse notices something wrong. The woman in seat 23C has stopped breathing. She's a 58 year old kindergarten teacher from Naperville, Illinois. She had helped pack clothing into the fuselage gaps, shared her blanket with the child 2 rows back, and fell asleep sometime around midnight with no visible injuries. But she was a dead woman walking. The forces of the initial impact had ruptured her spleen on contact. Internal bleeding, masked by a surge of adrenaline, did its work behind the abdominal wall. As the hours passed, blood pooled in her body cavity. Her blood pressure dropped slowly. Eventually, her brain received less and less oxygen and decided to shut down. The nurse checks her pulse twice and places a blanket over her. Then she moves on…"
+    },
+    {
+      "id": 34,
+      "debut": 1281.12,
+      "fin": 1317.28,
+      "temps_estime": false,
+      "titre": "6:50 A.M.: dawn, Michelle works on and Tony stands",
+      "resume": "At 6:50 A.M., T+15 hours 16 minutes, dawn comes gray through the condensation-filled windows. Michelle has been awake for 16 hours, the leg-injured man's fever has broken while the nurse sleeps holding his hand, and Tony stands aching and pockets a bag of crushed pretzels.",
+      "mots_cles": [
+        "6:50 A.M.",
+        "T+15 hours 16 minutes",
+        "dawn",
+        "Michelle awake 16 hours",
+        "fever broke",
+        "crushed pretzels",
+        "Tony recovers",
+        "survivors"
+      ],
+      "texte": "6:50 A.M. – T+15 Hours 16 Minutes Dawn comes gray and thin through the condensation filled windows. Michelle is already awake, doing her job. She has been on her feet for the better part of 16 hours straight with zero sleep. She checks the man missing part of his leg first. His fever broke sometime before 4 a.m. The nurse is still fast asleep in the seat beside him, still holding his hand. Tony stands up. Every muscle and bone in his body screams in agony. He knows if he makes it out of this field, it’ll take weeks to recover. He looks down at his feet and finds a bag of crushed pretzels. He picks them up and puts them in his jacket pocket."
+    },
+    {
+      "id": 35,
+      "debut": 1317.28,
+      "fin": 1376.8,
+      "temps_estime": false,
+      "titre": "T+19 hours: leaving the wreck and walking toward a farmhouse",
+      "resume": "Around 19 hours after the blast Michelle opens the forward door and survivors step out into cold air with a faint chemical tang, seeing the gray-brown stain where Colorado Springs was. The tail section site holds the 34 who died, and the survivors head east toward a vacant farmhouse 3 miles away with a well, taking one step at a time.",
+      "mots_cles": [
+        "T+19 hours",
+        "forward door",
+        "chemical tang",
+        "Colorado Springs stain",
+        "vacant farmhouse",
+        "well",
+        "survivors walk",
+        "scorched field"
+      ],
+      "texte": "Mid-Morning – T+~19 Hours Michelle opens the forward door later that day. The cold air rushes in finding every gap in Tony’s clothing immediately. It carries the stench of thawing dirt and acrid jet fuel. But underneath is a faint chemical tang. Tony tries not to think about it, remembering the glowing mushroom cloud that bloomed over the horizon the day before. The survivors stagger out onto the wing skin and down to the churned up wheat stubble. Looking down the length of the Rockies to the southwest, a gray-brown stain sits below the blue at the horizon where Colorado Springs used to be. To the north, somewhere distant, was Chicago. Tony glances back to the tail section. The field is scorched in a rough circle from the fireball, a charred resting place for the 34 people who lost their lives. The remaining passengers turn east, toward the vacant farmhouse 3 miles (4.8 km) away with the well that probably still works. Tony places a hand in his jacket pocket and feels the soft rustle of the pretzel packet. Then they all start walking. One step. Then the next."
+    },
+    {
+      "id": 36,
+      "debut": 1376.8,
+      "fin": 1387.2,
+      "temps_estime": false,
+      "titre": "Outro: trapped in your neighborhood when the bombs fall",
+      "resume": "The narrator asks what would happen if you were trapped in your neighborhood when bombs started to fall and points viewers to the video 'World War 3 - Hour by Hour in the Suburbs' to see the apocalypse unfold closer to home.",
+      "mots_cles": [
+        "outro",
+        "World War 3 Hour by Hour in the Suburbs",
+        "neighborhood",
+        "bombs falling",
+        "apocalypse",
+        "recommended video",
+        "next video",
+        "nuclear war"
+      ],
+      "texte": "What would happen if you were trapped in your neighborhood when the bombs started to fall? Watch “World War 3 - Hour by Hour in the Suburbs” to see how the apocalypse unfolds closer to home. Or click on this."
+    }
+  ]
+}
