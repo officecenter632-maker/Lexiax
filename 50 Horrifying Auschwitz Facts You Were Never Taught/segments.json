@@ -1,0 +1,908 @@
+{
+  "version": 1,
+  "video_id": "wcZ7q219JS8",
+  "titre_video": "50 Horrifying Auschwitz Facts You Were Never Taught",
+  "duree_s": 2010.03,
+  "avancement": {
+    "lignes_traitees": 445,
+    "fin_traitee_s": 1789.76,
+    "nb_lignes_total": 501,
+    "complet": false
+  },
+  "nb_segments": 47,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.16,
+      "fin": 14.48,
+      "temps_estime": false,
+      "titre": "Introduction: 50 facts about Auschwitz",
+      "resume": "The video opens with three stories it will cover: a man who volunteered to enter a Nazi death camp, women who built a bomb one pinch of gunpowder at a time, and children who played in a swimming pool near gas chambers. It announces a countdown of 50 facts about Auschwitz.",
+      "mots_cles": [
+        "Auschwitz",
+        "50 facts",
+        "Nazi death camp",
+        "volunteer prisoner",
+        "gunpowder women",
+        "children swimming pool",
+        "Holocaust",
+        "countdown"
+      ],
+      "texte": "The man who volunteered to go into a Nazi death camp… the women who built a bomb one pinch of gunpowder at a time….and the children who played in a swimming pool feet away from gas chambers. Here are 50 insane facts about Auschwitz."
+    },
+    {
+      "id": 2,
+      "debut": 14.48,
+      "fin": 62.56,
+      "temps_estime": false,
+      "titre": "Fact 50: Auschwitz was a complex of over 40 camps",
+      "resume": "Auschwitz was not a single fenced camp under the Arbeit Macht Frei gate but a complex of over 40 concentration and extermination subcamps in occupied Poland. The three main sites were Auschwitz I, Auschwitz II-Birkenau (the killing center) and Auschwitz III-Monowitz (slave labor), plus satellite camps in mines, factories and farms across Upper Silesia.",
+      "mots_cles": [
+        "Auschwitz complex",
+        "Auschwitz I",
+        "Birkenau",
+        "Monowitz",
+        "subcamps",
+        "Upper Silesia",
+        "Arbeit Macht Frei",
+        "occupied Poland"
+      ],
+      "texte": "50. When most people picture Auschwitz, they imagine a single fence and a set of iron-wrought gates with the words Arbeit Macht Frei, or “Work Makes You Free.” The reality was far more terrifying. Auschwitz was actually a massive complex of over 40 concentration and extermination subcamps spread across occupied Poland. The three main sites covered dozens of square miles. There was Auschwitz I, the original camp; Auschwitz II-Birkenau, the industrial killing center; and Auschwitz III-Monowitz, the slave labor compound. That’s before you count the satellite camps hidden inside coal mines, chemical plants, farms, and weapons factories scattered across Upper Silesia. The Nazi infrastructure for mass murder took a lot of planning, and its scale is almost impossible to fathom."
+    },
+    {
+      "id": 3,
+      "debut": 62.56,
+      "fin": 93.76,
+      "temps_estime": false,
+      "titre": "Fact 49: 1.3 million deported, 1.1 million murdered",
+      "resume": "Between 1940 and 1945 about 1.3 million people were deported to Auschwitz and about 1.1 million were murdered, equal to 220 people a day for five years. Most victims were never registered; they stepped off a train and were reduced to ashes within the hour.",
+      "mots_cles": [
+        "1.3 million deported",
+        "1.1 million murdered",
+        "220 people a day",
+        "unregistered victims",
+        "deportation trains",
+        "Auschwitz death toll",
+        "1940 to 1945",
+        "ashes"
+      ],
+      "texte": "49. Between 1940 and 1945, approximately 1.3 million people were deported to Auschwitz. About 1.1 million of them were murdered. That’s the same as killing 220 people a day for 5 straight years. Put another way, if you counted one victim per second without stopping, it would take nearly 13 full days, day and night, with no breaks to count them all. Most of the victims were never registered. They just stepped off a train, walked a few hundred yards, and were reduced to ashes within the hour."
+    },
+    {
+      "id": 4,
+      "debut": 93.76,
+      "fin": 121.52,
+      "temps_estime": false,
+      "titre": "Fact 48: Birkenau, a factory for death",
+      "resume": "Auschwitz II-Birkenau was built on drained marshland, covering over 340 acres with more than 300 barracks. Its designers included an internal railway running directly to the gas chambers so it could operate around the clock.",
+      "mots_cles": [
+        "Birkenau",
+        "extermination camp",
+        "drained marshland",
+        "340 acres",
+        "300 barracks",
+        "railway to gas chambers",
+        "factory of death",
+        "camp design"
+      ],
+      "texte": "For most of them, the camp that killed them wasn’t even the original one. 48. Auschwitz II-Birkenau, the extermination camp, was built specifically to be as large and spacious as possible. Constructed on drained marshland, it spanned over 340 acres (138 hectares) and eventually contained more than 300 barracks. Its designers built a factory for death with an internal railway line running directly to the gas chambers.. Capable of running around the clock, it became tragically efficient."
+    },
+    {
+      "id": 5,
+      "debut": 121.52,
+      "fin": 151.04,
+      "temps_estime": false,
+      "titre": "Fact 47: The first prisoners were Polish, not Jewish",
+      "resume": "When Auschwitz opened in June 1940, the first 728 prisoners were Polish political detainees, including intellectuals, resistance members and priests transported from Tarnow. The camp was built to crush Polish resistance, and the gassing of Jews began only in 1942.",
+      "mots_cles": [
+        "first prisoners",
+        "728 Polish prisoners",
+        "Tarnow",
+        "June 1940",
+        "Polish resistance",
+        "political detainees",
+        "Final Solution",
+        "1942 gassing begins"
+      ],
+      "texte": "Yet when Auschwitz opened, not a single prisoner was Jewish. 47. When the camp opened in June 1940, the first 728 prisoners were Polish political detainees. Intellectuals, resistance members, and priests all transported from a prison in Tarnow. Auschwitz was built to crush the Polish resistance. The mass murder of Jewish people in the gas chambers didn’t begin until 1942, meaning the camp was a ruthless killing machine long before the Final Solution ever arrived at its gates."
+    },
+    {
+      "id": 6,
+      "debut": 151.04,
+      "fin": 179.2,
+      "temps_estime": false,
+      "titre": "Fact 46: Zyklon B, from pesticide to killing method",
+      "resume": "Zyklon B started as a commercial pesticide used to fumigate ships, warehouses and clothing, and Auschwitz used it to delouse prisoners. Deputy commandant Karl Fritzsch decided to use it for killing on his own initiative while Commandant Rudolf Höss was away.",
+      "mots_cles": [
+        "Zyklon B",
+        "pesticide",
+        "Karl Fritzsch",
+        "Rudolf Höss",
+        "delousing",
+        "killing method",
+        "deputy commandant",
+        "Holocaust"
+      ],
+      "texte": "46. Zyklon B, the chemical that killed over a million people, started life as a commercial pesticide. Sold legally as an insecticide for fumigating ships, warehouses, and clothing, Auschwitz was using it to delouse prisoners. Then SS officer Karl Fritzsch, the camp's deputy commandant had a monstrous idea. Fritzsch acted while Camp Commandant Rudolf Höss was away. The decision that defined the Holocaust's killing method was made by a deputy on his own initiative."
+    },
+    {
+      "id": 7,
+      "debut": 179.2,
+      "fin": 207.2,
+      "temps_estime": false,
+      "titre": "Fritzsch's welcome speech and the Christmas tree",
+      "resume": "Fritzsch greeted the first transport of 728 Polish prisoners in June 1940, telling them the only way out was through the chimney and that Jews had the right to live no longer than two weeks. That Christmas he placed the bodies of prisoners who had frozen to death at roll call beneath the camp's Christmas tree.",
+      "mots_cles": [
+        "Karl Fritzsch",
+        "first transport",
+        "June 1940 speech",
+        "through the chimney",
+        "Christmas tree",
+        "frozen bodies",
+        "roll call",
+        "SS cruelty"
+      ],
+      "texte": "When Fritzsch greeted Auschwitz's first transport. Addressing the initial 728 Polish prisoners in June 1940, he told them: \"You came here not to a sanatorium, but to a German concentration camp, from which there is no other way out but through the chimney… If there are Jews in the transport, they have the right to live no longer than two weeks… the rest three months.\" That Christmas, he had placed the bodies of prisoners who had frozen to death at roll call beneath the camp's Christmas tree."
+    },
+    {
+      "id": 8,
+      "debut": 207.2,
+      "fin": 243.44,
+      "temps_estime": false,
+      "titre": "Fact 45: Block 11 starvation cell and Maximilian Kolbe",
+      "resume": "On July 29th, 1941, after three prisoners were found missing, Fritzsch sentenced 10 random men to starve in an underground cell in Block 11. When Polish sergeant Franciszek Gajowniczek cried for his family, Franciscan priest Maximilian Kolbe volunteered to take his place; after 16 days Kolbe and three others were killed by lethal injection.",
+      "mots_cles": [
+        "Block 11",
+        "Maximilian Kolbe",
+        "Franciszek Gajowniczek",
+        "starvation cell",
+        "July 29th 1941",
+        "collective punishment",
+        "Franciscan priest",
+        "lethal injection"
+      ],
+      "texte": "But Fritzsch had already shown his dark side… 45. Six weeks before Fritzsch's Zyklon B experiment, the basement of Block 11 had been the site of another atrocity. On July 29th, 1941, a headcount found three prisoners missing. So Fritzsch sentenced 10 random men to starve to death in an underground cell. One of the condemned, a Polish sergeant named Franciszek Gajowniczek, screamed for his wife and children. A Franciscan priest Maximilian Kolbe stepped forward and offered to take his place. After 16 days, Kolbe and three others were still alive. The SS killed them with lethal injection."
+    },
+    {
+      "id": 9,
+      "debut": 243.44,
+      "fin": 277.44,
+      "temps_estime": false,
+      "titre": "The first gas chamber test in Block 11",
+      "resume": "Six weeks later Fritzsch returned to the Block 11 basement with 600 Soviet prisoners of war and 250 sick inmates and dropped Zyklon B through the vents. Because the cells were not airtight the dying was slow and a second dose was needed, making the basement the first operational gas chamber and beginning the industrialization of mass murder.",
+      "mots_cles": [
+        "first gas chamber",
+        "Block 11 basement",
+        "Zyklon B experiment",
+        "600 Soviet prisoners of war",
+        "250 sick inmates",
+        "second dose",
+        "industrialization of murder",
+        "purpose-built killing wings"
+      ],
+      "texte": "Six weeks later, Fritzsch returned to the same basement with 600 Soviet prisoners of war and 250 sick inmates. He dropped Zyklon B through the vents, but because cells weren't airtight, the gas dispersed unevenly. The dying was agonizingly slow. SS personnel returned the following morning to find survivors still alive, and administered a second dose to finish the job. The basement of Block 11 had just become the world's first operational gas chamber. Within months, purpose-built killing wings were under construction. The industrialization of mass murder had officially begun."
+    },
+    {
+      "id": 10,
+      "debut": 277.44,
+      "fin": 304.8,
+      "temps_estime": false,
+      "titre": "Fact 44: Tattooed prisoner numbers",
+      "resume": "Starting in 1942 every Auschwitz prisoner was tattooed with a number on the left forearm, unlike the paper records of most camps. Over 400,000 people were branded; Jewish prisoners arriving after May 1944 got an A or B and Roma prisoners a Z.",
+      "mots_cles": [
+        "prisoner tattoos",
+        "left forearm",
+        "400,000 tattooed",
+        "A and B tattoo",
+        "Z tattoo Roma",
+        "1942",
+        "prisoner numbers",
+        "permanent scar"
+      ],
+      "texte": "44. Most Nazi camps used paper records for their prisoners. Auschwitz used flesh. Starting in 1942, every prisoner received a number tattooed directly onto their left forearm. Over 400,000 people were branded this way. Jewish prisoners arriving after May 1944 were given an \"A\" or \"B\" tattoo. Roma prisoners got a \"Z.\" For those who survived the horrors, that ink became a permanent scar. A lifelong reminder of what had been done to them."
+    },
+    {
+      "id": 11,
+      "debut": 304.8,
+      "fin": 340.4,
+      "temps_estime": false,
+      "titre": "Fact 43: The upside-down B in Arbeit Macht Frei",
+      "resume": "The Arbeit Macht Frei sign was forged by Polish prisoner blacksmiths under SS orders, led by Jan Liwacz. They turned the letter B in ARBEIT upside down as a hidden act of defiance that the SS never noticed, making it an enduring symbol of resistance.",
+      "mots_cles": [
+        "Arbeit Macht Frei",
+        "upside-down B",
+        "Jan Liwacz",
+        "prisoner blacksmiths",
+        "resistance symbol",
+        "camp gate sign",
+        "hidden defiance",
+        "Auschwitz I"
+      ],
+      "texte": "But of all the symbols at Auschwitz, the most famous one contains a secret most people don’t know about. 43. “ARBEIT MACHT FREI”... work sets you free. The infamous sign above Auschwitz was forged by Polish prisoner blacksmiths under orders from the SS. But the prisoners, led by Jan Liwacz, were determined to leave their own mark. The men turned the letter “B” in ARBEIT upside down as a literal middle finger to the Nazis. The SS, never noticed. The upside-down B has remained one of the most enduring symbols of resistance in the camp’s history. And it wasn't the only time someone would mess with the sign."
+    },
+    {
+      "id": 12,
+      "debut": 340.4,
+      "fin": 373.6,
+      "temps_estime": false,
+      "titre": "Fact 42: The theft of the Auschwitz sign in 2009",
+      "resume": "In December 2009 the original 95-pound Arbeit Macht Frei sign was stolen from the Auschwitz Museum gate, prompting a manhunt across Poland. Police found it cut into three pieces in a forest three days later; the mastermind was Swedish neo-Nazi Anders Högestrom, who was sentenced to almost three years, and the original is now kept inside the museum with a replica on the gate.",
+      "mots_cles": [
+        "sign theft 2009",
+        "Auschwitz Museum",
+        "Anders Högestrom",
+        "Swedish neo-Nazi",
+        "manhunt",
+        "sign cut in three",
+        "replica",
+        "December 2009"
+      ],
+      "texte": "42. In December 2009, staff at the Auschwitz Museum made a shocking discovery. The original gate, complete with its 95-pound (43 kg) iron sign, was gone. Thieves had broken in under the cover of darkness and unscrewed it from its hinges. A manhunt was launched across Poland. 3 days later, police found the sign, cut into three pieces, hidden in a forest in the north of the country. The mastermind was a Swedish neo-Nazi named Anders Högestrom, who was later sentenced to almost 3 years in prison. The original sign sits inside the museum for safekeeping, while a replica hangs on the gate."
+    },
+    {
+      "id": 13,
+      "debut": 373.6,
+      "fin": 405.04,
+      "temps_estime": false,
+      "titre": "Fact 41: The 700-calorie starvation diet",
+      "resume": "Prisoners received about 700 calories a day while doing brutal labor, less than a third of what an adult needs: coffee in the morning, watery soup from rotting vegetables at lunch and a crust of bread with margarine at night. The average prisoner's life expectancy was a matter of weeks.",
+      "mots_cles": [
+        "700 calories",
+        "prisoner rations",
+        "starvation diet",
+        "forced labor",
+        "life expectancy",
+        "watery soup",
+        "bread and margarine",
+        "worked to death"
+      ],
+      "texte": "41. The Nazis designed a diet meant to work prisoners to death. Inmates were given a meager 700 calories per day while performing brutal physical labor. That’s less than a third of what a typical adult needs. A typical day's rations could be a bitter cup of coffee in the morning. Lunch was a watery bowl of soup made from rotting vegetables or scraps of meal. Dinner was a small crust of bread with a scrape of margarine at night. On this diet, the average prisoner's life expectancy was a matter of weeks. And if the food didn’t break you, the weather would finish the job."
+    },
+    {
+      "id": 14,
+      "debut": 405.04,
+      "fin": 431.84,
+      "temps_estime": false,
+      "titre": "Fact 40: Appell, the daily roll call",
+      "resume": "Twice a day prisoners endured Appell, a roll call starting at 4 a.m. in thin uniforms in the freezing Polish winter. If the numbers did not add up, everyone stood for hours, those who collapsed were beaten and dead prisoners were propped up and counted.",
+      "mots_cles": [
+        "Appell",
+        "roll call",
+        "4 a.m.",
+        "psychological torture",
+        "freezing winter",
+        "thin striped uniforms",
+        "propped up bodies",
+        "beatings"
+      ],
+      "texte": "40. Twice a day, prisoners faced a living nightmare known as Appell, the mandatory roll call. It was weaponized psychological torture disguised as beaurocracy. Beginning at 4 a.m., thousands of prisoners in thin striped uniforms were forced to stand in the freezing Polish winter. If the numbers didn’t add up, the entire camp stood there until it was resolved. It could last for hours. Anyone who collapsed from the cold or exhaustion was mercilessly beaten. And if a prisoner died during roll call? Their bodies were propped up and counted all the same."
+    },
+    {
+      "id": 15,
+      "debut": 431.84,
+      "fin": 459.92,
+      "temps_estime": false,
+      "titre": "Fact 39: The shadow economy inside the camp",
+      "resume": "Prisoners traded bread, cigarettes, margarine and medicine as an informal currency. Survival could depend on work assignment, since those in the warehouses could smuggle out extra food and valuables, and navigating the underground economy was as important as any other skill.",
+      "mots_cles": [
+        "shadow economy",
+        "black market",
+        "bread cigarettes margarine",
+        "informal currency",
+        "work assignment",
+        "warehouse smuggling",
+        "survival",
+        "underground"
+      ],
+      "texte": "Despite everything, a shadow economy operated inside Auschwitz. 39. Prisoners inside the camp would trade bread, cigarettes, margarine, and medicine as an illegal, informal currency. Survival could depend on the inmate's work assignment. Those lucky enough to work in the warehouses could smuggle out extra food and valuables. For many prisoners, learning to navigate the underground was just as important as any other skill. And the center of it all, was a warehouse complex with the most unlikely name."
+    },
+    {
+      "id": 16,
+      "debut": 459.92,
+      "fin": 495.44,
+      "temps_estime": false,
+      "titre": "Fact 38: Kanada, the warehouse of stolen belongings",
+      "resume": "Prisoners called the complex where victims' confiscated belongings were stored Kanada, since Eastern European Jews associated Canada with abundance. Its 30 barracks were stuffed with clothing, jewelry, food, medicine, money and toys, which the Nazis shipped back to Germany for civilian families; working there was the most coveted assignment.",
+      "mots_cles": [
+        "Kanada",
+        "Canada warehouses",
+        "confiscated belongings",
+        "30 barracks",
+        "stolen goods",
+        "shipped to Germany",
+        "coveted work assignment",
+        "Auschwitz"
+      ],
+      "texte": "38. Prisoners called the massive complex where victims’ confiscated belongings were Kanada. Eastern European Jews associated Canada with wealth, abundance, and a land of plenty. And Kanada was, by Auschwitz standards, obscenely abundant. 30 barracks stuffed floor to ceiling with items like clothing, jewelry, food, medicine, money, and children’s toys. Every item belonged to the thousands who arrived at the camp on trains. The Nazis sorted it all and shipped it back to Germany for redistribution to civilian families. Working here was the most coveted assignment in the camp. It was the one place that could keep you alive."
+    },
+    {
+      "id": 17,
+      "debut": 495.44,
+      "fin": 542.48,
+      "temps_estime": false,
+      "titre": "Fact 37: What the Soviets found on January 27th, 1945",
+      "resume": "Soviet troops entering Auschwitz on January 27th, 1945 found hundreds of thousands of clothes, shoes and eyeglasses, thousands of pounds of human hair packed in bales for felt and rope, and hundreds of prosthetic limbs stacked like lumber. The Nazis had fled in panic, leaving the evidence behind.",
+      "mots_cles": [
+        "liberation of Auschwitz",
+        "January 27th 1945",
+        "Soviet troops",
+        "human hair bales",
+        "prosthetic limbs",
+        "shoes and eyeglasses",
+        "evidence of crimes",
+        "crime scene"
+      ],
+      "texte": "37. On January 27th, 1945, Soviet troops marched into Auschwitz… and openly wept. The Nazis had fled in such a panic, they had left behind the staggering evidence of their crimes. Inside the camp’s warehouses, soldiers found hundreds of thousands of clothes, shoes and eyeglasses. Alongside those items, was something even more disturbing. Thousands of pounds of human hair, shaved from prisoners before they were gassed. The hair was packed into bales, ready to be shipped back to Germany, where it would be used to make felt, rope, and fabric. Most haunting of all were the hundreds of prosthetic limbs stacked in piles like lumber. They belonged to the disabled victims who were taken to the gas chambers the moment they stepped off the trains. The Soviets had walked into one of the greatest crime scenes in human history."
+    },
+    {
+      "id": 18,
+      "debut": 542.48,
+      "fin": 578.32,
+      "temps_estime": false,
+      "titre": "Fact 36: The deportation of Hungarian Jews",
+      "resume": "Between May and July 1944 about 420,000 Hungarian Jews were deported to Auschwitz, one of the largest national deportations of the Holocaust. SS doctors selected left or right on arrival, sending roughly 75%, about 330,000 people, to be gassed unregistered, and by late July nearly all Jews outside Budapest were gone.",
+      "mots_cles": [
+        "Hungarian Jews",
+        "420,000 deported",
+        "May to July 1944",
+        "selection left or right",
+        "330,000 gassed",
+        "SS doctors",
+        "Budapest",
+        "mass deportation"
+      ],
+      "texte": "36. Between May and July of 1944, 420,000 Hungarian Jews were deported to Auschwitz. It was one of the largest national deportations of the entire Holocaust. Upon arrival, SS doctors would walk the line of exhausted, disoriented prisoners and flick their finger left or right. Left meant the gas chamber. Right, slave labor. Roughly 75% or 330,000 people were sent left. They were gassed and cremated without ever being registered as prisoners. By late July 1944, nearly the entire Jewish population outside of Budapest had been eradicated or removed."
+    },
+    {
+      "id": 19,
+      "debut": 578.32,
+      "fin": 606.72,
+      "temps_estime": false,
+      "titre": "Fact 35: Mengele and the selection ramp",
+      "resume": "Josef Mengele is the SS doctor most associated with selections, though any SS doctor on duty could perform them as a morning routine. Mengele arrived on the ramp immaculately dressed, sometimes whistling opera, and sent children under 14, the elderly, pregnant women and mothers with young children to their deaths.",
+      "mots_cles": [
+        "Josef Mengele",
+        "selection ramp",
+        "SS doctors",
+        "whistling opera",
+        "children under 14",
+        "pregnant women",
+        "sent left",
+        "Auschwitz selections"
+      ],
+      "texte": "35. SS doctor Josef Mengele is the man most associated with the selection processes. But any SS doctor on duty could perform the tasks. For many of them, it was just part of the morning routine. Mengele would arrive on the ramp immaculately dressed, sometimes whistling opera as he worked. With a flick of his hand, he sent thousands of people to their deaths. Children under 14, the elderly, pregnant women, and mothers with young children almost always went left. They were dead before the day was over."
+    },
+    {
+      "id": 20,
+      "debut": 606.72,
+      "fin": 647.52,
+      "temps_estime": false,
+      "titre": "Fact 34: 12,000 people murdered per day at the peak",
+      "resume": "At the peak of the deportations trains arrived around the clock and the SS killed around 12,000 people a day, one life every 7 seconds. The crematoria could not keep up, and victims were told they had to be disinfected, made to strip outside and herded through the doors.",
+      "mots_cles": [
+        "12,000 per day",
+        "one life every 7 seconds",
+        "peak deportations",
+        "trains around the clock",
+        "crematoria overwhelmed",
+        "disinfection lie",
+        "stripped outside",
+        "mass murder pace"
+      ],
+      "texte": "At the absolute peak of those deportations, the pace of what came next was something almost indescribable. 34. At its peak, trains were arriving at Auschwitz around the clock, unloading thousands of people at a time. The SS scaled up the operation until they were processing and murdering around 12,000 people every single day. A life was ending every 7 seconds. The system became so efficient, the crematoria couldn't keep up. Those too sick or frail to walk were loaded onto trucks. Everyone else marched. They were told they were being taken to the camp, but had to undergo disinfection first. They were forced to strip outside before being herded through the doors. And one they slammed shut, the living nightmare intensified."
+    },
+    {
+      "id": 21,
+      "debut": 647.52,
+      "fin": 690.0,
+      "temps_estime": false,
+      "titre": "Fact 33: Burning pits and the grinding of bones",
+      "resume": "Birkenau's four crematoria complexes could handle over 4,000 bodies per day, not enough during the Hungarian deportations, so the SS forced prisoners to dig six burning pits near Crematorium V and reopen old pits in the woods. The Sonderkommando ground remaining bone fragments with pestles, and the powder was dumped in the Soła and Vistula rivers, spread as fertilizer and used as landfill.",
+      "mots_cles": [
+        "crematoria",
+        "4,000 bodies per day",
+        "burning pits",
+        "Crematorium V",
+        "Sonderkommando",
+        "ground bones",
+        "Soła and Vistula rivers",
+        "Hungarian deportations"
+      ],
+      "texte": "33. Auschwitz Birkenau had 4 massive crematoria complexes with a combined capacity of over 4,000 bodies per day. But during the peak of the Hungarian deportations, that wasn’t even close to enough to handle the volume. The SS forced prisoners to dig 6 enormous burning pits right next to Crematorium V and reopened old pits in the nearby woods. The skies above the camp were filled with endless smoke, but burning alone didn't erase the dead completely. Bones survived the flames. So the Sonderkommando ground the remaining fragments into powder using pestles. That powder was dumped into the Soła and Vistula rivers, scattered across fields as agricultural fertilizer, and used as landfill."
+    },
+    {
+      "id": 22,
+      "debut": 690.0,
+      "fin": 731.52,
+      "temps_estime": false,
+      "titre": "Fact 32: The fake showers and the gas chamber deception",
+      "resume": "Victims were stripped and led into a large tiled room with metal showerheads in the ceiling, and SS men in gas masks poured Zyklon B crystals through vents. The showerheads were never connected to plumbing and existed only to prevent panic for the roughly 15 minutes of killing; the Sonderkommando then cut women's hair, extracted gold dental work and sent bodies to the furnaces.",
+      "mots_cles": [
+        "fake showers",
+        "gas chamber deception",
+        "Zyklon B crystals",
+        "Sonderkommando",
+        "gold dental work",
+        "15 minutes",
+        "disinfection pretext",
+        "Birkenau"
+      ],
+      "texte": "But the stripping of human identity began long before anyone reached the crematorium. 32. The machinery of deception at Auschwitz-Birkenau was meticulous. After victims were stripped, they were walked into a large tiled room fitted with metal showerheads mounted in the ceiling. The doors locked behind them. Then, through vents above, SS men in gas masks poured in crystallized Zyklon B. After death, the Sonderkommando dragged out the bodies, cut the women's hair, extracted all gold dental work and jewelry, and sent the remains to the furnaces. The fake showerheads were never connected to any plumbing. They existed only to prevent panic for the 15 minutes or so it took to kill everyone inside."
+    },
+    {
+      "id": 23,
+      "debut": 731.52,
+      "fin": 788.72,
+      "temps_estime": false,
+      "titre": "Fact 31: Witold Pilecki volunteers for Auschwitz",
+      "resume": "In 1940 Polish resistance Captain Witold Pilecki deliberately got himself caught in a Warsaw street roundup to infiltrate Auschwitz, build an underground network and smuggle out reports. He organized a secret prisoner network and sabotage for two and a half years, then escaped in April 1943 by arranging a night shift at the camp bakery, cutting phone and alarm lines and locking the SS men inside.",
+      "mots_cles": [
+        "Witold Pilecki",
+        "volunteer prisoner",
+        "Warsaw roundup",
+        "underground resistance",
+        "intelligence reports",
+        "escape April 1943",
+        "camp bakery",
+        "Polish resistance"
+      ],
+      "texte": "Incredibly, despite the horrors of Auschwitz, one man decided to voluntarily walk straight into it. 31. In 1940, Polish resistance fighter Captain Witold Pilecki was swept up in a street roundup in Warsaw… deliberately. His mission was to infiltrate the Auschwirtz, build an underground resistance, and smuggle intelligence reports to the outside world. And he did exactly that…for 2 and a half years. He organized a secret prisoner network, sabotaged facilities, and sent out detailed reports describing the mass murders taking place. His escape in April 1943, was straight out of a thriller. He arranged a night shift at the camp bakery around a mile (1.6 km) outside the perimeter and cut the phone and alarm lines while the guards slept. He then used a bump key to force the door open, barricaded the SS men inside and slipped into the darkness. What happened to him after the war is one of the most heartbreaking twists in this entire story. But the information he provided was vital."
+    },
+    {
+      "id": 24,
+      "debut": 788.72,
+      "fin": 816.56,
+      "temps_estime": false,
+      "titre": "Fact 30: Pilecki's reports and Allied inaction",
+      "resume": "By March 1941 Pilecki's reports on the gas chambers and daily murders reached the Polish government-in-exile in London and the Allies, becoming the principal Western intelligence on Auschwitz-Birkenau. Allied leaders dismissed them as exaggerations, which remains one of the most debated moral failures of the Second World War.",
+      "mots_cles": [
+        "Pilecki reports",
+        "Polish government-in-exile",
+        "Allied intelligence",
+        "reports dismissed",
+        "exaggerations",
+        "moral failure",
+        "gas chambers",
+        "World War II"
+      ],
+      "texte": "30. By March 1941, Pilecki's reports of the gas chambers, the daily murders, and the scale of the operation were being forwarded to the Polish government-in-exile in London and the British and other Allied governments. They became the principal source of Western Allied intelligence on Auschwitz-Birkenau. But Allied leadership dismissed them as exaggerations. They just could accept that what Pilecki was describing was true. The inability to act remains one of the most debated moral failures of the Second World War."
+    },
+    {
+      "id": 25,
+      "debut": 816.56,
+      "fin": 885.6,
+      "temps_estime": false,
+      "titre": "Fact 29: The Vrba-Wetzler escape and report",
+      "resume": "On April 7, 1944, Slovak Jewish prisoners Rudolf Vrba and Alfred Wetzler escaped by hiding in a hollowed wood pile, masking their scent with petrol-soaked tobacco against 200 Alsatian dogs, then marching 11 days to Slovakia. Their 32-page report with maps and gas chamber diagrams is credited with helping prevent the deportation of an additional 200,000 Hungarian Jews.",
+      "mots_cles": [
+        "Rudolf Vrba",
+        "Alfred Wetzler",
+        "April 7 1944",
+        "Vrba-Wetzler Report",
+        "escape",
+        "Alsatian dogs",
+        "200,000 Hungarian Jews",
+        "32-page report"
+      ],
+      "texte": "But not every intelligence report out of Auschwitz was ignored. Two men who barely made it out with their lives wrote something that changed history. 29. On April 7, 1944, Slovak Jewish prisoners Rudolf Vrba and Alfred Wetzler executed one of the most daring escapes in the history of the Holocaust. With the help of the camp underground, they crawled inside a hollowed-out cavity hidden in a wood pile. But they weren’t safe. To mask their scent from the camp’s 200 trained Alsatian search dogs, they soaked tobacco in petrol and scattered it around their hiding spot. They stayed there for 3 full days while SS teams hunted for them. After the search was called off, they slipped out and marched for 11 days through enemy territory. They covered 80 miles (129 km) in total, eventually reaching Slovakia. When they arrived, they dictated a 32-page report with detailed maps, gas chamber diagrams, and an estimated death toll of 1.75 million. The Vrba-Wetzler Report is credited with helping to prevent the deportation of an additional 200,000 Hungarian Jews. And the man responsible for the selections that report was trying to stop? He was still at work on the arrival ramp when Vrba and Wetzler were writing it."
+    },
+    {
+      "id": 26,
+      "debut": 885.6,
+      "fin": 931.44,
+      "temps_estime": false,
+      "titre": "Fact 28: Mengele's twin experiments",
+      "resume": "Mengele was obsessed with twins, believing their genetics held the secret to growing the Aryan race; up to 1,500 twins were taken to his barracks. He injected them with substances to change eye color, infected them with diseases and sewed siblings together, and prisoner doctor Miklós Nyiszli testified he killed 14 twins in one night with chloroform injections for simultaneous autopsies.",
+      "mots_cles": [
+        "Mengele twins",
+        "twin experiments",
+        "1,500 twins",
+        "Miklós Nyiszli",
+        "chloroform injections",
+        "Angel of Death",
+        "human experiments",
+        "artificial conjoined twins"
+      ],
+      "texte": "28. Josef Mengele harbored an obsessive, sadistic fixation on twins, believing their genetics held the secret to rapidly growing the Aryan race. Up to 1,500 twins were pulled from the selection line, spared the gas chambers, and sent to Mengele's special barracks. There, he injected them with unknown substances in attempts to change their eye color. He deliberately infected them with diseases. And surgical sewed siblings together to create artificial conjoined twins. Prisoner doctor Miklós Nyiszli later testified that on one occasion, Mengele personally killed 14 twins in a single night by injecting chloroform directly into their hearts, just so he could conduct simultaneous autopsies the next morning. He called the twins his \"children.\" Survivors called him the Angel of Death."
+    },
+    {
+      "id": 27,
+      "debut": 931.44,
+      "fin": 969.44,
+      "temps_estime": false,
+      "titre": "Fact 27: Mengele's escape and death in Brazil",
+      "resume": "As Nazi Germany collapsed Mengele slipped through Allied lines on forged papers, worked as a farmhand in Bavaria and fled to Argentina in 1949 via the Nazi ratlines, later moving to Paraguay and Brazil. He was never captured and drowned after a stroke near São Paulo in 1979; his bones were identified in 1985.",
+      "mots_cles": [
+        "Mengele escape",
+        "ratlines",
+        "Argentina 1949",
+        "Paraguay",
+        "Brazil",
+        "drowned 1979",
+        "never captured",
+        "bones identified 1985"
+      ],
+      "texte": "27. As Nazi Germany collapsed, Mengele slipped through Allied lines on forged papers. He worked as a farmhand in Bavaria, before fleeing to Argentina in 1949 via the infamous Nazi “ratlines.” He later moved to Paraguay, then Brazil, where he lived among other Nazi exiles. Despite being one of the most wanted war criminals in the world, he was never captured. He drowned after having a stroke while swimming near São Paulo in 1979, at the age of 67. He was seemingly free, unrepentant, and never spent a single day in a courtroom. His bones were exhumed and forensically identified in 1985. Sadly, justice never found him."
+    },
+    {
+      "id": 28,
+      "debut": 969.44,
+      "fin": 1013.6,
+      "temps_estime": false,
+      "titre": "Fact 26: Rudolf Höss's family villa beside the camp",
+      "resume": "Commandant Rudolf Höss, who oversaw the murder of over a million people, went home to House Number 88, a villa sharing a garden wall with the camp perimeter. His family had gardens, a greenhouse, a sauna and a swimming pool, his wife Hedwig called it their paradise, and a tunnel connected the villa basement to his camp office.",
+      "mots_cles": [
+        "Rudolf Höss",
+        "House Number 88",
+        "Hedwig Höss",
+        "family villa",
+        "swimming pool",
+        "garden wall",
+        "tunnel to office",
+        "commandant"
+      ],
+      "texte": "26. Rudolf Höss, the man who helped design the gas chambers of Auschwitz, oversaw the murder of over a million people. Every night he went home to House Number 88, a comfortable villa that shared a garden wall with the camp perimeter. The family built gardens, walking paths, a greenhouse, a sauna, and a swimming pool on site. Hedwig Höss, his wife, called it their family \"paradise.\" There the Höss children swam, paddled on the river, and adored the man they knew as a loving father. And to make the commute between that family life and his murderous profession as easy as possible, Höss had a tunnel built connecting the basement of the villa directly to his office at the camp. When he was eventually transferred to a desk job in Berlin, Hedwig refused to leave. She stayed in the house with the children until the end of the war."
+    },
+    {
+      "id": 29,
+      "debut": 1013.6,
+      "fin": 1055.92,
+      "temps_estime": false,
+      "titre": "Fact 25: Höss's Nuremberg testimony and farewell letter",
+      "resume": "At Nuremberg Höss testified about the superiority of Zyklon B over carbon monoxide and the screaming that told him people had died. In a letter to his wife written days before his execution he called himself the greatest destroyer of human beings yet also gentle and good natured, told her to change the family name and enclosed his wedding ring.",
+      "mots_cles": [
+        "Rudolf Höss",
+        "Nuremberg testimony",
+        "Zyklon B superiority",
+        "letter to wife",
+        "greatest destroyer of human beings",
+        "remorse",
+        "wedding ring",
+        "execution"
+      ],
+      "texte": "25. At Nuremberg, Rudolf Höss’s testimony was chilling. He spoke about the superiority of Zyklon B over carbon monoxide, the advantages of Auschwitz over other facilities, and the screaming that told him when people in the gas chambers had died. But in the letter he wrote to his wife from his Polish prison cell days before execution, something changed. He called himself “the greatest destroyer of human beings who carried out every order to exterminate people no matter what”. In the very same paragraph, he insisted that he was “by nature gentle, good natured, and very helpful.” Höss told his wife to change the family name, which had been disgraced and enclosed his wedding ring. Whether he felt genuine remorse or it was an elaborate excuse remains unknown."
+    },
+    {
+      "id": 30,
+      "debut": 1055.92,
+      "fin": 1102.48,
+      "temps_estime": false,
+      "titre": "Fact 24: Höss's capture and hanging at Auschwitz",
+      "resume": "After the war Höss worked about a year as a gardener under the name Franz Lang until Jewish Nazi hunter Hanns Alexander tracked him down, noticing his wedding ring engraved with his real name. Höss testified he oversaw at least 2.5 million deaths and was hanged on April 16th, 1947 on a gallows beside the gas chamber and crematorium at Auschwitz I.",
+      "mots_cles": [
+        "Rudolf Höss capture",
+        "Franz Lang",
+        "Hanns Alexander",
+        "Nazi hunter",
+        "wedding ring",
+        "hanged April 16 1947",
+        "2.5 million deaths",
+        "Auschwitz I gallows"
+      ],
+      "texte": "Before he wrote that letter, of course, he had to be found. 24. After the war, Höss spent almost a year working as a gardener in Schleswig-Holstein under the name \"Franz Lang”. But somehow, a German-Jewish Nazi hunter named Hanns Alexander tracked him down. Höss denied everything, but Alexander noticed his wedding ring, and threatened to cut off his finger if he didn't remove it. Engraved inside was Höss's real name. As soldiers confirmed the identification, they beat Höss with axe handles. He also tried to bite down on a cyanide capsule. Neither worked. At Nuremberg, he testified that he had personally overseen the deaths of at least 2.5 million people. On April 16th, 1947, a gallows was built directly beside the gas chamber and crematorium at Auschwitz I and, fittingly, he was hanged there."
+    },
+    {
+      "id": 31,
+      "debut": 1102.48,
+      "fin": 1135.36,
+      "temps_estime": false,
+      "titre": "Fact 23: Most SS personnel were never tried",
+      "resume": "About 7,000 to 8,000 SS men and over 200 female guards served at Auschwitz, but only around 673 were tried after the war. The rest melted into postwar German society as teachers, policemen and businessmen, drew pensions and died of old age, which historians call one of the great scandals of postwar history.",
+      "mots_cles": [
+        "SS personnel",
+        "7,000 to 8,000 SS men",
+        "female guards",
+        "673 tried",
+        "postwar scandal",
+        "impunity",
+        "Auschwitz trials",
+        "pensions"
+      ],
+      "texte": "But Höss's capture and execution was the exception 23. Over the course of Auschwitz’s operation, approximately 7,000-8,000 SS men and over 200 female guards served within the camp complex. After the war, around 673 SS personnel from Auschwitz were brought to trial. The rest melted back into ordinary postwar German society. They became teachers, policemen, and businessmen, raised families, drew pensions, and died of old age. Historians have called this one of the great scandals of postwar history, and it's hard to argue with them."
+    },
+    {
+      "id": 32,
+      "debut": 1135.36,
+      "fin": 1190.0,
+      "temps_estime": false,
+      "titre": "Fact 22: IG Farben and slave labor at Auschwitz",
+      "resume": "The chemical conglomerate IG Farben, whose divisions include BASF and Bayer, built a synthetic rubber and oil plant next to Auschwitz to exploit prisoner slave labor, paying the SS a daily rate per worker. Weak prisoners were returned to the SS and gassed; by 1943 almost half of its 330,000 workers were slave laborers, including 30,000 Auschwitz prisoners, and over 25,000 died on the construction site.",
+      "mots_cles": [
+        "IG Farben",
+        "slave labor",
+        "BASF",
+        "Bayer",
+        "synthetic rubber plant",
+        "Monowitz",
+        "daily rate to SS",
+        "corporate complicity"
+      ],
+      "texte": "The horrors of Auschwitz weren’t just funded by ideology. They were also propped up by corporate greed. 22. German companies, including a few you probably know, literally paid for slave labor at Auschwitz. The main culprit was IG Farben, a massive German chemical conglomerate whose divisions include household names like BASF and Bayer. The corporation built a massive synthetic rubber and oil plant right next to Auschwitz. Just to exploit prisoner slave labor. IG Farben paid the SS a daily rate in exchange for a supply of workers, with the price varying depending on their skills or age. When prisoners became too weak to work, IG Farben returned them to the SS, who gassed them. By 1943, almost half of IG Farben's 330,000-strong workforce consisted of slave laborers and conscripts including 30,000 Auschwitz prisoners. Over 25,000 people died on the plant’s construction site alone."
+    },
+    {
+      "id": 33,
+      "debut": 1190.0,
+      "fin": 1246.4,
+      "temps_estime": false,
+      "titre": "Fact 21: Bayer's drug experiments on prisoners",
+      "resume": "Auschwitz physician and SS captain Helmuth Vetter, a Bayer employee, tested drugs on inmates; Bayer paid 170 reichsmarks each for 150 women to test an anesthetic and asked for more after they died. Bayer also supplied chemicals for Mengele's twin experiments, including on Eva Mozes Kor and her sister Miriam, and continues to operate today.",
+      "mots_cles": [
+        "Bayer",
+        "Helmuth Vetter",
+        "drug experiments",
+        "170 reichsmarks",
+        "anesthetic test",
+        "Eva Mozes Kor",
+        "Miriam Mozes",
+        "corporate accountability"
+      ],
+      "texte": "But the company's pharmaceutical division, which eventually became Bayer, went further than just exploiting free labor. 21. Helmuth Vetter, an Auschwitz camp physician, SS captain, and Bayer employee, conducted drug experiments on inmates. In one study, Bayer paid 170 reichsmarks per person for 150 female prisoners to test an anesthetic. A Bayer employee wrote to Commandant Höss: \"The… women arrived in good condition. However, we were unable to obtain conclusive results because they died during the experiments. We would kindly request that you send us another group of women… at the same price.\" Bayer also provided the chemicals and disease agents used in Mengele's twin experiments. Eva Mozes Kor and her twin sister Miriam were among those subjected to experiments. Miriam's kidneys were permanently damaged and never grew to normal adult size. She died of kidney disease in 1993. Bayer continued operating after the war and today generates tens of billions of dollars in annual revenue."
+    },
+    {
+      "id": 34,
+      "debut": 1246.4,
+      "fin": 1294.32,
+      "temps_estime": false,
+      "titre": "Fact 20: Roza Robota and the smuggled gunpowder",
+      "resume": "The Sonderkommando units were killed every 3 or 4 months and replaced, so the 12th Sonderkommando decided to strike back in 1944. Led by 21-year-old Roza Robota, Jewish women in a munitions factory smuggled gunpowder in their uniforms over 18 months to make crude bombs in sardine tins.",
+      "mots_cles": [
+        "Sonderkommando",
+        "Roza Robota",
+        "gunpowder smuggling",
+        "munitions factory",
+        "sardine tin bombs",
+        "12th Sonderkommando",
+        "scheduled extinction",
+        "resistance"
+      ],
+      "texte": "20. The Sonderkommando units at Auschwitz operated under a policy of scheduled extinction. After 3 or 4 months of labor, the SS would kill the entire unit and replace them with new arrivals. Knowing the end was coming, the 12th Sonderkommando, the group operating in 1944, decided to strike back. A group of Jewish women working in a camp munitions factory began smuggling in the only thing they could. Gunpowder. Led by 21 year old Roza Robota, the women smuggled tiny amounts of gunpowder inside their uniforms. They passed the packages to male prisoners who hid them under corpses during transport. After a long and agonizing 18 months, they had enough to fill sardine tins and make crude bombs. They knew that if they were ever discovered, it would mean immediate death. They did it anyway. Then came the day the Sonderkommando used them."
+    },
+    {
+      "id": 35,
+      "debut": 1294.32,
+      "fin": 1337.92,
+      "temps_estime": false,
+      "titre": "Fact 19: The Sonderkommando revolt of October 7, 1944",
+      "resume": "On October 7, 1944 the 12th Sonderkommando learned the SS had come to execute them and revolted, blowing up Crematorium IV with the sardine-tin bombs and attacking guards with axes and hammers. The SS responded with machine guns and executions, killing 450 prisoners that day, but Crematorium IV never operated again.",
+      "mots_cles": [
+        "Sonderkommando revolt",
+        "October 7 1944",
+        "Crematorium IV",
+        "450 prisoners killed",
+        "uprising",
+        "electrified fence",
+        "SS retaliation",
+        "resistance"
+      ],
+      "texte": "19. On October 7, 1944, the 12th Sonderkommando received word that the SS had come to execute them. Instead, they revolted. Prisoners detonated the sardine tin bombs at Crematorium IV, and tore the building apart with axes, hammers, and knives. At Crematorium II, prisoners sliced through the electrified perimeter fence and ran. The SS response was merciless. Guards mounted machine guns on rooftops and fired blindly through the ceilings into the barracks below. At the ruins of Crematorium IV, approximately 200 prisoners were forced to lie face down in the dirt and were shot one by one in the back of the head. Locals helped the Nazis hunt down the escapees. 450 prisoners were killed that day. But Crematorium IV never operated again."
+    },
+    {
+      "id": 36,
+      "debut": 1337.92,
+      "fin": 1382.64,
+      "temps_estime": false,
+      "titre": "Fact 18: The four women who never gave a name",
+      "resume": "After tortured Sonderkommando prisoners gave up the names, Roza Robota, Ella Gaertner, Estera Wajcblum and Regina Safirsztajn were arrested and tortured for months, and none gave up another name. Robota passed a note signed be strong and of good courage, and the four were hanged on January 5th, 1945.",
+      "mots_cles": [
+        "Roza Robota",
+        "Ella Gaertner",
+        "Estera Wajcblum",
+        "Regina Safirsztajn",
+        "tortured women",
+        "hanged January 5 1945",
+        "courage",
+        "resistance"
+      ],
+      "texte": "When the SS went looking for the women who had made it possible, they found 4 of them. What those women did next belongs in a different category of courage entirely. 18. Desperate to uncover the ringleaders, the Nazis tortured some of the male Sonderkommando prisoners. Eventually broke and gave up the names of the women who had smuggled them the gunpowder. When Roza Robota, Ella Gaertner, Estera Wajcblum, and Regina Safirsztajn were arrested and tortured for months, not one of them gave up a single name. Roza, writing from her cell, passed a friend a note signed “be strong and of good courage.” On January 5th, 1945, four gallows were erected in the women's camp. The assembled prisoners were forced to watch as Roza Robota sang defiantly before the trapdoor opened."
+    },
+    {
+      "id": 37,
+      "debut": 1382.64,
+      "fin": 1405.04,
+      "temps_estime": false,
+      "titre": "Fact 17: Buried manuscripts of the Sonderkommando",
+      "resume": "Before dying, some prisoners wrote detailed accounts of what they had seen and buried them near the crematoria. Eight caches of manuscripts were found between 1945 and 1980, mostly by accident, describing suffering the human mind cannot imagine.",
+      "mots_cles": [
+        "buried manuscripts",
+        "testimonies",
+        "8 caches",
+        "1945 to 1980",
+        "near crematoria",
+        "eyewitness accounts",
+        "Sonderkommando writings",
+        "documentation"
+      ],
+      "texte": "17. Before they were led to their death, some prisoners composed detailed accounts of everything they had seen. They buried them in the ground near the crematoria. Between 1945 and 1980, 8 separate caches of manuscripts were discovered, mostly by accident. One manuscript spoke of “suffering the human mind cannot imagine” and the casual doling out of death where humans were reduced to ash."
+    },
+    {
+      "id": 38,
+      "debut": 1405.04,
+      "fin": 1438.24,
+      "temps_estime": false,
+      "titre": "Fact 16: The prisoner orchestras and Alma Rosé",
+      "resume": "Auschwitz had six prisoner orchestras that played marches at the gates as work columns passed. The Women's Orchestra, a 40-to-50-piece ensemble led by Alma Rosé, was addressed as Frau Alma by the SS, and when she died in April 1944 the SS approved a memorial, the only time they formally mourned a Jewish prisoner.",
+      "mots_cles": [
+        "prisoner orchestras",
+        "Alma Rosé",
+        "Women's Orchestra",
+        "Frau Alma",
+        "six orchestras",
+        "SS memorial",
+        "military marches",
+        "Birkenau"
+      ],
+      "texte": "16. Auschwitz operated six separate prisoner orchestras. Every morning and evening, musicians were forced to stand at the gates and play military marches as work columns shuffled past. The Woman’s Orchestra, led by Alma Rosé, was a 40-to-50-piece ensemble made up of dozen nationalities. The SS would address Rosé as \"Frau Alma,” a title that was denied to every other Jewish prisoner in Birkenau. When Rosé died suddenly in April 1944, the SS approved a memorial in her honor. It was the only time that SS officers formally mourned a Jewish prisoner in a camp."
+    },
+    {
+      "id": 39,
+      "debut": 1438.24,
+      "fin": 1479.04,
+      "temps_estime": false,
+      "titre": "Fact 15: How Alma Rosé protected her musicians",
+      "resume": "Rosé never expelled musicians for poor playing, finding them other roles because removal meant death. She told the SS a typhus-stricken violinist was one of her finest players, negotiated heating for the music block and secured indoor roll calls and rest periods, so almost the entire Women's Orchestra survived; survivors said she saved them.",
+      "mots_cles": [
+        "Alma Rosé",
+        "Women's Orchestra",
+        "saved musicians",
+        "typhus selection",
+        "heated music block",
+        "survival",
+        "orchestra survivors",
+        "protection"
+      ],
+      "texte": "But what Rosé actually did was far more deliberate than the SS ever realized. 15. Alma Rosé understood exactly what the orchestra meant to its members. She never threw anyone out for poor playing; instead she found them another role. Being removed meant returning to the general population and guaranteed death. When a violinist contracted typhus and faced selection, Rosé told the SS the woman was one of her finest players. She negotiated heating for the music block, arguing the instruments would be ruined by cold. She secured indoor roll calls and a rest period after meals. Almost all of the Women's Orchestra survived the war. When survivors were later asked what they thought of Alma Rosé, the answer was \"She saved us.\""
+    },
+    {
+      "id": 40,
+      "debut": 1479.04,
+      "fin": 1519.28,
+      "temps_estime": false,
+      "titre": "Fact 14: Escape attempts and collective punishment",
+      "resume": "There were at least 802 documented escape attempts involving 928 prisoners, with around 144 believed successful. Failed escapees were hanged publicly, and if an escapee was not found, 10 prisoners chosen at random from their block were executed, a collective punishment designed to create fear and suspicion.",
+      "mots_cles": [
+        "escape attempts",
+        "802 attempts",
+        "928 prisoners",
+        "144 successful",
+        "public hanging",
+        "10 prisoners executed",
+        "collective punishment",
+        "psychological torture"
+      ],
+      "texte": "While Rosé's orchestra played, other prisoners were channeling everything they had into something far more dangerous 14. Over the course of the camp’s operation, there were at least 802 documented escape attempts involving 928 prisoners. Around 144 are believed to have succeeded. The punishment for a failed escape was death by public hanging in front of the other prisoners. But the retribution didn't stop there. If an escaped prisoner couldn't be found, 10 prisoners chosen at random from the escapee's block were executed. This collective punishment system created fear and suspicion among the prisoners. Would people risk the lives of others for self-preservation? It was a form of psychological torture."
+    },
+    {
+      "id": 41,
+      "debut": 1519.28,
+      "fin": 1556.96,
+      "temps_estime": false,
+      "titre": "Fact 13: Lilly Jacob and the Auschwitz Album",
+      "resume": "In spring 1945 Lilly Jacob, liberated from Mittelbau-Dora, found an album in an abandoned SS barracks with nearly 200 photographs of the arrival and selection of Hungarian Jews at Birkenau. She recognized herself, her brothers and neighbors on the ramp; the album is the only visual record of the first hours after a train arrived.",
+      "mots_cles": [
+        "Lilly Jacob",
+        "Auschwitz Album",
+        "Mittelbau-Dora",
+        "200 photographs",
+        "arrival ramp",
+        "Hungarian Jews",
+        "SS barracks",
+        "visual document"
+      ],
+      "texte": "Of the roughly 144 prisoners who made it out, none carried evidence more haunting than one 18 year-old survivor. 13. In spring 1945, Lilly Jacob was liberated from Mittelbau-Dora concentration camp and found an album in an abandoned SS barracks. Inside were nearly 200 photographs documenting the arrival and selection of Hungarian Jews at Birkenau. As Lilly turned the pages, she recognized herself on the arrival ramp, alongside her brothers and neighbors from her hometown. She never saw any of them again. The album is the only visual document of what happened in the first hours after a train arrived at Auschwitz."
+    },
+    {
+      "id": 42,
+      "debut": 1556.96,
+      "fin": 1593.28,
+      "temps_estime": false,
+      "titre": "Fact 12: The Roma genocide and the Gypsy Camp",
+      "resume": "About 23,000 Roma and Sinti were deported to a section of Birkenau called the Gypsy Camp, where families were initially kept together. On the night of August 2nd, 1944 the SS gassed the remaining 2,900 men, women and children; the genocide killed between 500,000 and 1.5 million Roma, known as the Porajmos.",
+      "mots_cles": [
+        "Roma and Sinti",
+        "Gypsy Camp",
+        "August 2 1944",
+        "2,900 gassed",
+        "Porajmos",
+        "the Devouring",
+        "Roma genocide",
+        "Birkenau"
+      ],
+      "texte": "Another group suffered a genocide that history has barely begun to acknowledge. 12. The Nazis deported approximately 23,000 Roma and Sinti people to a special section of Auschwitz-Birkenau known as the \"Gypsy Camp.” Unlike most other prisoners, Roma families were initially kept together. But on the night of August 2nd, 1944, the SS gassed the 2,900 remaining men, women, and children. The entire camp was wiped out. The Roma genocide killed between 500,000 and 1.5 million Roma across occupied Europe. In , Romani it’s known as the Porajmos, or “the Devouring,”"
+    },
+    {
+      "id": 43,
+      "debut": 1593.28,
+      "fin": 1629.68,
+      "temps_estime": false,
+      "titre": "Fact 11: Soviet prisoners of war at Auschwitz",
+      "resume": "About 15,000 Soviet prisoners of war were sent to Auschwitz and nearly all died within months. Under the racial ideology of the Eastern Front they were at the bottom of the camp hierarchy, got the least food and harshest treatment, and were used for early systematic killing experiments; only a few hundred survived.",
+      "mots_cles": [
+        "Soviet prisoners of war",
+        "15,000 POWs",
+        "Eastern Front ideology",
+        "camp hierarchy",
+        "killing experiments",
+        "few hundred survived",
+        "forgotten victims",
+        "Auschwitz"
+      ],
+      "texte": "An equally invisible story belongs to the Soviet prisoners of war who came to Auschwitz near the very beginning and most never left. 11. Approximately 15,000 Soviet prisoners of war were sent to Auschwitz. And nearly all of them died within months of arrival. The racialized ideology on the Eastern Front meant that Soviet POWs occupied the absolute lowest rung of the camp's brutal hierarchy. They received the least food, the harshest treatment, and were used as subjects for some of the earliest systematic killing experiments. By the end of the war, only a few hundred survived. Their fate remains one of the least-discussed atrocities within the Auschwitz complex."
+    },
+    {
+      "id": 44,
+      "debut": 1629.68,
+      "fin": 1675.44,
+      "temps_estime": false,
+      "titre": "Fact 10: Block 11, the Death Block",
+      "resume": "Block 11, the Death Block, housed an SS summary court that could sentence prisoners to death on the spot, plus solitary cells and standing cells of 3 by 3 feet where four prisoners were crammed overnight. The Black Wall in the courtyard between Blocks 10 and 11 was where an estimated 20,000 people were executed.",
+      "mots_cles": [
+        "Block 11",
+        "Death Block",
+        "standing cells",
+        "Black Wall",
+        "SS summary court",
+        "20,000 executed",
+        "solitary confinement",
+        "Auschwitz I"
+      ],
+      "texte": "Regardless of the group, every prisoner feared being sent to one specific building. 10. Block 11, known as the “Death Block,” housed an SS summary court that could sentence prisoners to death on the spot. It also boasted solitary confinement and standing cells which were stone closets 3 feet by 3 feet (0.9m by 0.9m). 4 prisoners would be crammed into each cell after laboring all day. They would be left to stand through the night before being released for another day of work. Some prisoners endured this for weeks. In the courtyard between Block 10 and Block 11 stood the \"Black Wall,\" where an estimated 20,000 people were executed. Block 11, the standing cells, the Black Wall, all of it was still there when the Soviets arrived in January 1945. Most of the prisoners, though, were not."
+    },
+    {
+      "id": 45,
+      "debut": 1675.44,
+      "fin": 1710.16,
+      "temps_estime": false,
+      "titre": "Fact 9: The January 1945 death marches",
+      "resume": "On January 17th, 1945 the SS forced almost 58,000 prisoners on a march through the Polish winter with little food or clothing, shooting those who fell behind. Tens of thousands died within walking distance of freedom, and the Soviets arrived 10 days later to find a crime scene the Nazis had not covered up.",
+      "mots_cles": [
+        "death marches",
+        "January 17th 1945",
+        "58,000 prisoners",
+        "Polish winter",
+        "shot stragglers",
+        "evacuation",
+        "tens of thousands died",
+        "Soviet arrival"
+      ],
+      "texte": "9. On January 17th, 1945, the SS forced almost 58,000 prisoners onto a march through the Polish winter. There was little food or winter clothing, as temperatures dipped well below freezing. Prisoners that fell behind or tried to escape were shot where they stood. Tens of thousands of people died on those marches. People who had survived months or years at Auschwitz had their lives taken within walking distance of freedom. The SS were intent on killing right up until the very end. When the Soviets arrived 10 days later, they found a crime scene so enormous the Nazis hadn't come close to covering it up."
+    },
+    {
+      "id": 46,
+      "debut": 1710.16,
+      "fin": 1742.56,
+      "temps_estime": false,
+      "titre": "Fact 8: The failed cover-up",
+      "resume": "As the Nazi war machine crumbled, SS guards blew up the crematoria and gas chambers with explosives and burned tens of thousands of documents. The operation was too large for a cover-up: warehouses were still full of stolen goods and about 7,500 prisoners too sick to march were still inside when the Soviet 60th Army arrived.",
+      "mots_cles": [
+        "cover-up",
+        "blown-up crematoria",
+        "burned documents",
+        "stolen goods",
+        "7,500 prisoners left",
+        "Soviet 60th Army",
+        "destroyed evidence",
+        "liberation"
+      ],
+      "texte": "8. As the Nazi war machine crumbled, the SS guards at Auschwitz scrambled to erase what they had done. Beyond the death marches, they detonated the crematoria and gas chambers with explosives, and burned tens of thousands of documents. But the scale of the operation had been too large, too long-running, and too physical for any cover-up to succeed. The warehouses were still full of stolen goods, and the camp’s ruins were still standing. Roughly 7,500 prisoners were too sick to be marched and were still inside the wire when the Soviet 60th Army arrived."
+    },
+    {
+      "id": 47,
+      "debut": 1742.56,
+      "fin": 1789.76,
+      "temps_estime": false,
+      "titre": "Fact 7: Witold Pilecki's fate under communist Poland",
+      "resume": "After escaping Auschwitz Pilecki kept resisting, this time against the Soviet-backed communist regime. He was arrested by the secret police in 1947, tortured into a false confession and executed after a show trial on May 25th, 1948; his name was suppressed for decades, he was rehabilitated in 1990 and is now considered a Polish national hero.",
+      "mots_cles": [
+        "Witold Pilecki",
+        "communist Poland",
+        "secret police",
+        "show trial",
+        "executed 1948",
+        "rehabilitated 1990",
+        "national hero",
+        "false confession"
+      ],
+      "texte": "One man had tried to warn the world about all of this years before Soviet soldiers ever reached the gates. What his own country did to him afterward is almost impossible to believe. 7. After escaping Auschwitz and telling the world about the horrors, Witold Pilecki didn’t stop fighting. He continued working as a resistance operative, this time against the Soviet-backed communist regime that had taken over Poland. He was arrested by the Polish communist secret police in 1947 and tortured into signing a false confession. After a show trial, 47 year old Pilecki was executed with a single bullet to the back of the head on May 25th, 1948. His name was suppressed by the communist government for decades, but was posthumously rehabilitated in 1990. He’s now widely regarded as one of Poland's greatest national heroes."
+    }
+  ]
+}
