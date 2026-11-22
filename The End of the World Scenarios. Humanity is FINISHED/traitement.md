@@ -25,3 +25,11 @@ Départ : début de la vidéo (aucun segments.json existant). Speech : 6858 lign
 
 ## Point d'arrêt (mis à jour)
 - Dernière ligne traitée : 4784 (« democratically elected every few years. »). Prochaine étape : reprendre à la ligne 4785 (« The best part about the island, though, is its remoteness. »), id suivant : 162. Le scénario Tristan da Cunha continue après la ligne 4784.
+
+## Reprise à la ligne 4785 (agent suivant)
+- Travail précédent vérifié avec le script de l'étape 5 : OK (161 segments, lignes 1 à 4784). Même méthode : coupures en fin de ligne (temps_estime false), textes générés mot pour mot à partir des lignes de speech.json, titres anglais, résumés en français.
+- Tranche 6 : lignes 4785 à 5832 (sur 6858), minutes couvertes 154,1 à 185,3 (11120,31 s), 47 segments (id 162 à 208). Contenu : fin du scénario Tristan da Cunha (162 à 167), scénario fictif de la famille texane et de son bunker de luxe (168 à 182), scénario fictif d'apocalypse zombie en immeuble de bureaux puis fuite vers l'Alaska (183 à 205), nouvelle partie « could the zombie apocalypse actually happen » : folklore haïtien et neurotoxine (206 à 208, en cours).
+- Remarques : sous-titres automatiques, balises « [music] » conservées. Le segment 205 se termine sur « ... but definitely not a zombie. A horde of feral creatures tears » : le début du thème suivant est dans la ligne de coupure, les temps n'ont pas été estimés.
+
+## Point d'arrêt (mis à jour)
+- Dernière ligne traitée : 5832 (« leaving them in a zombie-like trance. »). Prochaine étape : reprendre à la ligne 5833 (« Could this create a zombie plague? In a word, no. »), id suivant : 209.
