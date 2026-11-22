@@ -4,12 +4,12 @@
   "titre_video": "The End of the World Scenarios. Humanity is FINISHED.",
   "duree_s": 13080.84,
   "avancement": {
-    "lignes_traitees": 966,
-    "fin_traitee_s": 1820.01,
+    "lignes_traitees": 1907,
+    "fin_traitee_s": 3677.63,
     "nb_lignes_total": 6858,
     "complet": false
   },
-  "nb_segments": 30,
+  "nb_segments": 61,
   "segments": [
     {
       "id": 1,
@@ -558,6 +558,556 @@
         "assassination"
       ],
       "texte": "If it's not bad enough that governments want to exploit [music] this tech for the common bad, there's also the risk that terrorists and tyrants might get hold of the nanotechnology. That physicist also pointed out [music] that such weapons could act like insects. So on your way to work, you feel this prick on your arm, and the next thing you know, you're frothing at the mouth. Such tech could [music] certainly come in handy if you want to take out a president. If it all sounds a bit too Black Mirror for you, the US Army Research Laboratory has [music] already created tiny drones that look like insects. Just imagine what you could do with one of those [music] if it was carrying poison. Imagine if thousands of them were released on a community, and to the onlooker's eye, they just look like mosquitoes. It's no joke at all. A physicist called them the most horrific near-term nanoweapons. While researchers at Cambridge University announced at a conference way back in 2008 that these things pose one of the biggest threats in human history regarding the complete destruction of every man, woman, and child. Those researchers said there was a 5% chance that even a nanotechnology accident could kill a million people by that date. They also said there was a 10% chance that 1 billion people could die from nanotech weapons. So in short, if the point isn't clear enough to you already, those who understand are mighty concerned about what humans might create using this molecular engineering."
+    },
+    {
+      "id": 31,
+      "debut": 1820.01,
+      "fin": 1899.21,
+      "temps_estime": false,
+      "titre": "Gray goo: self-replicating nanobots out of control",
+      "resume": "Nanobots could do wonderful things such as fixing ships or stopping internal bleeding, but losing control of them is the nightmare. In the gray goo scenario, oil-spill nanobots self-replicate into an unending swarm that devours the natural world, and the technology could also serve as a weapon of mass destruction.",
+      "mots_cles": [
+        "gray goo",
+        "self-replicating nanobots",
+        "oil spill example",
+        "loss of control",
+        "nanobot swarm",
+        "weapon of mass destruction",
+        "nanomedicine"
+      ],
+      "texte": "We just mentioned accidents. Now we'll expand on that. Let's imagine we've created some tiny insects that do great things such as fly in mass to try and fix a sinking ship. Maybe we get so far in the development that these things are so small and so skilled, they can also go inside your body and stop internal bleeding or even prevent cancer cells from replicating. This is the future and it could be an amazing place. But the dream of nanobots making the world a better place has a corresponding nightmare. That is we lose control of them. One person writing about this provided an example scenario. There's a massive oil spill, so we send in the nanobots to go and break down all those harmful hydrocarbons. But those nanobots are highly advanced, so they can self-replicate and like an unending swarm, they not only eat the hydrocarbons, but they feast on pretty much anything in our natural world. That's it, game over. This is called the gray goo scenario with the swarm of nanobots being the goo. They devour everything in their path and humans are unable to stop them since they replicate so fast. If you could somehow program them to do the devouring, you could use the technology as a weapon of mass destruction. This dystopian tale is so far one of science fiction and these days scientists will tell you that such a thing shouldn't ever happen. But they will also tell you that when we start messing with the nanoparticles, [music] we are walking into an extremely high-risk area."
+    },
+    {
+      "id": 32,
+      "debut": 1899.21,
+      "fin": 1921.51,
+      "temps_estime": false,
+      "titre": "Nanotech ethics and government surveillance",
+      "resume": "Governments are already considering the ethics of nanotechnology and take rampant nanomachines seriously. A more down-to-earth concern is governments using such machines to spy on citizens.",
+      "mots_cles": [
+        "nanotechnology ethics",
+        "surveillance",
+        "nanomachines",
+        "government spying",
+        "high-risk technology"
+      ],
+      "texte": "That's why governments are already thinking about the ethics of nanotechnology [music] and why rampant nanomachines are taken seriously. But even if you don't buy into swarms of tiny machines getting up your nose and eating your insides, you should give some thought to the very down-to-earth concern of governments using these machines to spy on you. It might feel like the world is ending right now, but we'll get through [music] this. However,"
+    },
+    {
+      "id": 33,
+      "debut": 1921.51,
+      "fin": 1941.31,
+      "temps_estime": false,
+      "titre": "Intro to the most likely ways humanity ends: space, planet, us",
+      "resume": "A new section asks what the most likely way humanity gets wiped out is, whether from space, from our planet or from ourselves. It announces it will go from space-based events to ones closer to home.",
+      "mots_cles": [
+        "most likely end of humanity",
+        "space threats",
+        "planetary threats",
+        "human-caused extinction",
+        "world-ending events"
+      ],
+      "texte": "that's not necessarily true of every scenario. What is the most likely way humanity will be wiped out? [music] Maybe it's something from space or our planet or us. Although the way the world ends might be because of you and if this is the case, you wouldn't have any control over it. We're going to start with the world-ending events from space [music] and then bring things closer to"
+    },
+    {
+      "id": 34,
+      "debut": 1941.31,
+      "fin": 2019.51,
+      "temps_estime": false,
+      "titre": "Asteroid impact odds: car-sized rocks, Siberia 1908 and 0.1% per year",
+      "resume": "NASA's Jet Propulsion Laboratory says a car-sized asteroid enters the atmosphere about once a year and burns up. The 1908 Siberian blast was about 1,000 times Hiroshima but not world-ending, ending most life needs an asteroid of 6 to 10 miles with odds around 0.000001%, while a city-destroying impact has about 0.1% yearly odds.",
+      "mots_cles": [
+        "asteroid impact",
+        "NASA Jet Propulsion Laboratory",
+        "1908 Siberia",
+        "6 to 10 miles",
+        "0.000001%",
+        "0.1% per year",
+        "impact odds"
+      ],
+      "texte": "home. An asteroid impact is one of Hollywood's favorite ways to destroy the world, but how likely is it that an asteroid will wipe out humanity? Asteroid impacts are actually pretty common. According to NASA's Jet Propulsion Laboratory, an asteroid enters Earth's atmosphere about once a year. Granted, [music] these asteroids are about the size of a car and burn up in the atmosphere, but this happens pretty often. [music] That being said, an asteroid that size would not wipe out life on the planet. But a bigger one most certainly would. In 1908, which is not that long ago in the scheme of things, a 200 [music] ft wide piece of comet entered the atmosphere and exploded over Siberia. The energy release was approximately 1,000 times more than the atomic bomb dropped on Hiroshima. [music] That is a lot of energy, but not enough to wipe out humanity. It flattened vast amounts of forest and killed wildlife in the area, but Earth [music] and humans continued on as normal. In order to wipe out most life on our planet, an asteroid would need to be around 6 to 10 miles across. The odds of an asteroid this size [music] impacting the planet anytime soon is around 0.000001%. [music] So we don't have to worry about extinction by asteroid quite yet. However, an asteroid impacting the Earth [music] that is big enough to destroy the city or town you're living in right now has about a 0.1% chance [music] of happening each year. So maybe you should still be a little worried about"
+    },
+    {
+      "id": 35,
+      "debut": 2019.51,
+      "fin": 2097.91,
+      "temps_estime": false,
+      "titre": "Rogue black holes entering the solar system",
+      "resume": "About 10 million rogue black holes are estimated to roam the galaxy and are detectable only through their effects such as gravitational lensing and disturbed orbits. One entering the solar system would pull Uranus and Neptune away and throw Earth off its orbit so we freeze, though the odds are around one in a trillion.",
+      "mots_cles": [
+        "rogue black holes",
+        "gravitational lensing",
+        "10 million black holes",
+        "Uranus Neptune",
+        "orbit disruption",
+        "one in a trillion",
+        "invisible threat"
+      ],
+      "texte": "asteroids. The next world-ending event we wouldn't see coming, [music] literally. It's estimated that there are around 10 million rogue black holes cruising around our galaxy. The tricky part about finding black holes headed our way is that by definition you can't see them. Since nothing can escape a black hole, not even light, they are invisible. But their effects on the things around them can be observed. [music] This is how astronomers proved black holes existed in the first place. As the black hole approaches stars, planets, or anything else in space, it drags that [music] object toward its massive gravity well. We can observe celestial objects being thrown off their natural orbits by black holes. We can also see light bend [music] around the gravity of black holes, which allows astronomers to know that they're there. This is called [music] gravitational lensing. However, if one of these interstellar monsters is lurking in the darkness of space on a collision course with our solar system, [music] we wouldn't know until it was too late. The first indication that a black hole was entering our solar system would occur when the outer planets were [music] pulled from orbit. We would watch as Uranus and Neptune disappeared into the maw of the black hole. The [music] black hole wouldn't even need to pass directly through Earth to end the world. Just having one in our solar system [music] would launch our planet off its orbit around the sun, and we would freeze to death while hurtling through the darkness of space. [music] Luckily, we don't really need to worry about this occurring, as scientists estimate that a rogue black hole destroying our planet is around one in a trillion. Now, let's"
+    },
+    {
+      "id": 36,
+      "debut": 2097.91,
+      "fin": 2149.11,
+      "temps_estime": false,
+      "titre": "Volcanoes and mass extinctions: the Laki eruption",
+      "resume": "Volcanoes can end the world: Iceland's Laki eruption in 1783 killed about 9,000 people and cooled the northern hemisphere by almost 9 degrees. Volcanoes likely contributed to several of the five mass extinctions, and a full-scale eruption could make humans extinct.",
+      "mots_cles": [
+        "volcanoes",
+        "Laki eruption 1783",
+        "Iceland",
+        "mass extinctions",
+        "volcanic cooling",
+        "dust blocks sun",
+        "five mass extinctions"
+      ],
+      "texte": "discuss some of the world-ending events that are closer to home. One of the most powerful natural phenomena on the planet are volcanoes. These [music] exploding pieces of earth's crust and mantle can cause such widespread damage that they can actually end the world. [music] For example, 1783, the Laki volcano located in Iceland erupted. The lava, fumes, and ash wiped out around 9,000 people. [music] The dust that was kicked up into the atmosphere blocked out much of the sun's light. This caused temperatures to fall by almost 9° in the northern hemisphere, and that was a relatively small [music] volcano. There have been five mass extinction events during the history of life on earth. [music] Six if you count the one humans are causing right now. It's likely that volcanoes played a role in several of the previous mass [music] extinctions, and if the earth unleashes its full potential like it has in the past, humans and pretty much all life on the planet will become extinct. [music] So, how likely is it"
+    },
+    {
+      "id": 37,
+      "debut": 2149.11,
+      "fin": 2186.51,
+      "temps_estime": false,
+      "titre": "Supervolcano odds: overdue eruption",
+      "resume": "About 40 supervolcanoes exist and one tends to erupt roughly every 50,000 years, with the last massive eruption around 74,000 years ago, so scientists say we are overdue. A world-ending supervolcanic eruption is described as eventually certain, though humans are more likely to wipe themselves out first.",
+      "mots_cles": [
+        "supervolcanoes",
+        "40 supervolcanoes",
+        "every 50,000 years",
+        "overdue eruption",
+        "74,000 years",
+        "extinction odds"
+      ],
+      "texte": "that a massive volcano will throw our planet into chaos? Unfortunately, scientists believe we are overdue for such an event. [music] The chance of a massive volcanic eruption occurring are pretty high. There are approximately 40 super volcanoes around the planet. At least one tends to erupt every 50,000 [music] years or so. We haven't had a massive eruption in around 74,000 years, so we're overdue. The likelihood of a super volcanic eruption that could end the world or at least wipe out the human species from [music] the planet at some point in the future is 100% going to happen. That is if something else doesn't destroy us first. [music] We're probably much more likely to wipe ourselves out than something from the planet or space. [music] However, this"
+    },
+    {
+      "id": 38,
+      "debut": 2186.51,
+      "fin": 2273.32,
+      "temps_estime": false,
+      "titre": "Climate change as a world ender: Hansen and the runaway greenhouse",
+      "resume": "Humans contribute to climate change by burning fossil fuels, and climate scientist James Hansen warns that burning all oil, gas and coal could start a runaway greenhouse and a Venus syndrome. Some scientists think the point of no return has passed, and Earth would recover once humans are gone.",
+      "mots_cles": [
+        "climate change",
+        "James Hansen",
+        "runaway greenhouse",
+        "Venus syndrome",
+        "fossil fuels",
+        "point of no return",
+        "carbon dioxide"
+      ],
+      "texte": "next end of the world scenario may be earth's way of trying to get rid of us because of the damage we're causing to the planet. [music] It's undeniable that humans are contributing to climate change by burning fossil fuels and depleting the earth's resources. So, how likely is it that the damage we're doing will be the thing that ends the world? If you ask [music] scientists, some believe that it's a very real possibility that climate change is what will wipe out humanity. For example, one climate scientist named James Hansen says if we burn all reserves of oil, gas, [music] and coal, there's a substantial chance that we will initiate the runaway greenhouse. If we also burn the tar sands [music] and tar shale, I believe the Venus syndrome is a dead certainty. What he's referring to is that if humans continue doing business as usual and burn all the fossil fuels [music] on the planet, that Earth's temperature will increase so much that there would be a runaway greenhouse effect. This [music] is because the amount of carbon dioxide and pollution we're putting into the atmosphere will continue to trap heat, causing our planet's temperature to increase more and [music] more. At some point, there will be so much pollution in the atmosphere that Earth won't be able to cool itself down, and the temperature will just keep going up. [music] In this end-of-the-world scenario, humans have a choice. If we choose to do nothing and just keep burning fossil fuels, there's 100% chance the world as we know it will end. However, there's something even more terrifying. There are some scientists that think we've [music] already passed the point of no return, and death by climate change is inevitable. Regardless, Earth will bounce back once it gets rid of these [music] pesky humans, but almost everything alive today will not be around to see it. A more immediate"
+    },
+    {
+      "id": 39,
+      "debut": 2273.32,
+      "fin": 2314.32,
+      "temps_estime": false,
+      "titre": "Nuclear holocaust: 1% chance in 100 years",
+      "resume": "There is an estimated 1% chance of nuclear holocaust within 100 years, through computer malfunction or deliberate use. With about 3,750 active warheads and roughly 100 nukes enough to cause fallout and nuclear winter, humanity effectively has a 1% chance of ending the world 37 times over.",
+      "mots_cles": [
+        "nuclear war",
+        "1% chance",
+        "3,750 warheads",
+        "100 nukes",
+        "nuclear winter",
+        "accidental launch",
+        "fallout"
+      ],
+      "texte": "threat that humans [music] pose to the planet and ourselves is destruction by nuclear war. It's estimated that within the next 100 years, there is a 1% chance humanity ends the world in a nuclear holocaust. That is a really grim thought. [music] This could happen accidentally through a malfunction in a missile silo's computer system or intentionally by one government or another. Basically, the world is being [music] held hostage by humanity's desire to stockpile nuclear weapons and blow one another up. There are approximately 3,750 active nuclear warheads as of right now. Some scientists estimate it would take about 100 nukes to end the world [music] from the fallout and nuclear winter that would follow. So, this means that humans have a 1% chance [music] of ending the world 37 times over in the next century."
+    },
+    {
+      "id": 40,
+      "debut": 2314.32,
+      "fin": 2363.62,
+      "temps_estime": false,
+      "titre": "Artificial intelligence takeover: Oxford and Yale predictions",
+      "resume": "Today's AI such as Alexa and iPhones cannot take over, but Oxford and Yale researchers say AI has a 50% chance of outperforming humans in everything within 45 years. They predict machines could do every human job in about 120 years, at which point an AI takeover could begin.",
+      "mots_cles": [
+        "artificial intelligence takeover",
+        "Oxford and Yale",
+        "45 years",
+        "120 years",
+        "AI outperforming humans",
+        "automation of jobs",
+        "Terminator"
+      ],
+      "texte": "Humans also hold the key to another end-of-world scenario. [music] What about death by Terminators? Or, to take it out of the realm of sci-fi, death by artificial intelligence? We've created very basic artificial intelligence at this point, and there's no possible way that our Alexas or iPhones will be taking over the world just yet. Although some of us might feel like they already have, but researchers from Oxford and Yale say there's a 50% chance that AI will start outperforming humans in everything we [music] do in the next 45 years. This doesn't necessarily mean they'll take over the world quite yet, though. [music] However, those same researchers predict that in about 120 years, every single human job will be able to be done by machines and computers with artificial intelligence. [music] At that point, there would be no further use for humans, and the AI takeover would commence. So humans have roughly around 120 years [music] before the machines take over. Let's take a"
+    },
+    {
+      "id": 41,
+      "debut": 2363.62,
+      "fin": 2424.32,
+      "temps_estime": false,
+      "titre": "Aliens: odds of life and the Hawking conquest scenario",
+      "resume": "Using the Drake equation and Bayesian analysis, some scientists estimate about a 45% chance of intelligent alien life in the galaxy. Stephen Hawking and others think aliens would almost inevitably conquer Earth for resources, like Europeans in the Americas, perhaps spreading alien disease.",
+      "mots_cles": [
+        "aliens",
+        "Drake equation",
+        "Bayesian analysis",
+        "Stephen Hawking",
+        "alien invasion",
+        "first contact",
+        "intelligent alien life"
+      ],
+      "texte": "step away from how humans could cause the end of the world and look at something we have no control [music] over, aliens. What are the chances that the world ends by alien invasion? Well, let's talk about the likelihood that aliens exist. [music] Using complex statistical equations such as the Drake equation and Bayesian analysis, some scientists believe the chance of intelligent alien life in our galaxy [music] is close to 45 %. Most scientists believe that life of some kind in our galaxy is an almost certainty, but alien microbes [music] probably won't be invading our planet anytime soon. However, many scientists, including the late Stephen Hawking, [music] think that if aliens did come to Earth, it would be almost inevitable they would try to conquer the planet and wipe [music] out humanity. Like when Europeans came to the Americas, some scientists suggest aliens might come to the Earth for resources [music] and to take what they want while subjugating humans. Or perhaps also like our European conquerors, [music] they would bring an alien disease with them that would decimate our species. So if aliens do exist, it's probably [music] better they don't find our planet because it's more likely than not first contact will be a world-ending event."
+    },
+    {
+      "id": 42,
+      "debut": 2424.32,
+      "fin": 2464.72,
+      "temps_estime": false,
+      "titre": "Why alien invasion is unlikely but alien diseases are a risk",
+      "resume": "Humans are the only resource not abundant across the universe, since territory and materials are plentiful, and robots would make better slaves than rebellious humans. Alien diseases, however, could accidentally wipe humanity out.",
+      "mots_cles": [
+        "alien invasion unlikely",
+        "alien resources",
+        "alien slaves",
+        "alien disease",
+        "robots",
+        "universe abundance"
+      ],
+      "texte": "Should you be worried about a hostile alien takeover, though? [music] No. The only natural resource on this planet that is not an embarrassing abundance all over the universe is, well, [music] us. Everything else an alien may want to take our planet over for, including habitable territory, is in extreme abundance all over the universe or [music] easily created through some long-term geoengineering. And who would want humans as slaves anyway? We're rebellious, [music] grossly inefficient. An advanced alien species would be better off with cheap, efficient, durable robots to do all their slave labor. But alien [music] diseases are something you should definitely be concerned about because while aliens may not want to purposefully invade our world and take our resources, [music] might accidentally wipe us out with a"
+    },
+    {
+      "id": 43,
+      "debut": 2464.72,
+      "fin": 2505.22,
+      "temps_estime": false,
+      "titre": "Simulation theory: you could end the world",
+      "resume": "If the world is a dream or simulation, whoever is in control would eventually be pulled out and end it. Scientists are cited as saying there is about a 50/50 chance we live in a simulation, so the viewer has a 50% chance of ending the world by waking up or unplugging.",
+      "mots_cles": [
+        "simulation theory",
+        "dream",
+        "50/50 chance",
+        "unplugging",
+        "end of the world",
+        "simulated reality"
+      ],
+      "texte": "sneeze. A final way to end the world may be the most surprising of all. Maybe you will cause the world to end. What if the world we live in is just a dream or a simulation? If you were the one in control, even if you didn't know it, at some point you would be pulled out of the simulation, thus ending it. Whether it's a dream or some advanced computer game you are playing right now, [music] when it ends, you would be what causes the end of the world. The scariest thing is that scientists say there's about 50/50 chance that we all live in some sort of simulation. [music] So there's a 50% chance you're going to be responsible for ending the world. Please do us all a favor. Continue dreaming or playing this game of life because when you [music] wake up or unplug, there's a 50% chance the rest of us will be blinked out of existence. You've all"
+    },
+    {
+      "id": 44,
+      "debut": 2505.22,
+      "fin": 2553.82,
+      "temps_estime": false,
+      "titre": "Book of Revelation: John on Patmos and Jesus's vision",
+      "resume": "John the Apostle, exiled by the Romans to the island of Patmos, receives a revelation of the future. Jesus appears with eyes of fire and a sword in his mouth, tells him not to be afraid and says he holds the keys of death and the grave.",
+      "mots_cles": [
+        "Book of Revelation",
+        "John the Apostle",
+        "Patmos",
+        "apocalypse",
+        "Jesus vision",
+        "keys of death",
+        "Bible end times"
+      ],
+      "texte": "seen the end of the world in Hollywood movies, but the Bible version, it is worse than anything a studio exec could dream up. And the worst part, it kind of sounds like it could happen. It starts with an elderly man, John the Apostle. He's been exiled to the island of Patmos, later nicknamed the island of the Apocalypse, [music] which already tells you this won't be a relaxing retirement. The Romans dumped him there for preaching the word of God. And it's on Patmos that John receives a revelation, a vision of the future. And it isn't good. It's Jesus [music] Christ speaking for God and he's laying out the grimmest forecast imaginable. Don't be afraid, says Jesus, which is difficult when the Son of God is standing in front of you, his eyes burning with fire and a sword of truth in his mouth. He tells John, I am the living one. I died, but look, I am alive forever and ever, and I hold the keys of death and the grave."
+    },
+    {
+      "id": 45,
+      "debut": 2553.82,
+      "fin": 2625.02,
+      "temps_estime": false,
+      "titre": "The seven churches and Jesus's warnings",
+      "resume": "The seven lampstands represent the seven churches of Asia in Roman Turkey, and John is told to write letters to them. Jesus criticizes wealth-chasing, false prophets and idol worship, tells the lukewarm church he will spew it from his mouth, and warns that judgment is coming.",
+      "mots_cles": [
+        "seven churches",
+        "Ephesus Smyrna Pergamum",
+        "lukewarm church",
+        "letters to churches",
+        "seven angels",
+        "judgment",
+        "Asia Minor"
+      ],
+      "texte": "John grabs something to write with. He is about to see the future and the people of the world are going to want to hear about it. Jesus holds the seven golden lampstands and seven angels. [music] The seven lampstands represent seven churches of Asia, Ephesus, Smyrna, Pergamum, Thyatira, Sardis, [music] Philadelphia, and Laodicea, Roman territory in modern-day Turkey. The stars are the seven angels and the sword, well, that's the word of God, sharp enough to split the world into John is told to write letters to these churches. They are messages of encouragement, but Jesus does not hold back what he thinks has gone wrong. Some churches are poor but faithful, some are compromised chasing wealth, sex, and power. Others tolerate false prophets, idol worship, and moral rot. One church is so self-satisfied and spiritually lazy that Jesus says it literally makes him throw up. You are lukewarm, neither hot nor cold, and I will spew you out of my mouth. He meant you're either in or you're out. You can't talk about God like a 20th century politician and wage wars for resources and prophets. To the churches he says things like stop worshiping Roman gods, stop mistaking money for holiness, and stop sleeping around. Judgment is coming, but killing"
+    },
+    {
+      "id": 46,
+      "debut": 2625.02,
+      "fin": 2691.02,
+      "temps_estime": false,
+      "titre": "Wheat and weeds, the rapture and the great tribulation",
+      "resume": "Jesus explains that weeds are not pulled early so the wheat is not destroyed, and a reckoning will come at harvest. The good will be taken in the rapture, with Philadelphia promised protection from the great time of testing, while the unfaithful face the great tribulation described as terror beyond imagination.",
+      "mots_cles": [
+        "rapture",
+        "great tribulation",
+        "wheat and weeds",
+        "church of Philadelphia",
+        "Jeremiah",
+        "Luke",
+        "judgment"
+      ],
+      "texte": "everyone instantly isn't God's style. Jesus once explained it like this. Don't rip out the weeds early or you'll destroy the wheat too. Let them grow together. When the harvest comes, separate them. Weed is gathered, weeds are burned. Good and evil can coexist for a while, but a reckoning will come and it will hurt like hell. He said that when the end times come, he will protect the good just like he said in his message to the faithful church of Philadelphia. Because you have persevered, I will protect you from the great time of testing that will come upon the whole world. The good will be taken to heaven in the rapture and the unfaithful will experience hell on earth. He didn't say when, but who knows, it could be soon. You'll be at home watching the infographic show and your brother will be in his bedroom watching, well, you know what he's watching. And let's just say Jesus would not approve. Anyway, there's a flash of light and you're taken in the rapture. Meanwhile, he is stuck on earth for the great tribulation. In the Bible, Luke says even people sleeping in the same bed will be separated. Jeremiah calls it a time of terror beyond imagination. Oh, and make sure to hit that subscribe button. If the rapture is coming, you might as well enjoy the content while"
+    },
+    {
+      "id": 47,
+      "debut": 2691.02,
+      "fin": 2749.92,
+      "temps_estime": false,
+      "titre": "John's vision of the throne in heaven",
+      "resume": "A door opens to heaven and John sees a blinding throne surrounded by 24 elders in white with golden crowns, lightning, thunder and seven torches. Around God are creatures like a lion, an ox, a human and an eagle with many eyes, all praising him.",
+      "mots_cles": [
+        "throne of God",
+        "24 elders",
+        "four living creatures",
+        "heaven vision",
+        "lightning and thunder",
+        "Revelation"
+      ],
+      "texte": "you can. With the letter sent, John suddenly sees a door open to heaven. A voice like a trumpet tells him to step through. He struggles to describe what he sees. A towering throne flooded with blinding, impossible light, pure beauty, pure authority. Jesus tells him to watch. John will see the tribulation unfold from heaven like a video X-rated for violence, suffering, and sexually explicit content. 24 thrones surround the main throne, John wrote, and seated on them were 24 elders clothed in white, wearing golden crowns. Who they are is debated, but one thing is clear. These are honored, faithful believers. Then it happens. Lightning, thunder, flashes of fire, seven blazing torches appear. It's God. John doesn't describe a form, only an all-powerful being, the guiding light of the universe. Surrounding him are what looks like a lion, an ox, a human, and an eagle, all with wings and lots of eyes. And all of them are praising God. It's getting busy up there, but John has it under control, guided by God's love."
+    },
+    {
+      "id": 48,
+      "debut": 2749.92,
+      "fin": 2808.52,
+      "temps_estime": false,
+      "titre": "The sealed scroll and the Lamb who is Jesus",
+      "resume": "A scroll sealed with seven seals can be opened only by one worthy, and John finds a slaughtered lamb with seven horns and seven eyes instead of the expected lion. The lamb is Jesus, powerful through love, the only one fit to judge humanity.",
+      "mots_cles": [
+        "seven seals",
+        "scroll",
+        "Lamb of God",
+        "Lion of Judah",
+        "seven horns",
+        "seven eyes",
+        "Jesus as judge"
+      ],
+      "texte": "He sees a scroll in the right hand of the one sitting on the throne with writing on both sides. It's sealed with seven seals. He sees an angel who booms, who is worthy to break the seals on this scroll and open it? John wept, thinking that, well, no one was worthy until one of the elders steps in and he says, the lion of the tribe of Judah, heir to David's throne, is worthy to open the seals. John looks for a lion, but like in a bad dream, he gets a lamb, not a fluffy one, a slaughtered one, still bearing the marks of death. John describes it as having seven horns which represent God's perfect power and seven eyes that represent the Holy Spirit's perfect vision of all that transpires on Earth. [music] The sacrificial lamb is Jesus. Didn't see that plot twist, huh? He's powerful through love, not violence. Only Jesus has the right to judge history. He's not weak, though. He has been wounded on Earth, and that makes him the only one fit to judge humanity. The elders fall down and sing at his feet. And now [music] things get"
+    },
+    {
+      "id": 49,
+      "debut": 2808.52,
+      "fin": 2888.92,
+      "temps_estime": false,
+      "titre": "The seven seals: the four horsemen and cosmic upheaval",
+      "resume": "The first four seals release horsemen: white, red (war), black (famine, soaring food prices) and pale (death, a quarter of the earth killed), which the video links to pandemic, economic collapse and World War III. The fifth seal shows martyrs, the sixth brings earthquakes, a black sun and red moon like nuclear winter, and the seventh brings silence.",
+      "mots_cles": [
+        "four horsemen",
+        "seven seals",
+        "famine",
+        "death and Hades",
+        "martyrs",
+        "sixth seal",
+        "World War III",
+        "nuclear winter"
+      ],
+      "texte": "dark. The lamb opens the first seal, a white horse. Its rider carries a bow and a crown. Is it Jesus? Is it the Antichrist? We don't know, but it's probably Jesus. But when the second seal breaks, a red horse appears. Its rider is armed with a great [music] sword. That one is easier. Chaos, war, blood. The third seal releases a black horse holding scales. That might mean food prices will soar. Famine will hit. Oil and wine survive. Or maybe meaning for a while the rich won't starve, but the poor will. Then the fourth seal, a pale horse. Its rider is death with Hades close behind. Disease, famine, war, wild beasts. A quarter of the earth will be wiped out. In modern times, that could be a new strain of a deadly virus, a cost of living collapse, what right now seems like a very realistic World War III. It'll be slow and painful. The rich will hold out, but not for long. The fifth seal reveals the martyrs crying out asking when justice comes. They're told to wait. They didn't get to go up with the rapture because they had been slow to accept Jesus into their heart. Now they have to pay. The sixth seal brings earthquakes. The sun turns black. The moon turns red. Stars fall. Mountains move. Nuclear winter, climate collapse, reckless technologies, even the wealthy panic. Then the seventh seal breaks and heaven goes silent. 30 minutes of peace and quiet. John sees seven angels standing before God"
+    },
+    {
+      "id": 50,
+      "debut": 2888.92,
+      "fin": 2988.32,
+      "temps_estime": false,
+      "titre": "The first four trumpets",
+      "resume": "Seven angels receive trumpets, and the first four strike a third of the earth, trees, sea, rivers and heavenly bodies, with hail and fire, a burning sea and poisoned water called wormwood. The video suggests parallels such as tsunami, nuclear weapons and nuclear winter, and an eagle cries terror for the last three trumpets.",
+      "mots_cles": [
+        "seven trumpets",
+        "wormwood",
+        "third of the earth",
+        "hail and fire",
+        "poisoned rivers",
+        "nuclear winter interpretation",
+        "eagle terror"
+      ],
+      "texte": "receiving seven trumpets. [music] An angel fills an incense burner and from the altar throws it down on the earth causing crashing thunder, lightning, and a terrible earthquake. The angel mixes another burner with prayers of God and those people who pray descend to heaven. Lucky them cuz those trumpets are really bad news. John says the first angel blew his trumpet and hail and fire mixed with blood were thrown down on the earth. One third of the earth was set on fire. One third of the trees were burned and all of the green grass was burned. The second trumpet turns the sea into a great fire. A third of the water becomes blood. A third of what's inside of it dies and a third of all the ships are destroyed. Maybe this will be a tsunami or it could be a nuclear winter or a bit of both. The third trumpet means stars fall from the sky. A third of the rivers and other drinking water sources are poisoned and many people die. The star is called bitterness or wormwood. So wormwood falls from the sky. It will contaminate the earth and ruin vegetation. Could that star be a rocket carrying a nuclear weapon? Guess we'll find out. Then John says, then the fourth angel blew his trumpet and 1/3 of the sun was struck and 1/3 of the moon and 1/3 of the stars and they became dark and 1/3 of the day was dark and also 1/3 of the night. Really starting to sound like a nuclear winter. The planet is crumbling, the animals scream, humans are dying. Maybe it'll mean mothers hiding in basements as fathers fight in the streets over toilet paper and tinned tuna. John said an eagle flies overhead in the dark sky and screams terror, terror, terror to all who [music] belong to this world because of what will happen when the last three angels blow their trumpets. More?"
+    },
+    {
+      "id": 51,
+      "debut": 2988.32,
+      "fin": 3046.22,
+      "temps_estime": false,
+      "titre": "The fifth trumpet: bottomless pit and locusts",
+      "resume": "At the fifth trumpet a fallen star opens the shaft of the bottomless pit and smoke darkens the sky, releasing scorpion-stinging locusts that torture people without God's seal for five months. The video reads the smoke as radiation and the armored locusts as possibly tanks.",
+      "mots_cles": [
+        "fifth trumpet",
+        "bottomless pit",
+        "locusts",
+        "scorpion sting",
+        "five months",
+        "radiation interpretation",
+        "tanks"
+      ],
+      "texte": "Really? Yes, more. Lots more. John then says, then the fifth angel blew his trumpet and I saw a star that had fallen to earth from the sky and he was given the key to the shaft of the bottomless pit. When he opened it, smoke poured out as though from a huge furnace and the sunlight and air turned dark from the smoke. Radiation? Honestly, it's not looking good for humanity at this point. Out of that smoke come giant swarms of locusts that can sting like scorpions. Goddess told them not to bother the animals or destroy vegetation, but to go after humans without the seal of God on their foreheads. Worse, they have been ordered to torture people for 5 months. It could still be radiation. John says people will seek death, but they will not find it. They will long to die, but death will flee from [music] them. Yeah, that's definitely radiation. However, John says they look like horses, have gold crowns, and human faces. Could they be tanks? Because John said they wore armor made of iron and their wings roared like an army of chariots rushing"
+    },
+    {
+      "id": 52,
+      "debut": 3046.22,
+      "fin": 3121.93,
+      "temps_estime": false,
+      "titre": "The sixth trumpet: 200 million troops and unrepentant humanity",
+      "resume": "The sixth trumpet frees four angels who kill a third of survivors with an army of 200 million mounted troops, interpreted as armies in World War III involving the EU, US, Russia and China. Despite fire, smoke and sulfur, people refuse to repent and cling to possessions, theft, murder and witchcraft, read as drugs or propaganda.",
+      "mots_cles": [
+        "sixth trumpet",
+        "200 million troops",
+        "four angels",
+        "World War III",
+        "refuse to repent",
+        "witchcraft",
+        "Satan"
+      ],
+      "texte": "into battle. Then comes the sixth trumpet. [music] That lets loose four angels on earth who will kill 1/3 of those who have survived so far. They have an army of 200 million mounted troops. God is in control of this, but it is Satan who is doing the damage. Maybe the mounted troops are armies of civilians under Satan's command, not literal demons, but armies of fighters dying on the battlefield. The four demon angels are the EU, US, Russia, and China in World War III. Terror, terror, terror, says John. The earth is now engulfed in fire, smoke, and burning sulfur as plagues spread to every corner of the planet. Fire comes from the mouths and tails of the horses, which again sounds a little like modern weapons. But even as the world collapses, people still will not repent. Talk about not reading the room. If something like this actually did happen, very few people would probably be blaming the God Satan theory. John says people will cling to gold, silver, bronze, stone, or wood. And [music] maybe he means material things holding on tight to their possessions instead of seeing the error of their ways and accepting God into their hearts. Theft will be rampant, murder too. [music] People will turn to witchcraft, which could mean pharmaceutical drugs to cure disease or street drugs to forget that the world is imploding. Or maybe it means propaganda, deep fake videos, lies. Unfortunately, God doesn't show"
+    },
+    {
+      "id": 53,
+      "debut": 3121.93,
+      "fin": 3175.72,
+      "temps_estime": false,
+      "titre": "The angel with the little scroll and the seven thunders",
+      "resume": "A rainbow-clad angel standing on sea and land roars like a lion and seven thunders speak words God does not reveal. John eats a scroll sweet as honey and sour in the stomach, and is told the seventh trumpet will fulfill God's plan and establish his kingdom forever.",
+      "mots_cles": [
+        "angel on sea and land",
+        "seven thunders",
+        "sweet and sour scroll",
+        "seventh trumpet",
+        "kingdom of God",
+        "Revelation"
+      ],
+      "texte": "John everything. Another angel appears. He's surrounded by a rainbow and clouds, and his face is like the sun. His legs like pillars of fire, standing with one foot in the sea and one on the land. He roars like a lion. Seven thunders answer, and then nothing. God doesn't reveal what they say, but John does tell us this. When the seventh angel blows his trumpet, God's mysterious plan will be fulfilled. John is told to approach the angel standing on the sea and the land and take a scroll from him. The angel says, it will be sweet as honey in your mouth, but sour in your stomach. The angel tells him the seventh trumpet will seal the deal. The kingdom of the world will become the kingdom of our Lord and of his Messiah, and he will reign forever and ever. And as for the sweet and sour scroll, [music] the word of God is pleasing, but it can come with difficulty. As we've seen, the word of God can be terrifying and sweet at the same time. The message is, you have to take the rough with the smooth. We have"
+    },
+    {
+      "id": 54,
+      "debut": 3175.72,
+      "fin": 3244.93,
+      "temps_estime": false,
+      "titre": "The mark of the Beast, 666 and the one world order",
+      "resume": "Satan forces everyone to receive the mark of the Beast, 666 on the forehead or right hand, and no one can buy or sell without it. The video compares this to post-disaster surveillance and control and to a conspiracy-style one world order with one ruler and one system.",
+      "mots_cles": [
+        "mark of the Beast",
+        "666",
+        "buy or sell",
+        "surveillance",
+        "one world order",
+        "false prophet",
+        "Satan's rule"
+      ],
+      "texte": "to speed things up. Not everyone is dead. It's hell on earth, but people are still trying to get by. They walk around covered in sores, stealing, murdering, plotting. Satan is ruling things, or at least he thinks he is, and he forces everyone to receive the mark of the Beast, 666 on their foreheads or right hands. Revelation says, no one could buy or sell unless he had the mark, which is the name of the Beast or the number of his name. Let's be honest here. We know after major disasters, governments love to roll out surveillance and control just to keep us safe. With the world doomed, people will sign on to just about anything. They just can't see who the real devil is, who is causing all this bloodshed. The revelations say that people will be fooled by Satan and they'll go along with whatever he tells them to do. At one point, John says, the dragon stood in front of the woman as she was about to give birth, ready to devour her child. John says devour, but that could simply mean exploit. Satan through this false prophet maybe governments promises everyone stability, a new normal, and for a while it looks like he delivers, but Satan doesn't have your back. Okay, got your tin foil hat ready? It's starting to really sound like a conspiracy theory, a one world order, one ruler, one system. Revelation"
+    },
+    {
+      "id": 55,
+      "debut": 3244.93,
+      "fin": 3314.13,
+      "temps_estime": false,
+      "titre": "Seven plagues, the new Babylon and the great prostitute",
+      "resume": "Those who worship Satan suffer seven plagues, read as a bubonic-style pandemic, heat waves from global warming and seas and rivers turned to blood. Humanity is deceived by a false prophet ruling from a new Babylon, and the great prostitute obsessed with wealth is destroyed by the beast she rides.",
+      "mots_cles": [
+        "seven plagues",
+        "new Babylon",
+        "great prostitute",
+        "scarlet beast",
+        "sea turns to blood",
+        "bubonic pandemic",
+        "false prophet"
+      ],
+      "texte": "says that Satan now rules over every tribe and people and language and nation. Those who worship him are hit with seven plagues, painful boils that sound a lot like a bubonic style pandemic, very plausible in a destroyed world full of rats and fleas and secret biological weapons. Heat waves follow global warming. The sea turns to blood, wiping all life out of it. Rivers and springs turn to blood too. The world goes dark. Humanity has been lied to by a false prophet ruling from a new Babylon, the new capital city of the world. And even then, even knowing who caused the plagues, people still refuse to repent or turn to God. They could be saved, but they turn away. Maybe they're afraid of being called crazy for blaming Satan or evil, which let's face it sounds quite possible. And then there will be a great prostitute, [music] and everyone who follows her will be obsessed with money and riches, but she won't last long. Satan repressed by a woman sitting on a scarlet beast turns against her. John says, those who committed sexual immorality and lived in luxury with her will weep and wail at the sight of the smoke rising from the fire that consumes her. Now even the wealthiest people on earth, the ones who followed Satan from the start, are about to face the wrath of God. It is"
+    },
+    {
+      "id": 56,
+      "debut": 3314.13,
+      "fin": 3366.03,
+      "temps_estime": false,
+      "titre": "Jesus returns and the Battle of Armageddon",
+      "resume": "Jesus comes on a white horse with eyes of flame, a blood-dripping robe and an army of heaven to strike the nations with a sharp sword. In the battle of Armageddon he defeats the world's armies, throws the false prophet and the beast into a lake of burning sulfur and vultures feast on the dead.",
+      "mots_cles": [
+        "Armageddon",
+        "Second Coming",
+        "white horse",
+        "iron rod",
+        "lake of burning sulfur",
+        "vultures",
+        "Jesus return"
+      ],
+      "texte": "inescapable. Jesus, taking his sweet time, decides he'll go down to earth uttering the words, Behold, I am coming. He rides a white horse, his eyes a flame, his robe dripping with blood, and his name is the word of God. His army is the army of heaven. From his mouth came a sharp sword to strike down the nations. He will rule them with an iron rod. He will unleash the fierce wrath of God. This is some fight, the battle of Armageddon. An angel sees vultures in the sky and shouts, Come and eat the flesh of kings, generals, and strong warriors, of horses and their riders, and of all humanity, both free and slave, small and great. Jesus and his armies of heaven are taking no prisoners. The world fights back, but they're no match for Jesus, who's in his action hero arc. He [music] captures the false prophet and the beast, and he throws them into a lake of burning sulfur. He makes short shrift of all the humans who followed Satan, and the vultures chow down. An angel then comes"
+    },
+    {
+      "id": 57,
+      "debut": 3366.03,
+      "fin": 3445.73,
+      "temps_estime": false,
+      "titre": "The thousand-year reign, Satan's release and the final judgment",
+      "resume": "Satan is locked in the bottomless pit for a thousand years while martyrs who refused the mark reign with Christ. He is then released, tries deception again and is sent to the lake of fire forever, and the dead are judged by their deeds with sinners joining him.",
+      "mots_cles": [
+        "millennium",
+        "thousand years",
+        "Satan locked up",
+        "resurrection",
+        "final judgment",
+        "lake of fire",
+        "book of life"
+      ],
+      "texte": "down from heaven with the keys to the bottomless pit, [music] Satan's 24-hour-a-day lockdown, a thousand years of solitary confinement, after which he will face Jesus's parole board. Huh? Why? The battle of Armageddon has been won, so surely Satan doesn't deserve to see the light of day ever again. And how come there are still people left on the earth when everyone was supposed to die? Well, it seems that God thought a thousand years was enough, and also seems that he left a few human survivors just to get things going again. John fills in the gaps. In his vision, he sees those who had been beheaded for their testimony about Jesus [music] and for proclaiming the word of God. These people never took the mark of the beast. John says they all sprang back to life and reigned with Christ for a thousand years, which is nice. The rest of the dead might come back after a thousand years, if we're being perfectly honest, that doesn't sound like a good idea, since Satan will be getting out, too. [music] When his thousand years in the block are up, he comes back and he gets up to his old tricks, deception and malice. [clears throat] God sends down fire and he sends Satan to the lake of fire, this time a life sentence without the possibility of parole. As for the rest, even the dead, the sea gives them up and they are judged according to their deeds. Anyone not in the good books, cowards, unbelievers, the corrupt, murderers, the immoral, those who practice witchcraft, idol worshippers, and all the liars, they go with Satan to the lake of fire. Now for"
+    },
+    {
+      "id": 58,
+      "debut": 3445.73,
+      "fin": 3487.93,
+      "temps_estime": false,
+      "titre": "The new heaven and new earth",
+      "resume": "John sees a new heaven and a new earth with no death, mourning, crying or pain, where the wolf and lamb live peacefully together. It is a paradise of crystal water, bountiful crops and endless light for those in the book of life, which the video says may come sooner than thought.",
+      "mots_cles": [
+        "new heaven and new earth",
+        "paradise",
+        "book of life",
+        "wolf and lamb",
+        "no more death",
+        "Revelation ending"
+      ],
+      "texte": "the good news. John says that he sees a new heaven and a new earth, a perfect [music] place where there is no more death or mourning or crying or pain. In this new world, the wolf and the lamb sit peacefully side by side. The leopard lies [music] down with the baby goat. A calf hangs out with a lion, and a little child happily plays with a cobra. [music] The world's worst petting zoo. This is a world of harmony, fresh crystal water, bountiful crops, rolling green hills, a paradise of God filled with those whose names are written in the book of life. There will be no sickness because Jesus the lamb and God on his throne are there protecting everyone in an endless daytime of light and peace. And if the Bible is right, all of this is coming to a theater near you, maybe sooner than you think."
+    },
+    {
+      "id": 59,
+      "debut": 3487.93,
+      "fin": 3550.13,
+      "temps_estime": false,
+      "titre": "October 27, 1962: the Cuban Missile Crisis brink of nuclear war",
+      "resume": "On October 27, 1962 the US and USSR, with over 4,000 warheads between them, were on the brink as a US U-2 plane was shot down over Cuba and Kennedy was urged to retaliate. American warships dropped depth charges on Soviet submarine B-59, which carried a nuclear-tipped torpedo, and different decisions could have started nuclear war.",
+      "mots_cles": [
+        "Cuban Missile Crisis",
+        "October 27 1962",
+        "U-2 shot down",
+        "Soviet submarine B-59",
+        "nuclear torpedo",
+        "Kennedy",
+        "Cold War",
+        "depth charges"
+      ],
+      "texte": "October 27th, 1962, two world superpowers equipped with over 4,000 nuclear warheads in total are flirting with a dangerous escalation of what [music] had so far been a cold war, one fought without direct confrontation. Both the US and USSR have placed missiles in third party countries [music] close to each other's borders, pointed directly at enemy soil. In this critical moment, two events happen on the same day. An American U-2 reconnaissance plane is shot down over Cuba where the Soviet missile bases have been built up, [music] and Kennedy is urged to retaliate militarily directly against the Soviets. Meanwhile, American warships drop depth charges to force a Soviet [music] B-59 submarine to surface. The submarine's officers are unaware that they're violating a US naval blockade [music] and interpret the maneuvers of the US warships as an act of war. What the Americans [music] don't know is that that Soviet submarine being threatened is carrying a nuclear tipped [music] torpedo. Had two men made different decisions that could have easily been the day the world exploded into nuclear war. Why didn't it? To understand the"
+    },
+    {
+      "id": 60,
+      "debut": 3550.13,
+      "fin": 3599.13,
+      "temps_estime": false,
+      "titre": "Background: US-Cuba-Soviet relations and Castro's revolution",
+      "resume": "The Monroe Doctrine and Cold War anticommunism shaped US vigilance in the Western Hemisphere. In 1959 Fidel Castro overthrew Fulgencio Batista, converted Cuba to communism, and President Eisenhower deemed his government unacceptable.",
+      "mots_cles": [
+        "Monroe Doctrine",
+        "Fidel Castro",
+        "Fulgencio Batista",
+        "Cuba 1959",
+        "Eisenhower",
+        "communism",
+        "Cold War"
+      ],
+      "texte": "actions [music] taken in the days of the Cuban Missile Crisis, it's crucial to take a quick look a couple of years at US, Cuban, and Soviet relations. Since the Monroe doctrine, the US had increasingly [music] asserted its power and influence over the Western hemisphere. With the Soviet bloc declared an ideological enemy, [music] the US was especially vigilant about communism penetrating the West. This sphere of influence would be tested [music] in 1959 when young revolutionary Fidel Castro took power in Cuba after waging a guerrilla [music] war against US-backed military dictator Fulgencio Batista. He quickly converted the nation to communism, further angering US politicians who were engaged in political conflict and arms race [music] with the most powerful communist nation of all at the time. Dwight D. Eisenhower, the US president at the time, deemed Castro's administration in Cuba unacceptable. [music] Initially,"
+    },
+    {
+      "id": 61,
+      "debut": 3599.13,
+      "fin": 3677.63,
+      "temps_estime": false,
+      "titre": "The Bay of Pigs invasion fiasco",
+      "resume": "Eisenhower approved a CIA plan to train 1,400 Cuban exiles to invade Cuba, which Kennedy inherited and doubted as too small to succeed and too large to hide. The Bay of Pigs invasion launched on April 17, 1961 failed within 24 hours, humiliating Kennedy, who still pursued Castro's removal to look tough on communism.",
+      "mots_cles": [
+        "Bay of Pigs",
+        "CIA",
+        "Cuban exiles",
+        "Kennedy",
+        "April 17 1961",
+        "failed invasion",
+        "Castro assassination attempts"
+      ],
+      "texte": "his idea was simple. The CIA would train 1400 Cuban exiles in the US sympathetic to the old [music] government and angry at Castro to invade Cuba and win the country back. The plan was hatched under Eisenhower in 1960. By the time it was ready, the charismatic John F. Kennedy was president of the US. Kennedy had second and third [music] and fourth thoughts about the planned invasion. The strategy of sending in Cuban exiles had come about to first make it seem like it wasn't a US government [music] invasion of Cuba, and second to keep the invading groups small and clandestine so they could infiltrate [music] the island nation and win the support of even more anti-Castro Cubans. Kennedy worried that the group was too small to be militarily effective and too large to be kept [music] secret. However, on April 17th, 1961, the Bay of Pigs invasion was launched. The result was embarrassing. The US government had severely underestimated [music] Castro's forces and severely overestimated Cuban nostalgia for a US puppet government on the island. Within 24 hours, the US-trained Cuban exiles [music] had been defeated and Kennedy's administration was humiliated. Nevertheless, the effort to dismantle [music] Castro's regime continued with foiled assassination attempts throughout the year. Even though many top US officials advised [music] Kennedy that Cuba wasn't much of a threat to the US at all, Kennedy had told voters he would be tough on communism, and in politics,"
     }
   ]
 }
