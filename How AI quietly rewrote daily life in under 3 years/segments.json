@@ -4,12 +4,12 @@
   "titre_video": "How AI quietly rewrote daily life in under 3 years",
   "duree_s": 13291.68,
   "avancement": {
-    "lignes_traitees": 4462,
-    "fin_traitee_s": 9446.88,
+    "lignes_traitees": 5346,
+    "fin_traitee_s": 11285.76,
     "nb_lignes_total": 6328,
     "complet": false
   },
-  "nb_segments": 196,
+  "nb_segments": 237,
   "segments": [
     {
       "id": 1,
@@ -3721,6 +3721,785 @@
         "AI infrastructure"
       ],
       "texte": "peak prices. A Bitcoin miner who bought his rigs at the top of the 2021 cycle and then tried to sell them in 2022 would have also found themselves in a similar situation. The point is that anything at Nvidia scale is no longer a niche collector's market. The GPUs are the physical backbone of the artificial intelligence revolution, and now they're worth cents on the dollar compared to the prices that justified the loans that built the machine's infrastructure. The lenders know this, and they have for a while. The question nobody wants to answer out loud is who moves first. At 2:14 p.m. Eastern, a private credit firm that holds a significant portion of Cororeweave's debt [music] instructs its legal team to begin margin call proceedings. The clock already running now begins to accelerate. Day two, it's"
+    },
+    {
+      "id": 197,
+      "debut": 9446.88,
+      "fin": 9510.72,
+      "temps_estime": false,
+      "titre": "Day two: repossession of CoreWeave's H100 GPUs begins",
+      "resume": "On Tuesday at 6 in the morning at a New Jersey data center, a security guard arrives with instructions from a law firm saying CoreWeave's collateral, the Nvidia H100 GPUs, now belongs to the lender and must be cataloged and prepared for liquidation. Engineers have been scrambling since 4 to move active workloads off the machines, and one veteran compares it to having your house repossessed while you are still moving the furniture out.",
+      "mots_cles": [
+        "Day two",
+        "CoreWeave default",
+        "GPU repossession",
+        "Nvidia H100",
+        "collateral liquidation",
+        "New Jersey data center",
+        "lender seizes GPUs",
+        "AI workloads"
+      ],
+      "texte": "now Tuesday, 6:00 a.m. at a data center in New Jersey when the phones begin to ring. It's not even sunrise yet. It's a moment not unlike the beginning of many other financial crises. They're rarely as dramatic as you would expect. Nobody is shouting or hurling insults. There is, however, a man holding a clipboard in a security uniform. On it are a set of instructions prepared by a law firm that [music] doesn't make mistakes. The instructions say that the company's collateral, specifically the racks of Nvidia H100 GPUs, which have been running AI workloads for the past 18 months, are now the property of the lending institution. They will need to be cataloged, tagged, disconnected, and prepared for liquidation. The people at the data center don't fight this. They can't. They have seen the paperwork. They know what's coming. Since [music] 4:00 a.m., engineers have been scrambling to move active workloads off the affected machines before access disappears. One veteran engineer later describes the experience like having someone repossess your house while you're still trying to move the furniture out. Most people have never stopped to think about what this process might actually look like. A GPU server isn't just a laptop. Good [music] luck sticking it in a bag and walking home."
+    },
+    {
+      "id": 198,
+      "debut": 9510.72,
+      "fin": 9569.52,
+      "temps_estime": false,
+      "titre": "Why removing an H100 server farm is a logistical operation",
+      "resume": "An H100 server weighs about 400 lb fully loaded, needs industrial cooling and is wired into the building's power and networking, so removal means powering off, tagging components, disconnecting fiber and copper in sequence and using specialized lifting equipment. Each rack unit can cost $30,000 and a full multi-GPU setup up to $8.8 million, and a facility with around 4,000 servers becomes a multi-day, military-style logistics exercise.",
+      "mots_cles": [
+        "H100 server weight",
+        "GPU removal logistics",
+        "$30,000 rack unit",
+        "data center infrastructure",
+        "industrial cooling",
+        "multi-GPU setup",
+        "liquidation operation",
+        "4,000 servers"
+      ],
+      "texte": "An H100 server weighs 36 lb per rack unit. build out a fully loaded Nvidia H100 AI server. We're talking 400 lb of static weight. These machines are designed to be moved. They require industrial scale cooling just to stay operational. They're also connected directly into the facility's power and networking systems. The cabling, the conduit, and supporting infrastructure were installed when the building was originally fitted out. To disconnect one, you'd have to power it off, log and tag every component, disconnect fiber and copper in the right sequence, and then you would have to use specialized lifting equipment to move it without destroying the hardware. They're made up of reinforced steel frames and are taller, more rigid, and deeper than your average server rack. Each individual rack unit can cost $30,000 with a fully integrated multiGPU setup costing up to 8.8 million. This particular New Jersey facility has [music] around 4,000 servers or so, which means removing them becomes a multi-day operation that resembles something akin to a military"
+    },
+    {
+      "id": 199,
+      "debut": 9569.52,
+      "fin": 9596.0,
+      "temps_estime": false,
+      "titre": "Third-party asset managers and engineers watching servers be boxed up",
+      "resume": "The lawyers hire a third-party asset manager that handled similar jobs during the 2022 crypto mining collapse and has the equipment, manifests and insurance riders. They are efficient and indifferent while the engineers who built the systems watch them boxed for auction, and by 9 in the morning thousands of servers in New Jersey are offline.",
+      "mots_cles": [
+        "asset manager",
+        "crypto mining collapse 2022",
+        "GPU auction",
+        "servers offline",
+        "liquidation",
+        "engineers",
+        "CoreWeave",
+        "New Jersey"
+      ],
+      "texte": "logistics exercise. The lawyers have arranged for a third party asset manager firm to handle the physical side. They have done this before in smaller venues during the crypto mining collapse of 2022. They have the equipment and the manifests, [music] the insurance riders. They are efficient and completely indifferent to what's happening in the building around them. Engineers who built these systems are now watching them get boxed [music] up and prepared for auction. By 9:00 a.m., thousands of servers are offline in New"
+    },
+    {
+      "id": 200,
+      "debut": 9596.0,
+      "fin": 9643.84,
+      "temps_estime": false,
+      "titre": "Knock-on effects: AI companies lose compute and go dark",
+      "resume": "Every AI company running workloads on the repossessed machines gets an error message, and the compute it paid for and counted in revenue projections and roadmaps has vanished. Companies built on CoreWeave's infrastructure have to stop, a legal-review startup emails customers about an outage, and an AI marketing platform goes dark for 6 hours.",
+      "mots_cles": [
+        "compute outage",
+        "CoreWeave customers",
+        "AI startups",
+        "infrastructure dependency",
+        "secondary effects",
+        "legal document tool",
+        "AI marketing platform",
+        "revenue projections"
+      ],
+      "texte": "Jersey alone. The significance of this goes beyond the servers themselves. Every AI company running workloads on those machines is now getting a very unhappy error message. The compute they paid for and accounted for in internal revenue projections and product road maps has [music] vanished. Now the companies who built their own products on top of Core Weeb's infrastructure have to do something that is structurally very difficult in the AI industry. They have got to stop. Customers start to notice. The secondary effects take only hours to become apparent. A startup that's been using Core's compute to power a legal document review tool sends an email to its customers explaining the unexpected outage. Another company whose AI generated marketing platform runs on those same servers goes dark for 6 hours. Again, it's not worldending stuff for either company, but the signals are"
+    },
+    {
+      "id": 201,
+      "debut": 9643.84,
+      "fin": 9695.68,
+      "temps_estime": false,
+      "titre": "Nvidia's accounts receivable and the missed payment from customer A or B",
+      "resume": "Nvidia has between $27.8 billion and $33 billion in accounts receivable, revenue already recognized and celebrated on earnings calls but not yet cash, a promise made largely by companies now struggling to keep it. Two anonymous customers, customer A and customer B, account for 39% of quarterly earnings and one just missed a payment, so the CFO gives investors a calm, hedged message that the narration says hides the real meaning.",
+      "mots_cles": [
+        "Nvidia accounts receivable",
+        "customer concentration",
+        "customer A and B",
+        "39% of earnings",
+        "missed payment",
+        "Nvidia CFO call",
+        "revenue recognition",
+        "valuation risk"
+      ],
+      "texte": "alarming. At Nvidia, there are other alarming signals. They've got 27.8 to 33 billion sitting in accounts receivable right now. It's all the money that they are owed. Revenue that's already been recognized. It is passed through the income statement. It's been celebrated on earnings calls and used to justify valuations to otherwise hallucinatory levels. But anyone who knows anything knows that accounts receivable is not cash. It's more like a promise. One made in large part by companies that are now finding it extremely difficult to keep that promise. Two anonymous customers account for 39% of Nvidia's quarterly earnings. Customer A and customer B. And one of those just missed a payment. That afternoon, Nvidia's CFO speaks with investors on a call. [music] In careful language, they deliver a calm message. The underlying message, stripped of its hedging, is not day four. You're sitting"
+    },
+    {
+      "id": 202,
+      "debut": 9695.68,
+      "fin": 9767.28,
+      "temps_estime": false,
+      "titre": "Day four: the S&P 500 is concentrated in 10 AI-linked stocks",
+      "resume": "On a Wednesday morning the narration addresses an ordinary investor holding an S&P 500 index fund who believes it is diversified. In fact the top 10 stocks make up 40% of the index, the highest concentration in almost 60 years of history, compared with 26% at the peak of the dot-com bubble in 2000, and most of them are in the AI trade.",
+      "mots_cles": [
+        "S&P 500 concentration",
+        "top 10 stocks 40%",
+        "index fund",
+        "diversification myth",
+        "dot-com bubble 2000",
+        "AI trade",
+        "market concentration",
+        "retail investor"
+      ],
+      "texte": "in your kitchen on a Wednesday morning. It's 7:45 a.m. Maybe you don't work in finance. Maybe you work in something tech adjacent. Maybe you're a teacher or you run a small business or you work for a global healthcare conglomerate. But somewhere in the past few years, probably encouraged by every podcast and YouTube channel you've ever encountered, you've been putting money into an index fund, one that tracks the S&P 500. You were told to diversify your holdings, spread your money across companies, never put your eggs in one basket. If one fails, who cares? the market will hold true to the end, which means you can sleep well at night. Few people today, including you, actually realize that the top 10 stocks in the S&P 500 now account [music] for 40% of the entire index's value. Why should you care? Well, in almost 60 years of market history, the S&P 500 has never been this concentrated. The last time a technology mania pushed stock prices to seemingly implausible levels was during the.com bubble. At its peak in 2000, the 10 largest stocks accounted for 26% of the index. And then reality caught up. What followed was a very unpleasant few years for investors. Well, we're past that now. Most of those top 10 stocks are in one way or another in the AI trade. You"
+    },
+    {
+      "id": 203,
+      "debut": 9767.28,
+      "fin": 9830.72,
+      "temps_estime": false,
+      "titre": "S&P 500 falls 6.4% and a 401k loses $9,600 in 11 minutes",
+      "resume": "The investor opens a brokerage app and sees the S&P 500 down 6.4%, the biggest drop since March 2020 at the start of the pandemic, when a sibling begged them to hold and the market recovered. With about $150,000 in a 401k, $9,600 has been erased after just 11 minutes of trading.",
+      "mots_cles": [
+        "S&P 500 drop 6.4%",
+        "March 2020 crash",
+        "401k loss",
+        "$9,600 erased",
+        "retirement savings",
+        "market selloff",
+        "brokerage app",
+        "panic"
+      ],
+      "texte": "pull out your phone that morning and you open your brokerage app. You've been watching the news with detached concern. Coreweave's missed payment and Nvidia being slightly down only matters to rich people at large institutions. It doesn't apply to you and your sibling who occasionally talk about meme stocks over coffee, but you notice that the S&P 500 is down 6.4% this morning. You rack your brain and then it hits you. The last time you saw a drop like that was in March 2020 in the early days of the global pandemic when nobody knew how bad things were going to get. The time the world briefly stopped and the market fell off a cliff in real time. You remember that because you lived through it. You saw how it affected neighbors and friends and your [music] parents. You remember the conversation with your sibling where they begged you to hold and not sell since the market would come back stronger than ever. And it did come back that time. You take a second to do the math. If you're like most of your mildly affluent peers, [music] you've spent a decade or two building up to $150,000 in your 401k. $9,600 has been erased. The market has been open for just 11 minutes. There's a reason why"
+    },
+    {
+      "id": 204,
+      "debut": 9830.72,
+      "fin": 9863.04,
+      "temps_estime": false,
+      "titre": "Why the crash is so fast: 10 stocks riding on one AI story",
+      "resume": "When 40% of the index depends on 10 stocks tied to the same story, the market stops being diversified and lives or dies on the AI revolution, the belief that AI will generate enough revenue to justify the debt that built it. The CoreWeave default is described as the first real evidence that the timeline is fundamentally wrong, and by noon the S&P 500 is down 8.1%.",
+      "mots_cles": [
+        "AI revolution bet",
+        "CoreWeave default",
+        "AI debt",
+        "market concentration",
+        "S&P 500 down 8.1%",
+        "diversification",
+        "AI revenue timeline",
+        "single-story market"
+      ],
+      "texte": "it's happening so fast, and it's always the same. When 40% of the S&P 500 is riding on just 10 stocks, all depending on the same story being true, the market stops being diversified. It starts living and dying by a single idea, the AI revolution. The belief again is that artificial intelligence will soon generate enough revenue to justify the debt that built it. The core default is the first real piece of evidence that the timeline might be wrong. Not slightly wrong, fundamentally wrong. By noon on Wednesday, the S&P 500 is down 8.1%. [music]"
+    },
+    {
+      "id": 205,
+      "debut": 9863.04,
+      "fin": 9907.84,
+      "temps_estime": false,
+      "titre": "Stay the course advice and the hidden problem in index funds",
+      "resume": "The investor's financial adviser goes to voicemail and will eventually say to stay the course and not panic sell, advice that is historically sound but ignores the structural problem that the fund was not truly diversified. Nvidia, Microsoft, Apple, Amazon, Alphabet and Meta bankroll the AI boom and are all exposed to whether the $700 billion spent on AI infrastructure this year will produce enough revenue.",
+      "mots_cles": [
+        "financial adviser",
+        "stay the course",
+        "don't panic sell",
+        "index fund risk",
+        "Magnificent Seven",
+        "$700 billion AI infrastructure",
+        "structural concentration",
+        "Nvidia Microsoft Apple"
+      ],
+      "texte": "You call your financial adviser. The call goes straight to voicemail. Their advice when it comes will be the same as it always is. Stay the course. Don't panic sell. The markets always recover. It's true historically, but it's way easier to give advice when you're not the one watching the numbers plummet. Also, that advice rarely acknowledges the [music] specific structural problem underneath this particular drop. The fact that the fund you were told to invest in was not actually diversified like you thought it was. Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta, these are the names bankrolling the AI boom. They make up a disproportionate share of what you own in the market. And they are all exposed to the question of whether the $700 billion being spent on AI infrastructure this year will produce revenue that"
+    },
+    {
+      "id": 206,
+      "debut": 9907.84,
+      "fin": 9952.8,
+      "temps_estime": false,
+      "titre": "Day five: an Austin AI startup cuts 35% of staff",
+      "resume": "On Thursday morning a midsized AI software company in Austin that raised $200 million in venture capital 18 months ago calls a virtual all-hands. The 37-year-old CEO announces a 35% headcount cut, with 140 of 400 employees about to receive a calendar invite from HR, and the meeting ends on the advice of the legal team.",
+      "mots_cles": [
+        "Day five",
+        "AI startup layoffs",
+        "Austin",
+        "35% headcount cut",
+        "venture capital $200 million",
+        "all-hands meeting",
+        "140 employees",
+        "HR calendar invite"
+      ],
+      "texte": "justifies the spend. Day five. On Thursday morning, a midsized AI software company at a nondescript tech campus in Austin calls an all hands meeting. They're no different than many companies like them. It felt almost criminal how easy it' been to raise $200 million in venture capital 18 months ago. All it took was a compelling demo and a revenue growth chart that pointed mostly upward. The meeting is virtual. The company has 400 employees across three time zones. The CEO, who is 37 years old and has built and sold one company before this one, has the look of somebody who hasn't slept. He announces the company is immediately reducing headcount by 35%. Soon, 140 people will receive a calendar invite from HR. That's all he can say right now, the legal team has advised [music] and the meeting ends. In a"
+    },
+    {
+      "id": 207,
+      "debut": 9952.8,
+      "fin": 10012.0,
+      "temps_estime": false,
+      "titre": "The laid-off workers and the AI industry's willingness not to look closely",
+      "resume": "The 140 employees open their invites like a death sentence, some with student loans for degrees that look less relevant, while the AI industry's idea of doing fine required not looking too closely at revenue numbers. High compute costs and burn rates were excused by 18 to 24 months of runway and improving models, it felt like the California gold rush, and the market has now figured it out.",
+      "mots_cles": [
+        "AI layoffs",
+        "student loans",
+        "burn rate",
+        "runway",
+        "AI gold rush",
+        "compute costs",
+        "AI startup funding",
+        "market correction"
+      ],
+      "texte": "conference room and in home offices and in coffee shops and in parked cars, 140 people open their calendar invites like a death sentence. Some of them have been at the company for 3 years, others for 3 months, having moved across the country, securing their dream AI tech job. Many of these are still paying off student loans that they took out to get the degrees that got them hired. Degrees that increasingly are looking less and less relevant or necessary. The AI industry's version of doing fine has always required a certain willingness to not look too closely at the faces behind the revenue numbers, to say nothing of the revenue numbers themselves. The compute costs were high, but demand felt insatiable. The burn rate was high, but there was always another 18 to 24 months of runway. Investors were patient, and the models kept improving, and with each breakthrough, the payoff felt closer. For the people who got in early, it felt less like investing in a technology company and more like showing up in California at the start of the gold rush. For any setbacks that came, the market would figure [music] it out. And the market, as it turns out, has figured"
+    },
+    {
+      "id": 208,
+      "debut": 10012.0,
+      "fin": 10051.36,
+      "temps_estime": false,
+      "titre": "AI layoffs spread across San Francisco, Seattle and New York",
+      "resume": "The Austin firings repeat across the country: San Francisco AI startups give back office space, Seattle companies orbiting Microsoft's AI ambitions feel the shock waves as the center contracts, and New York AI infrastructure investors learn how fragile it is to build businesses on other companies' AI products. Each hub runs its own math that Thursday morning and the numbers are far from reassuring.",
+      "mots_cles": [
+        "AI layoffs",
+        "San Francisco",
+        "Seattle Microsoft",
+        "New York AI investors",
+        "dependency fragility",
+        "startups cutting costs",
+        "shock waves",
+        "tech hubs"
+      ],
+      "texte": "it out. The Austin firings repeat themselves all over the US. It's happening in San Francisco, where AI startups that were expanding just months ago were quietly giving back office space and cutting costs. It's happening in Seattle, where hundreds of companies were pulled into orbit by Microsoft's AI ambitions. Now, they're discovering that when [music] the center contracts, the shock waves travel outward. And it's happening in New York, where AI infrastructure investors built entire businesses on top of other companies AI products. They are learning how fragile that dependency can be. Each of these geographic centers are running their own math this Thursday morning. They are not loving what they find. The numbers are far from reassuring. In the first"
+    },
+    {
+      "id": 209,
+      "debut": 10051.36,
+      "fin": 10100.72,
+      "temps_estime": false,
+      "titre": "Tech job cuts: 120,000 AI workers laid off and corporate double speak",
+      "resume": "In the first quarter of 2026 more than 50,000 AI-industry tech workers lost their jobs, the highest Q1 total since 2023, and by mid-year the figure passed 120,000. IBM replaced hundreds of HR positions with chatbots, Salesforce cut 4,000 people citing AI, and Microsoft, which laid off 15,000 in 2025, called it a new era shaped by AI. The narration calls this corporate double speak, since the technology meant to create abundance justified eliminating the people who built it.",
+      "mots_cles": [
+        "tech layoffs 2026",
+        "120,000 job losses",
+        "IBM HR chatbots",
+        "Salesforce 4,000 cuts",
+        "Microsoft layoffs",
+        "corporate double speak",
+        "AI replacing jobs",
+        "Q1 job losses"
+      ],
+      "texte": "quarter of 2026 alone, before any of this week's events had been fully processed, somewhere north of 50,000 tech workers in the AI industry had already lost their jobs. It was the highest Q1 job loss since 2023. Halfway through the year, that number had already climbed past 120,000. The numbers are startling and worrying. IBM has eliminated hundreds of HR positions and replaced them with AI chat bots. Salesforce cut 4,000 people and said AI had reduced the need for [music] staff. Microsoft, which laid off 15,000 people in 2025, had its CEO tell employees that this was a new era shaped by AI. What all the job cut announcements had in common was a particular kind of corporate double speak. In the short term, the same technology that was supposed to create abundance was being used to justify the elimination of the people who had helped to build it."
+    },
+    {
+      "id": 210,
+      "debut": 10100.72,
+      "fin": 10160.96,
+      "temps_estime": false,
+      "titre": "Why this tech correction differs: physical infrastructure is hard to unwind",
+      "resume": "Tech has always been cyclical, with downturns in 2001, 2008 and 2022 followed by recovery, but this correction is centered on physical infrastructure built on demand that had not materialized yet. Chips, data centers, power contracts and fiber cables are harder to unwind than overpriced SaaS subscriptions, since you cannot turn off a data center, return 17,000 GPUs to the store or redirect hundreds of thousands of specialized careers.",
+      "mots_cles": [
+        "tech cycles",
+        "physical infrastructure",
+        "data centers",
+        "GPUs",
+        "SaaS subscriptions",
+        "power contracts",
+        "specialized careers",
+        "correction different"
+      ],
+      "texte": "Everyone in the tech industry knows it has always been cyclic. There have been plenty of downturns before 2001, 2008, 2022. People got laid [music] off, found other jobs. Eventually, the industry contracts and expands eventually. This time, [music] the question is whether eventually has a reliable timeline or whether this particular correction is different in character from the ones that came before. That's because this time the correction centers on the nature of the AI revolution's physical infrastructure. Everything that got built in the boom based on demand that had not yet materialized. Physical things like chips, data centers, [music] power contracts, and fiber optic cables are much harder to unwind than overpriced SAS subscriptions. You just can't turn off a data center. You can't return 17,000 GPUs to the store. And you can't immediately redirect the careers of hundreds of thousands of people who spent the last few years specializing in skills that were until recently in extremely high demand. The 140 people in Austin are right now beginning to find"
+    },
+    {
+      "id": 211,
+      "debut": 10160.96,
+      "fin": 10203.04,
+      "temps_estime": false,
+      "titre": "Austin coffee shop owner notices fewer tech regulars",
+      "resume": "On a Friday at 9 in the morning, the owner of an 11-year-old coffee shop on South Congress Avenue in Austin recalls how tech workers bought 12-dollar lattes and tipped well on corporate cards. Over the past 6 months some regulars stopped coming, and she put it down to remote work or new coffee shops in the area.",
+      "mots_cles": [
+        "Austin coffee shop",
+        "South Congress Avenue",
+        "tech workers",
+        "local business",
+        "regulars disappearing",
+        "corporate cards",
+        "remote work",
+        "secondary effects"
+      ],
+      "texte": "that out. Day five. It's 9:00 a.m. on Friday in a coffee shop on the corner of Austin's South Congress Avenue. It's been open for 11 years. Open before the tech companies came on mass. The owner has watched the neighborhood change over that time. On the one hand, she's grateful the tech workers came. They spent some money. Buy the $12 lattes. They frequently have meetings and run tabs on their corporate cards, tipping the help staff well when they expense it. On the other hand, she's uneasy. She's noticed that over the past 6 months, some of her regulars have stopped coming. Gradually, fewer faces file in through the sundrrenched door each morning. She's chocked it up to remote work or new coffee shops in the area. The [music] tech crowd always felt transient and temporary, the way college undergraduates turn over every four"
+    },
+    {
+      "id": 212,
+      "debut": 10203.04,
+      "fin": 10247.2,
+      "temps_estime": false,
+      "titre": "The AI campus shrinks 35% and the coffee shop's revenue collapses",
+      "resume": "The AI campus across the street, her main revenue source, is now 35% smaller, the Friday rush is about half of budget and the corporate catering contract signed in January is about to disappear. The cause is a debt-to-equity ratio she never heard of and AI infrastructure being repossessed in New Jersey, and she wonders whether to call her part-time staff or change her milk order.",
+      "mots_cles": [
+        "debt to equity ratio",
+        "campus 35% smaller",
+        "catering contract",
+        "small business impact",
+        "ripple effects",
+        "AI infrastructure repossessed",
+        "Friday rush",
+        "part-time staff"
+      ],
+      "texte": "years. One thing she hadn't thought to connect their absence to was an obscure debt to equity ratio she never even heard of. The AI campus across the street from her shop, which has been her single most important revenue source, is now 35% smaller than it was the day before. The Friday coffee rush that she's always relied on, planned for, and staffed for is about half of what she budgeted. She doesn't know it yet either, but this will be the way next Friday is, too. And the Friday after that, and the next. The corporate catering contract she signed in January is about to become non-existent. Not because of anything she did, but because the company on the other side of the agreement relied on AI infrastructure that's now being repossessed in New Jersey. She's thinking about next Saturday and whether she should call her part-time staff or adjust her milk"
+    },
+    {
+      "id": 213,
+      "debut": 10247.2,
+      "fin": 10286.56,
+      "temps_estime": false,
+      "titre": "Pete's Coffee and Starbucks close San Francisco stores as offices empty",
+      "resume": "In San Francisco, Pete's Coffee announced the closure of roughly 30 Bay Area locations, citing long-term growth priorities and market conditions, and Starbucks closed several stores serving half-empty offices. Placer AI found San Francisco had the lowest office visit rate of any major American city, more than 50% below pre-pandemic levels and still falling.",
+      "mots_cles": [
+        "Pete's Coffee closures",
+        "Starbucks closures",
+        "San Francisco",
+        "office visit rate",
+        "Placer AI",
+        "foot traffic",
+        "Bay Area",
+        "empty offices"
+      ],
+      "texte": "order. In San Francisco, Pete's Coffee, a Bay Area institution that's been serving the city since 1966, long before the city's eventual tech dominance, announced the closure of roughly 30 Bay Area locations. They cited what a spokesperson called long-term growth priorities and current market conditions. Starbucks was in a similar boat in San Francisco. They too closed multiple locations simultaneously. It included stores and corridors that served the daily ritual of thousands of office workers whose offices were now half empty. Foot traffic analytics firm Placer AI found that San Francisco had the lowest office visit rate of any major American city. It was more than 50% lower from prepandemic levels and"
+    },
+    {
+      "id": 214,
+      "debut": 10286.56,
+      "fin": 10336.72,
+      "temps_estime": false,
+      "titre": "Secondary shock and the dot-com comparison for hardware collateral",
+      "resume": "Economists call this a secondary shock, when a financial crisis moves from the institutions that made the bad bets to people and businesses with no direct exposure. The dot-com crash cost about $5 trillion in market value but the internet survived, and the narration asks whether the same will hold when the collateral is physical computing hardware being repossessed by teams with clipboards.",
+      "mots_cles": [
+        "secondary shock",
+        "financial contagion",
+        "dot-com crash",
+        "$5 trillion lost",
+        "physical hardware collateral",
+        "repossession",
+        "economists",
+        "tech contraction"
+      ],
+      "texte": "still falling. The coffee shops didn't cause that, they absorbed it. Economists call this a secondary shock. It is the moment when a financial crisis moves from the institutions of origin to the people and businesses who had no direct exposure to the bad bets. People connected by proximity, dependency, or just the sad fact that the money has to flow somewhere or it stops flowing everywhere. In previous tech contractions, the secondary shock was real but bounded. The dot crash cost about $5 trillion in market value, but the internet itself survived and the companies that rebuilt on its foundation eventually generated far more than what was lost. Will the same thing be true when the collateral isn't just internet domain registrations and vaporware business plans? Will it be true about physical computing hardware that is not in the earliest stages of being repossessed by teams with clipboards dispatched to data centers before dawn?"
+    },
+    {
+      "id": 215,
+      "debut": 10336.72,
+      "fin": 10371.28,
+      "temps_estime": false,
+      "titre": "Day 7 to 14: retirement accounts down 15-22% and older workers pay the price",
+      "resume": "By the following Monday the S&P 500 has given back a drop that will be cited in business school case studies for a generation. Retirement accounts are down 15 to 22% depending on tech exposure, and workers in their 50s, 5 to 10 years from retirement, accept they must work longer, as the people least able to absorb the loss take the brunt.",
+      "mots_cles": [
+        "Day 7 to 14",
+        "S&P 500 drop",
+        "retirement accounts down 22%",
+        "workers in their 50s",
+        "work longer",
+        "financial crisis burden",
+        "401k losses",
+        "case study"
+      ],
+      "texte": "Day 7 to 14. By the following Monday, the S&P 500 has given back a number that will be cited in business school case studies for a generation. Retirement accounts that took decades to build are down 15 to 22% depending on their concentration in tech. Workers in their 50s, now 5, maybe 10 years from the finish line are doing the grim arithmetic. They're coming to terms with the reality that they'll have to work longer, perhaps indefinitely, to make up the difference. These are the people who can least afford to absorb the loss. These are the ones who, true to most financial crises, are going to be forced to absorb the brunt of it. Nvidia's"
+    },
+    {
+      "id": 216,
+      "debut": 10371.28,
+      "fin": 10411.2,
+      "temps_estime": false,
+      "titre": "Nvidia survives but its $33 billion in receivables is uncertain",
+      "resume": "Nvidia's stock is down 28% from its peak but it remains profitable and makes real chips that real industries need, so its fate is not tied to a dot-com style crash. Still, nobody knows whether the $33 billion owed in accounts receivable will be collected or whether customers A and B and other leveraged cloud companies can pay, so the stock reflects uncertainty rather than the long-term thesis.",
+      "mots_cles": [
+        "Nvidia stock down 28%",
+        "accounts receivable $33 billion",
+        "customer A and B",
+        "leveraged cloud companies",
+        "Nvidia will survive",
+        "uncertainty",
+        "dot-com comparison",
+        "GPU demand"
+      ],
+      "texte": "stock is down 28% from its peak, but it's still a wildly profitable company. Make no mistake, it bears reemphasizing that Nvidia, for all of its foibless, continues to make real chips and GPUs that do real things that real industries depend on. Their fate isn't inextricably linked to the com crash. Nvidia will survive this. Still, nobody at the company knows this early whether the $33 billion they're owed in accounts receivable will ever get collected. Whether customers A and B and the rest of the highly leveraged cloud infrastructure companies can actually pay the bills they've already racked up. This is a question that'll take months or years to fully answer. And in the meantime, the stock price reflects the uncertainty of the moment, not the"
+    },
+    {
+      "id": 217,
+      "debut": 10411.2,
+      "fin": 10458.4,
+      "temps_estime": false,
+      "titre": "Banks, private credit and public pension funds exposed to GPU debt",
+      "resume": "Banks that funded the GPU buildout run stress tests, private credit firms that issued AI infrastructure debt reassess their portfolios, and venture funds face calls from endowments and pension funds. Some are public employee retirement systems for teachers, firefighters and sanitation workers who never invested in CoreWeave but whose security now depends on a New Jersey data center being liquidated efficiently enough to cover a margin call.",
+      "mots_cles": [
+        "private credit",
+        "GPU buildout financing",
+        "stress tests",
+        "pension funds",
+        "venture funds",
+        "margin call",
+        "public employees",
+        "CoreWeave"
+      ],
+      "texte": "long-term thesis. The banks that funded the GPU buildout are running their own stress tests. Private credit firms who issued the debt to AI infrastructure now look at their portfolios once fat with perceived profits very much differently now the venture funds who bankrolled all this are now facing calls with institutional investors and endowments and pension funds who want to know what their portfolio is really worth some of the pension funds are public employee retirement systems people like teachers firefighters and sanitation workers who have nothing to do with the AI revolution they've never even heard of coreweave or made any investment decisions of consequence accept the decision to invest at all. They're coming to terms still with the fact that their future security is quite literally tied to whether a New Jersey data center can be liquidated efficiently enough to cover a margin call. The California"
+    },
+    {
+      "id": 218,
+      "debut": 10458.4,
+      "fin": 10519.84,
+      "temps_estime": false,
+      "titre": "CalPERS exposure and how financial contagion travels",
+      "resume": "The California Public Employees Retirement System, the largest US public pension fund with almost half a trillion dollars for about 2 million members, holds an index-heavy equity portfolio, so a 20% drop in these stocks costs roughly the GDP of a midsized state. A 63-year-old retiring teacher in Fresno is told the picture has changed, and the narration says modern contagion echoes through every connected system, tying the AI bubble to almost everything.",
+      "mots_cles": [
+        "CalPERS",
+        "public pension fund",
+        "index exposure",
+        "20% stock drop",
+        "retiring teacher Fresno",
+        "financial contagion",
+        "interconnected systems",
+        "AI bubble"
+      ],
+      "texte": "Public Employees Retirement System or Kalpers is the largest public pension fund in the United States. It manages almost half a trillion dollars in assets on behalf of roughly 2 million teachers, police officers, and state workers. Its equity portfolio, like most institutional portfolios at scale, is awfully index, which means that anyone who wanted it this way or not, is severely exposed. When those stocks drop 20%, Kalpers loses roughly the GDP of a midsized American state. The pension board will have to issue a statement to the effect that the quote long-term investment horizon has suddenly shifted. It'll be accurate and irrelevant to the 63-year-old retiring school teacher in Fresno who is planning to stop working this year. They're now being told by a benefits administrator that the picture has changed. Modern financial contagions don't travel in straight lines. This is the architecture. It travels and it echoes through every system that is connected to every other financial system. Just as the AI bubble of the early 2020s is now connected to almost everything we see and do. And the human"
+    },
+    {
+      "id": 219,
+      "debut": 10519.84,
+      "fin": 10559.6,
+      "temps_estime": false,
+      "titre": "No villain this time: how 2008 differed",
+      "resume": "The most disorienting thing about this crisis is that there is nobody to be angry at, while financial crises are supposed to have a face. 2008 had its villains in mortgage brokers, loan officers and ratings agencies in bed with banks, and the knowledge that someone chose to run the machine is a form of comfort, even if one executive is prosecuted and the public pays the damages.",
+      "mots_cles": [
+        "2008 financial crisis villains",
+        "nobody to blame",
+        "ratings agencies",
+        "mortgage brokers",
+        "accountability",
+        "financial crisis",
+        "prosecution",
+        "How to save the future"
+      ],
+      "texte": "cost is real. How to save the future? The most disorienting thing about a situation like this is that there is nobody really to be angry at. Financial crisis are supposed to have a face. There was a CEO, a trader, a bank, somebody asleep at the wheel. You could feel confident attaching their name to the damage. 2008 had its villains real and constructed. The mortgage brokers, the loan officers, the ratings agencies in bed with the banks. Whoever the knowledge that someone somewhere had looked at the machine and just decided to run with it anyway is a form of comfort. Even if it's just a single executive that gets prosecuted and the public gets to pay for the damages. That's exactly what happened in 2008."
+    },
+    {
+      "id": 220,
+      "debut": 10559.6,
+      "fin": 10615.6,
+      "temps_estime": false,
+      "titre": "An AI crash built from thousands of rational choices",
+      "resume": "The AI crash has no villain, no fraud and no single bad decision but thousands of individually rational choices. Pension managers overweighted tech because the benchmark did, the benchmark because money flowed there, the analysts believed the revenue was real, the debt assumed even faster growth and the collateral looked solid because chips were scarce, so every link responded rationally to the one before it and the structure was tightly coupled with no slack.",
+      "mots_cles": [
+        "rational choices",
+        "no villain",
+        "tightly coupled system",
+        "benchmark overweight tech",
+        "debt collateral chain",
+        "systemic instability",
+        "chips collateral",
+        "AI crash"
+      ],
+      "texte": "But an AI crash like this is different. There's nobody obvious to blame. No villain, no fraud, no single bad decision. What happened was the combined results of thousands of choices that taken individually were completely rational. The pension fund manager overweighted tech because that's what the benchmark did. The benchmark overweighted tech because that's where the market's money was flowing. The money flowed there because the analysts believed the growth justified it. The analysts believed that because the revenue was real. The problem wasn't that the revenue was fake. It's that the debt was built on the assumption that the revenue would grow even faster. The debt looked safe because the collateral supported it. The collateral looked solid because the chips were scarce, valuable, and in extraordinary demand. Every step made sense. Every link in the chain was responding rationally to the one before it. And that's what made it dangerous. This is what systematically unstable structures look like from the inside. Tightly coupled in the same direction with no slack or wiggle room."
+    },
+    {
+      "id": 221,
+      "debut": 10615.6,
+      "fin": 10635.52,
+      "temps_estime": false,
+      "titre": "Post-mortems, failed reforms and building the next bubble",
+      "resume": "Eventually assets will change hands, the market will find a bottom, experts will publish post-mortems and commentators will outline reforms. Those reforms will not happen because the people with the power to implement them did well under the old system, and by the time everyone agrees what went wrong they are already building the next bubble.",
+      "mots_cles": [
+        "post-mortems",
+        "reform failure",
+        "market bottom",
+        "powerful beneficiaries",
+        "next bubble",
+        "financial crisis cycle",
+        "commentators",
+        "regulation"
+      ],
+      "texte": "Eventually, the assets will change hands and the market will find a bottom. Experts will publish post-mortems. Commentators will outline the reforms that should have happened. They won't happen because the people with the power to implement those changes are often the same people who did very well under the old system. And by the time everyone agrees on what went wrong, they're already busy building the next one."
+    },
+    {
+      "id": 222,
+      "debut": 10635.52,
+      "fin": 10671.84,
+      "temps_estime": false,
+      "titre": "Silicon Valley was not stupid: maybe only the timing was wrong",
+      "resume": "The narration grants that the technology works, the compute is real and the models are extraordinary achievements, so the AI revenue thesis may eventually prove right and only the timing wrong. That lands very differently for a venture capitalist with a 15-year fund life than for a 51-year-old electrician 9 years from retirement.",
+      "mots_cles": [
+        "AI thesis vs timing",
+        "Silicon Valley",
+        "venture capitalist",
+        "15-year fund",
+        "electrician near retirement",
+        "AI revenue promise",
+        "who bears the risk",
+        "AI revolution"
+      ],
+      "texte": "Silicon Valley was not stupid about any of this. It was in a specific and important sense the right way to approach the AI revolution. The technology works. The compute is real. What the models can do are extraordinary human achievements. We're not hallucinating any of this. It is the future. And it may truly be that the rationalization that AI will generate the revenue it promised eventually is actually not crazy. It might turn out that the timing was the only thing wrong, not the thesis. But that lands very differently depending on whether you're a venture capitalist with a 15-year fund life or a 51-year-old electrician 9 years from retirement. The"
+    },
+    {
+      "id": 223,
+      "debut": 10671.84,
+      "fin": 10699.2,
+      "temps_estime": false,
+      "titre": "After the crash: gains concentrated, losses distributed",
+      "resume": "An eventual AI crash would not end artificial intelligence, just as 2001 did not end the internet, and what comes next will probably rest on cleaner foundations and more honest math. The people who build the next version will differ from those who built this one, and those who suffer rarely made the original decisions, which is one of the oldest stories in economic history.",
+      "mots_cles": [
+        "AI crash aftermath",
+        "2001 internet comparison",
+        "next generation of AI",
+        "gains concentrated losses distributed",
+        "economic history",
+        "honest math",
+        "who suffers",
+        "AI bubble"
+      ],
+      "texte": "eventual AI crash, if that's what we're calling it, is not the end of artificial intelligence anymore than 2001 was the end of the internet. What comes after will probably be better, built on cleaner and cleaner foundations with more honest math. The people who built the next version won't be the same people who built this one. And the people who suffer the consequences usually won't be the people who made the original decisions. That's one of the oldest stories in economic history. The gains are concentrated. The losses are"
+    },
+    {
+      "id": 224,
+      "debut": 10699.2,
+      "fin": 10749.44,
+      "temps_estime": false,
+      "titre": "The job market massacre: 477,000 jobs cut since the start of 2026",
+      "resume": "Over 477,000 jobs have been cut since the beginning of 2026, with AI killing white-collar livelihoods and the entry-level position described as dead while big tech does not care. In 2019, before the pandemic and ChatGPT, employers announced almost 600,000 job losses for the whole year and only 2009 was worse, so the current scale is like firing the entire working population of Atlanta.",
+      "mots_cles": [
+        "job cuts 2026",
+        "477,000 jobs",
+        "white collar workers",
+        "entry-level jobs dead",
+        "2019 layoffs",
+        "2009 financial crisis",
+        "Atlanta workforce",
+        "AI job losses"
+      ],
+      "texte": "distributed. The job market is being massacred. Since the beginning of 2026, over 477,000 jobs have been axed. AI is killing the livelihood of white collar workers. Silicon Valley says this is just a temporary phase, a market correction. It's not. Industry insiders say AI is just moving the labor market. But the truth is the entry-level position is dead and big tech doesn't care. This is only the beginning. At the current rate, the country is set to lose more jobs than at any point in the last two decades. In 2019, before the pandemic and Chad GPT, American employers announced around almost 600,000 jobs lost across the entire year. Only 2009 had seen more, and that was in the fallout of the financial crisis. The current scale of cuts is like firing the entire working population of Atlanta."
+    },
+    {
+      "id": 225,
+      "debut": 10749.44,
+      "fin": 10803.84,
+      "temps_estime": false,
+      "titre": "Challenger, Gray & Christmas: AI is the top cited reason for layoffs",
+      "resume": "The firm Challenger, Gray & Christmas tracks the reason behind every announced layoff and added an artificial intelligence category in 2023. In July 2026 AI was the most cited reason for job cuts for the sixth month in a row, with 113,000 announced cuts by then and 184,000 since the category began, while the tech sector announced nearly 150,000 cuts in 2026, up 67%, close to a third of all US layoffs.",
+      "mots_cles": [
+        "Challenger Gray and Christmas",
+        "AI cited layoffs",
+        "184,000 AI job cuts",
+        "tech sector layoffs 150,000",
+        "67% increase",
+        "layoff reasons",
+        "July 2026",
+        "third of announced layoffs"
+      ],
+      "texte": "But we're being told things are looking up. The figures are terrifying and so is the reason behind them. For decades, the firm Challenger Gray and Christmas has tracked the reason behind every announced layoff. Restructuring, cost cutting, bankruptcy, closings, it's all there. In 2023, the firm added a new category to the list, artificial intelligence. In July 2026, AI was the most cited reason for job cuts for the sixth month in a row. By that point, AI had caused 113,000 job cut announcements. Since the category was created 3 years ago, it has ballooned to 184,000. And the cuts are pooling in one place. The tech sector has announced nearly 150,000 job cuts in 2026, a spike of 67% compared to the previous year. This is happening at the same time when every other sector is slowing job cuts. Tech now accounts for nearly a third of every announced layoff in the US. The AI"
+    },
+    {
+      "id": 226,
+      "debut": 10803.84,
+      "fin": 10839.04,
+      "temps_estime": false,
+      "titre": "Stanford study: workers aged 22 to 25 in AI-exposed jobs hit hardest",
+      "resume": "At Stanford's Digital Economy Lab, economist Erik Brynjolfsson spent 3 years running ADP payroll data covering roughly one in six American workers. Employment among workers aged 22 to 25 in the most AI-exposed occupations fell about 16% since generative AI went mainstream, while experienced workers in the same roles stayed flat or grew.",
+      "mots_cles": [
+        "Stanford Digital Economy Lab",
+        "Erik Brynjolfsson",
+        "ADP payroll data",
+        "ages 22 to 25",
+        "AI-exposed occupations",
+        "16% employment drop",
+        "generational divide",
+        "young workers"
+      ],
+      "texte": "call is happening. But is it targeting specific roles? At Stanford's digital economy lab, the economist Eric Bolson had spent 3 years running payroll data from ADP, the real monthly records covering roughly one in six American workers. The results showed a brutal generational divide. Employment among workers aged 22 to 25 in the most AI exposed occupations had fallen by about 16% since generative AI went mainstream. Over that same period, employment for experienced workers in the same roles stayed flat or actually grew. It's the younger workers that are taking the hit."
+    },
+    {
+      "id": 227,
+      "debut": 10839.04,
+      "fin": 10864.16,
+      "temps_estime": false,
+      "titre": "Entry-level coders down 20% while senior developers thrive",
+      "resume": "Since late 2022 the headcount for entry-level software developers is down roughly 20%, while senior developers in the same repositories find even more opportunities. A 23-year-old and a 43-year-old doing identical work live in two different economies, because the labor market is not collapsing but the entrance to it is.",
+      "mots_cles": [
+        "entry-level software developers",
+        "junior coders down 20%",
+        "senior developers",
+        "two economies",
+        "labor market entrance",
+        "age divide",
+        "software jobs",
+        "AI coding"
+      ],
+      "texte": "And nowhere is that more evident than among the software developers. Since late 2022, the headcount for entry-level coders is down roughly 20%. All the while, senior developers writing code in the same repositories are finding even more job opportunities. A 23-year-old and a 43-year-old doing identical work are living in two different economies. The labor market isn't collapsing, but the entrance to it is. Bren Olson's"
+    },
+    {
+      "id": 228,
+      "debut": 10864.16,
+      "fin": 10911.6,
+      "temps_estime": false,
+      "titre": "Hiring freeze, not firing: recent graduate unemployment and underemployment",
+      "resume": "The entry-level decline is driven almost entirely by a collapse in hiring rather than firing, since companies simply stopped posting the jobs. In the second quarter of 2026 the New York Fed put recent college graduate unemployment at about 5.7% and underemployment at 42%, the highest since 2020, while workers 25 and over with a bachelor's degree had about 2.8% unemployment.",
+      "mots_cles": [
+        "hiring collapse",
+        "recent graduate unemployment 5.7%",
+        "underemployment 42%",
+        "New York Fed",
+        "college graduates",
+        "bachelor's degree",
+        "entry-level hiring",
+        "jobs never posted"
+      ],
+      "texte": "researchers found the entry-level decline is driven almost entirely by a collapse in hiring rather than firing. Nobody is escorting 23-year-olds out of the building. Companies simply stopped opening the door. The job was never posted in the first place. You just need to look at the graduate data to see the wreckage. In the second quarter of 2026, the Federal Reserve Bank of New York put unemployment among recent college graduates at about 5.7%. Under employment was sitting at a massive 42%. That means 4 in 10 recent graduates were working in roles that did not need a degree. It is the highest score since 2020. But for workers aed 25 and over with a bachelor's degree, unemployment sits at around 2.8%. 8%. [music] So getting a degree is useful, just not right away. The gap between the new starts and the experienced workers"
+    },
+    {
+      "id": 229,
+      "debut": 10911.6,
+      "fin": 10937.12,
+      "temps_estime": false,
+      "titre": "Entry-level roles fall in law, consulting and banking",
+      "resume": "The trend is not confined to tech: entry-level roles across law, consulting and investment banking have fallen roughly 35% since 2023. PwC plans to hire 39% fewer audit associates by 2028, Baker McKenzie is cutting a thousand roles, and paralegal hiring at the 250 largest American law firms is down 26% since 2018.",
+      "mots_cles": [
+        "entry-level roles down 35%",
+        "PwC audit associates",
+        "Baker McKenzie cuts",
+        "paralegal hiring",
+        "law firms",
+        "consulting",
+        "investment banking",
+        "white collar entry jobs"
+      ],
+      "texte": "keeps growing. This trend is not even confined to tech. Entry-level roles across law, consulting, and investment banking have fallen roughly 35% since 2023. Price Waterhouse Cooper said it'll hire 39% fewer audit associates by 2028. Law firm Baker McKenzie is cutting a thousand roles. Hiring of parallegals at the 250 largest American law firms is down 26% since 2018. [music]"
+    },
+    {
+      "id": 230,
+      "debut": 10937.12,
+      "fin": 10995.2,
+      "temps_estime": false,
+      "titre": "The law firm pyramid: AI removes the junior base",
+      "resume": "Law firms rely on a pyramid where many juniors do document review, legal research and boilerplate drafting billed to clients, and that revenue trains future partners. AI wipes out the bottom because these tasks are grunt work, so American firms hired just over 24,000 associates in 2025 and only 38% came straight from law school, the rest being lateral hires who are billable on day one with no training.",
+      "mots_cles": [
+        "law firm pyramid",
+        "junior associates",
+        "document review",
+        "billable hours",
+        "lateral hires",
+        "24,000 associates 2025",
+        "AI grunt work",
+        "partner training"
+      ],
+      "texte": "The entire law industry is vulnerable to this trend. It's built on an explicit pyramid of hierarchy and that's the only way [music] it functions. Firms hire a large class of juniors, hand them document reviews, legal research, boilerplate [music] drafting and the clients are buil for those hours and then the revenue is used to train the next generation of partners. AI wipes out the bottom of that pyramid. Not because it's smarter than a firstear associate, but because the tasks are mostly grunt work. AI can handle first pass review and contract analysis faster and cheaper than any junior. [music] Suddenly, the billable hours justify axing those juniors. And the firms took advantage of that. American law firms hired just over 24,000 associates in 2025. Only 38% came straight out of law school. The rest were lateral hires poached from rivals. [music] billable on day one and they require no training at all. The law industry [music] is just one of the easiest to measure examples across all major AI affected industries. We can see the same"
+    },
+    {
+      "id": 231,
+      "debut": 10995.2,
+      "fin": 11018.96,
+      "temps_estime": false,
+      "titre": "Record profits, fewer juniors: Block halves its workforce",
+      "resume": "Companies report rising profits yet hire fewer and fewer juniors, and none of it is a conspiracy because it is announced on the record. In February 2026 payments company Block cut close to half of its 10,000-person workforce, and Jack Dorsey told staff AI had made many roles unnecessary and predicted most companies would reach the same conclusion within a year.",
+      "mots_cles": [
+        "Block layoffs",
+        "Jack Dorsey",
+        "AI made roles unnecessary",
+        "record profits fewer hires",
+        "10,000 workforce cut in half",
+        "February 2026",
+        "junior hiring",
+        "corporate announcements"
+      ],
+      "texte": "trend. Companies are reporting increased profits and yet they're hiring fewer and fewer juniors. None of this is a conspiracy. [music] It is being announced and put on the record. In February 2026, the payments company Block cut close to half of [music] its 10,000 person workforce. Jack Dorsey told the staff AI had made many of those roles unnecessary and [music] predicted most companies would reach the same conclusion within a year."
+    },
+    {
+      "id": 232,
+      "debut": 11018.96,
+      "fin": 11058.08,
+      "temps_estime": false,
+      "titre": "Oracle, Amazon and Meta cut tens of thousands of jobs",
+      "resume": "Oracle reportedly cut roughly 21,000 employees over 12 months, about 13% of its workforce, and Amazon cut 30,000 corporate jobs in 3 months after CEO Andy Jassy said more AI agents would mean fewer corporate positions. Meta moved about 7,000 employees into AI-focused roles while laying off 8,000 more, so 15,000 people were affected even though the reduction on paper was only about 8,000.",
+      "mots_cles": [
+        "Oracle layoffs 21,000",
+        "Amazon 30,000 corporate jobs",
+        "Andy Jassy AI agents",
+        "Meta restructuring",
+        "7,000 moved to AI roles",
+        "8,000 laid off",
+        "big tech layoffs",
+        "workforce reduction"
+      ],
+      "texte": "Then reports emerged that Oracle had cut roughly 21,000 [music] employees over 12 months. That's about 13% of its workforce. It was all part of a broad restructuring that included efforts to reduce costs and increase efficiency. Amazon cut 30,000 corporate jobs over the course of 3 months. [music] The groundwork for that change had been laid a year and a half earlier when CEO Andy Jasse posted that as the company rolled out more AI agents, it would need fewer people in corporate positions. Meta did something subtler. It moved about 7,000 employees into AI focused roles while laying off another 8,000. That is 15,000 more people affected by the change while on paper the reduction was only about 8,000"
+    },
+    {
+      "id": 233,
+      "debut": 11058.08,
+      "fin": 11105.28,
+      "temps_estime": false,
+      "titre": "Labor share at a record low: workers take home 52.9% of value produced",
+      "resume": "In August 2026 the Bureau of Labor Statistics productivity release for the second quarter showed workers took home just 52.9% of the value they produced, a record low compared with 65.8% in early 1947 and 62.8% at the end of 2000. Real hourly compensation fell 3.1% year over year, and while the remaining 47% includes depreciation, interest, rent and taxes, the worker's share has never been smaller.",
+      "mots_cles": [
+        "labor share of income",
+        "Bureau of Labor Statistics",
+        "52.9% of value produced",
+        "productivity release",
+        "real hourly compensation down 3.1%",
+        "record low",
+        "1947 comparison",
+        "wages vs productivity"
+      ],
+      "texte": "roles. So where's the month going? In August 2026, the Bureau of Labor Statistics published its productivity release for the second quarter. Buried in it was a number that is arguably the biggest predictor of how global capitalism works. [music] It revealed that workers took home just 52.9% of the value they produced for the business. For scale in the first quarter of 1947, [music] that figure was 65.8%. At the end of 2000, it was 62.8%. The August 2026 figure was a record low. In the same release, real hourly compensation, what workers actually earn after inflation, fell 3.1% year-over-year. The remaining 47% isn't all profit. It includes depreciation, interest, [music] rent, and taxes. But regardless of that, the portion ending up in the worker's hands has never been"
+    },
+    {
+      "id": 234,
+      "debut": 11105.28,
+      "fin": 11158.72,
+      "temps_estime": false,
+      "titre": "Nvidia's revenue per employee and AI decoupling output from workers",
+      "resume": "Shrinking employment worsens wealth concentration: Nvidia's fiscal 2026 revenue of $215.9 billion came from about 42,000 employees, roughly $5.14 million per person versus $1 million in 2023. Output per employee quintupled while wages barely moved and the workforce grew only 50%, and unlike the industrial revolution, which still needed muscle, AI makes output climb while headcount barely changes.",
+      "mots_cles": [
+        "Nvidia revenue per employee",
+        "$5.14 million per employee",
+        "42,000 employees",
+        "wealth concentration",
+        "output per worker",
+        "industrial revolution comparison",
+        "Ford assembly line",
+        "wages stagnant"
+      ],
+      "texte": "smaller. And when you couple this with shrinking employment, the concentration of wealth gets even worse. Nvidia's fiscal 2026 revenue came at $215.9 billion produced by about 42,000 employees. That works out at about $5.14 million of revenue per [music] person. 3 years earlier in 2023, that number sat at 1 million. The company's output per employee [music] has quintupled in the time it takes to get a bachelor's degree, but the average wage has barely moved and their total workforce only grew by 50%. At the height of American industrial power, a Ford worker on the assembly line was producing a fraction of a percent of $5 million in inflationadjusted terms. The industrial revolution made muscle more productive, but it still needed the muscle. AI does something different. It makes the output climb while the number of people attached [music] to it barely moves. In"
+    },
+    {
+      "id": 235,
+      "debut": 11158.72,
+      "fin": 11193.52,
+      "temps_estime": false,
+      "titre": "The AI Layoff Trap paper: the monopolist who automates carefully",
+      "resume": "In March 2026 Brett Faulk of the University of Pennsylvania and Gary Sucallis of Boston University published a paper called The AI Layoff Trap, a theoretical model asking who is left to buy anything if AI replaces the workforce. In a one-company economy where all workers are also the customers, firing them makes demand disappear, so the rational monopolist automates carefully and stops short of the cliff.",
+      "mots_cles": [
+        "The AI Layoff Trap",
+        "University of Pennsylvania",
+        "Boston University",
+        "economic model",
+        "workers as consumers",
+        "demand disappears",
+        "monopoly automation",
+        "who buys the product"
+      ],
+      "texte": "March 2026, Brett Faulk of the University of Pennsylvania and Gary Sucallis of Boston University published a paper titled The AI layoff trap. It is a theoretical model that asks [music] if AI replaces the workforce, who is left to buy anything. Let's just say the economy is one company, a monopoly that makes one [music] product. Everyone works there. Then AI arrives. The CEO could automate 90% of the staff, but those workers are also the consumers, [music] the ones who buy the product. Fire them, and demand disappears. So, the rational monopolist automates carefully, stopping well short of the"
+    },
+    {
+      "id": 236,
+      "debut": 11193.52,
+      "fin": 11232.32,
+      "temps_estime": false,
+      "titre": "Competition turns automation into a prisoner's dilemma",
+      "resume": "Once there is competition, workers are only a sliver of any company's customer base, so the CEO who automates keeps 100% of the savings while the damage is spread across rivals. Every competitor then must automate, so each CEO acts rationally yet everyone ends up worse off, harming both workers and firm owners, and more competition and better AI make it worse.",
+      "mots_cles": [
+        "AI layoff trap",
+        "prisoner's dilemma",
+        "competition automation",
+        "rational CEOs",
+        "demand destruction",
+        "collective harm",
+        "game theory",
+        "firm owners hurt"
+      ],
+      "texte": "cliff. But the moment there's competition, things change. Suddenly, the workers are only a sliver of the customer base. Automate the staff and the CEO pockets 100% [music] of the cost savings. The economic damage gets spread across every company in the market, including your rivals. The share of the damage is close to zero. But then the competition notices and decides to automate. It's the only strategy. No matter what [music] anyone else does, the best move is to cut. Every CEO is acting rationally, yet everyone is worse off. Falcon Sucatas [music] found that the harm landed both on the workers and the owners of the firms doing the automating. Crucially, more competition makes it worse. Better AI makes it"
+    },
+    {
+      "id": 237,
+      "debut": 11232.32,
+      "fin": 11285.76,
+      "temps_estime": false,
+      "titre": "The broken loop: AI sold to professionals while their entry jobs vanish",
+      "resume": "Demand is being stripped from Gen Z, the group meant to spend and earn for the next 40 years. This is the broken loop of the AI boom, since the industry pitches subscriptions and co-pilots to knowledge workers while removing the entry-level jobs those buyers would be hired into, so a 23-year-old without a junior analyst job will not pay 200 dollars a month for an AI tool.",
+      "mots_cles": [
+        "Gen Z demand",
+        "broken loop AI boom",
+        "AI subscription",
+        "entry-level knowledge jobs",
+        "junior analyst",
+        "consumer demand",
+        "productivity tool pipeline",
+        "$200 a month"
+      ],
+      "texte": "worse. Still, the economic demand being destroyed is not evenly distributed. It's being stripped from Gen Z, the exact group of professionals who are supposed to spend the next 40 years earning money and driving the economy. That is the broken loop at the heart of the AI boom. The industry's pitch is that AI is a product ordinary professionals will buy. A subscription, a co-pilot, a tool that makes a knowledge worker more valuable. But the same technology is being deployed to remove the entry-level knowledge jobs those buyers were supposed to be hired into. A 23-year-old who can't get a junior analyst position is not going to pay 200 bucks a month for an AI tool. They're more concerned about paying their utility bill, their rent, their mortgage, or their lunch. You can't simultaneously sell the world a productivity tool for professionals and eliminate the same pipeline that produces professionals. That's not just a hypothesis. We're already seeing it."
     }
   ]
 }
