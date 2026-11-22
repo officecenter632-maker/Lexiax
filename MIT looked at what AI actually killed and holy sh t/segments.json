@@ -1,0 +1,471 @@
+{
+  "version": 1,
+  "video_id": "W8Dl-TS9H2c",
+  "titre_video": "MIT looked at what AI actually killed and holy sh*t...",
+  "duree_s": 775.88,
+  "avancement": {
+    "lignes_traitees": 163,
+    "fin_traitee_s": 775.88,
+    "nb_lignes_total": 163,
+    "complet": true
+  },
+  "nb_segments": 24,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.16,
+      "fin": 26.12,
+      "temps_estime": true,
+      "titre": "The AI job-pocalypse: seniors weaponized, entry-level wiped out",
+      "resume": "Opening thesis: the AI job-pocalypse already happened, but not as a mass white-collar layoff. Corporate leaders kept veteran workers and used AI to multiply their workloads, while shutting the door on entry-level hires. The corporate ladder is being pulled up from the top, leaving a generation on the sidelines.",
+      "mots_cles": [
+        "AI job-pocalypse",
+        "white collar",
+        "entry-level jobs",
+        "veteran workers",
+        "corporate ladder",
+        "layoffs",
+        "workload",
+        "lost generation"
+      ],
+      "texte": "The AI job-pocalypse happened… you just weren’t paying attention. Instead of the white collar cull, corporate leaders took a more surgical approach. They didn’t lay off the veteran workers, they weaponized them with AI to multiply their workloads. Then they slammed the door shut on everyone else. Entry jobs are being systematically wiped out and an entire generation is being left of the sidelines.. The corporate ladder isn’t broken. It’s being pulled up from the top."
+    },
+    {
+      "id": 2,
+      "debut": 26.12,
+      "fin": 56.96,
+      "temps_estime": true,
+      "titre": "The traditional entry-level path: the golden ticket AI tore up",
+      "resume": "For decades the route into a middle-class life was study, get a degree and pay your dues with grunt work such as boilerplate code, spreadsheets and admin tasks. Entry-level jobs gave newcomers a foot in the door, exposure to experienced colleagues and soft skills. Now AI has torn up that golden ticket.",
+      "mots_cles": [
+        "entry-level jobs",
+        "grunt work",
+        "degree",
+        "middle class",
+        "foot in the door",
+        "soft skills",
+        "boilerplate code",
+        "golden ticket"
+      ],
+      "texte": "For decades, the path into a comfortable middle-class life followed a familiar formula. Study hard, get a degree and pay your dues by doing the grunt work. Entry level jobs were never meant to be glamorous. They were the tasks no one else wanted to do: write boilerplate code, fill in spreadsheets or admin work. In exchange, it was a foot in the door. New workers did the boring background work and got to watch their more experienced colleagues and cultivate the soft skills to succeed. It was the golden ticket. Now AI has torn it up."
+    },
+    {
+      "id": 3,
+      "debut": 56.96,
+      "fin": 95.44,
+      "temps_estime": true,
+      "titre": "Companies stop hiring juniors while seniors get more productive",
+      "resume": "Companies no longer need to hire and train entry-level workers, and senior employees are not put at risk since AI makes them more productive. Graduates with six-figure student loans are rejected within minutes by algorithms rather than HR departments. They now fight over a shrinking pool of jobs in the tech industry.",
+      "mots_cles": [
+        "graduates",
+        "student loans",
+        "algorithmic rejection",
+        "tech industry",
+        "senior employees",
+        "productivity",
+        "shrinking job pool",
+        "hiring freeze"
+      ],
+      "texte": "Companies eliminated the need to hire and educate entry-level workers, without having to put senior employees at any great risk. In fact, senior employees are becoming more productive than ever before. Their lives are getting easier with AI on their side, while the white collar workforce is locked out. And you only have to look at the front lines of the tech industry to see the real, human cost of this trend. Graduates who did everything right, and racked up 6 figure student loans, are being stonewalled. They’re getting rejected daily… and not by HR departments, but by algorithms minutes after applying. AI is soaking up the entry level roles and now graduates are fighting over a shirking pool of jobs."
+    },
+    {
+      "id": 4,
+      "debut": 95.44,
+      "fin": 133.84,
+      "temps_estime": true,
+      "titre": "MIT's Iceberg Index: AI is optimized for entry-level tasks",
+      "resume": "MIT researchers created the Iceberg Index, which measures how much human work AI can do by mapping over 32,000 work skills across 923 occupations. They found AI overlaps most with entry-level work, because the needed knowledge sits in manuals, textbooks, courses and procedures that make up much of AI training data.",
+      "mots_cles": [
+        "MIT",
+        "Iceberg Index",
+        "32,000 skills",
+        "923 occupations",
+        "skill overlap",
+        "training data",
+        "entry-level jobs",
+        "textbooks"
+      ],
+      "texte": "And researchers at MIT wanted to find out who was getting hit the hardest. To do that, they came up with something called the “Iceberg Index”. It measures how much human work AI can actually do, based on the specific skills required to do that work. The research team mapped over 32,000 distinct work skills across 923 occupations and looked at how much overlap there was. They found that AI was perfectly optimized to steal entry-level jobs. That’s because the knowledge needed to carry out those tasks can be found in instruction manuals, textbooks, academic courses, and operating procedures. It’s the same sources that make up a large portion of AI training data."
+    },
+    {
+      "id": 5,
+      "debut": 133.84,
+      "fin": 163.12,
+      "temps_estime": false,
+      "titre": "Why senior skills are harder for AI: tacit judgment, the legal example",
+      "resume": "AI is much less capable of the tasks experienced employees perform, which rely on skills, habits and instincts built over time. In law, AI can draft legal summaries but cannot predict how a judge will respond to an argument. Senior employees therefore have little job-security worry because their knowledge is still needed.",
+      "mots_cles": [
+        "senior employees",
+        "tacit knowledge",
+        "instincts",
+        "legal industry",
+        "legal summaries",
+        "judge",
+        "job security",
+        "experience"
+      ],
+      "texte": "Meanwhile, AI wasn’t anywhere near as capable of taking on the types of tasks that more experienced employees do in their day-to-day routines. Those are the tasks that rely on skills, habits, and instincts picked up and honed over time. For example, in the legal industry, AI can handle entry-level jobs like drafting legal summaries, but it can’t predict how a judge will respond to a certain argument. So, senior employees don’t necessarily need to worry about their job security. Their skills and knowledge are still needed."
+    },
+    {
+      "id": 6,
+      "debut": 163.12,
+      "fin": 197.04,
+      "temps_estime": false,
+      "titre": "Seniors embrace AI instead of junior associates: 20% and 30% gains",
+      "resume": "Senior professionals use AI assistants rather than junior associates for parts of their workload. Senior law partners claw back 20% of their week and software engineers work 30% faster, so AI makes experienced workers more effective rather than replacing them. An AI agent does boring tasks quicker, more efficiently and cheaper.",
+      "mots_cles": [
+        "AI assistants",
+        "law firms",
+        "senior partners",
+        "20% of the week",
+        "software engineers",
+        "30% faster",
+        "junior associates",
+        "cheaper"
+      ],
+      "texte": "They can happily embrace AI and enjoy the upsides without any of its downsides. That’s why countless senior professionals are using AI assistants rather than junior associates to handle parts of their daily workloads. In the law firms, the majority of senior partners are using AI to claw back 20% of their week. Software engineers are getting work done 30% quicker thanks to AI. When more experienced workers embrace AI, it doesn’t take their jobs from them; it makes them more effective. Why pay someone to do the boring tasks when an AI agent can do it quicker, more efficiently and cheaper?"
+    },
+    {
+      "id": 7,
+      "debut": 197.04,
+      "fin": 230.08,
+      "temps_estime": false,
+      "titre": "Economic logic and the paradox of a deleted tier of the workforce",
+      "resume": "Companies did not want to shut out graduates but followed economic logic, which said reducing or freezing entry-level hiring was the smartest move in the most AI-exposed sectors. This creates a paradox: unemployment is stable, senior staff are efficient and profits are at records, yet a whole tier of the workforce is being deleted.",
+      "mots_cles": [
+        "economic logic",
+        "hiring freeze",
+        "AI-exposed sectors",
+        "paradox",
+        "stable unemployment",
+        "record profits",
+        "entry-level hiring",
+        "profit"
+      ],
+      "texte": "The business world is all about profit after all. It wasn’t that these companies wanted to close the door on graduates. They needed to operate on economic logic. And economic logic said that either reducing or freezing entry-level hiring was the smartest move. So that’s what a lot of companies in the most AI-exposed sectors did. And it’s created a paradox. On the surface everything looks fine. Unemployment numbers are stable, senior staff are more efficient and executives are boasting about record profits. But once you dig deeper, an entire tier of the workforce is being deleted."
+    },
+    {
+      "id": 8,
+      "debut": 230.08,
+      "fin": 262.16,
+      "temps_estime": true,
+      "titre": "Unsustainable: where will tomorrow's leaders come from?",
+      "resume": "Without junior hires, the question is who replaces executives, managers and partners when they retire. Entry-level jobs were training grounds that turned raw academic knowledge into real-world business acumen. Corporate leaders either do not understand this or do not care, which is a recipe for disaster.",
+      "mots_cles": [
+        "future leaders",
+        "succession",
+        "retirement",
+        "training ground",
+        "business acumen",
+        "academic knowledge",
+        "junior staff",
+        "unsustainable"
+      ],
+      "texte": "And it isn’t sustainable. If companies stop hiring junior staff, where are the leaders of tomorrow going to come from? When the executives, managers, and partners decide to retire, who will take their place? Entry-level jobs were never just about doing trivial or basic tasks. They were training grounds where graduates entered with nothing but raw academic knowledge and transformed that into real-world business acumen. Corporate leaders don’t seem to understand that. Or, they don’t care enough. Either way, it’s a recipe for disaster."
+    },
+    {
+      "id": 9,
+      "debut": 262.16,
+      "fin": 291.39,
+      "temps_estime": true,
+      "titre": "Iceberg Index results: 11.7% of the workforce, $1.2 trillion in wages",
+      "resume": "Applying the Iceberg Index to 151 million American workers, MIT found that 11.7% of the workforce can be replaced by AI right now. That represents a $1.2 trillion wage bill, larger than the GDP of countries like Poland and Switzerland. The situation is not hypothetical, and the number will rise as models improve.",
+      "mots_cles": [
+        "Iceberg Index",
+        "151 million workers",
+        "11.7%",
+        "$1.2 trillion",
+        "wage bill",
+        "GDP",
+        "Poland",
+        "Switzerland"
+      ],
+      "texte": "MIT researchers applied their Iceberg Index to 151 million workers across America. And the results were terrifying. 11.7% of the workforce can be replaced by AI right now. That’s a wage bill of $1.2 trillion that machines can fill… a sum larger than the entire gross domestic product (GDP) of developed nations such as Poland and Switzerland. This isn’t some sort of hypothetical dystopian future. It’s happening right now. And as these models develop, that number is only going to rise."
+    },
+    {
+      "id": 10,
+      "debut": 291.39,
+      "fin": 322.72,
+      "temps_estime": true,
+      "titre": "Why unemployment has not spiked: crashing waves vs rising tides",
+      "resume": "If so much of the wage bill could be automated, why has unemployment not skyrocketed? The answer lies in two economic mechanisms, crashing waves and rising tides. A crashing wave is a sudden breakthrough that makes a task or profession obsolete instantly, such as a cure for cancer or autonomous driving replacing commercial drivers.",
+      "mots_cles": [
+        "unemployment",
+        "crashing wave",
+        "rising tide",
+        "economic mechanisms",
+        "sudden breakthrough",
+        "autonomous driving",
+        "commercial drivers",
+        "obsolete"
+      ],
+      "texte": "But if such a large part of the US wage bill could already be handled by machines, why hasn’t unemployment skyrocketed across the board? The answer to that boils down to two important economic mechanisms, known as “crashing waves” and “rising tides.” A crashing wave is typically defined as some sort of sudden breakthrough that completely renders a human task or profession obsolete. A cure for cancer would be a crashing wave, or an autonomous driving system that immediately replaces millions of commercial drivers. With a crashing wave, the impact is instant."
+    },
+    {
+      "id": 11,
+      "debut": 322.72,
+      "fin": 341.44,
+      "temps_estime": false,
+      "titre": "Crashing waves already hit translation and copywriting",
+      "resume": "Some AI crashing waves are already felt in highly exposed fields. Clients feed documents and audio into AI instead of hiring translators, and companies ask ChatGPT or Claude to generate user manuals, blogs and product descriptions rather than hiring experienced copywriters.",
+      "mots_cles": [
+        "translation",
+        "copywriting",
+        "ChatGPT",
+        "Claude",
+        "user manuals",
+        "product descriptions",
+        "exposed fields",
+        "experienced writers"
+      ],
+      "texte": "And there are crashing waves in AI. They’re the ones being felt in the most exposed fields, like translation. Clients are choosing to feed documents and audio files into AI. It’s a similar story in copywriting, companies are asking ChatGPT or Claude to generate their user manuals, blogs, and product descriptions, rather than experienced writers."
+    },
+    {
+      "id": 12,
+      "debut": 341.44,
+      "fin": 360.96,
+      "temps_estime": false,
+      "titre": "AI as a rising tide: slow, gradual and easy to miss",
+      "resume": "Across most of the economy AI is not a crashing wave but a rising tide. Rising tides take hold gradually, can take years to show their full effects and move so slowly that people may not notice them at first.",
+      "mots_cles": [
+        "rising tide",
+        "gradual change",
+        "slow adoption",
+        "years",
+        "economy",
+        "AI impact",
+        "unnoticed",
+        "crashing wave"
+      ],
+      "texte": "But, across the majority of the economy, AI isn’t acting like a crashing wave. It’s more like a rising tide, and that’s something very different. Rising tides are much more gradual in terms of how they take hold. It can take years for their full effects to be felt, and their influence moves so slowly, you might not even notice it.. at least at first."
+    },
+    {
+      "id": 13,
+      "debut": 360.96,
+      "fin": 394.0,
+      "temps_estime": false,
+      "titre": "Rising tide analogies: smartphones and streaming",
+      "resume": "Smartphones went from a niche luxury to an essential tool in a decade, wiping out landlines and changing communication. Streaming services started as a quirky alternative and killed physical media. Rising tides can be as dramatic as crashing waves but give people time to adapt, so they seem less scary.",
+      "mots_cles": [
+        "smartphones",
+        "landlines",
+        "streaming services",
+        "physical media",
+        "adaptation",
+        "gradual change",
+        "rising tide",
+        "technology adoption"
+      ],
+      "texte": "Take smartphones. They went from a niche luxury to an essential tool in a decade. Landlines were wiped out and the way humans communicated was fundamentally altered. It’s a similar story with streaming services. From starting out as a quirky alternative, they eventually killed physical media. Now people juggle multiple subscriptions without a second thought. Even though the end result of rising tides can be just as dramatic as crashing waves, the change happens much more slowly and makes it easier for people to digest. It gives them time to adapt, which means it doesn’t seem quite as scary or stressful."
+    },
+    {
+      "id": 14,
+      "debut": 394.0,
+      "fin": 434.64,
+      "temps_estime": false,
+      "titre": "AI is not mass layoffs: the MIT Sloan study on AI-adopting firms",
+      "resume": "AI will not wipe out whole job categories overnight or trigger large-scale layoffs. A study co-authored by MIT Sloan professor Lawrence Schmidt found firms embracing AI had 6% higher employment growth and 9.5% sales growth over five years. This supports the view of AI as a productivity aid rather than a job-killing machine.",
+      "mots_cles": [
+        "MIT Sloan",
+        "Lawrence Schmidt",
+        "6% employment growth",
+        "9.5% sales growth",
+        "AI adoption",
+        "productivity",
+        "layoffs",
+        "payrolls"
+      ],
+      "texte": "AI is on a similar trajectory. But it’s not coming for your entertainment. Sure, it’s not going to wipe out entire job categories overnight. And it’s not triggering large-scale layoffs or shrinking payrolls at scale. In fact, a recent study co-authored by MIT Sloan associate professor Lawrence Schmidt found that firms that embraced AI experienced 6% higher employment growth. They also say a 9.5% sales growth over a 5-year period compared to competitors that didn’t do the same. Based solely on those numbers, it’s easy to make the argument that AI isn’t some sort of job-killing monster machine, but a productivity aid. Something that helps firms reach unprecedented levels of efficiency and optimization."
+    },
+    {
+      "id": 15,
+      "debut": 434.64,
+      "fin": 482.08,
+      "temps_estime": false,
+      "titre": "The darker side: growth benefits seniors, entry-level pays the bill",
+      "resume": "AI-adopting companies expand, but the expansion is concentrated on senior staff. An experienced financial analyst can hand data compilation to AI and spend more time on analysis and strategy, so companies earn more and hire seniors, raise salaries or expand. The cost falls on entry-level workers who see fewer opportunities.",
+      "mots_cles": [
+        "senior staff",
+        "financial analyst",
+        "data compilation",
+        "strategy",
+        "company growth",
+        "salaries",
+        "entry-level workers",
+        "uneven distribution"
+      ],
+      "texte": "But there’s a darker side to that story. Because, while AI-adopting companies may be expanding, that expansion isn’t evenly distributed. It’s mainly focused on senior members of staff, who are becoming valuable assets. An experienced financial analyst who used to spend the majority of their week compiling data and only a small percentage analyzing it, can hand-off the compilation to AI and spend more time on analysis and strategy. This can help them extract more valuable insights at a more rapid rate. And because these kinds of workers are doing better than ever, so are their companies. They’re making more money, which can help them hire more senior employees, increase salaries, or expand into other regions. But all those benefits came at a cost, and the bill was sent to those at the bottom: the entry-level workers who are seeing fewer opportunities come their way."
+    },
+    {
+      "id": 16,
+      "debut": 482.08,
+      "fin": 519.02,
+      "temps_estime": true,
+      "titre": "Historical precedent: ATMs and the bank teller",
+      "resume": "When ATMs were introduced in the 1970s, 400,000 were deployed across America over four decades, and people predicted the end of bank tellers. Tellers did not disappear: lower operating costs let banks open more branches, and tellers shifted from counting cash to helping customers with financial products and handling queries.",
+      "mots_cles": [
+        "ATMs",
+        "bank tellers",
+        "1970s",
+        "400,000 machines",
+        "bank branches",
+        "operating costs",
+        "job transformation",
+        "automation history"
+      ],
+      "texte": "We’ve seen this kind of scenario play out before, where a new technology or innovation truly transforms the working world. When automated teller machines, or ATMs, were introduced in the 1970s, 400,000 of them rolled out across America over the course of the following 4 decades. Early on in that process, people predicted that the days of the bank teller were all but over. In reality, bank tellers didn’t disappear. Their roles just changed. ATMs helped to reduce the operating costs of banks, which allowed more branches to open. Tellers shifted away from manually counting money to other duties, like helping customers with financial products or handling queries and concerns."
+    },
+    {
+      "id": 17,
+      "debut": 519.02,
+      "fin": 551.44,
+      "temps_estime": true,
+      "titre": "Hinton's radiologist prediction and the Mayo Clinic",
+      "resume": "In 2016 Geoffrey Hinton, the Godfather of AI, said medical schools should stop training radiologists because deep learning would make the role obsolete. Ten years later radiology departments still exist, and the Mayo Clinic's radiology staff has grown by 55%. Their jobs were augmented by AI, not lost.",
+      "mots_cles": [
+        "Geoffrey Hinton",
+        "radiologists",
+        "deep learning",
+        "Mayo Clinic",
+        "55% growth",
+        "2016 prediction",
+        "augmentation",
+        "medical schools"
+      ],
+      "texte": "For a more recent and relevant example, in 2016, the computer scientist Geoffrey Hinton, nicknamed the “Godfather of AI”, said that medical schools should stop training human radiologists. He beloved deep learning algorithms would be able to do their work much more efficiently within a few years’ time, rendering the entire role obsolete. 10 years later, radiology departments still exist. In fact, at the Mayo Clinic, the radiology staff has grown by 55%. These people haven’t lost their jobs to AI, they’ve just seen their jobs augmented by AI."
+    },
+    {
+      "id": 18,
+      "debut": 551.44,
+      "fin": 586.4,
+      "temps_estime": true,
+      "titre": "Why this rising tide is different: generative AI targets apprentice roles",
+      "resume": "Previous technological waves in banking and manufacturing still left room for entry-level workers, as banks still needed staff to talk to customers after ATMs. Generative AI is the first innovation that actively targets and cannibalizes the apprentice-level roles reserved for young, aspiring professionals.",
+      "mots_cles": [
+        "generative AI",
+        "apprentice roles",
+        "young professionals",
+        "previous technological waves",
+        "banking",
+        "manufacturing",
+        "cannibalization",
+        "entry-level workers"
+      ],
+      "texte": "So, if this cycle has played out before, why should people be worried about generative AI’s increasing capabilities? Because this current “rising tide” is very different to those that have come before. Previous technological waves may have transformed fields like banking and manufacturing, but they still left enough room for the entry-level worker to get their foot in the door. When ATMs were introduced, banks still needed to employ workers to liaise with customers. The rise of generative AI is the first ever example of a new innovation that actively targets and cannibalizes the kind of apprentice-level roles reserved for young, aspiring professionals."
+    },
+    {
+      "id": 19,
+      "debut": 586.4,
+      "fin": 602.9,
+      "temps_estime": true,
+      "titre": "Stanford survey: 20% of workers fear losing their job to AI",
+      "resume": "A Stanford survey found 20% of workers see a realistic risk of losing their job to generative AI within a couple of years. The anxiety is especially strong among younger generations, who face unprecedented uncertainty about their career prospects.",
+      "mots_cles": [
+        "Stanford survey",
+        "20% of workers",
+        "job loss fear",
+        "generative AI",
+        "young generation",
+        "anxiety",
+        "career prospects",
+        "uncertainty"
+      ],
+      "texte": "A recent Stanford survey revealed 20% of workers feel that there’s a realistic risk of them losing their job to generative AI within the next couple of years. This intense anxiety is prevalent among the younger generations who are growing up with an unprecedented level of uncertainty regarding their career prospects."
+    },
+    {
+      "id": 20,
+      "debut": 602.9,
+      "fin": 651.92,
+      "temps_estime": true,
+      "titre": "Students flee former golden-ticket majors: MIT computer science enrollment",
+      "resume": "Students are becoming cautious about choosing majors that were once golden tickets. At MIT, computer science enrollment fell about 18%, and the Fundamentals of Programming course dropped from close to 600 students in spring 2023 to under 200. Picking a major now feels like a 50/50 roulette wheel.",
+      "mots_cles": [
+        "computer science",
+        "MIT enrollment",
+        "18% drop",
+        "Fundamentals of Programming",
+        "choosing a major",
+        "students",
+        "education",
+        "roulette wheel"
+      ],
+      "texte": "This has led to some striking trends emerging in the education sector, as students become much more cautious and selective about which subjects they choose to study. The majors that were once seen as “golden tickets” are being treated with fear and suspicion. At MIT, enrollment in computer science courses has dropped by around 18%. The “Fundamentals of Programming” course - which was once hugely popular and had close to 600 students as recently as spring of 2023 - now has less than 200. Young adults are looking at the job market, and realizing that the old rules no longer apply. Even something as simple as picking a major feels like spinning a roulette wheel, with a 50/50 chance of success or failure. Students know that one wrong move could ruin their professional prospects, and paths that once seemed safe to tread are increasingly fraught with danger."
+    },
+    {
+      "id": 21,
+      "debut": 651.92,
+      "fin": 685.87,
+      "temps_estime": true,
+      "titre": "\"Study AI\" is not an answer: prompt engineering lacks industry experience",
+      "resume": "Students are asked to commit years to qualifications that may bring no benefit, and senior people simply tell them to study AI. Courses in prompt engineering and AI strategy development do not guarantee careers, because young people lack the broader industrial knowledge and experience needed to apply those skills.",
+      "mots_cles": [
+        "study AI",
+        "prompt engineering",
+        "AI strategy development",
+        "qualifications",
+        "industry knowledge",
+        "young people",
+        "careers",
+        "courses"
+      ],
+      "texte": "They’re being asked to commit years of their lives to obtain qualifications that might not actually provide them with any benefits. And those in comfortable senior roles have responded to this emerging crisis by telling students to simply “study AI.” They usher them into AI-oriented courses and tell them to learn the likes of “prompt engineering” and “AI strategy development.” But even these kinds of courses aren’t guaranteed to lead to successful careers. Because even if a young person understands how to write prompts effectively, they still don’t have the broader industrial knowledge and experience they need to use those skills effectively."
+    },
+    {
+      "id": 22,
+      "debut": 685.87,
+      "fin": 745.36,
+      "temps_estime": true,
+      "titre": "The ticking time bomb: a missing generation of mid-career managers",
+      "resume": "Ending entry-level hiring places a ticking time bomb in the American economy: boardrooms celebrate short-term margins but will soon be unable to find mid-career managers and team leaders who understand operations. By pulling up the ladder they create a talent vacuum and push students away from subjects like computer science and data analysis.",
+      "mots_cles": [
+        "ticking time bomb",
+        "mid-career managers",
+        "team leaders",
+        "talent vacuum",
+        "short-term margins",
+        "shareholders",
+        "computer science",
+        "data analysis"
+      ],
+      "texte": "This is why the decision by an increasing number of corporate leaders to stop hiring entry-level workers has effectively placed a ticking time bomb at the heart of the American economy. Boardrooms and shareholders may be celebrating today as their short-term margins explode, but they are throwing away the future of their companies without even realizing it. In just a few years, these same companies will need to start looking for intermediate employees - mid-career managers or team leaders with a strong understanding of the operational realities of their industries - but they won’t be able to find them. And they’ll only have themselves to blame. Because they are pulling up the ladders and slamming the doors in the faces of the eager graduates and entry-level employees who used to become those intermediate workers. They are creating a talent vacuum, forcing extremely passionate, enthusiastic, and hard-working young people to give up on their professional dreams. They are pushing students away from studying important subjects, like computer science and data analysis, because they’re frightened of not having any job prospects by the time they graduate."
+    },
+    {
+      "id": 23,
+      "debut": 745.36,
+      "fin": 761.79,
+      "temps_estime": true,
+      "titre": "The white collar market has changed: students pay first, seniors later",
+      "resume": "The era of a comfortable starting wage for administrative tasks is almost over. Students pay the price today, but an even bigger bill is heading toward those higher up the food chain, though it may take a few more years to arrive.",
+      "mots_cles": [
+        "white collar job market",
+        "starting wage",
+        "administrative tasks",
+        "students",
+        "senior workers",
+        "future impact",
+        "career ladder",
+        "bill"
+      ],
+      "texte": "The white collar job market has changed, and the era of receiving a comfortable starting wage to perform administrative tasks is all but over. It’s students who are paying the price today, but an even bigger bill is heading the way of those higher up the food chain… It just might take a few more years to arrive."
+    },
+    {
+      "id": 24,
+      "debut": 761.79,
+      "fin": 775.88,
+      "temps_estime": true,
+      "titre": "Outro: the reality is worse than the scare stories",
+      "resume": "Closing remarks say AI has shattered the jobs market and that the mainstream media's scare stories are not accurate because the reality is much worse. The narrator promotes the follow-up video \"AI Isn't Taking Your Job. The Reality Is WORSE\".",
+      "mots_cles": [
+        "AI shattered jobs market",
+        "mainstream media",
+        "scare stories",
+        "reality is worse",
+        "follow-up video",
+        "AI Isn't Taking Your Job",
+        "outro",
+        "call to action"
+      ],
+      "texte": "The arrival of AI has shattered the jobs market. But the scare stories in the mainstream media aren’t true. The reality is much worse. Watch “AI Isn’t Taking Your Job. The Reality Is WORSE” to find out how bad it really is. Or click on this."
+    }
+  ]
+}
