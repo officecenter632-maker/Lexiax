@@ -4,12 +4,12 @@
   "titre_video": "How AI quietly rewrote daily life in under 3 years",
   "duree_s": 13291.68,
   "avancement": {
-    "lignes_traitees": 1803,
-    "fin_traitee_s": 3713.76,
+    "lignes_traitees": 2638,
+    "fin_traitee_s": 5533.04,
     "nb_lignes_total": 6328,
     "complet": false
   },
-  "nb_segments": 77,
+  "nb_segments": 114,
   "segments": [
     {
       "id": 1,
@@ -1448,7 +1448,7 @@
     {
       "id": 77,
       "debut": 3692.88,
-      "fin": 3713.76,
+      "fin": 3711.36,
       "temps_estime": false,
       "titre": "Simple arithmetic protects human jobs",
       "resume": "Humans are not being spared out of kindness or corporate change of heart but because of simple arithmetic: the smarter the system gets, the more it costs. The great AI replacement has run into a cost reality that clever engineering will not get around in this decade.",
@@ -1463,6 +1463,707 @@
         "economics"
       ],
       "texte": "Humans aren't being spared out of kindness or even saved by a sudden corporate change of heart. They're protected by something colder and more reliable. Simple arithmetic. The smarter the system gets, the more it costs. The great replacement has run straight into a reality no clever engineering will get around in this decade. So, what does all"
+    },
+    {
+      "id": 78,
+      "debut": 3711.36,
+      "fin": 3764.8,
+      "temps_estime": false,
+      "titre": "Human in the loop becomes essential: the verification specialist",
+      "resume": "Human in the loop, once a feel-good safety feature, is now the only way AI works: big tech will keep aiming AI at small low-cost jobs, while the dream of cheap AI replacing everyone died in canceled licenses and burned budgets. A new valuable job emerges, the verification specialist, who watches agents, checks output and kills runaway processes before costs bankrupt a project.",
+      "mots_cles": [
+        "human in the loop",
+        "verification specialist",
+        "canceled licenses",
+        "runaway process",
+        "failure loop",
+        "low-cost jobs",
+        "AI budgets",
+        "new jobs"
+      ],
+      "texte": "of that mean for your job? Through the whole AI boom, human in the loop sounded like a soft idea, a feel-good safety feature, a box to tick to keep regulators calm. Not anymore. It's become the only way that this works. Big tech will keep using AI, aiming it at these small, lowcost jobs where [music] the cost justifies the means. But the dream of cheap AI replacing everyone is already over. It died inside of those canceled licenses and burned budgets long before it reached the rest of the workforce. In its place, a new job is becoming the most valuable seat in the building, the verification specialist. Someone who watches the agent and catches it the moment it slips into an expensive failure loop. the person who checks the output [music] and kills a runaway process before the cost bankrupts the project. They are the one thing standing between the company and a budget that bleeds out cycle after cycle. Even the industry's loudest"
+    },
+    {
+      "id": 79,
+      "debut": 3764.8,
+      "fin": 3789.28,
+      "temps_estime": false,
+      "titre": "Jensen Huang's 100 agents per employee",
+      "resume": "Even Nvidia CEO Jensen Huang says one day 100 AI agents will work alongside every employee, not replace them, with agents multiplying around one worker at the center. Without that worker, nobody knows whether the machines create value or just run up a bill.",
+      "mots_cles": [
+        "Jensen Huang",
+        "Nvidia",
+        "100 AI agents",
+        "alongside employees",
+        "human worker",
+        "AI value",
+        "bill"
+      ],
+      "texte": "cheerleaders describe this future without meaning to. Nvidia CEO Jensen Hong likes to say that one day 100 AI agents will work alongside every employee. Alongside every employee, not replacing them. The agents multiply, sure, but they multiply around one worker at the center. Are the machines creating value or just running up a bill? Take that worker away and nobody knows the answer until that bill"
+    },
+    {
+      "id": 80,
+      "debut": 3789.28,
+      "fin": 3842.48,
+      "temps_estime": false,
+      "titre": "Duolingo's walk-back and the human advantage",
+      "resume": "Duolingo leaned into the AI-replaces-everyone story, then its CEO admitted the tech won't take over work like people do, and it scrapped a rule tying job reviews to AI usage because it rewarded busywork. Humans are described as the cheapest thinking engine, running on a sandwich and a night's sleep, so the great replacement was defeated by a spreadsheet.",
+      "mots_cles": [
+        "Duolingo",
+        "AI usage reviews",
+        "AI backlash",
+        "humans cheapest thinking engine",
+        "future of work",
+        "spreadsheet",
+        "busy work",
+        "ordinary workers"
+      ],
+      "texte": "arrives. And AI doubt is spreading. Language learning app Dolingo leaned hard into the AI replaces everyone's story and then walked it back. The CEO admitted the tech won't take over the work like people do. The company even scrapped a rule that it had tied job reviews to how much AI staff used after workers pointed out that it rewarded busy work instead of results. So, the future of work is a blend, one that was always coming. Through the whole boom, we were told AI was the worker and the people were just a cost to trim. That's changed. Humans are the cheapest thinking engine on the earth, a flexible mind that runs on a sandwich in a night's sleep, and never builds the company 1,000 times over just to stop [music] and think. The great replacement wasn't defeated by fear. It was defeated by a spreadsheet. And in those numbers lies a surprising triumph for ordinary workers. It's not just Microsoft that"
+    },
+    {
+      "id": 81,
+      "debut": 3842.48,
+      "fin": 3882.56,
+      "temps_estime": false,
+      "titre": "The $20 AI subscription is a trap: the AI Uber moment",
+      "resume": "A $20 subscription looks like the deal of the century, but a power user on tools like Claude Code costs about $15,000 a year to run, with venture capital footing the bill. This is the AI Uber moment, a temporary illusion; when the trillion-dollar house of cards collapses, tools may vanish or cost ten times more.",
+      "mots_cles": [
+        "AI subscription",
+        "$20 plan",
+        "Claude Code power user",
+        "venture capital subsidy",
+        "AI Uber moment",
+        "house of cards",
+        "price increase",
+        "AI economics"
+      ],
+      "texte": "sees the writing on the wall. The whole industry is starting to get nervous about what's coming next. You think your $20 AI subscription is the deal of the century. In reality, it's a trap. A power user on tools like Claude Code actually costs $15,000 a year to run. But you're only paying a fraction of that because venture capitalists are footing the bill. You're living inside the AI Uber moment, a temporary illusion built to get you hooked before the price tags change. But the money is running out. When this trillion dollar house of cards collapses, the tools you rely on every day will either vanish or cost you 10 times more. The economics of AI are"
+    },
+    {
+      "id": 82,
+      "debut": 3882.56,
+      "fin": 3939.76,
+      "temps_estime": false,
+      "titre": "Chapter 1: the $20 illusion and the 92% hidden subsidy",
+      "resume": "A serious Claude Code user burns roughly 10 billion tokens a year, costing about $15,000 through the API, while a flat-rate Max subscription costs about $1,200, a 92% hidden subsidy. The video compares it to a dealership selling a $15,000 car for $1,200 because someone else covers the rest.",
+      "mots_cles": [
+        "tokens",
+        "10 billion tokens",
+        "API cost",
+        "Claude Max subscription",
+        "92% subsidy",
+        "unsubsidized price",
+        "compute cost",
+        "dealership analogy"
+      ],
+      "texte": "broken. Chapter one, the $20 illusion. It all starts with your wallet. A serious Claude code user runs through roughly 10 billion tokens a year. Tokens are basically the thought units of AI. Every word it reads, every word it writes, every decision it makes relies on a token. If you paid for that usage through a standard API, those 10 billion tokens would cost you around $15,000 a year. That is the real unsubsidized price. No discounts, no incentives, just the raw compute costs. [music] Now, that same user on a flat rate max subscription pays around $1,200 for an entire year for the same workload from 15,000 down to $1,200. A 92% hidden subsidy. Imagine walking into a dealership, picking out a car priced at $15,000, and being told that you only owe 1,200 [music] because someone somewhere else covered the rest. It doesn't make sense. And that's what makes this model so strange. But the"
+    },
+    {
+      "id": 83,
+      "debut": 3939.76,
+      "fin": 4004.8,
+      "temps_estime": false,
+      "titre": "OpenAI's losses: you are the bait",
+      "resume": "Leaked OpenAI projections reported by The Information show the company on track to lose $14 billion in 2026, and a $22 monthly subscription covers about 1.7% of the cost of an active power user. Investors pay for every prompt hoping users can't live without it; law firms, marketing agencies and hospitals are signed up at unsustainable prices propped by patient capital expecting 10x returns.",
+      "mots_cles": [
+        "OpenAI",
+        "$14 billion loss",
+        "The Information",
+        "$22 subscription",
+        "1.7% of cost",
+        "investor subsidy",
+        "law firms",
+        "patient capital"
+      ],
+      "texte": "answer lies in OpenAI's own financial projections leaked to the information. The company is on track to lose $14 billion in 2026. Not revenue, losses. A $22 monthly subscription covers about 1.7% of what an active power user actually costs to serve. You are not a customer, you are bait. Every prompt typed, every line of code generated, every late night chat session is being paid for by investors. And they are betting that nobody will be able to live without this product when the real bill finally lands. Whole industries are being signed up at a loss. Law firms running document review at 5 cents on the dollar. Marketing agencies are turnurning out campaigns at prices that would have been impossible 18 months ago. Hospitals triing diagnostic tools at sticker prices that no model provider could actually sustain at scale. Every single deal is being propped up by patients capital that expects 10 times returns. If companies are losing money on every user they sign up, why are they racing to sign up more? Because we have seen this exact playbook before, and we"
+    },
+    {
+      "id": 84,
+      "debut": 4004.8,
+      "fin": 4071.68,
+      "temps_estime": false,
+      "titre": "Chapter 2: the ghost of Uber and the Millennial Lifestyle Subsidy",
+      "resume": "In 2014 cheap Uber rides, food delivery and meal kits were funded by venture capital pricing below cost to crush competitors and build habits, the so-called Millennial Lifestyle Subsidy. Uber's take rate rose from about 32 cents per dollar in 2022 to about 42 cents in 2024, and the same investors and playbook now apply to AI.",
+      "mots_cles": [
+        "Uber",
+        "Millennial Lifestyle Subsidy",
+        "venture capital",
+        "below-cost pricing",
+        "take rate",
+        "ride sharing",
+        "same playbook",
+        "2014"
+      ],
+      "texte": "know how it ends. Chapter 2, the ghost of Uber. Back in 2014, a black SUV would pull up outside your apartment in 3 minutes. The driver was polite, the car spotless, the trip to the airport cost you 11 bucks. You would wonder how any of it added up. It didn't, and that was the point. It was never meant to. For the better part of a decade, an entire generation lived inside what economists later called the Millennial Lifestyle Subsidy. Venture capitalists poured money into ride sharing, food delivery, co-working spaces, and meal kits on purpose. They set the prices below cost to crush legacy competitors and build a habit. The plan was to take over first and then raise prices until it made a profit. Uber's take rate, the slice of every fair a company keeps, tells the story. In 2022, Uber kept around 32 cents of every dollar a rider paid. By 2024, that figure had climbed to roughly 42 cents. Drivers got a smaller share. Riders paid more. The company eventually posted a profit. Now it's happening in the AI sector. It's the same investors, the same playbook, and the same pricing"
+    },
+    {
+      "id": 85,
+      "debut": 4071.68,
+      "fin": 4105.04,
+      "temps_estime": false,
+      "titre": "AI price hikes: subscriptions set to double",
+      "resume": "Analysts expect consumer AI subscription tiers to roughly double in price within two years: Anthropic added rate limits pushing power users to pricier plans, Google tests premium-only Gemini features, and enterprise contracts signed in 2024 are being quoted much higher in 2026 renewals. It is the same product at multiple times the price.",
+      "mots_cles": [
+        "subscription price doubling",
+        "Anthropic rate limits",
+        "Google Gemini premium",
+        "enterprise renewals",
+        "price hike",
+        "power users",
+        "2026",
+        "pricing"
+      ],
+      "texte": "memo. Industry analysts expect consumer subscription tiers to roughly double in price over the next 2 years. Anthropic has rolled out new rate limits that gently push power users toward higher priced plans. Google is testing premium only Gemini features that used to be free. A 100% price hike isn't a rumor. It's already penciled in on the calendar. Enterprise contracts are following the same curve. Custom deals signed in 2024 are being quoted much higher in 2026 renewals. It's the same product. It's [music] just costing multiple times the price. Users need to"
+    },
+    {
+      "id": 86,
+      "debut": 4105.04,
+      "fin": 4148.64,
+      "temps_estime": false,
+      "titre": "Why AI unit economics differ from ride sharing",
+      "resume": "Ride sharing only had to move a car from A to B at a cost that falls with density, while the math of AI thinking doesn't get cheaper the same way. Executives claim compute gets cheaper every year, a half-truth: each generated word is cheaper than 18 months ago, which is the part they want people to hear.",
+      "mots_cles": [
+        "unit economics",
+        "compute cost",
+        "ride sharing vs AI",
+        "cost per query",
+        "half-truth",
+        "efficient chips",
+        "leaner models",
+        "AI executives"
+      ],
+      "texte": "take it or leave it. Ride sharing only had to do one thing. Move a car from point A to point B. The cost of doing that doesn't explode as usage rises. If [music] anything, it gets more efficient. More drivers, more density, better routing. AI works differently. The underlying math of thinking doesn't get cheaper in the same way. It gets complicated fast. AI executives continue to say that compute is getting cheaper every year. The unit economics will work out over time. It's not exactly a lie. It's more like a halftruth. The price of running a query through a model has dropped year-over-year. Chips are more efficient. Models are leaner. Each individual word an AI generates is genuinely cheaper to produce than 18 months ago. And that's the part they want people to hear. Here's the part"
+    },
+    {
+      "id": 87,
+      "debut": 4148.64,
+      "fin": 4200.96,
+      "temps_estime": false,
+      "titre": "Chapter 3: the Claude Code math and the token tax",
+      "resume": "Agentic workflows like Claude Code and ChatGPT's deep research use 5 to 30 times more tokens than chat sessions of two years ago, spawning subtasks, rereading files, writing and discarding drafts and running tests so one request can consume hundreds of thousands of tokens. This token tax means total bills rise even as each word gets cheaper and bankrupts startups.",
+      "mots_cles": [
+        "agentic workflows",
+        "token tax",
+        "Claude Code",
+        "deep research",
+        "5 to 30 times tokens",
+        "subtasks",
+        "AI startups",
+        "total bill"
+      ],
+      "texte": "they don't. Chapter 3, the Claude Code math. Modern agentic workflows, the kind that power Claude Code and Chat GPT's deep research [music] tools, burn through anything from 5 to 30 times more tokens than simple chat sessions of 2 years ago. When you ask a code assistant to fix this bug, it doesn't write 50 words of response. It quietly [music] spawns subtasks. Then it rereads your files. It checks its own work. It writes draft after draft. Throws most of them away. and then quietly runs tests in the background. A single user request can chew through hundreds of thousands of tokens before any answer shows up. A model might be slightly cheaper per word than before, but it's also producing far more words per request. The total bill is shooting upward. It's known as the token [music] tax. It bankrupts scrappy AI startups burning through their seed rounds. It's threatening to wipe out one of the most profitable business models"
+    },
+    {
+      "id": 88,
+      "debut": 4200.96,
+      "fin": 4264.16,
+      "temps_estime": false,
+      "titre": "Chapter 4: the search penalty on Google's margins",
+      "resume": "For 25 years Google earned a financial miracle by returning ten blue links at a fraction of a cent per search while ads generated far more. An AI-written answer costs much more than a keyword search, so replacing traditional search with AI overviews would dry up the margins that fund YouTube, Android, Waymo and Gmail, and Wall Street's worst-case models are catastrophic.",
+      "mots_cles": [
+        "Google search",
+        "AI overviews",
+        "search margins",
+        "cost per query",
+        "YouTube",
+        "Waymo",
+        "Wall Street analysts",
+        "profit machine"
+      ],
+      "texte": "in the history of the internet. Chapter 4, the search penalty. For 25 years, Google's printed money, [music] and it's been brutally simple. A user types in a query, Google returns 10 blue links pulled from the open web. The total cost to Google, servers, electricity, indexing is a fraction of a cent per search. And yet, the [music] ads next to those results generate much more than that. Margin is one of those great financial miracles of modern times. Now, Google is rebuilding that entire system on top of generative AI. A single AI powered search response, the kind that writes a paragraph long answer instead of just showing you some links, costs significantly more to produce than a traditional keyword search. Now multiply that across billions of queries a day. If Google fully replaces traditional search with AI overviews, the most reliable profit machine of the 21st century vanishes. The margins that have funded YouTube, Android, Whimo, and Gmail begin to dry up. Wall Street analysts have quietly mapped out the worst case scenarios. And the numbers are catastrophic. And it gets worse. The"
+    },
+    {
+      "id": 89,
+      "debut": 4264.16,
+      "fin": 4295.28,
+      "temps_estime": false,
+      "titre": "Ads collapse and tech giants cannibalize their cash cows",
+      "resume": "When AI gives the answer nobody clicks links, so advertisers stop paying and Google would serve more queries at higher cost for less revenue per query than ever. Tech giants cannibalize their most profitable businesses on purpose, deciding it is more dangerous to let a competitor kill the cash cow first.",
+      "mots_cles": [
+        "advertising revenue",
+        "click-through",
+        "revenue per query",
+        "cannibalization",
+        "cash cow",
+        "Google",
+        "AI answers",
+        "competitor risk"
+      ],
+      "texte": "advertising models become redundant, too. When AI just gives you an answer, nobody clicks on the links, so advertisers will stop paying. Google is staring at a future where it serves up more queries than ever before, costs more to run than ever before, and earns less revenue per query than at any point in its modern [music] history. Tech giants are willingly cannibalizing their most profitable businesses on purpose. [music] They've decided the only thing more dangerous than killing a cash cow is letting a competitor kill [music] it first. Business school has a name for"
+    },
+    {
+      "id": 90,
+      "debut": 4295.28,
+      "fin": 4325.68,
+      "temps_estime": false,
+      "titre": "The innovator's dilemma",
+      "resume": "The innovator's dilemma gives incumbents two choices when new technology threatens the core business: defend the existing cash engine or cannibalize it themselves hoping to build revenue on the next platform. Google, Microsoft and Meta are betting AI will replace their current money makers; nobody can prove it, but everyone is too deep to back out.",
+      "mots_cles": [
+        "innovator's dilemma",
+        "incumbents",
+        "Google",
+        "Microsoft",
+        "Meta",
+        "next platform",
+        "disruption",
+        "betting on AI"
+      ],
+      "texte": "this, the innovator's dilemma. When a new technology threatens the core business, incumbents face two choices. sit still and defend the existing cash engine while a competitor builds the future or cannibalize it themselves on their own terms, hoping that they can build revenue on the next platform before the old one erodess. That's the path companies like Google, Microsoft, and Meta are effectively betting on with AI. They're betting that AI will eventually replace the current money makers. [music] Nobody can prove that's true. Everybody is in too deep to back"
+    },
+    {
+      "id": 91,
+      "debut": 4325.68,
+      "fin": 4419.52,
+      "temps_estime": false,
+      "titre": "Chapter 5: the round-trip scam of circular AI investments",
+      "resume": "Despite bad unit economics, companies post record AI revenues through circular deals: Microsoft's $13 billion OpenAI investment largely arrives as Azure credits that Microsoft books as revenue, OpenAI committed up to $250 billion on Azure, and Nvidia's commitments to OpenAI come back as GPU purchases. Oracle, CoreWeave and AMD join the loop, which is called round tripping but dubbed strategic partnership.",
+      "mots_cles": [
+        "round tripping",
+        "circular investment",
+        "Microsoft OpenAI $13 billion",
+        "Azure credits",
+        "Nvidia GPUs",
+        "Oracle",
+        "CoreWeave",
+        "strategic partnership"
+      ],
+      "texte": "out. If unit economics are this [music] bad, how are these same companies posting record AI revenues on Wall Street every single quarter? Chapter five, the roundtrip scam. That's where things get clever. Microsoft commits very publicly to investing $13 billion into OpenAI. The press release is slick, the headlines dramatic, stock prices rise. It makes investors happy. But read the fine print and a different story shows up. A big chunk of that investment never actually hits OpenAI's bank account. It arrives in the form of Azure cloud credits. It's essentially a gift card that can only be redeemed at Microsoft's own data centers. OpenAI records that sum on its balance sheet as capital raised. Microsoft logs the cloud usage as revenue. It's an investment and a sale at the same time. OpenAI has separately committed to spending up to $250 billion on Azure services, locking the loop in for years to come. Now layer Nvidia on top of that. Nvidia announces tens of billions in commitments to OpenAI. OpenAI then turns around and uses that capital to buy Nvidia GPUs. Nvidia's quarterly revenue posts a record in their stock price source. The whole cycle takes a few [music] months and almost no real money has actually changed hands. It has simply been given a different name at each stop. Add Oracle, Coreeave, and AMD to the list. Each company invests and then sells services to the next and records revenue as the same dollar flows through the cycle. The technical name for this is round tripping. In Silicon Valley, it's"
+    },
+    {
+      "id": 92,
+      "debut": 4419.52,
+      "fin": 4489.68,
+      "temps_estime": false,
+      "titre": "Chapter 6: the hardware debt trap and the spending gap",
+      "resume": "Big tech is projected to spend $320 to 400 billion on AI infrastructure in 2025 and nearly $500 billion in 2026, against only about $12 billion of consumer AI spending per Menlo Ventures. The gap is filled with debt: Meta raised $30 billion in bonds plus a roughly $30 billion Morgan Stanley joint venture, while Microsoft restarts Three Mile Island and Google partners with NextEra to reopen nuclear plants.",
+      "mots_cles": [
+        "AI capex",
+        "$500 billion",
+        "Menlo Ventures",
+        "consumer AI spending $12 billion",
+        "Meta bonds",
+        "Three Mile Island",
+        "NextEra",
+        "debt financing"
+      ],
+      "texte": "called strategic partnership. Chapter 6, the hardware debt trap. In 2025, big [music] tech is projected to spend roughly 320 to400 billion on AI infrastructure. Updated forecasts for 2026 push that figure toward 500 billion. data centers, GPUs, cooling systems, power delivery, entire grids are being reinforced to handle it. Meanwhile, total global consumer spending on AI services is only about 12 billion. According to Menllo Ventures State of Consumer AI report, hundreds of billions are flowing out while only 12 billion going in. The gap is the size of an entire midsized country's economy. It's being filled not with revenue, but debt, corporate bonds, structured credit, and private lending. Meta alone raised $30 billion in bond markets in late 2025. There was another roughly $30 billion through a Morgan Stanley arranged joint venture set up to keep liabilities off of Meta's public balance sheet. Microsoft has signed a 20-year power purchase agreement to restart 3M Island. Google has partnered with Next Era Energy to reopen nuclear power plants. These promises don't go away if AI revenue underperforms, but the"
+    },
+    {
+      "id": 93,
+      "debut": 4489.68,
+      "fin": 4562.8,
+      "temps_estime": false,
+      "titre": "Short-lived GPUs and the dot-com comparison",
+      "resume": "High-end Nvidia GPUs last just one to three years and lose most of their book value as new generations arrive about every 18 months. Unlike the dot-com bust that left useful fiber later used for YouTube, Netflix and Spotify, the AI bubble would leave useless silicon, 20-year power contracts and higher electricity rates for households.",
+      "mots_cles": [
+        "Nvidia GPU lifespan",
+        "depreciation",
+        "AI bubble",
+        "dot-com bust",
+        "fiber optic",
+        "20-year power contracts",
+        "electricity rates",
+        "dead weight"
+      ],
+      "texte": "hardware itself doesn't [music] last. A high-end Nvidia GPU that powers most of this boom has a short life of just one to three years before the next generation makes them outdated. It loses most of its book value the moment a new generation hits a market, which now happens roughly every 18 months. A data center full of three-year-old chips is in industry terms dead weight. Compare that to the original.com bust. When that bubble popped in 2000, telecom companies left behind millions of miles of fiber optic cable buried in the ground. New companies bought it for pennies on the dollar and built YouTube, Netflix, and Spotify on top of it. The crash was brutal, but the wreckage was useful. This AI bubble will leave behind warehouses full of useless silicon, locked up into 20-year power contracts and concrete shells in the middle of nowhere. No one will know what to [music] do with them. Utilities will pass higher electricity rates on to the households for decades, no matter whether the AI revenues show up. A gap of hundreds of billions of dollars cannot be papered over for long. Companies running this race already know it, so they're quietly taking steps to slow the bleeding before the public catches on. Most of the users have already felt it. They just haven't"
+    },
+    {
+      "id": 94,
+      "debut": 4562.8,
+      "fin": 4644.56,
+      "temps_estime": false,
+      "titre": "Chapter 7: the stealth nerf",
+      "resume": "Users feel AI products getting worse: models forget projects, chatbots cut off responses, image generators produce extra fingers and ask for upgrades. Providers quietly water down service by changing message-cap refresh times, swapping default models for cheaper ones, rolling back memory and locking reasoning behind higher tiers, then deny it or publish clean benchmarks.",
+      "mots_cles": [
+        "stealth nerf",
+        "model downgrade",
+        "message caps",
+        "cheaper default model",
+        "Reddit complaints",
+        "reasoning paywall",
+        "benchmarks",
+        "AI quality decline"
+      ],
+      "texte": "connected the dots. Chapter 7, the stealth nerf. An AI model used to oneshot your code. Now it forgets your project halfway through. A chatbot used to write five paragraphs a stretch. Now it cuts off at three. An image generator that used to render a flawless portrait in 30 seconds now spits out something with seven fingers and [music] it asks for an upgrade to the next tier. Nobody's imagining these things. The product is getting worse. When the numbers stop working, the easiest lever a provider can pull is to quietly water the service down. The signs are easy to spot. Message caps that used to refresh every 5 hours suddenly refresh every 8. The default model in an app gets [music] quietly swapped from a flagship to a smaller, cheaper version. Memory features get rolled back. Advanced reasoning gets locked behind a higher price tier. A god model promised in launch keynotes is quietly being swapped out for a cheaper, less intelligent version. Reddit threads about AI tools are full of users who swear their assistant has gotten lazier. Engineers are posting sideby-side [music] screenshots showing the same product producing visibly worse output than 6 months earlier. Companies almost always deny [music] it. Sometimes they'll release selected benchmarks, clean prompts, controlled conditions, optimized scenarios designed [music] to demonstrate performance at its best. It buys them some time, but it doesn't fix the bigger problem. A deeper issue has already started taking out the first"
+    },
+    {
+      "id": 95,
+      "debut": 4644.56,
+      "fin": 4711.12,
+      "temps_estime": false,
+      "titre": "Chapter 8: the 2026 mass extinction of AI startups",
+      "resume": "Roughly 40% of AI startups launched in 2024 have been shut down or acqui-hired according to CB Insights, a polite term for fire sales where buyers take the engineers and shut the product. These were funded companies with revenue whose cost of goods sold, paid to OpenAI, Anthropic and Google, wiped out margins: a $50 GPT-4 wrapper subscription can cost $80 in API usage, making every active user negative revenue.",
+      "mots_cles": [
+        "AI startups",
+        "CB Insights",
+        "acqui-hire",
+        "cost of goods sold",
+        "API costs",
+        "negative margins",
+        "GPT-4 wrapper",
+        "mass extinction"
+      ],
+      "texte": "wave of an entire AI ecosystem. Chapter 8, the 2026 mass extinction. Roughly 40% of AI startups launched in 2024 have already been shut down or aqua hired by bigger players according to CB Insights data. That is the polite term for a fire sale where a struggling company is sold for cents on a dollar to a rival. The buyer isn't really buying a business. They're getting the engineers shutting down the product and absorbing whatever talent they can absorb. These weren't hobby projects in someone's garage. These were companies that closed series A rounds with serious investors. They had revenue. They had paying customers. They had glowing tech crunch profiles. Then within 18 months, the lights went off. The reason is almost always the same. Their cost of goods sold, the money they pay to model providers like OpenAI, Anthropic, and Google is so high it wipes out any margin they could hope to charge. A startup that wrapped a polished interface around GPT4 might charge 50 bucks a month, but the API usage that the same customer generates can cost the startup $80. Every active user is negative revenue. The more successful marketing, the faster a"
+    },
+    {
+      "id": 96,
+      "debut": 4711.12,
+      "fin": 4746.24,
+      "temps_estime": false,
+      "titre": "Foundation model features kill startups, and cloud round-trip revenue shrinks",
+      "resume": "When a foundation model provider ships a feature it can kill ten startups overnight: ChatGPT's native voice mode hits voice-agent startups and Claude's native PDF reading made document tools useless. As startups die, cloud providers lose the round-trip revenue that made foundation model investments look good, triggering a final phase.",
+      "mots_cles": [
+        "foundation model providers",
+        "ChatGPT voice mode",
+        "Claude PDF reading",
+        "startup death",
+        "voice agents",
+        "document tools",
+        "cloud providers",
+        "compute costs"
+      ],
+      "texte": "company bleeds out. When a foundation model provider releases a new feature, it often kills 10 startups overnight. Chat GPT launches native voice mode. Say goodbye to half a dozen voice agent startups that closed series A rounds last quarter. Claude releases native PDF reading. A whole crop of document tools became useless in a single product update. An ecosystem of independent AI companies is falling apart under the weight of compute costs that nobody can profitably absorb. When startups die, cloud providers lose roundtrip revenue that made foundation model investments look like good business in the first place. And that's when a final [music]"
+    },
+    {
+      "id": 97,
+      "debut": 4746.24,
+      "fin": 4800.08,
+      "temps_estime": false,
+      "titre": "Chapter 9: the great AI rug pull and brutal repricing",
+      "resume": "Venture capital firms no longer cover losses for future glory and demand a written path to profit, so foundation model companies will reprice: $20 plans become $100 plans or are replaced by pro tiers costing ten times more. A Claude Code user paying $1,200 a year may face closer to the $15,000 API cost, and freelancers and small businesses must pay ten times more or go back to the old way.",
+      "mots_cles": [
+        "rug pull",
+        "venture capital",
+        "repricing",
+        "$20 to $100 plan",
+        "pro tier",
+        "Claude Code cost",
+        "freelancers",
+        "small businesses"
+      ],
+      "texte": "phase begins. Chapter nine, the great AI rugpole. Venture capital firms are no longer willing to cover losses in the hope of future glory. They want to see a path to profit in writing with quarterly milestones and they want to see it now. For foundation model companies, that means one of two things. The first is a brutal sudden repricing. A $20 consumer plan becomes a $100 plan or it quietly disappears and is replaced by a pro tier that costs 10 times more for the same features. A Claw Code user who paid $1,200 a year suddenly faces an invoice closer to $15,000 that an API actually costs. A freelance designer who relies on a $10 image generation subscription gets an email explaining that their plan is being moved over to a new structure. Small businesses that built workflows on cheap AI face a choice. Pay 10 times more or go back to doing it the old way."
+    },
+    {
+      "id": 98,
+      "debut": 4800.08,
+      "fin": 4826.8,
+      "temps_estime": false,
+      "titre": "AI services shutting down with 30 days' notice",
+      "resume": "The second option is worse: services simply get shut down. Smaller AI companies have folded with 30 days' notice, leaving customers to move years of work, and specialized models for legal research, medical imaging and customer support were pulled because their economics never worked, ending cheap AI with a thousand small invoices and shutdown notices.",
+      "mots_cles": [
+        "AI shutdowns",
+        "30 days notice",
+        "specialized models",
+        "legal research AI",
+        "medical imaging",
+        "customer support AI",
+        "end of cheap AI",
+        "customer migration"
+      ],
+      "texte": "The second option is worse. The services simply get shut down. We've already seen the first signs. Smaller AI companies have folded with 30 days notice, leaving customers scrambling to move years of work to whatever competitor is still standing. Specialized models for legal research, medical imaging, and customer support have been pulled because their economics never worked. An era of cheap AI ends with a thousand small invoices, a thousand small shutdown notices. A"
+    },
+    {
+      "id": 99,
+      "debut": 4826.8,
+      "fin": 4871.36,
+      "temps_estime": false,
+      "titre": "AI becomes a luxury product and prices out early adopters",
+      "resume": "AI in 2026 is on track to become a luxury, not a basic product: cheap versions trained a generation to need it, but only an expensive version fits balance sheets. Big companies lock in advantage while freelancers and small businesses that created the early buzz are priced out first, and 2024 productivity assumptions will not survive 2027.",
+      "mots_cles": [
+        "AI luxury",
+        "expensive intelligence",
+        "priced out",
+        "freelancers",
+        "productivity assumptions",
+        "2027",
+        "AI revolution",
+        "inequality"
+      ],
+      "texte": "deeper truth is uglier than a price hike. AI in 2026 is on track to become a luxury, not a basic product. The cheap versions trained an entire generation to need it. An expensive version is the only one that balance sheets now allow to exist. Big companies that can afford a new pricing tier will lock in their advantage. Freelancers, the small businesses, and the people who powered early adoption, the ones who created the buzz, will be priced out first. An economy built on the idea of cheap intelligence is about to slam into the reality of expensive intelligence. Productivity assumptions made in 2024 will not survive in 2027. A promised AI revolution will arrive, just not for everyone, and not at the price they were sold. History says crashes don't take a"
+    },
+    {
+      "id": 100,
+      "debut": 4871.36,
+      "fin": 4915.84,
+      "temps_estime": false,
+      "titre": "How fast a bubble can pop: the cheap AI age is over",
+      "resume": "History says crashes take time, as the dot-com bust took two years peak to trough, but the AI bubble has more leverage, concentration and debt, so it could move in months or weeks once margins shrink or a big enterprise walks away from a renewal. The cheap AI age that fooled a generation is already over; the bill simply hasn't arrived yet.",
+      "mots_cles": [
+        "AI bubble",
+        "dot-com bust",
+        "leverage",
+        "debt",
+        "enterprise renewal",
+        "investor money",
+        "cheap AI age",
+        "market crash"
+      ],
+      "texte": "year to play out. The dot bust took 2 years from peak to trough. The AI bubble has more leverage, more concentration, and more debt baked into its foundations. When it tips, it can move in months, maybe weeks. When the margins shrink, when the first big enterprise customer publicly walks away from a renewal, that confidence can vanish overnight. The tools millions rely on every day were never as cheap as anyone thought. They were being held up by investor money that is finally starting to dry up. An AI age might still be coming. A cheap AI age, one that fooled an entire generation into rebuilding their working lives on top of it, is already over. A bill simply hasn't arrived yet. And when it does, that price will never feel real again. The"
+    },
+    {
+      "id": 101,
+      "debut": 4915.84,
+      "fin": 4932.08,
+      "temps_estime": false,
+      "titre": "Cracks in AI confidence: who takes the hit",
+      "resume": "The confidence that made the AI industry feel inevitable is starting to crack, and the question shifts from how big this can get to who will take the hit when it doesn't. The segment leads into the next claim that the expected AI white-collar purge looks different from reality.",
+      "mots_cles": [
+        "AI confidence",
+        "cracks",
+        "unstoppable momentum",
+        "who takes the hit",
+        "AI industry",
+        "white collar purge",
+        "pressure"
+      ],
+      "texte": "confidence that made the whole AI industry feel inevitable is starting to crack. What once looked like unstoppable momentum is beginning to show the first cracks of pressure beneath the surface. Suddenly, the question shifts from how big can this get to who is going to take the hit when it doesn't. AI was supposed"
+    },
+    {
+      "id": 102,
+      "debut": 4932.08,
+      "fin": 4959.72,
+      "temps_estime": false,
+      "titre": "AI agents shut down as a legal time bomb",
+      "resume": "In Fortune 500 boardrooms thousands of AI agents are being shut down not because they failed but because they are a legal liability. While pouring billions into the buildout, tech giants are stripping liability out of their systems, and someone still has to pay when the dust settles.",
+      "mots_cles": [
+        "AI agents",
+        "legal liability",
+        "Fortune 500",
+        "legal time bomb",
+        "AI arms race",
+        "buildout",
+        "shutdowns",
+        "who pays"
+      ],
+      "texte": "to kick off a white collar purge, but the reality is different. In Fortune 500 boardrooms across the country, thousands of AI agents are being shut down. Not because they didn't work, but because they're a legal time bomb. The narrative is that tech giants are spending everything to win an AI arms race. But the reality is much messier. They're stripping the liability out of their systems [music] while pouring billions into the buildout. And when the dust settles, someone still has to pay for"
+    },
+    {
+      "id": 103,
+      "debut": 4959.72,
+      "fin": 5008.56,
+      "temps_estime": false,
+      "titre": "AI spending versus the interstate highway system",
+      "resume": "The 48,000-mile US interstate system cost $630 billion over 35 years, while big tech spends $725 billion in 2026 on AI infrastructure alone, with Goldman Sachs estimating over $7.61 trillion through 2031. The global AI services market generated only about $25 billion in 2025, so companies are getting cents on the dollar.",
+      "mots_cles": [
+        "interstate highway",
+        "$725 billion",
+        "AI infrastructure spending",
+        "Goldman Sachs",
+        "$7.61 trillion",
+        "AI services market $25 billion",
+        "capex",
+        "return on investment"
+      ],
+      "texte": "[music] it. The US interstate highway system is 48,000 mi long. It took 35 years to build and cost $630 billion in today's money. [music] It is by any measure one of the most consequential infrastructure investments in human history. Meanwhile, big tech is spending [music] $725 billion in 2026 on AI infrastructure alone. That number has more than doubled in just 2 years and is projected to keep climbing into the trillions by 2030. In fact, Goldman [music] Sachs now estimates that the total AI infrastructure bill between now and 2031 will exceed [music] $7.61 trillion. For that kind of money, you'd expect a revolution. What these companies are getting right now is cents on the dollar. The entire global AI services market in 2025 generated around $25 billion against hundreds of billions of infrastructure spending. When a"
+    },
+    {
+      "id": 104,
+      "debut": 5008.56,
+      "fin": 5036.4,
+      "temps_estime": false,
+      "titre": "DeepSeek shock: what are we paying for?",
+      "resume": "In January 2025 Chinese startup DeepSeek said it built a competitive model on Nvidia's lower-end chips for under $6 million, wiping about $590 billion from Nvidia's market cap in a day, the largest single-day loss in US stock market history. It did not break AI but raised the question every investor asks: what exactly are we paying for?",
+      "mots_cles": [
+        "DeepSeek",
+        "Nvidia market cap",
+        "$590 billion loss",
+        "January 2025",
+        "lower-end chips",
+        "AI model cost",
+        "investor doubt",
+        "stock market"
+      ],
+      "texte": "Chinese startup called DeepSeek revealed in January 2025 that it [music] had built a competitive AI model using Nvidia's lower-end chips for under $6 million, it seemed almost impossible. But it still shook the market, wiping out around $590 billion from Nvidia's [music] market cap in a single day. It was the largest single day loss in US stock market history. Deepseek, far from breaking AI, merely [music] raised the question every investor had asked himself. What exactly are we paying for?"
+    },
+    {
+      "id": 105,
+      "debut": 5036.4,
+      "fin": 5086.79,
+      "temps_estime": false,
+      "titre": "Big tech mortgaging the present: debt and cash flow",
+      "resume": "The spenders are borrowing: Alphabet quadrupled long-term debt to $46.5 billion in 2025, the five biggest tech firms issued $108 billion in bonds, Bank of America says AI capex consumes 95% of operating cash flow after dividends, and Amazon projects a 95% fall in free cash flow. Sophisticated capital allocators either know something or cannot stop without admitting they were wrong; either way something has broken.",
+      "mots_cles": [
+        "Alphabet debt",
+        "bond issuance",
+        "Bank of America",
+        "AI capex",
+        "operating cash flow",
+        "Amazon free cash flow",
+        "capital allocators",
+        "AI gamble"
+      ],
+      "texte": "The companies spending this money don't just have it lying around. They are borrowing it. While Alphabet quadrupled its long-term debt in 2025 to 46.5 billion, the five biggest tech companies issued 108 billion in new bonds last year alone. Bank of America now estimates that AI Capex now consumes 95% of operating cash flows after dividends. [music] Amazon is projecting a 95% decline in free cash flow thanks to its AI buildout costs. They are in essence mortgaging their present against a future that hasn't shown up yet. The gamble is genuinely alarming. If it were startups chasing hype, that would be one thing. These are the most sophisticated capital allocators on the earth. When they spend like this, they either know something the rest of us don't, or they're caught up in something they can't stop [music] without admitting they were wrong. Either way, something has broken. To understand what, you"
+    },
+    {
+      "id": 106,
+      "debut": 5086.79,
+      "fin": 5139.76,
+      "temps_estime": false,
+      "titre": "Air Canada chatbot case: a made-up bereavement policy",
+      "resume": "After his grandmother died, Jake Moffatt asked Air Canada's chatbot about bereavement fares and was told he could apply retroactively within 90 days; he flew, applied, and was denied because the real policy required requests before travel. The chatbot invented a policy and stated it with complete confidence, sending a grieving man to buy a full-price ticket based on a lie.",
+      "mots_cles": [
+        "Air Canada",
+        "chatbot hallucination",
+        "bereavement fare",
+        "Jake Moffatt",
+        "Vancouver",
+        "invented policy",
+        "retroactive discount",
+        "customer lawsuit"
+      ],
+      "texte": "[music] have to go back to the moment a grieving man in Vancouver asked an airline chatbot a simple question and changed corporate legal history forever. On the day his grandmother died, Jake Moffett opened his laptop and went to Air Canada's website [music] to book a flight from Vancouver to Toronto. He had one question. Did the airline offer bereavement fairs and could he apply for one after the fact? [music] He asked the chatbot and it said yes. It told him to submit his request within 90 days of purchase and the discount would be retroactively applied. So Moffett booked the ticket, flew to Toronto, came home and then filed the request like he'd been told and Air Canada denied it. Their actual policy, as it turns out, required bereavement fair requests to be made before travel. The AI chatbot had simply made up a policy that didn't exist, stated it with complete confidence, [music] and sent a grieving man to buy a full price ticket based on a lie. So, Moffett sued. And what"
+    },
+    {
+      "id": 107,
+      "debut": 5139.76,
+      "fin": 5191.28,
+      "temps_estime": false,
+      "titre": "Air Canada's defense and the tribunal ruling",
+      "resume": "Air Canada argued it could not be held liable for its chatbot, calling it a separate legal entity responsible for its own actions. Tribunal member Christopher Rivers rejected this, ruling the chatbot is part of the airline's website and the company is responsible for all information on it, and ordered Air Canada to pay $812 Canadian, a trivial sum but a major precedent in February 2024.",
+      "mots_cles": [
+        "Air Canada",
+        "tribunal ruling",
+        "Christopher Rivers",
+        "chatbot liability",
+        "separate legal entity",
+        "$812",
+        "precedent",
+        "February 2024"
+      ],
+      "texte": "happened next is the reason every corporate lawyer in America now has an opinion about chatbots. Air Canada's legal defense [music] was interesting. They argued it could not be held liable for information provided by its chatbot because the chatbot was quote a separate legal entity responsible for its own actions. They had deployed a piece of software to represent their company. And when that software caused harm, their position was essentially, \"Don't look at us.\" Tribunal member Christopher Rivers was not impressed. While a chatbot has an interactive component, he wrote, \"It is still just a part of Air Canada's website. It should be obvious to Air Canada that it is responsible for all the information on its website. It makes no difference whether the information comes from a static page or a chatbot.\" Air Canada was ordered to pay $812 Canadian. And in perspective, that amount is trivial. The precedent [music] was not. That ruling landed in February"
+    },
+    {
+      "id": 108,
+      "debut": 5191.28,
+      "fin": 5234.32,
+      "temps_estime": false,
+      "titre": "AI as a risk factor in SEC filings",
+      "resume": "After the ruling, corporate fear showed in SEC risk sections: 4% of public companies cited AI as a material risk in 2020, 43% by 2024, 56% of the Fortune 500 and 92% of media and entertainment companies. The SEC sent enforcement letters demanding specific disclosures, backed by $8.2 billion in financial remedies in 2024, and AI reached disclosure penetration in three years that climate change took decades to reach.",
+      "mots_cles": [
+        "SEC filings",
+        "AI risk factor",
+        "43% of companies",
+        "Fortune 500",
+        "media and entertainment 92%",
+        "SEC enforcement",
+        "disclosure",
+        "climate change comparison"
+      ],
+      "texte": "2024. What followed was a corporate panic that [music] never made headlines, but could be seen in the risk sections of SEC filings. In 2020, 4% of public companies mentioned [music] AI as a material risk in their annual filings. By 2024, that number was 43%. Among the Fortune 500 specifically, 56% now lists AI as a formal risk factor. Among media and entertainment companies, it's 92%. [music] The SEC itself has been sending enforcement letters demanding more specific disclosures, backed by [music] $ 8.2 billion in financial remedies in the year 2024 alone. Climate change took decades to achieve similar disclosure penetration across corporate America. AI did it in 3 years. What the Air Canada"
+    },
+    {
+      "id": 109,
+      "debut": 5234.32,
+      "fin": 5259.36,
+      "temps_estime": false,
+      "titre": "You are the machine: liability follows AI deployment",
+      "resume": "The Air Canada ruling established that whatever your AI says to a customer, you said it: liability cannot be outsourced to software. For technology that cannot guarantee it won't make things up, deploying AI at scale eventually brings liability, raising the question of who will cover the bill.",
+      "mots_cles": [
+        "AI liability",
+        "Air Canada precedent",
+        "outsourcing liability",
+        "hallucinations",
+        "chatbot statements",
+        "deploy at scale",
+        "corporate responsibility",
+        "legal risk"
+      ],
+      "texte": "ruling established is that whatever your AI says to a customer, you said it. You can't outsource the liability to the software you employ. You can't just point at the machine and then look innocent. You are the machine. For a technology that can't guarantee it won't make things [music] up, that ruling created an absolute certainty. Deploy AI at scale and eventually liability follows. The bigger question is, will there be anyone left to cover the bill?"
+    },
+    {
+      "id": 110,
+      "debut": 5259.36,
+      "fin": 5315.44,
+      "temps_estime": false,
+      "titre": "Abandoned AI projects: Gartner and S&P Global statistics",
+      "resume": "Gartner predicted in July 2024 that 30% of enterprise gen AI projects would be abandoned after proof of concept by end of 2025, revised in April 2026 to about 40%, and expects over 40% of agentic AI projects cancelled by end of 2027. S&P Global found organizations scrapped 46% of AI proofs of concept and only 48% reach production after about eight months, a coin flip of shipping.",
+      "mots_cles": [
+        "Gartner",
+        "abandoned AI projects",
+        "proof of concept",
+        "agentic AI cancelled",
+        "S&P Global Market Intelligence",
+        "46% scrapped",
+        "eight months",
+        "AI graveyard"
+      ],
+      "texte": "In July 2024, research and advisory firm Gartner predicted that at least 30% [music] of enterprise gen AI projects would be abandoned after proof of concept by the end of 2025. By April 2026, they had to revise their original estimate. It turns out that it was actually more like 40% of enterprise AI projects [music] launched in the previous two years that would be scrapped before they ever shipped. Separately, Gartner now predicts that over 40% of Agentic [music] AI projects, the next generation of AI tools companies are currently betting on, will be cancelled by the end of 2027. The graveyard keeps growing. S&P Global Market Intelligence put some finer numbers on it. The average organization scrapped 46% [music] of AI proof of concepts before reaching production. Of the projects initiated, only 48% make it to production with an average of 8 months between prototype and launch. [music] That is 8 months of engineering hours, infrastructure costs, and executive attention on a coin flip chance of shipping anything at the end"
+    },
+    {
+      "id": 111,
+      "debut": 5315.44,
+      "fin": 5343.55,
+      "temps_estime": false,
+      "titre": "McKinsey: widespread AI use but little measurable earnings impact",
+      "resume": "McKinsey's late-2025 global survey found 88% of organizations use AI in at least one business function, but only 39% report any measurable earnings impact and 61% report no meaningful financial impact. About six in ten companies have plugged AI into operations without a measurable return.",
+      "mots_cles": [
+        "McKinsey",
+        "88% use AI",
+        "39% earnings impact",
+        "no financial impact",
+        "enterprise AI adoption",
+        "measurable return",
+        "business function",
+        "survey 2025"
+      ],
+      "texte": "of it. McKenzie, another consulting firm, surveyed organizations globally in late 2025, and they found [music] that 88% use AI in at least one business function. If that sounds like a success story, it's not. Only 39% [music] reported any measurable impact on earnings. At most, 61% reported no meaningful financial impact on their business whatsoever. Roughly 6 and 10 companies [music] have plugged AI into their operations and can't point to a measurable return it's made them."
+    },
+    {
+      "id": 112,
+      "debut": 5343.55,
+      "fin": 5397.68,
+      "temps_estime": false,
+      "titre": "Why AI projects fail and Deloitte's hallucination-based decisions",
+      "resume": "Gartner names poor data quality, weak risk controls, rising costs and unclear business value as reasons for failure, with each project costing $5 to $20 million, adding up to tens of billions in the corporate graveyard. A 2024 Deloitte survey found 47% of enterprise AI users made at least one major business decision based on invented AI content, even though the market seems not to price in such flaws.",
+      "mots_cles": [
+        "AI project failure",
+        "Gartner",
+        "poor data quality",
+        "project cost $5-20 million",
+        "Deloitte survey",
+        "47% decisions on hallucinations",
+        "business value",
+        "market calculations"
+      ],
+      "texte": "[music] The reasons are familiar enough that Gardner has named them outright. Poor data quality, weak risk controls, rising costs, and unclear [music] business value. Each project costs between 5 and20 million dollars to build and deploy. Multiply that across thousands of Fortune 500 initiatives and you're looking at tens of billions of dollars buried in the corporate graveyard. It gets even worse for big tech. A 2024 [music] Deote survey found that 47% of enterprise AI users admitted to making at least one major business decision based on the content AI had simply invented. In other words, nearly half had already trusted the hallucination with realworld consequences. Granted, things [music] have evolved a lot since 2024. The efficiency revolution is still an aspirational possibility as [music] Agentic AI improves, but you wouldn't be human if you hadn't wondered why the flaws you've seen firsthand [music] seem absent from the market's calculations. There's a particular breed"
+    },
+    {
+      "id": 113,
+      "debut": 5397.68,
+      "fin": 5473.76,
+      "temps_estime": false,
+      "titre": "Insurers exclude generative AI from coverage",
+      "resume": "Insurance, whose business is pricing risk, is moving to exclude AI: in January 2026 the Insurance Services Office introduced generative AI exclusions covering AI-generated text, images, audio, video and code in policies covering 82% of US businesses. W. R. Berkley introduced an absolute AI exclusion, AIG, Great American, Chubb, Travelers and Berkshire Hathaway followed, and state regulators approve over 80% of requests.",
+      "mots_cles": [
+        "insurance exclusions",
+        "Insurance Services Office",
+        "generative AI exclusion",
+        "W. R. Berkley",
+        "AIG",
+        "Chubb",
+        "Travelers",
+        "uninsurable"
+      ],
+      "texte": "of corporate fear that shows up where [music] you would least expect it. Insurance contracts. Basically, if the people whose entire business [music] model depends on their ability to correctly price risk deem something uninsurable, that is usually a huge red flag. In January 2026, the Insurance Services Office introduced new exclusions targeting generative AI. Essentially, if generative AI causes the damage, don't assume you're covered. New policy language began excluding claims tied to AI generated text, images, audio, video, and code. That is every large language model ever built. The chat bots, the AI co-pilots, the autonomous agents, all of them circled with black ink and excluded from the policies that cover 82% of US businesses. [music] In 2024 and 25, insurers had been narrowing AI coverage in existing policies by tightening up language and adding exclusions. WR Berkeley introduced an absolute [music] AI exclusion across directors and officers, errors and omissions, and fiduciary liability lines. AIG saw that and they said, \"Well, we'll have more of the same.\" Great American Insurance followed. Chub, [music] Travelers, Berkshire Hathaway received state regulatory approval for their own exclusions. [music] State regulators have been approving more than 80% of those requests. The"
+    },
+    {
+      "id": 114,
+      "debut": 5473.76,
+      "fin": 5533.04,
+      "temps_estime": false,
+      "titre": "Why insurers exclude AI: unpriceable risk leaves companies exposed",
+      "resume": "The AI liability market repeats the cyber insurance cycle of invisible coverage, then exclusions, then costly standalone products. Insurers are not moral actors: 42% tracked no AI risk metrics, and what can't be measured can't be priced, so it is excluded, leaving companies holding all liability for public-facing AI on hardware that is rapidly losing value.",
+      "mots_cles": [
+        "cyber insurance parallel",
+        "AI risk metrics",
+        "unpriceable risk",
+        "42% of insurers",
+        "liability gap",
+        "exclusions",
+        "insurance industry",
+        "depreciating hardware"
+      ],
+      "texte": "industry has seen this movie before. A decade ago, cyber insurance went through an identical cycle. [music] There was invisible coverage until claims mounted and then came the exclusions. Eventually, standalone products emerged at [music] premiums most companies couldn't stomach. The AI liability market is speedr runninging the same cycle. [music] Insurance companies are not moral actors. They do not exclude things because they find them distasteful. [music] They exclude them because the numbers don't work. They tried to price in AI liability throughout 2024 and 2025. And [music] 42% of insurers reported tracking no AI risk metrics at all. When you can't measure risk, you can't [music] price it. And when you can't price it, you exclude it. The legal system said, \"Whatever your AI does, you did it.\" The insurance industry said, \"And we won't be covering that.\" Which left every company still running public-f facing AI deployment holding the entire liability themselves, all on hardware that was simultaneously losing most of its value."
     }
   ]
 }
