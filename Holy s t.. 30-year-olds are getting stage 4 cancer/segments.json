@@ -1,0 +1,585 @@
+{
+  "version": 1,
+  "video_id": "WSAOK-saNAU",
+  "titre_video": "Holy s**t.. 30-year-olds are getting stage 4 cancer...",
+  "duree_s": 845.72,
+  "avancement": {
+    "lignes_traitees": 197,
+    "fin_traitee_s": 845.72,
+    "nb_lignes_total": 197,
+    "complet": true
+  },
+  "nb_segments": 30,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.0,
+      "fin": 31.4,
+      "temps_estime": false,
+      "titre": "Hook: 'You're too young for cancer' is killing young adults",
+      "resume": "The phrase 'you're too young for cancer' is claimed to be killing thousands of 20 to 30 year olds. Young patients with symptoms like rectal bleeding and chronic exhaustion are dismissed with a cream or an anxiety prescription. While cancer rates fall in seniors they surge in young adults, turning treatable early-stage cases into stage 4.",
+      "mots_cles": [
+        "too young for cancer",
+        "young adults",
+        "stage 4 cancer",
+        "rectal bleeding",
+        "misdiagnosis",
+        "healthcare system",
+        "early-onset cancer",
+        "dismissed symptoms"
+      ],
+      "texte": "“You’re too young for cancer.” That single sentence is killing thousands of 20 to 30 year olds. When a healthy 28 year old sits on an examination table with rectal bleeding and chronic exhaustion, the medical playbook dictates the same routine. Prescribe a cream, write a script for anxiety and send them home. But while cancer rates are falling in seniors, they’re surging in young adults. This forces treatable, early stage malignancies into stage 4 death warrants. People are being failed by the healthcare system… and it’s terminal."
+    },
+    {
+      "id": 2,
+      "debut": 31.4,
+      "fin": 58.72,
+      "temps_estime": false,
+      "titre": "Cancer deaths and the well-known cancers versus the hidden killer",
+      "resume": "Cancer kills 626,000 Americans a year and is not one disease but a silent mutator crowding out healthy cells. Skin, breast, prostate and lung cancer are well known through awareness, screening or obvious risk factors like smoking. One common killer is hiding in plain sight and its numbers are exploding.",
+      "mots_cles": [
+        "626,000 deaths",
+        "cancer overview",
+        "skin cancer",
+        "breast cancer",
+        "prostate screening",
+        "lung cancer smoking",
+        "silent killer",
+        "cancer awareness"
+      ],
+      "texte": "Every year, cancer claims the lives of 626,000 Americans. But it isn’t actually one disease. It’s a silent mutator that crowds out the body’s healthy cells. We all think we know the signs. Skin cancer is easy to spot. Breast cancer has extensive awareness. Prostate cancer is caught by regular screening. And lung cancer heavily targets obvious risk factors like smoking. But there’s one common killer hiding in plain sight. And the numbers are exploding."
+    },
+    {
+      "id": 3,
+      "debut": 58.72,
+      "fin": 81.8,
+      "temps_estime": false,
+      "titre": "Colorectal cancer: leading cause of cancer death in young adults",
+      "resume": "Colorectal cancer is now the leading cause of cancer death in young adults, with over 158,000 cases expected in 2026 and around 55,000 deaths. Caught early the survival rate is near perfect, but caught late it is terminal. Yet 3 out of 4 young adults are diagnosed at a terminal stage.",
+      "mots_cles": [
+        "colorectal cancer",
+        "158,000 cases 2026",
+        "55,000 deaths",
+        "survival rate",
+        "late diagnosis",
+        "young adults",
+        "leading cause",
+        "statistics"
+      ],
+      "texte": "Colorectal cancer is now the leading cause of cancer death in young adults. In 2026 alone, there are expected to be over 158,000 cases diagnosed. Around 55,000 will die. Caught early enough, and it has a near perfect survival rate. Caught late… and it’s just a matter of time. Yet, 3 out of 4 young adults are being given a terminal diagnosis. Why?"
+    },
+    {
+      "id": 4,
+      "debut": 81.8,
+      "fin": 92.04,
+      "temps_estime": false,
+      "titre": "Embarrassment and dismissal: shame around bathroom symptoms",
+      "resume": "Colorectal symptoms center around the bathroom, so patients are too embarrassed to discuss them and doctors are quick to dismiss them. The narrator says unwarranted shame is killing people.",
+      "mots_cles": [
+        "embarrassment",
+        "bathroom symptoms",
+        "shame",
+        "doctors dismissing",
+        "colorectal symptoms",
+        "taboo",
+        "delayed diagnosis",
+        "patients"
+      ],
+      "texte": "Part of the reason is the symptoms center entirely around the bathroom. Patients are too embarrassed to talk about it. Doctors are too quick to dismiss it. Unwarranted shame is killing people."
+    },
+    {
+      "id": 5,
+      "debut": 92.04,
+      "fin": 117.28,
+      "temps_estime": false,
+      "titre": "Screening works for seniors: colorectal rates dropping 2.5%",
+      "resume": "Among older patients, colorectal cancer rates dropped 2.5% in the most recent study. Routine screenings are prescribed for anyone over 45 and act as early warning systems. Noncancerous polyps are found early and removed with minimally invasive surgery before becoming cancer.",
+      "mots_cles": [
+        "screening over 45",
+        "colonoscopy",
+        "polyps",
+        "early warning",
+        "seniors",
+        "2.5% drop",
+        "minimally invasive surgery",
+        "colorectal cancer"
+      ],
+      "texte": "The system is actually working for seniors. In the most recent study, it was shown that the rate of colorectal cancer among older patients had dropped by 2.5%. Routine screenings are prescribed for anyone over age 45, and they act like early warning systems. Doctors are able to monitor any risk factors early. Noncancerous polyps are often found early, long before they can develop into cancer, and removed via minimally invasive surgeries."
+    },
+    {
+      "id": 6,
+      "debut": 117.28,
+      "fin": 141.68,
+      "temps_estime": false,
+      "titre": "Why seniors are healthier: less smoking and better food",
+      "resume": "Seniors benefit from improved elder care and healthier living overall. Smoking rates have dropped due to anti-smoking campaigns and taxes, and better, affordable food has phased out heavily processed diets, improving digestive health and lowering cancer rates.",
+      "mots_cles": [
+        "seniors health",
+        "elder care",
+        "smoking decline",
+        "anti-smoking campaigns",
+        "processed food",
+        "digestive health",
+        "diet",
+        "lower cancer rates"
+      ],
+      "texte": "But it’s not all down to healthcare professionals. Seniors are getting healthier. Part of this is the improvement in elder care, but the other element is how much healthier everyone is living. The rates of smoking have dropped massively, partially due to anti-smoking campaigns and taxes. The access to better, reasonably priced food means the heavily processed diets of the past are being phased out. Better digestive health means a lower rate of cancer."
+    },
+    {
+      "id": 7,
+      "debut": 141.68,
+      "fin": 174.6,
+      "temps_estime": false,
+      "titre": "Millennials and Gen Z: colorectal cancer rising 3% a year",
+      "resume": "Millennials are slouching towards middle age, and the oldest have passed the age 45 threshold for colonoscopy screening. Among younger millennials and Gen Z, colorectal cancer is rising about 3% per year among adults aged 20 to 49. Gen Z is getting a rude awakening that their bodies can turn on them.",
+      "mots_cles": [
+        "millennials",
+        "Gen Z",
+        "3% per year",
+        "ages 20 to 49",
+        "colonoscopy age 45",
+        "rising cancer rate",
+        "early-onset colorectal",
+        "young adults"
+      ],
+      "texte": "But on the other end of the spectrum, something disturbing is happening. As much as they don’t want to admit it, millennials are slouching towards middle age. The oldest millennials have crossed the age 45 threshold, which is where the recommendation for colonoscopy screenings begins. But even among the younger millennials and Gen Z, doctors are watching nervously as the rate of colorectal cancer ticks up. At last count, it was rising about 3% per year among adults ages 20 to 49. Even the younger Gen Z are getting a rude awakening that their own body can turn on them at any time."
+    },
+    {
+      "id": 8,
+      "debut": 174.6,
+      "fin": 191.2,
+      "temps_estime": false,
+      "titre": "Not just colorectal: breast, skin and cervical cancer rising in young people",
+      "resume": "Colorectal cancer shows the most stark rise, but doctors see increased risk of breast, skin and cervical cancer in young people. For most young people it remains a background threat they do not want to think about.",
+      "mots_cles": [
+        "breast cancer",
+        "skin cancer",
+        "cervical cancer",
+        "young people",
+        "rising risk",
+        "background threat",
+        "colorectal",
+        "multiple cancers"
+      ],
+      "texte": "And it’s not just one kind of cancer. The rate of colorectal cancer is the most stark, but doctors have seen an increased risk of breast cancer, skin cancer, and cervical cancer in young people. But for most, it's a background threat. Something that most young people simply don’t want to think about."
+    },
+    {
+      "id": 9,
+      "debut": 191.2,
+      "fin": 217.12,
+      "temps_estime": false,
+      "titre": "Genetics explain only 10%: BRCA and the shock for young generations",
+      "resume": "Some cancer risk is genetic, notably breast cancer where women are tested early for the BRCA gene. Up to 10% of cancers are genetic, leaving 90% caused by outside factors or bad luck. Millennials and Gen Z pride themselves on being healthier than past generations, but the world may not agree.",
+      "mots_cles": [
+        "genetic risk",
+        "BRCA gene",
+        "10% genetic",
+        "90% external factors",
+        "bad luck",
+        "breast cancer",
+        "millennials",
+        "Gen Z"
+      ],
+      "texte": "In some cases, the risk is genetic. This is especially common in breast cancer, where women are tested early for the BRCA gene. Up to 10% of cancers are caused by a genetic risk, but that still leaves the remaining 90%. And those are caused by outside factors or bad luck. For millennials and Gen Z, this might come as a shock to them. After all, they pride themselves on being healthier than past generations. But the world may not be going along with that."
+    },
+    {
+      "id": 10,
+      "debut": 217.12,
+      "fin": 238.0,
+      "temps_estime": false,
+      "titre": "Less smoking and drinking, yet habits may be backfiring",
+      "resume": "Smoking and drinking are among the biggest risk factors that have been reduced: only 11% of young adults smoke and heavy drinking is lower than in older generations. The narrator suggests those same healthy habits may be backfiring.",
+      "mots_cles": [
+        "smoking 11%",
+        "drinking",
+        "risk factors",
+        "heavy drinkers",
+        "millennials",
+        "Gen Z",
+        "healthy habits",
+        "backfiring"
+      ],
+      "texte": "Among the biggest risk factors that have been removed for these younger generations, smoking and drinking stand out. The rate of smoking is only 11% of young adults, including millennials and Gen Z. And while the majority of younger adults drink alcohol, the percentage of heavy drinkers is much lower than in Gen Z and Baby Boomers. But those same healthy habits may be backfiring on them."
+    },
+    {
+      "id": 11,
+      "debut": 238.0,
+      "fin": 271.52,
+      "temps_estime": false,
+      "titre": "Excess weight and the American diet as cancer risk factors",
+      "resume": "Colorectal, pancreatic and kidney cancers are linked to excess weight, but they do not explain the full increase. Processed foods, nitrates and saturated fats are linked to increases in breast, prostate and colon cancer. The digestive system is strained by the average American diet, and the damage is not noticeable until too late, leaving a ticking time bomb.",
+      "mots_cles": [
+        "excess weight",
+        "processed foods",
+        "nitrates",
+        "saturated fats",
+        "colon cancer",
+        "pancreatic cancer",
+        "kidney cancer",
+        "American diet"
+      ],
+      "texte": "Colorectal, pancreatic, and kidney cancer are all linked to excess weight. But these three cancers don’t explain the full increase. Another major factor might be those snacks itself, as processed foods, nitrates, and saturated fats have been linked to an increase in breast, prostate, and colon cancer. The latter in particular is a high risk. The digestive system is being put through its paces by the average American diet, and unlike with smoking, the damage caused by it isn’t noticeable until it might be too late. Many Millennials and Gen Z are walking around with a ticking time bomb inside."
+    },
+    {
+      "id": 12,
+      "debut": 271.52,
+      "fin": 300.04,
+      "temps_estime": false,
+      "titre": "Sedentary lifestyles and lost benefits of exercise",
+      "resume": "Around 66% of Gen Z describe themselves as physically active, far lower than past generations. Inactivity is not a direct cancer risk but removes benefits such as reduced inflammation and regulated hormones. Physical activity may lower the risk of up to 15 types of cancer.",
+      "mots_cles": [
+        "physical activity",
+        "sedentary lifestyle",
+        "Gen Z 66% active",
+        "inflammation",
+        "hormone levels",
+        "15 types of cancer",
+        "exercise",
+        "risk reduction"
+      ],
+      "texte": "Behavior also plays a role. Around 66% of Gen Z describes themselves as physically active, but that’s far lower than past generations. People are still living sedentary lifestyles. While lack of physical activity isn’t a cancer risk directly, it does mean people don’t get the benefits of working out. That helps reduce inflammation in the body and regulates hormone levels. Up to 15 types of cancer may have their risk level decreased by physical activity, and that’s something this generation is missing out on."
+    },
+    {
+      "id": 13,
+      "debut": 300.04,
+      "fin": 332.6,
+      "temps_estime": false,
+      "titre": "Born around 1990: aggressive rare cancers and metabolic shifts",
+      "resume": "Adults born around 1990 are 2 to 3 times more likely to develop aggressive, rare malignancies like pancreatic, kidney and small intestine cancers. These do not track with family history but with metabolic shifts from modern lifestyles. A generation comfortable staying home and sedentary creates conditions cancer thrives in.",
+      "mots_cles": [
+        "born 1990",
+        "pancreatic cancer",
+        "kidney cancer",
+        "small intestine cancer",
+        "metabolic shifts",
+        "sedentary",
+        "family history",
+        "aggressive malignancies"
+      ],
+      "texte": "Slowly but surely, it’s all adding up. Adults born around 1990 are between 2 and 3 times more likely to develop more aggressive, rare malignancies like pancreatic, kidney, and small intestine cancers. These don’t directly track with family history. Instead, they are linked to metabolic shifts driven by modern lifestyles. There’s an entire generation that’s increasingly comfortable staying at home, being sedentary and missing out on physical activity. The lack of movement increases the conditions that cancer thrives in. This comfort zone is causing a fatal delay."
+    },
+    {
+      "id": 14,
+      "debut": 332.6,
+      "fin": 359.04,
+      "temps_estime": false,
+      "titre": "Hesitating to see doctors and a system built for seniors",
+      "resume": "Young people are hesitant to leave the house for routine appointments or early screenings, which worries doctors. As senior health improves and young health worsens, baseline risk moves in the opposite direction. A system designed for more care for seniors and less for the young is exposed as vulnerable.",
+      "mots_cles": [
+        "routine appointments",
+        "early screenings",
+        "young people",
+        "healthcare system",
+        "senior health",
+        "risk trajectory",
+        "vulnerability",
+        "comfort zone"
+      ],
+      "texte": "Young people are hesitant to leave the house for routine doctor appointments or early screenings. It’s a trend that doctors are becoming increasingly concerned about. As health for seniors gets better, health for young people is getting worse. This means the baseline risk trajectory is moving in the exact opposite direction it was supposed to. A system set up for more healthcare for seniors and less for young people is exposing a serious vulnerability. And it isn’t equipped for what comes next."
+    },
+    {
+      "id": 15,
+      "debut": 359.04,
+      "fin": 402.44,
+      "temps_estime": false,
+      "titre": "Washington University study: younger generations age faster",
+      "resume": "Cancer has been seen as a disease of aging, so doctors watch for damage in older people. A Washington University School of Medicine in St. Louis study confirmed that younger people are aging faster than older generations at the cellular level. The damage may not be visible but keeps accumulating inside.",
+      "mots_cles": [
+        "Washington University",
+        "St. Louis",
+        "aging faster",
+        "cellular aging",
+        "disease of aging",
+        "tumors",
+        "generational shift",
+        "medical timeline"
+      ],
+      "texte": "Cancer is typically considered a disease of aging, the lifetime of cellular damage. Our bodies eventually lose the ability to repair malformed cells, allowing them to mutate into tumors and shut down organs. Because of this, doctors have spent decades to be on the lookout for signs of damage in older people. But now that medical timeline has been shattered. It’s not just that young people are getting cancer faster than expected. On a cellular level, they’re literally aging faster. A major study by researchers at Washington University School of Medicine in St. Louis confirmed the generational shift. Younger people are in fact aging faster than older generations… but not in the way people think. But that doesn’t mean the damage isn’t accumulating inside."
+    },
+    {
+      "id": 16,
+      "debut": 402.44,
+      "fin": 435.12,
+      "temps_estime": false,
+      "titre": "Biological age versus chronological age and their risk factors",
+      "resume": "Scientists look at the gap between biological age and chronological age. Obesity, sedentary behavior, poor diet, alcohol and metabolic issues widen it, and cesarean birth shows some correlation. Each factor is minor alone, but combined they create a big problem.",
+      "mots_cles": [
+        "biological age",
+        "chronological age",
+        "obesity",
+        "sedentary behavior",
+        "poor diet",
+        "alcohol",
+        "metabolism",
+        "cesarean section"
+      ],
+      "texte": "One of the biggest cancer risks scientists look for is the gap between biological age and chronological age. The latter is how long we’ve been alive, the former is how old our bodies appear to be. The factors that can create that divergence include obesity, sedentary behavior, poor diet, alcohol consumption, and issues with the metabolism. Surprisingly, there is some correlation between being born by cesarean section and these risk factors. However, each of these individual factors is considered to be minor. But when you combine them all, you get a big problem."
+    },
+    {
+      "id": 17,
+      "debut": 435.12,
+      "fin": 478.12,
+      "temps_estime": false,
+      "titre": "Study of 150,000 young adults: 9 blood markers and 92% faster aging",
+      "resume": "A study analyzed 150,000 young adults in the UK plus 10,000 in the US, using 9 blood biochemistry markers tied to critical organs to measure internal aging. Gen X aged slightly faster than Baby Boomers, and those born 1990 to 1999 showed systemic aging 92% higher than earlier generations.",
+      "mots_cles": [
+        "UK Biobank study",
+        "150,000 young adults",
+        "9 blood biomarkers",
+        "systemic aging",
+        "92% higher",
+        "born 1990-1999",
+        "Gen X",
+        "Baby Boomers"
+      ],
+      "texte": "A study analyzed data from 150,000 young adults in the United Kingdom, and combined it with 10,000 individuals in the US as part of a larger database. They used 9 blood biochemistry markers linked with critical organs that can develop cancer to create a map of how fast our bodies are decaying from the inside out. What they discovered was a nightmare for millennials and Gen Z. The shift has been accelerating for decades. Gen X was already aging slightly faster than Baby Boomers. It was a slight change, but it was the start of a dark pattern. Those born between 1990 and 1999 displayed systemic aging that was 92% higher when pitted against the generations before them. And the faster you age, the faster the risk."
+    },
+    {
+      "id": 18,
+      "debut": 478.12,
+      "fin": 506.28,
+      "temps_estime": false,
+      "titre": "Aging faster raises early-onset cancer risk by 8% to 15%",
+      "resume": "The younger group showed an 8% increased risk of early-onset cancers, rising to 15% for those with the most advanced aging factors. 17 of 34 major cancer types show increased risk among Millennials and Gen X, and Gen Z is likely to follow. Scientists hope awareness leads to more early screenings.",
+      "mots_cles": [
+        "early-onset cancer",
+        "8% risk increase",
+        "15% risk increase",
+        "17 of 34 cancer types",
+        "accelerated aging",
+        "screening",
+        "millennials",
+        "Gen Z"
+      ],
+      "texte": "This study showed that the younger group had an 8% risk increase for early-onset cancers. For those who had the most advanced aging factors, those results surged to a 15% increase. Scientists have been raising the alarm to let young people know that something is increasing their risk of cancer. 17 of 34 major cancer types show an increased risk among Millennials and Gen X. And Gen Z is likely to follow. They hope the awareness will lead to more young people getting early screenings."
+    },
+    {
+      "id": 19,
+      "debut": 506.28,
+      "fin": 543.2,
+      "temps_estime": false,
+      "titre": "Awareness spreads: millennials and Gen Z openness about health",
+      "resume": "Word of the cancer risk is slow but spreading, with millennials admitting they are aging and taking steps to protect their health. Gen Z, criticized for oversharing, is open about taboo gastrointestinal issues and builds online support groups that help peers spot warning signs. The question is whether they can get anyone to take it seriously.",
+      "mots_cles": [
+        "awareness",
+        "millennials",
+        "Gen Z openness",
+        "gastrointestinal issues",
+        "online support groups",
+        "oversharing",
+        "warning signs",
+        "early detection"
+      ],
+      "texte": "Word of this increased cancer risk has been slow to spread, but it is spreading. Millennials have been grudgingly admitting that they’re getting older and taking the necessary steps to safeguard their health. But is it too late? As for Gen Z, the younger generation has been criticized for oversharing, but that’s led to many being very open with their health struggles. News articles have talked about their openness with taboo topics like gastrointestinal issues, with sufferers starting online support groups. That allows peers to sometimes identify when something isn’t just an annoyance - it’s a warning sign. But can they get anyone to take it seriously?"
+    },
+    {
+      "id": 20,
+      "debut": 543.2,
+      "fin": 570.88,
+      "temps_estime": false,
+      "titre": "Roadblocks to screening: waitlists, cost and insurance",
+      "resume": "Specialists have long waiting lists, especially outside work hours, and specialized tests are expensive. If the patient is under the recommended testing age without a referral, insurance may not cover it. Gig workers pay out of pocket or must convince a general practitioner to issue a referral.",
+      "mots_cles": [
+        "waiting lists",
+        "specialist referral",
+        "insurance coverage",
+        "expensive tests",
+        "gig workers",
+        "out of pocket",
+        "general practitioner",
+        "testing age"
+      ],
+      "texte": "There are often a lot of roadblocks in the way of young people getting checked for cancer risks. First, specialists can have a lengthy waiting list, and the list is even longer if you’re trying to go outside of work hours. Specialized tests are expensive, and if the patient is under the age of recommended testing and doesn’t have a referral, it may not be covered by insurance. With many younger workers stuck in freelance gig work, they’re stuck paying out of pocket and may be forced to resort to convincing a general practitioner that they need a referral."
+    },
+    {
+      "id": 21,
+      "debut": 570.88,
+      "fin": 599.6,
+      "temps_estime": false,
+      "titre": "Medical gaslighting and its history with women",
+      "resume": "'Medical gaslighting' is a new term for dismissed patients. Historically this institutional neglect targeted women whose pain was dismissed as stress or cycle issues and met with an aspirin, leaving many with painful or fatal conditions. Things have changed, but it might have spread to an entire generation.",
+      "mots_cles": [
+        "medical gaslighting",
+        "women patients",
+        "dismissed pain",
+        "institutional neglect",
+        "stress",
+        "aspirin",
+        "misdiagnosis",
+        "young generation"
+      ],
+      "texte": "There’s a new term on everyone’s lips when it comes to this new risk factor: “Medical Gaslighting”. Historically, this kind of institutional neglect heavily targeted women. A female patient would describe specific pain, only for a doctor to shrug it off as “stress” or “cycle issues”, prescribe an aspirin and move on. Countless women were stuck with painful or even fatal conditions because the doctor refused to look a little deeper. Things have changed. But it might have spread to an entire generation."
+    },
+    {
+      "id": 22,
+      "debut": 599.6,
+      "fin": 628.6,
+      "temps_estime": false,
+      "titre": "What medical gaslighting is and why doctors do it",
+      "resume": "In healthcare, gaslighting is a deadly manipulation that convinces patients they are imagining their physical suffering. Often it stems from doctors trying to get through a busy schedule without fitting in hard-to-schedule tests. The delay can mean worse quality of life or, with cancer, early death.",
+      "mots_cles": [
+        "gaslighting",
+        "healthcare manipulation",
+        "busy schedules",
+        "delayed tests",
+        "early death",
+        "patients",
+        "doctors",
+        "delay and diversion"
+      ],
+      "texte": "Gaslighting isn’t just a toxic relationship trait where someone tries to convince you that you’re crazy. In the healthcare industry, it’s a deadly form of manipulation. It’s used to convince patients that they’re hallucinating their physical suffering. Of course, doctors aren’t supposed to cause harm, aren’t they? In some cases, it’s simply trying to get through a busy schedule of patients without having to try to squeeze in hard-to-schedule tests. But the consequences of that delay and diversion can be worsening quality of life, or in the case of cancer, even an early death."
+    },
+    {
+      "id": 23,
+      "debut": 628.6,
+      "fin": 656.12,
+      "temps_estime": false,
+      "titre": "Textbook diagnoses and young people taking charge of appointments",
+      "resume": "For new or hard-to-diagnose ailments doctors fall back on the textbook, most-likely answer, which is cold comfort for patients with the less likely outcome. After too many dead ends, young people take charge of their own appointments and come prepared, which surprises some doctors.",
+      "mots_cles": [
+        "textbook diagnosis",
+        "hard-to-diagnose",
+        "dead ends",
+        "self-advocacy",
+        "young patients",
+        "medical appointments",
+        "most likely solution",
+        "come prepared"
+      ],
+      "texte": "And more young people are starting to stand up to it. Especially when it comes to new and hard-to-diagnose ailments, doctors tend to fall back on the textbook Most of the time, the most likely solution will be the correct one. But for those who come in with the less-likely outcome, that’s cold comfort as their health continues to deteriorate. So after dealing with too many dead ends as they tried to get diagnosed, young people are starting to take charge of their own medical appointments and come prepared. And it takes some doctors by surprise."
+    },
+    {
+      "id": 24,
+      "debut": 656.12,
+      "fin": 686.4,
+      "temps_estime": false,
+      "titre": "Gen Z advocates: symptom journals, questions and a witness",
+      "resume": "Gen Z enters appointments knowing what they want and not accepting no, bringing symptom journals, questions and sometimes a friend as a witness. This is spurred by coverage of medical gaslighting. A bright side is that those aware of the rise are incentivized to take charge of their health.",
+      "mots_cles": [
+        "Gen Z",
+        "symptom journal",
+        "patient advocacy",
+        "witness",
+        "medical gaslighting",
+        "appointments",
+        "take charge",
+        "health awareness"
+      ],
+      "texte": "Instead of coming in and letting the doctor take the lead, Gen Z in particular has been entering appointments like they know what they want and they won’t take no for an answer. They’ll come with journals of their symptoms, questions for the doctor, and even sometimes a friend to act as a witness. This has been spurred on by increased coverage of medical gaslighting, and those who are in the know come ready to fend it off at the first sign. This is one of the few bright sides of the increase in dangerous illnesses among the young: those who know about it are incentivized to take charge of their health."
+    },
+    {
+      "id": 25,
+      "debut": 686.4,
+      "fin": 710.28,
+      "temps_estime": false,
+      "titre": "No doubt left: a larger cause behind the young cancer surge?",
+      "resume": "While the elderly benefit from better healthcare and falling cancer rates, the young see skyrocketing rates with no clear pattern. Behavior and individual health alone cannot explain it, as it happens too fast and across different cancers. The narrator asks whether something larger is at play and whether it is too late.",
+      "mots_cles": [
+        "cancer surge",
+        "no clear pattern",
+        "young vs elderly",
+        "individual health",
+        "different cancers",
+        "larger cause",
+        "skyrocketing rates",
+        "too late"
+      ],
+      "texte": "At this point, there’s no doubt left. Something is wrong with the young health-wise. While the elderly are benefiting from better overall health care and seeing their cancer rates drop, the young are seeing it skyrocket without a clear pattern. It can’t simply be blamed on behavior and individual health. It’s happening too fast and among different kinds of cancer. Is there something larger at play here? If so, is it too late to stop it?"
+    },
+    {
+      "id": 26,
+      "debut": 710.28,
+      "fin": 741.08,
+      "temps_estime": false,
+      "titre": "Theories: vaccines and Covid debunked, pollution and climate change",
+      "resume": "Theories for the surge include vaccines and the aftereffects of Covid-19, which have been heavily debunked since the pattern predates 2020. Over the same period came a surge in pollution and advancing climate change. Many young people feel only they can protect themselves.",
+      "mots_cles": [
+        "causes of cancer surge",
+        "vaccines debunked",
+        "Covid-19",
+        "pollution",
+        "climate change",
+        "pre-2020 trend",
+        "environment",
+        "theories"
+      ],
+      "texte": "There have been plenty of theories about the cause of the surge in cancer and other “older” illnesses among millennials and Gen Z. Some, like both vaccines and the aftereffects of Covid-19, have been heavily debunked, and this pattern was going on well before the 2020 crisis. But what’s been going on as well during that period is the surge in pollution and the advance in climate change. The Earth is changing, and it seems to be becoming a harder place to live in for many people. And many young people feel that only they can protect themselves."
+    },
+    {
+      "id": 27,
+      "debut": 741.08,
+      "fin": 765.2,
+      "temps_estime": false,
+      "titre": "Anxiety and Gen Z leading the way in health self-advocacy",
+      "resume": "Cascading global crises have led to a surge in anxiety, and it is uniquely terrifying that something in the world could end you rather than the world ending. As word of the cancer crisis spreads, Gen Z leads in taking charge of their health, but it is unclear if this is enough against a two-pronged threat.",
+      "mots_cles": [
+        "anxiety",
+        "cascading crises",
+        "Gen Z",
+        "taking charge of health",
+        "cancer crisis",
+        "two-pronged threat",
+        "fear",
+        "awareness"
+      ],
+      "texte": "While this might not be the most dangerous time in human history, the cascading crises around the world have led to a huge surge in anxiety. But there’s something uniquely terrifying about the idea that it won’t be the world that ends - but something in the world that puts an end to you. As word of this growing cancer crisis spreads, Gen Z is leading the way in taking charge of their own health. But will this be enough against a two-pronged threat?"
+    },
+    {
+      "id": 28,
+      "debut": 765.2,
+      "fin": 804.32,
+      "temps_estime": false,
+      "titre": "A creeping 3% rise and a healthcare system not set up for it",
+      "resume": "The crisis advances in a creeping way: a 3% annual increase does not make headlines like a plague, and individual cancer cases rarely make the news. The health care system assumes young people use less care and focuses diagnostic effort on the elderly, so it is unprepared for the demographic shift and pushes back.",
+      "mots_cles": [
+        "3% annual increase",
+        "creeping crisis",
+        "healthcare system",
+        "demographic shift",
+        "elderly diagnostics",
+        "young people healthcare use",
+        "news coverage",
+        "unprepared"
+      ],
+      "texte": "Gen Z and millennials have been facing this crisis for a long time, but it’s been advancing in a creeping way that makes it hard to raise the alarm. A 3% increase in cancer rates per year doesn’t make headlines in the way that a massive plague does. After all, people die of cancer every day, and individual cases rarely make the news. But the bigger problem is that the health care system itself may not be set up for this crisis. For decades now, it’s been set up to assume that young people will use less healthcare, only showing up at the hospital in an emergency. Meanwhile the elderly take up the lion’s share of diagnostic efforts. The medical industry isn’t prepared for this demographic shift. And it’s pushing back."
+    },
+    {
+      "id": 29,
+      "debut": 804.32,
+      "fin": 833.08,
+      "temps_estime": false,
+      "titre": "Skipping the gatekeepers: young people fight the disease and the clock",
+      "resume": "As clinics ration time and screenings, young people skip the gatekeepers by self-diagnosing and demanding scans and tests. The medical world will eventually change but moves at a snail's pace, and thousands of people do not have that luxury. Two generations are counting on a system that is running out of time.",
+      "mots_cles": [
+        "self-diagnosis",
+        "gatekeepers",
+        "scans and tests",
+        "rationed screenings",
+        "medical system slow",
+        "two generations",
+        "running out of time",
+        "young patients"
+      ],
+      "texte": "As clinics ration their time and screenings, young people are skipping the gatekeepers completely. They’re self-diagnosing and demanding the scans and tests they need to survive. They are fighting a disease… and the clock. The medical world will eventually change. It’ll realize it’s on the precipice of a huge crisis. But it's a profession that moves at a snail's pace. There are thousands of people who don’t have that luxury. Two generations are counting on a system that’s running out of time. And death waits for no one."
+    },
+    {
+      "id": 30,
+      "debut": 833.08,
+      "fin": 845.72,
+      "temps_estime": false,
+      "titre": "Outro: cancer developing in stranger ways in animals",
+      "resume": "Cancer is targeting the young, but in the rest of the animal kingdom it is developing in even stranger ways. Viewers are pointed to the video 'We Thought Cancer Was Uncontagious. We Thought Wrong'.",
+      "mots_cles": [
+        "animal cancer",
+        "contagious cancer",
+        "outro",
+        "recommended video",
+        "animal kingdom",
+        "cancer",
+        "next video",
+        "transmissible cancer"
+      ],
+      "texte": "Cancer is changing and targeting the young, but in the rest of the animal kingdom, it’s developing in even stranger ways. Check out “We Thought Cancer Was Uncontagious. We Thought Wrong” for all the horrifying details. Or watch this."
+    }
+  ]
+}
