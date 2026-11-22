@@ -1,0 +1,850 @@
+{
+  "version": 1,
+  "video_id": "c8dlJJuqcOQ",
+  "titre_video": "Scientists Are Freaking Out Over Space Time (It's Not Real)",
+  "duree_s": 10427.77,
+  "avancement": {
+    "lignes_traitees": 840,
+    "fin_traitee_s": 1827.03,
+    "nb_lignes_total": 5233,
+    "complet": false
+  },
+  "nb_segments": 46,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.0,
+      "fin": 28.55,
+      "temps_estime": true,
+      "titre": "Accroche : espace et temps illusoires ou vie écrite d'avance",
+      "resume": "The narrator opens by claiming that Einstein was wrong about free will. Physicists tested reality with giant telescopes aimed 7.8 billion light-years away, and the result forces a choice: either space and time are illusions or every choice you make was decided before Earth existed.",
+      "mots_cles": [
+        "Einstein",
+        "free will",
+        "illusion",
+        "space and time",
+        "quantum physics",
+        "telescopes",
+        "predetermined"
+      ],
+      "texte": "You chose to click on this video. You thought it was your own free will. Even Albert Einstein would have agreed with you. Einstein was dead wrong. Quantum physicists pointed giant telescopes 7.8 billion light years into the deep cosmos to test the fabric of reality. What they found changes [music] everything. Either space and time are complete illusions or your entire life is scripted. Every thought you've ever had and every choice you'll make was already decided long before Earth even existed."
+    },
+    {
+      "id": 2,
+      "debut": 28.55,
+      "fin": 71.96,
+      "temps_estime": true,
+      "titre": "Einstein, relativité générale et réalisme local",
+      "resume": "Einstein's general relativity describes space and time as a woven 4D fabric in which reality is logical and predictable. His belief in local realism has two parts: things exist whether or not they are observed, and an event cannot instantly affect something far away without a link, delay or signal.",
+      "mots_cles": [
+        "general relativity",
+        "Einstein",
+        "local realism",
+        "space-time fabric",
+        "4D",
+        "gravity",
+        "locality"
+      ],
+      "texte": "Albert Einstein's greatest gift to the world was the theory of general relativity, also known as Einstein's theory of gravity. He discovered that space and time are woven together like a giant invisible 4D fabric. According to Einstein, reality is predictable, logical, and it makes total sense. He believed in the concept of local realism and it boiled down to two simple concepts. Things are real [music] whether you're looking at them or not. A rock on Mars doesn't stop existing because no one is there to see it. And events occurring in one location can't instantly affect something happening millions of miles away. There has to be a link, a delay, or a signal. It's a common sense view of the physical world, something even the average person can generally understand."
+    },
+    {
+      "id": 3,
+      "debut": 71.96,
+      "fin": 120.19,
+      "temps_estime": true,
+      "titre": "La physique quantique et l'intrication contre le réalisme local",
+      "resume": "Quantum physics found that unobserved particles dissolve into mathematical probabilities rather than sitting in one place. Quantum entanglement links particles across any distance so that spinning one instantly affects the other, which broke Einstein's rule that nothing travels faster than light.",
+      "mots_cles": [
+        "quantum physics",
+        "entanglement",
+        "superposition",
+        "probabilities",
+        "faster than light",
+        "unobserved particles",
+        "North Pole and moon"
+      ],
+      "texte": "Then quantum physics completely shattered what Einstein believed in. When scientists started looking at reality on a subatomic level, they made discoveries that turned the entire concept of local realism on its head. They found that instead of existing in a specific location, unobserved particles dissolved into a ghostly mathematical probabilities. And it gets weirder. Digging deeper, they developed the theory of quantum entanglement. Essentially, it means that two or more tiny particles can become linked even if they're in completely different places. Like putting one at the North Pole and the other on the moon, they still mirror one another. >> [music] >> Spin one and the other will spin. This happens instantly without delay. For Einstein, that was ridiculous. It broke his rule that nothing could travel faster than light."
+    },
+    {
+      "id": 4,
+      "debut": 120.19,
+      "fin": 149.95,
+      "temps_estime": true,
+      "titre": "Einstein rejette l'intrication : action fantomatique et variables cachées",
+      "resume": "Einstein mocked quantum theory and called entanglement spooky action at a distance, going to his grave convinced quantum physics was flawed. He believed particles carried a hidden variable set at birth, so they simply followed a script rather than communicating across light-years.",
+      "mots_cles": [
+        "spooky action at a distance",
+        "hidden variable",
+        "Einstein",
+        "entanglement",
+        "script",
+        "local realism",
+        "quantum flawed"
+      ],
+      "texte": "He famously mocked colleagues stating, \"Do you really believe the moon is not there when you're not looking at it?\" He jokingly called quantum entanglement \"spooky [music] action at a distance.\" He went to his grave believing that quantum physics was fundamentally flawed. Einstein believed scientists were missing a secret variable, like some sort of special property that was built into particles at their birth, which dictated their behavior in the future. To him, the particles weren't communicating across light-years, they were just following a script that we couldn't read yet."
+    },
+    {
+      "id": 5,
+      "debut": 149.95,
+      "fin": 195.46,
+      "temps_estime": true,
+      "titre": "Le débat et le test proposé par John Bell dans les années 1960",
+      "resume": "For decades quantum theory was dismissed as philosophy and journals refused such papers. In the 1960s Northern Irish physicist John Stewart Bell proposed a test with a limit on how synchronized separate particles could be, which would show whether Einstein or the quantum physicists were right.",
+      "mots_cles": [
+        "John Stewart Bell",
+        "Bell test",
+        "Bell's theorem",
+        "spooky action debate",
+        "quantum skepticism",
+        "1960s",
+        "synchronization limit"
+      ],
+      "texte": "For decades, scientists argued [music] both sides of the debate. For a long time, quantum theories were dismissed as philosophy or even crackpottery. Many scientific journals literally refused to publish papers on the topic. >> [music] >> Aspiring quantum students were encouraged to stick to classical physics instead. And then, in the 1960s, something changed. A Northern Irish physicist called John Stewart Bell proposed [music] a test that could potentially settle the spooky action debate once and for all. It would determine whether distant entangled particles [music] communicate instantly or if Einstein was right all along. If Einstein was right, well, there had to be some sort of limit on how synchronized two separate particles [music] could be. If the quantum physicists were right, however, they would smash through that limit."
+    },
+    {
+      "id": 6,
+      "debut": 195.46,
+      "fin": 216.87,
+      "temps_estime": true,
+      "titre": "Les premières expériences de Clauser, Freedman et Aspect",
+      "resume": "Bell lacked the technology to run his experiment, which only became possible in the 1970s and 80s through John Clauser, Stuart Freedman and Alain Aspect. The particles broke Bell's mathematical limit every time, showing that entanglement is real.",
+      "mots_cles": [
+        "Clauser",
+        "Freedman",
+        "Alain Aspect",
+        "Bell's theorem",
+        "entanglement experiments",
+        "1970s",
+        "Einstein lost"
+      ],
+      "texte": "But Bell couldn't actually perform the experiment, the technology [music] didn't exist. It wasn't until the 1970s and '80s that a new generation of scientists, such as John Clauser, Stuart Freedman, and Alain Aspect, were able to put Bell's theorem to the test. [music] And Einstein lost every time. The particles shattered Bell's mathematical limit, proving quantum entanglement was real."
+    },
+    {
+      "id": 7,
+      "debut": 216.87,
+      "fin": 269.32,
+      "temps_estime": true,
+      "titre": "Les failles de détection et de localité",
+      "resume": "Einstein's defenders argued the experiments had loopholes. The detection loophole claimed equipment missed particles and scientists cherry-picked pairs, while the locality loophole claimed particles could exchange a fast hidden signal before measurement. Faster electronics and more efficient detectors gradually closed both.",
+      "mots_cles": [
+        "loopholes",
+        "detection loophole",
+        "fair sampling",
+        "locality loophole",
+        "hidden signal",
+        "Bell test",
+        "detectors"
+      ],
+      "texte": "But Einstein's acolytes refused to back down. [music] They claimed the experiments were rigged or pointed out massive loopholes in the logic. First, there was the detection or fair sampling loophole. Skeptics argued that existing scientific equipment simply wasn't accurate and reliable enough to capture every particle. They accused scientists of inadvertently cherry-picking the pairs that lined up with their hypothesis. And then there was the locality loophole. This argued that the particles were communicating just like [music] Einstein thought, just using a hidden signal that moved incredibly fast. If the particles had a microsecond to send messages before being captured, then the whole test was invalid. >> [music] >> As the years went by and technology improved, scientists found ways to shut down these loopholes. They built ultra-fast electronic systems to counter the locality loophole argument, and they made detectors more efficient to collect [music] broader and more reliable measurements."
+    },
+    {
+      "id": 8,
+      "debut": 269.32,
+      "fin": 313.44,
+      "temps_estime": true,
+      "titre": "Le premier test de Bell sans faille en 2015 et les cinq sigma",
+      "resume": "In 2015 scientists achieved the first loophole-free Bell test and Einstein lost again. Five sigma is the gold standard in statistics, reached by the Higgs boson discovery at CERN, while the Bell test hit 11.5 sigma, making chance practically impossible.",
+      "mots_cles": [
+        "loophole-free Bell test",
+        "2015",
+        "five sigma",
+        "Higgs boson",
+        "CERN",
+        "11.5 sigma",
+        "statistics"
+      ],
+      "texte": "By 2015, they had achieved the holy grail of quantum physics, the first loophole-free Bell test. And again, Einstein lost. The data was overwhelming. In statistics, a discovery is confirmed at a level called five sigma. It is the gold standard. When it hits that, there's an almost unimaginably microscopic probability that the results were just random chance. The discovery of the Higgs boson at CERN achieved five sigma. The 2015 Bell test hit 11.5. The odds of that happening by chance are practically zero. It is more likely that you win the lottery every week for the rest of your life. The science was indisputable, but Einstein's defenders did dispute it. They had one more card to play."
+    },
+    {
+      "id": 9,
+      "debut": 313.44,
+      "fin": 383.69,
+      "temps_estime": true,
+      "titre": "La faille du libre arbitre (freedom of choice)",
+      "resume": "The last loophole is freedom of choice: Bell tests assume scientists can pick detector settings freely, but a hidden thread could link the settings and the particle, making entanglement look real when it was predetermined. Since any link could date back millions of years, the loophole seems impossible to close unless the experiment leaves Earth.",
+      "mots_cles": [
+        "free will loophole",
+        "freedom of choice",
+        "detector settings",
+        "entangled photons",
+        "hidden link",
+        "predetermined",
+        "Bell test"
+      ],
+      "texte": "They pointed to the last but significant loophole, the freedom of choice or free will loophole, the most complex loophole of all. In a typical Bell test, scientists fire a pair of entangled photons toward two separate detectors. To keep the tests fair, the detectors must randomly switch their measuring filters at the very last millisecond before the particles arrive. The free will loophole argument states that the tests like these operate on the assumption that the scientists have freedom of choice to pick whatever setting they want. They aren't influenced into making one decision over another. But what if they don't? What if there is some unknown hidden thread connecting the machine setting and the particle being measured? It might look like quantum entanglement, but it's actually proof of some sort of secret predetermined link between the two. The question the machine asks and the answer the particle gives were rigged from the start. The loophole is practically impossible to close. People can easily claim that there's some sort of connection between the microchips inside lab computers and the particles in the air around them. A connection that potentially dates back millions of years. Unless you can break that connection, you can never prove Einstein wrong."
+    },
+    {
+      "id": 10,
+      "debut": 383.69,
+      "fin": 434.77,
+      "temps_estime": true,
+      "titre": "Le Bell test cosmique de 2018 aux îles Canaries",
+      "resume": "In 2018 a team led by Nobel laureate Anton Zeilinger, with physicists from MIT and UC San Diego, gathered at the Roque de los Muchachos Observatory on La Palma. They set up two large telescopes and a laser producing entangled photon pairs, planning to choose detector settings using the universe itself instead of a computer or human.",
+      "mots_cles": [
+        "cosmic Bell test",
+        "Anton Zeilinger",
+        "La Palma",
+        "Canary Islands",
+        "MIT",
+        "telescopes",
+        "entangled photons",
+        "2018"
+      ],
+      "texte": "So, in 2018, a team of scientists decided to do the unthinkable. To close the loophole, they had to escape Earth and take their experiment deep into the cosmos. Led by Nobel laureate Dr. Anton Zeilinger, the team made up of theoretical physicists from MIT and UC San Diego gathered at the Roque de los Muchachos Observatory on La Palma in the Canary Islands. Their mission, [music] a cosmic Bell test. They set up two enormous astronomical telescopes, one measuring 11.8 ft across and the other 13.7 ft. They also had an advanced laser system that generated entangled pairs of photons before firing one of each pair toward each telescope site. There was one thing that made this experiment so different. To choose the detector settings, they didn't use a computer or a human. They used the universe itself."
+    },
+    {
+      "id": 11,
+      "debut": 434.77,
+      "fin": 499.46,
+      "temps_estime": false,
+      "titre": "Des quasars lointains comme générateur aléatoire",
+      "resume": "The telescopes pointed at two quasars, one 7.8 billion and the other 12.2 billion light-years away, and the color fluctuations of their ancient light set the detector settings. These quasars could not have communicated, so the universe acted as the ultimate random number generator and the free will loophole should have been shut.",
+      "mots_cles": [
+        "quasars",
+        "7.8 billion light-years",
+        "12.2 billion light-years",
+        "random number generator",
+        "detector settings",
+        "ancient light",
+        "free will loophole"
+      ],
+      "texte": "The team pointed their telescopes into the deepest recesses of space toward two extremely far away galactic cores called quasars. These were not local stars or even nearby galaxies. One quasar was 7.8 billion light-years away. The other was even further, 12.2 billion light-years. That means the light from these two galaxy cores had been traveling through the void for [music] billions of years just to get to the Earth. And that made it the perfect tool to slam the free will loophole shut once and for all. The strategy was brilliant. As the ancient light from the quasars entered the telescope sites, >> [music] >> scientists captured the random color fluctuations. That was converted into numerical signals, which were then used to change the detector settings right as the entangled photons arrived. The universe became the ultimate cosmic random number generator. The quasars were so old, so far apart, and so far away from the Earth they had no way of communicating with each other. If Einstein was right, any measurable correlations between the photons should have flattened out the quantum effects. The experiment should have failed."
+    },
+    {
+      "id": 12,
+      "debut": 499.46,
+      "fin": 521.53,
+      "temps_estime": true,
+      "titre": "Résultat : la mécanique quantique gagne encore",
+      "resume": "The entangled photons still behaved as if connected through space and time, even when the choices came from light that left its source billions of years ago. Quantum mechanics won again and the result was not close.",
+      "mots_cles": [
+        "cosmic Bell test results",
+        "quantum mechanics wins",
+        "entangled photons",
+        "quasar light",
+        "Einstein wrong",
+        "correlations",
+        "billions of years"
+      ],
+      "texte": "That's not what happened. When the scientists analyzed their findings, their conclusions were unequivocal. Just like in so many other Bell tests, the entangled photons behaved like they were connected through space and time. Even when the choices were dictated by light that left its source billions of years ago, nothing changed. Quantum mechanics won again, and it wasn't even close."
+    },
+    {
+      "id": 13,
+      "debut": 521.53,
+      "fin": 567.04,
+      "temps_estime": true,
+      "titre": "Une chance sur cent milliards de milliards et la dernière carte : le superdéterminisme",
+      "resume": "Alan Guth said the odds the result was a fluke were 1 in 100 billion billion, illustrated by repeatedly picking the same grain of sand on a beach. The experiment shows common sense reality is dead, and the only card left for Einstein's side is superdeterminism.",
+      "mots_cles": [
+        "Alan Guth",
+        "1 in 100 billion billion",
+        "grain of sand analogy",
+        "statistical impossibility",
+        "common sense reality",
+        "superdeterminism",
+        "Einstein's theory"
+      ],
+      "texte": "Dr. Alan Guth revealed the possibility of the test results being a fluke were 1 in 100 billion billion. To put that into perspective, imagine going to a beach, picking up a single grain of sand, and then dropping it among the trillion other grains. And then you close your eyes and you immediately pick up that same grain of sand over and over again. That's a statistical impossibility. That's what made this experiment matter so much. It proved beyond a shadow of a doubt that our common sense view of reality is dead. If anyone wants to hold on to Einstein's theory, they can't blame faulty equipment or a local lab condition. The only card that they have left to play is a concept so mind-bending it sounds insane. Superdeterminism. >> [music] >>"
+    },
+    {
+      "id": 14,
+      "debut": 567.04,
+      "fin": 646.17,
+      "temps_estime": true,
+      "titre": "Le superdéterminisme : un univers écrit depuis le Big Bang",
+      "resume": "Science relies on statistical independence, meaning a particle does not know in advance how it will be measured, and superdeterminism denies this. If true, the quasars followed a script written at the Big Bang that matches the photons in a Canary Islands lab, so experiments are illusions, nothing is random and humans have no free will, like actors reading lines or trains on tracks.",
+      "mots_cles": [
+        "superdeterminism",
+        "statistical independence",
+        "Big Bang script",
+        "no free will",
+        "predetermined universe",
+        "quasars",
+        "experiments illusion",
+        "determinism"
+      ],
+      "texte": "To understand how terrifying this is, you have to understand how science works. In normal scientific circles, we rely on something called statistical independence. [music] It means that when a scientist flicks a switch to measure a particle, the particle doesn't know that the switch is about to be flicked. Superdeterminism says [music] that is a lie. It argues that everything in the universe has been locked in since the dawn of time. So, if superdeterminism is accurate, those distant quasars weren't as random as they seemed to be. Instead, [music] they were reading from a script that was written billions of years ago during the Big Bang. A cosmic script that [music] those two exact quasars would emit a specific type of light in a particular way that would perfectly match the subatomic states of photons generated in a Canary Islands lab. Under this rule, there is no such thing as an independent experiment. Experiments in science are little more than an illusion. Everything we do, everything we measure, every tool we use is already predetermined. That means humans don't have any agency of any kind. There's no free will, nothing is random, every single thing that's ever happened and ever will happen was always going to happen that exact same way. And there's nothing we could do to change it. We're all just going through the motions like trains following tracks or actors reading lines that were written well before they were born."
+    },
+    {
+      "id": 15,
+      "debut": 646.17,
+      "fin": 693.23,
+      "temps_estime": true,
+      "titre": "Bell reconnaît l'échappatoire déterministe",
+      "resume": "John Stewart Bell told the BBC in the 1980s that the only way to avoid faster-than-light signals is absolute determinism with no free will, since the universe already knows every measurement outcome. He thought it implausible and most physicists dismissed it as a cop-out, yet quantum progress is pushing scientists toward a choice between two worldviews.",
+      "mots_cles": [
+        "John Stewart Bell",
+        "BBC",
+        "absolute determinism",
+        "superluminal",
+        "spooky action",
+        "cop-out",
+        "no free will"
+      ],
+      "texte": "John Stewart Bell even acknowledged this argument back in the 1980s telling the BBC, \"There's a way to escape the inference of superluminal speeds and spooky action, but it involves absolute determinism, the complete absence of free will. There is no need for a faster than light signal to tell particle A what measurement has been carried out on particle B because the universe already knows what that measurement and its outcome will be.\" Bell also stated that he believed this concept to be implausible. Most physicists flat-out ignored that saying that that was a cop-out that could never be tested or proven. But as quantum physics has evolved, scientists are being backed into a corner. They're being increasingly forced to face up to the idea of superdeterminism and that leads them to choose between two very different views of the world."
+    },
+    {
+      "id": 16,
+      "debut": 693.23,
+      "fin": 729.73,
+      "temps_estime": true,
+      "titre": "Le choix : superdéterminisme ou réalisme local réfuté",
+      "resume": "Either superdeterminism is real and the universe is hard-coded, or local realism is disproven and distant particles can influence each other faster than light. Most scientists choose the second option because accepting predetermination would make science pointless, but it implies most of what we know about space and time is wrong.",
+      "mots_cles": [
+        "superdeterminism",
+        "local realism disproven",
+        "faster-than-light influence",
+        "hard-coded universe",
+        "agency illusion",
+        "scientists' choice",
+        "space and time"
+      ],
+      "texte": "Either superdeterminism is real and that [music] means the whole universe is hard-coded and independent agency is an illusion, or that Einstein was wrong. Local realism has been disproven and particles even in completely different places can remain connected and directly influence one another at faster-than-light speeds. Most scientists [music] stopped for the second option because the idea of accepting superdeterminism doesn't sit right with them. If you accept that everything is predetermined, then scientific pursuits aren't worth pursuing at all. But if local realism is wrong, then so is most of what we know about space and time."
+    },
+    {
+      "id": 17,
+      "debut": 729.73,
+      "fin": 793.69,
+      "temps_estime": true,
+      "titre": "De l'espace-temps de Newton et Einstein à un espace-temps qui n'est pas réel",
+      "resume": "Newton saw space as a rigid stage and Einstein wove space and time into a 4D fabric, but both treated it as a backdrop for reality. The cosmic Bell test suggests distance is meaningless for entangled particles, so physical space is not what we think and space-time may not be real.",
+      "mots_cles": [
+        "Isaac Newton",
+        "space-time",
+        "Einstein",
+        "cosmic Bell test",
+        "distance meaningless",
+        "entangled particles",
+        "space-time not real",
+        "backdrop"
+      ],
+      "texte": "Isaac Newton famously saw space as a kind of rigid empty arena or a stage. Einstein took that idea to a new level suggesting that space and time weave around one another into a complex 4D fabric called space-time. But even in Einstein's vision, space-time was still seen as a kind of backdrop to reality. It was a physical layer that dictated where objects were, how quickly they can move, and how cause and effect worked together. The cosmic bell test shattered all of that. By closing that last loophole, the Canary Islands research team forced scientists across the globe to confront a whole new type of reality. A reality in which distance is meaningless. A reality in which particle A on the Earth can impact particle B on Jupiter instantly. If physical distance doesn't matter to entangled particles, then physical [music] space is not what we think it is. Einstein's space-time fabric clashes with quantum mechanics. That suggests something deeply unsettling. Space-time isn't [music] real. We may perceive it as real, but that's just a flaw in human nature."
+    },
+    {
+      "id": 18,
+      "debut": 793.69,
+      "fin": 848.04,
+      "temps_estime": true,
+      "titre": "Analogie de la chaleur : l'espace-temps comme phénomène émergent",
+      "resume": "Heat in hot water feels real, yet a single molecule only has kinetic energy, so heat emerges from many colliding molecules. Theoretical physicists apply the same logic to space-time, saying it is a byproduct emerging from a vast network of entangled quantum particles exchanging information.",
+      "mots_cles": [
+        "emergent space-time",
+        "heat analogy",
+        "kinetic energy",
+        "molecules",
+        "entangled particles",
+        "byproduct",
+        "theoretical physicists"
+      ],
+      "texte": "If you pour boiling water into a cup and you touch it, it feels hot. You'll notice a rise in temperature. But if you zoom in and you look at an individual molecule of water, it does not have an increase in temperature. It just has an increase in kinetic energy. It is moving fast. The heat you feel is a byproduct of large amounts of energy across large amounts of molecules, all interacting and colliding with one another. It's real to us because we can feel it in our fingertips. But on a subatomic level, it's not real. And today's theoretical physicists are taking that logic and applying it to space and time. Space-time, they say, is not a stage or a fabric. It's closer to a byproduct. Just as heat emerges from the chaotic motion of molecules, physical space and time emerges from the unimaginably vast network of entangled quantum particles constantly swapping information."
+    },
+    {
+      "id": 19,
+      "debut": 848.04,
+      "fin": 890.76,
+      "temps_estime": true,
+      "titre": "Le principe holographique et la réalité 3D projetée",
+      "resume": "The holographic principle proposes that our 3D reality is a projection from a 2D screen at the edge of the cosmos, where there is no gravity or spatial distance, only interacting quantum bits. It is compared to a 3D movie that looks deep but is flat when you touch the screen.",
+      "mots_cles": [
+        "holographic principle",
+        "holographic universe",
+        "2D screen",
+        "3D projection",
+        "quantum bits",
+        "edge of the cosmos",
+        "3D movie analogy"
+      ],
+      "texte": "And as theoretical physicists slowly turn away from Einstein's teachings, they've had to to up with an alternative way to visualize the universe, the holographic principle or holographic universe. This theory suggests that our 3D reality is actually a kind of projection emanating from the vast 2D screen that sits at the edge of the cosmos. On that screen, there's no such thing as gravity, spatial distance, or 3D space. It's just a collection of quantum bits all interacting with each other to project our reality into existence. It's almost like when you watch a movie in 3D, it might look and feel as though the objects are moving toward you, but if you stand up and touch the screen, everything is flat."
+    },
+    {
+      "id": 20,
+      "debut": 890.76,
+      "fin": 927.53,
+      "temps_estime": true,
+      "titre": "L'holographie explique l'action fantomatique et l'illusion du temps",
+      "resume": "On a flat 2D screen, entangled particles are not really far apart, so spooky action at a distance needs no magical communication. The same logic suggests that time as past, present and future is an illusion produced by our brains misreading quantum data.",
+      "mots_cles": [
+        "holographic principle",
+        "spooky action at a distance",
+        "entanglement",
+        "time illusion",
+        "linear time",
+        "2D plane",
+        "past present future"
+      ],
+      "texte": "The holographic principle actually explains Einstein's spooky action at a distance idea well. If the two particles are entangled on a flat 2D screen, they're not actually communicating with one another in some magical mysterious way across light-years of 3D space. We just perceive them as being far apart, but in reality, they aren't. That same sort of logic can also be applied to time. We experience it in a linear sequential format, past, present, and future, but that too might just be an illusion. It's our brain's desperate attempt to interpret complex quantum data unfolding on a flat plane that we're hardwired to misunderstand."
+    },
+    {
+      "id": 21,
+      "debut": 927.53,
+      "fin": 971.77,
+      "temps_estime": true,
+      "titre": "Le dilemme terrifiant : libre arbitre ou espace-temps",
+      "resume": "The cosmic Bell test forces a dilemma: accept superdeterminism, where space and time may be real but free will is fake, or reject it and accept that space and time are a holographic projection of quantum data. Either way one fundamental belief about the world, life or choices is wrong.",
+      "mots_cles": [
+        "dilemma",
+        "superdeterminism",
+        "free will fake",
+        "holographic projection",
+        "space and time illusions",
+        "cosmic Bell test",
+        "quantum data"
+      ],
+      "texte": "Even if you want to reject these ideas, the alternative is not any more comforting. The cosmic bell test has plunged humanity into a terrifying dilemma. On the one hand, you can believe in superdeterminism, and that means that space and time as we know them might be real, but free will is fake and nothing you do is ever really your decision. On the other hand, you can reject superdeterminism, but then you have to accept that space and time are simply illusions. The world around you is basically a holographic movie projection of quantum data. Either way, you have to accept that at least one of those fundamental things you thought about the world, about your life, and about your own choices and experiences is wrong, and that is the most frightening part of all."
+    },
+    {
+      "id": 22,
+      "debut": 971.77,
+      "fin": 1039.43,
+      "temps_estime": true,
+      "titre": "Introduction aux 50 faits sur l'espace : Andromède et Hubble",
+      "resume": "The Infographics Show introduces 50 facts about space, starting with the fact that until 1923 scientists thought the universe was only the Milky Way. Edwin Hubble showed that Andromeda is another galaxy, doubling the known universe, using the Hooker telescope, the first mountaintop telescope.",
+      "mots_cles": [
+        "Infographics Show",
+        "50 facts about space",
+        "Edwin Hubble",
+        "Andromeda",
+        "Milky Way",
+        "Hooker telescope",
+        "1923",
+        "galaxy"
+      ],
+      "texte": "Space continues to surprise us all, but one thing is certain, nothing lasts forever. As has been famously said, space is the final frontier, the greatest of unknowns. Space is far more vast than we can comprehend and filled with phenomenon we barely understand. While we've been watching the heavens in awe for millennia, space exploration and discovery only began in earnest in the mid-20th century. Yet, even what are no doubt our primitive findings still point at a universe more incredible [music] than we ever thought. Hello and welcome to another episode of The Infographics Show. Today, we're taking a look at 50 incredible facts about space. 50, until 1923, scientists thought that the entire universe was just our Milky Way. Until astronomer Edwin Hubble discovered that the astronomical feature known as Andromeda, a fuzzy spot in the night sky, was actually an entire other galaxy. Overnight, the size of the universe was effectively doubled. 49, Hubble made his discovery from the Hooker telescope, built atop a mountain in California. It was the first mountaintop telescope in the world, and at the time, an incredible feat of engineering."
+    },
+    {
+      "id": 23,
+      "debut": 1039.43,
+      "fin": 1095.51,
+      "temps_estime": true,
+      "titre": "Les Céphéides de Henrietta Leavitt et l'étoile V1",
+      "resume": "Astronomers measure galaxy distances with Cepheid stars, and Henrietta Leavitt showed that their dimming cycle reveals how far away they are. Hubble found a Cepheid in Andromeda in October 1923 and proved it lay outside the Milky Way, and the star V1 is called the most important star in cosmology.",
+      "mots_cles": [
+        "Cepheid stars",
+        "Henrietta Leavitt",
+        "Hubble",
+        "Andromeda",
+        "V1",
+        "distance measurement",
+        "variable star",
+        "cosmology"
+      ],
+      "texte": "48, to measure the distance between galaxies in space, astronomers use Cepheids, or stars that periodically dim and brighten. Henrietta Leavitt discovered that by monitoring the time it took these stars to dim and brighten, [music] you could calculate how far away they were. 47, Leavitt's discovery of how to calculate the distance based on the cycling of Cepheid stars allowed Hubble to prove that Andromeda was located outside the Milky Way and was thus its own galaxy. 46, Hubble scanned Andromeda for nights on end looking for [music] Cepheid stars until finally discovering one in October 1923. After monitoring it for a week, he used Leavitt's formula and discovered it was indeed located outside the Milky Way. 45, in 2011, the Hubble Space Telescope captured a picture of that star called the variable number one, or V1. [music] It has been called the most important star in the history of cosmology."
+    },
+    {
+      "id": 24,
+      "debut": 1095.51,
+      "fin": 1125.2,
+      "temps_estime": true,
+      "titre": "Vénus : planète la plus chaude et pression écrasante",
+      "resume": "Only Mercury and Venus have no moons, and Venus is the hottest planet at 863 degrees Fahrenheit because of runaway global warming. Its atmospheric pressure is 92 times Earth's, enough to crush a person flat like a soda can.",
+      "mots_cles": [
+        "Venus",
+        "hottest planet",
+        "863 degrees Fahrenheit",
+        "runaway global warming",
+        "atmospheric pressure",
+        "Mercury",
+        "no moons"
+      ],
+      "texte": "44, of all the planets in our solar system, only Mercury and Venus don't have moons. 43, the hottest planet in our solar system is not Mercury as most would assume, [music] but Venus due to runaway global warming. Venus' temperature is an incredible 863° Fahrenheit. 42, not only is Venus' atmosphere blazing hot, but it also has an atmospheric pressure 92 times greater than Earth's. That would crush you flat as a soda can if you walked on its surface."
+    },
+    {
+      "id": 25,
+      "debut": 1125.2,
+      "fin": 1193.54,
+      "temps_estime": true,
+      "titre": "Les sondes soviétiques Venera sur Vénus",
+      "resume": "Venera 3 in 1966 was the first human-made object to hit another planet but sent no data because its communications had failed. Venera 4 measured Venus's atmosphere in 1967, and the Soviet claim of reaching the surface was retracted after Mariner 5 found far higher pressure, while Venera 9 later returned the first photos from another planet.",
+      "mots_cles": [
+        "Venera 3",
+        "Venera 4",
+        "Venera 9",
+        "Soviet Union",
+        "Mariner 5",
+        "Venus probes",
+        "first photos",
+        "parachutes"
+      ],
+      "texte": "41, in 1966 the Soviet Union's Venera 3 was the first man-made craft to land on Venus. Unfortunately, its communication systems had failed [music] long before reaching Venus and it was unable to relay back any data. 40, [music] although it crash landed and didn't send any data back home, Venera 3 is the first human-made object to impact another planet's surface. 39, on the 18th of October 1967, Venera 4 became the first spacecraft to measure the atmosphere [music] of another planet. The Soviets initially claimed the craft reached the surface intact, but when the American Mariner 5 spacecraft flew by Venus the very next day, it measured a [music] surface pressure of 75 to 100 atmospheres, well out of the range of Venera 4's 25 atmosphere hold strength. The claim by the Soviet Union was quickly redacted. 38, Venus' atmosphere is so dense that parachutes are only necessary to slow down. The Soviet Union's Venera 9 released its parachutes at an atmospheric height of 31 miles and landed at a speed of only 15 miles per hour. It was also the first spacecraft to transmit photos from another planet."
+    },
+    {
+      "id": 26,
+      "debut": 1193.54,
+      "fin": 1215.3,
+      "temps_estime": true,
+      "titre": "Âge du système solaire et Olympus Mons",
+      "resume": "The solar system is about 4.6 billion years old and the Sun will become a red giant in roughly 5 billion years. Olympus Mons, an extinct volcano on Mars about 15 miles high, is the tallest known mountain and nearly three times Everest.",
+      "mots_cles": [
+        "solar system age",
+        "4.6 billion years",
+        "red giant",
+        "Sun",
+        "Olympus Mons",
+        "Mars",
+        "tallest mountain",
+        "Mount Everest"
+      ],
+      "texte": "37, our solar system is about 4.6 billion years old and scientists believe it will last another 5 billion years before our sun turns into a red giant. [music] 36, the tallest mountain known to man is Olympus Mons, an extinct volcano on Mars with a peak 15 miles high. It's nearly three times larger than Mount Everest."
+    },
+    {
+      "id": 27,
+      "debut": 1215.3,
+      "fin": 1253.03,
+      "temps_estime": true,
+      "titre": "Années-lumière, largeur de la Voie lactée et lumière stellaire ancienne",
+      "resume": "A light-year is the distance light travels in a year, about 5.88 trillion miles, and the Milky Way is about 100,000 light-years wide. Because stars are so far away, we see them as they were thousands of years ago.",
+      "mots_cles": [
+        "light-year",
+        "5.88 trillion miles",
+        "Milky Way width",
+        "100,000 light-years",
+        "starlight",
+        "night sky",
+        "NASA"
+      ],
+      "texte": "35, a light-year is the distance light travels in one year or 5.88 trillion miles. 34, the width of our Milky Way galaxy, according to NASA, is about 1 quintillion kilometers, or 621 quadrillion 371 trillion 192 billion 237 million 333,888 miles, or in astronomical terms, 100,000 light-years. 33, because most stars are so far away, when you look up into the night sky, you're not seeing them [music] as they currently are, but as they were thousands of years ago. That's how long their light takes to reach us."
+    },
+    {
+      "id": 28,
+      "debut": 1253.03,
+      "fin": 1272.44,
+      "temps_estime": true,
+      "titre": "Le Soleil face à VY Canis Majoris",
+      "resume": "The Sun is 300,000 times larger than Earth but a lightweight in the universe. VY Canis Majoris is the largest known star at 1,400 times the Sun's size and would extend past Jupiter if placed in our solar system.",
+      "mots_cles": [
+        "Sun size",
+        "VY Canis Majoris",
+        "largest star",
+        "1,400 times larger",
+        "Jupiter",
+        "stellar size comparison"
+      ],
+      "texte": "32, our sun is 300,000 times larger than the Earth, but in the universe, it's a lightweight. 31, the largest star in the known universe >> [music] >> is VY Canis Majoris. It's 1,400 times larger than our own sun. If you stuck it in our solar system, it would extend all the way past Jupiter."
+    },
+    {
+      "id": 29,
+      "debut": 1272.44,
+      "fin": 1304.01,
+      "temps_estime": true,
+      "titre": "Les géantes rouges et les supernovas",
+      "resume": "Red giants form when stars about 10 times the Sun's mass run out of hydrogen in the core, burn out in a few million years and shine 100,000 times brighter than the Sun. Such stars often explode as supernovas, the most powerful explosions in the universe.",
+      "mots_cles": [
+        "red giants",
+        "supernova",
+        "hydrogen fusion",
+        "massive stars",
+        "stellar collapse",
+        "powerful explosion",
+        "star lifespan"
+      ],
+      "texte": "30, red giants are really old stars that form when stars 10 times the mass of our sun runs out of hydrogen in its core. >> [music] >> As it collapses, the hydrogen in the outer shells begin the process of fusion, and the entire star begins fusing hydrogen all at once. They will burn through all of their fuel in just a few million years, unlike the billions it takes our sun, and shine 100,000 times brighter than our own sun. 29, these stars often explode as a supernova, the most powerful explosion in the universe."
+    },
+    {
+      "id": 30,
+      "debut": 1304.01,
+      "fin": 1341.8,
+      "temps_estime": true,
+      "titre": "L'origine des éléments : étoiles explosives et Big Bang",
+      "resume": "The early universe contained only hydrogen and helium, and every other element, including the carbon in your body and gold, was made in exploding stars. Supernovas release energy and neutrons that produce heavier elements, while helium, like that in party balloons, formed minutes after the Big Bang.",
+      "mots_cles": [
+        "hydrogen and helium",
+        "supernova",
+        "heavy elements",
+        "carbon",
+        "gold",
+        "Big Bang",
+        "periodic table",
+        "helium balloon"
+      ],
+      "texte": "28, [music] the original universe consisted solely of hydrogen and helium. Every other element on the periodic table, and every single thing you see around you today, was formed in the heart of exploding stars. 27, that's because when a star goes supernova, it releases huge amounts of energy and neutrons, which produces heavier elements. The carbon in your body and the gold [music] in the jewelry you wear, were all made from exploding stars. 26, only hydrogen and helium were formed in the Big Bang. The next time you suck down helium from a party balloon, you are sucking down a gas that probably formed just 3 [music] minutes after the Big Bang."
+    },
+    {
+      "id": 31,
+      "debut": 1341.8,
+      "fin": 1369.43,
+      "temps_estime": true,
+      "titre": "Bételgeuse et la zone habitable de la galaxie",
+      "resume": "The red giant Betelgeuse, 1,000 times larger than the Sun, is expected to go supernova within 1,000 years. Some scientists think life is only possible at the galaxy's outer edges where supernovas rarely sterilize worlds, and we sit between two Milky Way arms in a rural area.",
+      "mots_cles": [
+        "Betelgeuse",
+        "supernova",
+        "galactic habitable zone",
+        "Milky Way arms",
+        "sterilize worlds",
+        "red giant",
+        "outer edge of galaxy"
+      ],
+      "texte": "25, red giant Betelgeuse, 1,000 times larger than our sun is a cosmic neighbor and expected to go supernova in the next 1,000 years. 24, some scientists theorize that life is only possible in the outer edges of a galaxy where large stars are rare and thus supernovas don't routinely sterilize worlds of life. 23, we ourselves are between two arms of the Milky Way and in a relatively rural part of the galaxy."
+    },
+    {
+      "id": 32,
+      "debut": 1369.43,
+      "fin": 1404.15,
+      "temps_estime": true,
+      "titre": "Le nuage d'Oort et les extinctions de masse",
+      "resume": "The Oort Cloud is a massive sphere of icy remnants of the solar system's formation held by the Sun's weak gravity beyond Pluto. As we orbit the galaxy we pass through debris regions that may disturb Oort Cloud objects, and these passages coincide with several mass extinctions on Earth.",
+      "mots_cles": [
+        "Oort Cloud",
+        "icy objects",
+        "comets",
+        "cosmic debris",
+        "mass extinctions",
+        "Milky Way orbit",
+        "Pluto",
+        "solar system formation"
+      ],
+      "texte": "22, extending well past the orbit of Pluto is a massive sphere of icy objects known as the Oort Cloud. These are remnants from the formation of the solar system held in place by the weak gravity of the very distant sun. 21, every few million years as we orbit the center of the Milky Way, we enter a region of space full of cosmic debris. Some scientists theorize that this debris may disturb the fragile orbits of the objects in the Oort Cloud and send them hurtling into the solar system. The timing of our entry into this region of the Milky Way coincides with several mass extinction events here on Earth."
+    },
+    {
+      "id": 33,
+      "debut": 1404.15,
+      "fin": 1443.59,
+      "temps_estime": false,
+      "titre": "La panspermie et la météorite martienne",
+      "resume": "Panspermia is the theory that life spreads between planets on asteroids and comets. A Martian meteorite found in Antarctica may hold fossilized microorganisms, and it was probably launched from Mars by an asteroid impact, so we might all be Martians.",
+      "mots_cles": [
+        "panspermia",
+        "Mars meteorite",
+        "Antarctica",
+        "fossilized microorganisms",
+        "asteroid impact",
+        "origin of life",
+        "Martians"
+      ],
+      "texte": "20, panspermia is the theory that life is transmitted like a virus from planet to planet by asteroid and comet impacts. 19, a meteorite discovered in Antarctica was found to originate from Mars and after careful examination, some scientists believe it shows fossilized evidence of microscopic organisms giving serious credibility to the panspermia theory. We might all actually be Martians. 18, it's thought that this meteorite was launched into space from Mars when a massive asteroid struck the planet sending debris hurtling out of the atmosphere. In time, its orbit intersected with the Earth and may have brought its Martian hitchhikers with it."
+    },
+    {
+      "id": 34,
+      "debut": 1443.59,
+      "fin": 1470.46,
+      "temps_estime": true,
+      "titre": "Les tardigrades survivent dans l'espace",
+      "resume": "In 2008 an ESA mission exposed tardigrades to the vacuum, UV radiation and cosmic rays of space for 10 days and they came back alive. Only some lichen and bacteria had survived space before, which supports panspermia as a possible origin of life on Earth.",
+      "mots_cles": [
+        "tardigrades",
+        "ESA mission",
+        "2008",
+        "vacuum of space",
+        "cosmic rays",
+        "lichen",
+        "bacteria",
+        "panspermia"
+      ],
+      "texte": "17, in 2008, an ESA mission sent tardigrades, tiny microscopic organisms, into space. After 10 days of exposure to the vacuum of space, ultraviolet radiation from the sun, and cosmic rays, they were returned to Earth still alive. 16, before the tardigrades, only some lichen and bacteria were known to survive exposure to space meaning panspermia may be a valid theory for the origin of life on Earth."
+    },
+    {
+      "id": 35,
+      "debut": 1470.46,
+      "fin": 1480.98,
+      "temps_estime": true,
+      "titre": "Les empreintes sur la Lune",
+      "resume": "Because the Moon has no atmosphere, the footprints and tire prints left by American astronauts will never disappear. Only an asteroid impact could wipe them out.",
+      "mots_cles": [
+        "Moon",
+        "footprints",
+        "tire prints",
+        "Apollo astronauts",
+        "no atmosphere",
+        "asteroid impact"
+      ],
+      "texte": "15, because there's no atmosphere on the moon, the footprints and tire prints left on the moon by American astronauts will never disappear unless an asteroid impact wipes them out."
+    },
+    {
+      "id": 36,
+      "debut": 1480.98,
+      "fin": 1507.09,
+      "temps_estime": true,
+      "titre": "Les lunes de Jupiter et son rôle de garde du corps",
+      "resume": "Jupiter has the most moons in the solar system, 79 at the time, and more than any known planet in the galaxy. Its strong gravity pulls in many comets and asteroids that might have hit Earth, so it acts as our personal bodyguard.",
+      "mots_cles": [
+        "Jupiter",
+        "79 moons",
+        "gravity",
+        "comets and asteroids",
+        "bodyguard",
+        "solar system",
+        "life on Earth"
+      ],
+      "texte": "14, not only does Jupiter have the most moons in our solar system [music] with 79, but as of right now it has the most moons of any known planet in our galaxy. 13, many scientists think that without Jupiter life on Earth would be impossible. That's because the giant of our solar system exerts such a strong gravity that it pulls in many comets and asteroids that might have impacted Earth. Jupiter is like our personal bodyguard."
+    },
+    {
+      "id": 37,
+      "debut": 1507.09,
+      "fin": 1528.27,
+      "temps_estime": true,
+      "titre": "De l'eau sur Mercure",
+      "resume": "Water has been found almost everywhere in the solar system, even on Mercury, where NASA's Messenger probe discovered water ice in craters at the north pole in 2011. This holds despite a dayside surface temperature of 800 degrees Fahrenheit.",
+      "mots_cles": [
+        "Mercury",
+        "water ice",
+        "Messenger probe",
+        "NASA",
+        "craters",
+        "north pole",
+        "2011",
+        "solar system water"
+      ],
+      "texte": "12, once thought rare outside of the Earth, water has been found practically everywhere in the solar system, even on Mercury where scientists [music] never dreamed it would be possible. In 2011, NASA's Messenger probe discovered water ice and craters on Mercury's North Pole. That's despite a surface temperature of 800° Fahrenheit on the day side."
+    },
+    {
+      "id": 38,
+      "debut": 1528.27,
+      "fin": 1546.1,
+      "temps_estime": true,
+      "titre": "Curiosités : rotation du Soleil, nom de la Terre, taille de Pluton",
+      "resume": "The Sun rotates once every 25 to 35 days, Earth is the only planet not named after a god, and Pluto is smaller in diameter than the United States. These are short trivia facts about the solar system.",
+      "mots_cles": [
+        "Sun rotation",
+        "Earth name",
+        "Pluto",
+        "diameter",
+        "United States",
+        "solar system trivia"
+      ],
+      "texte": "11, not only does Earth rotate as it orbits the Sun, but the Sun itself also rotates at a rate of once every 25 to 35 days. 10, Earth is the only solar system planet not named after a god. Nine, Pluto is smaller in diameter than the United States."
+    },
+    {
+      "id": 39,
+      "debut": 1546.1,
+      "fin": 1581.39,
+      "temps_estime": true,
+      "titre": "Histoire de l'idée des trous noirs : Michell, Einstein, Cygnus X-1",
+      "resume": "English clergyman John Michell first proposed black holes in November 1784 and noted they could be detected by their gravitational effects. Einstein's general relativity showed they could form, yet he doubted they existed in nature, until Cygnus X-1 became the first observed black hole in 1972.",
+      "mots_cles": [
+        "black holes",
+        "John Michell",
+        "1784",
+        "Einstein",
+        "general relativity",
+        "Cygnus X-1",
+        "1972",
+        "first observed black hole"
+      ],
+      "texte": "Eight, the first theory positing the existence of black holes was from an English clergyman named John Michell in November 1784. He even correctly noted that these features would not be visible to the naked eye, but that they could be detected by their gravitational effects on other bodies. Seven, despite proving through general relativity that black holes could form, Einstein himself did not believe they could form in the natural world. It wouldn't be until 1972 that Cygnus X-1 became the first observed black hole, taking them from the realm of theory to the realm of reality."
+    },
+    {
+      "id": 40,
+      "debut": 1581.39,
+      "fin": 1618.34,
+      "temps_estime": true,
+      "titre": "Preuves observationnelles des trous noirs : Voie lactée, Gezari, ondes gravitationnelles",
+      "resume": "In 2002 astronomers presented evidence of a supermassive black hole at the center of the Milky Way. In 2012 Suvi Gezari's team captured the first visual evidence of one swallowing a red giant, and in 2015 gravitational waves from two merging black holes were detected.",
+      "mots_cles": [
+        "supermassive black hole",
+        "Milky Way center",
+        "Suvi Gezari",
+        "Pan-STARRS",
+        "gravitational waves",
+        "2015",
+        "merging black holes",
+        "space-time ripple"
+      ],
+      "texte": "Six, in 2002, astronomers presented evidence that a super massive black hole lurks at the center of our own Milky Way. Five, in 2012, Suvi Gezari and his team published the first visual evidence of a black hole. Using the Pan-STARRS 1 telescope in Hawaii, they photographed the supermassive black hole 2.7 million light-years away swallowing a red giant. Four, in 2015, gravity waves from the merging of a pair of black holes into one were detected. The violence of their merging created [music] a ripple through space-time that was detectable here on Earth millions of light-years away."
+    },
+    {
+      "id": 41,
+      "debut": 1618.34,
+      "fin": 1643.4,
+      "temps_estime": true,
+      "titre": "Les trous blancs et le Big Bang",
+      "resume": "General relativity also predicts white holes, regions of space-time that matter cannot enter, as the opposite of black holes. A growing theory says white holes are the other ends of black holes and that our Big Bang was a supermassive white hole lasting fractions of a second.",
+      "mots_cles": [
+        "white holes",
+        "general relativity",
+        "black holes",
+        "Big Bang",
+        "space-time",
+        "supermassive white hole"
+      ],
+      "texte": "Three, not only did general relativity predict that black holes were possible, but it also predicted that white holes could also be possible. The polar opposite of a black hole, a white hole is a region of space-time [music] where matter cannot enter. Two, a growing theory suggests that white holes are the opposite ends of black holes and that our own Big Bang was a supermassive white hole that existed for fractions of a second."
+    },
+    {
+      "id": 42,
+      "debut": 1643.4,
+      "fin": 1654.15,
+      "temps_estime": true,
+      "titre": "Quarantaine des astronautes d'Apollo",
+      "resume": "Fearing unknown deadly lunar germs, NASA quarantined the Apollo astronauts. The quarantine began immediately after their arrival back on Earth.",
+      "mots_cles": [
+        "Apollo astronauts",
+        "quarantine",
+        "lunar germs",
+        "Moon",
+        "NASA",
+        "return to Earth"
+      ],
+      "texte": "One, afraid that returning astronauts might be carrying unknown and deadly lunar germs, the Apollo astronauts were quarantined [music] immediately after their arrival on Earth."
+    },
+    {
+      "id": 43,
+      "debut": 1654.15,
+      "fin": 1686.78,
+      "temps_estime": true,
+      "titre": "Introduction : que se passerait-il dans l'espace sans combinaison",
+      "resume": "A new Infographics Show episode asks what would really happen if you were sucked out of a spacecraft unprotected, challenging the Hollywood trope of instant freezing or exploding eyeballs. It sets up a look at what vacuum does to the human body.",
+      "mots_cles": [
+        "Infographics Show",
+        "human body in space",
+        "airlock",
+        "spacecraft breach",
+        "Hollywood trope",
+        "unprotected in space",
+        "vacuum"
+      ],
+      "texte": "Space, the final frontier. And for anyone unfortunate enough to be sucked out an airlock without a spacesuit, it will definitely be the fatal frontier. It's an old Hollywood trope, [music] humans inside a flimsy spacecraft have an accident of some type and now the hole's been breached and everyone is about 2 seconds away from becoming human popsicles or having their eyeballs explode. But is that really what happens to you if you stepped out of a spacecraft unprotected? Hello and welcome to another [music] episode of the Infographic Show. Today we're taking a look at what would happen to your body in space."
+    },
+    {
+      "id": 44,
+      "debut": 1686.78,
+      "fin": 1743.89,
+      "temps_estime": true,
+      "titre": "Le vide : ne pas retenir sa respiration",
+      "resume": "Space is a near-perfect vacuum with no oxygen, but holding your breath is fatal because air expanding in your lungs would rupture them. You should exhale completely, stay conscious for about 15 seconds and survive around 2 minutes with little permanent damage.",
+      "mots_cles": [
+        "vacuum",
+        "lack of oxygen",
+        "lung rupture",
+        "hold your breath",
+        "exhale",
+        "15 seconds conscious",
+        "survive 2 minutes"
+      ],
+      "texte": "The most obvious problem you're going to have [music] if you are sucked out into space is a lack of oxygen. Space is a nearly perfect vacuum, meaning there's not much gas [music] to breathe in, let alone breathable O2. So if you find yourself aboard some space disaster, then you clearly should hold your breath and try to claw your way to safety, right? Wrong. That would actually be almost instantly fatal for you. As we mentioned, space is an almost perfect vacuum [music] and if you try to hold your breath, you would be pitting your own chest muscles against the strength of space itself, and that's a [music] fight you're going to lose. The oxygen in your lungs will immediately expand and rupture your lungs, being released into the circulatory system and ripped out of your [music] chest along with large parts of your now shredded lung tissues. So, instead of holding your breath, you want to breathe out as completely as [music] possible and make sure your lungs are empty. Don't worry, your brain will continue to remain conscious for about 15 seconds, [music] and you can survive the 2 minutes with little risk of permanent damage."
+    },
+    {
+      "id": 45,
+      "debut": 1743.89,
+      "fin": 1808.06,
+      "temps_estime": true,
+      "titre": "Vaporisation de l'eau du corps, gonflement et conscience",
+      "resume": "Without atmospheric pressure the water in your body evaporates and you swell to about twice your size, but elastic skin keeps you from bursting and rescue would restore you. Your circulation keeps blood pressurized, so you stay conscious and in pain until the oxygen in your blood runs out after about 15 seconds.",
+      "mots_cles": [
+        "water vaporization",
+        "swelling",
+        "atmospheric pressure",
+        "skin elasticity",
+        "blood pressure",
+        "consciousness",
+        "vacuum of space"
+      ],
+      "texte": "With no atmospheric pressure squeezing down on your body, the next thing to happen will be the vaporization [music] of water in your body. In a normal situation, water molecules are constantly being blown off, but by [music] being repelled with their air molecules, the water remains in equilibrium with the air. Without any atmosphere, though, water will begin to evaporate throughout your entire body, causing you to start swelling like a naughty kid inside Willy [music] Wonka's chocolate factory. You'll eventually swell to about twice normal size, but because human skin is incredibly elastic and durable, you won't burst like a giant meat [music] balloon. If you get rescued at this point, you'll actually return to normal and you should be fine, though we wouldn't recommend it. If rescue isn't forthcoming, [music] though, then you're going to be in an incredible amount of pain. And if you were hoping to instantly [music] black out due to the lack of blood pressure, then we got some bad news for you. Your circulatory system is so robust that it's able to keep your blood pressurized [music] even in the vacuum of space. So, as you swell up like a party balloon, you can look forward to retaining full consciousness as the blood [music] keeps on pumping, at least until the oxygen stored in your blood runs out after 15 seconds."
+    },
+    {
+      "id": 46,
+      "debut": 1808.06,
+      "fin": 1827.03,
+      "temps_estime": true,
+      "titre": "L'ébullition de l'humidité des yeux et de la langue",
+      "resume": "Moisture on your eyes and tongue boils immediately because of the missing atmospheric pressure, but this is a violent evaporation rather than a hot boil. You therefore will not cook yourself alive.",
+      "mots_cles": [
+        "boiling moisture",
+        "eyes and tongue",
+        "evaporation",
+        "lack of pressure",
+        "vacuum",
+        "not cooked alive"
+      ],
+      "texte": "Moisture on the exterior of your body, though, and in places like your eyes and tongue, >> [music] >> will immediately begin to boil due to the lack of atmospheric pressure. Yet, this isn't a hot type of boiling, but rather [music] a very violent form of evaporation. So, you won't cook yourself alive, either. If you are ejected"
+    }
+  ]
+}
