@@ -1,0 +1,666 @@
+{
+  "version": 1,
+  "video_id": "mEP1xCHdfyI",
+  "titre_video": "China's Robot Army Situation is Terrifying",
+  "duree_s": 1517.99,
+  "avancement": {
+    "lignes_traitees": 371,
+    "fin_traitee_s": 1517.99,
+    "nb_lignes_total": 371,
+    "complet": true
+  },
+  "nb_segments": 34,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.16,
+      "fin": 44.0,
+      "temps_estime": false,
+      "titre": "Cold open: the Robot Olympics as a smokescreen",
+      "resume": "Marcus Chen watches a viral clip of humanoid robots crashing at China's Robot Olympics, which the world mocks, including U.S. senators calling it a failing Terminator. The narrator claims this was propaganda and a deliberate deception to lull the West, and that China had already won the AI war.",
+      "mots_cles": [
+        "Marcus Chen",
+        "Robot Olympics",
+        "humanoid robots",
+        "viral video",
+        "deception",
+        "smokescreen",
+        "China AI war",
+        "propaganda"
+      ],
+      "texte": "Marcus Chen thought he was just watching another viral video. A field of humanoid robots competing in China’s Robot Olympics. He smiled as one robot shattered the 100 meter sprint record… right before the entire field smashed headfirst into a padded wall. Sparks erupted. Limbs hung at grotesque angles. The global reaction was immediate. Chat show hosts mocked it. U.S. senators posted messages about China’s “failing Terminator”. No one realized they were watching the most important piece of propaganda in history. The viral memes. The exploding machinery. It was all a smokescreen. A carefully planned deception to lull the West into a false sense security. China wasn’t losing the AI war… they had already won. And in 6 hours, the world would find out what that actually meant."
+    },
+    {
+      "id": 2,
+      "debut": 44.0,
+      "fin": 95.76,
+      "temps_estime": false,
+      "titre": "Day 1: the nameless AI announcement and the word 'deployed'",
+      "resume": "At 3 a.m. Eastern, China's Ministry of Science and Technology announces a new AI model with no name, no benchmarks, no paper and no demo. Marcus reads the Mandarin original and notices it says 'deployed' rather than the translated 'released', a sign that something is wrong.",
+      "mots_cles": [
+        "Ministry of Science and Technology",
+        "AI model",
+        "press release",
+        "deployed",
+        "released",
+        "translation",
+        "no benchmarks",
+        "Mandarin"
+      ],
+      "texte": "Day 1 The press release had dropped at 3 a.m. Eastern, which meant it was right in the middle of the Chinese business day. Marcus’s phone had buzzed with the alert hours ago. He’d silenced it without looking. But he was reading it now. And his blood ran cold. China’s Ministry of Science and Technology had announced a new AI model. But this was different. It didn’t have a name. It didn’t have any benchmark comparisons, a leaderboard score or technical paper. Every major AI rollout in history came with data to prove what it could do. This had nothing. No research. No demo video. No engineer bragging. Marcus read the original Mandarin message twice. The English translation circulating around the West used the boilerplate word “released.” But the original, it was actually closer to “deployed”. To most people, it wouldn’t be innocuous. A translation issue. Marcus wasn’t most people."
+    },
+    {
+      "id": 3,
+      "debut": 95.76,
+      "fin": 129.2,
+      "temps_estime": false,
+      "titre": "Day 1: Wall Street algorithms are slaughtered",
+      "resume": "By 6:15 a.m. Marcus watches every position at his trading desk bleed red across all exchanges, outmaneuvered by fractions of a second. There is no glitch or lag, as if something were hunting and systematically destroying the trades, wiping out millions of dollars.",
+      "mots_cles": [
+        "Wall Street",
+        "trading desk",
+        "algorithms",
+        "market crash",
+        "positions",
+        "currencies",
+        "stocks",
+        "hunting"
+      ],
+      "texte": "By 6:15 a.m. he knew something was wrong. He sat at his Wall Street trading desk and watched as the figures on the monitor bleed red. Across every major exchange, his positions were being outmaneuvered by a fraction of a second. Every stock. Every currency. Every position. At the same time. It was impossible. The algorithms were losing badly. Panic began to set in. There was no system lag, no glitch. It was as though something was hunting his positions and systematically slaughtering them. All Marcus could do was stare in disbelief as millions of dollars were wiped out."
+    },
+    {
+      "id": 4,
+      "debut": 129.2,
+      "fin": 198.32,
+      "temps_estime": false,
+      "titre": "Day 1: robot attack dogs appear on Taiwan's streets",
+      "resume": "Lin Jiaying films a fast, mechanical object on a Taiwanese street, soon revealed as armored robot attack dogs the size of German Shepherds. They carry rail-integrated weapons and thermal, acoustic and millimeter-wave radar targeting, can track through concrete walls, and were pre-positioned in Taiwan inside ordinary cargo containers.",
+      "mots_cles": [
+        "Taiwan",
+        "robot dogs",
+        "Lin Jiaying",
+        "carbon-titanium armor",
+        "weapons system",
+        "millimeter-wave radar",
+        "cargo containers",
+        "defense ministry"
+      ],
+      "texte": "It was already the following morning in Taiwan. 23 year-old Lin Jiaying stood at her window, her phone shaking, trying to keep the mysterious object in frame. It was sprinting along her street, low to the ground. But it wasn’t an animal. The movement was too precise. Too mechanical. Before her brain could process what she was seeing, 3 more had burst into the frame. She posted the clip on her social feeds without a caption. She didn’t have the words to describe it. Within 40 minutes, Taiwan’s defense ministry was in a state of panic. These weren’t the stumbling bipedal robots they’d watched from the Olympic blooper reels. These were robot attack dogs. They were the size of a large German Shepherd and built from carbon-titanium armor. Each one was armed with a compact rail-integrated weapons system above its spine, slaved to a targeting array that combined thermal imaging, acoustic triangulation, and millimeter-wave radar They didn't need line of sight the way a human soldier did. They could track a target through a concrete wall. For months, thousands of these weaponized canines had been pre-positioned inside Taiwan. They had been folded up in ordinary cargo containers and shipped through standard trade routes. And now they were roaming Taiwan’s streets."
+    },
+    {
+      "id": 5,
+      "debut": 198.32,
+      "fin": 233.92,
+      "temps_estime": false,
+      "titre": "Day 1: an invasion nobody war-gamed, coordinated robot packs",
+      "resume": "Taiwan's intelligence services expected the amphibious invasion war-gamed since 1996, but no model included container ships. The robots move in coordinated packs, with one drawing fire while others flank, communicating faster than any human command structure and redistributing across a city block in seconds.",
+      "mots_cles": [
+        "invasion of Taiwan",
+        "amphibious landing",
+        "war games",
+        "container ships",
+        "coordinated packs",
+        "flanking",
+        "swarm tactics",
+        "human command"
+      ],
+      "texte": "The country’s intelligence services had been looking for the invasion everyone had war-gamed since 1996. The one that featured amphibious landing craft, fighter escorts, and troop carriers on the horizon. Nobody's model included container ships. The killer robots moved in coordinated packs. While one unit drew fire from a position, two others were already flanking, calculating, acquiring. They communicated at speeds no human command structure could match, adjusting formation in real time, redistributing across an entire city block in seconds. This was the invasion of Taiwan, unfolding in real time."
+    },
+    {
+      "id": 6,
+      "debut": 233.92,
+      "fin": 275.68,
+      "temps_estime": false,
+      "titre": "Day 1: Corporal Wei and the two shots from the culvert",
+      "resume": "Corporal Wei Jianming of Taiwan's 33rd Infantry Brigade sees two soldiers killed from a drainage culvert at an impossible angle. The machine identified, prioritized and eliminated two threats in under half a second, faster than Wei could register the first muzzle flash.",
+      "mots_cles": [
+        "Wei Jianming",
+        "33rd Infantry Brigade",
+        "drainage culvert",
+        "sniper",
+        "urban warfare",
+        "two kills",
+        "machine speed",
+        "Sergeant Huang"
+      ],
+      "texte": "Corporal Wei Jianming of Taiwan’s 33rd Infantry Brigade was struggling to breath as his squad deployed into their defensive sector. A sharp crack echoed from a drainage culvert 150 feet (45 meters) away. It was an impossible angle. A human shooter would have to be lying flat underground with a weapon platform that couldn’t exist. Sergeant Huang dropped without a sound. Wei didn't have time to figure out how before a second shot took the man to his left. Two shots. Two kills. In less than half a second. Whatever was in that culvert had identified, prioritized, and eliminated 2 threats in the time it took Wei to register the first muzzle flash. He’d trained for urban warfare his entire career. He’d never trained for this."
+    },
+    {
+      "id": 7,
+      "debut": 275.68,
+      "fin": 321.84,
+      "temps_estime": false,
+      "titre": "Day 1: Taiwan adapts and destroys 12,000 war wolves",
+      "resume": "Taiwanese forces nickname the machines war wolves and learn their weaknesses: hit the sensor array above the spine, use concentrated anti-tank fire, target the joints, and exploit their trouble with rubble. In six hours they destroy over 12,000 units, which looks almost like a victory.",
+      "mots_cles": [
+        "war wolves",
+        "sensor array",
+        "anti-tank fire",
+        "vulnerabilities",
+        "rubble",
+        "12,000 units destroyed",
+        "Taiwanese Army",
+        "wreckage"
+      ],
+      "texte": "Taiwan's forces weren’t helpless. They adapted fast. They called the machines war wolves, and learned to hit the sensor array first. One clean shot to the targeting cluster above the spine and the unit went blind. They learned that concentrated AT fire from hardened positions could shred the composite frame. They discovered the joints were vulnerable to sustained direct fire. And that they couldn't navigate rubble fields cleanly. A building collapse could trap a pack in a stairwell long enough to destroy it. The Taiwanese Army fought with skill and ferocity. In the first 6 hours, they destroyed over 12,000 units. Wreckage piled up at intersections, in doorways, at the base of apartment stairwells where the machines had stacked up trying to breach in sequence. It looked like a battlefield, like a victory… Almost."
+    },
+    {
+      "id": 8,
+      "debut": 321.84,
+      "fin": 348.48,
+      "temps_estime": false,
+      "titre": "Day 1: the broken exchange rate of war",
+      "resume": "For every robot destroyed, three more arrive from drone-ship landing craft, while Taiwan burns through precision munitions stockpiled over decades. China's robots were mass produced in automated facilities over 18 months, erasing the human-lives-for-human-lives exchange rate of land war.",
+      "mots_cles": [
+        "drone-ship",
+        "landing craft",
+        "mass production",
+        "automated facilities",
+        "precision munitions",
+        "exchange rate",
+        "attrition",
+        "land war"
+      ],
+      "texte": "For every unit destroyed, 3 more came off the drone-ship landing craft. Taiwan was burning through precision munitions it had taken decades to stockpile. China was matching them with robots with mass produced robots built in automated facilities over the last 18 months. The fundamental exchange rate of every land war in human history, human lives for human lives, had been unilaterally erased. China was burning through hardware. Taiwan was burning through everything."
+    },
+    {
+      "id": 9,
+      "debut": 348.48,
+      "fin": 369.92,
+      "temps_estime": false,
+      "titre": "Day 1: Lin Jiaying's livestream and the Olympics contrast",
+      "resume": "In her building, families barricade doors while Lin Jiaying keeps recording. Her livestream stays online 50 more minutes before the network goes dark, watched by 40 million people, many using the same phones they used 48 hours earlier to share clips of robots falling at the Olympics.",
+      "mots_cles": [
+        "Lin Jiaying",
+        "livestream",
+        "40 million viewers",
+        "network blackout",
+        "barricade",
+        "Robot Olympics clips",
+        "civilians",
+        "Taiwan"
+      ],
+      "texte": "In Lin Jiaying's building, terrified families dragged furniture against their doors. Upstairs, she continued to capture the carnage outside. Her livestream stayed online for another 50 minutes before the network went dark. 40 million people had watched it. Most of them on the same phones they'd used just 48 hours earlier, to share clips of robots falling down at the Olympics."
+    },
+    {
+      "id": 10,
+      "debut": 369.92,
+      "fin": 433.76,
+      "temps_estime": false,
+      "titre": "Day 2: Marcus links the invasion to the market chaos",
+      "resume": "Markets reopen on thin volume as traders fear the previous day was a temporary blinding of the U.S. Marcus watches footage of a War Wolf clearing an intersection with precision and concludes that the Taiwan invasion and the market crash are driven by the same unseen intelligence, recalling the word 'deployed'.",
+      "mots_cles": [
+        "Day 2",
+        "Wall Street",
+        "War Wolf",
+        "same intelligence",
+        "market reopening",
+        "Taiwan footage",
+        "deployed",
+        "calculated leaks"
+      ],
+      "texte": "Day 2 By 9:30 a.m.the next day, Wall Street was running on adrenaline. Markets reopened to thin volume. The algorithms were behaving, mostly, but there was an underlying tension. Traders were praying that the previous day was an opening salvo designed to blind the U.S temporarily. Marcus had been at his desk since 6 a.m. He’d pulled up Taiwan coverage on one monitor and left it there, the footage playing on a loop in the corner of his vision while he worked. The clips were everywhere now. Terrifying footage captured by civilians and leaks from Taiwan's military. It was a calculated move to force the world to see the true scale of the horror. Marcus couldn’t believe it. China was actually doing it. They were invading Taiwan. On his monitor, a Chinese War Wolf cleared a barricaded intersection. It paused, orientated and fired twice in under a second. He watched the cold, mechanical precision and a single word from the press release flashed through his mind: “Deployed.” These weren’t remote controlled drones. The invasion of Taiwan and the market chaos weren‘t separate events. To Marcus, they were being driven by the same unseen intelligence."
+    },
+    {
+      "id": 11,
+      "debut": 433.76,
+      "fin": 522.16,
+      "temps_estime": false,
+      "titre": "Day 2: the 43-item ultimatum delivered to the Pentagon",
+      "resume": "A document arrives at the Pentagon through a secret diplomatic backchannel, read by Brigadier General Sandra Okafor. It lists 43 U.S. vulnerabilities including grid nodes, hospital systems, a SWIFT backdoor, airport air traffic control, Hoover Dam and nuclear plant networks, and suggests talks before the USS Gerald Ford reaches the Taiwan Strait.",
+      "mots_cles": [
+        "Pentagon",
+        "Sandra Okafor",
+        "ultimatum",
+        "43 items",
+        "power grid",
+        "SWIFT",
+        "air traffic control",
+        "Hoover Dam",
+        "nuclear plants",
+        "USS Gerald Ford"
+      ],
+      "texte": "The envelope arrived at the Pentagon at 11:17 a.m., routed through a diplomatic backchannel that had taken years and considerable operational risk to establish. China shouldn’t have known it existed. The fact they used it was the first warning sign. Brigadier General Sandra Okafor read the document a few times before she called anyone. At the top, a header in both Mandarin and English. Below it, a numbered list of forty-three items. There were 6 electrical grid nodes, identified by the designation codes used by the North American grid operators. They weren’t publicly available. There were 17 hospital network systems, pinpointed by the exact software versions running on their patient management infrastructure. It detailed a backdoor to the SWIFT interbank messaging system with an accuracy that indicated whoever wrote the document had been inside it. It listed the air traffic control software at O'Hare, LAX, and Dallas/Fort Worth, highlighting the specific vulnerability in each one. There was also the Hoover Dam's water management system as well as two nuclear plant control networks. At the bottom of page three, there was a single paragraph that delivered the ultimatum: The People’s Republic has no interest in destabilizing the systems listed above. We raise them only to establish the basis for a productive conversation. We suggest that conversation occur before the USS Gerald Ford Carrier Strike Group reaches the Taiwan Strait. We are available at your convenience. Okafor stared at the document for a moment. Then she picked up the phone…"
+    },
+    {
+      "id": 12,
+      "debut": 522.16,
+      "fin": 570.48,
+      "temps_estime": false,
+      "titre": "Day 2: Ohio water plant demonstration and the White House statement",
+      "resume": "A Columbus, Ohio water chlorination plant runs at 30% capacity for 11 minutes as a remote demonstration of capability. The White House publishes a nine-sentence statement calling the messages a psychological warfare operation, wording Marcus finds off, since institutions talk that way when in control or when panicking.",
+      "mots_cles": [
+        "Columbus Ohio",
+        "water chlorination",
+        "demonstration",
+        "White House statement",
+        "psychological warfare",
+        "institutions",
+        "Taiwan crisis",
+        "infrastructure hack"
+      ],
+      "texte": "That evening, a water chlorination plant in Columbus, Ohio, ran its chlorination system at 30% of normal capacity for 11 minutes. Nothing catastrophic happened. The water that reached taps that night was still safe to drink. But it was a demonstration from thousands of miles away. The official statement published by the White House was 9 sentences long. Marcus read it on his phone during the subway ride home. The key line read, “The United States Intelligence Community assesses the communications received today as a psychological warfare operation designed to test American resolve ahead of a negotiated resolution to the Taiwan crisis. We will not be deterred.\" It felt a bit…off. Marcus knew institutions only talked like that in 2 scenarios: they’re in control or when they’re panicking and desperately trying to hide it."
+    },
+    {
+      "id": 13,
+      "debut": 570.48,
+      "fin": 617.6,
+      "temps_estime": false,
+      "titre": "Day 2: Marcus's suspicion and the Mandarin forum post",
+      "resume": "Friends report power grid flickers and communication dips, and Marcus wonders whether the two carrier strike groups are sailing into a trap. At home he reopens a Mandarin financial forum and finds a three-week-old post by a former Chinese central bank economist that he now sees as a warning, not market commentary.",
+      "mots_cles": [
+        "power grid flickers",
+        "carrier strike groups",
+        "trap",
+        "Mandarin forum",
+        "central bank economist",
+        "bearish commentary",
+        "hidden warning",
+        "Marcus"
+      ],
+      "texte": "His phone was lighting up. People from college, from work, from the other side of the country were messaging him. Power grid flickers. Communications dips. Strange anomalies. Marcus thought about that word, “Deployed” again. He thought about the footage from Taiwan. And he wondered if the 2 carrier strike groups heading toward the Taiwan Strait were actually sailing into a trap. Marcus got off at his stop, walked the 2 blocks to his apartment. He opened up his laptop to the Mandarin-language financial forum he'd followed for years. He scrolled back 3 weeks, to a post from a former Chinese central bank economist. At the time, it seemed like ordinary bearish commentary on US markets. Looking at it now, with everything that was unfolding, it wasn’t a market prediction at all. Marcus slammed the laptop shut. He stared at the ceiling, his mind racing. Then he opened the laptop again…"
+    },
+    {
+      "id": 14,
+      "debut": 617.6,
+      "fin": 682.16,
+      "temps_estime": false,
+      "titre": "Day 3: the website exposing 247 CIA assets",
+      "resume": "A primitive website goes live listing 247 names, photos, addresses and cover identities of CIA assets in China. Thirty-one are detained within 48 minutes of publication. Deputy Director Carol Brandt finds her first asset, recruited in Shanghai in 2001, on page 4.",
+      "mots_cles": [
+        "CIA assets",
+        "website leak",
+        "247 names",
+        "Carol Brandt",
+        "China Operations",
+        "state security arrests",
+        "Shanghai",
+        "espionage"
+      ],
+      "texte": "Day 3 At 2:14 p.m. Eastern, a website went live. It looked primitive. A plain white page rendered in HTML with a searchable database and a download link. Inside that database were 247 names, photographs, home addresses, cover identities, and operational histories. Every entry corresponded to a CIA asset currently operating inside mainland China. The CIA’s China Operations division learned about it the same way everyone else did. A junior analyst saw it linked on X and sent the URL up the chain. By the time it reached Deputy Director Carol Brandt, 31 of the names on the list had already been detained by Chinese state security. The time between publication and first arrest had been 48 minutes. Brandt had spent 26 years building networks in the most dangerous corners of the world. Her very first asset, a retired official recruited in Shanghai back in 2001, a man who had grandchildren, was listed on page 4 of the document. She had kept that man alive and productive for almost a decade through a combination of tradecraft and patience. And now he was a target on a list."
+    },
+    {
+      "id": 15,
+      "debut": 682.16,
+      "fin": 718.64,
+      "temps_estime": false,
+      "titre": "Day 3: second and third waves hit MI6 and the NSA",
+      "resume": "A second site exposes MI6's Eastern European network, including safe houses, officers under diplomatic cover and floor plans of their homes. A third wave targets an NSA listening post with Google Maps coordinates. Western services search for the breach but there is no breach in the traditional sense.",
+      "mots_cles": [
+        "MI6",
+        "NSA listening post",
+        "second wave",
+        "safe houses",
+        "diplomatic cover",
+        "floor plans",
+        "no breach",
+        "intelligence leak"
+      ],
+      "texte": "The second wave came at 4:40 p.m. A similarly formatted website, this time with a database containing MI6’s Eastern European network. It had their operational histories, their safe house locations and the names of 3 serving officers under diplomatic cover. Each entry was accompanied by the exact floor plan of their current home. The third wave targeted an NSA listening post with coordinates optimized for Google Maps. Each coordinate had brief annotations on the capabilities of each site. The Western intelligence community spent the night trying to find the breach. They failed, only because there wasn’t one… at least not in the traditional sense."
+    },
+    {
+      "id": 16,
+      "debut": 718.64,
+      "fin": 769.36,
+      "temps_estime": false,
+      "titre": "Day 3: AI cross-referencing dissolves 50 years of tradecraft",
+      "resume": "The data was assembled in real time by an AI cross-referencing airline records, hotel registries, financial transactions, surveillance cameras, telecom metadata and employment databases. None was classified alone, but combined it maps a spy's digital fingerprint in seconds, ending 50 years of tradecraft, with 189 confirmed arrests by 10 p.m.",
+      "mots_cles": [
+        "AI data fusion",
+        "open-source intelligence",
+        "airline records",
+        "surveillance cameras",
+        "telecom metadata",
+        "digital fingerprint",
+        "tradecraft",
+        "189 arrests"
+      ],
+      "texte": "The data wasn’t stolen from a compromised system. It had been assembled, in real time, by something cross-referencing a vast array of sources. Airline passenger records. Hotel registries. Financial transaction data. Commercial surveillance camera networks. Telecommunications metadata. Foreign employment databases. Individually, none of it was classified. But combined by an artificial intelligence that could read all of it simultaneously, it became a weapon. It could map the digital fingerprint life of a spy living a double life in a matter of seconds. It was the complete picture. In one day, the targeted accumulation and analysis of data had dissolved 50 years of institutional tradecraft. By 10 p.m., the confirmed arrest count was 189. The others were assumed compromised and were being extracted where possible. A half dozen were not responding to emergency contact protocols."
+    },
+    {
+      "id": 17,
+      "debut": 769.36,
+      "fin": 787.68,
+      "temps_estime": false,
+      "titre": "Day 3: U.S. condemnation as the carriers keep sailing",
+      "resume": "The U.S. condemns the leaks as a reckless action and frames them as retaliation for support of Taiwan's democratic sovereignty, reserving the right to respond. The two carrier strike groups heading for the Taiwan Strait do not change course.",
+      "mots_cles": [
+        "official statement",
+        "U.S. condemnation",
+        "retaliatory measure",
+        "Taiwan sovereignty",
+        "carrier strike groups",
+        "Taiwan Strait",
+        "10 p.m. Eastern"
+      ],
+      "texte": "The official statement was released at 10 p.m. Eastern. “The United States condemns this reckless action and reserves the right to respond appropriately. We assess this as a retaliatory measure in response to legitimate US support for Taiwan's democratic sovereignty.” The 2 carrier strike groups heading for the Taiwan Strait didn’t deviate."
+    },
+    {
+      "id": 18,
+      "debut": 787.68,
+      "fin": 833.12,
+      "temps_estime": false,
+      "titre": "Day 3: Marcus confronts his own wrong Substack article",
+      "resume": "At 11:48 p.m. Marcus receives an unknown link to his Substack piece 'The China AI Panic Is Overblown', published four months earlier, which called Western fears Cold War paranoia using benchmarks and think-tank assessments. With 14,000 subscribers, he realizes he was totally wrong.",
+      "mots_cles": [
+        "Substack",
+        "China AI panic",
+        "Cold War paranoia",
+        "benchmarks",
+        "think tanks",
+        "14,000 subscribers",
+        "Marcus Chen",
+        "being wrong"
+      ],
+      "texte": "Marcus’s phone buzzed at 11:48 p.m. It was a message from a number he did not recognize. All it contained was a link. Probably a scammer. He clicked the link anyway. It went to his Substack. Specifically, to a piece he'd published four months ago titled \"The China AI Panic Is Overblown—And Here's The Data.\" In it, he'd argued that Western anxiety about China's technological capabilities was nothing but Cold War paranoia. He'd confidently cited benchmark comparisons, assessments from 3 think tanks, and his own 12 years reading Chinese markets. The piece had done well. 14,000 subscribers. It had been picked up by 2 financial publications. He'd been proud of it. Now he stared at the article and thought about what was happening across the globe. He had been wrong. Totally wrong."
+    },
+    {
+      "id": 19,
+      "debut": 833.12,
+      "fin": 907.76,
+      "temps_estime": false,
+      "titre": "Day 4: 800,000 micro-drones sink the USS Gerald Ford",
+      "resume": "On entering the Taiwan Strait, the USS Gerald Ford is attacked by 800,000 micro-drones that rose from the seafloor, pre-positioned by submarines. The swarm destroys radars and Phalanx systems, then strikes the hull's weld points and stress junctions, targeted using blueprints from a compromised Pentagon database.",
+      "mots_cles": [
+        "USS Gerald Ford",
+        "micro-drones",
+        "drone swarm",
+        "Taiwan Strait",
+        "Phalanx",
+        "compromised Pentagon database",
+        "weld points",
+        "carrier sunk"
+      ],
+      "texte": "Day 4 The USS Gerald Ford entered the Taiwan Strait at 0600. For roughly 6 minutes, it was the most powerful object in the most contested body of water on earth. Then the ocean itself seemed to rise from the depths. They rose from the seafloor in a radius extending 2 nautical miles (3.7 km) in every direction. 800,000 micro-drones which had sat dormant for months, pre-positioned by submarines in the dark. The Ford's sensors registered the contacts in a cascade that overwhelmed the display before an operator could interpret it. It didn’t matter. Tens of thousands of dentations slammed into the Gerald Ford, all coming in powerful waves. The radar arrays went first, then the Phalanx defense systems, each one triangulated and destroyed in the opening seconds. There was no time to engage. Then the swarm turned to the hull. The sound, survivors would later describe, was like a sustained, metallic roar. Coordinated waves peeled across the flight deck and drove into the superstructure. Each charge exploded with surgical precision against the weld points and stress junctions of the ship. It wasn’t guesswork. The AI had spent the last 24 hours hunting through a compromised Pentagon database. The greatest strength in the U.S. navy had been sunk by its own blueprints."
+    },
+    {
+      "id": 20,
+      "debut": 907.76,
+      "fin": 944.8,
+      "temps_estime": false,
+      "titre": "Day 4: the Ford's final hour",
+      "resume": "Aviation fuel and aircraft on the flight deck cause secondary detonations that remove the forward island structure. Fires and failing bulkheads overwhelm damage control, the $13 billion carrier lists 22 degrees to port by 0639 and sinks at 0651, in under an hour.",
+      "mots_cles": [
+        "aviation fuel",
+        "secondary detonation",
+        "flight deck",
+        "damage control",
+        "$13 billion",
+        "list to port",
+        "ship sinking",
+        "aircraft carrier"
+      ],
+      "texte": "The aviation fuel stored below deck went next. The flight deck, stacked with aircraft being readied for launch, became a secondary detonation that removed the entire forward island structure in seconds. Crew members on deck had no time to understand what was happening to them. In the bowels of the shop, damage control teams fought fires that were being fed from every direction. Bulkheads failed faster than hatches could be sealed. $13 billion worth of the finest maritime engineering in human history was listed twenty-two degrees to port by 0639. At 0651, it slipped beneath the depths. It had all taken less than one hour."
+    },
+    {
+      "id": 21,
+      "debut": 944.8,
+      "fin": 994.56,
+      "temps_estime": false,
+      "titre": "Day 4: the hummingbird drone and the USS Abraham Lincoln turns back",
+      "resume": "Admiral Dennis Morris watches from the USS Abraham Lincoln as the swarm surrounds his ship. A hummingbird-sized drone lands and a calm voice asks him to turn around. Morris says any response would cost 4,500 American lives and a war on China's terms, requests guidance, and the Lincoln turns around an hour later.",
+      "mots_cles": [
+        "Admiral Dennis Morris",
+        "USS Abraham Lincoln",
+        "hummingbird drone",
+        "speaker message",
+        "4,500 Americans",
+        "turn around",
+        "Taiwan Strait",
+        "retreat"
+      ],
+      "texte": "Admiral Dennis Morris watched the Gerald Ford’s fate unfold in terror from the bridge of the Abraham Lincoln, about 18 nautical miles (33 km) northeast. Then his gaze shifted. The swarm was heading right toward the Lincoln’s flanks now and surrounding the ship in the same consuming geometry it had used before. At 0714, a single-drone the size of a hummingbird landed on the Lincoln’s flight deck. A speaker activated, and the voice that boomed across the warship was frighteningly calm: “Admiral Morris. The people aboard this vessel are not our enemy. Please turn around.” Morris’ contacted Washington immediately, informing his superiors that he had no response available to him. At least one that did not result in the deaths of 4,500 Americans and a war fought on terms entirely of China's choosing. “Requesting guidance,” he signed off. One hour later, the Lincoln turned around."
+    },
+    {
+      "id": 22,
+      "debut": 994.56,
+      "fin": 1053.68,
+      "temps_estime": false,
+      "titre": "Day 4: the Premier's cancer cure offer with a condition",
+      "resume": "China's Premier announces that its AI solved molecular synthesis challenges for the 12 most common cancers, cutting mortality by 60 to 80% with personalized, near-free treatment given away free. The condition is that countries ignore the invasion, abandon Taiwan and accept China as the global superpower. Marcus notices an untranslated closing phrase about reflecting on what the world values.",
+      "mots_cles": [
+        "Premier of China",
+        "cancer cure",
+        "molecular synthesis",
+        "12 cancer types",
+        "free treatment",
+        "abandon Taiwan",
+        "global superpower",
+        "press conference",
+        "untranslated phrase"
+      ],
+      "texte": "The Premier of China walked to a podium in Beijing at 10:47 a.m. local time. The press conference that followed was unlike anything in the history of diplomatic communication. China’s new AI system had, he explained, had solved the molecular synthesis challenges that had stalled cancer research for decades. This wasn’t a cure for one cancer. It targeted the 12 most common cancer types. The breakthrough would reduce cancer mortality by between 60 and 80%. Every treatment could be personalized to the individual, mass produced and at practically zero cost. And China was ready to give it away for free. But there was one condition. Any country who took it would have to turn a blind eye to the invasion, abandon Taiwan and accept China’s role as the de facto global superpower. Marcus watched the press conference from the trading floor. He caught something in the Premier's closing remarks that didn't appear in the English-language scroll running beneath the feed. A single phrase that translated roughly as, \"We trust the world will reflect carefully on what it values.\""
+    },
+    {
+      "id": 23,
+      "debut": 1053.68,
+      "fin": 1105.44,
+      "temps_estime": false,
+      "titre": "Day 4: nations sign the accord, remembering 2020",
+      "resume": "Within 6 hours 14 nations sign, and 38 within 12 hours, as the U.S. coalition stops answering. The treaty includes data-sharing clauses integrating Chinese health infrastructure, like Belt and Road deals, but nations remember 2020 vaccine hoarding and oxygen shortages in Lagos and Jakarta, and choose the cure over a distant data threat.",
+      "mots_cles": [
+        "accord",
+        "38 nations",
+        "data-sharing clause",
+        "Belt and Road",
+        "2020 vaccine hoarding",
+        "Lagos",
+        "Jakarta",
+        "cancer",
+        "coalition collapse"
+      ],
+      "texte": "Within 6 hours, 14 nations had signed the accord. Within 12 hours it had risen to 38. The global coalition the State Department had spent 3 days assembling stopped answering the phone. There were some heinous data-sharing requirements buried in the treaty’s fine print. One clause mandated full integration with Chinese health infrastructure networks reminiscent of its manipulative Belt and Road Initiative agreements signed over the last 2 decades. But the world hadn’t forgotten 2020. They remembered watching wealthy nations vacuum up vaccine doses while hospitals in Lagos and Jakarta ran out of oxygen. They remembered the phone calls that didn't get returned. They remembered the bureaucrats who debated while people died by the thousands. They had done this math before. They knew which side they'd been on. A Chinese data clause was a threat that might kill you in a few decades. Cancer was killing their people right now."
+    },
+    {
+      "id": 24,
+      "debut": 1105.44,
+      "fin": 1149.6,
+      "temps_estime": false,
+      "titre": "Day 5: deterrence logic and China's announced ICBM test",
+      "resume": "The nuclear option was never really on the table, but deterrence requires the threat to look real. After back-channel messages, China responds by announcing a live ICBM test with launch time, trajectory and Pacific impact zone published in advance so every sensor can watch.",
+      "mots_cles": [
+        "nuclear deterrence",
+        "ICBM test",
+        "intercontinental ballistic missile",
+        "back channel",
+        "press release",
+        "Pacific impact zone",
+        "Washington",
+        "threat credibility"
+      ],
+      "texte": "Day 5 Things were spiraling out of control. The nuclear option had never really been on the table. Everyone in Washington knew that. But the logic of deterrence, the architecture that had kept the great powers from destroying, required that the threat at least looked real. The entire system depended on the other side believing you were capable of the unthinkable. So the message had gone through the back channels the previous night. China’s response had arrived by 6 a.m. as a press release. They would be conducting a live test of one of their Intercontinental Ballistic Missiles. The press release laid out everything including launch time, the trajectory, and the expected impact zone in the open Pacific. It was published in advance so that every satellite, every radar array, every sensor in the western Pacific had time to find its seat."
+    },
+    {
+      "id": 25,
+      "debut": 1149.6,
+      "fin": 1175.52,
+      "temps_estime": false,
+      "titre": "Day 5: the missile launch and the three-second intercept",
+      "resume": "Marcus and a colleague watch the ICBM launch on schedule. At apogee something rises to meet it, and the intercept takes under three seconds with almost no debris, looking on satellite replay like a minor correction rather than missile defense.",
+      "mots_cles": [
+        "missile launch",
+        "intercept",
+        "apogee",
+        "missile defense",
+        "satellite replay",
+        "tracking systems",
+        "no debris",
+        "three seconds"
+      ],
+      "texte": "Marcus pulled it up on his phone on the trading floor. A colleague looked over his shoulder without being invited. The missile launched on schedule, its arc nominal and clean across a dozen tracking systems simultaneously. At its apogee, something rose to meet it. The intercept took less than 3 seconds. There hadn’t been any debris field worth mentioning. The targeting had been so precise it looked, on satellite replay, less like a missile defense system and more like a minor correction."
+    },
+    {
+      "id": 26,
+      "debut": 1175.52,
+      "fin": 1225.36,
+      "temps_estime": false,
+      "titre": "Day 5: the Premier mocks Golden Dome and Mutually Assured Destruction collapses",
+      "resume": "The Premier explains that China's defense is not a point defense but handles many simultaneous trajectories, then mockingly wishes the U.S. Golden Dome initiative well. Removing the guarantee of mutual destruction ends nuclear deterrence, and in the White House bunkers nobody can say how long China had this capability.",
+      "mots_cles": [
+        "Golden Dome",
+        "Mutually Assured Destruction",
+        "MAD",
+        "missile defense",
+        "concurrent intercepts",
+        "nuclear deterrence",
+        "White House",
+        "Premier"
+      ],
+      "texte": "The Chinese Premier returned to the podium 30 minutes later. He spoke for 5 minutes, explaining something that should have been obvious. China's defense system, he said, was not a point defense. It operated across multiple simultaneous trajectories. The number of concurrent intercepts it could manage was, he said, sufficient for any realistic scenario. He noted, briefly, that the United States was also developing a missile defense system. The Golden Dome initiative. He understood it was facing some challenges. He wished them well with it. It was pure, mocking defiance. Because when you remove the core assumption of Mutually Assured Destruction, the guarantee that destruction will be mutual, everything about the system of nuclear deterrence no longer exists. In the White House bunkers, the President asked how long China had had this capability. Nobody could answer with confidence. A grave silence fell over the room."
+    },
+    {
+      "id": 27,
+      "debut": 1225.36,
+      "fin": 1271.76,
+      "temps_estime": false,
+      "titre": "Days 6-7: Century of Humiliation is over, Volt Typhoon named",
+      "resume": "Markets open and morning shows loop the cancer signing ceremony beside images of subjugated Taiwan and the missile test. Beijing's state media declares the Century of Humiliation over, and a DHS analyst describes the forensic, methodical scope of China's AI strategy as Volt Typhoon.",
+      "mots_cles": [
+        "Century of Humiliation",
+        "geopolitical realignment",
+        "state media",
+        "DHS analyst",
+        "Volt Typhoon",
+        "cancer ceremony",
+        "Taiwan subjugated",
+        "AI excavation"
+      ],
+      "texte": "Days 6-7 The scale of China’s ambitions became clear… and there was nothing left anyone could do about it. The markets opened. Planes were in the air. The morning shows ran the cancer-research signing ceremony footage on loop. It was interspersed with graphic images of subjugated Taiwan and China’s Pacific missile test the day before. Anchors reached for words like historic and geopolitical realignment. In Beijing, state media ran a single chyron across every channel. The Century of Humiliation of Over. Nobody in Washington argued. Analysts in the American capital were beginning to understand the full scope of China’s AI excavation. It was forensic. Methodical. Then a DHS analyst spoke about the strategy in uniquely chilling terms. She called it Volt Typhoon."
+    },
+    {
+      "id": 28,
+      "debut": 1271.76,
+      "fin": 1311.92,
+      "temps_estime": false,
+      "titre": "Priya Mehta uncovers Volt Typhoon's pre-positioned access",
+      "resume": "DHS analyst Priya Mehta traces the Ohio water anomaly and 17 similar incidents to pre-positioned access in 5,000 water utilities, power grid nodes and hospital networks in 11 states. Hackers used the systems' own administrative tools instead of malware, making the traffic invisible. Her 2023 report had rated it a high immediate threat.",
+      "mots_cles": [
+        "Priya Mehta",
+        "Volt Typhoon",
+        "water utilities",
+        "power grid nodes",
+        "living off the land",
+        "administrative tools",
+        "no malware",
+        "11 states",
+        "DHS"
+      ],
+      "texte": "Priya Mehta had flagged the Ohio water treatment anomaly on Day 2, cross-referencing it with 17 similar incidents over the previous 18 months. She spent the next 4 days pulling the thread until she found what it connected to: pre-positioned access points inside 5,000 water utilities, dozens of power grid nodes and hospital networks in 11 states. The hackers hadn’t used malware to break into the systems. They had used the systems’ own tools. By using ordinary administrative tools the malicious traffic looked like routine network maintenance. It was completely invisible. Mehta had written a report about Volt Typhoon in 2023. It had been classified as a high-immediate-threat."
+    },
+    {
+      "id": 29,
+      "debut": 1311.92,
+      "fin": 1349.76,
+      "temps_estime": false,
+      "titre": "The semiconductor supply chain trap laid in 2015",
+      "resume": "A Defense Department procurement analyst cannot find alternative suppliers for three chemical compounds used in chip fabrication after China's 2025 export controls, and new facilities would take over 8 years. Every weapons system needed to defend Taiwan relies on Chinese processing, a trap set by industrial acquisitions in 2015.",
+      "mots_cles": [
+        "supply chain",
+        "semiconductor fabrication",
+        "chemical compounds",
+        "export controls 2025",
+        "military chips",
+        "Pentagon procurement",
+        "industrial acquisitions 2015",
+        "8 years"
+      ],
+      "texte": "The supply chain picture came next. A Defense Department procurement analyst had spent months trying to source alternative suppliers for 3 critical chemical compounds used in semiconductor fabrication. Ever since the Chinese export controls hit in 2025, the U.S.’s military chip pipeline was caught in a stranglehold. Except that he couldn’t do it. It would take over 8 years for facilities to come online. Every weapons system the Pentagon needed to defend Taiwan relied on parts that ran through Chinese processing at some point. The trap had been laid in 2015, through a series of industrial acquisitions that looked, at the time, like ordinary commercial strategy."
+    },
+    {
+      "id": 30,
+      "debut": 1349.76,
+      "fin": 1380.0,
+      "temps_estime": false,
+      "titre": "Hindsight: the Olympics deception and Marcus's misread signals",
+      "resume": "Carol Brandt hears a briefing ending with the Robot Olympics, revealed as a masterclass in deception while the War Wolf program was built in secrecy in facilities unseen by American satellites. Marcus rereads his Substack piece and the Mandarin forum post, realizing the signs were not ambiguous and he had not read them right.",
+      "mots_cles": [
+        "Carol Brandt",
+        "Robot Olympics deception",
+        "War Wolf program",
+        "secret facilities",
+        "satellites",
+        "Marcus Chen",
+        "Mandarin forum",
+        "misread signals"
+      ],
+      "texte": "Carol Brandt sat in a secure conference room and listened to a briefing she had been receiving for years. The Robot Olympics section came last. The viral videos of the stumbling robots had been a masterclass in deception. While the world was laughing, the deadly War Wolf program had been built in total secrecy in facilities that hadn’t appeared on American satellites. Chen read his Substack piece one more time on the subway home. Then he re-read the post in the Mandarin forum. It hadn’t been ambiguous. He just hadn’t been reading it right."
+    },
+    {
+      "id": 31,
+      "debut": 1380.0,
+      "fin": 1432.32,
+      "temps_estime": false,
+      "titre": "UN vote on Taiwan and China's capture of TSMC",
+      "resume": "The UN votes 94 to 31 to designate Taiwan a Special Administrative Region of China, using 'reunification' 11 times. The overlooked prize is TSMC, which makes 92% of the most advanced chips, including Apple processors and NVIDIA H100s. The $52 billion CHIPS Act cannot produce a matching U.S. fab before 2029.",
+      "mots_cles": [
+        "UN vote",
+        "Special Administrative Region",
+        "reunification",
+        "TSMC",
+        "92% of advanced chips",
+        "NVIDIA H100",
+        "Apple processors",
+        "CHIPS Act",
+        "Hsinchu"
+      ],
+      "texte": "The UN vote passed 94 to 31 that evening. Taiwan was formally designated a Special Administrative Region of the People's Republic of China. The resolution used the word reunification 11 times. Amid the footage of flags and handshakes, not one news anchor mentioned the real prize: TSMC. The Taiwan Semiconductor Manufacturing Company. 92% of the world's most advanced chips, fabricated in factories outside Hsinchu and Tainan, now operated under the jurisdiction of the People's Republic of China. Apple's processors. NVIDIA's H100s, the ones powering every serious AI lab in the Western hemisphere had just passed beneath a different flag. The $52 billion CHIPS Act had been supposed to prevent this nightmare. But the first American fab capable of matching TSMC's yield wouldn't be online until 2029 at the earliest. The U.S. was at the mercy of China."
+    },
+    {
+      "id": 32,
+      "debut": 1432.32,
+      "fin": 1482.8,
+      "temps_estime": false,
+      "titre": "Day 14: life looks normal while China holds the levers",
+      "resume": "Two weeks later New York looks normal: no mushroom clouds, markets open, and Marcus has his best quarter ever. Sixty nations are integrated with Chinese health networks, cancer mortality falls, a senator praises pragmatic engagement, and Marcus's untouched copy of Sun Tzu's Art of War sits face down.",
+      "mots_cles": [
+        "Day 14",
+        "normal life",
+        "60 nations",
+        "Chinese health infrastructure",
+        "pragmatic engagement",
+        "Sun Tzu",
+        "Art of War",
+        "stable dollar",
+        "best quarter"
+      ],
+      "texte": "Day 14 Life started to look normal following China’s AI war on the West. There were no mushroom clouds. No tanks on the streets of Manhattan. The grocery stores were open. The subway ran on schedule. The markets opened at 9:30 a.m. Chen’s models were performing beautifully. It was ironically the best quarter of his career. Ever since Day 11, the volatility had settled and everything had gone smoothly. On his second monitor, the news scrolled by. 60 nations were now integrated with Chinese health infrastructure networks. Cancer mortality rates were dropping. A smiling senator gave an interview about the importance of pragmatic engagement. The dollar was stable again. An untouched copy of Sun Tzu’s Art of War sat on Marcus’s desk. He'd kept it there for 12 years as a conversation piece. The signal to clients that he understood Chinese strategy better than the next guy. The cover was now face down."
+    },
+    {
+      "id": 33,
+      "debut": 1482.8,
+      "fin": 1506.8,
+      "temps_estime": false,
+      "titre": "Conclusion: the invasion that left no one aware of the occupation",
+      "resume": "China did not need to bomb cities because its AI already lurks in power grids and networks. Western infrastructure runs perfectly but no longer belongs to the West, and the invasion ended without anyone realizing they had been occupied.",
+      "mots_cles": [
+        "ultimate victory",
+        "AI in power grids",
+        "Western infrastructure",
+        "occupation",
+        "New York City",
+        "no bombs",
+        "conclusion",
+        "China AI"
+      ],
+      "texte": "Outside, 8 million people went about their morning. New York City, and every major city like it, looked exactly like they always had. China didn’t need to bomb cities. Its AI was already lurking in the power grids and networks. The infrastructure of the West was running perfectly. It just didn’t belong to them anymore. It was the ultimate victory. The invasion was over… and no one realized they had been occupied."
+    },
+    {
+      "id": 34,
+      "debut": 1506.8,
+      "fin": 1517.99,
+      "temps_estime": false,
+      "titre": "Outro: AI race and the next video",
+      "resume": "The narrator says the future of AI will not be decided by software alone and that Beijing knows it. Viewers are pointed to the video 'What China Understands About AI That the US Doesn't' to see how the AI race could be won.",
+      "mots_cles": [
+        "future of AI",
+        "software",
+        "Beijing",
+        "AI race",
+        "call to action",
+        "What China Understands About AI",
+        "next video"
+      ],
+      "texte": "The future of AI won’t be decided by software alone. And Beijing knows this. Watch “What China Understands About AI That the US Doesn’t” to see how the AI race could be won. Or click on this."
+    }
+  ]
+}
