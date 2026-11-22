@@ -1,0 +1,489 @@
+{
+  "version": 1,
+  "video_id": "H7buemdxULY",
+  "titre_video": "120° Heat - Wear Black Robes!",
+  "duree_s": 856.72,
+  "avancement": {
+    "lignes_traitees": 200,
+    "fin_traitee_s": 856.72,
+    "nb_lignes_total": 200,
+    "complet": true
+  },
+  "nb_segments": 27,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.08,
+      "fin": 21.2,
+      "temps_estime": false,
+      "titre": "In extreme heat, stripping down can kill you",
+      "resume": "Opening hook: in unbearable heat the body tries to kill you and the instinct to shed clothing and expose skin is a deadly mistake in the desert. Bedouin and Tuareg nomads learned that survival under the killer sun requires layering up.",
+      "mots_cles": [
+        "extreme heat",
+        "desert survival",
+        "layering clothes",
+        "Bedouin",
+        "Tuareg",
+        "strip clothing mistake",
+        "heatstroke"
+      ],
+      "texte": "When the mercury hits unbearable temperatures, your body will actively try to kill you. Your gut instinct is to shed clothing, to expose your skin to the air. In an arid desert, that one mistake can kill you in hours. It’s something Bedouin and Tuareg nomads learned the hard way. The only way to survive the killer sun is to layer up. The moment you don’t… the real trouble begins."
+    },
+    {
+      "id": 2,
+      "debut": 21.2,
+      "fin": 44.88,
+      "temps_estime": false,
+      "titre": "Record global temperatures and hostile heat waves",
+      "resume": "Global temperatures are hitting new records and heat waves are becoming hostile, with infrastructure buckling under multiple days above 100 degrees Fahrenheit (37.8 Celsius). People must still go about daily life, but humans are adaptable.",
+      "mots_cles": [
+        "record temperatures",
+        "heat waves",
+        "100 degrees",
+        "infrastructure",
+        "climate change",
+        "adaptability"
+      ],
+      "texte": "Global temperatures are hitting new records all across the world. And it seems like we’re hitting breaking point. Heat waves during the summer are nothing new, but in some areas, conditions are becoming outright hostile. Infrastructure built to handle certain temperatures is buckling under 100-plus (37.8 Celsius plus) temperatures multiple days at a time. But even as triple-digit temperatures become commonplace, people still have to go about their daily life. But the good news is,"
+    },
+    {
+      "id": 3,
+      "debut": 44.88,
+      "fin": 88.16,
+      "temps_estime": false,
+      "titre": "Sweat as the body's last line of defense",
+      "resume": "The body cools itself by sweating, with sweat glands pumping water to bring the core back to a safe baseline. Each droplet drains the body's hydration reserves, which is why athletes drink water and electrolytes, and management works only for short periods.",
+      "mots_cles": [
+        "sweat",
+        "perspiration",
+        "thermoregulation",
+        "dehydration",
+        "electrolytes",
+        "hydration reserves",
+        "core temperature"
+      ],
+      "texte": "humans are adaptable. Our bodies have a way of taking care of excess heat. It just might not be all that convenient. No one likes to take off a sweat-soaked shirt after a hard day’s work. But that sweat might just be saving our lives. Perspiration is one of the body’s last lines of defense. When your core overheats, your sweat glands go into overdrive. They desperately pump out water to regulate the temperature back to a safe baseline. That sweat doesn’t just appear. Every droplet is pulled from your internal organs, rapidly draining your hydration reserves. It’s why elite athletes constantly chug water and electrolytes to replace the water their body is shedding. Under normal circumstances, careful management can keep you alive during high-intensity workouts in the heat, at least for short periods."
+    },
+    {
+      "id": 4,
+      "debut": 88.16,
+      "fin": 115.84,
+      "temps_estime": false,
+      "titre": "Desert heat: Phoenix, Las Vegas and Death Valley",
+      "resume": "In desert climates triple-digit heat is a guarantee rather than a rarity. Phoenix, Arizona and Las Vegas, Nevada suffer week-long streaks at 110 degrees Fahrenheit (43.3 Celsius), and Death Valley gets even hotter.",
+      "mots_cles": [
+        "Phoenix",
+        "Las Vegas",
+        "Death Valley",
+        "110 degrees",
+        "desert climate",
+        "heat streaks",
+        "hottest national park"
+      ],
+      "texte": "But what happens when there is no escape? In most major cities, triple-digit temperatures are still a rarity. But in desert climates, it’s not so much a rarity as a guarantee. Even in the United States. It’s common for Phoenix, Arizona and Las Vegas, Nevada to suffer through week-long streaks suffocating under 110 degree (43.3 Celsius) heat. And the temperature can get even higher in spots like Death Valley, the country’s hottest national park. And in environments like that, the wrong move is a death sentence."
+    },
+    {
+      "id": 5,
+      "debut": 115.84,
+      "fin": 163.76,
+      "temps_estime": false,
+      "titre": "At 120°F the body sweats up to 2 liters an hour",
+      "resume": "At 120 degrees Fahrenheit (48.9 Celsius) the body panics and can lose up to 4 pints (2 liters) an hour through sweat, worst in dry desert heat. Water loss kills faster than lack of food, and 71 people died in Death Valley National Park over 20 years, many hikers.",
+      "mots_cles": [
+        "120 degrees Fahrenheit",
+        "sweat rate",
+        "4 pints per hour",
+        "Death Valley deaths",
+        "dehydration",
+        "hikers",
+        "dry heat"
+      ],
+      "texte": "When the mercury hits 120 degrees Fahrenheit (48.9 Celcius), the body enters a state of pure panic. It can’t shed water fast enough to cool the body, but it’s going to keep trying. In the worst-case scenario, the human body can shed up to 4 pints (2 liters) an hour in the most extreme circumstances, solely through sweat evaporation. This is at its worst in sunny, heated environments with relatively low humidity, particularly deserts. When someone is far from shelter, without enough water, the clock starts ticking immediately. The body dies far quicker from lack of water than it does from lack of food. And heat accelerates that process. Over the last 20 years, 71 people have died in Death Valley National Park, many of them hikers who went out during the hot season and overestimated their body’s tolerance. Because the heat isn’t just a pain… it’s a trap."
+    },
+    {
+      "id": 6,
+      "debut": 163.76,
+      "fin": 188.16,
+      "temps_estime": false,
+      "titre": "The temptation to strip down",
+      "resume": "The body loses more water than it can replace, like sweating out a water bottle each hour, and the core keeps heating. Extreme discomfort creates an overwhelming urge to take clothes off, which works at home with air conditioning but the brain is wrong in the desert.",
+      "mots_cles": [
+        "stripping down",
+        "overheating",
+        "water loss",
+        "discomfort",
+        "core temperature",
+        "brain wrong",
+        "air conditioning"
+      ],
+      "texte": "The body is losing more water than it can keep up with. At the most extreme levels, it’s like sweating out an entire water bottle every hour just to try to regulate temperature. But it’s not enough. The core keeps getting hotter and hotter. As extreme discomfort starts setting in, the temptation to strip down becomes overwhelming It works at home when the air conditioner can’t get the job done. So the brain says it’ll work here. The brain is wrong."
+    },
+    {
+      "id": 7,
+      "debut": 188.16,
+      "fin": 222.88,
+      "temps_estime": false,
+      "titre": "The cooling illusion: hot wind acts like a convection oven",
+      "resume": "Heavy clothing feels trapped and peeling it off gives a fleeting sensation of cooling from wind, but it is an illusion. In hot enough air the breeze acts like a convection oven, so people push on and lose energy and hydration in a fine line between life and death.",
+      "mots_cles": [
+        "cooling illusion",
+        "convection oven",
+        "wind on skin",
+        "bare skin",
+        "heat exhaustion",
+        "life and death",
+        "clothing"
+      ],
+      "texte": "The logic might seem sound. Extra clothing clings to the skin, adding the feeling of being trapped in heavy layers. It can feel like heat is trapped inside. Peeling off clothes allows the wind to hit the bare skin, creating a fleeting sensation of cooling. It may create momentary relief. But it’s an illusion. If the air is hot enough, that breeze won’t do what it’s intended to do. It’s acting like a convection oven. The person might think they’re doing better, keep on pushing on, and end up losing what little remaining energy and hydration they have. It’s a fine line between life and death in these conditions."
+    },
+    {
+      "id": 8,
+      "debut": 222.88,
+      "fin": 261.36,
+      "temps_estime": false,
+      "titre": "Who the Bedouins are",
+      "resume": "Bedouins are semi-nomadic Arab desert-dwellers living much as they did 8,000 years ago, spread across the Arabian Peninsula, North Africa and the Levant but originating in the Syrian Desert. Records date to about 6000 BCE, with larger camps around 850 BCE, preceding Islam and the Great Pyramid.",
+      "mots_cles": [
+        "Bedouin",
+        "Arab tribe",
+        "Syrian Desert",
+        "nomads",
+        "6000 BCE",
+        "history",
+        "Arabian Peninsula"
+      ],
+      "texte": "But there’s a trick to staying cool, and it’s simple… if you know it. In the Middle East, there’s a group of people who are still largely living like they did almost 8,000 years ago. Semi-nomadic desert-dwellers, the Bedouins are an Arab tribe who have spread across the Arabian Peninsula, North Africa, and the Levant, but originate from the Syrian Desert. There are historical records of them in the region dating back to around 6000 BCE, but it was around 850 BCE that larger camps started being built. They precede the Arab population of the region, they precede Islam, and they precede landmarks like the Great Pyramid and the Sphinx. And they didn’t get to this point by not understanding their landscape."
+    },
+    {
+      "id": 9,
+      "debut": 261.36,
+      "fin": 285.04,
+      "temps_estime": false,
+      "titre": "Crossing the Arabian Desert in heavy robes",
+      "resume": "The Arabian Desert can hit 120 degrees (48.9 Celsius) in the sun with little shade or water, yet the Bedouin charge straight through, trekking for days across dunes with supplies and camels. The surprising part is how they dress.",
+      "mots_cles": [
+        "Arabian Desert",
+        "Bedouin travel",
+        "dunes",
+        "camels",
+        "120 degrees",
+        "trekking",
+        "desert dress"
+      ],
+      "texte": "The Arabian Desert is one of the most hostile environments on Earth. During the hottest seasons, it can frequently reach 120 degrees (48.9 Celsius) in the sun, with little in the way of shade or water. To survive, the Bedouin don’t just endure the heat… they charge straight through it. Their routes are remote, forcing them to trek for days across the dunes, hauling supplies and herding camels. And one of the most surprising things about them is how they dress."
+    },
+    {
+      "id": 10,
+      "debut": 285.04,
+      "fin": 307.52,
+      "temps_estime": false,
+      "titre": "Bedouin tradition, herding and textiles",
+      "resume": "Bedouin culture has barely changed in thousands of years, starting with livestock herding. When textiles became central to early trade the Bedouins transported them, and that textile connection may have made survival possible.",
+      "mots_cles": [
+        "Bedouin culture",
+        "livestock herding",
+        "textile trade",
+        "early trading",
+        "tradition",
+        "survival"
+      ],
+      "texte": "The Bedouins are one of the cultures that is the most unchanged for thousands of years. Livestock herding was one of the earliest ways they lived, but as soon as textiles became a key part of early trading, the Bedouins could be seen transporting them. Textile production was one of the very first activities to bind civilizations together, and the Bedouins quickly adapted to it. And it may have made it possible for them to survive."
+    },
+    {
+      "id": 11,
+      "debut": 307.52,
+      "fin": 364.8,
+      "temps_estime": false,
+      "titre": "The thawb and Bedouin headgear",
+      "resume": "The traditional garb is the thawb, a flowing ankle-length robe with long winged sleeves worn by men and women, with women's sleeves tied to carry a baby. Headscarves tied with goat-hair rope and the margruna protect from sandstorms and even signal messages through folds.",
+      "mots_cles": [
+        "thawb",
+        "Bedouin robe",
+        "headscarf",
+        "margruna",
+        "sandstorm",
+        "traditional clothing",
+        "goat hair rope"
+      ],
+      "texte": "The traditional garb of the Bedouins is the Thawb, a flowing ankle-length robe that covers almost the entire body. Its loose, billowing design and the long, winged sleeves have remained virtually unchanged for thousands of years. Both men and women wear the thawb, and it can be adorned with special embroidery or patches for special occasions. The garb for men and women is nearly identical, except for different sleeves for women, which when tied together can carry a baby. The head is wrapped just as securely. Bedouin men wear a traditional headscarf that is tied around the head using a rope crafted with goat hair. Women used a simpler piece of cloth called a margruna, folded into a triangle and rolled around the head. During a sandstorm, the robe and the headgear could be transformed into a protective cloth around the face. It was even used as a messaging system. A specific fold could send messages to rival tribes or potential romantic interests. It was a surprisingly versatile outfit… and it was suitable for any weather."
+    },
+    {
+      "id": 12,
+      "debut": 364.8,
+      "fin": 387.76,
+      "temps_estime": false,
+      "titre": "Robes protect through cold desert nights",
+      "resume": "Deserts see big temperature swings, with nights dropping up to 40 degrees Fahrenheit (22 Celsius) and cold winds. The robes and headdress insulate so tribes can keep marching through the night without finding shelter.",
+      "mots_cles": [
+        "night temperature drop",
+        "desert nights",
+        "insulation",
+        "40 degrees swing",
+        "headdress",
+        "cold wind"
+      ],
+      "texte": "The desert sees dramatic temperature swings, with nights often dropping by up to 40 degrees Fahrenheit (22 Celcius). Sweltering days can give way to windy, cold nights. During those long hours, many of which can be spent exposed to the wind, the robes and headdress provide some much-needed protection. The insulation allows the tribes to continue marching through the night on their way to camp, without having to stop and try to find shelter."
+    },
+    {
+      "id": 13,
+      "debut": 387.76,
+      "fin": 412.64,
+      "temps_estime": false,
+      "titre": "How the Bedouin survive the day in heavy robes",
+      "resume": "Cities in summer see people in shorts and tank tops still sweating, while Bedouins wander in heavy robes unbothered even when it is 30 degrees (16.7 Celsius) hotter than the city. They know tricks most people have forgotten.",
+      "mots_cles": [
+        "Bedouin heavy robes",
+        "city vs desert",
+        "summer clothing",
+        "shorts",
+        "desert survival tricks",
+        "unbothered by heat"
+      ],
+      "texte": "But how do they survive the day? If you go to a major city during the summer, most people will be wearing shorts, tank tops, and still be sweating. But head to the desert and it’s a very different story. The Bedouin will be wandering around in their heavy, flowing robes like it’s the most natural thing in the world. They don’t even seem bothered when it’s 30 degrees (16.7 Celsius) hotter than it was in the city. They know some tricks most of us have forgotten."
+    },
+    {
+      "id": 14,
+      "debut": 412.64,
+      "fin": 445.44,
+      "temps_estime": false,
+      "titre": "City humid heat versus desert heat",
+      "resume": "Cities trap heat in narrow canyons of buildings, and rivers, traffic, factories and sewers add humidity, making a sweatbox with no escape. The desert is open sand with scarce water and nothing to shield from the wind, which does not help.",
+      "mots_cles": [
+        "urban heat",
+        "humidity",
+        "sweatbox",
+        "desert landscape",
+        "heat trapping buildings",
+        "open wind"
+      ],
+      "texte": "For one thing, the landscape of the desert makes a big difference. In the city, there are likely to be rivers in the surrounding area, which helps raise humidity. The buildings trap the heat in narrow canyons. Traffic, factories and even sewers all produce humid heat. It’s more like a sweatbox. There is no easy way to escape the heat in this situation. It paralyzes your system. But the desert is a very different situation. There, there’s often nothing for miles around except sand dunes. Water is hard to find, and the wide-open space means there’s nothing to shield you from the wind. Not that it helps."
+    },
+    {
+      "id": 15,
+      "debut": 445.44,
+      "fin": 472.8,
+      "temps_estime": false,
+      "titre": "Wind in extreme heat transfers heat: you need a shield",
+      "resume": "When air is hotter than the body, wind briefly refreshes but does not cool, and instead transfers heat and speeds sweating and water loss. Stripping down could hasten death, because what you need is a shield, not air.",
+      "mots_cles": [
+        "wind heat transfer",
+        "air hotter than body",
+        "water loss",
+        "stripping down",
+        "shield",
+        "oasis",
+        "sweat evaporation"
+      ],
+      "texte": "The air temperature is way beyond that of the human body. That means that while the wind may be briefly refreshing, it’s not actually going to cool the body. In fact, wind hitting the skin in this situation will actually transfer heat, speeding up the process of perspiration and leading to rapid water loss. That’s something that can’t be afforded in a place where the next oasis might be miles away. Stripping down in this situation could speed up your demise. You don’t need air. You need a shield."
+    },
+    {
+      "id": 16,
+      "debut": 472.8,
+      "fin": 502.24,
+      "temps_estime": false,
+      "titre": "Why Western clothing fails in extreme heat",
+      "resume": "Western clothing is tight, trapping body heat against the skin and cutting off airflow. It soaks with sweat, restricts movement and risks rashes and infection, so no wonder people in the west take clothes off as it gets hot.",
+      "mots_cles": [
+        "Western clothing",
+        "tight clothes",
+        "trapped heat",
+        "airflow",
+        "sweat-soaked",
+        "rashes",
+        "heavy clothing"
+      ],
+      "texte": "Western clothing is fairly unequipped for dealing with extreme heat, because it generally involves a tight fit. What we think of as heavy clothing traps the body heat against your skin, cutting off airflow and offering no relief. In this case, it would quickly become soaked with sweat, making it hard to move and leaving the body vulnerable to rashes and infection. It’s the worst option for surviving extended heat. Given that it’s the common way to dress for people in the west, is it any surprise that they start taking off their clothes as the weather gets hot?"
+    },
+    {
+      "id": 17,
+      "debut": 502.24,
+      "fin": 541.76,
+      "temps_estime": false,
+      "titre": "The thawb as an engineering marvel and chimney",
+      "resume": "The one-piece thawb is designed to alleviate heat and also protect on chilly nights. The desert feels brutal because the sun hits from every direction, including heat radiating from the sand, and tight or minimal clothing either traps heat or exposes skin, while the thawb acts like a chimney.",
+      "mots_cles": [
+        "thawb engineering",
+        "sun radiation",
+        "reflected heat from sand",
+        "chimney effect",
+        "loose clothing",
+        "one-piece garment"
+      ],
+      "texte": "But the Bedouins figured out the counter intuitive trick long ago. The thawb isn’t just an attractive ceremonial outfit, it’s an engineering marvel. The one-piece garb is designed to not just tolerate heat, but to alleviate it. It also provides protection during the chilly nights. During the day, the reason it feels so unbearably hot in the desert is because you’re being attacked by the sun’s rays from all possible directions. The sun bakes into the sand below, radiating up into you even as the sun’s rays directly bake you from above. If you’re wearing tight clothing, it gets trapped. If you’re wearing little clothing, your skin gets pummeled with the rays directly. The thawb isn’t just a covering, it’s a chimney."
+    },
+    {
+      "id": 18,
+      "debut": 541.76,
+      "fin": 567.36,
+      "temps_estime": false,
+      "titre": "The air gap between body and garment",
+      "resume": "The thawb creates a space between body and fabric, hiding body shape, which is why similar garments are adopted for modesty in religious dress. The garment billows and the hottest air gets trapped inside, warmed by the body.",
+      "mots_cles": [
+        "air gap",
+        "loose fit",
+        "modesty clothing",
+        "billowing fabric",
+        "trapped hot air",
+        "body shape hidden"
+      ],
+      "texte": "First, it creates a space between the body and the garment. If you look at a Bedouin tribesman wearing a thawb, and you can’t really tell what his body type is. This is why clothing like this has been heavily adopted and sometimes altered for religious garb where modesty is the order of the day, especially for women. It billows with the wind, and the hottest air gets trapped within. It then gets warmed by the body, same as it would in tight clothing, creating a dangerous level of heat."
+    },
+    {
+      "id": 19,
+      "debut": 567.36,
+      "fin": 603.04,
+      "temps_estime": false,
+      "titre": "The ventilation cycle: a mobile fan",
+      "resume": "Warm air rises through the neck and arm holes like in a hot air balloon while cooler air is drawn in, evaporating sweat and cooling the body. This acts as a mobile fan keeping the wearer cooler than the ambient temperature.",
+      "mots_cles": [
+        "ventilation cycle",
+        "warm air rises",
+        "neck and arm holes",
+        "sweat evaporation",
+        "mobile fan",
+        "convection",
+        "hot air balloon"
+      ],
+      "texte": "Then, physics pulls off a miracle. The ventilation cycle begins, as warm air naturally rises, similar to how a hot air balloon works. Because the thawb is loose-fitting, there’s a place for it to escape the body. The warm air rises through the neck hole and arm holes, flowing back out into the world. Meanwhile, the cool air - or at least as cool as it gets in the desert - remains and is drawn in. This helps to evaporate sweat, cool down the body, and essentially operate as a mobile fan that keeps the body cooler than the ambient temperature in the desert. And it does it all while looking like the Bedouin is swaddled head to toe."
+    },
+    {
+      "id": 20,
+      "debut": 603.04,
+      "fin": 629.6,
+      "temps_estime": false,
+      "titre": "Thermodynamics and the walking bellows",
+      "resume": "Loose fabric insulates skin like a double-paned window, and the true genius is motion: walking makes the fabric billow and compress like a vertical bellows. The robe becomes an electricity-free mechanical pump.",
+      "mots_cles": [
+        "thermodynamic cooling",
+        "insulation",
+        "double-paned window",
+        "bellows",
+        "walking",
+        "mechanical pump",
+        "robe design"
+      ],
+      "texte": "The thawb has essentially mastered the core laws of thermodynamic cooling. The loose fabric insulates the skin the same way a double-paned window helps to keep the heat out during the height of summer. But the true genius lies in the motion. Because the Bedouins are constantly on the move during the peak heat of the day, the act of walking functions like a vertical bellows. With every step, the fabric billows out and compresses, transforming the robe into an electricity free, mechanical pump."
+    },
+    {
+      "id": 21,
+      "debut": 629.6,
+      "fin": 664.08,
+      "temps_estime": false,
+      "titre": "Why do the Bedouin wear black robes?",
+      "resume": "The right clothing lets people survive the impossible, and the Bedouin are adapted by thousands of years of living in the desert. Their black robes seem baffling, since dark clothing is supposed to absorb the most heat.",
+      "mots_cles": [
+        "black robes",
+        "dark clothing absorbs heat",
+        "Bedouin adaptation",
+        "counterintuitive",
+        "heavy clothes",
+        "dunes"
+      ],
+      "texte": "The right clothing can make people capable of surviving the impossible. The Bedouins are able to live in the desert, sure, but it’s more than that. They’re adapted to the climate in ways that few humans are, having lived there uninterrupted for thousands of years. But even so, their way of life baffles many people who observe them. Watching them unbothered by heavy clothes as they hike over sand dunes is surprising, but one of the most shocking things is how many of them wear black robes. After all, we all know that dark clothing absorbs the most heat during the summer sun, right? Well, it turns out that once again, they might know better than us."
+    },
+    {
+      "id": 22,
+      "debut": 664.08,
+      "fin": 693.2,
+      "temps_estime": false,
+      "titre": "The 1980 Nature observation of Bedouins and black goats",
+      "resume": "In 1980 scientists writing in the journal Nature noticed Bedouins wearing black robes and herding black goats, both unbothered by heat. Four scientists ran an experiment on clothing in extreme heat, confirming some things and debunking others.",
+      "mots_cles": [
+        "1980",
+        "Nature journal",
+        "black goats",
+        "scientific study",
+        "Bedouin observation",
+        "clothing experiment"
+      ],
+      "texte": "Back in 1980, scientists for the journal Nature observed some strange behavior among Bedouin tribes that didn’t match up with their perception of how people behaved in heat. Not only did many of them wear black robes, but they herded black goats as well. Despite this, both the tribes and their livestock seemed largely unbothered. Four of the scientists were intrigued enough that they ran an experiment to study the effects of different kinds of clothing in extreme heat. Some things were confirmed - but some were debunked forever."
+    },
+    {
+      "id": 23,
+      "debut": 693.2,
+      "fin": 721.52,
+      "temps_estime": false,
+      "titre": "The experiment: one volunteer, four outfits",
+      "resume": "A single volunteer stood outside about half an hour at a time in four conditions: a black Bedouin robe, a white robe, a tan form-fitting army uniform and shorts. He reported how he felt after each.",
+      "mots_cles": [
+        "experiment design",
+        "volunteer",
+        "black robe",
+        "white robe",
+        "army uniform",
+        "shorts",
+        "half hour"
+      ],
+      "texte": "They managed to get a single volunteer who was willing to brave the heat. He would be posted outside for around half an hour at a time, experiencing the heat in four separate conditions. In the first, he would wear a black Bedouin robe. In the second, he would wear a similar robe but white. Next, he would wear a tan form-fitting army uniform. And lastly, he would let it all hang out… well, mostly. He’d be braving the desert heat in a pair of shorts. Assuming he didn’t pass out, he’d report back exactly how he felt to the team."
+    },
+    {
+      "id": 24,
+      "debut": 721.52,
+      "fin": 780.8,
+      "temps_estime": false,
+      "titre": "Results: black and white robes performed the same",
+      "resume": "The army uniform and shorts were worst, with shorts exposing him to 95 to 115 degrees Fahrenheit (35 to 46 Celsius). The black robe got hotter but he felt nearly identical in black and white, because the robe ejects excess heat before it reaches the body, so color choice is free; the goats seem evolved for heat.",
+      "mots_cles": [
+        "black vs white robe",
+        "color and heat",
+        "experiment results",
+        "army uniform worst",
+        "heat ejected",
+        "thermal energy",
+        "goats"
+      ],
+      "texte": "The findings completely changed how we understand color. Some of the results were predictable. Wearing the army uniform was the worst, as it trapped the heat without giving the volunteer’s body any chance to cool itself. Similarly, the shorts were a poor choice as the unfortunate victim found his body baked by temperatures that ranged from 95 to 115 degrees Fahrenheit (35 to 46 Celsius) during his shifts. When he wore the two Bedouin robes, he experienced much more relief. Sure enough, the black robe did get hotter when he wore it, as the sun’s rays were absorbed by the darker fabric. But that didn’t make him hotter. He reported nearly identical results between the two colors of robes. The robe is so effective at processing and funneling heat, that the excess thermal energy was ejected before it ever reached the volunteer. This means that Bedouins are able to choose their robe color by tradition, affordability, or even fashion preferences without paying the price in excess sweat. As for the goats, we can’t ask them, but they seem to have evolved to handle the heat just fine."
+    },
+    {
+      "id": 25,
+      "debut": 780.8,
+      "fin": 820.56,
+      "temps_estime": false,
+      "titre": "Is the thawb the key to fighting climate change?",
+      "resume": "As the world heats up, it is tempting to think the Middle East solved the problem and that designer thawbs could be worn in Paris and New York. But the thawb solves only extreme dry desert heat, not humid jungle and rainforest heat or dense cityscapes that trap heat.",
+      "mots_cles": [
+        "climate change",
+        "thawb limits",
+        "humid heat",
+        "rainforest",
+        "cityscape heat",
+        "dry heat solution",
+        "fashion"
+      ],
+      "texte": "So is this the key to fending off climate change? The world is getting hotter. For many people, it’s less a question of getting comfortable in the summer than surviving it. It’s tempting to look to the Middle East and think they’ve solved the problem. No doubt fashion houses will be very happy to start dropping designer thawbs for people to wear on extremely hot days in Paris and New York. But unfortunately, life isn’t that easy. The thawb is designed to solve exactly one problem: extreme, dry heat in a desert climate. For many people around the world, the heat is paired with extreme humidity in jungle and rainforest climates, or they’re dealing with high heat in densely-packed cityscapes where the landscape itself traps the heat all around them."
+    },
+    {
+      "id": 26,
+      "debut": 820.56,
+      "fin": 846.8,
+      "temps_estime": false,
+      "titre": "The Bedouins solved the desert, not heat itself",
+      "resume": "The Bedouins did not solve heat but did solve the desert, using textile craft that has worked near-perfectly for thousands of years. As the desert grows hotter they are unperturbed, while everyone else hopes the air conditioner holds out.",
+      "mots_cles": [
+        "Bedouin solution",
+        "desert adaptation",
+        "air conditioner",
+        "hotter desert",
+        "conclusion",
+        "traditional craft"
+      ],
+      "texte": "The Bedouins didn’t solve the problem of heat, but they did solve the desert. Thousands of years ago, traveling people found themselves in a hostile, dangerous climate that suited their needs in every other way. They used a new craft to solve the problem, and that solution has worked near-perfectly ever since. As the desert grows and the heat becomes more intense, the Bedouins seem completely unperturbed. As for the rest of us, we’ll just keep hoping the air conditioner holds out."
+    },
+    {
+      "id": 27,
+      "debut": 846.8,
+      "fin": 856.72,
+      "temps_estime": false,
+      "titre": "Call to action: Why Google Is Eradicating the Mosquito",
+      "resume": "Closing remark that nature is changing and humanity is finding new ways to adapt, pointing viewers to another video, Why Google Is Eradicating the Mosquito.",
+      "mots_cles": [
+        "call to action",
+        "Google mosquito",
+        "human adaptation",
+        "follow-up video",
+        "outro"
+      ],
+      "texte": "Nature is changing, and humanity is finding new ways to adapt. Check out “Why Google Is Eradicating the Mosquito” for another look into how humanity is pushing back, or watch this video."
+    }
+  ]
+}
