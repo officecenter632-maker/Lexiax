@@ -4,12 +4,12 @@
   "titre_video": "You're Witnessing the Death of American Capitalism and More Insane Stories About the Economy",
   "duree_s": 11029.12,
   "avancement": {
-    "lignes_traitees": 887,
-    "fin_traitee_s": 1804.24,
+    "lignes_traitees": 1780,
+    "fin_traitee_s": 3547.36,
     "nb_lignes_total": 5541,
     "complet": false
   },
-  "nb_segments": 40,
+  "nb_segments": 71,
   "segments": [
     {
       "id": 1,
@@ -762,6 +762,582 @@
         "lobbying"
       ],
       "texte": ">> our American super capitalists. Faced with labor laws that make them pay fair [music] wages, companies found a workaround, well, two of them. Corporate lobbying and the gig economy. Uber, Airbnb, DoorDash, Fiverr, Upwork, CrowdSpring, [music] Etsy, and LegalZoom all have one thing in common. They are not jobs, they are gigs. They sit in a legal gray area that lacks the protections or regulation of traditional employment, and they are becoming an increasingly popular way to monetize every aspect of life while saving money for the companies. Fewer people in a legal sense are employees than ever. From taxi drivers to writers of online entertainment videos, all of these people are contractors, [music] and that is an entirely different dynamic to traditional employment on paper. An estimated 64 million Americans, representing 38% of the US workforce, [music] did freelance work in 2023. That is 4 million more than 2022, and it's only gotten worse since. >> [music]"
+    },
+    {
+      "id": 41,
+      "debut": 1804.24,
+      "fin": 1846.92,
+      "temps_estime": false,
+      "titre": "Corporate lobbying: $4.4 billion in 2024",
+      "resume": "Corporations keep loopholes open through lobbying, which hit an all-time high of $4.4 billion in 2024 and is protected by the First Amendment and the Lobbying Disclosure Act. The narrator says that when money is protected speech, those with the most money have the loudest voices, keeping tax loopholes open, securing bailouts and allowing struggling firms to buy back shares.",
+      "mots_cles": [
+        "corporate lobbying",
+        "$4.4 billion",
+        "First Amendment",
+        "Lobbying Disclosure Act",
+        "Congress",
+        "tax loopholes",
+        "bailouts",
+        "share buybacks"
+      ],
+      "texte": ">> And how do corporations keep all those loopholes that save money for them and destroy security for workers? Two magical little words, corporate lobbying. This is when corporations and other groups pay to [music] influence the actions of the jokers in Congress. 2024 saw an all-time high of lobbying costs, specifically [music] $4.4 billion. It's legally protected by the First Amendment and the Lobbying Disclosure Act. It makes sure that when money is protected [music] speech, those with the most money will always have the loudest voices. >> [music] >> They keep tax loopholes wide open. They make sure their failures get bailed out with taxpayer money. And when all else fails, a struggling company can legally [music] buy back its own shares, artificially boosting value through"
+    },
+    {
+      "id": 42,
+      "debut": 1846.92,
+      "fin": 1900.64,
+      "temps_estime": false,
+      "titre": "Monopolies, mergers and antitrust complaints",
+      "resume": "Companies try to destroy competition through predatory pricing and, more commonly, mergers and acquisitions, and lobbying money keeps the Federal Trade Commission off their backs. Google, Amazon, Apple, Visa and Live Nation Ticketmaster are named as firms facing antitrust complaints, with AI investment expected to make life worse for consumers and workers.",
+      "mots_cles": [
+        "monopolies",
+        "mergers and acquisitions",
+        "predatory pricing",
+        "Federal Trade Commission",
+        "antitrust",
+        "Google",
+        "Ticketmaster",
+        "competition"
+      ],
+      "texte": "false scarcity. But, competition is supposed to keep them [music] honest. So, naturally, they're trying to destroy it. And the worst part? They're on their way. Companies empower themselves to act horribly when they move to aggressively crush their competition, whether it's through predatory pricing or the much more common monopoly building methods of mergers and acquisitions. Larger companies buy up or merge [music] with smaller ones, so they soon become the only choice on the market. And with enough lobbying money, you can keep the Federal Trade Commission off your back for a very long time. Don't believe us? Here are some companies you may know who have had antitrust complaints against them: Google, Amazon, Apple, Visa, [music] and Live Nation Ticketmaster. It goes without saying that this is terrible for consumers and workers, but it's not getting better. Right now, the technologies that these companies are investing most heavily in, like artificial intelligence, are primed [music] to make life worse of all for"
+    },
+    {
+      "id": 43,
+      "debut": 1900.64,
+      "fin": 1946.36,
+      "temps_estime": false,
+      "titre": "Breaking point or domino chain: crony capitalism and techno-feudalism",
+      "resume": "The narrator asks whether people will hit a breaking point and rebuild the system or whether this is the middle of a domino chain toward something worse. Without reform or revolution, wages, jobs, housing, debt and homelessness will worsen as monopolies engage in crony capitalism, leading toward techno-feudalism where personal freedoms collapse alongside wealth.",
+      "mots_cles": [
+        "crony capitalism",
+        "techno-feudalism",
+        "monopolies",
+        "reform or revolution",
+        "middle class",
+        "working class",
+        "homelessness",
+        "personal freedom"
+      ],
+      "texte": "us. But, what happens then? Will things hit a breaking point where we all collectively say, \"Enough is enough. Break down the system as it is, and work on building something better?\" Or are we just in the middle part of a domino chain leading to something a lot worse? [music] For the middle and working class, things are looking pretty apocalyptic. Without reform or revolution, all the scary numbers that you've heard are only going to get worse. Wages, jobs, housing, debt, and homelessness. Monopolies are consolidating wealth and power like never before. They're engaging in crony capitalism >> [music] >> that turns the government into their lapdog. And that leads to a world of techno-feudalism, where personal freedoms collapse right alongside personal wealth. One way or another, one [music] thing is certain. With the direction that American capitalism is going, we're all going to feel the hurt."
+    },
+    {
+      "id": 44,
+      "debut": 1946.36,
+      "fin": 1993.28,
+      "temps_estime": false,
+      "titre": "Record-high stocks but a hostage situation: the stock market as a liquidity sponge",
+      "resume": "Introducing a new section, the narrator says the stock market no longer measures the health of the US economy and has become a liquidity sponge for global fear. US stocks hit records because everything else is collapsing and global money floods into the least bad option, while the government devalues the dollar to keep asset prices climbing.",
+      "mots_cles": [
+        "stock market",
+        "record highs",
+        "liquidity sponge",
+        "global capital",
+        "purchasing power",
+        "devaluing the dollar",
+        "hostage situation",
+        "asset prices"
+      ],
+      "texte": "The stock market's at record highs, so why is your money buying less every month? This isn't a booming economy, it's a hostage situation. Most people think the stock market measures the health of the US economy. It doesn't, not anymore. Today, it's a liquidity sponge for global fear. US stocks aren't hitting record highs because America is booming. They're hitting record highs because everything else is collapsing. Global money has fewer places to turn to, so it floods to US assets. Not because they're perfect, but because they're the least bad option. And keeping it there requires one thing, your purchasing power. To stop that money from leaving, the government is devaluing your dollars while keeping asset prices climbing. So, if the economy is trapped, how are all-time highs even possible? And what are they doing behind the scenes to your money that almost nobody notices? Take a look"
+    },
+    {
+      "id": 45,
+      "debut": 1993.28,
+      "fin": 2075.6,
+      "temps_estime": false,
+      "titre": "The paradox: record S&P 500 while households pay more",
+      "resume": "The S&P 500 sits at all-time highs and Nvidia and Microsoft hit record valuations, yet households pay more for groceries, insurance premiums, utilities, fast food and first homes. The narrator says that in 2026 the S&P 500 is no longer a gauge for the US economy or the average person and has detached from reality.",
+      "mots_cles": [
+        "S&P 500",
+        "all-time high",
+        "Nvidia",
+        "Microsoft",
+        "cost of living",
+        "groceries",
+        "insurance premiums",
+        "stock market vs economy"
+      ],
+      "texte": "at the financial headlines and they scream about American prosperity. It seems like the country's never been better off. The S&P is at an all-time high. Investment records are being shattered as the biggest stocks go up and up with every passing week. The wealthiest companies in the world are only getting wealthier. It all points to an economy that's going from strength to strength. So, why are you paying much more for almost everything? The data proves that US households today are having to spend more for groceries, their insurance premiums, and their utility bills. The costs of everything from fast food meals to first-time homes are spiraling. People's wallets are being squeezed. Their financial hopes and ambitions are suffocating. Meanwhile, companies like Nvidia and Microsoft are hitting record high valuations. The system is broken. It's the paradox of America today, and that shatters one of the most widespread and dangerous misconceptions of modern times. People have been told that the stock market is some sort of health indicator of the economy. A good stock market means a good economy. There used to be some truth to that. Unfortunately, times have changed. And in 2026, the S&P 500 is no longer some sort of gauge for the US economy. It's not a barometer of how well the average person is doing, or how financially stable the American population is. Instead, the stock market of today is entirely detached from the reality of the average American. It is transformed into a massive vacuum sucking up capital from all over the"
+    },
+    {
+      "id": 46,
+      "debut": 2075.6,
+      "fin": 2140.24,
+      "temps_estime": false,
+      "titre": "Instability and Fortress America: capital hiding in the US",
+      "resume": "The narrator says the cause is instability: when the global economy is fragile, capital flows to the safest places, and investors pour into US companies because there is no alternative, not because the economy thrives. The US becomes a bunker where global capital hides, creating an illusion of prosperity while millions struggle to afford essentials.",
+      "mots_cles": [
+        "instability",
+        "Fortress America",
+        "safe haven",
+        "global capital",
+        "stock valuations",
+        "illusion of prosperity",
+        "bunker",
+        "green arrows"
+      ],
+      "texte": "world. The reason for this can be summed up in a single word, instability. When markets and entire economies become unstable, capital naturally flows toward the safest places. Right now, the global economy is more fragile than it's been in years. The world's biggest investors aren't pouring money into American companies because the US economy is thriving, there is no alternative. To them, it's the safest move available. Park some capital in the world's largest companies and more resilient markets, not because they're risk-free, but because every other option looks worse. This is the reality of the modern-day Fortress America. The US isn't booming, it's becoming a bunker where global capital hides out during a crisis. And since so much money is streaming in, stock prices and company valuations are skyrocketing. This creates a dangerous illusion. Politicians and corporations can point to the green arrows on the stock market charts to argue that everything is going great. Meanwhile, far and wide across the country, millions of people are struggling to afford the most basic supplies and everyday essentials. They're being forced to spend more just to survive. Every dollar in their pocket feels less"
+    },
+    {
+      "id": 47,
+      "debut": 2140.24,
+      "fin": 2204.84,
+      "temps_estime": false,
+      "titre": "China's 2023 capital flight into America",
+      "resume": "For years China was the world's growth engine, but in 2023 geopolitical tensions, COVID fallout, regulatory crackdowns and a property crisis shattered investor confidence. Investors pulled a record sum out of Chinese equities in August 2023, and the money went to the US for its deep bond market, reserve currency and military power.",
+      "mots_cles": [
+        "China",
+        "capital flight",
+        "2023",
+        "Chinese equities",
+        "property crisis",
+        "investor confidence",
+        "reserve currency",
+        "bond market"
+      ],
+      "texte": "valuable by the day. But, if the US economy isn't actually booming, where is all this money coming from to pump up the stock market? For years, China was seen as the world's growth engine. Global investors poured trillions into the country. They bought real estate, backed its tech giants, and fueled the rise of its manufacturing sector. And then in 2023, it hit a wall. Geopolitical tensions, the fallout from COVID, regulatory crackdowns, a nationwide property crisis, they all teamed up to shatter investor confidence. [music] When confidence disappears, capital doesn't wait around. In August 2023 alone, investors pulled a record $15 out of Chinese equities. >> [music] >> And there was only one place that money was going, America, the largest national economy in the world, a place with the deepest bond market, the home of the global reserve currency, and the world's mightiest military with unparalleled influence far beyond its borders. All of these factors matter. It's because of them that the US has long been seen as a safe haven for investors. The one sure place they can always retreat to when other markets start to feel a little shaky. So in 2023, tens of billions"
+    },
+    {
+      "id": 48,
+      "debut": 2204.84,
+      "fin": 2281.68,
+      "temps_estime": false,
+      "titre": "Magnificent Seven inflows and US geopolitical hegemony",
+      "resume": "Tens of billions flooded into US treasury bonds, money market funds and especially equities, notably the Magnificent Seven tech companies, at the same time as the Chinese exodus. Investors bought US stocks because the global economy was coming apart, trusting US hegemony and military power to protect investments, while the government faced a hidden problem.",
+      "mots_cles": [
+        "Magnificent Seven",
+        "Amazon",
+        "Apple",
+        "Meta",
+        "Microsoft",
+        "Tesla",
+        "safe haven",
+        "US hegemony"
+      ],
+      "texte": "[music] flooded into the US. Some went to the likes of treasury bonds and money market funds, but a huge amount of it headed straight for American equities, especially the so-called magnificent seven. The seven most influential, highly valued tech companies whose market capitalizations or market caps rank among the largest in the market. That select group includes Amazon, Apple, Meta, Microsoft, and [music] Tesla, all of which saw enormous growth and record-setting inflows at the exact same time as the Chinese exodus. It's a scenario we've seen play out before. The world panics, [music] foreign investors get scared, the colossal amounts of cash then go to hide in America. This didn't happen [music] because the US economy was doing so well at the time and investors wanted their piece of the action. Ultra-wealthy individuals and institutions weren't buying up US stocks because American consumers were living their best ever lives. They did it because they saw the whole global economy was coming apart at the seams. They knew that no matter how bad the situation got, the US had advantages that no other nation could rival. Its deep economy and powerful military gave it incontestable geopolitical hegemony. And that in turn means that every investment in a US-based [music] business enjoys a certain degree of protection. But as the world's money rushed into the US bunker, the country's government had a huge hidden problem"
+    },
+    {
+      "id": 49,
+      "debut": 2281.68,
+      "fin": 2315.88,
+      "temps_estime": false,
+      "titre": "Debt is dangerous when interest becomes unmanageable",
+      "resume": "A common misconception holds that debt becomes more dangerous as it grows, but the real danger is when interest payments become unmanageable. As with maxed-out credit cards, size does not matter as long as the minimum payment can be covered, and the same applies at a national level.",
+      "mots_cles": [
+        "national debt",
+        "interest payments",
+        "credit card analogy",
+        "minimum payment",
+        "debt misconception",
+        "unmanageable interest"
+      ],
+      "texte": "waiting for it. There's a common misconception about debt. Most people think that it becomes more dangerous the bigger it gets. That's not quite accurate. In reality, debt is actually the most dangerous when [music] its interest becomes unmanageable. As long as you can afford to cover the cost of the interest, the size of the debt doesn't necessarily matter all that much. This is why people can technically max out their credit cards and take out multiple loans without ruining themselves, so long as they're able to make the minimum monthly payment. But when that payment gets too high, that is when things go south. This applies at a national level, too. >> [music]"
+    },
+    {
+      "id": 50,
+      "debut": 2315.88,
+      "fin": 2396.2,
+      "temps_estime": false,
+      "titre": "2024: US interest payments pass $1 trillion and exceed defense spending",
+      "resume": "In 2024, after the Federal Reserve raised rates to fight inflation, annualized interest on the national debt surpassed $1 trillion, more than the entire defense budget for the first time in history. The US was looking at possible insolvency, trapped because higher rates fought inflation but raised the cost of debt.",
+      "mots_cles": [
+        "interest payments $1 trillion",
+        "national debt",
+        "defense budget",
+        "2024",
+        "Federal Reserve rate hikes",
+        "debt trap",
+        "insolvency",
+        "Washington"
+      ],
+      "texte": ">> The United States government found out the hard way in 2024. Up to that point, the US national debt had steadily surged year over year, rising by trillions of dollars. But politicians never seemed to concerned. They continued to borrow massive amounts of money to fund massive projects, stimulate the economy and counteract the effects of financial crises. The overall debt level just kept on getting bigger. Successive administrations kicked the can further down the road and expected [music] the next set of leaders to deal with the consequences. Those consequences hit home in a major way. As the Federal Reserve aggressively increased interest rates in order to fight inflation, annualized interest payments on America's national debt surpassed $1 trillion. From that moment on, the US government had to spend more just to pay the interest on its debt than it spends on the entire national defense budget. The world's mightiest and best-funded military force was suddenly more affordable than an annual interest payment. It was the first time in history that this had [music] happened, and it sent alarm bells ringing in Washington, D.C. and far beyond. The US government was suddenly looking at the frightening possibility of insolvency. It had walked directly into a deadly debt trap. Increasing interest rates had helped inflation, but those same increases also affected the costs of debt. This in turn put extra pressure on the government's finances, which were suddenly between a rock and a hard place. There was no obvious way out."
+    },
+    {
+      "id": 51,
+      "debut": 2396.2,
+      "fin": 2463.64,
+      "temps_estime": false,
+      "titre": "No way out: how to pay a trillion-dollar bill without crashing the economy",
+      "resume": "Washington had to pay interest to avoid default but could not rely on tax revenue, raising taxes could hurt the economy and cutting spending could cause societal collapse. The narrator uses a bank analogy of a high-interest long-term loan versus a short-term line of credit to suggest the government changed the rules of the game.",
+      "mots_cles": [
+        "debt trap",
+        "systemic default",
+        "tax revenue",
+        "spending cuts",
+        "line of credit analogy",
+        "trillion dollar bill",
+        "changing the rules"
+      ],
+      "texte": "Washington had to pay its interest to avoid a systemic default, but it couldn't afford them by relying on regular tax revenues alone. Raising revenues wouldn't work as that could finish off the already struggling economy. Cutting spending wouldn't work either as that could cause a complete societal collapse. In a trap like this, the usual solutions simply don't work. You have to find another option, a drastic measure that allows you to work around the seemingly impenetrable wall sitting right in front of you. But how? How does a government pay a trillion dollar credit card bill without crashing the economy? Simple, by changing the rules of the game. Let's say you're facing bills you can't afford and you're not able to improve your income in any meaningful way to help you pay off your debts. What do you do? The answer is you seek some sort of financial assistance. Imagine you go to a bank and you're offered a long-term loan to help you keep up with your existing debts, but it comes with an enormous interest rate. Or the bank says you can take out a short-term line of credit that will essentially lower your monthly payments temporarily. Faced with those two options, most people would opt for the latter because it provides the short-term relief they need. It buys them time to hopefully figure things out. The US government did something similar. [music]"
+    },
+    {
+      "id": 52,
+      "debut": 2463.64,
+      "fin": 2564.92,
+      "temps_estime": false,
+      "titre": "Shifting to T-bills: 80 to 85 percent of new borrowing",
+      "resume": "The Treasury borrows through long-term bonds of up to 30 years, like fixed-rate mortgages, and short-term T-bills that must be rolled over, like credit cards. By late 2023 roughly 80 to 85% of new borrowing shifted to T-bills to avoid a spike in long-term rates, which held mortgage rates down and pumped the stock market but left trillions to roll over every few months.",
+      "mots_cles": [
+        "Treasury securities",
+        "T-bills",
+        "long-term bonds",
+        "30-year bonds",
+        "late 2023",
+        "80 to 85 percent",
+        "mortgage rates",
+        "rollover"
+      ],
+      "texte": "But to understand this technique, you have to understand how the government traditionally borrows money. To do this, it relies on Treasury securities like bonds and bills. To be more precise, it typically issues a mixture of long-term bonds that can take up to 30 years to mature, as well as short-term T-bills, which mature in a matter of months or even weeks. A typical bond is like a fixed-rate mortgage, locking in interest for an entire generation. T-bills are more like credit cards. You have to either pay them off or roll them over on a constant basis and their rates [music] can change very quickly from one month to the next. By 2023, the cost of issuing large amounts of long-term bond debt became increasingly unsustainable. Selling short-term bonds would have forced the government to offer much higher interest rates. Those same rates would have crushed mortgages, business borrowing, and the broader economy. So they found another way. By late 2023, roughly 80 to 85% of new government borrowing had shifted to short-term T-bills [music] instead, avoiding a spike in long-term rates. It was like the government decided to max out all its credit cards as opposed to taking out a high-interest mortgage. And it worked for a while. Washington managed to stave off a serious crisis, keeping longer-term rates lower than they would have otherwise been. This in turn prevented mortgage [music] rates from reaching astronomical levels and avoided a complete explosion of corporate debt. What's more, the government's debt manipulation strategy also acted as a kind of artificial pump for the stock market, moving liquidity out of banks and into assets. But this was never going to be a long-term fix. It was a band-aid covering a wound but failing to heal it. It saved the system from instant collapse, but short-term debt doesn't just disappear. It matures very quickly, giving the government trillions of dollars of debt to roll over every few months at extortionately high rates."
+    },
+    {
+      "id": 53,
+      "debut": 2564.92,
+      "fin": 2644.68,
+      "temps_estime": false,
+      "titre": "Shadow QE: money printing without calling it money printing",
+      "resume": "To counteract the rollover problem the Treasury needed to print money without calling it that, and the Fed uses stealth quantitative easing, electronically creating funds to buy bonds and bills. The result is stimulation of markets and record highs while ordinary people lose purchasing power, as the dollar is systematically destroyed to pay off tens of trillions in debt.",
+      "mots_cles": [
+        "shadow QE",
+        "stealth quantitative easing",
+        "money printing",
+        "Federal Reserve",
+        "liquidity",
+        "purchasing power",
+        "dollar devaluation",
+        "record highs"
+      ],
+      "texte": "To counteract that, the Treasury needed a way to print money without calling it money printing. When people think about the concept of countries printing money, they imagine literal printing machines and conveyor belts churning out vast stacks of dollar bills. It rarely works like that these days. If central banks physically printed trillions of dollars out of thin air, everyone would notice. The effects would be obvious as inflation soars and asset values explode. Instead, the US government and Federal Reserve often prefer to print money in a more subtle way. They use a digital method called a shadow or stealth quantitative easing, QE. This involves them electronically creating funds to buy new assets like bonds and bills. They rely on tactics that don't attract as much attention as more direct and blatant money printing. The methodology is sneakier, but the end result is the same. The economy enjoys a fresh burst of stimulation as liquidity flows into the financial system, but ordinary people feel their purchasing power decrease. This is why the market is sitting at record highs today. It's because the US dollar is being intentionally and systematically destroyed in order to essentially pay off tens of trillions of dollars of debt. It's part of an intentional economic strategy known as financial repression, designed to funnel private savings into the public sector and push more and more money toward government debt. All without the government itself having to either raise taxes or slash"
+    },
+    {
+      "id": 54,
+      "debut": 2644.68,
+      "fin": 2711.32,
+      "temps_estime": false,
+      "titre": "Financial repression: a hidden tax on the middle class",
+      "resume": "Financial repression keeps interest rates artificially below inflation so the real value of debt declines, for example 5% inflation against 4% bond yields shrinks debt a full point per year. It is a hidden tax on the middle class, harder to spot than a tax hike, so people see rising accounts and salaries yet everything feels more expensive.",
+      "mots_cles": [
+        "financial repression",
+        "interest rates below inflation",
+        "real value of debt",
+        "hidden tax",
+        "middle class",
+        "inflation",
+        "purchasing power"
+      ],
+      "texte": "spending. To start financial repression, a country keeps interest rates artificially below the inflation rate. When inflation surpasses interest, the value of debt begins to decline. For example, if inflation is at 5% [music] but interest rates on government bonds are at 4%, then the actual value of the debt declines by a whole percentage point every year. If you can keep that going for several years, it'll effectively burn off quite a large chunk of debt without physically having to pay it. But there is always a catch. A financial repression has a huge catch. It's basically a hidden tax on the middle class. This is what makes it far more insidious than if the government were to simply announce that it was hiking tax rates because financial repression is so much harder to spot. It's not dramatic or in your face, but gradual and surreptitious. This is what leads to many people feeling confused whenever it's used. They can see their investment accounts rising and they can see the value of their markets biggest players rising. And they can even see their salaries rising. On paper, you might look a little richer, but in real life, everything feels more expensive. Because a dollar is still a dollar, it's just buying you less every year. The"
+    },
+    {
+      "id": 55,
+      "debut": 2711.32,
+      "fin": 2771.84,
+      "temps_estime": false,
+      "titre": "Seven stocks hold 33 percent of the S&P 500",
+      "resume": "Printed money does not flow evenly but ends up in Nvidia, Apple, Microsoft, Amazon, Tesla, Meta and Alphabet, which together account for 33% of the S&P 500's market cap, the highest index concentration in modern history. The index, once a broad cross-section of the American economy, now floods investment into tech firms.",
+      "mots_cles": [
+        "Magnificent Seven",
+        "33 percent of S&P 500",
+        "index concentration",
+        "Nvidia",
+        "Alphabet",
+        "market cap",
+        "S&P 500",
+        "top-heavy market"
+      ],
+      "texte": "government prints money to [music] keep its zombie economy up and running, but all that capital doesn't actually flow evenly across the entire economy. Instead, the vast majority of it ends up in just seven specific [music] places: Nvidia, Apple, Microsoft, Amazon, Tesla, Meta, and Alphabet, the company behind Google. These [music] brands don't just dominate headlines and market shares. They dominate the stock market, too. When money loses its value and fear and panic are [music] setting in, the big money doesn't simply spread out across the stock market. It goes in for the big names, the safe [music] names, the fortresses, the Magnificent Seven. That's why those seven companies alone account for a staggering 33% of the entire S&P 500's [music] total market cap. That is the highest index concentration in modern history. And it's important to understand the big picture here. The S&P was originally formed as a diverse representation of a broad cross-section of America's economy and industrial landscape. Nowadays, however, [music] when investors buy this index, a large part of that investment floods into those tech firms. >> [music]"
+    },
+    {
+      "id": 56,
+      "debut": 2771.84,
+      "fin": 2843.68,
+      "temps_estime": false,
+      "titre": "Dangerous concentration of risk in seven tech firms",
+      "resume": "Foreign capital and even retirement funds flow into the biggest names because trillions need places that can absorb them, making the market top-heavy. The narrator warns that resting global finance on seven firms assumes they can never fail and starves smaller companies and local businesses, so the index rises while only these companies reap rewards.",
+      "mots_cles": [
+        "market concentration",
+        "retirement funds",
+        "top-heavy market",
+        "systemic risk",
+        "seven tech firms",
+        "smaller companies",
+        "liferaft for capital"
+      ],
+      "texte": ">> When foreign capital enters America, too, a lot of it goes straight to those companies. Even retirement funds are increasingly being soaked up by the likes of Microsoft and Meta. It's not because all the other businesses in America are doing terribly, it's simply because there's such a vast disparity between the biggest names and everybody else. The market has become incredibly top-heavy. When trillions of dollars need to go somewhere, they don't flow into thousands of smaller companies, they flow into the biggest businesses with the ability to absorb them. This creates a very dangerous situation. It's not healthy for a global financial system to rest on the shoulders of just seven tech firms and the CEOs running them. It is a dangerous concentration of risk when a handful of companies become a liferaft for global capital. First, it assumes that these firms can never truly fail, that people will always scroll Instagram, that Google will remain the default search engine forever, that iPhones will never fall out of style. Second, and more concerning, it concentrates power while starving everything else. Billions that could be flowing to smaller companies, local businesses, and the industries that actually keep society running are instead pulled into just seven names. So, the overall index goes up, but in reality, only these companies are reaping the rewards. And this raises a"
+    },
+    {
+      "id": 57,
+      "debut": 2843.68,
+      "fin": 2916.08,
+      "temps_estime": false,
+      "titre": "The S&P 500 priced in gold is down 15 percent",
+      "resume": "The narrator says the Fed cannot simply fix the problem and that the S&P 500 only looks fine when measured in dollars. Priced in gold, a long-term store of value, the index is over 15% below its 2021 peak, so record highs are a currency-based illusion, like measuring a house with a ruler that keeps getting shorter.",
+      "mots_cles": [
+        "S&P 500 in gold",
+        "15 percent down",
+        "2021 peak",
+        "currency illusion",
+        "dollar devaluation",
+        "gold store of value",
+        "ruler analogy"
+      ],
+      "texte": "key question. Why won't the Federal Reserve simply step in and fix the problem? Because it mathematically can't. This is the scariest [music] part of all. The one data point that makes the whole the economy is fine story look convincing is the S&P 500, but that only holds up depending on how you measure it. Measured in dollars, everything looks fine. Stocks are up, charts are green, and [music] the index keeps breaking records without much effort. Measure it in gold, and everything changes because the dollar is no longer a reliable yardstick since [music] the government has done so much to diminish its value. Gold, however, is the ultimate long-term store of value with literally decades of data to prove it. When you price the S&P in gold, a harrowing truth emerges. It's not going up. In fact, it's actually way down compared to its 2021 peak. Over 15% down to be precise. That means those record-breaking highs that the headlines have been talking about these past few years [music] are actually based on lies. There is a currency-based illusion. The stock market isn't actually gaining value as quickly as it seems. Instead, the currency that it's priced in is losing value. It's like being told that your house is getting bigger, but in reality, the ruler you're using to measure it is simply getting shorter. The public has been told the"
+    },
+    {
+      "id": 58,
+      "debut": 2916.08,
+      "fin": 2981.56,
+      "temps_estime": false,
+      "titre": "Fiscal dominance: the Fed trapped by government debt",
+      "resume": "The Federal Reserve is said to be in a state of fiscal dominance, forced to prioritize government funding over controlling inflation and losing any real independence. It must keep rates artificially low and keep printing money through backdoor practices, since high rates would explode the interest bill, making permanent devaluation and inflation mathematically guaranteed.",
+      "mots_cles": [
+        "fiscal dominance",
+        "Federal Reserve independence",
+        "interest rates",
+        "insolvency",
+        "debt crisis",
+        "money printing",
+        "devaluation",
+        "inflation"
+      ],
+      "texte": "Federal Reserve uses high interest rates to combat inflation and keep prices as affordable as possible. It's supposed to be a tool for the public good. That claim no longer holds up. Now, the Federal Reserve is actually trapped in a state of fiscal dominance, forced to prioritize government funding over controlling inflation. In other words, any notion of the Fed being independent has gone up in smoke. It's forced to keep rates artificially low to prevent the government slipping into insolvency. It's compelled to keep printing money via shady backdoor practices to prevent DC from going bankrupt. It's almost like a hostage situation. The government is holding a gun to the Fed's head, forcing it to do what serves DC best, even if that comes at a great cost to literally millions of American families. There's no other way out. If the Fed actually maintained high enough rates to deal with inflation, the government's interest bill would explode, plunging DC into an inescapable debt crisis. >> [music] >> So, it has to keep those rates down, keep the liquidity moving, and devalue the dollar to protect the government. The trap has well and truly been sprung. Permanent devaluation and continued inflation are mathematically guaranteed."
+    },
+    {
+      "id": 59,
+      "debut": 2981.56,
+      "fin": 3021.96,
+      "temps_estime": false,
+      "titre": "The world isn't ending, but the rules have changed",
+      "resume": "The narrator says society will keep functioning and trade will keep flowing, but the era of easy money, predictable inflation and unquestioned American dominance is ending. Fortress America has high walls but its foundations are cracking under ever-increasing debt.",
+      "mots_cles": [
+        "end of easy money",
+        "American dominance",
+        "Fortress America",
+        "debt",
+        "inflation",
+        "economic change"
+      ],
+      "texte": "So, what are those at the very top doing to survive? It's important to stay grounded in the midst of this economic chaos. The world isn't ending. Society is not about to stop functioning or completely collapse overnight. But, that doesn't mean that this situation isn't serious. People will continue to work, companies will continue to function, and trade will continue to flow. But, the rules that govern these systems have irrevocably, irreversibly changed. The era of easy money, predictable inflation rates, and unquestionable American dominance is drawing to an end and shifting into something very different. Fortress America may have incredibly high walls, but its foundations are showing their cracks. They're bending and breaking beneath the crippling weight of the ever-increasing debt."
+    },
+    {
+      "id": 60,
+      "debut": 3021.96,
+      "fin": 3080.76,
+      "temps_estime": false,
+      "titre": "How the 1 percent move into gold and hard assets",
+      "resume": "The wealthy are cashing in paper currency for antifragile assets, primarily gold and other hard assets that cannot be printed by central banks, which helps explain gold's historic highs. Ultra-wealthy investors and venture capitalists are also buying farmland and critical infrastructure, because when trust in money slips capital changes form.",
+      "mots_cles": [
+        "gold",
+        "hard assets",
+        "antifragile assets",
+        "farmland",
+        "ultra-wealthy",
+        "dollar decline",
+        "infrastructure",
+        "venture capitalists"
+      ],
+      "texte": "[music] The 1% know this. They're being proactive. They're moving their money where it needs to be. Seeing the value of the dollar decline and realizing this decline is only going to get worse, they're cashing in their paper currency for antifragile assets. That primarily means gold as well as other hard assets that can't be printed off by central banks or devalued by treasury decisions. It's one of the reasons why gold has also reached historic highs in recent times. Money's also flowing into critical infrastructure and resources, too. Ultra-wealthy investors and venture capitalists are buying up the likes of farmland and other bedrocks of the future. They're tossing away incredibly worthless pieces of paper in exchange [music] for firm, tangible assets that provide the sort of stability the dollar can't. Because when trust in money starts to slip, capital doesn't disappear. It changes form. And what it's becoming tells you everything you need to know about where this is heading. The question isn't whether the system is changing. It already is. The question is, who is still holding paper when it finishes? It seems like the"
+    },
+    {
+      "id": 61,
+      "debut": 3080.76,
+      "fin": 3115.6,
+      "temps_estime": false,
+      "titre": "June 2026: unemployment at 4.2 percent because people stopped looking",
+      "resume": "In June 2026 the unemployment rate fell to 4.2%, its lowest since mid-2025, but only because more than half a million people stopped looking for work. Many leaving the labor force end up in the shadow economy of gig work and credit card debt, a pattern the narrator says precedes economic cracks.",
+      "mots_cles": [
+        "unemployment rate 4.2%",
+        "June 2026",
+        "labor force exit",
+        "half a million people",
+        "shadow economy",
+        "gig work",
+        "credit card debt",
+        "jobs report"
+      ],
+      "texte": "financial clock is already ticking. But, what happens when it hits zero? The unemployment rate just hit its lowest level since mid-2025. Sounds like great news for Americans until you see why. In June 2026, the unemployment rate fell to 4.2%, [music] but it wasn't because employers suddenly started hiring. It was because more than half a million people stopped looking for work altogether. Once they leave the labor force, many end up in the shadow economy of gig work and credit card debt. The headline says the job market is getting stronger. The data says people are giving up. And history shows that's when the economy starts to crack. >> [music]"
+    },
+    {
+      "id": 62,
+      "debut": 3115.6,
+      "fin": 3199.24,
+      "temps_estime": false,
+      "titre": "The June 2026 jobs report: only 57,000 jobs and AI rejections",
+      "resume": "The government celebrated the June 2026 jobs report, but the economy added only 57,000 jobs, far below economists' estimates. Job seekers report applying to hundreds of positions with no callbacks and being rejected in seconds by AI software, in a recovery that benefits companies' record profits but not workers.",
+      "mots_cles": [
+        "jobs report",
+        "57,000 jobs",
+        "June 2026",
+        "no one is hiring",
+        "AI rejection software",
+        "job seekers",
+        "record profits",
+        "recession"
+      ],
+      "texte": ">> When most Americans look at the economy these days, they don't feel positive. Wages are stagnant, jobs are harder to find, and it doesn't help that the cost of, well, everything keeps rising. A weak economy usually spells trouble for the party in power, so it's no [music] surprise the government was eager to celebrate the June 2026 jobs report. The problem? The unemployment rate was the only number worth celebrating. The closer you looked, the more ominous it got. The economy had only added 57,000 jobs in June, which was more than half of what economists had estimated. [music] It was a grim statistic that showed that while the US wasn't in a recession yet, it wasn't [music] moving in the right direction. It backed up what many job seekers were saying, \"No one is hiring.\" For the last few years, especially since the 2020 COVID-19 pandemic, the unemployed have been up against a wall. There are reports of people applying for hundreds of positions and not even getting a single call back. Many are being [music] rejected in seconds by AI software, and people are getting sick of it. The initial response to the jobs report was volatile. Hiring came in way below expectations, and the deeper economists looked, the weirder the report became. There was a pattern, one that had been showing up more and more since the 2008 [music] recession. The economy was coming back, but it wasn't coming back for the workers. While companies were boasting record [music] profits, the employed were finding more work on their desk, and the unemployed were seeing no hiring signs. But for the"
+    },
+    {
+      "id": 63,
+      "debut": 3199.24,
+      "fin": 3260.36,
+      "temps_estime": false,
+      "titre": "Labor force participation falls to 61.5 percent",
+      "resume": "Weak hiring eased pressure on the Federal Reserve to raise interest rates, but behind the scenes the number of people who gave up grew, so the government stopped counting them. The labor force participation rate fell to 61.5% in June 2026, the lowest since March 2021 and worse than during the 2008 recession.",
+      "mots_cles": [
+        "labor force participation",
+        "61.5 percent",
+        "June 2026",
+        "discouraged workers",
+        "2008 recession",
+        "Federal Reserve",
+        "1970s recessions",
+        "unemployment statistics"
+      ],
+      "texte": "people in power, there was no real sense of urgency. For one thing, weaker hiring took some of the pressure [music] off the Federal Reserve to raise interest rates. It avoided what could have been another public clash with the White House. But behind the scenes, something far worse was going on, because it wasn't that the number of people seeking [music] employment was actually going down, it was that the number of people who had given up had increased. That meant the government could stop counting them. As of June 2026, [music] the labor rate, the share of working-age Americans who are either employed or actively looking for work, fell [music] to just 61.5%. It's the lowest level since March 2021. Take out the crushing job losses from early 2020 and 2021, [music] and the numbers haven't been this grim since the major recessions of the 1970s. The current labor rate is worse [music] than during the 2008 recession. Should we be worried? Many analysts say so. [music] Yes, unemployment is falling. Yes, jobs are being added. But the warning signs behind those numbers could be far more troubling, especially if history repeats itself. The data comes from the Bureau"
+    },
+    {
+      "id": 64,
+      "debut": 3260.36,
+      "fin": 3299.44,
+      "temps_estime": false,
+      "titre": "BLS controversy: Commissioner Erica McIntyre's removal",
+      "resume": "The Bureau of Labor Statistics was thrown into controversy in 2025 after Commissioner Erica McIntyre was removed following accusations that jobs data had been manipulated. Pundits said the data could no longer be trusted, causing a stock drop and a costly economic loss, and every jobs report since has been met with skepticism.",
+      "mots_cles": [
+        "Bureau of Labor Statistics",
+        "BLS",
+        "Erica McIntyre",
+        "jobs data manipulation",
+        "2025",
+        "politicized data",
+        "stock drop",
+        "trust in statistics"
+      ],
+      "texte": "of Labor Statistics, [music] which publishes the monthly jobs report. But in 2025, the agency was thrown into controversy after BLS Commissioner Erica McIntyre was removed [music] following accusations that the jobs data had been manipulated. That caused a backlash with real consequences. Pundits stated that the jobs data could no longer be trusted and that it might become politicized under new leadership. That caused a stock drop and an estimated $20 loss in the economy as companies became more cautious. Since then, every new jobs report has been met with skepticism and a magnifying glass as people wonder if the reports are being cooked to ensure higher approval ratings. [music]"
+    },
+    {
+      "id": 65,
+      "debut": 3299.44,
+      "fin": 3323.64,
+      "temps_estime": false,
+      "titre": "Boomer retirements as a possible reason for leaving the labor force",
+      "resume": "Some experts see reasons for hope, noting that younger baby boomers, the largest generation in American history at the time, are reaching retirement age and dropping out of the job market together. The narrator notes they are not being replaced.",
+      "mots_cles": [
+        "baby boomers",
+        "retirement",
+        "labor force",
+        "largest generation",
+        "workforce decline",
+        "demographics"
+      ],
+      "texte": "But even that might not be working anymore. We don't have concrete reasons for why people are exiting the job market, and some experts say there is reasons for hope. After all, we are reaching the point where even the younger boomers are hitting retirement age. That's a huge cohort that'll be dropping out of the job market at roughly the same time. >> [music] >> They were the largest generation in American history at the time, so this will naturally have a big impact. But"
+    },
+    {
+      "id": 66,
+      "debut": 3323.64,
+      "fin": 3379.6,
+      "temps_estime": false,
+      "titre": "The hiring market nightmare for millennials and Gen Z",
+      "resume": "Millennials who came of age in the 2008 recession lost progress, and many Gen Z graduates entered a job market devastated by COVID-19. Job seekers describe hiring as a humiliation ritual of AI gatekeepers, multiple interviews, unpaid test work and rejection without feedback that can take months.",
+      "mots_cles": [
+        "millennials",
+        "Gen Z",
+        "2008 recession",
+        "COVID-19",
+        "job interviews",
+        "AI gatekeeper",
+        "unpaid test work",
+        "unemployment limbo"
+      ],
+      "texte": "they're not being replaced. Across the spectrum of class and educational background, everyone has one nightmare story about the current hiring market. Millennials who came of age during the 2008 recession saw all of their progress go away. It's been a battle to get back to where they were ever since. Many of GenZ graduated into a job market devastated by COVID-19, and they saw countless companies go under while others cut their labor forces to the bone. When you do get an interview, things only [music] get worse. According to job seekers, every element of the process seems to have become a humiliation ritual. Get [music] past the AI gatekeeper and you'll be called in for one interview after another. Maybe you'll be expected to do unpaid labor as a test run, and then eventually get rejected without any feedback. It's a process that can take months. Being unemployed right now and searching for a new job feels like a distressing form of limbo. That's why people are likely to hold on to any job they have with an iron grip, except for when they don't."
+    },
+    {
+      "id": 67,
+      "debut": 3379.6,
+      "fin": 3419.72,
+      "temps_estime": false,
+      "titre": "Having a job is worse: redistributed work and return to office",
+      "resume": "For many millennials and Gen Z, the only thing worse than not having a job is having one: when someone quits or is fired they often are not replaced and the work is redistributed with no extra title or pay. Remote workers who proved more productive during COVID-19 also had it stripped away by return-to-office mandates.",
+      "mots_cles": [
+        "overwork",
+        "no replacement hiring",
+        "return to office",
+        "remote work",
+        "extra responsibility",
+        "burnout",
+        "quitting",
+        "COVID-19"
+      ],
+      "texte": "For many millennials and GenZ, the only thing worse than not having a job is having one. And many of the complaints there come from the same place as the unemployed. Companies aren't hiring, and that means that when someone quits or gets fired, they often don't get replaced. The work [music] simply gets redistributed among the employees. People get more responsibility without any additional title or pay. Making things worse, many [music] people had the chance to work remotely during COVID-19, and they found themselves more productive than ever. Then they had it stripped away when the boss mandated a return to the office. Goodbye filing reports with The Price Is Right in the background, and hello morning commute starting at 6:00 a.m. People have just decided that they are done. The numbers"
+    },
+    {
+      "id": 68,
+      "debut": 3419.72,
+      "fin": 3447.24,
+      "temps_estime": false,
+      "titre": "The real labor force drop may be 720,000, not 507,000",
+      "resume": "The 507,000 people who left the labor force was a household-survey figure that could include more than one person out of work, and the actual decrease in the labor force may be closer to 720,000. The narrator asks what the long-term plan is if people stop seeking work.",
+      "mots_cles": [
+        "507,000",
+        "720,000",
+        "household survey",
+        "labor force decline",
+        "jobs report data",
+        "long-term plan"
+      ],
+      "texte": "were even darker than they appeared at first glance for the jobs report. That 507,000 number that left the labor force, that was a household number. It could reflect more than one person out of work in some cases. The actual number might be closer to 720,000, as that was the decrease in the actual labor force. While not all of those losses might be people directly leaving the job market, it does raise a question. What exactly is the plan long-term if people aren't seeking work"
+    },
+    {
+      "id": 69,
+      "debut": 3447.24,
+      "fin": 3477.8,
+      "temps_estime": false,
+      "titre": "Boomers and older Gen X exit the job market",
+      "resume": "Three generations give three answers, and boomers and older Gen X, who had ample opportunity to build nest eggs, see this as a good time to leave the job market, take their pensions and downsize. There is no guarantee promised benefits will survive if a company goes under.",
+      "mots_cles": [
+        "baby boomers",
+        "Gen X",
+        "pension",
+        "early retirement",
+        "downsizing",
+        "nest egg",
+        "generational differences"
+      ],
+      "texte": "anymore? Look at three different generations and you'll get three different answers. For the boomers and older GenX, they grew up in an era of prosperity and they had ample opportunities to build a nest egg for themselves. While not all of them are retired yet, many look at the market and realize they've been here before. That makes this look like an especially good time to exit the job market, take that pension, and possibly downsize to ensure a comfortable retirement. After all, there's no guarantee that if a company goes under, the promised benefits will still be there. Now, people are nervously watching the stock market."
+    },
+    {
+      "id": 70,
+      "debut": 3477.8,
+      "fin": 3518.44,
+      "temps_estime": false,
+      "titre": "Four recession indicators and non-farm employment",
+      "resume": "Four big recession indicators are all pointing the wrong way, with non-farm employment the one analysts fear most because it is first to slow, far below projections. Industrial production, real retail sales and real income usually slide as employment worsens, and every recession since 1970 started this way.",
+      "mots_cles": [
+        "recession indicators",
+        "non-farm employment",
+        "industrial production",
+        "real retail sales",
+        "real income",
+        "1970 recessions",
+        "spending",
+        "layoffs"
+      ],
+      "texte": "There are four [music] big recession indicators that analysts watch for, and right now they're all pointing in the wrong direction. The first, non-farm employment, is the one where they're most worried. While the jobs market did tick up, it was far below projections. While the other indicators are doing better, this is typically the first one to show a slowdown. Industrial production, real retail sales, and real income typically slide as the employment market gets worse. Every recession since 1970 has started the exact same way. As people find it harder to get a job, their spending decreases, and with it the industrial economy starts to slow down. The boomers are prepared for a recession, but what about everyone else?"
+    },
+    {
+      "id": 71,
+      "debut": 3518.44,
+      "fin": 3547.36,
+      "temps_estime": false,
+      "titre": "Gen X: retire early or reach the finish line",
+      "resume": "Gen X, aged 46 to 61, includes older members nearing retirement who may retire early, take a small pension hit and move to consulting or part-time work if they have enough saved. Others are trying to make it to the finish line, as the last generation that grew up believing a steady 9-to-5 job was dependable.",
+      "mots_cles": [
+        "Gen X",
+        "early retirement",
+        "pension",
+        "consulting",
+        "part-time work",
+        "9-to-5 job",
+        "layoffs",
+        "generational economics"
+      ],
+      "texte": "Gen X currently ranges between 46 and 61 years old. That means the older ones are trending toward retirement age now. [music] For some, it might be worth retiring early and getting out of the market while it's good. Sure, they might take a small hit to their pension, but if they have enough saved, they can pivot to their consulting or part-time work without fearing layoffs. For others, they're simply trying to make it to the finish line. This is the last generation that grew up with the idea that a steady 9-5 [music] job was something they could count on. The crisis isn't who is leaving the market,"
     }
   ]
 }
