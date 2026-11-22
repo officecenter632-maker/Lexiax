@@ -1,0 +1,575 @@
+{
+  "version": 1,
+  "video_id": "4ye6BMbA3UU",
+  "titre_video": "Ex-Google Executive: AI is Ending Capitalism",
+  "duree_s": 885.12,
+  "avancement": {
+    "lignes_traitees": 204,
+    "fin_traitee_s": 885.12,
+    "nb_lignes_total": 204,
+    "complet": true
+  },
+  "nb_segments": 31,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.24,
+      "fin": 12.48,
+      "temps_estime": false,
+      "titre": "Hook: AI is ending capitalism",
+      "resume": "Opening claim that degrees and job loyalty are now worthless. The biggest shift in corporate America is underway and, because of AI, it is said to dismantle global capitalism.",
+      "mots_cles": [
+        "AI",
+        "end of capitalism",
+        "degree",
+        "job loyalty",
+        "corporate America",
+        "economic shift"
+      ],
+      "texte": "Your degree and job loyalty are worth nothing. The biggest shift in corporate America is already underway, one that will dismantle global capitalism. And it’s all because of one thing… AI."
+    },
+    {
+      "id": 2,
+      "debut": 12.48,
+      "fin": 30.88,
+      "temps_estime": false,
+      "titre": "Boardrooms replace white-collar workers with code",
+      "resume": "Boardrooms are replacing high-earning white-collar workers with automated code that costs a fraction of a cent to run. Executives focus on the profit column and ignore warning signs, thinking they are automating the workforce while actually decimating the economy.",
+      "mots_cles": [
+        "automation",
+        "white-collar workers",
+        "replacing employees",
+        "profit",
+        "boardrooms",
+        "economy",
+        "automated code"
+      ],
+      "texte": "Right now, boardrooms across the country are replacing high earning white collar workers with automated code that costs a fraction of a cent to run. Executives are thinking only of the profit column and ignoring the warning signs right in front of them. They think they’re automating the workforce… they’re actually decimating the economy."
+    },
+    {
+      "id": 3,
+      "debut": 30.88,
+      "fin": 71.04,
+      "temps_estime": false,
+      "titre": "Revenue per employee: Anthropic, OpenAI, Meta, Google",
+      "resume": "Introduces revenue per employee, a corporate finance metric drawing a stark dividing line in American business. Anthropic makes about $9 million per employee, OpenAI $5.6 million, Meta $2.5 million, and Anthropic earns more than 4 times Google's revenue per employee.",
+      "mots_cles": [
+        "revenue per employee",
+        "Anthropic",
+        "OpenAI",
+        "Meta",
+        "Google",
+        "productivity",
+        "corporate finance"
+      ],
+      "texte": "At some point over the past 3 years, a specific number started circulating through corporate finance departments. It’s called revenue per employee, and it measures how much money a company generates for every person it employs. In today’s economic landscape, that number is drawing the starkest dividing line in the history of American business. The AI company behind Claude, Anthropic, generates approximately $9 million in revenue per employee. OpenAI generates $5.6 million dollars per employee. Meta? $2.5 million. Anthropic, a company most companies could not name two years ago, is making more than 4 times the revenue per employee that Google does."
+    },
+    {
+      "id": 4,
+      "debut": 71.04,
+      "fin": 87.36,
+      "temps_estime": false,
+      "titre": "Executives ask what their margins would look like",
+      "resume": "Corporate executives are not philosophers or ethically inclined; seeing the revenue-per-employee numbers, they ask what their margins would look like if they ran their company the same way. Some companies did not wait to find out.",
+      "mots_cles": [
+        "margins",
+        "executives",
+        "ethics",
+        "profitability",
+        "bottom line",
+        "company comparison"
+      ],
+      "texte": "Corporate executives are not philosophers… and they're not exactly ethically inclined. Dollars are the bottom line. Most of them see these numbers and ask a very simple question: What would our margins look like if we ran our company the same way? Some companies didn’t wait to find out."
+    },
+    {
+      "id": 5,
+      "debut": 87.36,
+      "fin": 101.12,
+      "temps_estime": false,
+      "titre": "Meta, Block and Oracle cut thousands of jobs",
+      "resume": "Meta, Block and Oracle cut thousands of jobs within months, each citing organizational efficiency while really aiming to embed artificial intelligence across operations. The narrator calls it a brutal cull.",
+      "mots_cles": [
+        "Meta",
+        "Block",
+        "Oracle",
+        "layoffs",
+        "organizational efficiency",
+        "AI in operations",
+        "job cuts"
+      ],
+      "texte": "Meta, Block and Oracle axed thousands of jobs in a matter of months. Every single one claimed it was for organizational efficiency; really it was to “embed artificial intelligence across… operations.” It was a brutal cull."
+    },
+    {
+      "id": 6,
+      "debut": 101.12,
+      "fin": 130.8,
+      "temps_estime": false,
+      "titre": "Microsoft's unprecedented voluntary retirement program",
+      "resume": "Microsoft launched a voluntary retirement program, a first in its 51-year history, offering buyouts to workers whose age plus years of service totals 70 or more. It had survived recessions, the dot-com crash and the smartphone era without such a move; it took AI.",
+      "mots_cles": [
+        "Microsoft",
+        "voluntary retirement",
+        "buyouts",
+        "age plus years of service",
+        "51-year history",
+        "unprecedented",
+        "job cuts"
+      ],
+      "texte": "But no one was as desperate as Microsoft. They did something unprecedented in their 51-year history. The tech giants resorted to a voluntary retirement program. Full buyouts were offered to any worker whose age plus years of service totalled 70 or more. It was a calculated move to get the dead weight out the door. Microsoft survived recessions, the dot-com crash, and the entire smartphone era without even considering that move. It took AI to get there."
+    },
+    {
+      "id": 7,
+      "debut": 130.8,
+      "fin": 156.16,
+      "temps_estime": false,
+      "titre": "Corporate speak hides the replacement of humans",
+      "resume": "No company says it is replacing humans with software; they use words like restructuring, streamlining, rightsizing and strategic workforce realignment. Executives follow their fiduciary duty to shareholders because the spreadsheet demanded cuts.",
+      "mots_cles": [
+        "corporate speak",
+        "restructuring",
+        "euphemisms",
+        "fiduciary duty",
+        "shareholders",
+        "workforce realignment",
+        "rightsizing"
+      ],
+      "texte": "None of these companies announced they were explicitly replacing humans with software. Instead, they buried the truth in corporate speak. Restructuring. Streamlining. Rightsizing. Offsetting “other investments.” Strategic workforce realignment. It all means the same thing. And they’re all following their fiduciary duty to shareholders with the same logic that made them successful in the first place. The spreadsheet demanded cuts, so that’s what they’ll do."
+    },
+    {
+      "id": 8,
+      "debut": 156.16,
+      "fin": 173.12,
+      "temps_estime": false,
+      "titre": "Laid-off workers with debt built on a permanent salary",
+      "resume": "Most laid-off employees had mortgages, car payments and credit card balances. Their debt relied on the assumption that a six-figure salary was permanent, which had been true for 30 years.",
+      "mots_cles": [
+        "debt",
+        "mortgage",
+        "six-figure salary",
+        "car payments",
+        "credit cards",
+        "laid-off workers",
+        "job security"
+      ],
+      "texte": "The vast majority of those tens of thousands of employees had a mortgage payment due on the first of the month. They had car payments. Credit card balances to pay. They had the kind of debt that relies on the assumption that their six-figure salary was a permanent condition… Because for the past 30 years, it was."
+    },
+    {
+      "id": 9,
+      "debut": 173.12,
+      "fin": 188.4,
+      "temps_estime": false,
+      "titre": "The blind spot: what happens to spending when you lay off the consumer",
+      "resume": "Leaders forgot that laying off the consumer hurts consumer spending. Every boardroom's blind spot is focusing on slashing expenses today instead of who will be left to buy products tomorrow.",
+      "mots_cles": [
+        "consumer spending",
+        "blind spot",
+        "cost cutting",
+        "demand",
+        "consumers",
+        "boardrooms"
+      ],
+      "texte": "But there’s one thing all of these leaders of industry forgot. What happens to consumer spending when you lay off the consumer? That’s the blind spot for every boardroom. Executives only care about slashing expenses today… not who is left to buy the products tomorrow."
+    },
+    {
+      "id": 10,
+      "debut": 188.4,
+      "fin": 213.04,
+      "temps_estime": false,
+      "titre": "Credit card debt and delinquencies among high earners",
+      "resume": "In 2024, outstanding US credit card debt reached $1.14 trillion. The fastest-growing delinquency category was consumers earning $150,000 or more, whose delinquency rate rose 130% between January 2023 and December 2024.",
+      "mots_cles": [
+        "credit card debt",
+        "$1.14 trillion",
+        "delinquency",
+        "$150,000",
+        "high earners",
+        "2024",
+        "default rate"
+      ],
+      "texte": "In 2024 there was $1.14 trillion dollars in outstanding credit card debt in the United States. But that debt isn’t just resting among lower-income households scrambling to make ends meet. The fastest growing delinquency category was consumers earning $150,000 or more. Between January 2023 and December 2024, their delinquency rate surged by 130%."
+    },
+    {
+      "id": 11,
+      "debut": 213.04,
+      "fin": 245.6,
+      "temps_estime": false,
+      "titre": "White-collar job cuts in 2025 and 2026",
+      "resume": "For three consecutive years white-collar sectors cut jobs on net while the economy grew. In February 2026, 92,000 white-collar positions were eliminated, and 1.1 million layoffs were announced in 2025, the highest since the pandemic, with GDP and the stock market still fine.",
+      "mots_cles": [
+        "layoffs",
+        "white-collar jobs",
+        "92,000 positions",
+        "1.1 million",
+        "2025",
+        "2026",
+        "GDP",
+        "pandemic"
+      ],
+      "texte": "For three consecutive years, white collar sectors have cut jobs on net while the rest of the economy technically grew. In February 2026 alone, 92,000 white-collar positions were eliminated. In all of 2025, companies announced 1.1 million layoffs, the highest total since the height of the pandemic, when the entire world had shut down. This wasn’t caused by a run-of-the-mill recession. GDP was growing and the stock market, broadly speaking, was fine, What isn’t fine are the empty desks left behind."
+    },
+    {
+      "id": 12,
+      "debut": 245.6,
+      "fin": 281.84,
+      "temps_estime": false,
+      "titre": "AI produces but does not consume: capitalism runs on consumer spending",
+      "resume": "The AI replacing workers has no mortgage or car payments and buys nothing; it only produces. American capitalism has run for 80 years on consumer spending, about two-thirds of GDP, funded by high-income jobs that carry the debt load the banking system is built on.",
+      "mots_cles": [
+        "AI does not consume",
+        "consumer spending",
+        "two-thirds of GDP",
+        "American capitalism",
+        "high-income jobs",
+        "debt",
+        "banking system"
+      ],
+      "texte": "The AI that replaced them doesn’t have a mortgage or car payments due on the first of the month. It doesn’t buy anything. It only produces. It doesn’t consume, in the traditional sense. Or in the capitalistic sense. And that’s a fatal problem. Because the version of capitalism America has run for 80 years is powered by consumer spending. About two-thirds of U.S. GDP comes from people buying things. These people historically got their money from jobs. Specifically, high-income jobs, because high-income earners carry a disproportionate share of the debt load the banking system is built on top of."
+    },
+    {
+      "id": 13,
+      "debut": 281.84,
+      "fin": 306.48,
+      "temps_estime": false,
+      "titre": "Eliminating the six-figure worker undermines bank loans",
+      "resume": "Eliminating six-figure workers may improve a balance sheet short term, but removes people making mortgage payments, car payments and credit card minimums that keep banks' loan portfolios healthy. Only empty desks remain in these companies.",
+      "mots_cles": [
+        "mortgage payments",
+        "car loans",
+        "balance sheet",
+        "six-figure workers",
+        "credit portfolio",
+        "empty desks",
+        "banks"
+      ],
+      "texte": "When you eliminate the six-figure worker, you do 2 things. You might improve your balance sheet over the short term… But you also eliminate tens, if not hundreds of thousands of people making the mortgage payment that services your bank's loan. You eliminate the car payment backstopping the auto lender. You eliminate the monthly minimum keeping a consumer credit portfolio looking healthy. All that’s left in these companies are empty desks."
+    },
+    {
+      "id": 14,
+      "debut": 306.48,
+      "fin": 326.56,
+      "temps_estime": false,
+      "titre": "Empty desks: office vacancy rates",
+      "resume": "Office vacancy across major US markets sits between about 18 and 22%. San Francisco, historically the most expensive market, peaked at 36.7% and has improved to about 30%, but the real estate collapse is described as just window dressing.",
+      "mots_cles": [
+        "office vacancy",
+        "San Francisco",
+        "36.7%",
+        "empty offices",
+        "commercial real estate",
+        "real estate collapse"
+      ],
+      "texte": "Across major U.S. markets, office vacancy currently sits between about 18 and 22%. In San Francisco, historically the most expensive commercial real estate market in the country, vacancy peaked at 36.7%. It has since “improved” to about 30%. The real estate collapse is just window dressing."
+    },
+    {
+      "id": 15,
+      "debut": 326.56,
+      "fin": 365.76,
+      "temps_estime": false,
+      "titre": "Regional banks exposed to commercial real estate",
+      "resume": "The real impact is in the banking system, at small regional banks and community lenders rather than JPMorgan or Citigroup, where commercial real estate is 25 to 40% of loan books. A St. Louis office tower was appraised at 52 cents on the loan dollar and the bank only made an internal mark-to-market adjustment.",
+      "mots_cles": [
+        "regional banks",
+        "commercial real estate",
+        "St. Louis",
+        "52 cents",
+        "mark-to-market",
+        "loan book",
+        "bank exposure"
+      ],
+      "texte": "The real impact is in the banking system. The firms that financed those empty office towers sitting aren’t the ones you’d expect, like JPMorgan Chase or Citigroup. The banks holding catastrophic exposure are the small regional banks and community lenders. For these institutions, commercial real estate loan portfolios represent anywhere from 25 to 40% of their total loan book. An office tower in St. Louis was recently appraised at 52 cents on the original loan dollar. The bank that financed it didn’t make a grand announcement. Instead, they made an internal adjustment to what accountants call the market-to-market value. It’s a classic delaying tactic to help pretend everything is ok."
+    },
+    {
+      "id": 16,
+      "debut": 365.76,
+      "fin": 405.36,
+      "temps_estime": false,
+      "titre": "Underwater loans, credit crunch and two fuses toward the same explosion",
+      "resume": "When office buildings lose value, loans go underwater and regional banks face a balance sheet crisis. Banks stop approving loans, small businesses lose capital access and freeze hiring while 92,000 white-collar jobs are being shed; commercial real estate and consumer debt are two fuses burning toward the same explosion.",
+      "mots_cles": [
+        "underwater loans",
+        "banking crisis",
+        "credit crunch",
+        "small businesses",
+        "hiring freezes",
+        "commercial real estate",
+        "consumer debt",
+        "domino effect"
+      ],
+      "texte": "This is the same playbook that signaled every banking crash in history. When office buildings lose value, loans secured against them go underwater. The debt owed on is more than what the asset is now worth. When loans go underwater at scale, the regional banks holding them face a balance sheet crisis. To protect themselves, the banks stop approving loans. That means small businesses lose access to capital, which results in hiring freezes. Hiring freezes are the last thing America needs. Especially when the country is already shedding 92,000 white-collar jobs. The commercial real estate collapse and consumer debt cascade aren't separate issues. They’re two fuses burning toward the same explosive."
+    },
+    {
+      "id": 17,
+      "debut": 405.36,
+      "fin": 433.6,
+      "temps_estime": false,
+      "titre": "AI becomes the top cited reason for layoffs in 2026",
+      "resume": "In May 2026 AI was cited for 40% of US layoffs, the highest monthly share on record, and was already the most common justification in March and April. Almost 176,000 jobs have been attributed to AI-driven cuts since 2023, and unemployment sits at 4.4%.",
+      "mots_cles": [
+        "AI layoffs",
+        "May 2026",
+        "40% of layoffs",
+        "176,000 jobs",
+        "unemployment 4.4%",
+        "statistics",
+        "2023"
+      ],
+      "texte": "In May 2026, AI was cited as the reason for 40% of all U.S. layoffs, the highest monthly proportion ever recorded. In March and April of the same year, it was already the single most common justification for workforce reductions. Since tracking began in 2023, almost 176,000 jobs have been attributed to AI-driven cuts. The unemployment rate in the country now sits at 4.4%, the highest since the early pandemic recovery."
+    },
+    {
+      "id": 18,
+      "debut": 433.6,
+      "fin": 467.04,
+      "temps_estime": false,
+      "titre": "Young graduates hit and the downward spiral",
+      "resume": "Employment for workers aged 22 to 25 in AI-exposed occupations fell 16%, and software developers in that age group are down 20% since late 2022; Big Tech new-graduate hiring halved by 2025. The entryway to the professional class is caving in, starving housing, retail and banking.",
+      "mots_cles": [
+        "young graduates",
+        "ages 22 to 25",
+        "software developers",
+        "entry-level jobs",
+        "Big Tech hiring",
+        "downward spiral",
+        "professional class"
+      ],
+      "texte": "Workers aged 22 to 25 in AI-exposed occupations have seen a 16% percent employment decline. Software developers in that same age bracket are down 20% since late 2022. Big Tech new-graduate hiring d had halved by 2025. The entryway into the white-collar professional class has started to cave in. And it triggers a vicious, downward spiral. When AI replaces the worker, you lose the person keeping the housing market, retail sector, and banking industry alive. Corporate America is starving the very system that feeds it."
+    },
+    {
+      "id": 19,
+      "debut": 467.04,
+      "fin": 512.24,
+      "temps_estime": false,
+      "titre": "PwC's counterargument and Goldman Sachs and McKinsey forecasts",
+      "resume": "PwC's 2026 AI Jobs Barometer finds AI-exposed companies growing headcount faster and paying wages 42% higher; the narrator rebuts it as survivorship bias since replaced workers are not counted. Goldman Sachs estimates 6 to 7% of the workforce displaced and McKinsey up to 30% of work hours automatable by 2030.",
+      "mots_cles": [
+        "PwC",
+        "AI Jobs Barometer",
+        "survivorship bias",
+        "42% wage premium",
+        "Goldman Sachs",
+        "McKinsey",
+        "2030",
+        "automatable work hours"
+      ],
+      "texte": "PwC’s 2026 AI Jobs Barometer found that companies most exposed to AI are actually growing headcount faster than their less-exposed competitors. They’re also paying wages that are, on average, 42% higher. On its face, it looks like a counterargument. It isn't. The workers thriving inside AI-exposed companies are just the ones who narrowly survived the first cut. The ones who were replaced are not included in that survey. They’re not counted in the wage premium, or reflected in the headcount growth. Goldman Sachs estimates that between 6 and 7% of the U.S. workforce could be displaced under widespread AI adoption. McKinsey puts the share of U.S. work hours automatable by 2030 at up to 30%."
+    },
+    {
+      "id": 20,
+      "debut": 512.24,
+      "fin": 552.96,
+      "temps_estime": false,
+      "titre": "Family offices pour money into AI",
+      "resume": "While the middle class is engineered out, the architects of AI move their money into family offices, private wealth-management firms with no duty to disclose. 65% of family offices now prioritize AI investments, up from under 30% in 2023, and about 80% among those managing over $1 billion.",
+      "mots_cles": [
+        "family offices",
+        "wealth management",
+        "generational wealth",
+        "AI investment",
+        "65%",
+        "billionaires",
+        "opacity"
+      ],
+      "texte": "But while the middle class is being engineered out of existence, the architects behind it all are moving their own money. They’re hiding their money in a shadowy finance sector that most people haven’t heard of. Family offices. These aren’t small family owned businesses. They’re private, elite wealth-management firms built for the sole purpose of protecting generational money. They have no public shareholders to report to and zero obligation to tell anyone what they’re doing with the capital they manage. 65% of family offices now prioritize AI investments, up from under 30% in 2023. Among single-family offices managing more than $1 billion, that figure is closer to 80%."
+    },
+    {
+      "id": 21,
+      "debut": 552.96,
+      "fin": 598.24,
+      "temps_estime": false,
+      "titre": "Buying the racetrack: AI infrastructure, Bezos and ICONIQ",
+      "resume": "Family offices invest in infrastructure rather than one AI company: data centers, power grid capacity and nuclear energy deals for AI compute clusters, with 45% going to foundation models and physical infrastructure. It is like buying the racetrack instead of betting on a horse; Bezos' family office committed $12 billion and ICONIQ Capital co-led Anthropic's $13 billion round.",
+      "mots_cles": [
+        "AI infrastructure",
+        "data centers",
+        "nuclear energy",
+        "Jeff Bezos",
+        "ICONIQ Capital",
+        "Anthropic",
+        "funding round",
+        "compute"
+      ],
+      "texte": "Buying stock in an AI company is gambling that one company wins. This is not what these family offices are doing. They’re investing in the infrastructure. The data centers. Power grid capacity. Nuclear energy deals that are structured specifically to serve AI compute clusters. 45% of family office AI deployment goes into foundation models and physical infrastructure. It is the difference between betting on a horse and buying the racetrack. Jeff Bezos’ family office alone has committed $12 billion to AI infrastructure. ICONIQ Capital, which manages $80 billion in assets on behalf of tech billionaires, co-led Anthropic’s $13 billion dollar funding round. When the people who built the game start buying the board it’s played on, you need to pay attention."
+    },
+    {
+      "id": 22,
+      "debut": 598.24,
+      "fin": 634.16,
+      "temps_estime": false,
+      "titre": "Anthropic report: GDP up 32.4% and unemployment at 11.9%",
+      "resume": "In September 2026 Anthropic published a report modeling three scenarios for the US economy by 2030. In the most extreme, where AI performs about 30% of cognitive tasks, GDP grows 32.4% above baseline, doubling every 4.5 years, while unemployment reaches 11.9%.",
+      "mots_cles": [
+        "Anthropic report",
+        "2030 scenarios",
+        "GDP 32.4%",
+        "unemployment 11.9%",
+        "cognitive tasks",
+        "jobless growth",
+        "September 2026"
+      ],
+      "texte": "In September 2026, Anthropic published an economic research report modeling 3 scenarios for the U.S. economy by 2030. In their most extreme scenario, the one where AI performs roughly 30% of all cognitive tasks, U.S. GDP grows 32.4% above baseline. That would have the U.S. economy doubling every 4 and a half years. But at the exact same time, white collar employment hits 17.9%. Overall unemployment reaches 11.9%. How can an economy grow at record speed while millions of office workers lose their jobs?"
+    },
+    {
+      "id": 23,
+      "debut": 634.16,
+      "fin": 671.68,
+      "temps_estime": false,
+      "titre": "Who gets paid: workers' share falls from 60 to 45 cents",
+      "resume": "Historically each dollar of output splits into about 60 cents for workers and 40 for owners. In Anthropic's scenario workers get 45 cents and owners the rest, so the pie grows while workers' slice shrinks, which is why family offices buy AI infrastructure, like holding the devil's contract.",
+      "mots_cles": [
+        "labor share",
+        "60 cents",
+        "45 cents",
+        "owners",
+        "family offices",
+        "inequality",
+        "deal with the devil",
+        "income split"
+      ],
+      "texte": "It’s because of the fundamental shift in who gets paid. For most of modern history, every dollar the American economy produces gets split two ways: workers took home about 60 cents. Owners took the other 40. In Anthropic's scenario, that flips. Workers take home 45 cents. Owners take the rest… and then some. The economic pie gets bigger. Workers just get a smaller slice. That’s exactly why family offices are aggressively buying up AI infrastructure. They aren’t trying to save the middle class. They’re positioning themselves to reap the rewards. It’s like selling your soul to the devil. Except the family offices are the ones holding the contract."
+    },
+    {
+      "id": 24,
+      "debut": 671.68,
+      "fin": 712.56,
+      "temps_estime": false,
+      "titre": "Mo Gawdat: hell before heaven for 15 years",
+      "resume": "Engineers and executives sound the alarm as they resign. Mo Gawdat, former Chief Business Officer at Google X, said the next 15 years would be hell before heaven, with 30% of entry-level white-collar roles in some sectors gone by 2028 and CEOs not safe either.",
+      "mots_cles": [
+        "Mo Gawdat",
+        "Google X",
+        "hell before heaven",
+        "15 years",
+        "entry-level jobs",
+        "2028",
+        "whistleblowers",
+        "CEOs"
+      ],
+      "texte": "It’s never a great sign in any industry when the people who built the product start telling you how dangerous it actually is. But that’s what’s happening in the tech world right now. Engineers and execs are sounding the alarm as they file their resignation letters. Mo Gawdat built artificial intelligence inside Google X as Chief Business Officer. He was one of the architects of the machine. On his departure, he went on a podcast and said the next 15 years would be, in his exact words, “hell before we get to heaven.” He believed that entry-level white-collar work would face severe displacement, with 30% of roles in certain sectors gone by 2028. He also noted that CEO’s weren’t safe either."
+    },
+    {
+      "id": 25,
+      "debut": 712.56,
+      "fin": 754.16,
+      "temps_estime": false,
+      "titre": "Geoffrey Hinton: massive unemployment and extinction risk",
+      "resume": "Geoffrey Hinton, the grandfather of AI, left Google in 2023 to speak freely. He warns of massive unemployment, inequality and lost dignity, says governments are not ready, and gives a 10 to 20% chance that AI wipes us out.",
+      "mots_cles": [
+        "Geoffrey Hinton",
+        "grandfather of AI",
+        "massive unemployment",
+        "extinction risk",
+        "10-20%",
+        "governments",
+        "Google",
+        "inequality"
+      ],
+      "texte": "Geoffrey Hinton is on a different level to most tech startup CEOs. He’s the reason the AI industry exists in the first place. The so-called grandfather of AI spent a decade at Google before quitting in 2023 specifically so he could say the quiet parts out loud. AI, he claimed, will create \"massive\" unemployment, accelerate inequality, and erode human dignity and purpose. In 2026, he updated his warning to add that the new wave is already arriving and governments are nowhere near ready for it. Perhaps more shockingly, he claimed humanity was at a turning point and there was a 10-20% chance AI could decide it doesn’t need us at all and wipe us out. That’s just his gut feeling."
+    },
+    {
+      "id": 26,
+      "debut": 754.16,
+      "fin": 785.36,
+      "temps_estime": false,
+      "titre": "Researchers quitting OpenAI and Anthropic, Jacob Coxon",
+      "resume": "Researchers at OpenAI and Anthropic are quitting and calling for slowdowns, flagging risks absent from AGI press releases. Anthropic's Jacob Coxon says labs race toward systems that could kill everyone, with many colleagues believing it could happen by 2030.",
+      "mots_cles": [
+        "resignations",
+        "AI researchers",
+        "Jacob Coxon",
+        "superintelligence",
+        "existential risk",
+        "OpenAI",
+        "Anthropic",
+        "AGI"
+      ],
+      "texte": "There’s a pattern emerging from inside OpenAI and Anthropic themselves. Researchers are quitting and calling for slowdowns. They’re flagging risks that don’t fit into press releases about AGI benefits. “The world is in peril,” is the standard refrain coming from many people closest to the technology. Anthropic’s Jacob Coxon claimed that “aI labs are racing toward systems that could kill everyone.” He added that many of his colleagues “earnestly believe it could kill us all” by 2030. The race for superintelligence, he believes, is gambling with all of our lives."
+    },
+    {
+      "id": 27,
+      "debut": 785.36,
+      "fin": 802.48,
+      "temps_estime": false,
+      "titre": "Sam Altman and OpenAI's IPO",
+      "resume": "Until 2025 Sam Altman predicted an AI jobs apocalypse, then his warnings were walked back as OpenAI's IPO timing came into focus. Disruption that collapses consumer demand is a harder prospectus to file.",
+      "mots_cles": [
+        "Sam Altman",
+        "OpenAI",
+        "IPO",
+        "jobs apocalypse",
+        "prospectus",
+        "walked-back warnings"
+      ],
+      "texte": "As late as 2025, Sam Altman was predicting an AI jobs apocalypse. Then OpenAI’s IPO timing came into focus, and suddenly the warnings got walked back considerably. Disruption is a compelling story. Disruption that collapses consumer demand is a harder prospectus to file."
+    },
+    {
+      "id": 28,
+      "debut": 802.48,
+      "fin": 833.92,
+      "temps_estime": false,
+      "titre": "Man Group: don't count on the U.S. consumer when the AI bubble bursts",
+      "resume": "Hedge fund Man Group, managing $175 billion, published a 2026 note titled \"When the AI Bubble Bursts, Don't Count on the U.S. Consumer.\" The narrator argues such a firm has already moved money, accounting for the collapse of the demand engine.",
+      "mots_cles": [
+        "Man Group",
+        "hedge fund",
+        "AI bubble",
+        "U.S. consumer",
+        "$175 billion",
+        "2026 note",
+        "demand collapse"
+      ],
+      "texte": "One of the largest hedge funds on the planet, the Man Group, published a note in 2026 entitled, “When the AI Bubble Bursts, Don’t Count on the U.S. Consumer.” Notes like these aren’t meant to be informative. The Man Group manages $175 billion in assets. When a firm of that size tells its clients not to count on the American consumer, they’ve already moved the money in anticipation. Their decision will be backed by a spreadsheet that very few will see. The collapse of the demand engine is already accounted for by them. And they’re not the only ones."
+    },
+    {
+      "id": 29,
+      "debut": 833.92,
+      "fin": 849.36,
+      "temps_estime": false,
+      "titre": "Goldman Sachs: rising unemployment and white-collar pay cuts",
+      "resume": "Goldman Sachs warns AI-fueled layoffs could raise unemployment by the end of 2026. White-collar workers who still have jobs are taking pay cuts to stay employed, a sign leverage has shifted permanently away from workers.",
+      "mots_cles": [
+        "Goldman Sachs",
+        "unemployment",
+        "pay cuts",
+        "white-collar workers",
+        "labor leverage",
+        "labor market",
+        "end of 2026"
+      ],
+      "texte": "Goldman Sachs is warning that AI-fueled layoffs could raise the unemployment rate by the end of 2026. And white-collar workers who still have jobs are taking pay cuts just to stay employed. It’s a sign of a labor market that has already shifted leverage away from the worker, permanently."
+    },
+    {
+      "id": 30,
+      "debut": 849.36,
+      "fin": 872.56,
+      "temps_estime": false,
+      "titre": "Conclusion: nobody knows how it ends, the elite protect themselves",
+      "resume": "Cites 300 million jobs globally per Goldman, half of white-collar entry-level positions, and 15 years of hell per Gawdat. Hedge funds are hedging, researchers resigning and the elite moving wealth off the grid, having accepted a world without the middle class.",
+      "mots_cles": [
+        "300 million jobs",
+        "middle class",
+        "corporate elite",
+        "hedge funds",
+        "conclusion",
+        "wealth",
+        "uncertainty"
+      ],
+      "texte": "300 million jobs globally, says Goldman. Half of all white-collar entry-level positions, say the experts. 15 years of hell, says the man who built the machine. Nobody knows how it ends. But the hedge funds are hedging, the researchers are resigning, and the corporate elite are moving their wealth off the grid. They aren’t worrying about the death of the middle class. They’ve already accepted a world without them."
+    },
+    {
+      "id": 31,
+      "debut": 872.56,
+      "fin": 885.12,
+      "temps_estime": false,
+      "titre": "Outro and pointer to the AI safety teams video",
+      "resume": "AI is advancing faster than anyone expected and experts are sounding the alarm. Viewers are invited to watch \"Why the AI Safety Teams Are Gone\" to see how close humanity is to losing the AI revolution.",
+      "mots_cles": [
+        "AI safety",
+        "safety teams",
+        "call to action",
+        "recommended video",
+        "AI revolution",
+        "expert alarm"
+      ],
+      "texte": "AI is advancing faster than anyone expected. And that’s got industry experts sounding the alarm. Watch “Why the AI Safety Teams Are Gone” to find out how close humanity is to losing the AI revolution. Or click on this."
+    }
+  ]
+}
