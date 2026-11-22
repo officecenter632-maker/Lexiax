@@ -1,0 +1,509 @@
+{
+  "version": 1,
+  "video_id": "IpheDQ5v6oQ",
+  "titre_video": "Karma Just Hit Roblox. Hard.",
+  "duree_s": 894.13,
+  "avancement": {
+    "lignes_traitees": 204,
+    "fin_traitee_s": 894.13,
+    "nb_lignes_total": 204,
+    "complet": true
+  },
+  "nb_segments": 26,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.16,
+      "fin": 30.32,
+      "temps_estime": false,
+      "titre": "Hook: Roblox as an addictive financial machine facing a reckoning",
+      "resume": "The video opens by calling Roblox not a harmless playground but an unregulated, addictive financial machine built for endless growth. It says the long-delayed reckoning has arrived as the empire built on amateur youth creators collides with the law, and claims the game as people know it is dying.",
+      "mots_cles": [
+        "Roblox",
+        "reckoning",
+        "addictive",
+        "financial machine",
+        "youth creators",
+        "law",
+        "empire collapsing",
+        "kids platform"
+      ],
+      "texte": "Most people think Roblox is a harmless digital playground for kids… it’s not. But behind the scenes it’s something much more sinister. An unregulated, addictive financial machine that was designed for endless growth. No matter the cost. But now, the long delayed reckoning is here. For the first time, this empire built on amateur youth creators has collided with the law, and the price of doing business on Roblox may be too high for much of its fanbase. The entire might be changing forever and the game you know… is dead."
+    },
+    {
+      "id": 2,
+      "debut": 30.32,
+      "fin": 78.8,
+      "temps_estime": false,
+      "titre": "What Roblox is and how it conquered kids",
+      "resume": "Roblox is a gaming platform where users program their own games in a block-based sandbox, created by founders David Baszucki and Eric Cassel. It has over 85 million daily users, some creators earn millions, and roughly half of kids under 16 use it, mostly playing in other people's games as their first social media.",
+      "mots_cles": [
+        "Roblox",
+        "David Baszucki",
+        "Eric Cassel",
+        "user-generated games",
+        "85 million daily users",
+        "kids under 16",
+        "first social media",
+        "coding sandbox"
+      ],
+      "texte": "At first glance, Roblox seems to be the perfect mousetrap. It’s a major gaming platform designed around letting users program their own games. Founders David Baszucki and Eric Cassel developed a simple block based sandbox where players code their own interactive worlds. The site became a massive ecosystem, allowing millions to practice their coding skills, and build global communities. And it succeeded beyond its creators’ wildest dreams. Today, Roblox has a user-base of over 85 million daily users. Its top players have monetized game design to the point of becoming literal millionaires. But the most shocking aspect is the chokehold it has on American children. Roughly half of kids under 16 are regular Roblox users. While a small number design their own worlds, the majority play in other people’s sandboxes. For this generation, Roblox is a rite of passage that serves as their first form of social media."
+    },
+    {
+      "id": 3,
+      "debut": 78.8,
+      "fin": 107.68,
+      "temps_estime": false,
+      "titre": "The connections list and the safety question",
+      "resume": "Roblox lets users create games, customize avatars and build trophy cases, but its connections list is the most controversial feature. Users can add up to a thousand players and message or voice-chat in real time, which raises the question of whether the platform is safe.",
+      "mots_cles": [
+        "connections list",
+        "friend list",
+        "real-time messaging",
+        "voice chat",
+        "avatar customization",
+        "1,000 connections",
+        "platform safety",
+        "Roblox features"
+      ],
+      "texte": "And that’s why the empire is collapsing. Roblox operates on different levels: you can create games, play them, customize avatar skins and build trophy cases. But the most controversial element is its connections list. It’s similar to a friend list on Facebook or Twitter, where users can add up to a thousand players, message each other in real time or voice-chat inside a shared game experience. While many have met life-long friends on the site, it poses a huge question… Is it actually safe?"
+    },
+    {
+      "id": 4,
+      "debut": 107.68,
+      "fin": 135.12,
+      "temps_estime": false,
+      "titre": "Slipping through social media age restrictions",
+      "resume": "Most major platforms such as Facebook require users to be 13, and Australia banned under-16s from social media. Roblox avoided the restrictions by arguing it is primarily a gaming platform rather than a social media site, which gave it its first of many black eyes.",
+      "mots_cles": [
+        "social media restrictions",
+        "age 13 minimum",
+        "Australia ban under 16",
+        "gaming platform not social media",
+        "Facebook",
+        "regulation loophole",
+        "Roblox",
+        "children online"
+      ],
+      "texte": "Most major platforms, like Facebook, require users to be 13 years old. A growing global push has demanded social media restrictions on kids. Australia even banned all kids under 16 from social media, forcing millions off their existing accounts. But Roblox slipped through the cracks. The company argues it isn’t considered a social media site. By claiming it’s primarily a gaming platform, it managed to bypass the bands. And that gave Roblox its first black eye of many."
+    },
+    {
+      "id": 5,
+      "debut": 135.12,
+      "fin": 158.24,
+      "temps_estime": false,
+      "titre": "A young, unmoderated audience: the Wild West",
+      "resume": "Around 40% of Roblox users are under 13, making it the youngest-skewing major website, far bigger than Neopets or Club Penguin, which were heavily moderated. For years Roblox had no age restrictions at all, so no one knew whether they were playing with a 12-year-old or a 40-year-old.",
+      "mots_cles": [
+        "40% under 13",
+        "youngest-skewing website",
+        "Neopets",
+        "Club Penguin",
+        "Wild West",
+        "no age restrictions",
+        "moderation",
+        "child users"
+      ],
+      "texte": "Today, around 40% of users on Roblox are under 13 years old. That makes it the youngest-skewing major website, far bigger than kid-friendly gaming sites like Neopets or Club Penguin. But those sites were heavily monitored and moderated. By comparison, Roblox is the Wild West. For years, there were no age restrictions at all. No one knew if they were playing with a 12-year-old or a 40-year-old."
+    },
+    {
+      "id": 6,
+      "debut": 158.24,
+      "fin": 182.8,
+      "temps_estime": false,
+      "titre": "2024 public anger: arrests, stings and Roblox's changes",
+      "resume": "In 2024 police reports showed at least 30 people had been arrested since 2018 for targeting children on Roblox, and vigilante To Catch a Predator stings appeared in the game. Facing a PR nightmare, Roblox banned under-13s from social hangouts and blocked their direct messages, though the video asks whether that was enough.",
+      "mots_cles": [
+        "2024 public anger",
+        "30 arrests since 2018",
+        "child predators",
+        "To Catch a Predator stings",
+        "public relations nightmare",
+        "under 13 ban social hangouts",
+        "direct messages blocked",
+        "child safety"
+      ],
+      "texte": "In 2024, public anger boiled over. Police reports revealed that at least 30 people had been arrested since 2018 for targeting children on the site. The crisis became so severe, it led to vigilante “To Catch a Predator” stings in the game. Facing a public relations nightmare, roblox made changes. They banned users under 13 from social hangouts and blocked their direct messages. But was it enough?"
+    },
+    {
+      "id": 7,
+      "debut": 182.8,
+      "fin": 205.68,
+      "temps_estime": false,
+      "titre": "Communications remain mostly unmonitored",
+      "resume": "Millions of unsupervised players intersect with adult players daily. Despite the 2024 updates making contact harder, communication between players is still mostly unmonitored and users often do not know who is on the other side, though most players focus on the economy instead of chat.",
+      "mots_cles": [
+        "unsupervised players",
+        "adult players",
+        "unmonitored communications",
+        "2024 updates",
+        "unknown identities",
+        "chat safety",
+        "Roblox economy",
+        "child safety"
+      ],
+      "texte": "Millions of unsupervised players flood the site daily, intersecting directly with adult players. While the site’s 2024 updates made it harder to contact them, communications between players are still mostly unmonitored. Most of the time, users don’t know who is on the other side of the screen. But as dangerous as the social features are, most players aren’t even looking at the chats. They’re focused on something else entirely."
+    },
+    {
+      "id": 8,
+      "debut": 205.68,
+      "fin": 238.96,
+      "temps_estime": false,
+      "titre": "The Robux economy and limited-time items",
+      "resume": "Roblox is a self-contained economy built on its currency Robux, which can be bought, earned through games and contests, or received via the Roblox Plus subscription. Limited-time items, similar to NFTs, become rare status symbols once they expire, driving a rush to collect enough Robux.",
+      "mots_cles": [
+        "Robux",
+        "Roblox Plus",
+        "virtual currency",
+        "limited-time items",
+        "NFT-like collectibles",
+        "status symbol",
+        "in-game economy",
+        "avatar items"
+      ],
+      "texte": "Roblox is more than a social media and gaming site. It’s a massive self-contained economy fueled by its own currency… Robux. This digital money lets people create and buy virtual items to give their account a unique flair. You can buy Robux individually, subscribe to a service called Roblox Plus that offers bonuses, or earn Robux through games and contests. One of the biggest drivers of the economy on Roblox is limited-time items, similar to NFTs, that become a rare status symbol once they expire. That can lead to a rush to get the needed number of Robux before it’s too late."
+    },
+    {
+      "id": 9,
+      "debut": 238.96,
+      "fin": 271.44,
+      "temps_estime": false,
+      "titre": "Free Robux scams and account theft",
+      "resume": "Roblox is overrun with scams, mostly offering free Robux to steal login details, which locks players out of accounts and moves limited items to scammers. In the worst cases credit card numbers are stolen, and the scams were so common that Roblox added an account rollback feature.",
+      "mots_cles": [
+        "Robux scams",
+        "free Robux",
+        "login theft",
+        "locked out of accounts",
+        "limited items stolen",
+        "credit card theft",
+        "account rollback",
+        "child vulnerability"
+      ],
+      "texte": "And that’s another area where kids are vulnerable. In recent years, Roblox has become overrun with scams. Most of them claim to be offering free Robux, leading people to give information about their logins. Soon, they find themselves locked out of accounts that took years to build. In the best-case scenario, limited-time items get transferred to the scammer’s account. In worst-case scenarios, the scammer can get ahold of credit card numbers that allow them to take their theft into the real world. This was so common that Roblox had to add a feature that allows players to “rollback” their account and get transferred items back."
+    },
+    {
+      "id": 10,
+      "debut": 271.44,
+      "fin": 327.6,
+      "temps_estime": false,
+      "titre": "Developers as a goldmine and the DevEx program rules",
+      "resume": "The richest people on Roblox are developers selling game passes, bonus levels, skins and collectibles, with top creators earning millions of Robux. Roblox introduced DevEx to exchange Robux for real currency, but only Robux earned through in-site activity qualifies, excluding purchased Robux and item reselling.",
+      "mots_cles": [
+        "developers",
+        "game passes",
+        "limited-edition collectibles",
+        "DevEx",
+        "Robux to real money",
+        "in-site earned Robux",
+        "purchased Robux excluded",
+        "creator economy"
+      ],
+      "texte": "But the scams in the game are nothing compared to the scam being run by the platform. The richest people on the sitearen’t actually gamers. They’re developers who have turned Roblox into a digital goldmine. They sell game passes, special features, bonus levels and of course, skins and other limited-edition collectibles. The top creators pull in millions of Robux. Some are billionaires in the virtual world. But that doesn’t translate to real life. The full-time designers wanted to monetize their creations and Roblox was more than happy to help. The company introduced DevEx, a program where developers can exchange their hard-earned Robux for real-world currency. But it came with massive strings attached. To qualify for a payout, the Robux had to be earned strictly through in-site activity. Things like game passes, custom collectibles or creator engagement milestones. Purchased Robux or standard item reselling weren’t included. For a while, it seemed too good to be true. Eventually, it was."
+    },
+    {
+      "id": 11,
+      "debut": 327.6,
+      "fin": 361.2,
+      "temps_estime": false,
+      "titre": "DevEx rate change, $114 payout and the 18+ creator rate",
+      "resume": "Roblox raised its DevEx rate from $.0035 to $.0038 per Robux, but the 30,000-Robux minimum cash-out still pays only $114. A new rate of $.0054 per Robux for 18+ creators is seen as an effort to attract older creators and shed the kids' playground reputation.",
+      "mots_cles": [
+        "DevEx rate",
+        "$.0038 per Robux",
+        "30,000 Robux minimum",
+        "$114 payout",
+        "18+ creators",
+        "$.0054 per Robux",
+        "cash out",
+        "older creators"
+      ],
+      "texte": "Currently, Roblox is making headlines for raising its rates from $.0035 per Robux to $.0038. But that actually means that if someone has 30,000 Robux - the minimum to cash out - they’re only going to earn $114. That’s the standard rate. The company recently introduced a new rate for 18+ creators, offering them $.0054 per Robux. This is seen as a way to entice older players and creators and help the site get away from its reputation as a kids’ playground. But will it be enough?"
+    },
+    {
+      "id": 12,
+      "debut": 361.2,
+      "fin": 400.32,
+      "temps_estime": false,
+      "titre": "Feast and famine: rip_indra versus the other 99%",
+      "resume": "A select few get rich, such as top earner rip_indra, creator of Blox Fruits, with over 900 million Robux. Less than 1% of developers make a living wage, and with 40 million other games to compete against, most games get buried.",
+      "mots_cles": [
+        "feast and famine",
+        "rip_indra",
+        "Blox Fruits",
+        "900 million Robux",
+        "less than 1% make living wage",
+        "40 million games",
+        "competition",
+        "creator income"
+      ],
+      "texte": "Roblox is a case of feast and famine. A select few people have become incredibly wealthy by creating games that have become a money machine. The top earner on the site is rip_indra, who created the addictive fighting game Blox Fruits, boasting a net worth of over 900 million Robux. If they cashed out today, they would be a millionaire. But for the other 99%, it’s a struggle. Currently, less than 1% of developers on the site make a living wage off the site. The site is immensely competitive. Trying to stand out amid 40 million other games is like finding a needle in a haystack. Most games simply get buried in volume, and are lucky to get a small number of dedicated players who are willing to spend Robux on them."
+    },
+    {
+      "id": 13,
+      "debut": 400.32,
+      "fin": 424.16,
+      "temps_estime": false,
+      "titre": "Roblox's 30% fee and the developer cut",
+      "resume": "Roblox takes 30% off the top as a marketplace fee when a player buys a game pass or developer product. Combined with the DevEx multiplier, its developer cut is more than double the take rate of Apple, Google and Steam: the house always wins.",
+      "mots_cles": [
+        "30% marketplace fee",
+        "DevEx multiplier",
+        "developer cut",
+        "Apple Google Steam",
+        "take rate",
+        "game pass",
+        "house always wins",
+        "platform fees"
+      ],
+      "texte": "That’s before the company takes its share. The math is constantly working against creators before they even get out of the gate. When a player buys a game pass or other developer product, Roblox immediately takes 30% off the top as a marketplace fee. Add in the DevEx multiplier and Roblox’s developer cut is more than double the standard take rate of major platforms like Apple, Google, and Steam. The house always wins."
+    },
+    {
+      "id": 14,
+      "debut": 424.16,
+      "fin": 458.64,
+      "temps_estime": false,
+      "titre": "Cash-in versus cash-out rate for Robux",
+      "resume": "Players who cannot earn enough Robux resort to buying Robux directly or with gift cards at about $.0125 each, almost four times the $.0038 DevEx rate creators receive. With that gap and the high cash-out threshold, most developers will never see real money.",
+      "mots_cles": [
+        "Robux purchase rate",
+        "$.0125 per Robux",
+        "gift cards",
+        "cash-in rate",
+        "cash-out rate",
+        "almost four times",
+        "developers unpaid",
+        "exchange rate gap"
+      ],
+      "texte": "While the cash-out rate is fairly low for developers, the same can’t be said for the cash-in rate. Many players, unable to earn enough Robux in-game to satisfy their addiction, resort to buying Robux directly or through gift cards. Compared to the standard $.0038 exchange rate for DevEx, the Robux purchase rate is much higher - coming in at $.0125, almost four times the rate of what creators will get back out if they succeed. Between that and the high level needed for cashing out, the majority of Roblox developers will never wind up seeing any real money from their games."
+    },
+    {
+      "id": 15,
+      "debut": 458.64,
+      "fin": 515.52,
+      "temps_estime": false,
+      "titre": "Two pillars: underpaid developers and hooked kids",
+      "resume": "Roblox's economy rests on developers, many of them young first-time creators who may not know they are underpaid, and on child users, who are the backbone of traffic and easy to hook. The video describes this as a system of underpaid developers and addicted kids spending all their free time on the site.",
+      "mots_cles": [
+        "two pillars",
+        "underpaid developers",
+        "young creators",
+        "kids as backbone",
+        "hooked players",
+        "addicted kids",
+        "sustainability",
+        "Roblox business model"
+      ],
+      "texte": "Is this even sustainable? Roblox has built its entire economy on two pillars. On one end, there are developers. Many of them are young, taking their first step into the world of game development. This is their first chance to earn money for their creations, and they don’t know if they’re being underpaid. Others are more experienced, and have spent years grinding to build their collection and their reputation. Without this talent, the sandbox won’t have the experiences needed to keep bringing in new players. Because those new players are the core of Roblox’s success. Roblox is the only major gaming website where such a huge percentage of its users are kids, and they are the backbone of the site’s traffic. They don’t have as much disposable income as adults, but they are a lot easier to hook. For years, these kids were playing obsessively and scraping for every Robux they could earn in order to pick up rare collectibles. Roblox built an unbeatable system. On one side, underpaid developers. On the other, addicted kids who spend all their free time on the site."
+    },
+    {
+      "id": 16,
+      "debut": 515.52,
+      "fin": 545.2,
+      "temps_estime": false,
+      "titre": "State lawsuits and the 2026 age verification announcement",
+      "resume": "After the initial controversy, Roblox kept adding safety features, but legislators were not appeased. Ohio, Texas, Louisiana, Tennessee, Nebraska and Oklahoma filed lawsuits alleging failures on child safety and deceiving parents, and in 2026 Roblox announced mandatory age verification.",
+      "mots_cles": [
+        "state lawsuits",
+        "Ohio Texas Louisiana Tennessee Nebraska Oklahoma",
+        "child safety",
+        "deceiving parents",
+        "legislators",
+        "2026 age verification",
+        "safety features",
+        "Uncle Sam"
+      ],
+      "texte": "And now, Uncle Sam is taking notice. After the initial controversy over Roblox’s lax policies for younger players, the site continued to add new safety features. But it was soon clear the band-aids it was offering wouldn’t be sufficient to appease angry legislators. State authorities in Ohio, Texas, Louisiana, Tennessee, Nebraska, and Oklahoma filed lawsuits against Roblox, arguing that the company had failed on child safety and deceived parents. In 2026, the company announced it would require age verification for players."
+    },
+    {
+      "id": 17,
+      "debut": 545.2,
+      "fin": 595.44,
+      "temps_estime": false,
+      "titre": "How age verification works: ID, selfie and age-tiered accounts",
+      "resume": "Players must submit a government ID or a selfie so the system can verify age before accessing 13+ games and communities. Adults found it easy but many under-13 kids struggled; the facial age estimation was publicized with a fake-moustache test, and accounts were tiered by age with messages blocked or limited.",
+      "mots_cles": [
+        "age verification",
+        "government ID",
+        "selfie",
+        "facial age estimation",
+        "fake moustache test",
+        "age-tiered accounts",
+        "blocked messages",
+        "under 13 struggle"
+      ],
+      "texte": "That opened up a whole new can of worms. On the surface, the new system seemed incredibly simple. People had to submit either a government ID, or a selfie via Roblox’s system to verify their age. This was designed to make sure no one was lying their way into 13+ games and communities. For most adult players, it was very easy to get verified. But many kids, especially those below the age of 13 struggled. Which meant it was time to face the camera. At first, the system seemed foolproof. The camera’s algorithm analyzes facial features and spits out an estimated age range. To prove its accuracy, the company even publicized a test they did where a kid tried to fool the system with a fake moustache. And failed miserably. The company followed this up by introducing more age-tiered accounts. Depending on the age group, messages were blocked or limited. It seemed like Roblox was taking child safety seriously."
+    },
+    {
+      "id": 18,
+      "debut": 595.44,
+      "fin": 623.84,
+      "temps_estime": false,
+      "titre": "Roblox's 2026 stock slide",
+      "resume": "2026 has been a disastrous year for Roblox stock: it started around $81 a share, peaked at $84 that month and has since lost almost half its value. One day in August 2026 saw a 20% fall that the video says market fluctuations cannot explain, as investors lose faith.",
+      "mots_cles": [
+        "Roblox stock",
+        "2026 stock decline",
+        "$81 a share",
+        "lost almost half value",
+        "20% drop August 2026",
+        "investor confidence",
+        "stock market",
+        "share price"
+      ],
+      "texte": "So why are so many people so angry? 2026 has been a disastrous year for the Roblox brand on the stock market, seeing consistent slides and only minor peaks. It started the year at around $81 a share and peaked at 84 that same month. Since then it’s lost almost half its value. And when it does drop, it’s usually steep. One day in August 2026 saw a fall of 20%. That can’t be explained by market fluctuations. Investors are losing faith in Roblox."
+    },
+    {
+      "id": 19,
+      "debut": 623.84,
+      "fin": 677.28,
+      "temps_estime": false,
+      "titre": "Data trust concerns and uploaded government IDs",
+      "resume": "The biggest complaint is that users do not trust Roblox to safeguard their data: hundreds of millions of people have uploaded personal data, raising fears of breaches. A government ID could aid identity theft, and although Roblox says its servers are secure and its own databases have not been breached, many users choose the selfie option instead.",
+      "mots_cles": [
+        "data privacy",
+        "government ID",
+        "identity theft",
+        "data breach fears",
+        "you are the product",
+        "server security",
+        "hundreds of millions of users",
+        "selfie option"
+      ],
+      "texte": "The biggest complaint people have with Roblox is that they don’t trust it to safeguard their data. There’s an old expression, if something is being given away for free, you’re the product. Roblox has always been free to play, but the goal was to get players to spend money on Robux, gamepasses, and collectibles. Especially impulsive kids. But now, the company has something else to give away. Hundreds of millions of people have uploaded their personal data to the company’s servers. And that’s raised fears of potential data breaches. For those who have scanned their IDs online, it’s a valid concern. A government ID may have enough information to aid in identity theft, and there are millions of IDs in Roblox’s servers. Roblox has tried to assuage users over this, saying that their servers are secure. While countless accounts have been breached in hacks, the company itself has protected its databases. Still, the risk of a hack has made many people drift towards the selfie option as the simplest way to verify their age."
+    },
+    {
+      "id": 20,
+      "debut": 677.28,
+      "fin": 715.92,
+      "temps_estime": false,
+      "titre": "Selfie biometrics and the 338 million images",
+      "resume": "Selfies are fed into an AI algorithm that extracts biometric data and compares faces against a massive database; Roblox holds over 338 million images. The video asks how secure this is, whether a selfie could end up in a government database, and why Roblox would enforce a feature nobody wanted, even though the company says it deletes the data instantly.",
+      "mots_cles": [
+        "selfie age estimation",
+        "biometric data",
+        "338 million images",
+        "AI algorithm",
+        "data deletion claim",
+        "government database",
+        "privacy risk",
+        "corporate giant"
+      ],
+      "texte": "Even that comes with risks. Pictures are fed into a complex AI algorithm that extracts biometric data, cross-referencing the user’s face against a massive database to estimate their age. Currently, there are over 338 million images in the Roblox server. Which means users don’t just take a selfie. They’re handing over their biometrics to a corporate giant. And with the explosion of AI software, how much of it is actually secure? Could a harmless selfie sent to a gaming platform end up in a government database? While Roblox claims to delete the data instantly, the growing panic has left people demanding answers. Why would a company enforce a feature no one really wanted in the first place?"
+    },
+    {
+      "id": 21,
+      "debut": 715.92,
+      "fin": 744.8,
+      "temps_estime": false,
+      "titre": "The FTC complaint of May 2026",
+      "resume": "The government pressure became too intense in 2026: a complaint to the U.S. Federal Trade Commission in May 2026 sought an investigation into unfair and deceptive practices endangering children. Roblox denied the allegations and the FTC had not issued a finding, but the complaint caused another stock drop.",
+      "mots_cles": [
+        "FTC complaint",
+        "Federal Trade Commission",
+        "May 2026",
+        "unfair and deceptive practices",
+        "children exploitation",
+        "Roblox denial",
+        "no finding",
+        "stock drop"
+      ],
+      "texte": "They didn’t have a choice. The government has been breathing down Roblox’s neck for a while, but 2026 was when it became too intense to ignore. A complaint was filed with the US Federal Trade Commission in May 2026, calling for an investigation into unfair and deceptive practices that endanger children and make them vulnerable to exploitation. The company immediately denied the allegations and the FTC hadn’t issued a finding against Roblox. But the suit was enough to scare investors, leading to another menacing stock drop."
+    },
+    {
+      "id": 22,
+      "debut": 744.8,
+      "fin": 773.76,
+      "temps_estime": false,
+      "titre": "$57 million set aside for state settlements",
+      "resume": "In its first-quarter 2026 financial disclosures Roblox set aside $57 million for legal settlements with individual states. Details are unknown because all were settled out of court without findings against the company, which the video reads as a sign the company is running scared.",
+      "mots_cles": [
+        "$57 million",
+        "legal settlements",
+        "first quarter 2026",
+        "financial disclosures",
+        "state lawsuits",
+        "settled out of court",
+        "no legal findings",
+        "business model risk"
+      ],
+      "texte": "And this has been coming for a long time. According to Roblox’s financial disclosures, in the first quarter of 2026, the company set aside $57 million in expenses for legal settlements with individual states. The exact details aren’t known, as all were settled out of court and didn’t involve any legal findings against the company. But what it indicates is that the company is running scared.These lawsuits as a legitimate threat and if it doesn’t act quickly, its whole business model might be in danger."
+    },
+    {
+      "id": 23,
+      "debut": 773.76,
+      "fin": 807.6,
+      "temps_estime": false,
+      "titre": "Roblox cuts projections by up to $1 billion",
+      "resume": "Roblox cut its full-year 2026 projections by up to $1 billion, mostly because of age verification: users who cannot or will not verify, including many children, will leave the platform. The cut triggered another stock drop of up to 22% in extended trading.",
+      "mots_cles": [
+        "revenue projections cut",
+        "$1 billion",
+        "age verification impact",
+        "users leaving",
+        "children restricted",
+        "22% stock drop",
+        "extended trading",
+        "Roblox panic"
+      ],
+      "texte": "Now Roblox is panicking. As of 2026, the company has cut its full-year projections by up to $1 billion, forecasting grim financial news that will no doubt lead to more stock losses. This is due to a number of factors, but the age verification will be the biggest part. Users will be forced off the site due to being unable to verify. A large percentage will be children who find their accounts restricted and lose interest in the platform. Others won’t want to hand over their data to Roblox. When these projections hit, the company took another nasty stock drop, losing up to 22% of its value in extended trading."
+    },
+    {
+      "id": 24,
+      "debut": 807.6,
+      "fin": 840.96,
+      "temps_estime": false,
+      "titre": "Roblox's unique business model and why it is catching up",
+      "resume": "Roblox built an online economy around an audience with no money of its own, made microtransactions addictive for school children and relied on millions of players to build the experiences while it took a hefty cut. The video presents the stock drop as an inevitability rather than a surprise.",
+      "mots_cles": [
+        "unique business model",
+        "microtransactions",
+        "audience without money",
+        "user-generated experiences",
+        "platform cut",
+        "school children",
+        "inevitability",
+        "tech business model"
+      ],
+      "texte": "But was this a surprise… or an inevitability? For a long time, Roblox was one of the most unique business models in the tech world. It built a massive online economy based around an audience that doesn’t have its own money to spend. It took some of the most disliked elements of video gaming, like microtransactions, and made them so addictive that it became the premier pastime among school children. And it did this all without developing its own products beyond the initial operating systems. Instead, it let millions of players design their own experiences and give the platform a hefty cut. And now it’s catching up with them."
+    },
+    {
+      "id": 25,
+      "debut": 840.96,
+      "fin": 879.12,
+      "temps_estime": false,
+      "titre": "Exploitation claim and why the stock slide may not reverse",
+      "resume": "The video argues Roblox's virtual economy was based on exploitation: developers paid pennies on the dollar and kids overpaying for virtual currency without protection from bad actors. It says age verification is a symptom of a bigger problem and that continued scrutiny makes a stock recovery hard to imagine.",
+      "mots_cles": [
+        "exploitation",
+        "developers paid pennies",
+        "inflated Robux prices",
+        "bad actors",
+        "government scrutiny",
+        "age verification symptom",
+        "stock slide",
+        "Roblox business model"
+      ],
+      "texte": "Roblox’s virtual economy might have earned billions, but behind the scenes, it was based on exploitation. Developers were paid pennies on the dollar. Meanwhile, the kids who were playing obsessively were often paying inflated rates for virtual currency in a system that didn’t protect them from bad actors. It was the perfect system for the Roblox team… until the government took notice. Now that people are looking closely at the business model, they don’t like what they see. The age-verification system isn’t Roblox’s problem. It’s a sign of a much bigger problem, but it’s one no one can ignore. And as long as people keep looking closely at how Roblox does business, it’s hard to see the current stock slide reversing itself."
+    },
+    {
+      "id": 26,
+      "debut": 879.12,
+      "fin": 894.13,
+      "temps_estime": false,
+      "titre": "Promotion of the Ubisoft video",
+      "resume": "The video notes Roblox is not the only game giant under pressure and promotes another video, Ubisoft Bet On AI Slop. Now They Are RUINED, about the self-inflicted collapse of the once dominant publisher.",
+      "mots_cles": [
+        "Ubisoft",
+        "AI slop",
+        "video game industry",
+        "call to action",
+        "publisher collapse",
+        "outro",
+        "promotion",
+        "gaming giants"
+      ],
+      "texte": "Roblox isn’t the only video game giant feeling the pressure. One of the biggest names in the industry is staring at a self-inflicted collapse. Watch “Ubisoft Bet On AI Slop. Now They Are RUINED” to find out where it all went wrong for the once dominant publisher. Or click on this."
+    }
+  ]
+}
