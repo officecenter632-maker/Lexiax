@@ -1,0 +1,672 @@
+{
+  "version": 1,
+  "video_id": "dt5ocYfjths",
+  "titre_video": "An Ozempic Overdose Hour by Hour: The Biology of a 7-Day Gastric Freeze",
+  "duree_s": 1186.04,
+  "avancement": {
+    "lignes_traitees": 315,
+    "fin_traitee_s": 1186.04,
+    "nb_lignes_total": 315,
+    "complet": true
+  },
+  "nb_segments": 36,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.4,
+      "fin": 23.28,
+      "temps_estime": false,
+      "titre": "Hook: no stomach pump and no antidote for a GLP-1 overdose",
+      "resume": "Unlike many drug overdoses, an Ozempic or Wegovy overdose cannot be treated by pumping the stomach, because GLP-1 medicines bypass the digestive system. There is no antidote and no way to flush the drug out. A small dosing miscalculation can trigger a 72-hour metabolic emergency that medicine cannot switch off.",
+      "mots_cles": [
+        "GLP-1 overdose",
+        "Ozempic",
+        "Wegovy",
+        "no antidote",
+        "stomach pump",
+        "dosing error",
+        "72-hour emergency"
+      ],
+      "texte": "If you overdose on a drug, an ER can pump your stomach. Take too much of a weight loss shot and it’s a different, terrifying reality. GLP-1 medicines like Ozempic and Wegovy bypass your digestive system completely. There’s no flushing it out. There’s no antidote. Just one slight miscalculation in dosing triggered a 72 hour metabolic emergency. And medical science has no way to turn it off."
+    },
+    {
+      "id": 2,
+      "debut": 23.28,
+      "fin": 73.28,
+      "temps_estime": false,
+      "titre": "7 AM: a compounded vial and a decimal point mistake",
+      "resume": "A patient switched to a telehealth provider receives compounded Wegovy in a multi-dose vial measured in units instead of milliliters, amid a nationwide GLP-1 shortage. With confusing automated instructions and nobody to ask, they draw 0.50 mL instead of 0.05 mL because of a single decimal point error.",
+      "mots_cles": [
+        "compounded Wegovy",
+        "telehealth",
+        "GLP-1 shortage",
+        "vial",
+        "units vs milliliters",
+        "decimal point error",
+        "syringe",
+        "dosing mistake"
+      ],
+      "texte": "7 AM Your alarm goes off. It’s time to take your GLP-1, but this week, the syringe looks a little different. You recently switched to an online telehealth company. So your new doctor sent a compounded version of Wegovy. Thanks to surging popularity, there’s a nationwide shortage of GLP-1 medications. So the brand names are becoming harder to find. But this looks different from your usual pre-filled, single dose pen. This compound version has multiple doses in a vial. And it's measured in units instead of the milliliters you’re normally used to. The conversion is confusing. The telehealth instructions were sent by automated email. You have absolutely no one to ask for help. Using the tiny syringe, you draw out what you think is your usual 5 units. Except you just made a mistake. You’re out by a single decimal point Instead of 0.05 milliliters, you’re about to inject 0.50."
+    },
+    {
+      "id": 3,
+      "debut": 73.28,
+      "fin": 108.96,
+      "temps_estime": false,
+      "titre": "Ten times the dose: the most common GLP-1 dosing error",
+      "resume": "Injecting 50 units instead of 5 is a tenfold overdose, compared to drinking ten espresso shots instead of a sip of decaf. A full 68% of overdoses come from this unit confusion, and dosing and therapeutic errors make up 91% of GLP-1 overdose cases reported to poison control. Telehealth, compounding, medical spas and non-standard units have created a ticking health bomb.",
+      "mots_cles": [
+        "tenfold overdose",
+        "50 units",
+        "68% of overdoses",
+        "poison control",
+        "91% dosing errors",
+        "telehealth",
+        "medical spas",
+        "unit standardization"
+      ],
+      "texte": "50 units. Ten times your normal dose. Shockingly, this is the most common dosing error for GLP-1 medications. A full 68% of overdoses happen because of this confusion. The chemical effect on your body is massive. It’s like accidentally drinking 10 shots of espresso when you only intended to take a sip of decaf. The rise of telehealth, compounded alternatives, medical spas, and the lack of standardization in units across different brands have created a ticking health bomb for GLP-1 medication users. It’s why dosing and therapeutic errors account for 91% of overdose cases reported to poison control centers."
+    },
+    {
+      "id": 4,
+      "debut": 108.96,
+      "fin": 136.0,
+      "temps_estime": false,
+      "titre": "Dr. Leslie Golden and other causes of overdose",
+      "resume": "Obesity medicine physician Dr. Leslie Golden says many overdose stories stem from fragmented care, poor education, influencer misinformation and desperation rather than the drug itself. Other causes include first-time patients taking a weekly medication daily and long-time patients doubling up after a missed week.",
+      "mots_cles": [
+        "Dr. Leslie Golden",
+        "fragmented care",
+        "patient education",
+        "influencer misinformation",
+        "weekly dose",
+        "missed dose",
+        "doubling up",
+        "overdose causes"
+      ],
+      "texte": "Obesity medicine physician Dr. Leslie Golden agrees, stating: “many of these ‘overdose’ stories are… about fragmented care, inadequate education, inaccurate information from influencers and desperation for treatment rather than the medication itself.” There are other overdose causes: first-time patients who believe their medication requires a daily dose instead of a weekly dose. Or long-time patients who miss a week and think the best way to fix it is by doubling up their next dose. 8 AM"
+    },
+    {
+      "id": 5,
+      "debut": 136.0,
+      "fin": 170.4,
+      "temps_estime": false,
+      "titre": "8-9 AM: the overdose enters the bloodstream",
+      "resume": "The provider's conversion mistake is discovered, but the drug is already in the patient's system. For the first hours the patient works normally while a massive dose of semaglutide reaches the brain, hijacks the nervous system and tricks the body into feeling full.",
+      "mots_cles": [
+        "semaglutide",
+        "conversion mistake",
+        "bloodstream",
+        "brain",
+        "nervous system",
+        "feeling full",
+        "first hours",
+        "no symptoms yet"
+      ],
+      "texte": "Thanks to your misdosing, you’re staring down a scary situation. Turns out, your provider made a mistake in the conversion. But it’s too late. It’s already in your system. 9 AM For the first few hours, you go about your day normally. You make it into the office, sit down at your desk and start the day’s meetings. Nothing is off. Nothing seems out of the ordinary. But beneath the surface, a biological nightmare is unfolding. The massive dose of semaglutide is entering your bloodstream. It’s coursing through you, reaching your brain, hijacking your nervous system and tricking your body into thinking you’re full. You’re a ticking time bomb… you just don’t know it yet."
+    },
+    {
+      "id": 6,
+      "debut": 170.4,
+      "fin": 190.48,
+      "temps_estime": false,
+      "titre": "11 AM: first symptom, nausea",
+      "resume": "A strange stomach rumble at 11 AM is the first symptom, nausea, experienced by 94% of patients with GLP-1 overdoses. The patient tries to ignore it and hopes to reach a pharmacy at lunch.",
+      "mots_cles": [
+        "nausea",
+        "94% of patients",
+        "first symptom",
+        "GLP-1 overdose symptoms",
+        "stomach rumble",
+        "11 AM"
+      ],
+      "texte": "11 AM You get a strange rumble in your stomach. Maybe it was something you ate at breakfast or too much coffee. It’s not. You’re experiencing the first symptom 94% of patients with GLP-1 medication overdoses experience: nausea. You try to ignore the symptoms. If you can just make it through your lunch break, you can get to a pharmacy."
+    },
+    {
+      "id": 7,
+      "debut": 190.48,
+      "fin": 215.04,
+      "temps_estime": false,
+      "titre": "1 PM: meclizine does not work on semaglutide nausea",
+      "resume": "The patient buys the over-the-counter antiemetic meclizine, but nausea from a semaglutide overdose originates in the brain and does not respond to over-the-counter treatments. Meclizine and similar drugs are useless here, and the patient skips lunch with appetite gone.",
+      "mots_cles": [
+        "meclizine",
+        "antiemetic",
+        "over-the-counter",
+        "brain-origin nausea",
+        "semaglutide overdose",
+        "loss of appetite",
+        "1 PM"
+      ],
+      "texte": "1 PM You buy an over-the-counter antiemetic called meclizine hoping it’ll do the trick so you can get back to work. It’s pointless. Nausea caused by a semaglutide overdose doesn’t respond well to over-the-counter treatments. That’s because it’s coming from your brain. Meclizine, and other drugs like it, are completely useless. You go back to your desk and try to ignore the increasing wave of nausea flooding over you. You skip lunch, your appetite completely shot."
+    },
+    {
+      "id": 8,
+      "debut": 215.04,
+      "fin": 258.56,
+      "temps_estime": false,
+      "titre": "2 PM: the first major incident at the office",
+      "resume": "In a conference room the patient has a hot flash, racing heart, chest tightness and cold sweat, then bolts to the communal toilet and spends ten minutes dry heaving. Co-workers notice but say nothing.",
+      "mots_cles": [
+        "hot flash",
+        "racing heart",
+        "cold sweat",
+        "dry heaving",
+        "office",
+        "conference room",
+        "retching",
+        "2 PM"
+      ],
+      "texte": "2 PM The first major incident hits. You’re sitting in a conference room when a hot flash prickles across your face and your heart rate spikes. It feels like your heart is thumping right out of your chest. A vice like tightness briefly grips you. A cold sweat breaks out across your forehead. Your stomach grumbles audibly. Your co-workers cast worried and disgusted glances at you. But no one says anything. You excuse yourself mid-sentence, hurriedly leave the room and sprint down the hall. You burst through the communal toilet door, into a stall and start dry heaving. The next 10 minutes are spent gripping the cold porcelain of the toilet retching, terrified someone will hear you. Eventually it stops. You splash cold water over your face, pat a paper towel on your skin and sheepishly go back to the conference room."
+    },
+    {
+      "id": 9,
+      "debut": 258.56,
+      "fin": 274.08,
+      "temps_estime": false,
+      "titre": "6 PM: the commute home at the 12-hour mark",
+      "resume": "The commute is miserable as every bump jolts the stomach, and the 12-hour mark approaches with the body at its limit. The patient collapses on the couch, skips dinner and feels drained, dizzy and sluggish.",
+      "mots_cles": [
+        "commute",
+        "12-hour mark",
+        "dizzy",
+        "sluggish",
+        "skipped dinner",
+        "fatigue",
+        "6 PM"
+      ],
+      "texte": "6 PM You endure the commute from hell, every bump jolts your stomach. You feel like you could throw up any second. The 12 hour mark is approaching and your body is hitting its absolute limit. You make it home and collapse on the couch. You skip dinner. You feel drained, dizzy and sluggish."
+    },
+    {
+      "id": 10,
+      "debut": 274.08,
+      "fin": 316.24,
+      "temps_estime": false,
+      "titre": "8 PM: violent vomiting begins",
+      "resume": "On the couch the patient gets a metallic taste and rapid salivation, then vomits violently. Thirty minutes later it happens again with projectile vomiting, leaving the patient sweaty and panicking on the bathroom floor for an hour.",
+      "mots_cles": [
+        "vomiting",
+        "metallic taste",
+        "salivation",
+        "projectile vomiting",
+        "8 PM",
+        "8:30 PM",
+        "nausea side effect",
+        "panic"
+      ],
+      "texte": "8 PM You’re lying flat on the couch, trying to ride it out and watch television. Suddenly, you feel a sharp, metallic taste at the back of your throat. Your saliva starts flowing rapidly. You’re about to vomit. You run to the bathroom, barely making it to the toilet before violently hurling the contents of your stomach into the bowl. You feel dazed as you wipe the drool from your mouth. It’s not the first time you’ve had nausea as a side effect of the GLP-1s. It’s one of the most common reactions. 8.30 PM Just 30 minutes later, the exact same feeling comes up. You run back to the bathroom and in between heaves, start to worry about what’s happening to you. You projectile vomit, barely making the target. The next hour is spent crouched on the floor, sweaty and panicking."
+    },
+    {
+      "id": 11,
+      "debut": 316.24,
+      "fin": 347.36,
+      "temps_estime": false,
+      "titre": "Overdose vomiting: projectile and frequent, hyperemesis",
+      "resume": "Vomiting in semaglutide overdoses starts within 12 to 24 hours and is described by patients as the worst nausea ever. It is almost always projectile and can occur 8 to 12 times in 24 hours, a condition medically known as hyperemesis.",
+      "mots_cles": [
+        "hyperemesis",
+        "projectile vomiting",
+        "12 to 24 hours",
+        "8-12 times per day",
+        "worst nausea",
+        "overdose symptoms"
+      ],
+      "texte": "Like most semaglutide overdoses, vomiting starts within 12 to 24 hours of receiving the incorrect dose. But this isn’t just any nausea and vomiting. You’re experiencing something far more intense, something other patients have described as “the worst nausea I’ve ever had”. Unlike a simple stomach bug, the vomiting caused by GLP-1 medication overdoses is so severe it’s almost always projectile. And it’s so frequent, patients report it can happen 8-12 times in a single 24-hour period. Medically, this is known as hyperemesis."
+    },
+    {
+      "id": 12,
+      "debut": 347.36,
+      "fin": 364.96,
+      "temps_estime": false,
+      "titre": "9 PM: the Area Postrema stuck in the ON position",
+      "resume": "The Area Postrema in the brainstem controls the vomiting reflex, and the overdose swamps it with semaglutide. The body's biological panic button breaks and stays stuck in the ON position.",
+      "mots_cles": [
+        "Area Postrema",
+        "brainstem",
+        "vomiting reflex",
+        "semaglutide",
+        "panic button",
+        "9 PM"
+      ],
+      "texte": "9 PM Deep inside the brainstem is the Area Postrema. This is the part of the body that controls the vomiting reflex. And right now, it’s being swamped by semaglutide. The overdose is so intense, your biological “panic button” has broken. It’s now stuck in the “ON” position. And it gets worse."
+    },
+    {
+      "id": 13,
+      "debut": 364.96,
+      "fin": 390.4,
+      "temps_estime": false,
+      "titre": "Delayed gastric emptying becomes a 72-hour gridlock",
+      "resume": "The overdose amplifies semaglutide's core effect, delayed gastric emptying. A tenfold dose can slow emptying by over 50%, backing up the gastrointestinal system and causing severe pain, turning the digestive highway into a 72-hour gridlock.",
+      "mots_cles": [
+        "delayed gastric emptying",
+        "gastroparesis",
+        "over 50% slower",
+        "gastrointestinal backup",
+        "abdominal pain",
+        "72-hour gridlock"
+      ],
+      "texte": "The overdose is amplifying the core effect of your medication: delayed gastric emptying. Normally, semaglutide slows down digestion, helping you to feel full. But a 10 fold dose paralyzes the system. Gastric emptying can slow by over 50% during a GLP-1 overdose. This backs up the gastrointestinal system and causes severe pain and distress. Your high-speed digestive highway instantly turns into a 72-hour gridlock."
+    },
+    {
+      "id": 14,
+      "debut": 390.4,
+      "fin": 421.92,
+      "temps_estime": false,
+      "titre": "Midnight to Day 2: blood in vomit and the ER",
+      "resume": "After a sleepless night of churning stomach, at 6 AM on Day 2 the patient vomits blood and rushes to the emergency room while fighting nausea in the car. The patient assumes the ordeal is nearly over.",
+      "mots_cles": [
+        "Day 2",
+        "blood in vomit",
+        "emergency room",
+        "sleepless night",
+        "sweat",
+        "ER visit",
+        "12 AM",
+        "6 AM"
+      ],
+      "texte": "12 AM You barely get any sleep that night as your stomach violently churns. You’ve never felt anything like it. Day 2: 6 AM You lie on your bed, the sheets soaked with sweat as your stomach continues to rumble. You stagger to the bathroom, vomit one more time. That’s when you see it. Blood. Frantic and scared, you get yourself to the emergency room immediately. The entire time, you’re battling nausea and asking to stop the car so you can throw up. But eventually, you’re at the emergency room. Your ordeal is almost over. Or is it?"
+    },
+    {
+      "id": 15,
+      "debut": 421.92,
+      "fin": 454.0,
+      "temps_estime": false,
+      "titre": "9 AM: dehydration and the overdose diagnosis",
+      "resume": "In the exam room the patient has a dizzy spell, blurred vision and cloudy thinking, signs of dehydration, the second big GLP-1 overdose symptom that typically appears 24 to 48 hours after the dose. Based on the symptoms the doctor concludes it sounds like an overdose.",
+      "mots_cles": [
+        "dehydration",
+        "dizziness",
+        "blurred vision",
+        "confusion",
+        "24 to 48 hours",
+        "ER doctor",
+        "overdose diagnosis",
+        "9 AM"
+      ],
+      "texte": "9 AM Your name is called and you stumble to the exam room. Suddenly, a dizzy spell hits you. Your vision blurs and you almost pass out. You catch yourself just in time and sit down with the doctor. His questions are surprisingly hard to understand. Your mind feels cloudy and confused. These are the signs of the second big symptom of GLP-1 overdoses: dehydration. It usually strikes about 24 to 48 hours after the dose. You quickly tell the doctors what’s been happening to her since you took the GLP-1 dose. Based on the symptoms, he tells you that it sounds like an overdose."
+    },
+    {
+      "id": 16,
+      "debut": 454.0,
+      "fin": 491.04,
+      "temps_estime": false,
+      "titre": "You can overdose on Ozempic: no stomach pump",
+      "resume": "The doctor explains that one can overdose on almost any drug, including Ozempic and Wegovy, and wants to admit the patient. Asked about pumping the stomach, he says GLP-1s do not work that way: the drug is already in the subcutaneous tissue and will stay there for a while.",
+      "mots_cles": [
+        "overdose on Ozempic",
+        "stomach pumping",
+        "subcutaneous tissue",
+        "hospital admission",
+        "no quick removal",
+        "Wegovy"
+      ],
+      "texte": "An overdose? On a GLP-1? It’s not something you got off the street. The doctor explains that we’re capable of overdosing on almost every drug. Including Ozempic and Wegovy You have a hard time to believe it’s that serious. The doctor, on the other hand, takes one look at you and says he needs to admit you. At least overnight. Exhausted and confused, you try to find another solution. You throw an obvious suggestion: “If it’s an overdose, you can pump my stomach, right?” The doctor shakes his head. GLP-1s don’t work like that. There is no antidote. There’s no way to quickly remove the medication from your body. The GLP-1 is already in your subcutaneous tissue. It’s going to stay there. For a while."
+    },
+    {
+      "id": 17,
+      "debut": 491.04,
+      "fin": 522.32,
+      "temps_estime": false,
+      "titre": "No GLP-1 antagonist: only supportive care",
+      "resume": "Semaglutide is a GLP-1 receptor agonist that binds receptors and stays active for days, and unlike with other overdoses there is no receptor antagonist and no chemical off switch. Doctors can only manage symptoms with IV fluids, electrolyte monitoring and replacement, and anti-nausea medication.",
+      "mots_cles": [
+        "GLP-1 receptor agonist",
+        "no antagonist",
+        "no off switch",
+        "IV fluids",
+        "electrolyte replacement",
+        "anti-nausea medication",
+        "supportive care"
+      ],
+      "texte": "Semaglutide is a GLP-1 receptor agonist. Once it finds its way into your body, it binds to GLP-1 receptors and remains active for days. Unlike other overdoses, there’s no GLP-1 receptor antagonist to block it. There’s no chemical off switch. You panic and ask what the doctors can do. The honest answer? Not much. All they can do is manage your systems and keep you hydrated. That means IV fluids, electrolyte monitoring and replacement, and anti-nausea medication. But vomiting and dehydration are only the beginning."
+    },
+    {
+      "id": 18,
+      "debut": 522.32,
+      "fin": 545.12,
+      "temps_estime": false,
+      "titre": "12 PM: hospital admission and body aches",
+      "resume": "The patient is admitted for monitoring and still cannot stop vomiting, and the strain makes the body physically ache. Another accidental overdose patient, Leslie Gammon, said her ribs felt like they were being beaten up.",
+      "mots_cles": [
+        "hospital admission",
+        "vomiting",
+        "body aches",
+        "Leslie Gammon",
+        "accidental overdose",
+        "monitoring",
+        "12 PM"
+      ],
+      "texte": "Your body is about to be wracked by the semaglutide running through it. And you have no way to stop the surge. 12 PM You’re admitted to the hospital for monitoring. You still can’t stop vomiting. All that stress on your body is causing it to physically ache. Just like all the other patients suffering the ordeal. Leslie Gammon, another accidental overdose case, said “my ribs felt like they were being beaten up”. 2 PM"
+    },
+    {
+      "id": 19,
+      "debut": 545.12,
+      "fin": 600.16,
+      "temps_estime": false,
+      "titre": "2 PM: IV fluids, severe dehydration and kidney risk",
+      "resume": "On an IV the patient cannot keep water down and is dangerously low on fluids, and doctors begin to mention kidney damage because the kidneys struggle to filter blood waste. Diuretics and blood pressure drugs raise kidney risk, and the patient is not taking them.",
+      "mots_cles": [
+        "dehydration",
+        "IV drip",
+        "kidney damage",
+        "acute kidney injury",
+        "diuretics",
+        "blood pressure drugs",
+        "toxic waste",
+        "2 PM"
+      ],
+      "texte": "Doctors have hooked you up to an IV. It’s a welcome relief, your mouth is completely dry. Every time you even try to drink water, it comes back up. You’re running dangerously low on fluids; woozy, dazed, with a total lack of energy. Dehydration has a number of hidden dangers. It’s not just a matter of you feeling thirsty, your doctors are beginning to whisper about kidney damage. Horrified at the thought of yet another symptom showing up, you ask what that means. The doctors tell you that your kidneys would struggle to filter the waste in your blood. That means toxic waste can build up, disrupting the blood’s chemical makeup. In severe cases, it’s fatal. The doctors ask what other medications you’re taking. Barely able to understand what’s happening anymore due to sheer exhaustion and confusion from the dehydration, you ask why they want to know. They say that if you’re taking diuretics or blood pressure drugs, the risk to your kidneys is more severe. But if not, there’s less of a chance of kidney injury. At least it’s some slightly positive news."
+    },
+    {
+      "id": 20,
+      "debut": 600.16,
+      "fin": 647.76,
+      "temps_estime": false,
+      "titre": "Insulin plus overdose: hypoglycemia risk of 7% vs 43%",
+      "resume": "The patient takes insulin for diabetes, which combined with the GLP-1 overdose risks a massive blood sugar drop, so doctors will monitor for hypoglycemia. It develops in 7% of non-diabetic patients but 43% of diabetic patients, and its symptoms of sweating, tremors and confusion are hard to tell apart from the overdose itself.",
+      "mots_cles": [
+        "hypoglycemia",
+        "insulin",
+        "diabetes",
+        "43% diabetic",
+        "7% non-diabetic",
+        "blood sugar drop",
+        "tremors",
+        "monitoring"
+      ],
+      "texte": "All you take is insulin for your diabetes. The doctor’s face stays serious. Insulin, combined with your GLP-1 overdose, puts you at risk for a massive blood sugar drop. They’ll have to monitor her for hypoglycemia as well. It’s best if you stay in the hospital for a couple more days. While hypoglycemia only develops in 7% of non-diabetic patients, it develops in 43% of diabetic patients. That’s almost a one in two chance. What will hypoglycemia feel like? Sweating. Tremors. Confusion. You hear the symptoms, and wonder how you’re supposed to differentiate them from the sweating and confusion you're already feeling. The doctors leave. You’re still throwing up, but a little less frequently now. The prescription anti-nausea medication the doctors gave you late last night must be working. Maybe the symptoms are starting to go away? It’s a glimmer of hope… One that’s about to be shattered."
+    },
+    {
+      "id": 21,
+      "debut": 647.76,
+      "fin": 675.12,
+      "temps_estime": false,
+      "titre": "9 PM: new severe abdominal pain",
+      "resume": "A new, worsening pain rises in the stomach and the patient presses the nurse call button, doubled over and gasping. The nurse gives heavy pain medication through the IV, and the doctor says this pain is different and may complicate things.",
+      "mots_cles": [
+        "abdominal pain",
+        "nurse call button",
+        "IV pain medication",
+        "new symptom",
+        "9 PM",
+        "complication"
+      ],
+      "texte": "9 PM You suddenly feel a pain ebbing up in your stomach. You’ve been cramping already because of the hyperemesis and empty stomach. But this pain is new. And getting worse. You frantically smash the nurse call button. When help arrives, you’re doubled over in pain, gasping for breath. The nurse immediately pumps heavy pain medication into your IV line. When the doctor sees you, his face is etched with concern. This new abdominal pain is different. It might complicate things. But first they have some questions."
+    },
+    {
+      "id": 22,
+      "debut": 675.12,
+      "fin": 717.68,
+      "temps_estime": false,
+      "titre": "A grey market compound: 35% of US semaglutide, $250 vs $1,300",
+      "resume": "Doctors find the dose taken was not FDA approved but a grey market compounded alternative, so they cannot judge its toxicity. Compounded versions make up around 35% of US semaglutide use, driven by cost: roughly $250 per month versus about $1,300 for Wegovy without insurance.",
+      "mots_cles": [
+        "compounded semaglutide",
+        "grey market",
+        "not FDA approved",
+        "35% of US use",
+        "$250 per month",
+        "$1,300 Wegovy",
+        "cost",
+        "insurance"
+      ],
+      "texte": "Specifically about the dose you took. They looked it up in the system, and it’s not FDA approved. It’s a grey market compound alternative. They have no way to understand how toxic it is. Sarah explains that instead of her regular Wegovy, she was given a compounded alternative. These unapproved alternatives have become increasingly popular, making up around 35% of all US semaglutide use. It’s a massive risk driven by desperation. One month of Wegovy costs around $1,300 if it’s not covered by insurance. But a compounded alternative can be found for just $250 per month. For anyone on a fixed salary, it can be the difference between staying afloat and going into credit card debt. But that cheap alternative just turned your body into a medical experiment."
+    },
+    {
+      "id": 23,
+      "debut": 717.68,
+      "fin": 758.64,
+      "temps_estime": false,
+      "titre": "Compounding free-for-all and semaglutide salt forms",
+      "resume": "The compounded GLP-1 market is a free for all, and many compounded products do not contain the same active ingredient as the brand. Some use salt forms such as semaglutide sodium or acetate instead of the base form in Wegovy and Ozempic, which the FDA says are different active ingredients and does not approve.",
+      "mots_cles": [
+        "drug compounding",
+        "semaglutide sodium",
+        "semaglutide acetate",
+        "salt form",
+        "FDA",
+        "active ingredient",
+        "unapproved",
+        "compounded GLP-1"
+      ],
+      "texte": "Drug compounding is the process of mixing multiple drugs, or altering a drug. And right now, the compounded GLP-1 market is a free for all. In fact, many compounded GLP-1s don’t even contain the same active ingredient as the brand name they’re supposed to imitate. Others may have the same ingredient, but in a different form. While Wegovy and Ozempic use the base form of semaglutide, some compounders use the salt form. It might not sound like a big deal to most people. But it creates a big risk for users. According to the FDA, salt forms “including semaglutide sodium and semaglutide acetate, are different active ingredients than are used in the approved drugs.” Which is why the FDA does not approve them. 11 PM"
+    },
+    {
+      "id": 24,
+      "debut": 758.64,
+      "fin": 797.44,
+      "temps_estime": false,
+      "titre": "11 PM: semaglutide half-life of about seven days",
+      "resume": "Doctors cannot know what was in the compounded dose but expect the patient to ride it out, taking at least a week. Semaglutide's half-life is about 7 days, so half the toxic dose is still active after a week, though levels should be low enough that severe symptoms stop.",
+      "mots_cles": [
+        "half-life",
+        "7 days",
+        "semaglutide",
+        "recovery timeline",
+        "50% still active",
+        "toxic dose",
+        "compounded dose",
+        "11 PM"
+      ],
+      "texte": "The doctors say they can’t really know what was in the compounded GLP-1 you took. But they’re confident that if they keep monitoring your condition, you’ll soon ride it out. How soon? The doctors pause; at least a week. The half-life of semaglutide like Wegovy is about 7 days. Assuming the compounded version you took is similar enough to that, the drug will be coursing through your body for a while. That doesn’t mean the drug will be out of your system after a week. 50% of the toxic dose will still be active. But hopefully, the drug level should be low enough that the more severe symptoms cease. Hopefully. In the meantime, things will only get worse before they get better. Because you’re about to hit the hardest peak yet."
+    },
+    {
+      "id": 25,
+      "debut": 797.44,
+      "fin": 861.2,
+      "temps_estime": false,
+      "titre": "Day 3: the 48-72 hour peak and hypoglycemia",
+      "resume": "The danger zone is the 48 to 72 hour window when the GLP-1 dose peaks in the bloodstream, and abdominal pain, sweating, a racing heart and shaking worsen. Nurses give emergency glucagon for hypoglycemia, usually reserved for severe cases, while the kidneys and another organ are tested.",
+      "mots_cles": [
+        "Day 3",
+        "48-72 hours",
+        "peak concentration",
+        "hypoglycemia",
+        "glucagon",
+        "tremors",
+        "danger zone",
+        "kidneys"
+      ],
+      "texte": "Day 3 7 AM As you approach the 72-hour mark, things start to nosedive. This is the danger zone. This is the window when the GLP-1 dose peaks in your bloodstream, between 48 and 72 hours. You haven't been able to fully sleep in days. Your abdominal pain is only being managed by an aggressive pain medication. But it feels like it's steadily getting worse. Even though you already feel dizzy, weak and confused, you’re developing new symptoms. You’ve been sweating for hours. Uncontrollably. Your heart is racing. Suddenly, your body starts to shake. The 48-72 hour peak window is also when overdose patients are most at risk of developing hypoglycemia. Nurses rush in, in response to your symptoms. Due to your already weakened condition, they don’t want to take any chances. They immediately give you emergency glucagon to treat the hypoglycemia, usually reserved only for the most severe cases. Your blood sugar gets under control, but the semaglutide is still running rampant through your gastrointestinal system. Your blood. Severely testing your kidneys. And one more organ… One that’s about to give out."
+    },
+    {
+      "id": 26,
+      "debut": 861.2,
+      "fin": 897.12,
+      "temps_estime": false,
+      "titre": "10 AM: acute pancreatitis begins",
+      "resume": "As pain medication wears off, stomach pain shoots to the back and shoulders and the skin becomes tender. It is not hypoglycemia: the patient is one of a rare but increasing number with acute pancreatitis, one of the most severe GLP-1 overdose effects, which can be fatal.",
+      "mots_cles": [
+        "acute pancreatitis",
+        "pain radiating to back",
+        "tender skin",
+        "severe side effect",
+        "fatal",
+        "GLP-1 overdose",
+        "10 AM"
+      ],
+      "texte": "10 AM As your pain medication begins to wear off, the pain in your stomach suddenly shoots through you again. This time, it’s unbearable. You know something is wrong. Very wrong The pain is radiating to your back and shoulders. It’s so intense, you can’t even pinpoint where it’s coming from. You put a hand on your stomach to try to soothe it. But now, your skin feels tender to the touch. You start sweating again. You’re burning up. Is the hypoglycemia back? No. You’re one of the rare, but increasing number of people experiencing one of the most severe possible side effects of GLP-1 overdoses: Acute pancreatitis. And it can be fatal."
+    },
+    {
+      "id": 27,
+      "debut": 897.12,
+      "fin": 928.0,
+      "temps_estime": false,
+      "titre": "Pancreatitis statistics and a silent epidemic",
+      "resume": "One agency received almost 1,300 pancreatitis reports in people on GLP-1s over 18 years, with 19 deaths. Thousands of Americans and tens of thousands worldwide are in the same position, mostly through accidental overdose, a silent national and international epidemic sending many to emergency rooms.",
+      "mots_cles": [
+        "pancreatitis cases",
+        "1,300 reports",
+        "19 deaths",
+        "accidental overdose",
+        "emergency room visits",
+        "epidemic",
+        "GLP-1 safety reports"
+      ],
+      "texte": "One agency found that over a period of 18 years, it had received reports of almost 1,300 cases of pancreatitis in people taking GLP-1s. 19 of them died Even with less severe symptoms, thousands of Americans, and tens of thousands of people all across the world are finding themselves in your position. Mostly through no fault of their own, as the overdose is almost always accidental. GLP-1s have been sending countless people to the emergency room because of suspected overdoses. You’re part of a silent, massive national – and international – epidemic."
+    },
+    {
+      "id": 28,
+      "debut": 928.0,
+      "fin": 971.2,
+      "temps_estime": false,
+      "titre": "Wide therapeutic window, yet dosing errors are easy",
+      "resume": "Semaglutide has a wide therapeutic window, usually requiring 5 to 10 times the recommended dose to cause an overdose, but multiplying the dose is easy, especially with compounded versions. A 2025 study found 4.3% of first-time users reported a suspected dosing error in 90 days, and the FDA found cases of doses 20 times the intended amount.",
+      "mots_cles": [
+        "wide therapeutic window",
+        "5 to 10 times dose",
+        "2025 study",
+        "4.3% first-time users",
+        "dosing error",
+        "FDA",
+        "20 times dose",
+        "compounded semaglutide"
+      ],
+      "texte": "Many people unfortunately underestimate the risk of overdosing. Under normal circumstances, semaglutide has what experts call a “wide therapeutic window”. That means it takes a massive amount to tip your body over the edge. Usually you have to take at least 5 to 10 times the recommended dose. But dangerously multiplying your dose is much easier than most people think. Particularly when using compounded semaglutide. One 2025 study found that 4.3% of first time users “reported at least one suspected dosing error in the first 90 days.” Some cases are even worse. The FDA found cases where a compounded alternative, coupled with incorrect measurement conversions, resulted in people administering a GLP-1 dose 20 times higher than their intended dose."
+    },
+    {
+      "id": 29,
+      "debut": 971.2,
+      "fin": 1019.84,
+      "temps_estime": false,
+      "titre": "1,500% rise in poison control calls; GLP-1 use soars",
+      "resume": "Poison control centers tracked a 1,500% increase in GLP-1 overdose calls from 2019 to 2023, a spike compared with the worst-hit areas of the opioid epidemic. GLP-1 use among US adults rose from 3% in 2024 to 11% by 2026, and cost and scarcity push people toward less controlled compounded versions.",
+      "mots_cles": [
+        "poison control calls",
+        "1,500% increase",
+        "2019 to 2023",
+        "opioid epidemic comparison",
+        "GLP-1 usage 11%",
+        "3% in 2024",
+        "compounded versions",
+        "systemic problem"
+      ],
+      "texte": "From 2019 to 2023, poison control centers tracked a 1,500% increase in calls due to GLP-1 overdoses. It’s a massive spike that mirrors the worst affected areas of the opioid epidemic. It’s an emergency crisis that has suddenly appeared out of thin air. And unless every GLP-1 user becomes an expert in dosing and conversions overnight, the problem is only going to get worse. GLP-1 medication use is skyrocketing across the country. In 2024, only 3% of U.S. adults were taking any kind of GLP-1 medication for weight loss. By 2026, that number was up to 11%. It’s almost a fourfold increase in just 2 years. Even if you use the correct dose, on time, every time, the rising cost and scarce availability are forcing people to choose compounded versions. Versions that aren’t as safe or controlled."
+    },
+    {
+      "id": 30,
+      "debut": 1019.84,
+      "fin": 1053.76,
+      "temps_estime": false,
+      "titre": "Dr. Ivania Rizo: call it a dosing error, not an overdose",
+      "resume": "Obesity specialist Dr. Ivania Rizo wants the term overdose replaced with medication or dosing error, because overdose implies self-harm and intention. She argues shortages, high costs and hands-off medicine should be held accountable, shifting focus from blaming patients to product design, labeling and patient education.",
+      "mots_cles": [
+        "Dr. Ivania Rizo",
+        "dosing error terminology",
+        "overdose implies intention",
+        "shortages",
+        "high costs",
+        "product labeling",
+        "patient education",
+        "blame"
+      ],
+      "texte": "It’s not a user-based problem. It’s a systemic one. Obesity specialist, Dr. Ivania Rizo wants to replace the word “overdose” with “medication or dosing error”, when it comes to GLP-1s. Overdose implies an act of self-harm. It gives the patient a measure of intention. But Dr. Rizo thinks the shortages, high costs, and hands-off medicine forcing people into overdose situations should be held accountable for their role in this epidemic instead. As she says, “the distinction matters… it shifts the focus away from blaming patients and towards the underlying issues of product design, labeling and patient education.”"
+    },
+    {
+      "id": 31,
+      "debut": 1053.76,
+      "fin": 1102.08,
+      "temps_estime": false,
+      "titre": "Day 4: acute pancreatitis and the ICU",
+      "resume": "The patient did nothing more than take a weekly prescription, but on Day 4 has full-blown acute pancreatitis after hyperemesis, dehydration and hypoglycemia. Transferred to the ICU, doctors can only give IV fluids and manage pain; one similar patient stayed five days, while this patient's symptoms ease in a couple of days.",
+      "mots_cles": [
+        "Day 4",
+        "acute pancreatitis",
+        "ICU",
+        "IV fluids",
+        "pain management",
+        "5-day ICU stay",
+        "hyperemesis",
+        "hypoglycemia"
+      ],
+      "texte": "You never intended to do anything more than take your weekly prescribed medication. But now, you’re in excruciating pain and absolutely exhausted in a hospital bed. And your about to face your hardest day yet. Day 4 You now have full-blown acute pancreatitis. After already experiencing hyperemesis, moderate dehydration, and hypoglycemia, your body is in complete shock. The doctors transfer you to the ICU to monitor your deteriorating condition. But once again, there’s not much more they can do besides giving IV fluids and managing the pain. At least in the ICU, they can respond to your stats and needs immediately. One patient in your condition ended up in the ICU for 5 days as a result of semaglutide-caused acute pancreatitis. You’re a little luckier. In a couple of days, your symptoms ease up. The pain lessens. The vomiting has almost entirely stopped."
+    },
+    {
+      "id": 32,
+      "debut": 1102.08,
+      "fin": 1123.68,
+      "temps_estime": false,
+      "titre": "Day 7: discharge and lingering questions about the stomach",
+      "resume": "On Day 7 the patient is discharged but is far from normal: the gastrointestinal system is compromised and half the toxic dose is still in the body. The patient wonders whether the digestive system will ever fully function again.",
+      "mots_cles": [
+        "Day 7",
+        "hospital discharge",
+        "gastrointestinal damage",
+        "half the dose remains",
+        "long-term effects",
+        "digestive function"
+      ],
+      "texte": "Day 7 You’re discharged from the hospital entirely. The week from hell is over. But you’re by no means back to normal. Your gastrointestinal system has been severely compromised. Half the toxic GLP-1 dose is still floating around your system. Will your digestive system ever fully turn back on and function like it used to? Or have you permanently destroyed your stomach’s ability to process food?"
+    },
+    {
+      "id": 33,
+      "debut": 1123.68,
+      "fin": 1141.84,
+      "temps_estime": false,
+      "titre": "Leslie Gammon's aftermath: lost voice, no solid food, quit GLP-1s",
+      "resume": "Leslie Gammon, who had a similar ordeal, told NBC she could not talk for nearly a week and could not keep solid food down for at least a month. The experience frightened her so much that she never returned to GLP-1s.",
+      "mots_cles": [
+        "Leslie Gammon",
+        "NBC",
+        "long recovery",
+        "solid food",
+        "quit GLP-1",
+        "overdose aftermath",
+        "patient story"
+      ],
+      "texte": "Reports from other patients aren’t always promising. Leslie Gammon, who underwent a similar ordeal, told NBC, “I couldn’t talk [for] nearly a week after.” She also couldn’t keep solid food down for at least a month after her accidental overdose. The experience scared her so much that she never returned to GLP-1s. The good news is,"
+    },
+    {
+      "id": 34,
+      "debut": 1141.84,
+      "fin": 1160.72,
+      "temps_estime": false,
+      "titre": "Recovery: avoiding permanent damage",
+      "resume": "Because the patient avoided kidney injury and the worst pancreatitis outcomes, permanent damage is not expected. Recovery takes another week of bedrest, plain solid foods return by the end, and appetite takes a month to come back.",
+      "mots_cles": [
+        "recovery",
+        "no permanent damage",
+        "bedrest",
+        "kidney injury avoided",
+        "solid foods",
+        "appetite",
+        "one month"
+      ],
+      "texte": "since you dodged the most severe potential side effects - including kidney injury and acute pancreatitis - you have escaped the possibility of permanent damage. Your body takes some time to fully recuperate. You need another week of bedrest. By the end, you’re eating plain, solid foods again. It takes a month for your appetite to get back to more."
+    },
+    {
+      "id": 35,
+      "debut": 1160.72,
+      "fin": 1175.52,
+      "temps_estime": false,
+      "titre": "Trauma, medical bills and approved GLP-1s only",
+      "resume": "The experience was traumatic and expensive, and the medical bills remind the patient of it. The new in-person physician insists that from now on only approved GLP-1 medication will be used.",
+      "mots_cles": [
+        "medical bills",
+        "trauma",
+        "in-person physician",
+        "approved GLP-1 only",
+        "cost of overdose",
+        "lessons learned"
+      ],
+      "texte": "But the entire horrific experience has been traumatic… and expensive. The pain you went through, and the medical bills you owe, are a reminder. One your new, in-person physician insists on as well. From here on out, it’ll be approved GLP-1 medication only."
+    },
+    {
+      "id": 36,
+      "debut": 1175.52,
+      "fin": 1186.04,
+      "temps_estime": false,
+      "titre": "Outro: the Ozempic miracle, a lifelong nightmare",
+      "resume": "The video closes by noting GLP-1s are touted as a miracle drug but the truth is darker than people admit, and points viewers to a follow-up video titled The Ozempic miracle. A lifelong NIGHTMARE.",
+      "mots_cles": [
+        "GLP-1 miracle drug",
+        "follow-up video",
+        "outro",
+        "Ozempic",
+        "dark truth",
+        "GLP-1 risks"
+      ],
+      "texte": "GLP-1’s are being touted as a miracle drug. But the truth behind it is darker than anyone wants to admit. Watch “The Ozempic miracle. A lifelong NIGHTMARE” to find out why. Or click on this."
+    }
+  ]
+}
