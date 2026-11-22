@@ -4,12 +4,12 @@
   "titre_video": "How AI quietly rewrote daily life in under 3 years",
   "duree_s": 13291.68,
   "avancement": {
-    "lignes_traitees": 2638,
-    "fin_traitee_s": 5533.04,
+    "lignes_traitees": 3553,
+    "fin_traitee_s": 7537.76,
     "nb_lignes_total": 6328,
     "complet": false
   },
-  "nb_segments": 114,
+  "nb_segments": 150,
   "segments": [
     {
       "id": 1,
@@ -2149,7 +2149,7 @@
     {
       "id": 114,
       "debut": 5473.76,
-      "fin": 5533.04,
+      "fin": 5530.88,
       "temps_estime": false,
       "titre": "Why insurers exclude AI: unpriceable risk leaves companies exposed",
       "resume": "The AI liability market repeats the cyber insurance cycle of invisible coverage, then exclusions, then costly standalone products. Insurers are not moral actors: 42% tracked no AI risk metrics, and what can't be measured can't be priced, so it is excluded, leaving companies holding all liability for public-facing AI on hardware that is rapidly losing value.",
@@ -2164,6 +2164,689 @@
         "depreciating hardware"
       ],
       "texte": "industry has seen this movie before. A decade ago, cyber insurance went through an identical cycle. [music] There was invisible coverage until claims mounted and then came the exclusions. Eventually, standalone products emerged at [music] premiums most companies couldn't stomach. The AI liability market is speedr runninging the same cycle. [music] Insurance companies are not moral actors. They do not exclude things because they find them distasteful. [music] They exclude them because the numbers don't work. They tried to price in AI liability throughout 2024 and 2025. And [music] 42% of insurers reported tracking no AI risk metrics at all. When you can't measure risk, you can't [music] price it. And when you can't price it, you exclude it. The legal system said, \"Whatever your AI does, you did it.\" The insurance industry said, \"And we won't be covering that.\" Which left every company still running public-f facing AI deployment holding the entire liability themselves, all on hardware that was simultaneously losing most of its value."
+    },
+    {
+      "id": 115,
+      "debut": 5530.88,
+      "fin": 5569.28,
+      "temps_estime": false,
+      "titre": "The H100 boom: from scarce asset to $5 trillion Nvidia",
+      "resume": "In summer 2023 renting a Nvidia H100 GPU cost $7 to $10 an hour and buying one on the secondary market $40,000 to $50,000, and startups listed H100s on balance sheets as assets. Nvidia's market cap passed $1 trillion and hit $5 trillion in February 2026, making the H100 briefly the most strategically valuable hardware on Earth.",
+      "mots_cles": [
+        "Nvidia H100",
+        "GPU rental price",
+        "secondary market",
+        "Nvidia market cap",
+        "$5 trillion",
+        "AI arms race",
+        "balance sheet assets",
+        "2023"
+      ],
+      "texte": "[music] In the summer of 2023, if you wanted to rent a single Nvidia H100 GPU, a foundational chip in the inception of the AI arms race, [music] you were paying between $7 and $10 an hour. to buy one outright on the secondary market. You were looking at $40,000 to $50,000 per card. Startups were putting H100s on their balance sheets like [music] assets, and venture capitalists were asking portfolio companies how many they had on their books. Nvidia's market cap soon passed the $1 trillion [music] threshold, and it kept rising. In February 2026, it hit 5 trillion. The H100 was, for a [music] brief, dizzying moment the most strategically valuable piece of hardware on the Earth. Today,"
+    },
+    {
+      "id": 116,
+      "debut": 5569.28,
+      "fin": 5610.72,
+      "temps_estime": false,
+      "titre": "H100 price collapse and the GPU cloud glut",
+      "resume": "Today an H100 rents for about $2 an hour; in June 2025 AWS cut H100 pricing by 45% and the secondary market collapsed, with cards worth less than half their peak and $350,000 server systems selling for a fraction. Over 300 new GPU cloud providers entered in 2025 selling capacity nobody bought at the projected rate, leaving companies selling cards at a loss.",
+      "mots_cles": [
+        "H100 price drop",
+        "AWS price cut 45%",
+        "GPU glut",
+        "GPU cloud providers",
+        "secondary market collapse",
+        "server systems",
+        "capacity oversupply",
+        "2025"
+      ],
+      "texte": "you can rent one for $2 an hour. In June 2025, AWS cut H100 [music] pricing by 45% overnight. The secondary market collapsed right behind it. GPUs that had sold for as much as 50 grand during the AI boom were suddenly worth less than half that. Entire H100 server systems that once cost more than >> [music] >> $350,000 were now trading for a fraction of their peak value. Over 300 new GPU cloud providers entered the market in 2025 alone. All of them selling capacity that nobody was buying at the rate anyone projected. Thousands of companies weighing [music] up where to sell the cards at a loss. It is the difference between making payroll and not making payroll. This signals a deeper problem"
+    },
+    {
+      "id": 117,
+      "debut": 5610.72,
+      "fin": 5665.16,
+      "temps_estime": false,
+      "titre": "The scarcity thesis fractures: DeepSeek and the fiber glut analogy",
+      "resume": "The infrastructure thesis assumed compute was scarce and the biggest compute owner would win, but DeepSeek built a GPT-4-competitive model on a budget Meta spends on catering. The video compares the H100 fire sale to the late-1990s telecom fiber glut, where over $500 billion went into fiber based on 1,000% traffic growth projections and the asset was real but the business model was not.",
+      "mots_cles": [
+        "compute scarcity",
+        "DeepSeek",
+        "fiber optic glut",
+        "telecom bubble",
+        "1990s overbuild",
+        "H100 fire sale",
+        "infrastructure thesis",
+        "business model"
+      ],
+      "texte": "about the infrastructure [music] thesis that justified the entire buildout. The argument was always that compute was [music] scarce. That scarcity created value and whoever controlled the most compute would win out in the AI race. Deepseek fractured that argument by building a model competitive with GPT4 on a budget that Meta spends on catering. The telecom industry learned the lesson the hard way in the late 1990s when companies invested more than $500 billion in fiber optic cables based on projections of a 1,000% annual internet traffic growth. When monetization stalled, the debt markets closed. [music] Miles of fiber sat dark for years owned by companies that no longer existed. The asset had been real, but the business model built on top of it had not. No amount of Google fiber buildouts by the 2010s could fix that. The H100 fire sale is the fiber glut of 2025. The hardware is real. The revenue was supposed to follow. It hasn't."
+    },
+    {
+      "id": 118,
+      "debut": 5665.16,
+      "fin": 5734.59,
+      "temps_estime": false,
+      "titre": "Stock buybacks as a signal: companies not betting on the future",
+      "resume": "Corporations buy back shares when they believe their stock is a better investment than their future: this reduces shares and lifts earnings per share. Alphabet has spent about $280 billion on buybacks, Meta and Microsoft tens of billions, and Apple $74 billion over a decade, more than the market value of 488 S&P 500 companies, before data center bills piled up.",
+      "mots_cles": [
+        "share buybacks",
+        "earnings per share",
+        "Alphabet $280 billion",
+        "Apple $74 billion",
+        "Meta",
+        "Microsoft",
+        "capital allocation",
+        "stock price"
+      ],
+      "texte": "[music] Today, the trillion dollar companies watching their hardware depreciate have made a calculated decision on what to do with their cash instead. There's a move corporations make when they believe [music] their own stock is a better investment than their future. They take their cash and they use it to buy back their own shares. This [music] reduces the number of shares in circulation, boosting earnings per share, which then lifts the [music] stock price. Investors love it. Boards love it. Everyone wins. Yet, it is a signal that the smartest people in the room looked at every opportunity available and they chose not to bet on the future. Instead, they bet on the thing already making money today. Over the last 5 years, the companies loudest about the AI revolution have been doing exactly [music] this at a scale that is difficult to fully absorb. Alphabet has spent about $280 billion buying back its own stock. Meta and Microsoft have spent tens of billions. Apple, which barely talked about AI until recently, has [music] spent $74 billion buying back its own stock over the past decade. That's more than the entire market value of 488 companies in the S&P 500. And then the data center bill started piling up. All of the money disappeared."
+    },
+    {
+      "id": 119,
+      "debut": 5734.59,
+      "fin": 5764.32,
+      "temps_estime": false,
+      "titre": "Microsoft's untouched $60 billion buyback",
+      "resume": "In September 2024 Microsoft promised a $60 billion buyback, but a year later $57.3 billion of it remained untouched because spare dollars were redirected into servers, data centers and AI infrastructure. In effect they wrote the check but could not afford to cash it.",
+      "mots_cles": [
+        "Microsoft buyback",
+        "$60 billion",
+        "$57.3 billion untouched",
+        "AI infrastructure spending",
+        "shareholders",
+        "data centers",
+        "cash redirected"
+      ],
+      "texte": "[music] In September 2024, Microsoft promised shareholders a $60 billion buyback program. It signaled that the company was flush, confident, [music] and committed to returning cash to the people who owned it. A year later, 57.3 billion of that promise [music] still sits completely untouched. Microsoft didn't change its mind, but every spare dollar was getting redirected into paying for servers, data centers, and AI infrastructure instead. In other words, they wrote the check. They just couldn't afford to cash it. This is what the AI"
+    },
+    {
+      "id": 120,
+      "debut": 5764.32,
+      "fin": 5814.88,
+      "temps_estime": false,
+      "titre": "The AI arms race is funded on credit, not profits",
+      "resume": "From the inside the arms race is a scramble to fund the buildout squeezed between investor expectations and soaring infrastructure costs: Microsoft's buyback is an uncollectable IOU, Alphabet's free cash flow is projected to fall almost 90% in 2026 from $73.7 billion to $8.2 billion, and five tech giants issued $121 billion in bonds in 2025, four times the usual annual average.",
+      "mots_cles": [
+        "Alphabet free cash flow",
+        "$121 billion bonds",
+        "debt financing",
+        "AI infrastructure cost",
+        "Microsoft IOU",
+        "tech borrowing",
+        "arms race",
+        "funded on credit"
+      ],
+      "texte": "arms race really looks like from the inside. The story [music] being sold is one of a confident sprint into the future. The reality is a scramble to fund it. Companies are being squeezed between investor expectations and the soaring cost of AI infrastructure. For Microsoft, that's led to a $60 billion commitment sitting on the books like an IOU that nobody can collect. Alphabet's free cash flow is projected to plummet almost 90% in 2026 from 73.7 billion down to $8.2 billion. And in 2025, Alphabet, Amazon, Oracle, Meta, and Microsoft issued $121 billion in new debt via bonds to keep the lights on. That is four times what the entire tech industry borrowed on average in any year of the previous decade. The AI revolution is being funded on credit, not profits. And the org charts that"
+    },
+    {
+      "id": 121,
+      "debut": 5814.88,
+      "fin": 5901.04,
+      "temps_estime": false,
+      "titre": "From generative AI hype to agentic workflows: smaller promises",
+      "resume": "In 2023 the phrase generative AI carried mystery for companies with no plan; by 2026 it became agentic workflows and intelligent automation, the same technology with dramatically smaller promises. Companies that survived the project graveyard made AI smaller, narrower and harder to sue over, like ticket routing and contract clause scanning that are dull, measurable and catchable by humans.",
+      "mots_cles": [
+        "generative AI",
+        "agentic workflows",
+        "marketing language",
+        "narrow AI projects",
+        "ticket routing",
+        "contract scanning",
+        "measurable AI",
+        "2023 vs 2026"
+      ],
+      "texte": "were supposed to prove this was working have started to change. At some point in 2023, someone in a corporate communications department typed [music] the words generative AI into a press release and felt genuinely excited about their job. The phrase had some weight. It had mystery. It implied that the machine was creating something, thinking, almost [music] generating. The word did a lot of heavy lifting for a lot of companies that had no idea what they were actually going to do with the technology. By 2026, the impetus for generative AI has turned into [music] agentic workflows. People are talking about autonomous process orchestration and intelligent automation. It's the exact same technology, but the promises for what it can deliver are dramatically smaller. Today, the [music] gap between the language of 2023 and the language of 2026 tells you almost everything you need to know about what happened in between. The conversation has shifted from possibility to proof, from what could this do to what did it actually deliver. The companies that survived the graveyard of AI project rollouts did so by making their AI projects smaller, [music] narrower, and harder to sue over. Not by funneling all their cash into chat bots that could answer any question, or AI that writes company strategy. Well, [music] what this means is a lot of routing software that sends customer service tickets to the right department and AI [music] that scans contracts for non-standard clauses. Things that are dull, specific, and measurable. Things that are wrong in ways that humans can still catch [music] before they get expensive. and the job"
+    },
+    {
+      "id": 122,
+      "debut": 5901.04,
+      "fin": 5953.04,
+      "temps_estime": false,
+      "titre": "Chief AI officers become compliance executives",
+      "resume": "The share of organizations with a chief AI officer or CIO jumped from 26% in 2025 to 76% in 2026 per an IBM study of 2,000 CEOs in 33 countries, but the role changed from AI evangelist to risk management, regulatory compliance and governance. The EU AI Act fully applies in August 2026, requiring companies to name who is accountable when AI causes harm.",
+      "mots_cles": [
+        "chief AI officer",
+        "IBM study",
+        "76% of organizations",
+        "EU AI Act",
+        "August 2026",
+        "AI governance",
+        "compliance",
+        "accountability"
+      ],
+      "texte": "titles reflect that. In 2025, 26% of organizations had a chief AI officer or CIO. By 2026, that number jumped to [music] 76%, tripling in a single year. According to an IBM study of 2,000 CEOs across 33 countries, but read the fine print on what those CIOS are actually being hired to do, and it is obvious the role has fundamentally [music] changed. It used to be AI evangelists promoting the technology. Now its executives responsible for things like risk management, regulatory compliance, and [music] governance. The EU AI act kicks in fully in August 2026, requiring companies to identify exactly who is accountable when their AI causes harm. The CIO is increasingly the person whose name goes on that form. Probably not the [music] job description anyone imagined when they coined the title, but here we are. Meanwhile, the outcome of the"
+    },
+    {
+      "id": 123,
+      "debut": 5953.04,
+      "fin": 5992.56,
+      "temps_estime": false,
+      "titre": "Earnings-call language shifts: the revolution got a job in middle management",
+      "resume": "On earnings calls AI-powered is out and outcome-focused workflows is in, meaning the AI does a specific measurable task. The dream behind the $725 billion buildout was AI running whole departments, but chief AI officers with compliance checklists now do work unrecognizable to the original press releases: the revolution got a job in middle management.",
+      "mots_cles": [
+        "earnings calls",
+        "outcome-focused workflows",
+        "$725 billion buildout",
+        "AI hype retreat",
+        "compliance checklists",
+        "middle management",
+        "AI promises",
+        "measurable tasks"
+      ],
+      "texte": "earnings calls has quietly shifted, too. AI powered is out. [music] outcome focused workflows is in which is if you read it slowly enough a very expensive [music] way of saying that the AI does a specific task and you can measure whether it worked or not. The dream that produced the [music] $725 billion buildout was always something closer to science fiction. AI that could run an entire department, write strategy, replace an entire team or what have you. C AIOS with compliance checklists and the EU AI act obligations are now doing work that would have [music] been unrecognizable to the people who wrote the original press releases. The revolution got a job in middle management. And the reason it ended up"
+    },
+    {
+      "id": 124,
+      "debut": 5992.56,
+      "fin": 6039.6,
+      "temps_estime": false,
+      "titre": "Mata v. Avianca: lawyers cite cases ChatGPT invented",
+      "resume": "In 2023 attorneys Steven Schwartz and Peter LoDuca filed a brief in the Southern District of New York citing realistic cases such as Varghese v. China Southern Airlines; Judge P. Kevin Castel found none existed because ChatGPT invented them with absolute confidence. The lawyers were sanctioned and their names attached to Mata v. Avianca, a cautionary legal case.",
+      "mots_cles": [
+        "Mata v. Avianca",
+        "Steven Schwartz",
+        "Peter LoDuca",
+        "Judge Castel",
+        "fabricated cases",
+        "ChatGPT hallucination",
+        "legal sanctions",
+        "Southern District of New York"
+      ],
+      "texte": "there is something the industry has been trying to explain away since the beginning. Back in 2023, when ChatGpt was still a twinkle in many people's eyes, attorneys Steven Schwarz and Peter Luduca filed a legal brief in the Southern District of New York. The brief cited very real sounding cases with very real sounding names and very real sounding outcomes as precedent. Vargasi v China Southern Airlines, Martinez v Delta Airlines and Shaboon v Egypt Air. And then Judge P. Kevin Castell looked them up and none of them existed. Chad GPT had invented every single one with absolute confidence. Schwarz and Luca were sanctioned, publicly humiliated, and their names are now permanently attached to one of the most cautionary legal filings in American judicial history, Mata v. Aviana. [music] That"
+    },
+    {
+      "id": 125,
+      "debut": 6039.6,
+      "fin": 6080.08,
+      "temps_estime": false,
+      "titre": "AI-hallucinated legal citations keep growing",
+      "resume": "Things didn't improve: in August 2025 Judge Allison Bakas sanctioned a lawyer whose brief had 12 fabricated or unsupported citations out of 19, a California court ordered two firms to pay about $31,000 for bogus AI research, and three Morgan and Morgan lawyers were sanctioned. There are over 1,600 documented AI hallucination cases while 79% of lawyers use AI tools.",
+      "mots_cles": [
+        "AI hallucinations in court",
+        "sanctioned lawyers",
+        "fake citations",
+        "Morgan and Morgan",
+        "1,600 documented cases",
+        "79% of lawyers use AI",
+        "Judge Bakas",
+        "legal brief"
+      ],
+      "texte": "was in 2023. Things didn't improve. In August 2025, US District Judge Allison Bakas sanctioned a lawyer whose brief [music] contained 12 fabricated or unsupported citations out of 19. A California court ordered two law firms to pay just over $31,000 in fees for filing what a judge described [music] as bogus AI generated research. In February 2025, three lawyers from the national firm Morgan and Morgan were sanctioned for the same thing. [music] There are now over 1,600 documented cases involving AI generated hallucinations [music] with 79% of lawyers reporting that they use AI tools internally in their practice. Why does this keep"
+    },
+    {
+      "id": 126,
+      "debut": 6080.08,
+      "fin": 6145.36,
+      "temps_estime": false,
+      "titre": "Why hallucinations can't be fixed: next-word prediction",
+      "resume": "Large language models are poor at looking things up in specific databases; their whole mechanism is predicting the next statistically likely word, with no internal alarm when output stops being true. In 2025 OpenAI researchers concluded hallucinations are mathematically inevitable, since the predictive mechanism that makes models useful is the same one that makes them lie.",
+      "mots_cles": [
+        "LLM hallucinations",
+        "next-token prediction",
+        "no internal alarm",
+        "OpenAI research 2025",
+        "mathematically inevitable",
+        "statistical patterns",
+        "fabricated cases",
+        "training data"
+      ],
+      "texte": "happening? [music] Why hasn't it been fixed? Well, because it can't be. Large language models are actually very poor at looking things up. They're not attuned to retrieving facts from specific [music] databases and handing them to you on a platter. Rather, their entire mechanism, start to finish, is to predict the next most statistically likely word based on patterns learned from training data. That's it. When the output stops being true, there's no internal alarm claxons that start blaring. It's rare that your local LLM will humble itself enough to admit [music] that it's actually not really too sure about that fact or how it even got there logically. The model will generate whatever continuation sounds most plausible. [music] Sometimes that is perfectly accurate. Sometimes it's Vargas v. China Southern Airlines, a case that [music] doesn't exist described in convincing detail to a federal judge. In 2025, OpenAI researchers proved this. Their conclusion was that LLM hallucinations were such a big part of how these systems generate [music] text that they had become mathematically inevitable. The same predictive mechanism that makes them [music] useful is the same mechanism that makes them lie. You can't have one without the other. The numbers"
+    },
+    {
+      "id": 127,
+      "debut": 6145.36,
+      "fin": 6201.92,
+      "temps_estime": false,
+      "titre": "Hallucination rates by domain: 15% to 88%",
+      "resume": "A 2026 benchmark of 37 models found hallucination rates from 15% to 52%, so even the best model errs about one in seven; Stanford found 58% to 88% in legal queries, 64% in medical case summaries without mitigation, and about 22% on average. Some newer reasoning models hallucinate more than older ones, and a human with such error rates would not survive a week at work.",
+      "mots_cles": [
+        "hallucination rate",
+        "37 models benchmark",
+        "Stanford legal queries",
+        "medical summaries 64%",
+        "22% average",
+        "reasoning models",
+        "customer interactions",
+        "accuracy"
+      ],
+      "texte": "are not flattering. A 2026 benchmark across 37 models found hallucination rates [music] ranging from 15% to 52%. Those are the best models money can buy. The single [music] most reliable one still gets it wrong one time in seven. Stanford found rates between 58% and [music] 88% in legal queries specifically. In medical case summaries, 64% hallucinate without mitigation. The industry average across leading models sits around 22%. [music] That means the AI your company deployed to talk to customers is confidently wrong one out of every five interactions. Some newer reasoning models hallucinate more than older ones. The technology is [music] not converging on zero. employed is converging on less catastrophically bad than before, which is a very different thing. A human employee who got their facts wrong at these rates [music] would not survive their first week at a job. The fact that these systems were deployed to millions of people simultaneously should raise another obvious question. If this is the"
+    },
+    {
+      "id": 128,
+      "debut": 6201.92,
+      "fin": 6254.08,
+      "temps_estime": false,
+      "titre": "Jane Street and the most profitable AI operations",
+      "resume": "While Fortune 500 companies cancelled chatbots, Jane Street posted $39.6 billion in net trading revenue in 2025, more than Goldman Sachs, using about 3,000 people and AI systems, with a record $10.1 billion in Q2. Citadel Securities made $12.2 billion and Hudson River Trading $12.3 billion, together handling over half of captured market-making and quantitative trading revenue.",
+      "mots_cles": [
+        "Jane Street",
+        "$39.6 billion",
+        "Citadel Securities",
+        "Hudson River Trading",
+        "quantitative trading",
+        "market making",
+        "profitable AI",
+        "trading revenue"
+      ],
+      "texte": "technology, who on earth is actually making money from it? While the Fortune 500 was busy cancelling chat bots, a firm called Jane Street posted $39.6 billion in net trading revenue in 2025. That is more than Goldman Sachs. It's more than JP Morgan's entire trading operation. And all of that was generated by roughly 3,000 people working across four offices using AI systems. In Q2 2025 alone, Jane Street made 10.1 billion. It was a record for any trading firm in history. For comparison, Citadel Securities posted 12.2 billion for the full year, a 25% increase over 2024. Hudson River Trading posted 12.3 billion. These firms combined to handle more than half of the captured market making revenue and quantitative trading globally. They are by any measure the most profitable AI operations on Earth."
+    },
+    {
+      "id": 129,
+      "debut": 6254.08,
+      "fin": 6319.44,
+      "temps_estime": false,
+      "titre": "The brutally honest referee: why trading AI works",
+      "resume": "Trading AIs execute microsecond trades on $2 trillion monthly volume where clean data and instant feedback expose a hallucination as an expensive mistake. When Jane Street's AI is wrong the market charges it immediately, forcing instant retraining; AI winners are those with problems where wrong answers are caught fast and cost money, unlike enterprise chatbots without such a referee.",
+      "mots_cles": [
+        "feedback loop",
+        "microsecond trading",
+        "instant retraining",
+        "financial loss as feedback",
+        "AI winners",
+        "enterprise chatbots",
+        "referee",
+        "hallucination cost"
+      ],
+      "texte": "The reason you haven't heard much about them in the AI debate is simple. [music] Their systems aren't writing emails or answering customer service tickets. They execute trades in micros secondsonds across $2 trillion in monthly equity volume. In that world, the data is so clean and feedback is so immediate that a hallucination is instantly exposed as an expensive mistake. [music] The compute is the same. The feedback loop isn't. When Jane Street's AI is wrong, the market tells it immediately and charges it money for the error. Forget 90-day grace periods while customers file a legal complaint. There is absolutely no tribunal ruling on whether the output was misleading in the first place. wrong is financial loss, potentially financial ruin for some, which triggers [music] instant retraining. The system improves because it can't afford not to. The winners of the AI revolution so far are companies that have found problems where wrong answers are caught fast, cost real money, and force immediate correction. These AI models have something that the enterprise chatbots don't, a brutally honest referee. The companies without it are the ones staring at empty data centers and unpaid energy bills. And the"
+    },
+    {
+      "id": 130,
+      "debut": 6319.44,
+      "fin": 6366.24,
+      "temps_estime": false,
+      "titre": "CoreWeave: heavy debt and dependence on Microsoft",
+      "resume": "CoreWeave grew from $16 million revenue in 2022 to $1.9 billion in 2024 and runs GPU clusters for the AI buildout, but carries $24.5 billion in debt with $7.5 billion of interest due by end of 2026. 62% of its revenue comes from Microsoft, the same company whose free cash flow is collapsing and whose $60 billion buyback is untouched.",
+      "mots_cles": [
+        "CoreWeave",
+        "GPU clusters",
+        "$24.5 billion debt",
+        "interest payments",
+        "Microsoft customer concentration",
+        "62% revenue",
+        "AI infrastructure",
+        "financial risk"
+      ],
+      "texte": "bill in 2026 is coming due. Coreweave is, depending on who you ask, either the most important AI infrastructure company in America or the most instructive cautionary tale. It grew from $16 million in revenue in 2022 to $1.9 billion in 2024. It owns and operates the GPU clusters that power a significant chunk of the AI buildout. It also has 24.5 billion dollars in total debt, 7.5 billion in interest payments due by the end of 2026. [music] 62% of its revenue comes from a single customer, Microsoft. That same Microsoft that just told shareholders its free cash flow is collapsing and its $60 billion buyback program is sitting untouched because it can't afford to execute it. That is undoubtedly a very expensive gamble on one relationship."
+    },
+    {
+      "id": 131,
+      "debut": 6366.24,
+      "fin": 6401.52,
+      "temps_estime": false,
+      "titre": "Telecom bust echo and Michael Burry's depreciation warning",
+      "resume": "The AI data center buildout resembles the telecom boom that ended with dark fiber in 2001 and $2 trillion in market value wiped out in two years: infrastructure was real but revenue never showed up. Michael Burry argues hyperscalers depreciate Nvidia chips over five to six years though economic life is two to three, understating depreciation by about $176 billion through 2028.",
+      "mots_cles": [
+        "telecom bust",
+        "dark fiber",
+        "Michael Burry",
+        "chip depreciation",
+        "$176 billion",
+        "hyperscalers",
+        "Nvidia chips",
+        "accounting"
+      ],
+      "texte": "The AI data center buildout is starting to look familiar to financial historians. Just like the telecom boom that ended with dark fiber in 2001 and $2 trillion in market value wiped out in 2 years. The infrastructure was real. The revenue never showed up. Now [music] the ground is shifting again. Investor Michael Bur, the man who predicted the 2008 financial crash, has argued that hyperscalers are depreciating Nvidia's chips over 5 to 6 years. That [music] is despite their economic life being closer to 2 or three. He puts the understated depreciation across the industry at roughly $176 billion through 2028. [music]"
+    },
+    {
+      "id": 132,
+      "debut": 6401.52,
+      "fin": 6456.72,
+      "temps_estime": false,
+      "titre": "Cheaper intelligence, data center delays and the DGX Spark",
+      "resume": "Chinese AI labs close the gap with American frontier models in weeks at a fraction of cost, with an open-weight model matching GPT-5 on engineering benchmarks at one-sixteenth the token price, and about half of US data centers planned for 2026 face delay or cancellation. Nvidia's $4,700 DGX Spark desktop runs models that once needed a server room, so demand just has to grow slower than promised to make $725 billion a very expensive mistake.",
+      "mots_cles": [
+        "Chinese open-weight models",
+        "GPT-5",
+        "token price",
+        "data center delays",
+        "DGX Spark",
+        "$4,700",
+        "$725 billion",
+        "infrastructure mistake"
+      ],
+      "texte": "Meanwhile, Chinese AI labs are closing the performance gap with American Frontier models in weeks at a fraction of the cost. A new openweight model from China can trade blows with GPT5 on engineering benchmarks at 16th the price per token. Intelligence is getting cheaper faster than the infrastructure built to sell it can depreciate. Roughly half of US data centers planned for 2026 are already facing delay or cancellation. And now Nvidia has released a desktop computer, [music] the DGX Spark, that costs $4,700. It sits next to your monitor, and it runs models that just 2 years ago required an entire server room. If that level of compute can sit on a desk, the demand for billion-dollar data centers doesn't have to collapse. It just has to grow slower than investors were promised. And that [music] gap between projection and reality is what turns $725 billion of infrastructure into a very expensive mistake. And now everyone"
+    },
+    {
+      "id": 133,
+      "debut": 6456.72,
+      "fin": 6504.24,
+      "temps_estime": false,
+      "titre": "The AI efficiency cover story: debt, panic and software engineers",
+      "resume": "The video claims that the story that AI is so smart it replaced developers is a cover story for a corporate panic: big tech took on mountains of debt for AI buildouts, returns haven't materialized, and with investors pressing and interest rates up, companies cut costs and software engineers are in the firing line. It argues they are destroying the code itself, damaging software development and threatening the US economy.",
+      "mots_cles": [
+        "AI efficiency myth",
+        "corporate panic",
+        "tech debt",
+        "software engineers layoffs",
+        "interest rates",
+        "buildout returns",
+        "software development",
+        "US economy"
+      ],
+      "texte": "can see it. It seems like the AI revolution isn't living up to its hype. In fact, it may be worse. AI is so smart that it's replaced developers. It's faster, cheaper, and more productive. Except that's a lie. AI efficiency is just a convenient cover story for something much darker. A massive multi-billion dollar corporate panic. Big tech took on a mountain of debt to fund their AI buildouts. But the returns haven't materialized. Now with investors breathing down their neck and soaring interest rates, these companies are desperate to cut [music] costs just to keep the lights on. And software engineers are in the firing line. But they aren't just axing jobs. They're destroying the code itself. Software development is being shattered in ways it can't be repaired, and it's about to crash the US economy, taking the rest of the world down with it. The early"
+    },
+    {
+      "id": 134,
+      "debut": 6504.24,
+      "fin": 6578.32,
+      "temps_estime": false,
+      "titre": "AI coding speed versus code churn",
+      "resume": "AI lets code be turned out 4 to 10 times faster than non-AI coding, but faster code is not better code: GitClear's analysis of 211 million lines shows churn, code written then modified or discarded, more than doubled from about 3.3% in 2021 to 6.87% in 2025. Developers spend more time fixing broken code and less shipping, the opposite of the promised cheat code.",
+      "mots_cles": [
+        "AI coding",
+        "code churn",
+        "GitClear",
+        "211 million lines",
+        "6.87%",
+        "developer productivity",
+        "maintenance costs",
+        "4 to 10 times faster"
+      ],
+      "texte": "promise of AI software development was so impressive that you can't really blame the big tech companies for embracing it at scale. By most estimates, AI allows code to be turned out at anywhere from 4 to 10 times the rate of nonAI coding. In theory, faster output should translate into more products delivered more rapidly, and that means more profits and higher share prices. But faster code doesn't equate to better code. That's precisely where the problem with AI coding efficiency lies. You just need to look at the code churn rates. That's the frequency that code is written, modified, or tossed into the trash. According to Getclear's analysis of 211 million lines of code, the churn rate has more than doubled since the adoption of AI coding began. In 2021, it was roughly 3.3%. In other words, for every 1,000 lines of code written originally, 33 would need to be rewritten or binned somewhere down the line. The more time developers spend fixing broken code, the less time they have to ship new products. Ideally, the turn rate is as close to zero as possible. AI was supposed to be the ultimate cheat code. It would increase output without a spike in costly down the line maintenance. But the opposite has happened. By 2025, code churn had increased to 6.87%."
+    },
+    {
+      "id": 135,
+      "debut": 6578.32,
+      "fin": 6620.72,
+      "temps_estime": false,
+      "titre": "AI-generated code and security vulnerabilities",
+      "resume": "Veracode's analysis of 100 to 150 LLMs finds 45% of AI code generation tasks introduce at least one known security risk, so just over half of AI code passes basic security tests. Java fails over 70% of the time and Python has a vulnerability rate of about 38%, which would be acceptable only if products shipped faster.",
+      "mots_cles": [
+        "Veracode",
+        "AI code security",
+        "45% vulnerabilities",
+        "Java failure rate",
+        "Python 38%",
+        "security tests",
+        "LLM code generation",
+        "vulnerabilities"
+      ],
+      "texte": "More code is being written or revised, potentially increasing maintenance and review costs, and that brings vulnerabilities. Veraricode's analysis of between 100 and 150 large language models or LLMs consistently finds that 45% of AI code generation tasks introduce at least one known security risk. In other words, just over half of AI generated code passes even basic security tests. Depending on the programming language and the testing method, that number varies. Java is the weakest performer with a failure rate exceeding 70%. Python performs slightly better, but still has a vulnerability rate of around 38%. That might be acceptable if the result is a market ready product being shipped quicker. But"
+    },
+    {
+      "id": 136,
+      "debut": 6620.72,
+      "fin": 6659.36,
+      "temps_estime": false,
+      "titre": "DX study: AI tool use up 65%, throughput up just 7.76%",
+      "resume": "A 2026 study by DX of over 400 companies found that between November 2024 and February 2026 they raised AI tool use by 65% expecting more shipped software, but median pull request throughput per developer rose only 7.76%. AI lets individual developers generate code faster but this has not translated into shipped value.",
+      "mots_cles": [
+        "DX study",
+        "400 companies",
+        "pull request throughput",
+        "7.76%",
+        "AI tool adoption",
+        "shipped software",
+        "developer productivity",
+        "return on AI"
+      ],
+      "texte": "again, the opposite is happening. A 2026 study by research firm DX analyzed over 400 companies. Between November 2024 and February 2026, they increased their use of AI tools by 65% expecting a notable increase in shipped software. The results said otherwise. The median PR throughput, the number of pull requests completed by each developer, rose by just 7.76%. The more pull requests there are, the greater the output. The return from AI was pretty pathetic. AI might let individual developers generate code faster, but it's not translated into shipped value. Not even close. The total"
+    },
+    {
+      "id": 137,
+      "debut": 6659.36,
+      "fin": 6718.8,
+      "temps_estime": false,
+      "titre": "Higher total cost of ownership for AI-assisted software",
+      "resume": "A technology touted as a cost cutter proves a cost multiplier: a 2026 analysis found the total cost of ownership of AI-assisted software will be 30 to 40% higher by 2027, and GitClear data suggest unmanaged maintenance costs can reach four times traditional levels by year two. Bugs are harder to fix once in the codebase, and production bugs add security incidents, compliance fines and legal issues.",
+      "mots_cles": [
+        "total cost of ownership",
+        "TCO",
+        "maintenance costs",
+        "GitClear",
+        "bug fixing",
+        "production bugs",
+        "compliance fines",
+        "cost multiplier"
+      ],
+      "texte": "cost of ownership of AI assisted software is significantly higher than what it was supposed to be. A technology touted as a cost cutter has turned out to be a cost multiplier. A 2026 industry analysis found that the total cost of ownership or TCO for AI assisted software will be 30 to 40% higher by 2027 compared to traditional development. [music] Fixing twice as many bugs is timeconuming and expensive. Git Clear's data indicates that by year two of using AI to code, if unmanaged, it'll drive maintenance costs up to four times that of traditional levels. That is a huge amount of extra work for the human developers who need to fix the mess. The costs don't outweigh the benefits. It's much harder and it takes longer to fix code once it's been uploaded into the full codebase. If a bug slips into actual production, the problems become even worse. In addition to the extra engineering costs, there's also the possibility of security incidents, compliance fines, and legal issues. In the preAI era, the main"
+    },
+    {
+      "id": 138,
+      "debut": 6718.8,
+      "fin": 6763.2,
+      "temps_estime": false,
+      "titre": "The bottleneck moves to code review",
+      "resume": "Before AI the bottleneck was code generation; now buggy generated code clogs review queues and reviewers spend more time per pull request, burning the savings from faster generation through the overhead of reviewing, securing and rewriting. Ironically AI has not replaced developers but created new demand for them to clean up its mess.",
+      "mots_cles": [
+        "code review",
+        "review queues",
+        "bottleneck",
+        "pull requests",
+        "AI-generated bugs",
+        "overhead",
+        "developer demand",
+        "cleanup"
+      ],
+      "texte": "bottleneck in delivering shippable code usually took place at the code generation phase. AI writing code was supposed to fix that. [music] Instead, it just moved the bottleneck further down the line. Because there's so much more buggy code being generated, review cues are clogged. Reviewers are forced to spend more time per poll request to ensure the code actually does what it's supposed to do. And while the generated code is sitting in review cues, companies are bleeding money, whatever savings were made from faster code generation are burned by the massive growing overhead of reviewing, securing, and constantly rewriting that very code. In the end, somewhat ironically, AI hasn't replaced developers. It has created new demand for them to clean up its mess. From 2022 to 2025, the tech"
+    },
+    {
+      "id": 139,
+      "debut": 6763.2,
+      "fin": 6811.92,
+      "temps_estime": false,
+      "titre": "Junior developers replaced by AI subscriptions",
+      "resume": "From 2022 to 2025 tech laid off tens of thousands of developers, mostly juniors who did grunt work, as companies chose a $100-per-month Claude Max subscription over an additional $80,000 salary. SignalFire and ZipRecruiter data show entry-level tech postings fell 25 to 35% between 2023 and 2024, big tech cut new grad hiring about 50% versus pre-pandemic, and postings stayed down about 29% in 2025 and 2026.",
+      "mots_cles": [
+        "junior developers",
+        "entry-level tech jobs",
+        "layoffs",
+        "Claude Max",
+        "SignalFire",
+        "ZipRecruiter",
+        "new grad hiring",
+        "learn to code"
+      ],
+      "texte": "industry laid off tens of thousands of developers, and that might have broken the entire software development process permanently. The developer layoffs haven't happened uniformly across all tiers of developers. It's the junior developers, the ones who did the grunt work, that have been called. Companies were left with a dilemma. Pay an additional $80,000 annual salary or a $100 per month subscription to Claude Max. The companies chose AI over juniors. Data from Signal Fire and Zip Recruiter shows that entry- level tech postings fell by roughly 25 to 35% between 2023 and 2024. Big [music] tech cut new grad hiring around 50% compared to prepandemic levels. The trend continued into 2025 and 26 with entry-level job postings down by around 29%. So much for learn to code, but"
+    },
+    {
+      "id": 140,
+      "debut": 6811.92,
+      "fin": 6899.76,
+      "temps_estime": false,
+      "titre": "Senior boom masks junior bust: from pyramid to diamond",
+      "resume": "Demand for senior engineers exploded: roles requiring 10+ years rose 27% and 5 to 10 years rose 40% in 2024, and senior postings reached over 41% of IT postings by early 2026, a phantom recovery. Team structure flipped from a pyramid to a diamond, entry-level now often requires 2 to 5 years of experience, and the real entry-level market is about 35% smaller than in 2022.",
+      "mots_cles": [
+        "senior engineers",
+        "phantom recovery",
+        "junior bust",
+        "pyramid to diamond",
+        "entry-level requirements",
+        "tech job postings",
+        "IT hiring",
+        "job market 35% smaller"
+      ],
+      "texte": "that's only half of the story. At the same time as the tech companies have been hollowing out their junior development teams, demand for senior engineers has exploded. In 2024, applications for roles requiring 10 or more years of experience rose by 27% and roles requiring 5 to 10 years of experience rose by 40%. By early 2026, senior job postings were taking up over 41% of the total IT mix, vastly outperforming the overall market. But this sudden job boom is misleading. The rise in tech postings might suggest a hiring recovery or at least that the talent bleed has stopped. But in reality, this is a phantom recovery. There is a senior boom masking a junior bust. The entire structure of the software development industry has been flipped upside down. Before AI, most teams were structured like a pyramid. At the [music] bottom, junior developers were hired and trained with some moving up to become mid-level devs and senior positions at the top. Now, it's more like a diamond. There are very few junior devs being hired with mid-level and particularly senior developers becoming an increasingly hot commodity. The very definition of entry level has changed. The term used to refer to recent graduates or those with little to no experience. Today, entry-level job offers often require 2 to 5 years of experience. For real entry-level candidates, it's a tough job market, [music] one that's roughly 35% smaller than in 2022. So, why has the market"
+    },
+    {
+      "id": 141,
+      "debut": 6899.76,
+      "fin": 6963.52,
+      "temps_estime": false,
+      "titre": "Senior developers become full-time janitors",
+      "resume": "The market inverted because companies that replaced juniors now need senior developers to find and fix bugs in AI code, work juniors used to do by testing and improving code before review. With 45% of AI code containing security flaws, seniors became highly skilled janitors, burnouts rise and organizations grind to a halt, wiping out the speed gains.",
+      "mots_cles": [
+        "senior developers",
+        "AI cleanup",
+        "janitors",
+        "burnout",
+        "security flaws 45%",
+        "code review burden",
+        "junior work",
+        "productivity loss"
+      ],
+      "texte": "shape inverted? It's a direct response to the buggy and vulnerable AI generated code. The companies that replace their junior devs don't need them to clean up AI's mess. They're desperate for senior developers, specifically the ones who can find and fix the bugs lurking in the code. [music] That's what the senior engineer hiring spree is all about. It's an attempt to fix the mess caused by AI. The junior devs handled the ordinary boilerplate coding. They were responsible for testing and improving the code before even submitting it for review by the senior teammates. That made the senior reviewer's jobs easier. It took less of their time and it allowed them to focus on more highle tasks. Today, with 45% of AI code containing security flaws and twice as much of it needing additional work as before, the role of senior developers has changed. They have become full-time janitors. Very well- paid and highly skilled janitors, but janitors all the same. and it's taking its toll. Burnouts are on the rise. Entire organizations are grinding to a halt, wiping out any theoretical speed gains from replacing the juniors with AI in the first place."
+    },
+    {
+      "id": 142,
+      "debut": 6963.52,
+      "fin": 7025.92,
+      "temps_estime": false,
+      "titre": "The junior death spiral and the talent pipeline",
+      "resume": "By cutting entry-level roles companies destroy their future talent pipeline: experience comes only from years of work, and in two to three years the industry could face a mid-level engineer shortage because nobody had the apprenticeship fixing AI mistakes. Companies that augmented juniors with AI see AI as a force multiplier, while hollowed-out ones see a force divider with spiraling costs and flat profits.",
+      "mots_cles": [
+        "junior death spiral",
+        "talent pipeline",
+        "mid-level shortage",
+        "apprenticeship",
+        "force multiplier",
+        "force divider",
+        "software careers",
+        "AI augmentation"
+      ],
+      "texte": "But there's another more alarming consequence for the software development industry, the junior death spiral. By cutting entry-level roles, companies are effectively destroying their future talent pipeline. There was a defined career path. Junior developers worked their way up over the process of years. The only way to get the experience is by putting in the years. Now the chain is broken. In as little as 2 to 3 years, the industry might be staring at a severe shortage of mid-level engineers because they never had the apprenticeship phase of fixing AI mistakes. That creates a worrying paradox. If there aren't any juniors gaining the experience to become seniors, where exactly are all the new seniors supposed to come from? It's unlikely the role of junior developer will disappear completely. Companies that chose to augment juniors with AI rather than replacing them already seem to be reaping the benefits. For some, AI can be a force multiplier. But those companies that have been hollowed out by AI, it's the opposite. It's a force divider, and now costs are spiraling while profits are flatlining. Tech"
+    },
+    {
+      "id": 143,
+      "debut": 7025.92,
+      "fin": 7117.36,
+      "temps_estime": false,
+      "titre": "The real reason for layoffs: cheap money, debt and rising rates",
+      "resume": "The video says tech companies did not lay off developers mainly because of AI efficiency: the AI spending boom began in the near-0% interest pandemic era, when big tech piled on cheap debt to grow and fund buybacks, then hired developers for AI buildouts beyond their revenues. When inflation forced the Fed to raise rates from 0.25% to about 5%, the debt got expensive for the big five, sitting on $1.65 trillion of off-balance-sheet debt.",
+      "mots_cles": [
+        "cheap money",
+        "interest rates",
+        "Federal Reserve",
+        "pandemic hiring spree",
+        "big tech debt",
+        "$1.65 trillion off-balance-sheet",
+        "inflation",
+        "layoff causes"
+      ],
+      "texte": "companies thought it was worth the gamble. It might still pay off, but the truth is that the tech companies haven't laid off all those developers because of greatly improved AI efficiency. At least that's not the main reason. The real reason runs much deeper. The AI spending boom started during the preandemic cheap money period with interest rates at near 0%. And the big tech companies piled on cheap debt. They wanted to grow their businesses and fund enormous stock buybacks which pushed their share prices into the stratosphere. During the pandemic, companies like Microsoft and Amazon saw how lockdowns had changed consumer behavior to their benefit. They believed that the future would be more of the same. So they went on a developer hiring spree to start their AI buildouts. The amount required was well beyond their fast growing revenues. So they funded the growth with even more debt. And then the pandemic ended and the bubble well and truly burst. Governments across the world flooded the global economy to compensate for the lack of spending lockdowns. Then it came home to roost in the form of rampant inflation. The Fed had to do something. So, it raised interest rates to slow it down again and again. And before the economy had time to react, interest rates had shot up from 0.25% to around 5%. For the tech companies, all that cheap debt suddenly wasn't cheap anymore. And that's a huge problem for the big five who were sitting on $1.65 trillion of offbalance sheet debt and growing. You might think that with"
+    },
+    {
+      "id": 144,
+      "debut": 7117.36,
+      "fin": 7212.4,
+      "temps_estime": false,
+      "titre": "Off-balance-sheet liabilities and the Enron-style risk",
+      "resume": "Big tech doubled down on AI infrastructure despite higher costs: off-balance-sheet liabilities grew eight-fold since 2022, with Meta at about $420 billion, nearly three times its reported debt, and Oracle's commitments up 30 times to about $273 billion. Mostly fixed long-term data center leases and hardware commitments mask true leverage, resemble Enron-style accounting and could tip firms over a financial cliff if AI revenue is late.",
+      "mots_cles": [
+        "off-balance-sheet debt",
+        "Meta $420 billion",
+        "Oracle $273 billion",
+        "data center leases",
+        "hidden leverage",
+        "Enron comparison",
+        "fixed payments",
+        "financial cliff"
+      ],
+      "texte": "the cost of servicing the debt much higher, big tech might have scaled back on new investments. They haven't. In the rush to build out AI infrastructure, the biggest companies have doubled down. The size of the offbalance sheet liabilities has grown eight-fold since 2022. Despite the extra cost of servicing them, Meta holds the largest hidden burden at around $420 billion, nearly three times its reported debt. Oracle's offbalance sheet commitments have exploded by 30 times to around $273 billion. Alphabet, Microsoft, and Amazon hold the rest. It is a massive amount of debt, and it is misleading for investors. By keeping these obligations off of their primary balance sheets, companies are masking their true leverage. Investors and credit rating agencies might underestimate the financial risk as a result, leading to inflated asset prices. It's flirting with disaster. It's the kind of creative accounting that was at the heart of the notorious Enron collapse a few decades back. The majority of these liabilities are long-term leases for data centers, purchase commitments for hardware, and similar obligations. Unlike equity, they are mostly fixed mandatory payments. And that presents another layer of risk. If the anticipated revenue from the AI boom doesn't materialize quickly enough to cover the interest, these firms will be on the edge of a financial cliff. Despite their current cash richness, their debt is so large it dwarfs the GDP of all but a few nations, and they are locked into those long-term deals. If they can't break free, the financial weight will tip them over the edge, taking the entire global economy with them. But arguably, an even bigger issue"
+    },
+    {
+      "id": 145,
+      "debut": 7212.4,
+      "fin": 7268.4,
+      "temps_estime": false,
+      "titre": "Magnificent Seven concentration and investor pressure on big tech",
+      "resume": "Around a third of the stock market's value sits in the Magnificent Seven after investors piled into big tech during the AI hype, but the smart money no longer falls for the efficiency story and wants to see the money. Big tech is all in on AI for several trillion dollars while slashing budgets to unwind pandemic overspending, a hard balance with higher interest rates.",
+      "mots_cles": [
+        "Magnificent Seven",
+        "stock market concentration",
+        "investor pressure",
+        "AI hype",
+        "budget cuts",
+        "pandemic overspending",
+        "big tech spending",
+        "returns"
+      ],
+      "texte": "has emerged. During the AI hype years, investors, including many of the biggest and richest, bought into big tech in a big way. They piled billions into those companies, confident that the ends would justify the means. The mega returns would roll in sooner rather than later. Their investments pushed the share prices of the tech companies even higher. Today, around a third of the value of the stock exchange is held in just the so-called magnificent seven companies. But that concentration is dangerous, and the smart money isn't falling for the AI efficiency hype anymore. Instead, they're demanding that big tech shows them the money. And that leaves big tech in a difficult position. They are all in on AI to the tune of several trillion dollars and they plan to spend even more. At the same time, they are slashing their budgets to peel back their pandemic overspending and fund their AI buildout. Those are hard enough books to balance under normal conditions and add in higher interest rates. And the pain gets worse. Now"
+    },
+    {
+      "id": 146,
+      "debut": 7268.4,
+      "fin": 7340.88,
+      "temps_estime": false,
+      "titre": "Layoffs framed as AI efficiency are rewarded by markets",
+      "resume": "Investors want revenue growth, so firms cut costs, and the framing matters: Salesforce's 8,000 job cuts in 2023 and Nike's 800 cuts sent stocks down about 32% and 35%, but Meta's layoffs tied to efficiency and AI reallocation preceded a 190% surge and Alphabet's 12,000 cuts with AI integration lifted the stock about 5% in a day.",
+      "mots_cles": [
+        "layoffs",
+        "Salesforce",
+        "Nike",
+        "Meta stock",
+        "Alphabet layoffs",
+        "AI efficiency framing",
+        "market reaction",
+        "investor sentiment"
+      ],
+      "texte": "investors are turning up the heat. They want to see revenue growth or at least a more sustainable balance between expenditure and returns until it does. That means mass layoffs and other forms of cost cutting. Anytime a company shows honesty, the markets react. When Salesforce cut 8,000 jobs in 2023, citing overhiring and macroeconomic weakness, the stock fell by roughly 32% in the following months. When Nike cut around 800 jobs to enhance automation, the market saw this as a reaction to slumping sales and inventory issues. The share price dropped by nearly 35% as a result. But if the companies frame the austerity and layoffs as driven by AI efficiency, regardless of the truth, the market's response is chalk and cheese. When Meta announced massive layoffs explicitly tied to a year of efficiency and AI reallocation in 2023, its stock surged over 190% in the following year. Investors viewed the cuts as a decisive move to fund AI infrastructure, not as a sign of trouble. Likewise, when Alphabet cut 12,000 jobs in early 2023 while simultaneously highlighting AI integration, the stock jumped around 5% in a single day. A clear dynamic has"
+    },
+    {
+      "id": 147,
+      "debut": 7340.88,
+      "fin": 7376.96,
+      "temps_estime": false,
+      "titre": "PR spin and the rise of AI washing",
+      "resume": "A 2026 study of S&P 500 companies found 56% of firms announcing AI-linked layoffs saw stock prices fall by an average of 25%, yet saying cuts redirect capital to high-margin AI agents is read as future profit. This creates an incentive for CEOs to frame any cost cutting as AI transformation, a practice analysts call AI washing.",
+      "mots_cles": [
+        "AI washing",
+        "PR spin",
+        "AI-linked layoffs",
+        "S&P 500 study",
+        "CEO incentives",
+        "cost cutting",
+        "stock reaction",
+        "AI transformation"
+      ],
+      "texte": "emerged. A 2026 study of S&P 500 companies found that 56% of firms announcing AI linked layoffs saw their stock prices fall by an average 25%. If a company says, \"We are cutting 10% of staff to redirect capital to high margin AI agents,\" the stock rises. The market hears it as future profits. It all comes down to PR spin. This creates a powerful incentive for CEOs to frame any cost cutting measure as an AI transformation. So that's what they do. The practice has become so widespread that analysts have begun referring to it as AI washing and"
+    },
+    {
+      "id": 148,
+      "debut": 7376.96,
+      "fin": 7430.32,
+      "temps_estime": false,
+      "titre": "AI becomes the top cited reason for job cuts",
+      "resume": "Challenger, Gray and Christmas reported AI was the most cited reason for job cuts in May 2026, a category that barely existed two years earlier, and Deutsche Bank found AI disruption mentions on earnings calls jumped 310% in H1 2026. Amazon's CEO said AI would mean fewer people alongside a 16,000-person cut, and Meta laid off 8,000 while moving 7,000 to AI roles.",
+      "mots_cles": [
+        "Challenger Gray and Christmas",
+        "AI job cuts",
+        "Deutsche Bank",
+        "earnings call mentions 310%",
+        "Amazon Andy Jassy",
+        "Meta 8,000 layoffs",
+        "AI reallocation",
+        "layoff reasons"
+      ],
+      "texte": "it's growing. Outplacement firm Challenger Gray and Christmas reported that in May 2026, AI was the most cited reason for job cuts. It's a category that barely existed in layoff reports 2 years earlier. A Deutsche Bank analysis from July found that mentions of AI disruption in earnings calls jumped 310% in the first half of 2026 alone compared to late 2025. [music] Whenever you hear CEOs citing AI efficiency, you can be pretty sure layoffs will follow. In early 2026, Amazon CEO Andy Jasse said that the company would need fewer people doing some of the jobs that are being done today due to AI efficiency gains. [music] The statement coincided with a 16,000 person cut. Meta laid off 8,000 workers while moving another 7,000 to AI roles, framing the move as a necessary reallocation for an AI first future. It's a growing unmistakable trend. It"
+    },
+    {
+      "id": 149,
+      "debut": 7430.32,
+      "fin": 7489.44,
+      "temps_estime": false,
+      "titre": "Best case: AI productivity dip is a temporary blip",
+      "resume": "The layoff framing may prop up inflated share prices but does not fix hidden debt, problematic AI code or the hollowing-out of developers. In the best case, based on 2026 data from Goldman Sachs, MIT and the BIS, the productivity dip is an installation-phase blip; by late 2027 reliable agentic reasoning could explode GDP and turn the hidden debt into a shrewd investment, with maybe a 15% chance.",
+      "mots_cles": [
+        "best case scenario",
+        "productivity dip",
+        "installation phase",
+        "agentic reasoning 2027",
+        "GDP growth",
+        "AI orchestration roles",
+        "15% probability",
+        "Goldman Sachs MIT BIS"
+      ],
+      "texte": "might help to keep share prices at what many are starting to believe are vastly inflated levels, but it does nothing to solve the underlying issues with a hidden debt, problematic AI code, and a potentially terminal hollowing out of the developer force. Based on current 2026 data from Goldman Sachs, MIT, and the Bank for International Settlements, in the best case scenario, the current productivity dip is a temporary blip, the installation phase of a new technological revolution. Some predict that by late 2027, AI models will achieve reliable agentic reasoning, moving beyond code generation to full system architecture and self-healing. When that happens, all the issues with dodgy code will disappear. Development productivity will increase exponentially. The result will be a massive explosion in global GDP, which turns the mountain of hidden debt into a shrewd investment. And all of those displaced workers will transition to high value AI orchestration roles. There's maybe a 15% chance it all works out that way. On the other end of the"
+    },
+    {
+      "id": 150,
+      "debut": 7489.44,
+      "fin": 7537.76,
+      "temps_estime": false,
+      "titre": "Worst case: an AI credit crunch and dot-com-style crash",
+      "resume": "At the other end, a few high-profile bankruptcies from the $1.65 trillion of off-balance-sheet liabilities could trigger a credit crunch that bursts the AI bubble, wiping out trillions, abandoning data centers and making the junior death spiral permanent. The tech sector might contract by a third and a severe global recession would follow, a roughly 25% probability.",
+      "mots_cles": [
+        "worst case scenario",
+        "credit crunch",
+        "AI bubble burst",
+        "bankruptcies",
+        "global recession",
+        "tech sector contraction",
+        "25% probability",
+        "dot-com crash"
+      ],
+      "texte": "spectrum, it could all blow up like the 2000.com crash, only at a greater scale. Just a few high-profile bankruptcies due to the $1.65 trillion in off-balance sheet liabilities could trigger a credit crunch that bursts the AI bubble. Trillions in global wealth would be wiped out. Data centers would be abandoned with energy contracts reduced to toxic assets. As a result, the junior death spiral would become permanent. With no entry-level roles and seniors burned out by maintaining broken AI code, the tech sector might contract by as much as a third. A severe global recession would ensue, and who knows what the future of software might look like. Unfortunately, there is a greater probability of this outcome at this point, although it's still relatively unlikely at around 25%. The most likely"
     }
   ]
 }
