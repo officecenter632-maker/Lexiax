@@ -1,0 +1,558 @@
+{
+  "version": 1,
+  "video_id": "tehBa2ZjG-I",
+  "titre_video": "Why You Don't Want to Earn $150,000 to $250,000",
+  "duree_s": 867.3,
+  "avancement": {
+    "lignes_traitees": 191,
+    "fin_traitee_s": 867.3,
+    "nb_lignes_total": 191,
+    "complet": true
+  },
+  "nb_segments": 30,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.0,
+      "fin": 25.52,
+      "temps_estime": false,
+      "titre": "Americans earning $250,000 are drowning",
+      "resume": "The video opens with the claim that Americans making a quarter of a million dollars a year are barely surviving month to month despite following the expected path of school, debt and a corporate career. It frames the system as rigged against them and the American dream as leaving them broke.",
+      "mots_cles": [
+        "$250,000 salary",
+        "high earners",
+        "living month to month",
+        "American dream",
+        "corporate career",
+        "student debt",
+        "financial struggle"
+      ],
+      "texte": "Right now, Americans making a quarter of a million dollars a year are drowning. They didn’t blow it on sports cars or luxury goods. They did exactly what they were supposed to: they went to school, took on the debt, climbed the career ladder and claimed the corporate job with the corner office. Yet they’re barely surviving month to month. The entire system is rigged against them. They bought into the American dream… and they’re still destined to be broke."
+    },
+    {
+      "id": 2,
+      "debut": 25.52,
+      "fin": 41.6,
+      "temps_estime": false,
+      "titre": "$20,000 a month looks like wealth but vanishes",
+      "resume": "A monthly household income of $20,000 looks wealthy on paper, but problems begin once it reaches the bank account. High earners wonder where their cash goes, and the most obvious explanation is rising costs.",
+      "mots_cles": [
+        "$20,000 monthly income",
+        "high earners",
+        "bank statements",
+        "where money goes",
+        "rising costs",
+        "wealth on paper"
+      ],
+      "texte": "A monthly household income of $20,000 looks like wealth on paper. But the moment it hits a bank account, the problems begin. High earners stare at their bank statements wondering where their cash is going. The most obvious explanation is one that affects everyone. Rising costs."
+    },
+    {
+      "id": 3,
+      "debut": 41.6,
+      "fin": 72.12,
+      "temps_estime": false,
+      "titre": "Inflation at 3.4 percent and 36 percent living paycheck to paycheck",
+      "resume": "In October 2026 inflation was around 3.4 percent for the year, down from 9.1 percent, but the drop is called a statistical illusion because fuel and energy spikes cancel the benefit. 36 percent of people in the $200K to $250K bracket report living paycheck to paycheck, since prices rarely fall once they rise.",
+      "mots_cles": [
+        "inflation 3.4 percent",
+        "October 2026",
+        "9.1 percent inflation",
+        "fuel and energy prices",
+        "paycheck to paycheck",
+        "$200K to $250K bracket",
+        "prices don't go down"
+      ],
+      "texte": "In October 2026, inflation was hovering at around 3.4% for the year. It might sound low compared to the shocking highs of 9.1% just a few years ago. But that drop is a statistical illusion. Spikes in fuel and energy are negating any real benefit. And this is exactly why 36% of people in the $200K to $250K income bracket report living paycheck to paycheck. And there’s a reason for that. Because once prices go up, they don’t really go back down."
+    },
+    {
+      "id": 4,
+      "debut": 72.12,
+      "fin": 104.84,
+      "temps_estime": false,
+      "titre": "Wages have not kept pace with the cost of living",
+      "resume": "The cost of living has slowed slightly but still rises, and salaries have not kept pace despite decent short-term wage growth. The working class felt it first, then the top 10 percent, who discover their previous income patterns no longer work and get little sympathy.",
+      "mots_cles": [
+        "cost of living",
+        "wage growth",
+        "salaries lag",
+        "working class",
+        "top 10 percent",
+        "income patterns",
+        "sympathy"
+      ],
+      "texte": "The cost of living has slowed slightly but it’s still ticking upward. Normally that wouldn’t be as devastating assuming salaries actually kept pace. But they haven’t. Even if short term wage growth looks ok just now, decades of rising costs have caught up. The working class felt the impact first and hardest, but it wasn’t long until the 10% started feeling the effects. And many discovered that their previous income patterns weren’t going to pass muster. And when people making $250,000 a year feel the pinch, they don’t get a lot of sympathy."
+    },
+    {
+      "id": 5,
+      "debut": 104.84,
+      "fin": 131.33,
+      "temps_estime": false,
+      "titre": "The K-shaped economy and the sense of betrayal",
+      "resume": "Economists describe the US economy as K-shaped, with higher-income households gaining wealth while lower-income households' share shrinks. The narrator argues the top arm applies only to the super-wealthy, for whom inflation is a rounding error, while the rest are catching up fast, leaving people feeling betrayed.",
+      "mots_cles": [
+        "K-shaped economy",
+        "super-wealthy",
+        "inflation",
+        "wealth gap",
+        "higher-income households",
+        "betrayal",
+        "economic inequality"
+      ],
+      "texte": "Economists commonly describe the US economy as K-shaped: higher-income households see their wealth increase as lower-income households see their slice of the pie shrink year after year. But that concept might be consigned to the past. The top part of the chart only applies to the super-wealthy, for whom things like inflation are rounding errors. For the rest, the economy is starting to catch up to them fast. And that’s left people with a sense of betrayal."
+    },
+    {
+      "id": 6,
+      "debut": 131.33,
+      "fin": 148.01,
+      "temps_estime": false,
+      "titre": "The classic path to success looks precarious",
+      "resume": "Young professionals were told to go to college, get a degree and climb the corporate ladder, advice passed from parents to the latest generation. That advice now looks more precarious than ever.",
+      "mots_cles": [
+        "college degree",
+        "corporate ladder",
+        "path to success",
+        "young professionals",
+        "career advice",
+        "generational advice"
+      ],
+      "texte": "From the time they were young, young professionals were told there was a classic path to success. Go to college, get a degree and work their way up the corporate ladder. That advice was passed down from their parents and now, it’s being told to the latest generation. But that advice is looking more precarious than ever."
+    },
+    {
+      "id": 7,
+      "debut": 148.01,
+      "fin": 174.53,
+      "temps_estime": false,
+      "titre": "Once a ticket to easy street, now a death of a thousand cuts",
+      "resume": "A six-figure income once covered the mortgage, a car, small luxuries, groceries and retirement savings with money left over. Savings were the first to go, and now everything is unstable, not through one giant crisis but through a death of a thousand cuts.",
+      "mots_cles": [
+        "easy street",
+        "six-figure income",
+        "retirement savings",
+        "death of a thousand cuts",
+        "mortgage",
+        "groceries",
+        "socioeconomic ladder"
+      ],
+      "texte": "It used to be that this kind of income was a ticket to easy street. You had enough to pay the mortgage, buy a car, spend just a little on luxuries and buy groceries without glancing nervously at the receipt. There would still be a little left over to put into a retirement account at the end of the month. But the savings were the first to go. Now everything else is looking unstable as well. It’s not one giant crisis that’s knocking these people down the socioeconomic ladder, it’s a death of a thousand cuts."
+    },
+    {
+      "id": 8,
+      "debut": 174.53,
+      "fin": 209.17,
+      "temps_estime": false,
+      "titre": "Taxes and 401(k) shrink $20,000 to $12,000",
+      "resume": "The average federal, state and FICA tax bill for someone earning $250,000 is around $6,500 a month, a third of income gone before reaching the bank. The maximum 401(k) contribution takes another $1,900, leaving about $12,000 a month.",
+      "mots_cles": [
+        "taxes",
+        "federal tax",
+        "state tax",
+        "FICA",
+        "$6,500 tax bill",
+        "401(k) contribution",
+        "take-home pay",
+        "$12,000 a month"
+      ],
+      "texte": "That $20,000 a month salary starts dwindling immediately, because Uncle Sam wants his cut right away. The average federal, state, and FICA tax bill for someone earning a quarter of a million dollars is around $6,500. A full third of the income is gone before it ever hits your bank account. Then there’s the maximum 401(k) contribution. It’s something most people will be thankful for when at retirement age, but for now, it’s another $1,900 out of the bank account. Gross income is slashed to $12,000 a month immediately. And that’s where the real squeeze begins."
+    },
+    {
+      "id": 9,
+      "debut": 209.17,
+      "fin": 259.21,
+      "temps_estime": false,
+      "titre": "Monthly budget: mortgage, cars, loans and subscriptions leave $3,000",
+      "resume": "A 30-year mortgage with property tax costs about $4,200 a month, auto loans and insurance $1,100, then student loans, bringing the balance to just over $5,000. Utilities and groceries of $1,500 and subscriptions such as Disney Plus, now over $20, leave around $3,000 a month.",
+      "mots_cles": [
+        "monthly budget",
+        "mortgage payment",
+        "property tax",
+        "auto loan",
+        "student loans",
+        "utilities and groceries",
+        "subscriptions",
+        "Disney Plus"
+      ],
+      "texte": "A standard 30-year mortgage, combined with a hefty property tax bill can easily mean shelling out $4,200 a month in payments. Next comes the auto loans and insurance, which takes another $1,100 a month. Add in student loans from a good university and the balance drops to just over $5,000 a month. That’s before the little things you need to survive. Utilities and groceries can easily reach $1,500 a month and it's growing with each month. Then there are the subscriptions, which are easy to forget about until they show up on the bill. Disney Plus was under $10 when it debuted, and is now over $20. That might be a small number, but the rising costs of subscriptions means it adds up and slips under the radar. That leaves around $3,000 a month in the account. Suddenly, that budget is looking awfully tight. And this is the best case scenario."
+    },
+    {
+      "id": 10,
+      "debut": 259.21,
+      "fin": 279.97,
+      "temps_estime": false,
+      "titre": "A second child or private tuition pushes the budget into debt",
+      "resume": "With a single child in public school there is no childcare burden, but a second child or private tuition adds about $2,500 a month and plunges the high earner into debt. Without those burdens, a family might save about $1,000 a month after casual spending.",
+      "mots_cles": [
+        "childcare costs",
+        "second child",
+        "private tuition",
+        "$2,500 a month",
+        "debt",
+        "saving $1,000 a month",
+        "family budget"
+      ],
+      "texte": "A family with only one child old enough for public school don’t have to worry about the crushing costs of childcare. But add a second child or a private tuition bill and it adds an extra $2,500 into the red. That high earner is plunged into debt territory. Without those burdens, people might be able to put away $1,000 a month after factoring in casual spending."
+    },
+    {
+      "id": 11,
+      "debut": 279.97,
+      "fin": 302.97,
+      "temps_estime": false,
+      "titre": "What paycheck to paycheck really means",
+      "resume": "Paycheck to paycheck does not only apply to the working poor; it means the person cannot afford to skip a month of pay, which depends on lifestyle as much as salary. Six-figure earners are concentrated in urban areas with higher living costs, state taxes and city taxes.",
+      "mots_cles": [
+        "paycheck to paycheck",
+        "lifestyle",
+        "six-figure earners",
+        "urban areas",
+        "cost of living",
+        "state taxes",
+        "municipal taxes"
+      ],
+      "texte": "When people hear “paycheck to paycheck”, they usually assume it applies to the working poor. But what it actually means is that the person can’t afford to skip a month of pay. That’s as much about your lifestyle as it is about the salary. And those who earn 6 figures are disproportionately found in urban areas. That means a higher cost of living, state taxes and extra city or municipal taxes bleeding the account dry."
+    },
+    {
+      "id": 12,
+      "debut": 302.97,
+      "fin": 334.29,
+      "temps_estime": false,
+      "titre": "One in three six-figure earners feel financially distressed",
+      "resume": "A 2025 poll found 1 in 3 six-figure earners describe themselves as financially distressed and 2 in 3 say their salary does not make them wealthy. Costs rise faster than they can keep up, leaving little wiggle room, so one unexpected event wipes out leftover cash and savings.",
+      "mots_cles": [
+        "financial distress",
+        "2025 poll",
+        "six-figure earners",
+        "not wealthy",
+        "rising monthly costs",
+        "unexpected expenses",
+        "savings wiped out"
+      ],
+      "texte": "It’s created a grim feeling among the upper crust. 1 in 3 people who earn 6 figures describe themselves as financially distressed, according to a 2025 poll. 2 in 3 said their salary doesn’t qualify them as wealthy. While their salaries are high, their monthly costs are rising faster than they can keep up with, even if they’re not doing anything extraordinary with it. The math of daily life often offers them relatively little wiggle room, and one unexpected event can take that little leftover money and throw it out the window along with a chunk of savings."
+    },
+    {
+      "id": 13,
+      "debut": 334.29,
+      "fin": 356.01,
+      "temps_estime": false,
+      "titre": "Life's hiccups: emergencies that eat savings",
+      "resume": "Savings deposits are irregular because life interferes: hospital visits, emergency house repairs or family loans never repaid are out-of-pocket costs. These hiccups are consuming a big chunk of income lately.",
+      "mots_cles": [
+        "emergency expenses",
+        "hospital visit",
+        "house repair",
+        "family loan",
+        "savings deposits",
+        "unexpected events",
+        "out-of-pocket costs"
+      ],
+      "texte": "And those unexpected events can crop up more often than expected. Saving deposits don’t happen as regularly as people would like, because life usually gets in the way. It’s an out of pocket cash expense when someone needs a hospital visit. An emergency house repair. Or a family loan that will never be paid back. It’s all just the hiccups of life. But life is eating up a big chunk of the income lately."
+    },
+    {
+      "id": 14,
+      "debut": 356.01,
+      "fin": 382.78,
+      "temps_estime": false,
+      "titre": "Credit cards cover the gap for six-figure earners",
+      "resume": "Running out of cash is less of an immediate disaster because most high earners use credit cards regularly; 75 percent of six-figure earners say they used a card for lack of cash in the account. In 25 of the top 100 US metropolitan areas, people earning $100,000 would struggle to make ends meet.",
+      "mots_cles": [
+        "credit cards",
+        "75 percent of six-figure earners",
+        "not enough cash",
+        "metropolitan areas",
+        "$100,000 income",
+        "make ends meet",
+        "high cost cities"
+      ],
+      "texte": "Today, running out of cash isn’t the immediate disaster it used to be. Most high earners use credit cards regularly. 75% of 6 figure earners report using a credit card because they didn’t have enough cash in the account. Every family is different and their expenses are different too, but the financial crunch is happening across the board. In 25 of the top 100 metropolitan areas in the US, people with an income of $100,000 a year would struggle to make ends meet."
+    },
+    {
+      "id": 15,
+      "debut": 382.78,
+      "fin": 418.38,
+      "temps_estime": false,
+      "titre": "10 million high earners with no spare cash and $70,000 in taxes",
+      "resume": "Around 10 million high-earning professionals live paycheck to paycheck in the US, roughly the population of Sweden, Portugal or New Jersey, with near-zero spare cash. They spend close to $70,000 a year on taxes and mandatory deductions, equal to a median American household's gross income.",
+      "mots_cles": [
+        "10 million high earners",
+        "paycheck to paycheck",
+        "population of Sweden",
+        "New Jersey",
+        "$70,000 taxes",
+        "mandatory deductions",
+        "median household income"
+      ],
+      "texte": "And it’s not just the costs. Everything is against them. Currently, there are around 10 million high-earning professionals living paycheck-to-paycheck in the United States. That’s roughly the population of Sweden, Portugal, or the entire population of the state of New Jersey. And they all have near zero spare cash on hand at the end of the month. The vast majority of their paycheck is being frittered away by mandatory expenses that they have zero say in before it ever hits their bank account. They’re spending close to $70,000 on taxes and mandatory deductions every year, the equivalent of a median American’s gross household income."
+    },
+    {
+      "id": 16,
+      "debut": 418.38,
+      "fin": 468.34,
+      "temps_estime": false,
+      "titre": "Working class and six-figure earners are in the same boat",
+      "resume": "Lower-income Americans feel resentment at a system leaving them behind; it is aimed mostly at the 1%, but since few know a billionaire it lands on six-figure professionals. The narrator argues the working class and six-figure earners are both far from the 1%, and the dividing line is how you make money, with traditional paychecks making both targets of a changed tax system.",
+      "mots_cles": [
+        "resentment",
+        "working class",
+        "six-figure professional",
+        "the 1%",
+        "trading time for money",
+        "traditional paychecks",
+        "tax system",
+        "same boat"
+      ],
+      "texte": "Among lower-income Americans, a deep resentment and anger at a system they feel is leaving them behind has emerged. While it’s mostly aimed at the 1%, most people don’t know a billionaire. So that frustration gets aimed elsewhere… and the 6 figure professional is often in the crosshairs. People are quick to laugh and scoff that a high level professional could struggle. The working class and the 6 figure earner are stuck in the same boat. Even if they don’t admit it. While one sits in an office and the other works a trade, they’re both lightyears away from the 1%. The dividing line isn’t how much you make, it’s how you make it. Because both groups survive on traditional paychecks, they are targets for a tax system that has subtly changed. And that’s left anyone trading time for money out in the cold. And it all happened without anyone noticing… at least at first."
+    },
+    {
+      "id": 17,
+      "debut": 468.34,
+      "fin": 500.46,
+      "temps_estime": false,
+      "titre": "Tax the rich hits upper professionals, not the super-wealthy",
+      "resume": "The 'tax the rich' refrain has led many states to act, but collectors often avoid the super-wealthy and target the upper end of the working professional class earning six figures. Someone taking home over $200,000 may watch 80 percent dwindle away, a catch-22 that punishes hard work.",
+      "mots_cles": [
+        "tax the rich",
+        "state taxes",
+        "working professional class",
+        "six figures",
+        "80 percent dwindles",
+        "catch-22",
+        "punishes hard work"
+      ],
+      "texte": "“Tax the rich” has been a common refrain over the last decade, and many states have listened. But when the taxman comes to collect, he often avoids the super-wealthy instead and concentrates his axe on the people right below them: the upper end of the working professional class. Those who earn six figures. They don’t get much sympathy when they complain about Uncle Sam’s bill each year. But it all plays into the ongoing struggle where they take home over $200,000 a year, and then watch 80% of it dwindle away It’s a massive catch-22 that actually punishes hard work."
+    },
+    {
+      "id": 18,
+      "debut": 500.46,
+      "fin": 541.46,
+      "temps_estime": false,
+      "titre": "Why the ultra-wealthy pay lower tax rates than their employees",
+      "resume": "The ultra wealthy hold property, assets and investments, with long-term holdings and qualified dividends taxed at 0 percent to a maximum of 20 percent, and real estate wealth not taxed as income. The paradox is that hard-working professionals often pay a higher rate than their multi-millionaire boss.",
+      "mots_cles": [
+        "ultra wealthy",
+        "tax rates",
+        "qualified dividends",
+        "long-term capital gains",
+        "real estate",
+        "preferential tax rates",
+        "tax paradox",
+        "multi-millionaire boss"
+      ],
+      "texte": "If you climb the corporate ranks to a high paying position, you’ll still answer to an executive or business owner who understands the game. The ultra wealthy don’t pay tax. Their wealth is tied up in properties, assets and investments. That means they pay lower tax rates. Non-tangible holdings like long-term investments and qualified dividends are given preferential tax rates, with many being taxed at 0% and the maximum tax rate being 20%. The money that is sitting in multi-million dollar real estate isn’t taxed as income, drastically reducing what they owe. This creates a huge financial paradox. The hard working profession often pays a higher tax rate than their multi-millionaire boss."
+    },
+    {
+      "id": 19,
+      "debut": 541.46,
+      "fin": 577.94,
+      "temps_estime": false,
+      "titre": "W-2 wages face the highest marginal tax",
+      "resume": "W-2 earned income faces the highest marginal federal income tax, and the six-figure range pays the highest average percentage, taxed on gross income with few write-offs for work expenses. Medicare taxes are uncapped, while business owners and investors deduct expenses, write off losses and shape how they report income.",
+      "mots_cles": [
+        "W-2 wages",
+        "marginal tax rate",
+        "earned income",
+        "gross income taxed",
+        "Medicare tax uncapped",
+        "write-offs",
+        "business owners",
+        "investors"
+      ],
+      "texte": "The type of income that faces the highest marginal federal income tax is W-2 wages, or traditional earned income. Those who still get a paycheck pay the most of it directly to the government, and the 6 figure range pays the highest average percentage. They’re taxed on gross income before it makes its way into their pocketbook, and have very little opportunity to write off daily expenses of getting to work. Worse, Medicare taxes are uncapped, meaning the higher you go, the more you pay. Meanwhile, business owners and investors are able to deduct operational expenses and write off losses and legally manipulate how they report their income."
+    },
+    {
+      "id": 20,
+      "debut": 577.94,
+      "fin": 606.54,
+      "temps_estime": false,
+      "titre": "The SALT cap change barely helps the working wealthy",
+      "resume": "A 2026 tax adjustment raised the SALT cap to help people with high property taxes in expensive states, but it is a drop in the bucket against the overall levies on this bracket. The tier above can reclassify income and use tax protections, while the working wealthy have nowhere to hide.",
+      "mots_cles": [
+        "SALT cap",
+        "2026 tax adjustment",
+        "property taxes",
+        "working wealthy",
+        "write-offs",
+        "reclassify income",
+        "tax protections"
+      ],
+      "texte": "And the chipping away continues. A 2026 tax adjustment increased the SALT cap to help people with high-level property taxes in expensive states. But that’s a drop in the bucket compared to the overall levies that this tax bracket deals with. While those in the tier above them regularly have access to write-offs, tax protections, and ways to reclassify their income, the “working wealthy” have nowhere to hide. Their straightforward income means all their assets are subject to levies from the government."
+    },
+    {
+      "id": 21,
+      "debut": 606.54,
+      "fin": 633.18,
+      "temps_estime": false,
+      "titre": "Looming costs: tuition, student debt and pensions that buy only survival",
+      "resume": "High earners face rising costs ahead: many push kids toward state schools or hope for scholarships to avoid student debt, and even those with a corporate pension find their status buys survival rather than luxury. Yet the next generation still dreams of this lifestyle.",
+      "mots_cles": [
+        "student debt",
+        "state school",
+        "scholarship",
+        "corporate pension",
+        "rising costs",
+        "high-flying status",
+        "next generation"
+      ],
+      "texte": "And if it ended there, they might be okay. Instead, high earners are forced to look down the road at looming rising costs. Many are pushing their kids toward state school or praying for a scholarship, just to avoid the mountain of student debt. Even those with the safety net of a corporate pension are discovering their high flying status won’t buy them a life of luxury. It just buys them survival. Yet, it’s still a lifestyle the next generation dreams of."
+    },
+    {
+      "id": 22,
+      "debut": 633.18,
+      "fin": 655.82,
+      "temps_estime": false,
+      "titre": "Entry-level corporate jobs are disappearing for new graduates",
+      "resume": "Business graduates grind 80-hour weeks hoping hard work pays off, but firms are cutting staff, outsourcing entry-level tasks and lowering starting pay. The bottom rungs of the corporate ladder are being cut off, so graduates may be too far behind by the time they reach the big leagues.",
+      "mots_cles": [
+        "business graduates",
+        "entry-level jobs",
+        "80 hour weeks",
+        "outsourcing",
+        "starting salaries",
+        "corporate ladder",
+        "staff cuts"
+      ],
+      "texte": "Bright eyed business graduates are taking their first steps on the corporate ladder. They’re grinding 80 hour weeks in the hope their hard work will pay off. But a harsh reality is waiting for them. Firms are cutting staffing, outsourcing entry level tasks and lowering starting rates. The bottom rungs of the corporate ladder are being cut off. And by the time these grads make it to the big leagues, they might be too far behind to catch up."
+    },
+    {
+      "id": 23,
+      "debut": 655.82,
+      "fin": 685.7,
+      "temps_estime": false,
+      "titre": "Buying a home is prohibitively expensive: 6 percent rates, 5.0x price-to-income",
+      "resume": "Owning a home is a top milestone, but after the 2021-2022 buying surge on low rates it is now one of the worst times to buy. Mortgage rates around 6 percent, inflation outpacing income and a 5.0x home price to income ratio make even a starter home a challenge.",
+      "mots_cles": [
+        "home ownership",
+        "mortgage rates 6 percent",
+        "home price to income ratio",
+        "5.0x",
+        "starter home",
+        "housing affordability",
+        "2021 2022 home buying"
+      ],
+      "texte": "There are a few milestones in life that almost everyone wants to achieve, and at the top of the list is owning your own home. While there was a surge in home buying in 2021 and 2022 due to low mortgage rates, it’s now one of the worst times to buy. With mortgage rates currently hovering around 6% interest and inflation raising prices faster than income can keep up, buying a property has gotten prohibitively expensive. And with a daunting 5.0x home price to income ratio at the moment, even an entry-level starter home is a challenge.."
+    },
+    {
+      "id": 24,
+      "debut": 685.7,
+      "fin": 715.3,
+      "temps_estime": false,
+      "titre": "The hidden hack: young six-figure earners living at home",
+      "resume": "Some young six-figure earners quietly live with healthy parents rent-free or at reduced rent, even a 29-year-old investment banker. For many it is preferable to paying a big share of pay to a landlord with no savings and no progress toward a down payment.",
+      "mots_cles": [
+        "living with parents",
+        "rent-free",
+        "young professionals",
+        "investment banker",
+        "landlord rent",
+        "down payment",
+        "six-figure income"
+      ],
+      "texte": "For some young people in the six-figure income bracket , there is one hack that they might not want to admit: live at home. If they have healthy, living parents they might have a place to live rent-free or at a reduced rate. But that raises the specter of being a 29-year-old investment banker who still has to bring milk and eggs home after a day of high-intensity trading. For many, it’s preferable to the alternative of paying a hefty chunk of your paycheck to a landlord, having no savings, and making no more progress towards that down payment."
+    },
+    {
+      "id": 25,
+      "debut": 715.3,
+      "fin": 745.46,
+      "temps_estime": false,
+      "titre": "Mortgages and down payments: paying for a house several times over",
+      "resume": "Few buy a home outright unless they get an inheritance or windfall; most put down around 19 percent and take a 20 to 30 year mortgage. This makes homes affordable to non-wealthy buyers, but interest can mean paying for the house several times over, with payments that resemble rent.",
+      "mots_cles": [
+        "down payment 19 percent",
+        "30-year mortgage",
+        "mortgage interest",
+        "inheritance",
+        "home buying",
+        "payments like rent",
+        "affordability"
+      ],
+      "texte": "And help isn’t on the way. Few people buy a home outright, unless they’re coming into a massive inheritance or just hit a windfall. It’s far more likely they put up a down payment, often around 19%. From there, they get approved for a mortgage that can span 20 to 30 years. This makes buying a house affordable to people other than the wealthy, but it comes with a drawback… they can wind up paying off that house several times over due to interest. Those payments often resemble rent in terms of size and impact on the monthly budget."
+    },
+    {
+      "id": 26,
+      "debut": 745.46,
+      "fin": 772.86,
+      "temps_estime": false,
+      "titre": "The secret is out and lenders scrutinize high earners",
+      "resume": "The financial crush on six-figure earners used to be a shameful secret, but the media now covers it and most people know many high earners are scraping by. This can worsen the situation, since lenders offering loans and mortgages look at them with extra scrutiny of their long-term outlook, which is often not healthy.",
+      "mots_cles": [
+        "media coverage",
+        "high earners scraping by",
+        "lender scrutiny",
+        "loans",
+        "mortgages",
+        "financial outlook",
+        "six-figure bracket"
+      ],
+      "texte": "The financial crush hitting the six-figure income bracket used to be a shameful little secret among the upper class. But not anymore. The media has picked up the story, and most people know that many high-earning professionals are scraping by. And that might just make the situation worse. Now, the resources that might have been able to help them with loans and mortgages are looking at them with extra scrutiny to ensure that their long-term financial outlook is healthy - and more often than not, it’s not."
+    },
+    {
+      "id": 27,
+      "debut": 772.86,
+      "fin": 801.66,
+      "temps_estime": false,
+      "titre": "Gen Z doubts the system can be won and opts out",
+      "resume": "The crisis is already visible in Gen Z, many doubting the system can be won and unwilling to work 40 hours a week and still be poor. Some opt out of the rat race by monetizing a passion, others live at home playing video games, lacking hope of a stable future.",
+      "mots_cles": [
+        "Gen Z",
+        "opting out",
+        "rat race",
+        "40 hour work week",
+        "passion into money",
+        "living at home",
+        "no hope of stable future"
+      ],
+      "texte": "So what does this mean for the future of American work? We’re seeing the crisis emerge already with Gen Z, as many of them have expressed doubts about whether the system can actually be won. They have little desire to work 40 hours a week and still be poor. That’s why many are opting out of the rat race altogether. For some, it means trying to find something they’re passionate about and turning it into money. For others, it means living at home and playing video games all day. If they don’t have any hope of a stable future, they don’t have any desire to work for it."
+    },
+    {
+      "id": 28,
+      "debut": 801.66,
+      "fin": 833.22,
+      "temps_estime": false,
+      "titre": "Will the upper class lose its ambition? The cost of entry",
+      "resume": "The narrator asks whether the ennui seen in Gen Z will hit the upper class, as the first generation of highly paid professionals struggles to make ends meet. Advertising executives, lawyers, doctors and professors typically carry heavy student loans from 4 to 6 year degrees, so ambitious people may question whether it is worth it: if no one can win the game, will anyone play?",
+      "mots_cles": [
+        "professional fields",
+        "student loans",
+        "lawyers",
+        "doctors",
+        "professors",
+        "cost of entry",
+        "ambition",
+        "if no one can win"
+      ],
+      "texte": "Is this same kind of ennui about to hit the upper class? Right now, we’re seeing the first generation of workers in highly-paid professional fields struggling to make ends meet. As word of that spreads, more people with ambition for these fields will start to wonder if it’s worth it. Because for most of them, there’s a cost of entry. The advertising executives, lawyers, doctors, and professors of the world typically have a 4 or 6year degree from a prestigious institution, and that comes with a hefty student loan. If no one can win the game, will anyone play?"
+    },
+    {
+      "id": 29,
+      "debut": 833.22,
+      "fin": 856.86,
+      "temps_estime": false,
+      "titre": "Consumer economy at risk if the top 10 percent struggle",
+      "resume": "The US is a consumer economy relying on people being able to afford what they need; if even the top 10 percent struggle, who will buy luxuries? The top 1% cannot sustain the economy alone, and a world where almost no one can sustain the American Dream is one where people stop dreaming and start scheming.",
+      "mots_cles": [
+        "consumer economy",
+        "top 10 percent",
+        "top 1%",
+        "luxury consumers",
+        "American Dream",
+        "economic sustainability",
+        "start scheming"
+      ],
+      "texte": "The United States is heavily a consumer economy, and its health relies on people being able to afford what they need. If even the top 10% is struggling, who is left to be the consumer base for luxuries? No matter how much money the top 1% has, they can’t sustain the economy on their own - and a world where almost no one can sustain the American Dream is likely a world where people stop dreaming, and start scheming."
+    },
+    {
+      "id": 30,
+      "debut": 856.86,
+      "fin": 867.3,
+      "temps_estime": false,
+      "titre": "Closing: even the 1% sense something big is coming",
+      "resume": "The closing says it is not just the middle class who worry: the 1% are starting to think something big is coming. Viewers are pointed to the video 'Tech Billionaires Are Panicking'.",
+      "mots_cles": [
+        "the 1%",
+        "billionaires worried",
+        "Tech Billionaires Are Panicking",
+        "outro",
+        "something big is coming",
+        "wealthy panic"
+      ],
+      "texte": "It’s not just the middle class who are starting to worry. The 1% are starting to think something big is coming. Watch “Tech Billionaires Are Panicking” for what’s going on behind the scenes. Or click on this."
+    }
+  ]
+}
