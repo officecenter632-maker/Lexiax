@@ -1,0 +1,685 @@
+{
+  "version": 1,
+  "video_id": "JbJSWEJmI7A",
+  "titre_video": "The Steam Review Crisis",
+  "duree_s": 1055.24,
+  "avancement": {
+    "lignes_traitees": 248,
+    "fin_traitee_s": 1055.24,
+    "nb_lignes_total": 248,
+    "complet": true
+  },
+  "nb_segments": 36,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.24,
+      "fin": 15.12,
+      "temps_estime": false,
+      "titre": "Video game industry layoffs and false explanations",
+      "resume": "The video game industry is described as being massacred, with over 58,000 people laid off between 2022 and 2026. The layoffs were blamed on a post-COVID slump, a market correction and the AI race, but the narrator says none of that is true.",
+      "mots_cles": [
+        "video game industry",
+        "layoffs",
+        "58,000 layoffs",
+        "post-COVID slump",
+        "market correction",
+        "AI race",
+        "2022-2026"
+      ],
+      "texte": "The video game industry is being massacred. From 2022 to 2026, over 58,000 people were laid off. It was thought to be a 'post-COVID slump'. A market correction. Even the effects of the burgeoning AI race was blamed. None of that is true."
+    },
+    {
+      "id": 2,
+      "debut": 15.12,
+      "fin": 27.92,
+      "temps_estime": false,
+      "titre": "AAA publishers' failed gamble",
+      "resume": "Studios are not collapsing because people stopped playing games, but because of a multi-million dollar gamble by AAA publishers that did not pay off. This failed gamble is now burning the gaming world to the ground.",
+      "mots_cles": [
+        "AAA publishers",
+        "gamble",
+        "studio collapse",
+        "gaming industry",
+        "high budgets",
+        "thesis",
+        "video game crisis"
+      ],
+      "texte": "Studios aren’t collapsing because people aren’t playing games. It’s the result of a multi-million dollar gamble by AAA publishers. One that didn’t pay off. And now it’s burning the gaming world to the ground."
+    },
+    {
+      "id": 3,
+      "debut": 27.92,
+      "fin": 47.36,
+      "temps_estime": false,
+      "titre": "AAA budgets above $300 million",
+      "resume": "AAA games, the high-budget and high-profile titles, always had hefty price tags with budgets kept secret. Industry insiders say today's AAA games cost more than $300 million to develop and release, more than the Harry Potter movies and most Marvel movies.",
+      "mots_cles": [
+        "AAA games",
+        "development cost",
+        "$300 million",
+        "budgets",
+        "Harry Potter movies",
+        "Marvel movies",
+        "industry insiders"
+      ],
+      "texte": "AAA games - the high-budget, high-profile titles - always came with a hefty price tag. Exact budgets were always kept under wraps. But industry insiders say today’s AAA games cost more than $300 million to develop and release. That’s more than the cost of the Harry Potter movies and most Marvel movies. And those costs come with consequences."
+    },
+    {
+      "id": 4,
+      "debut": 47.36,
+      "fin": 68.24,
+      "temps_estime": false,
+      "titre": "Layoff numbers for 2025 and 2026",
+      "resume": "2025 saw almost 9,200 layoffs and 2026 is on track to be even more brutal. The industry jobs tracker ASGC first forecast around 8,000 cuts in January, and by late July the projection had climbed to nearly 14,000 job cuts.",
+      "mots_cles": [
+        "layoffs",
+        "2025",
+        "2026",
+        "ASGC",
+        "job cuts",
+        "jobs tracker",
+        "projection",
+        "14,000"
+      ],
+      "texte": "Job losses. 2025 saw almost 9,200 layoffs. And 2026 is on track to be even more brutal. An industry jobs tracker, ASGC, initially forecasted around 8,000 cuts in January. By late July, the projection kept ticking upwards, hitting at a projection of nearly 14,000 job cuts. And the year’s not over yet."
+    },
+    {
+      "id": 5,
+      "debut": 68.24,
+      "fin": 111.6,
+      "temps_estime": false,
+      "titre": "Insomniac leak and Sony layoffs",
+      "resume": "Hackers breached Insomniac, developer of Spider-Man 2, revealing the game ran $30 million over its original $270 million budget. Leaked files show Sony asked Insomniac to remove 50-75 people, mostly from the Wolverine and Spider-Man 3 teams, and called for layoffs across its first-party studios including PlayStation Studios, Bungie and Naughty Dog.",
+      "mots_cles": [
+        "Insomniac",
+        "hack",
+        "Spider-Man 2",
+        "budget overrun",
+        "Sony",
+        "layoffs",
+        "Bungie",
+        "Naughty Dog",
+        "Wolverine"
+      ],
+      "texte": "With budgets spiraling out of control, it’s not a surprising development. The horrifying state of the video game industry was laid bare when hackers breached Insomniac, the developer behind the Spider-Man 2 game. They found that the game ran $30 million over its original budget of $270 million. It gave the public a shocking, behind the scenes look at industry spending. Sony needed to find a way to cut back on skyrocketing costs. The leaked files show that they requested Insomniac “remove 50-75 people strategically”, mostly from the Wolverine and Spider-Man 3 teams. Sony called for layoffs across pretty much all its first-party studios, including PlayStation Studios, Destiny developer Bungie, and Naughty Dog, the development company behind The Last of Us."
+    },
+    {
+      "id": 6,
+      "debut": 111.6,
+      "fin": 145.12,
+      "temps_estime": false,
+      "titre": "Xbox cuts 3,200 jobs and divests five studios",
+      "resume": "In July 2026 Xbox announced it would cut 3,200 jobs and divest 5 studios. CEO Asha Sharma said the business was not healthy and operated at margins 3-10x lower than comparable businesses, without mentioning disappointing sales of games like Avowed.",
+      "mots_cles": [
+        "Xbox",
+        "Asha Sharma",
+        "July 2026",
+        "3,200 jobs",
+        "divest studios",
+        "margins",
+        "Avowed",
+        "Microsoft layoffs"
+      ],
+      "texte": "But Xbox has had it worse. In July 2026, it announced that it would cut 3,200 jobs and divest 5 studios. Xbox CEO Asha Sharma stated it was a necessary move because “our business today is not healthy. We are operating at margins that are 3-10x lower than comparable platform and publishing businesses.” She didn’t mention the disappointing sales of games like Avowed, which failed to live up to its developer’s promises. It was happening all across the industry. Companies behind wildly successful games - like The Last of Us - were hemorrhaging jobs and money."
+    },
+    {
+      "id": 7,
+      "debut": 145.12,
+      "fin": 184.48,
+      "temps_estime": false,
+      "titre": "Spider-Man 2 break-even and other AAA budgets",
+      "resume": "Spider-Man 2, which cost $300 million, needed to sell 7.2 million units to break even and eventually turned a profit after a strong launch. Other reported costs: The Last of Us Part 2 at $220 million, Horizon Forbidden West at $212 million, the latest Call of Duty at $300 million, and Grand Theft Auto 6 at an estimated $1 to $1.5 billion.",
+      "mots_cles": [
+        "Spider-Man 2",
+        "break even",
+        "The Last of Us Part 2",
+        "Horizon Forbidden West",
+        "Call of Duty",
+        "Grand Theft Auto 6",
+        "development costs",
+        "AAA budgets"
+      ],
+      "texte": "Spider-Man 2, with a cost of $300 million, would need to sell 7.2 million units to break even. Luckily, it was a success and sold 5 million units in its first 1 days on the market, eventually making its money back and turning a profit. But reporters have gotten hold of some other development costs that make it clear that Spider-Man 2’s immense budget was not a fluke. The Last Of Us Part 2 cost $220 million to make. Horizon Forbidden West racked up $212 million in development costs. The latest Call of Duty has already cost $300 million, while the much anticipated Grand Theft Auto 6 takes the cake with an enormous estimated budget between $1 and $1.5 Billion."
+    },
+    {
+      "id": 8,
+      "debut": 184.48,
+      "fin": 203.28,
+      "temps_estime": false,
+      "titre": "Cheaper games succeed while AAA ignores the lesson",
+      "resume": "Much more affordable games have had massive critical and commercial success: Assassin's Creed Shadows cost Ubisoft just over $100 million and Resident Evil Requiem cost even less. AAA developers are not learning the right lessons, or they do not care.",
+      "mots_cles": [
+        "Assassin's Creed Shadows",
+        "Resident Evil Requiem",
+        "affordable games",
+        "Ubisoft",
+        "budget",
+        "hit games",
+        "AAA lessons"
+      ],
+      "texte": "But much more affordable games have seen massive critical and commercial success, proving you don’t need sky high budgets to score a hit. Assassin’s Creed Shadows cost Ubisoft just over $100 million. Resident Evil Requiem cost even less than that. But AAA game developers aren’t learning the right lessons. Or they don’t care."
+    },
+    {
+      "id": 9,
+      "debut": 203.28,
+      "fin": 232.0,
+      "temps_estime": false,
+      "titre": "Ballooning AAA budgets and marketing costs",
+      "resume": "The average AAA budget rose from $50-150 million in the late 2010s to $200-300 million in 2024, without counting marketing. IGN is quoted saying that with marketing a franchise can exceed $1 billion, citing a franchise with $660 million in development and nearly $550 million in marketing.",
+      "mots_cles": [
+        "average AAA budget",
+        "marketing costs",
+        "IGN",
+        "franchise",
+        "$1 billion",
+        "development cost",
+        "2024",
+        "budget inflation"
+      ],
+      "texte": "Sending budgets have exploded in hopes of creating the next hit. The average AAA budget has ballooned from between $50 and $150 million in the late 2010s, to $200-300 million in 2024. That doesn’t include marketing costs. According to IGN, “when considering marketing costs, this number can jump to over $1 billion across a franchise… one large studio [reported] that a major franchise’s development cost $660 million and marketing cost nearly $550 million.”"
+    },
+    {
+      "id": 10,
+      "debut": 232.0,
+      "fin": 260.48,
+      "temps_estime": false,
+      "titre": "Suicide Squad's troubled development",
+      "resume": "When a AAA game flops, even legendary companies like Warner Bros. can sink. Suicide Squad: Kill the Justice League suffered constant delays, slated for 2022 but released in 2024, with an unclear and changing vision and a rigid, stressful work culture.",
+      "mots_cles": [
+        "Suicide Squad Kill the Justice League",
+        "Warner Bros",
+        "Rocksteady",
+        "delays",
+        "development problems",
+        "work culture",
+        "flop"
+      ],
+      "texte": "So when a AAA game flops, companies can quickly start to sink. Even if they’re as massive and legendary as Warner Bros. “Suicide Squad: Kill the Justice League” was a highly problematic title before it ever hit the market. The development of the game experienced constant delays. It was slated for debut in 2022, but didn’t get released until 2024. It wasn’t helped by an unclear and changing vision at the helm, and a rigid work culture stressed everyone out without delivering much of anything."
+    },
+    {
+      "id": 11,
+      "debut": 260.48,
+      "fin": 294.0,
+      "temps_estime": false,
+      "titre": "Suicide Squad flop and the $200 million loss",
+      "resume": "Suicide Squad launched in February 2024 and by May held a mixed Metacritic score of 60, with flat sales and no hype. On May 9th an earnings call revealed Warner Bros would take a $200 million loss, one of the biggest flops in gaming, while the real cost of the game was never revealed.",
+      "mots_cles": [
+        "Suicide Squad",
+        "Metacritic",
+        "$200 million loss",
+        "Warner Bros",
+        "earnings call",
+        "flop",
+        "game cost secrecy"
+      ],
+      "texte": "The game debuted in February 2024. By May, the writing was already on the wall. Metacritic’s score had firmly held at a “mixed” 60, sales were flatlining, and there was no hype in sight. On May 9th, the devastating news was shared an earnings call: Warner Bros would be taking a $200 million loss from the Suicide Squad sequel. It quickly became known as one of the biggest flops in gaming. To take a $200 million loss, how much had Warner Bros. actually spent on the game? To preserve some secrecy, or just due to embarrassment, the studio never revealed the cost of the game."
+    },
+    {
+      "id": 12,
+      "debut": 294.0,
+      "fin": 314.24,
+      "temps_estime": false,
+      "titre": "Shady marketing and sales projections",
+      "resume": "Developers think they can get away with high-budget mediocre games because of shady marketing. Companies invest hundreds of millions based on massive sales projections over multi-year development cycles and will do anything, even lie, to make those sales happen.",
+      "mots_cles": [
+        "shady marketing",
+        "sales projections",
+        "misleading marketing",
+        "multi-year development",
+        "lying",
+        "budgets",
+        "hundreds of millions"
+      ],
+      "texte": "So, why do developers think they can get away with high-budget, mediocre games in the first place? Because of shady marketing. When companies invest hundreds of millions into a game with a multi-year development cycle, they’re basing it on massive sales projections. When the game comes around, they’ll do anything to make those sales happen. Even if it means lying."
+    },
+    {
+      "id": 13,
+      "debut": 314.24,
+      "fin": 334.48,
+      "temps_estime": false,
+      "titre": "Misleading Suicide Squad trailers",
+      "resume": "Early trailers for Suicide Squad: Kill the Justice League promised a cinematic, character-heavy experience, but fans got a generic looter shooter where every member used guns instead of their signature weapons. A games writer is quoted contrasting the teaser's reception with the reception at release.",
+      "mots_cles": [
+        "Suicide Squad trailers",
+        "looter shooter",
+        "misleading trailers",
+        "cinematic",
+        "characters",
+        "teaser",
+        "fan reaction"
+      ],
+      "texte": "Like with Suicide Squad: Kill the Justice League. Early trailers promised a cinematic, character-heavy experience. What did fans get instead? A generic looter shooter. Every member of the Suicide Squad was using guns instead of their character’s weapons of choice. As one games writer put it, “people’s first reactions to the teaser were a huge contrast to its reception on release.”"
+    },
+    {
+      "id": 14,
+      "debut": 334.48,
+      "fin": 366.8,
+      "temps_estime": false,
+      "titre": "Live service games' bad reputation",
+      "resume": "Fans expected a usual Rocksteady debut and were surprised by a live service game. Live service games have a bad rap for basic, glitchy or underwhelming first impressions, constant updates and microtransactions, though not all have to be that way and the low bar means bucking the trend could produce a hugely successful game.",
+      "mots_cles": [
+        "live service games",
+        "Rocksteady",
+        "microtransactions",
+        "constant updates",
+        "glitchy launch",
+        "first impression",
+        "fan expectations"
+      ],
+      "texte": "Fans were also primed to expect a usual Rocksteady debut; and were instead surprised with a live service game. To understand why this annoyed gamers, live service games have gotten a very bad rap. They’re known to deliver a very basic, or glitchy, or underwhelming first impression and use constant updates or changes to keep players coming back for more. Often pressuring players to use microtransactions in the meantime, if they want to make reasonable progress. Not all live service games have to be that way. The bar is so low that bucking the trend could lead to one of the most successful games of all time."
+    },
+    {
+      "id": 15,
+      "debut": 366.8,
+      "fin": 389.36,
+      "temps_estime": false,
+      "titre": "Concord's $400 million failure",
+      "resume": "Concord, a 2024 live service release, cost at least $400 million to develop and flopped so badly that Sony removed it from its store after two weeks and refunded every buyer, becoming one of the most shocking failures of all time.",
+      "mots_cles": [
+        "Concord",
+        "Sony",
+        "live service",
+        "$400 million",
+        "flop",
+        "refunds",
+        "2024",
+        "store removal"
+      ],
+      "texte": "Underwhelming live service games have gotten so bad that a relatively recent release - Concord in 2024 - easily became one of the most shocking failures of all time. The video game cost at least $400 million to develop. Yet, when it was released, it flopped so badly that Sony didn’t even try to save it. Instead, it removed the game from its store after just 2 weeks and refunded every person who had bought it."
+    },
+    {
+      "id": 16,
+      "debut": 389.36,
+      "fin": 405.6,
+      "temps_estime": false,
+      "titre": "Nobody wanted a live service Suicide Squad",
+      "resume": "Making Suicide Squad a live service game, whether to follow a trend or as a cash grab, went down like a rock. A Reddit user is quoted saying Rocksteady made fantastic single player games and no one wanted a live service Suicide Squad.",
+      "mots_cles": [
+        "Suicide Squad",
+        "live service",
+        "Rocksteady",
+        "cash grab",
+        "Reddit",
+        "single player games",
+        "player reaction"
+      ],
+      "texte": "In the case of Suicide Squad, the decision to make the game a live service one, either because it was trending or because Rocksteady wanted a cashgrab, went down like a rock. As one Reddit user put it: “Rocksteady made fantastic single player games. No one wanted a live service Suicide Squad game.”"
+    },
+    {
+      "id": 17,
+      "debut": 405.6,
+      "fin": 454.0,
+      "temps_estime": false,
+      "titre": "Mass Effect 3 and the pre-order cushion",
+      "resume": "Mass Effect 3 (2012) was promised to give each fan a customized ending but delivered generic A, B or C endings. Sales dropped about 80% from week one to week two, yet it sold almost 4 million copies thanks to pre-orders, nearly one million on day one, before the false promise was exposed. Suicide Squad did not have that luxury.",
+      "mots_cles": [
+        "Mass Effect 3",
+        "EA",
+        "misleading promises",
+        "endings",
+        "pre-orders",
+        "sales drop",
+        "2012",
+        "day-one sales"
+      ],
+      "texte": "But even with all these issues, developers would rely on misleading expectations and marketing to boost their game’s sales. When Mass Effect 3 debuted in 2012, the developer had promised that each fan would get a different ending based on their decisions throughout the story. Not just an A, B or C choice; an actual customized ending. Players got a generic A, B, or C ending. Sales of Mass Effect 3 dropped by around 80% from week one to week two. Despite that, Mass Effect 3 was still a commercial success. It’s sold almost 4 million copies to date and made EA tons of money. How? Because of a crazy amount of pre-orders. Almost one million of those copies sold on day one. By the time people figured out the promises about the ending weren’t real, most copies of the game had already been sold. But Suicide Squad didn’t have that luxury."
+    },
+    {
+      "id": 18,
+      "debut": 454.0,
+      "fin": 494.48,
+      "temps_estime": false,
+      "titre": "Steam's review UI as a financial kill switch",
+      "resume": "Something had changed when Suicide Squad released: Steam's new user review UI. Valve announced the review feature in 2013, and the reviews became so influential that they determine whether a game lives or dies. A single Mixed score can vaporize a $200 million investment, as happened to Suicide Squad.",
+      "mots_cles": [
+        "Steam",
+        "user reviews",
+        "Valve",
+        "2013",
+        "kill switch",
+        "Mixed rating",
+        "Suicide Squad",
+        "review score"
+      ],
+      "texte": "Something had changed in the gaming world when it was released. Specifically, on Steam. There was a new user review UI that worked like a financial kill-switch. In 2013, Valve had announced a new review feature for Steam users; one that quickly moved from beta testing to the wider public. Initially conceived to give gamers a way to voice their opinions, Steam's reviews became so influential that they determined whether a game would live or die on the market. A single “mixed” review score could instantly vaporize a $200 million investment. That’s exactly what happened with Suicide Squad, and many others. All the glossy marketing in the world couldn’t cover up what actual gamer reviews on Steam: It just wasn’t worth it."
+    },
+    {
+      "id": 19,
+      "debut": 494.48,
+      "fin": 532.16,
+      "temps_estime": false,
+      "titre": "Mixed rating cuts conversion; most users read reviews",
+      "resume": "A Mixed Steam rating correlates with a conversion rate roughly 60-67% lower than a Very Positive rating. A GameDiscoverCo survey found 40.5% of respondents always check reviews before buying and another 32% do so most of the time, almost three quarters of Steam users.",
+      "mots_cles": [
+        "Steam rating",
+        "conversion rate",
+        "Mixed",
+        "Very Positive",
+        "GameDiscoverCo",
+        "survey",
+        "40.5%",
+        "statistics"
+      ],
+      "texte": "Statistics show exactly to what degree Steam’s rating system has a hold over the gaming world. A ‘Mixed' rating on Steam correlates with a conversion rate approximately 60-67% lower than a 'Very Positive' rating. Steam users generally see ratings as they’re actively browsing to buy a game. And they pay a lot of attention to other users’ opinions. How much? GameDiscoverCo conducted a survey to see how reviews would influence Steam users’ choices. They found that 40.5% of respondents always check reviews before buying. Another 32% said they did it most of the time. That’s almost three quarters of Steam users paying close attention to reviews."
+    },
+    {
+      "id": 20,
+      "debut": 532.16,
+      "fin": 560.16,
+      "temps_estime": false,
+      "titre": "Updates to lift scores; reviews outweigh critics",
+      "resume": "Developers race to ship updates that move the Steam review score because the payoff is huge: Gamesight found that going from Mixed to Very Positive nearly tripled conversion rates. Steam user reviews now matter more than professional critics' opinions, acting as a democratic financial kill switch.",
+      "mots_cles": [
+        "Gamesight",
+        "conversion rates",
+        "game updates",
+        "Steam reviews",
+        "professional critics",
+        "democratic",
+        "review score"
+      ],
+      "texte": "Understandably, developers are now racing to provide updates that can move the needle on a Steam review score. Anything to make the game more attractive to the average Steam customer. Because the payoff can be huge. Gamesight found that using updates to change overall game reviews “from ‘Mixed’ to ‘Very Positive’ nearly tripled conversion rates”. In fact, Steam user reviews have become so important, they matter more than professional critics’ opinions. They’re just a financial kill switch; but a democratic one as well."
+    },
+    {
+      "id": 21,
+      "debut": 560.16,
+      "fin": 611.84,
+      "temps_estime": false,
+      "titre": "Star Wars Outlaws: critics versus players",
+      "resume": "Ubisoft's Star Wars Outlaws (2024, estimated $200 million budget) scored 76 on Metacritic from critics, but players gave it 4.9 out of 10 and Steam users agreed with a Mixed rating, later improved to Mostly Positive by updates. UK physical launch sales were 55% lower than Star Wars Jedi Survivor and it sold only 1-2 million units against Ubisoft's stated 3-4 million break-even.",
+      "mots_cles": [
+        "Star Wars Outlaws",
+        "Ubisoft",
+        "Metacritic",
+        "user score",
+        "Steam Mixed",
+        "Jedi Survivor",
+        "break-even",
+        "UK sales"
+      ],
+      "texte": "This became obvious with Ubisoft’s Star Wars Outlaws release in 2024. With an estimated $200 million budget, the game debuted to general critical acclaim. On Metacritic, it received a score of 76 based on professional critic reviews. But user reviews weren’t as kind; gamers only gave it a 4.9 out of 10 near its release date. Steam users felt the same way. Though several updates and bug fixes have moved Star Wars Outlaw up to “Mostly Positive” since mid-2026, the year of its debut, the game sat firmly in the “Mixed” category. Physical launch sales in the UK were 55% lower than the Star Wars game released a year before that: Star Wars: Jedi Survivor. The game ended up selling only 1-2 million lifetime units. Since Ubisoft had publicly said it would need to sell at least 3-4 million copies of the game to break even, the market outlook on the company crashed and burned."
+    },
+    {
+      "id": 22,
+      "debut": 611.84,
+      "fin": 639.04,
+      "temps_estime": false,
+      "titre": "Ubisoft's stock drop after Star Wars Outlaws",
+      "resume": "After the release of Star Wars Outlaws, Ubisoft's stock fell more than 10% in two days to around $18 per share, the lowest since 2014, and kept falling. It showed that even a critically successful game from a massive franchise like Star Wars can flop because of Steam reviews.",
+      "mots_cles": [
+        "Ubisoft",
+        "stock drop",
+        "share price",
+        "$18",
+        "2014",
+        "Star Wars",
+        "Steam reviews",
+        "AAA franchises"
+      ],
+      "texte": "After the game’s release, Ubisoft’s stocks dropped by more than 10% in 2 days. Basically a market run on a video game developer. They fell to around $18 per share, the lowest the share had ever been since 2014. And they continued to fall. It proved that even a critically successful game based on a massively popular franchise like Star Wars can absolutely flop due to Steam user reviews. It created more problems for mega-budget AAA franchises."
+    },
+    {
+      "id": 23,
+      "debut": 639.04,
+      "fin": 690.48,
+      "temps_estime": false,
+      "titre": "Avowed's mixed reception and Microsoft layoffs",
+      "resume": "Avowed, with a $100-150 million budget, was pitched by Obsidian and Microsoft as a spiritual successor to Pillars of Eternity but got a Mixed Steam rating for technical issues, scaled-down scope, repetitive combat and shallow exploration. Despite a Game Pass day-one boost with 5 million players in the first month, the game tanked, followed by Microsoft layoffs.",
+      "mots_cles": [
+        "Avowed",
+        "Obsidian",
+        "Microsoft",
+        "Xbox",
+        "Game Pass",
+        "Pillars of Eternity",
+        "Mixed rating",
+        "flop",
+        "layoffs"
+      ],
+      "texte": "Xbox’s ‘Avowed’ fell prey to a similar fate. The game’s estimated budget was between $100 -150 million. Obsidian and Microsoft set up the game as a “spiritual successor to ‘Pillars of Eternity’”. The hype was real. Gamers everywhere expected something amazing; a game with depth and promise. They didn’t get it. The game debuted to very disappointing user reviews. It received a “mixed” rating on Steam, due to “significant technical issues, scaled-down scope compared to promises, repetitive combat, and shallow exploration”. Xbox even used its day-one Game Pass availability to heavily boost player engagement, reporting 5 million players on ‘Avowed’ in its first month. But all the boosts and marketing tactics in the world couldn’t save ‘Avowed’ after Steam users had already destroyed it. The game tanked. Then Microsoft announced thousands of job layoffs."
+    },
+    {
+      "id": 24,
+      "debut": 690.48,
+      "fin": 730.08,
+      "temps_estime": false,
+      "titre": "Steam reviews shift power to gamers",
+      "resume": "Steam's rating system gave gamers power over critics and also over developers and studios, letting them tell the truth about gameplay and disrupting the marketing tactics used to hide mediocre games. Steam updated its UI to encourage more reviews, producing a clearer public verdict and more engagement that would rock the gaming market.",
+      "mots_cles": [
+        "Steam rating system",
+        "gamer power",
+        "developers",
+        "marketing tactics",
+        "UI update",
+        "engagement",
+        "critics",
+        "user verdict"
+      ],
+      "texte": "Steam may have thought its user rating system would help gamers take back some power from critics. But Steam’s UI did much more than that. Gamers ended up taking the power back from developers and studios as well. They were able to portray the gameplay experience as it actually was in order to tell others users the truth. They disrupted the marketing tactics most developers employed to hide mediocre, messy, or underdelivering games. This made Steam users gravitate even more towards the rating system. Steam itself also stepped in with an updated UI to encourage more reviews. This led to a clearer public verdict on what users actually thought of games, and much more engagement. And it would rock the gaming market."
+    },
+    {
+      "id": 25,
+      "debut": 730.08,
+      "fin": 748.96,
+      "temps_estime": false,
+      "titre": "Steam's changes to get more reviews",
+      "resume": "In 2019 Steam began a series of changes to collect more game reviews: prompts to review a game after a set number of hours played, sales strategies giving users awards for leaving reviews, and prioritizing reviews written in the user's own language.",
+      "mots_cles": [
+        "Steam",
+        "2019",
+        "review prompt",
+        "hours played",
+        "review awards",
+        "language prioritization",
+        "more reviews"
+      ],
+      "texte": "In 2019, Steam introduced its first of many changes to get more game reviews. Users would receive a prompt to review the game they were playing after a set number of hours of gameplay. This was followed by sale strategies which gave users awards for leaving reviews. Steam then began to prioritize reviews written in the user’s own language."
+    },
+    {
+      "id": 26,
+      "debut": 748.96,
+      "fin": 794.72,
+      "temps_estime": false,
+      "titre": "The Boxleiter number collapses",
+      "resume": "The Boxleiter number was a reliable 2018 method to estimate a game's sales from its Steam reviews, assuming 75-80 copies sold per review, and publishers used it to project and justify massive budgets. As reviews flooded in, the ratio plummeted to about 15, showing the silent majority has found its voice.",
+      "mots_cles": [
+        "Boxleiter number",
+        "Boxleiter ratio",
+        "sales estimate",
+        "Steam reviews",
+        "copies per review",
+        "2018",
+        "silent majority",
+        "publishers"
+      ],
+      "texte": "What this did was shatter the formula of the gaming industry. It’s called the Boxleiter number. In 2018, it was a reliable way to estimate a game's sales figure based entirely on its Steam reviews. Back then, the math was simple. For every single review on its page, you could assume a game had sold 75-80 copies. Publishers used this metric for years to project and justify their massive budgets. But then the calculation collapsed. Reviews began flooding in. Journalists and industry insiders who tried to track sales found that instead of selling around 80 games per review, the new number had plummeted to 15. Steam is allowing gamers to dictate the success or failure of any one video game. The Boxleiter ratio shift means the 'silent majority' has found its voice. And it is screaming."
+    },
+    {
+      "id": 27,
+      "debut": 794.72,
+      "fin": 812.4,
+      "temps_estime": false,
+      "titre": "A system by gamers, for gamers",
+      "resume": "After years of misleading marketing, delays and broken promises, gamers have found a system that works almost exclusively for them. Mediocre games are punished for low quality, while engaging games that flew under the radar can be propelled to success through Steam.",
+      "mots_cles": [
+        "gamers",
+        "Steam",
+        "misleading marketing",
+        "broken promises",
+        "mediocre games",
+        "hidden gems",
+        "success"
+      ],
+      "texte": "After years of misleading marketing, endless delays, and broken promises, gamers have found a system by them, for them, that works almost exclusively for them. Not only are mediocre games being punished for their low quality, but engaging games that may have flown under the radar are being propelled to success via Steam."
+    },
+    {
+      "id": 28,
+      "debut": 812.4,
+      "fin": 846.88,
+      "temps_estime": false,
+      "titre": "Helldivers 2 launch and server crash",
+      "resume": "No one expected Helldivers 2 to be the next big thing; the flood of players crashed the servers and developer Arrowhead publicly asked players to postpone buying. It sold 12 million units with 15 million unique players, and CEO Johan Pilestedt joked there are more Helldivers than Swedes.",
+      "mots_cles": [
+        "Helldivers 2",
+        "Arrowhead",
+        "server crash",
+        "Johan Pilestedt",
+        "12 million units",
+        "15 million players",
+        "launch",
+        "demand"
+      ],
+      "texte": "As the developers of one game found out When Helldivers 2 was released, no one expected it to be the next big thing. Its success was such a surprise that the number of users flooding onto the system crashed the server. Developer Arrowhead publicly asked players to postpone buying the game, so the servers could handle the unexpected capacity. But the game was too good to pass up. Demand exploded, with the game selling 12 million units around the world. 15 million unique players logged in to check it out. As Arrowhead CEO Johan Pilestedt put it: “it’s crazy to think that there are more Helldivers than there are Swedes.”"
+    },
+    {
+      "id": 29,
+      "debut": 846.88,
+      "fin": 877.12,
+      "temps_estime": false,
+      "titre": "Helldivers 2 word of mouth and marketing ROI",
+      "resume": "Helldivers 2 benefited from word of mouth and user ratings as a live service game that lived up to its promises, with a stable and complex world from the start. With barely any marketing spend it dominated the charts and achieved a higher marketing return on investment than Starfield and Modern Warfare III.",
+      "mots_cles": [
+        "Helldivers 2",
+        "word of mouth",
+        "user ratings",
+        "marketing ROI",
+        "Starfield",
+        "Modern Warfare III",
+        "live service",
+        "low marketing"
+      ],
+      "texte": "Helldivers 2 also benefited from incredible word of mouth and user ratings. Gamers were excited to play a live service game that lived up to its promises. It offered a stable, fully-formed, complex world right at the beginning, instead of relying on future updates. That’s how a game that barely spent anything on marketing ended up absolutely dominating the gaming charts. And considering the low marketing cost, Helldivers 2 achieved a significantly higher marketing return of investment than major 2023 AAA releases like Starfield and Modern Warfare III."
+    },
+    {
+      "id": 30,
+      "debut": 877.12,
+      "fin": 907.68,
+      "temps_estime": false,
+      "titre": "Helldivers 2 as David versus Goliath at $40",
+      "resume": "Helldivers 2 cost only $40 while most AAA games hover around $70, putting it in a David vs. Goliath scenario against $200 million AAA games. It focused on affordable, quality products that users loved and talked about online, especially on Steam.",
+      "mots_cles": [
+        "Helldivers 2",
+        "$40 price",
+        "AAA price $70",
+        "David vs Goliath",
+        "affordable games",
+        "quality",
+        "Steam"
+      ],
+      "texte": "The fact that Helldivers 2 had a relatively affordable price tag helps. The game only cost $40 to buy. Most AAA games now hover in the $70 range instead. Compared to high-profile, super-high-budget games, Helldivers 2 found itself in a David vs. Goliath scenario. Except the slingshot cost $40 and the giant spent $200M on armor that didn't work. It was all because Helldiers 2 focused on delivering quality, affordable products that users loved and would talk about online… Especially on Steam."
+    },
+    {
+      "id": 31,
+      "debut": 907.68,
+      "fin": 925.76,
+      "temps_estime": false,
+      "titre": "Helldivers 2 player peak and revenue",
+      "resume": "Helldivers 2 was tweaked to handle its huge customer base, with nearly 500,000 simultaneous players on Steam at times. One source estimates it grossed more than a billion, perhaps over $2 billion, by the end of 2025.",
+      "mots_cles": [
+        "Helldivers 2",
+        "concurrent players",
+        "500,000",
+        "Steam",
+        "revenue",
+        "$1 billion",
+        "$2 billion",
+        "2025"
+      ],
+      "texte": "Eventually, Helldivers 2 was tweaked to handle its huge base of customers. It was so popular that at times, nearly 500,000 players were simultaneously playing it on Steam. According to one source, “it’s reasonable to estimate that Helldivers 2 has grossed more than a billion - perhaps even more than $2 billion - by the end of 2025”."
+    },
+    {
+      "id": 32,
+      "debut": 925.76,
+      "fin": 974.32,
+      "temps_estime": false,
+      "titre": "PSN account requirement and review bombing",
+      "resume": "In spring 2024 Sony required PC players to link a PSN account with Steam, a major problem in the over 100 countries where PSN is not supported. Steam users review-bombed the game in one weekend, it was delisted in over 150 countries, and within a week Sony cancelled the requirement, saying it was still learning what is best for PC players.",
+      "mots_cles": [
+        "Helldivers 2",
+        "PSN account",
+        "Sony",
+        "review bombing",
+        "delisted",
+        "150 countries",
+        "Steam",
+        "reversal",
+        "2024"
+      ],
+      "texte": "But the secret behind Helldivers 2’ success also ended up being its - temporary - undoing. In spring of 2024, Sony made a baffling decision. It stated PC players would have to link a pre-existing PSN account with Steam to continue playing the game. This was a major problem. Particularly for players in the over 100 countries where PSN isn’t even supported. Cutting off the majority of your game’s international base wasn’t a smart move. And gamers almost immediately used the Steam user review system to let the developers know that. In just one weekend, Steam users flooded the game with negative reviews. The game got delisted in over 150 countries. Almost immediately, Sony reversed course. Within a week, the entertainment giant announced that it’s “still learning what is best for PC players”, and is therefore cancelling the PSN link requirement."
+    },
+    {
+      "id": 33,
+      "debut": 974.32,
+      "fin": 998.24,
+      "temps_estime": false,
+      "titre": "The review bomb cape and users' win",
+      "resume": "Arrowhead took the review bombing in stride and used it to learn from customer feedback, creating a review bomb cape featuring Steam's user review score graph. Users stopped something exclusionary and saw that their voices were respected when they left reviews on Steam.",
+      "mots_cles": [
+        "review bomb cape",
+        "Arrowhead",
+        "Helldivers 2",
+        "customer feedback",
+        "review bombing",
+        "players' voice",
+        "Steam"
+      ],
+      "texte": "All in all, the developers took the review bombing in good stride and actually used it to learn from customer feedback. They eventually created a “review bomb cape” for the game. Its design features the user review score graph from Steam itself. Users also got a win, in that they stopped something exclusionary from happening to a game they love. Once again, they saw that their voices were respected and actually listened to when they left reviews on Steam."
+    },
+    {
+      "id": 34,
+      "debut": 998.24,
+      "fin": 1023.68,
+      "temps_estime": false,
+      "titre": "Steam has changed the gaming landscape",
+      "resume": "Steam has changed the video game landscape: overpriced, bloated, poorly conceived AAA titles can no longer rely on deep pockets, and publishers cannot use marketing gloss to hide mediocre products. For well-intentioned developers the review system is a lifeline to fix games in real time, and Steam users spread the word when they get it right.",
+      "mots_cles": [
+        "Steam",
+        "AAA games",
+        "marketing gloss",
+        "developers",
+        "player feedback",
+        "real-time fixes",
+        "lifeline",
+        "conclusion"
+      ],
+      "texte": "It’s no wonder Steam has changed the video game landscape entirely. Overpriced, bloated, poorly conceived and designed AAA titles can’t rely on the deep pockets anymore. Publishers can’t use shiny marketing gloss over a bad to mediocre product. But for well-intentioned developers, the review system is a lifeline. They can use player feedback to learn from their mistakes and fix their games in real time. And when they get it right, Steam users will let the world know."
+    },
+    {
+      "id": 35,
+      "debut": 1023.68,
+      "fin": 1043.28,
+      "temps_estime": false,
+      "titre": "The final spark for the AAA industry",
+      "resume": "AAA gaming was already collapsing, with tens of thousands of workers laid off as major developers tightened their belts. The influx of Steam reviews and vocal users might change the landscape forever, the final spark setting the AAA gaming industry on fire.",
+      "mots_cles": [
+        "AAA gaming",
+        "collapse",
+        "layoffs",
+        "Steam reviews",
+        "vocal users",
+        "final spark",
+        "industry on fire"
+      ],
+      "texte": "But with the positive comes the negative. AAA gaming was already collapsing. Tens of thousands of workers are being laid off as major developers tightened their belts. Given this brutal reality, the new influx of Steam reviews and vocal users might just change the landscape forever. It’s the final spark. And it’s setting the AAA gaming industry on fire."
+    },
+    {
+      "id": 36,
+      "debut": 1043.28,
+      "fin": 1055.24,
+      "temps_estime": false,
+      "titre": "Outro and Ubisoft AI video recommendation",
+      "resume": "Gaming studios do everything to maximize profits, and sometimes it backfires completely. The narrator recommends watching the video 'Ubisoft Bet On AI Slop. Now They Are RUINED' to see how wrong studios can get it.",
+      "mots_cles": [
+        "studio profits",
+        "backfire",
+        "Ubisoft",
+        "AI slop",
+        "outro",
+        "recommended video",
+        "Ubisoft ruined"
+      ],
+      "texte": "Gaming studios are doing everything they can to maximize their profits. And sometimes, it backfires completely. Watch “Ubisoft Bet On AI Slop. Now They Are RUINED” to see how wrong they can get it. Or click on this."
+    }
+  ]
+}
