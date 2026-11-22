@@ -4,12 +4,12 @@
  "titre_video": "Why Its Illegal To Cut Off Mattress Tags and Other Insane Laws",
  "duree_s": 8096.08,
  "avancement": {
-  "lignes_traitees": 912,
-  "fin_traitee_s": 1719.44,
+  "lignes_traitees": 1859,
+  "fin_traitee_s": 3646.08,
   "nb_lignes_total": 4213,
   "complet": false
  },
- "nb_segments": 39,
+ "nb_segments": 87,
  "segments": [
   {
    "id": 1,
@@ -736,6 +736,900 @@
     "Imperial China"
    ],
    "texte": "Now, imagine this. You're walking through the streets of ancient Rome, enjoying the breeze in your new, definitely not purple toga, when you notice a storm rolling in. Uh-oh, the air takes on a crackling electrical feel, and you know lightning is about to strike. Sure enough, a flash of light blinds you for a moment as a bolt of lightning strikes a man only a few feet from you, killing him instantly. Oh, no, that poor guy. Better get him a proper burial. It's only right. Wrong. Under the law of Numa Pompilius, [music] no one struck by lightning is legally allowed to be buried. You see, this wasn't just a freak accident in the minds of ancient Romans. This was a personal screw you from Jupiter, the god of thunder himself. Defying the gods is a pretty severe no-no. And if you bury that body, it's as good as stealing a sacrifice from Jupiter. Bury the body anyway, and someone would find themselves sacrificed in its place. They could move the body out of the road if it were a trip hazard or something, but only if they didn't lift it above their knees, cuz that was a crime, too. So, now that you're better prepared for any trips to ancient Rome, let's move on to another exciting time and place, Imperial China."
+  },
+  {
+   "id": 40,
+   "debut": 1719.44,
+   "fin": 1747.21,
+   "temps_estime": true,
+   "titre": "Imperial China: littering was punished by cutting off a hand",
+   "resume": "Imperial China's advice boils down to being neat, clean and respectful. During the Shang Dynasty (1600 to 1046 BCE) littering was strictly prohibited, and anyone caught throwing garbage on the road had a hand cut off.",
+   "mots_cles": [
+    "Imperial China",
+    "Shang Dynasty",
+    "littering",
+    "hand cut off",
+    "garbage on the road",
+    "1600 BCE",
+    "strict punishment"
+   ],
+   "texte": ">> [music] >> Most of the advice for this region and era boils down to be neat, clean, and respectful, and failure to do so might get you into some real legal trouble. During the Shang Dynasty in 1600 to 1046 BCE, littering was strictly prohibited. We're not talking about a fine or even just a little jail time. Laws during this time period stated that anyone caught throwing garbage on the road would be strictly punished by having their hand cut off."
+  },
+  {
+   "id": 41,
+   "debut": 1747.21,
+   "fin": 1790.64,
+   "temps_estime": true,
+   "titre": "Tang Dynasty: it was illegal to catch or eat carp",
+   "resume": "During the Tang Dynasty (618 to 907) the word for carp sounded like the emperors' family name, so according to the Miscellany of You Yang anyone who caught a carp had to release it and could not eat it. Selling carp earned 60 floggings, while in the Yuan Dynasty all fish were fair game.",
+   "mots_cles": [
+    "Tang Dynasty",
+    "carp",
+    "Miscellany of You Yang",
+    "flogged 60 times",
+    "fishing",
+    "emperor's name",
+    "Yuan Dynasty"
+   ],
+   "texte": "Anyone going fishing during the Tang Dynasty from 618 to 907 needed to be extra careful because the word for carp had the same pronunciation in Chinese as the last name of the Tang emperors. Extra respect was paid to the fish. According to the Miscellany of You Yang, a collection of records concerning legends and folk customs from the time, anyone who caught a carp while fishing was expected to release the fish right away and definitely could not eat them. Anyone caught selling carp would be flogged 60 times. So, time traveler, if you're going to go fishing in the Tang Dynasty, get very, very good at identifying fish first or you could just go to the Yuan Dynasty, 1206 to 1368 instead, where all fish were fair game."
+  },
+  {
+   "id": 42,
+   "debut": 1790.64,
+   "fin": 1815.8,
+   "temps_estime": false,
+   "titre": "Yuan Dynasty: holding chickens upside down was a crime",
+   "resume": "Under Yuan Emperor Renzong, historian Yang Yu records, people in the capital were forbidden from holding chickens upside down and offenders could be convicted and jailed. The likely reason was that the emperor's zodiac sign was the rooster.",
+   "mots_cles": [
+    "Yuan Dynasty",
+    "chickens upside down",
+    "Emperor Renzong",
+    "Yang Yu",
+    "rooster zodiac",
+    "jailed",
+    "animal respect"
+   ],
+   "texte": "Don't mess with chickens though. According to the Yuan Dynasty historian Yang Yu, during the reign of Emperor Renzong, people in the capital were forbidden from holding chickens upside down. Anyone who defied this extremely specific law would be convicted of a crime and likely jailed. This is likely due to the fact that the emperor's zodiac sign was that of a rooster. To be safe, [music] just treat all birds and fish with respect during your travels."
+  },
+  {
+   "id": 43,
+   "debut": 1815.8,
+   "fin": 1832.58,
+   "temps_estime": true,
+   "titre": "Ancient Egypt: harming a cat could mean the death penalty",
+   "resume": "Cats were sacred in ancient Egypt and harming one could earn a punishment as harsh as the death penalty.",
+   "mots_cles": [
+    "ancient Egypt",
+    "cats",
+    "sacred animal",
+    "death penalty",
+    "harming a cat",
+    "reverence"
+   ],
+   "texte": "Speaking of respecting animals, if you should find yourself traveling to ancient Egypt, there is one particular animal you need to make sure you treat with the utmost reverence, the cat. Cats were sacred in ancient Egypt and harming one could earn you a punishment as harsh as the death penalty, which honestly, given how cute cats are, seems pretty fair."
+  },
+  {
+   "id": 44,
+   "debut": 1832.58,
+   "fin": 1881.02,
+   "temps_estime": true,
+   "titre": "Medieval England: hunting the king's deer meant blinding and castration",
+   "resume": "A time traveler to the Middle Ages must avoid breaking obscure laws. A law passed in 1198 outlawed hunting deer in the royal forest, with blinding and castration as punishment, and it was repealed in 1217.",
+   "mots_cles": [
+    "medieval England",
+    "1198",
+    "royal forest",
+    "deer hunting",
+    "venison",
+    "blinding",
+    "castration",
+    "repealed 1217"
+   ],
+   "texte": "Let's just get a bit more recent and time travel over to jolly old England for a spell. It's time to get medieval. So, you want to travel to England during the Middle Ages? Live out your own personal knight's tale. Nothing wrong with that, but there are a few things to keep in mind. Step out of your line in the wrong place at the wrong time, break the wrong obscure law, and it's off with your head. When you get to medieval England, you need to find food, of course, but be careful. Don't go hunting for game all willy-nilly. In 1198, a law was passed outlawing any hunting of deer in the royal forest. If you were caught hunting venison there, you faced quite a harsh punishment. Blinding and castration. Makes you lose your appetite, doesn't it? The law was repealed in 1217, thankfully, but it's still probably best to stay away from the royal deer."
+  },
+  {
+   "id": 45,
+   "debut": 1881.02,
+   "fin": 1907.06,
+   "temps_estime": true,
+   "titre": "1266 statute fixing the price of bread and ale",
+   "resume": "In 1266 a statute fixed the prices of bread and ale to eliminate competition between sellers, with bread weight tied to the price of wheat. A baker caught selling underweight bread was fined and pilloried.",
+   "mots_cles": [
+    "1266",
+    "bread",
+    "ale",
+    "price fixing",
+    "baker",
+    "underweight bread",
+    "pillory",
+    "medieval England"
+   ],
+   "texte": "Maybe it's best to avoid meat altogether and just stick to bread and ale. Just be careful if you decide to sell bread or ale in medieval England, though. In 1266, a statute was issued that fixed the prices of bread and ale in order to eliminate competition between those selling them. Bread was expected to be sold at a certain weight in correlation with the price of wheat. And a baker caught selling underweight bread would be fined and pilloried for violating the law."
+  },
+  {
+   "id": 46,
+   "debut": 1907.06,
+   "fin": 1929.72,
+   "temps_estime": true,
+   "titre": "Edward III's law limiting meals to two courses",
+   "resume": "From 1336 to 1856 a law proclaimed by Edward III said no man of any rank could be served a meal of more than two courses. Special occasions such as Christmas allowed three.",
+   "mots_cles": [
+    "Edward III",
+    "two courses",
+    "1336",
+    "1856",
+    "meal limit",
+    "Christmas exception",
+    "medieval food law"
+   ],
+   "texte": "Oh, and speaking of food, don't think you'll be eating any grand six-course meals. From 1336 to 1856, a law proclaimed by Edward III was on the books stating that no man, of whatever rank he be, could be served a meal with more than two courses. There were some exceptions for special occasions such as Christmas, which allowed for three, but otherwise that cap was strictly set at two."
+  },
+  {
+   "id": 47,
+   "debut": 1929.72,
+   "fin": 2004.75,
+   "temps_estime": true,
+   "titre": "Medieval fashion laws: coverage rules and pointed shoes in 1463",
+   "resume": "Fashion laws in medieval England were meant to stop people dressing above their status and to protect public decency. A 1463 statute banned anyone below the rank of lord from wearing garments that did not cover the genitals and buttocks (20 shilling fine) and capped the points of shoes at 2 inches (fine of 3 shillings and 4 pence).",
+   "mots_cles": [
+    "fashion laws",
+    "1463 statute",
+    "rank of lord",
+    "20 shilling fine",
+    "pointed shoes",
+    "pikes",
+    "2 inches",
+    "public decency"
+   ],
+   "texte": "Food wasn't the only legal minefield in medieval England. Remember that whole bit about not wearing purple in ancient Rome? There were laws restricting fashion choices in medieval England, as well. Many of these laws were put in place to prevent people from dressing like a higher status than they were, and others were intended to protect public decency. In 1463, a law was passed ordering that no person under the rank of lord is to wear any gown, jacket, or coat which does [music] not cover the genitals and the buttocks. Break that rule and they'd wind up paying a 20 shilling fine. These fashion laws didn't just cover the lack of coverage that was getting popular in medieval men's fashion. For 15th century gentlemen, pikes or shoes with long pointed ends were all the rage. They weren't exactly big on restraint or minimalism, so sometimes these ends were long enough that they needed to be tied back around the ankles of the man wearing them. So, these shoes were included in that same 1463 statute. The new shoe-based edict declared that no knight under the rank of a lord, esquire, or gentleman, nor any other person shall wear any shoes or boots having spikes or points which exceed the length of 2 inches. Break this law and a fashion victim would be fined 3 shillings and 4 pence."
+  },
+  {
+   "id": 48,
+   "debut": 2004.75,
+   "fin": 2038.32,
+   "temps_estime": true,
+   "titre": "Medieval church rules on when married couples could have sex",
+   "resume": "In the Middle Ages the church told married couples which days they could have sex. It was forbidden on Thursdays, Fridays and Sundays, during Lent, in the days before Christmas and around the Feast of Pentecost.",
+   "mots_cles": [
+    "medieval church",
+    "married couples",
+    "sex ban",
+    "Thursdays Fridays Sundays",
+    "Lent",
+    "Pentecost",
+    "Holy Communion"
+   ],
+   "texte": "These laws didn't just cover what people could wear and eat, but what they did in the privacy of their own bedrooms. Throughout the medieval era, the church held a great deal of power and exercised [music] that power in a variety of ways. One of them was by telling married couples which days they were allowed to have sex on and which were strictly prohibited. Sex was forbidden on Thursdays and Fridays, which were set aside as preparation days for the Holy Communion, as well as on Sundays. Sex was also prohibited during Lent, during the days before Christmas, and the days surrounding the Feast of the Pentecost."
+  },
+  {
+   "id": 49,
+   "debut": 2038.32,
+   "fin": 2095.64,
+   "temps_estime": true,
+   "titre": "Medieval sports bans: football, tennis and bowling",
+   "resume": "Football was banned for serfs and laborers by a 1388 statute (6 days in prison, repealed only in 1845) so they would practice archery. Tennis was illegal for men below the noble class from 1485, and Edward III banned bowling in 1366, again to encourage archery.",
+   "mots_cles": [
+    "football ban",
+    "1388 statute",
+    "tennis",
+    "1485",
+    "bowling",
+    "Edward III",
+    "archery",
+    "serfs"
+   ],
+   "texte": "So, if that's off the table, what else is there to do during leisure time around here? Maybe you could play some sports. Just choose your sports wisely because some of them were outlawed during the Middle Ages. Football or soccer for the Americans watching was banned for serfs and laborers via a national statute in 1388. Instead of football, these men were encouraged to practice archery so they could better defend their kingdom. The punishment for playing football, when enforced, included 6 days in prison. The law was not officially repealed until 1845. Tennis was also off-limits, at least if the would-be sportsmen were poor. In 1485, it was declared illegal for young men who were below the noble class to play tennis. Tennis was regarded as an activity for the upper classes alone, and breaking this law would result in fines. Yet another ball-related sport was limited by law when King Edward III banned bowling in 1366, again citing the need for men to practice archery instead."
+  },
+  {
+   "id": 50,
+   "debut": 2095.64,
+   "fin": 2119.15,
+   "temps_estime": true,
+   "titre": "Medieval blasphemy laws and their punishments",
+   "resume": "The Catholic Church outlawed blasphemy in the Middle Ages, and punishments included hanging, stoning, and being bound while the tongue was removed with hot pliers.",
+   "mots_cles": [
+    "blasphemy",
+    "Catholic Church",
+    "Middle Ages",
+    "hanging",
+    "stoning",
+    "tongue removed",
+    "hot pliers"
+   ],
+   "texte": "But forget about food, fashion, sex, and sports. There was one force in medieval England that you really, really don't want to mess around with, >> [music] >> the church. The Catholic Church outlawed blasphemy during the Middle Ages, and anyone caught speaking out of turn about God or other religious subject matter would be dealt with swiftly. Punishments for blasphemy included hanging, stoning, and being bound while one's tongue was removed with hot pliers."
+  },
+  {
+   "id": 51,
+   "debut": 2119.15,
+   "fin": 2176.31,
+   "temps_estime": true,
+   "titre": "Tudor England: wearing silk was banned by sumptuary acts",
+   "resume": "Tudor and Stuart England dropped many medieval laws but kept others, including the 1509 Act Against Wearing of Costly Apparel and the 1554 Act to Avoid the Excess in Apparel. They prohibited silk for anyone below a knight's son, with 3 months in prison and a 10 pound fine for every day the law was broken.",
+   "mots_cles": [
+    "Tudor England",
+    "silk ban",
+    "Act Against Wearing of Costly Apparel",
+    "1554",
+    "sumptuary law",
+    "knight's son",
+    "10 pounds per day"
+   ],
+   "texte": "Let's get even more recent next. Maybe you're curious about the Tudor or Stuart periods, [music] the early modern age of England. Many of the laws of the Middle Ages were left behind in the past, but there were still plenty of unusual laws to watch out for. As a time traveler, you should know by now that you can't just wear whatever you want, whenever you want. There are obvious tips like don't wear jeans before denim was invented, or don't wear your Taylor Swift concert merch in ancient Greece. >> [music] >> But there's also the lesser-known don't wear silk in 1500s England. In 1509, the Act Against Wearing of Costly Apparel was passed, and by 1554, >> [music] >> an Act to Avoid the Excess in Apparel was in effect, prohibiting the wearing of any silk garments by any person with a rank lower than that of a knight's son. Don't expect those wimpy medieval fines for breaking the law, either. If caught, the punishment was 3 months in prison [music] and a fine of 10 pounds per day the law was broken."
+  },
+  {
+   "id": 52,
+   "debut": 2176.31,
+   "fin": 2202.78,
+   "temps_estime": true,
+   "titre": "1571 Act for the Making of Caps: mandatory wool caps",
+   "resume": "In 1571 the Act for the Making of Caps required everyone over age 6, except nobles and gentlewomen, to wear an English-made wool cap on Sundays and holidays. Going without one meant a fine of 3 shillings and 4 pence per day.",
+   "mots_cles": [
+    "Act for the Making of Caps",
+    "1571",
+    "wool cap",
+    "Sundays and holidays",
+    "fine",
+    "English wool",
+    "Tudor law"
+   ],
+   "texte": "So there were laws about what people couldn't wear, but there were also laws about what people couldn't not wear. In 1571, the Act for the Making of Caps required all people above the age of 6 years old except for nobles and maidens, ladies, and gentlewomen to wear an English-made wool cap on Sundays and holidays. If you were caught without a cap, you would be fined 3 shillings and 4 pence for each day the law was broken."
+  },
+  {
+   "id": 53,
+   "debut": 2202.78,
+   "fin": 2225.4,
+   "temps_estime": true,
+   "titre": "Elizabeth I's Act of Uniformity: mandatory church attendance",
+   "resume": "In 1559, as Catholics and Protestants clashed, Elizabeth I passed the Act of Uniformity, requiring church services to use the Book of Common Prayer and making Sunday attendance mandatory. Missing church cost a fine of 12 pence.",
+   "mots_cles": [
+    "Act of Uniformity",
+    "1559",
+    "Elizabeth I",
+    "Book of Common Prayer",
+    "church attendance",
+    "12 pence fine",
+    "Catholics and Protestants"
+   ],
+   "texte": "Hear that sound? It's church bells. Here comes some of those good old-fashioned religious laws again. In 1559, as England became a contentious battleground between Catholics and Protestants, Elizabeth I passed the Act of Uniformity, which required church services to use the Book of Common [music] Prayer and made Sunday service attendance absolutely mandatory. If someone missed church, they would be fined 12 pence."
+  },
+  {
+   "id": 54,
+   "debut": 2225.4,
+   "fin": 2259.22,
+   "temps_estime": true,
+   "titre": "Puritan England banned Christmas from 1647",
+   "resume": "With Puritans dominating Parliament, a 1647 ordinance forbade celebrating Christmas, with more laws in the 1650s. People celebrating with parties could be fined or have property seized, so there were no Christmas invites from 1647 to 1660.",
+   "mots_cles": [
+    "Puritans",
+    "Christmas ban",
+    "1647",
+    "Parliament",
+    "pagan holiday",
+    "fined",
+    "property seized",
+    "1660"
+   ],
+   "texte": "Later in the 1600s, the religious landscape of England was shifting once again, and Puritans dominated much of Parliament. In 1647, in an attempt to crack down on holiday celebrations deemed pagan in nature and not pious enough, an ordinance was passed that forbade the celebration of the Christmas holiday. Additional laws were passed along those lines in the 1650s, and those caught celebrating Christmas with parties or other festivities could be fined or have their personal property seized. So, if you're visiting England from 1647 to 1660, don't expect any Christmas party invites."
+  },
+  {
+   "id": 55,
+   "debut": 2259.22,
+   "fin": 2288.81,
+   "temps_estime": true,
+   "titre": "US history: Prohibition from 1920 to 1933",
+   "resume": "The narrator turns to the US to see which accidental historical crimes a time traveler might commit, starting with alcohol. From 1920 to 1933 America was in Prohibition, which banned the manufacture, sale and consumption of alcohol.",
+   "mots_cles": [
+    "United States",
+    "Prohibition",
+    "1920 to 1933",
+    "alcohol ban",
+    "time traveler",
+    "historical crimes"
+   ],
+   "texte": "Now, let's head on over to the good old US of A and see what accidental historical crimes you might stumble into. Depending on the state, there are some really unexpected laws that are no longer on the books in the present, but that might pose an issue to someone visiting in the past. First, let's talk about drinking. Lots of people do it, but from 1920 to 1933, America was smack-dab in the middle of prohibition, which strictly prohibited the manufacture, sale, or consumption of alcohol. That's an obvious one."
+  },
+  {
+   "id": 56,
+   "debut": 2288.81,
+   "fin": 2318.42,
+   "temps_estime": true,
+   "titre": "Kentucky: no buying alcohol while the polls were open",
+   "resume": "In some states, including Kentucky, it was once illegal to buy alcohol while polls were open for general elections or primaries. It responded to pre-Prohibition political parties bribing voters with free booze, and Kentucky overturned it in 2013.",
+   "mots_cles": [
+    "Kentucky",
+    "election day",
+    "alcohol ban",
+    "polls open",
+    "bribing voters",
+    "free booze",
+    "overturned 2013"
+   ],
+   "texte": "Most of us already know about prohibition, but it's far from the only alcohol-related crackdown in American history. In some states, including Kentucky, it was once illegal to purchase any alcohol while the polls were open for general elections or primaries. No drinking on election day. This was in response to a specific issue with political parties in pre-prohibition era America frequently bribing voters with free booze. The no alcohol on election day is law was overturned in Kentucky in 2013."
+  },
+  {
+   "id": 57,
+   "debut": 2318.42,
+   "fin": 2348.29,
+   "temps_estime": true,
+   "titre": "Mississippi: selling cold beer was illegal",
+   "resume": "In Mississippi it was once illegal to sell cold beer in a store, though room-temperature beer was allowed. The rule was meant to prevent drunk driving by forcing buyers to wait until they reached a refrigerator, and it was overturned in 2013.",
+   "mots_cles": [
+    "Mississippi",
+    "cold beer",
+    "room temperature",
+    "drunk driving",
+    "refrigerator",
+    "overturned 2013",
+    "beer law"
+   ],
+   "texte": "So, that covers what days were forbidden for buying alcohol, but what about alcohol's temperature? Surely no one would legally mandate that. Just kidding, of course they would. That's why we brought it up in the first place. In [music] Mississippi, it was once illegal to sell cold beer in a store. You were allowed to sell it at room temperature, but not cold. This was intended to prevent drunk driving as it forced beer drinkers to wait until they could get their freshly purchased brew somewhere with a refrigerator before cracking open a newly cold one. The law was overturned in 2013."
+  },
+  {
+   "id": 58,
+   "debut": 2348.29,
+   "fin": 2411.93,
+   "temps_estime": true,
+   "titre": "Sunday blue laws: Bergen County and New York",
+   "resume": "Until the 1980s many US laws banned shopping and business on Sundays, a legally mandated day of rest, and they survive only in Bergen County, New Jersey. New York's blue laws limited shopping, alcohol sales, golf and the circus until they were relaxed in 1952.",
+   "mots_cles": [
+    "blue laws",
+    "Sunday",
+    "day of rest",
+    "Bergen County",
+    "New Jersey",
+    "New York",
+    "golf",
+    "circus",
+    "1952"
+   ],
+   "texte": "Sure, those laws were a bit odd, but at least we're not in the Middle Ages anymore. There definitely won't be any more religiously motivated laws that restrict public life and leisure time. What's that? Yes, there absolutely were so many of those? Oh, okay. Up until as recently as the 1980s, there were quite a few laws in place preventing certain activities on Sundays. One of those was shopping or doing business of any kind. Sunday was a legally mandated day of rest, and if you had anything you wanted to pick up at the store that day, well, you were just out of luck. Thankfully, those laws have been repealed everywhere in the states except for Bergen [music] County, New Jersey. As it turns out, not everything is legal in New Jersey. Other more restful activities were off limits, too. New York State maintained their blue laws, laws banning work and activities on Sundays, for decades, limiting shopping and alcohol sales, but also limiting the acts of golfing or going to the circus. These laws were relaxed in 1952, but prior to that, no looking at clowns or hitting balls was permitted on the Lord's day."
+  },
+  {
+   "id": 59,
+   "debut": 2411.93,
+   "fin": 2468.65,
+   "temps_estime": true,
+   "titre": "Pinball banned: New York's 1942 raids under LaGuardia",
+   "resume": "After the first coin-operated pinball machine appeared in 1931, it was seen as gambling and immoral by church groups and Mayor Fiorello LaGuardia. On January 21, 1942 New York City banned pinball in public spaces, police seized 2,000 machines and smashed them with sledgehammers for the press.",
+   "mots_cles": [
+    "pinball ban",
+    "New York City",
+    "LaGuardia",
+    "January 21 1942",
+    "gambling",
+    "2,000 machines",
+    "sledgehammers",
+    "1931"
+   ],
+   "texte": "Speaking of fun things to do, specifically involving balls, you know what's always a good wholesome time? pinball. That all-American arcade classic game that no one in their right mind would ever have a problem with, let alone try to outlaw, except of course for the time that it was absolutely outlawed. From the time that the first coin-operated pinball machine was introduced in 1931, it was considered a form of gambling that many wrote off as immoral and dangerous to society. It was a game of chance that cost money, and that was too close to gambling for comfort in the eyes of church groups and others, including Mayor Fiorello LaGuardia of New York City. On January 21st, 1942, pinball machines were banned in public spaces in New York City. The police raided candy shops, bowling alleys, bars, and any other public space that might have a pinball machine, confiscating 2,000 machines. They called the press [music] to come and watch and smash the pinball machines to smithereens with sledgehammers."
+  },
+  {
+   "id": 60,
+   "debut": 2468.65,
+   "fin": 2494.31,
+   "temps_estime": true,
+   "titre": "How pinball became legal again: flippers and the 1970s rulings",
+   "resume": "Chicago, New Orleans and Los Angeles also banned pinball. When flippers were added in the 1970s it came to be seen as a game of skill, so the California Supreme Court overturned the Los Angeles ban in 1974 and New York followed two years later.",
+   "mots_cles": [
+    "pinball",
+    "flipper",
+    "game of skill",
+    "California Supreme Court 1974",
+    "Los Angeles",
+    "Chicago",
+    "New Orleans",
+    "ban overturned"
+   ],
+   "texte": "Other cities soon joined in and banned pinball as well, including in Chicago, New Orleans, and Los Angeles. It wasn't until the 1970s when the flipper mechanism was added to the game, and the attitude around pinball shifted to considering it a game of skill rather than chance. In 1974, the California Supreme Court overturned the Los Angeles ban. Two years later, New York followed, and pinball regained its place in public spaces and the hearts of Americans everywhere."
+  },
+  {
+   "id": 61,
+   "debut": 2494.31,
+   "fin": 2524.84,
+   "temps_estime": true,
+   "titre": "New York's cabaret law banning dancing",
+   "resume": "New York passed a cabaret law banning dancing in businesses without cabaret licenses, ratified in 1926 and not repealed until 2017. It was one of several American anti-dancing laws.",
+   "mots_cles": [
+    "cabaret law",
+    "New York",
+    "dancing ban",
+    "1926",
+    "repealed 2017",
+    "cabaret license",
+    "Footloose"
+   ],
+   "texte": "Games are one thing, but there's no way that there were any American laws on the books prohibiting expressions of joy and fun that are as ancient as humanity itself, activities like, say, dancing. Ah, who are we kidding? We've all heard of Footloose. Of course, there were anti-dancing laws. New York passed a cabaret law banning dancing in businesses without cabaret licenses, which was ratified in 1926. It wasn't repealed until 2017, and it wasn't the only dancing law."
+  },
+  {
+   "id": 62,
+   "debut": 2524.84,
+   "fin": 2577.52,
+   "temps_estime": true,
+   "titre": "Elmore City, Oklahoma: the real Footloose dancing ban",
+   "resume": "Elmore City, Oklahoma enacted a ban on public dancing in 1898 to prevent the immorality religious leaders linked to dancing. It lasted almost 100 years until high school students rallied in 1980 to hold a senior prom, despite Reverend F.R. Johnson's objections, and the ban was overturned.",
+   "mots_cles": [
+    "Elmore City",
+    "Oklahoma",
+    "dancing ban",
+    "1898",
+    "Footloose",
+    "senior prom",
+    "Reverend F.R. Johnson",
+    "1980"
+   ],
+   "texte": "In the town of Elmore City, Oklahoma, a ban on public dancing was enacted in 1898. Like in the plot of Footloose, this ban was intended to prevent the immorality that religious [music] leaders believed could result from dancing, including drinking and premarital sex and fun. Without Kevin Bacon there to save the day, the town's ban remained intact for nearly 100 years until Elmore City High School students rallied against it in 1980. The students sought to overturn the ban in order to have a senior prom. There were objectors like Reverend F.R. Johnson who said, \"No good has ever come from a dance. If you have a dance, somebody will crash it and they'll be looking for only two things, women and booze. When boys and girls hold each other, they get sexually aroused. You can believe what you want, but one thing leads to another.\" In spite of his comments, the students got their way and the ban was officially overturned."
+  },
+  {
+   "id": 63,
+   "debut": 2577.52,
+   "fin": 2598.28,
+   "temps_estime": true,
+   "titre": "Time travel guide wrap-up",
+   "resume": "The narrator closes the time traveler's guide, saying viewers are now less likely to end up in a medieval prison or be put to death in ancient Rome, and even skeptics have gained some law-based trivia.",
+   "mots_cles": [
+    "time travel",
+    "law trivia",
+    "conclusion",
+    "medieval prison",
+    "ancient Rome",
+    "travel guide"
+   ],
+   "texte": "Now, hopefully you're a little bit more prepared for your travels through time or maybe you've decided time travel isn't for you after all. If that's the case, then at least you know a lot of law-based trivia that you didn't know before. Either way, your chances of winding up in a medieval prison or being put to death in ancient Rome are significantly smaller than they were before and you have no way of proving otherwise."
+  },
+  {
+   "id": 64,
+   "debut": 2598.28,
+   "fin": 2632.94,
+   "temps_estime": true,
+   "titre": "Illegal foods in America: why some foods are banned",
+   "resume": "Some iconic foods are illegal in America, and selling or importing them can lead to seized goods, fines or even jail. Some are dangerous to eat, some banned for conservation reasons and some just shocking.",
+   "mots_cles": [
+    "illegal foods",
+    "banned foods",
+    "America",
+    "import ban",
+    "seized goods",
+    "fines",
+    "conservation",
+    "danger"
+   ],
+   "texte": "If you walk into a supermarket or an all-you-can-eat buffet restaurant, it's easy to get blown away by the sheer selection of foods. In America, if you want something to eat and have the cash, odds are you can find it. But, that's not always the case. Some iconic foods are actually illegal in America. [music] If you try to sell or import these foods, you could wind up having your goods seized by the government and facing fines or even jail time in some cases. >> [music] >> Some are dangerous to the eater, some are banned for conservation reasons and some are just flat out shocking. But, the one thing they all have in common, they're not going to be on the shelves anytime soon."
+  },
+  {
+   "id": 65,
+   "debut": 2632.94,
+   "fin": 2674.74,
+   "temps_estime": true,
+   "titre": "Number 20: Kinder Surprise eggs",
+   "resume": "Kinder Surprise chocolate eggs from Italy hold a toy in a plastic capsule inside a milk chocolate shell. US policy banned any candy containing a non-nutritive object over choking risk, so Ferrero made a US version without the plastic egg and toy.",
+   "mots_cles": [
+    "Kinder Surprise",
+    "Kinder Egg",
+    "Ferrero",
+    "choking hazard",
+    "non-nutritive object",
+    "banned candy",
+    "Italy",
+    "number 20"
+   ],
+   "texte": "But, the first in this list might be a fond childhood memory for many. Number 20, Kinder Surprise chocolate eggs. A tasty treat imported from Italy, these desserts are a candy and a toy in one. The rich milk chocolate shell covers a plastic egg similar to the ones hidden in Easter egg hunts. When the happy child eats the chocolate shell and opens the egg, they find a mystery toy inside. This made many kids very happy, but it wasn't without its risks. [music] Authorities were worried about the toy being a choking hazard, and US policies banned any candy from [music] containing a non-nutritive object. So, the Kinder Egg was banned in America despite protests, and the Ferrero company issued a new version for Americans without the plastic egg and toy. But, what's the fun in that?"
+  },
+  {
+   "id": 66,
+   "debut": 2674.74,
+   "fin": 2718.93,
+   "temps_estime": true,
+   "titre": "Number 19: cognac jelly cups",
+   "resume": "Konjac jelly cups, popular in Japan, are made from a root, are very low in calories and are firmer than gelatin desserts. Because they dissolve slowly and are easy to suck down whole, they pose a choking risk to children and have been prohibited in the US since 2002.",
+   "mots_cles": [
+    "cognac jelly cups",
+    "konjac",
+    "Japan",
+    "choking risk",
+    "low calorie",
+    "banned 2002",
+    "number 19",
+    "jelly snack"
+   ],
+   "texte": "The next entry was also a sweet treat, but it hid its danger much more effectively. [music] Number 19, cognac jelly cups. Remember those Jell-O cups you used to get in your lunch? Popular in Japan, cognac jelly cups look similar, but come in smaller portions that can be slurped in one go. Made from a root, it's popular for being extremely low in calories and having a firmer consistency than most gelatin-based desserts. They come in multiple flavors and often have bits of coconut embedded in them, but the low calories come with a dangerous drawback. Because they're slow to dissolve and it's easy to suck down the whole gel, they pose a choking risk to young children. So, while they remain a popular snack abroad and cognac [music] is still used in other ways, like a zero-calorie noodle substitute, the colorful snacks have been prohibited by the US since 2002."
+  },
+  {
+   "id": 67,
+   "debut": 2718.93,
+   "fin": 2760.83,
+   "temps_estime": true,
+   "titre": "Number 18: unpasteurized milk",
+   "resume": "Almost all US milk is pasteurized to kill bacteria, but some fans say raw milk tastes better and has more nutrients. The FDA says unpasteurized milk is 150 times more likely to cause illness, and it is banned in 21 states and strictly regulated in most of the other 29.",
+   "mots_cles": [
+    "unpasteurized milk",
+    "raw milk",
+    "pasteurization",
+    "FDA",
+    "150 times more illness",
+    "21 states",
+    "number 18",
+    "bacteria"
+   ],
+   "texte": "You might be shocked to know this next item could be illegal. [music] You probably had it this week. Number 18, unpasteurized milk. Milk definitely isn't illegal in the United [music] States. Countless quarts are sold each week, but almost all the milk sold in the country and definitely all the milk at your local supermarket has been pasteurized before sale in order to [music] kill bacteria and render it more shelf-stable and safer for consumption. But, some aficionados insist that pasteurized milk loses both the true taste and many of the nutrients of milk. Whether that's true or not, unpasteurized milk is 150 times more likely to cause illness than the pasteurized kind, according to the FDA. That's why it's banned in 21 states and most of the other 29 strictly regulated."
+  },
+  {
+   "id": 68,
+   "debut": 2760.83,
+   "fin": 2799.76,
+   "temps_estime": true,
+   "titre": "Number 17: sassafras oil",
+   "resume": "Sassafras was an old-timey candy flavor and the key flavor of old-school root beer, which is why many root beers are now flavored artificially. Sassafras oil is linked to cancer and kidney and liver damage and can be used to make psychoactive drugs because of the compound safrole, banned since the 1960s, though safrole-free bark extracts can still be sold.",
+   "mots_cles": [
+    "sassafras oil",
+    "root beer",
+    "safrole",
+    "cancer risk",
+    "psychoactive drugs",
+    "banned 1960s",
+    "number 17",
+    "bark extract"
+   ],
+   "texte": "This next one used to be a common ingredient, but with a surprising kick. Number 17, sassafras [music] oil. If you've heard of sassafras, it's probably as an old-timey candy flavor that your grandfather gave you. It used to be much more common, but it's mostly known today as the key flavor in old-school root beer. Many root beers are flavored artificially today, and there's a reason for that. Sassafras oil is double trouble. Not only has it been linked to an increased risk of cancer and kidney and liver damage, but it can be used to [music] make psychoactive drugs. This is all due to a compound named safrole, and while it's been banned since the 1960s, extracts [music] from the bark of the sassafras plant can still be sold if they're free of the dangerous compound."
+  },
+  {
+   "id": 69,
+   "debut": 2799.76,
+   "fin": 2838.94,
+   "temps_estime": true,
+   "titre": "Number 16: ackee",
+   "resume": "Ackee is Jamaica's national fruit, with a nutty taste and scrambled-egg texture, used in the breakfast dish ackee and saltfish. Unripe ackee contains the toxin hypoglycin A, which can cause hypoglycemia and dehydration, so the FDA banned the raw fruit in 1973 while canned and frozen ackee are available under strict regulation.",
+   "mots_cles": [
+    "ackee",
+    "Jamaica",
+    "ackee and saltfish",
+    "hypoglycin A",
+    "hypoglycemia",
+    "FDA ban 1973",
+    "canned ackee",
+    "number 16"
+   ],
+   "texte": "This next food might be banned in America, but it's iconic in Jamaica. Number 16, ackee. The national fruit of Jamaica, ackee has been described [music] as being a nutty fruit with a texture of scrambled eggs. That's made it a common component in the breakfast dish ackee and saltfish. But, while it's a staple in the island nation, it poses a danger if not handled correctly. When the fruit is unripe, it's loaded with hypoglycin A, a toxin that can cause hypoglycemia and dehydration by impeding the body's ability to lower blood sugar. The [music] raw fruit has been banned since 1973 by the FDA, but not all hope is lost for fans of the Jamaican treat. Canned and frozen fruits are available, although carefully regulated."
+  },
+  {
+   "id": 70,
+   "debut": 2838.94,
+   "fin": 2884.52,
+   "temps_estime": true,
+   "titre": "Number 15: fugu (pufferfish)",
+   "resume": "Fugu is a sushi delicacy that only master sushi chefs dare to serve because its skin and organs contain the deadly neurotoxin tetrodotoxin, which can paralyze and kill. One wrong knife cut can contaminate the whole fish, and sale and consumption are banned in the US except by a few properly trained chefs.",
+   "mots_cles": [
+    "fugu",
+    "pufferfish",
+    "tetrodotoxin",
+    "sushi chef",
+    "neurotoxin",
+    "The Simpsons",
+    "banned in US",
+    "number 15"
+   ],
+   "texte": "But, none of these foods can easily kill you. That's not true for this next one. [music] Number 15, fugu. No, this fish isn't banned because it can puff up and stick you with its spines. It's considered a delicacy in the sushi world, but only the masters of the sushi knife dare to serve it. That's because, as immortalized on an early episode of The Simpsons, hidden in the skin and in some of the organs is an incredibly deadly toxin named tetrodotoxin. This neurotoxin can cause paralysis [music] and can kill people who eat enough, and one wrong knife cut could contaminate the whole fish. For most [music] people, that's enough to steer away, but many thrill-seeking gourmets are willing to take the risk, but the government isn't. Sale and consumption of fugu is banned in the United States except for a few select chefs who are properly trained."
+  },
+  {
+   "id": 71,
+   "debut": 2884.52,
+   "fin": 2916.92,
+   "temps_estime": true,
+   "titre": "Number 14: horse meat",
+   "resume": "Eating horse meat is not illegal in the US, but slaughtering horses in slaughterhouses, importing the meat or selling it is, and the ban was renewed in 2018. Horses are not endangered but are viewed as beloved companions, even though horse meat is a delicacy in other countries.",
+   "mots_cles": [
+    "horse meat",
+    "slaughterhouse ban",
+    "import ban",
+    "ban renewed 2018",
+    "companion animals",
+    "delicacy abroad",
+    "number 14"
+   ],
+   "texte": "But some regulations aren't here to protect us, they're here to protect the animals. Number 14, horse meat. [music] While horses aren't endangered, they're viewed as beloved companions by much of the country and eating them just seems rude. It's not illegal to eat horse meat, but [music] it's not going to be easy. Slaughtering horses using slaughterhouses is illegal as is importing the meat or selling it. While the meat is a common delicacy in other countries around the world, the US ban was just renewed in 2018. [music] No doubt pleasing horse lovers around the country, even if they may swear otherwise after their horse comes in last at the derby."
+  },
+  {
+   "id": 72,
+   "debut": 2916.92,
+   "fin": 2963.22,
+   "temps_estime": true,
+   "titre": "Number 13: wild red fish (redfish)",
+   "resume": "Red drum, a common Southern game fish, became hugely popular after Cajun and Creole chef Paul Prudhomme created blackened red fish, and overfishing sharply reduced its population. Since 2007 it has been a protected game fish whose sale from federal waters is banned and fishing it is banned in all states but Mississippi, and the population is recovering.",
+   "mots_cles": [
+    "red fish",
+    "red drum",
+    "Paul Prudhomme",
+    "blackened redfish",
+    "overfishing",
+    "protected game fish 2007",
+    "Cajun",
+    "number 13"
+   ],
+   "texte": "But that doesn't take much for a species to become endangered as this [music] next fish found out. Number 13, wild red fish. The red fish or red drum was a common game fish in the American South and was generally considered [music] a good fish to eat, but it wasn't the most in demand until one chef changed that. Paul Prudhomme, a celebrity chef considered a legend of Cajun and Creole and Creole food, made a dish of blackened red fish that made this humble catch the hottest fish in town and that meant fishing, lots and lots of fishing which quickly led to the population drastically decreasing. [music] Since 2007, it's been a protected game fish which prohibits the sale of any caught in federal waters. Fishing for the red fish is now banned in all states but Mississippi, although some farmed fish are available. And it's worked, the population is quickly recovering."
+  },
+  {
+   "id": 73,
+   "debut": 2963.22,
+   "fin": 3002.57,
+   "temps_estime": true,
+   "titre": "Number 12: beluga caviar",
+   "resume": "Caviar from the beluga sturgeon of the Caspian and Black Seas could command as much as $200 an ounce, which pushed the fish to the verge of extinction. In 2005 the US joined other countries in banning beluga caviar imports; a black market persists and the species remains critically endangered.",
+   "mots_cles": [
+    "beluga caviar",
+    "sturgeon",
+    "Caspian Sea",
+    "$200 an ounce",
+    "import ban 2005",
+    "critically endangered",
+    "black market",
+    "number 12"
+   ],
+   "texte": "Not many people can afford [music] this next treat, but that didn't stop it from becoming endangered. Number 12, beluga caviar. Caviar, the salty eggs of the sturgeon, is one of the most expensive delicacies in the food world and a few were more prized than the caviar from the beluga sturgeon. Found in the Caspian and Black Seas, this fish's eggs are prized for their subtle flavor and could [music] command as much as $200 an ounce. This demand was high and the fish was soon on the verge of extinction. So in 2005, the US joined other countries in banning import of beluga caviar, hoping to help the species recover and repopulate. While a black market still exists, the species have survived to this day, although it remains critically [music] endangered."
+  },
+  {
+   "id": 74,
+   "debut": 3002.57,
+   "fin": 3032.26,
+   "temps_estime": true,
+   "titre": "Number 11: queen conch",
+   "resume": "The queen conch, native to the Caribbean Sea, is one of the largest sea snails and a seafood delicacy, but its size makes it easy to catch and it has become endangered. The US tries to cut demand by banning harvest in federal waters, although it remains a popular meal in Turks and Caicos.",
+   "mots_cles": [
+    "queen conch",
+    "sea snail",
+    "Caribbean Sea",
+    "endangered species",
+    "harvest ban",
+    "federal waters",
+    "Turks and Caicos",
+    "number 11"
+   ],
+   "texte": "But, it's not the only endangered treat from the sea. Number 11, queen conch. Most conchs are small, and some are among the most venomous animals in the world, but the queen conch, native to the Caribbean Sea, is one of the largest sea snails and has a meaty body that makes it a seafood delicacy. Its size makes it easier to catch, and that has made it an endangered species. While it remains a popular meal in Turks and Caicos, the United States has tried to reduce demand by banning its harvest [music] in federal US waters. But, determined seafood fans can always head to the Caribbean."
+  },
+  {
+   "id": 75,
+   "debut": 3032.26,
+   "fin": 3070.41,
+   "temps_estime": true,
+   "titre": "Number 10: sea turtles",
+   "resume": "Sea turtles such as the leatherback and hawksbill are considered a delicacy in many places, and the US Fish and Wildlife Service estimates 35,000 turtles are caught and eaten in California alone each year. Individual protected species are illegal to catch and sell, but turtle meat as a whole is not banned, so turtle soup from land or freshwater turtles can be found.",
+   "mots_cles": [
+    "sea turtles",
+    "leatherback",
+    "hawksbill",
+    "turtle soup",
+    "endangered",
+    "Fish and Wildlife Service",
+    "delicacy",
+    "number 10"
+   ],
+   "texte": "This next [music] sea creature is a beloved resident of the ocean, but also on the menu. Number 10, sea turtles. Most kids probably associate them with the wise old sea turtle, [music] Crush, from Finding Nemo, but these reptiles are considered a delicacy in many parts of the world. That's led many species, including the leatherback and hawksbill turtles, to become endangered. The US Fish and Wildlife Service estimates [music] that in California alone, 35,000 turtles are caught and eaten each year. While individual turtle species are protected and illegal to catch and sell, turtle meat as a whole isn't. In fact, you might be able to find turtle soup made from land or fresh water turtles on sale at a local supermarket."
+  },
+  {
+   "id": 76,
+   "debut": 3070.41,
+   "fin": 3109.26,
+   "temps_estime": true,
+   "titre": "Number 9: shark fin soup",
+   "resume": "Shark fins are a delicacy used to flavor a popular Chinese soup, and shark finning, cutting off the fins and throwing the shark back in the water, is considered cruel and has reduced shark populations. Sale of shark fins is banned in only 12 states, but finning itself has been totally banned in US waters since 2000.",
+   "mots_cles": [
+    "shark fin soup",
+    "shark finning",
+    "Chinese soup",
+    "12 states ban",
+    "banned 2000",
+    "cruelty",
+    "shark population",
+    "number 9"
+   ],
+   "texte": "It might surprise you to learn we eat these next creatures more than vice versa. Number nine, shark fin soup. Oh, no, a shark! Stay out of the water! While most of us have seen movies involving killer sharks, we're actually a far bigger threat [music] to them than they are to us. The gelatinous fins on large sharks are considered a delicacy and are used to flavor a popular Chinese soup. Shark finning, which involves cutting the fins off of sharks and throwing them back in the water, is increasingly considered cruel and has led to the shark population decreasing. While the sale of shark fins is only banned in 12 states and the soup is still a popular and expensive offering, the act of shark finning is totally banned [music] in US waters since 2000."
+  },
+  {
+   "id": 77,
+   "debut": 3109.26,
+   "fin": 3143.45,
+   "temps_estime": true,
+   "titre": "Number 8: Chilean sea bass",
+   "resume": "The Patagonian toothfish was renamed Chilean sea bass to sound more appetizing, and the resulting demand depleted wild stocks. The FDA stepped in, so catching it is not entirely illegal but is strictly regulated, with only certified boats allowed to catch specific numbers.",
+   "mots_cles": [
+    "Chilean sea bass",
+    "Patagonian toothfish",
+    "rebranding",
+    "overfishing",
+    "FDA",
+    "certified boats",
+    "regulated",
+    "number 8"
+   ],
+   "texte": "The desire to protect sea life took this next delicacy off a lot of menus. [music] Number eight, Chilean sea bass. It may be an ugly fish, but all it takes is a little rebranding to make a seafood superstar. Originally called the Patagonian toothfish, this meaty fish was renamed the Chilean sea bass to make it more appetizing. And it worked a little too well. The mass increase of fishing due to demand rapidly depleted the fish in the wild and so the FDA stepped in. While it's not entirely illegal to catch this fish now, it's strictly regulated and only certified boats are allowed to catch the fish [music] in specific numbers."
+  },
+  {
+   "id": 78,
+   "debut": 3143.45,
+   "fin": 3187.19,
+   "temps_estime": true,
+   "titre": "Number 7: foie gras",
+   "resume": "Foie gras comes from the livers of geese fattened by gavage, a force-feeding method with funnels down the throat. Defenders say geese lack a gag reflex, while activists call it cruelty, and California banned its sale with Chicago and New York City following, though there is no national ban.",
+   "mots_cles": [
+    "foie gras",
+    "gavage",
+    "force-feeding",
+    "geese",
+    "animal cruelty",
+    "California ban",
+    "Chicago",
+    "New York City",
+    "number 7"
+   ],
+   "texte": "But no animal welfare ban has been more controversial than the next one. Number seven, foie gras. Almost as prized as beluga caviar, this meaty treat is made from the livers of geese that are heavily [music] fattened, giving the liver an extremely rich and creamy taste. The controversy comes in how the fattening is achieved using a type of force-feeding called gavage that involves funnels down the geese's throats. While defenders say the geese lack [music] a gag reflex and it doesn't harm them, animal rights activists say the process is cruelty to animals and points to the reaction of the birds. >> [music] >> That's led to California banning the sale of the product with multiple cities including Chicago and New York City following suit. While a national ban isn't in the works yet, the activists [music] continue to make the case."
+  },
+  {
+   "id": 79,
+   "debut": 3187.19,
+   "fin": 3224.44,
+   "temps_estime": true,
+   "titre": "Number 6: bushmeat",
+   "resume": "Bushmeat is a class of foods, meat from African game hunts such as giraffes and lions taken by trophy hunters in legal programs. US authorities strictly prohibit bringing it home for safety reasons, and customs agents destroy it and any items that touched it.",
+   "mots_cles": [
+    "bushmeat",
+    "African game hunt",
+    "trophy hunters",
+    "giraffe",
+    "lion",
+    "customs",
+    "prohibited",
+    "number 6"
+   ],
+   "texte": "But some of the next banned foods in the US might shock you. Number six, bushmeat. This isn't so much a specific food as a class of foods. It's common among trophy hunters to go to Africa and hunt large animals including giraffes and lions. Usually [music] as part of a legal hunting program supervised by local guides. While these thrill-seekers might be able to [music] display their trophies on social media to many jeers from animal lovers back home, they won't be able to bring their catch back home. Meat from African game hunts, named bushmeat by US authorities, [music] is strictly prohibited due to safety concerns and customs agents will destroy any they find along with any items that might have come into contact with it."
+  },
+  {
+   "id": 80,
+   "debut": 3224.44,
+   "fin": 3268.19,
+   "temps_estime": true,
+   "titre": "Number 5: laetrile (vitamin B17)",
+   "resume": "Apricot pits contain cyanide, yet laetrile, also called vitamin B17 and processed from apricot pits, was marketed by pseudo-medical activists and some doctors as a cancer cure. It has been banned in the US since 1980, caused poisonings and may have hastened the death of actor Steve McQueen.",
+   "mots_cles": [
+    "laetrile",
+    "vitamin B17",
+    "apricot pits",
+    "cyanide",
+    "cancer cure",
+    "banned 1980",
+    "Steve McQueen",
+    "number 5"
+   ],
+   "texte": "Some banned [music] foods in the US can pack a deadly punch in a small package. Number five, laetrile. Have you ever [music] eaten an apricot pit? It probably had a slightly nutty, bitter taste that tasted a little like a weird almond. But eating apricot pits is strongly discouraged because they contain a deadly compound, cyanide. [music] This poison can be toxic or even fatal in large amounts, which makes it all the more shocking that some doctors were marketing it as a cancer treatment. [music] Laetrile, also known as vitamin B17, is a controversial supplement processed from apricot pits and was touted by new age pseudo-medical activists as a cancer cure. Banned in the US since 1980, it's been responsible for poisonings and may have been involved in hastening the death of famous actor Steve McQueen."
+  },
+  {
+   "id": 81,
+   "debut": 3268.19,
+   "fin": 3311.61,
+   "temps_estime": true,
+   "titre": "Number 4: absinthe",
+   "resume": "Absinthe is a bright green spirit with an anise flavor whose wormwood contains the compound thujone, toxic in large amounts. Legends that it drove people to insanity were probably exaggerated, but it was banned in the US until 2007, when import was allowed if thujone stayed below a certain level.",
+   "mots_cles": [
+    "absinthe",
+    "wormwood",
+    "thujone",
+    "green spirit",
+    "anise",
+    "banned until 2007",
+    "psychoactive legend",
+    "number 4"
+   ],
+   "texte": "But food or drink being poisonous hasn't always stopped its fans. Number four, absinthe. There are plenty of potent spirits out there, but few deliver [music] the kick that this bright green alcohol can. A green potion should be a giveaway that danger lies ahead, as any fairy tale fans will tell you. But absinthe has a [music] pleasant, if intense, flavor of anise. The danger, and for some appeal, comes from the wormwood used to make [music] it. This wood contains the chemical compound thujone, which can be toxic in large amounts. While the legends of absinthe being a powerful psychoactive spirit that drove people [music] to insanity might have been exaggerated, it was still banned in the US until 2007 when its import was allowed as long as the thujone was below a certain level."
+  },
+  {
+   "id": 82,
+   "debut": 3311.61,
+   "fin": 3358.96,
+   "temps_estime": true,
+   "titre": "Number 3: haggis",
+   "resume": "Haggis is a Scottish sausage of onion, oatmeal, suet and ground sheep organs such as heart, liver and lungs, cooked in a sheep stomach. Sheep's lungs are banned from sale and import in the US as a possible vector for respiratory disease, so haggis is sold in modified versions with ground lamb, heart and liver, or in cans, though Scottish expats say it is not the same.",
+   "mots_cles": [
+    "haggis",
+    "Scotland",
+    "sheep lungs",
+    "respiratory disease",
+    "import ban",
+    "modified haggis",
+    "Scottish expats",
+    "number 3"
+   ],
+   "texte": "But these last three entries might just make you lose your appetite. Number three, haggis. A meaty pudding, this Scottish classic has shocked many people with its ingredients. It's a sausage made from onion, oatmeal, and suet, [music] and a collection of sheep's organs including the heart, liver, and lungs ground up and encased in a sheep stomach before cooking. While it's one of the most divisive culinary delights out there, most of the ingredients are harmless >> [music] >> with one exception. Sheep's lungs are banned from sale and import in the US because a lung meat is considered a potential vector for respiratory [music] disease, but that hasn't eliminated haggis from the United States entirely. It's still sold in a modified version made with ground lamb and often liver and heart. And canned versions are available. But if you ask Scottish expats, it's just [music] not the same."
+  },
+  {
+   "id": 83,
+   "debut": 3358.96,
+   "fin": 3397.24,
+   "temps_estime": true,
+   "titre": "Number 2: ortolan",
+   "resume": "The ortolan is a tiny songbird that became a notorious French luxury meal: birds were fattened in covered cages, drowned in Armagnac, roasted and eaten whole. Demand reduced the population, so France, the EU and then the US banned its sale and import, and the species has rebounded.",
+   "mots_cles": [
+    "ortolan",
+    "songbird",
+    "France",
+    "Armagnac",
+    "luxury meal",
+    "EU ban",
+    "population rebound",
+    "number 2"
+   ],
+   "texte": "The penultimate entry is a shockingly primal culinary delight from France. Number two, [music] ortolan. A tiny songbird no larger than a thumb. This 1-oz bird became one of the most notorious French luxury meals. [music] The birds would be kept in covered cages, allowed to overfeed on grain so they'd become fat, and then would be drowned in Armagnac and roasted. The diner would eat the bird whole feet first, spit out the bones. But the tastes [music] of the wealthy caused the population to decline, and eventually France and the EU banned the sale and import of this tiny bird. The US soon followed, which means this favorite snack of royalty has mostly faded into history. And the ortolan hunting's population has rebounded."
+  },
+  {
+   "id": 84,
+   "debut": 3397.24,
+   "fin": 3456.34,
+   "temps_estime": true,
+   "titre": "Number 1: casu martzu, the maggot cheese",
+   "resume": "Casu martzu, a Sardinian pecorino made from unpasteurized sheep's milk, is deliberately seeded with fly larvae that eat through the cheese and is served with live maggots that can leap at the diner's face. It is banned in the US for health reasons, since food scientists say larvae may survive digestion and cause intestinal infestation.",
+   "mots_cles": [
+    "casu martzu",
+    "Sardinia",
+    "maggot cheese",
+    "fly larvae",
+    "pecorino",
+    "banned in US",
+    "intestinal parasite",
+    "number 1"
+   ],
+   "texte": "But the number one food on this list will shock you because it's the only [music] banned food that might fight back. Number one, casu martzu. Everyone knows a good cheese needs a little funk, unless you're a Kraft Singles loyalist. But casu martzu cheese from Sardinia takes this process to the extreme. [music] Nicknamed the rotten cheese, it's a pecorino cheese made from unpasteurized sheep's milk, [music] but it has a secret ingredient, fly larvae. It's deliberately seeded with the larvae which turn into and begin [music] to eat through the cheese, making it softer and supposedly increasing fermentation. When it's ready, the [music] cheese is served with the live wriggling maggots still in it, and eaters frequently wear goggles because the bugs will leap out of the cheese at the face of the diner. While it's a beloved tradition in Sardinia, it's not surprising that it's been banned from the US for health reasons. Some food scientists even say it's possible for the larvae to survive digestion and create a parasitic infestation in the intestine. Maybe those Kraft Singles are sounding better after all."
+  },
+  {
+   "id": 85,
+   "debut": 3456.34,
+   "fin": 3510.48,
+   "temps_estime": true,
+   "titre": "Illegal in Russia: the cheese smugglers Alexi and Vasily",
+   "resume": "A story about a Russian gang member, Alexi, meeting a buyer, Vasily, desperate for a fix turns out to be about cheddar cheese. The narrator introduces a new list of insane things that are illegal in Russia, starting with serious time for cheese dealing.",
+   "mots_cles": [
+    "Russia",
+    "cheese dealing",
+    "Alexi and Vasily",
+    "cheddar cheese",
+    "illegal in Russia",
+    "crime gang",
+    "list intro"
+   ],
+   "texte": "A Russian man, let's call him Alexi, is about [music] to commit a crime. He's part of a gang that deals in illegal products. He walks down a dark alleyway late at night to meet another guy who's been told is called Vasily. The two communicated on the phone just the other day with Vasily telling Alexi [music] that his clients are desperate for a fix since that last big bust. Alexi told him not to worry. A big shipment [music] has just come in and there's enough for everybody. We're going to make a lot of money, said Alexi. So, what exactly does Alexi have to sell? And what is Vasily [music] so desperate to buy? Heroin? Cocaine? Methamphetamine? MDMA? The answer [music] is none of those things. The answer is cheese. And on this occasion, cheddar cheese, that most wonderful food [music] that originates in the country of England. These two criminals are well aware that they could do some serious time for cheese dealing. So, now let's have a look at why, as well as other insane things you won't believe are illegal [music] in Russia."
+  },
+  {
+   "id": 86,
+   "debut": 3510.48,
+   "fin": 3582.13,
+   "temps_estime": true,
+   "titre": "Number 10: Russia's food import ban and the $20 million cheese ring",
+   "resume": "In 2015 an organized Russian gang was arrested for importing over $20 million of illegal cheese. Russia's 2014 retaliatory ban on imported food, a response to sanctions, boosted local cheese production, but people still wanted foreign cheese such as real Italian mozzarella for their pizza, and criminals were imprisoned for smuggling banned foods.",
+   "mots_cles": [
+    "Russia",
+    "imported food ban",
+    "2014",
+    "retaliatory ban",
+    "sanctions",
+    "$20 million cheese",
+    "mozzarella",
+    "smuggling"
+   ],
+   "texte": "Number 10, imported food products. In 2015, you might have read a story in the media about an organized Russian crime gang that was arrested for importing over $20 million of illegal cheese. Okay, you're thinking, you've heard that cheese might be slightly addictive, but come on, Russia, really? Is cheese really that bad? [music] Is it tearing at the fabric of society? Are there infomercials in Russia being shown with eggs being fried along [music] with the words, \"This is your brain on cheese?\" Well, the Russian government is indeed telling its citizens to just say no to cheese, but not because [music] cheese is inherently bad for people. The reason is Russia's ban on imported food products that started in 2014. This was called a retaliatory food import ban [music] because Russia was retaliating for sanctions being placed on it. The problem was, while this led [music] to cheese production inside Russia increasing, people still wanted their delicious fix from other cheese-making countries. People wanted real Italian mozzarella on their pizza, with some [music] Russians saying the homemade version of pizza didn't quite meet their expectations. Italian restaurant owners [music] were up in arms about it. This didn't mean that local folks were looking at doing hard time for putting illegal French Camembert on their toast, but [music] criminals have been imprisoned for illegally importing various banned food products."
+  },
+  {
+   "id": 87,
+   "debut": 3582.13,
+   "fin": 3646.08,
+   "temps_estime": true,
+   "titre": "Russia's cheese crackdown: hotlines, black market and food destroyed on TV",
+   "resume": "After the ban Russia set up a hotline to report illegal food dealers, and the cheese ring members faced up to 10 years in prison. Corner stores became black market cheese dealers, contraband meat, poultry and fruit existed, and Polish apples, Dutch cheese and Danish pork were destroyed on live TV, which some called fromagicide.",
+   "mots_cles": [
+    "Russia",
+    "contraband cheese",
+    "hotline",
+    "10 years prison",
+    "black market",
+    "food destroyed on TV",
+    "fromagicide",
+    "contraband sausage"
+   ],
+   "texte": "Right after the ban, there was a hotline people could call if they thought an illegal food dealer was working in their area. If someone got a whiff of European cheese in their hood, they could [music] inform the authorities and the cheese seller could go to prison. Those who were part of the cheese ring we mentioned [music] were reported to be looking at serving 10 years behind bars. It was serious business, with one resource saying [music] Russians were buying cheese the same way people bought weed in 1980s Brooklyn. Corner stores have become black market cheese [music] dealers. It wasn't only cheese, of course. Illegal products could be meat, poultry, and fruits. Yeah, that means in Russia, there's such a thing as contraband sausage. In [music] fact, some Russians watched in disbelief as contraband foods were destroyed on live TV. What they beheld was the destruction of things such as Polish apples, [music] Dutch cheese, and Danish pork. Even some ducklings were seized by the cops and then killed and incinerated. [music] Some folks were pretty darn mad at the government, since millions of Russians live below the poverty line. Others shouted, \"How can you do this? It's an act of fromagicide.\" But food is only the tip of the crazy iceberg. [music]"
   }
  ]
 }

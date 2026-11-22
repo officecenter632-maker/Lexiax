@@ -8,6 +8,7 @@ Speech : 4213 lignes, 0,64 s à 8096,08 s (~135 min), langue en, source automati
 Départ : début de la vidéo (segments.json n'existait pas).
 
 - Tranche 1 : lignes 1 à 912, 0 à 1719,44 s (~28,7 min), 39 segments (id 1 à 39). Vérification OK.
+- Tranche 2 : lignes 913 à 1859, 1719,44 à 3646,08 s (~32 min), 48 segments (id 40 à 87). Vérification OK. Contenu : Chine impériale, Angleterre médiévale et Tudor, lois américaines (prohibition, flipper, danse), puis début d'une 2e vidéo-compilation : « 20 aliments interdits aux États-Unis » (un segment par numéro, 20 à 1) et « choses illégales en Russie » (n° 10 : produits importés).
 
 ## Décisions prises (pour qui reprend le travail)
 
@@ -19,4 +20,4 @@ Départ : début de la vidéo (segments.json n'existait pas).
 
 ## Point d'arrêt
 
-Tranche 1 terminée : lignes_traitees = 912 (fin de la ligne « Imperial China. »). Prochaine étape : reprise à la ligne 913 (début du passage sur la Chine impériale : dynasties Shang, Tang, Yuan).
+Tranche 2 terminée : lignes_traitees = 1859 (fin de la partie « Russie n° 10 », juste avant « Number nine, popular blogs »). Prochaine étape : reprise à la ligne 1860 (Russie n° 9 : blogs populaires). La vidéo est une compilation de plusieurs sujets (lois absurdes, voyage dans le temps, aliments interdits aux USA, Russie) : un nouveau sujet commence souvent par un titre sans transition, à couper en milieu de ligne si besoin. Format des titres pour les listes numérotées : « Number N: sujet ».
