@@ -17,5 +17,7 @@ Départ : début de la vidéo (aucun segments.json existant). speech.json : 5233
 ## Tranches
 - Tranche 1 : lignes 1 à 840, 0 s à 1827.03 s (environ 30,5 min), 46 segments (#1 à #46). Vérification OK. Épisode du titre (#1 à #21), 50 faits sur l'espace (#22 à #42), début de l'épisode sur le corps dans l'espace (#43 à #46). Le dernier segment de la tranche se termine par « If you are ejected » (fin de ligne 840 : début de phrase qui appartient au segment suivant, à garder en tête).
 
+- Tranche 2 : lignes 841 à 1831, 1827.03 s à 3653.61 s (environ 30,4 min), 33 segments (#47 à #79). Vérification OK. Contenu : fin de l'épisode sur le corps dans l'espace (#47 à #49), épisode sur les mystères que la science n'explique pas (#50 à #67 : origine de la vie, pieuvres galloises, moisissures visqueuses, champignon Texas/Japon, encéphalite léthargique, énergie et matière noires, gravité, temps, antimatière, sonoluminescence, Anticythère, manuscrit de Voynich), début de l'épisode sur la mort d'un trou noir et de l'univers (#68 à #79). Le dernier segment finit par « The » (début de phrase de la ligne 1831).
+
 ## Point d'arrêt
-Dernière ligne traitée : 840. Prochaine étape : reprendre à la ligne 841 (« [music] into space in direct line of sight of a star ») avec l'id 47.
+Dernière ligne traitée : 1831. Prochaine étape : reprendre à la ligne 1832 (« universe is like a massive city where black holes are the only immortal residents ») avec l'id 80. Style des titres : français, courts, descriptifs ; résumés et mots-clés en anglais ; un segment fait en moyenne 40 à 80 s (11 s à 111 s).

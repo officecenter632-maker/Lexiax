@@ -4,12 +4,12 @@
   "titre_video": "Scientists Are Freaking Out Over Space Time (It's Not Real)",
   "duree_s": 10427.77,
   "avancement": {
-    "lignes_traitees": 840,
-    "fin_traitee_s": 1827.03,
+    "lignes_traitees": 1831,
+    "fin_traitee_s": 3653.61,
     "nb_lignes_total": 5233,
     "complet": false
   },
-  "nb_segments": 46,
+  "nb_segments": 79,
   "segments": [
     {
       "id": 1,
@@ -845,6 +845,605 @@
         "not cooked alive"
       ],
       "texte": "Moisture on the exterior of your body, though, and in places like your eyes and tongue, >> [music] >> will immediately begin to boil due to the lack of atmospheric pressure. Yet, this isn't a hot type of boiling, but rather [music] a very violent form of evaporation. So, you won't cook yourself alive, either. If you are ejected"
+    },
+    {
+      "id": 47,
+      "debut": 1827.03,
+      "fin": 1860.84,
+      "temps_estime": true,
+      "titre": "Coup de soleil et rayonnement cosmique dans l'espace",
+      "resume": "A person ejected near a star would get a severe, immediate sunburn on the side facing it, while distance from the star lowers the heat. Outside a planet's magnetosphere the body is also hit by cosmic radiation, and the narrator jokes that you should spin to cook evenly.",
+      "mots_cles": [
+        "sunburn",
+        "solar radiation",
+        "cosmic radiation",
+        "International Space Station",
+        "magnetosphere",
+        "no space suit",
+        "human body in space"
+      ],
+      "texte": "[music] into space in direct line of sight of a star, then you can expect to receive an incredibly bad sunburn on whatever side of your body is facing [music] that star thanks to unfiltered solar radiation. Depending on how far you are from the star though, you might not [music] receive enough heat to be seriously burned. But if you went for a stroll outside the International Space Station's airlock with no space suit, you could expect a severe and very immediate sunburn. You'll likely also be bombarded by huge amounts of cosmic radiation, especially if you're outside the protective magnetosphere of a large planet. [music] Our suggestion is to spin rapidly. That way you'll be crispy nice and evenly."
+    },
+    {
+      "id": 48,
+      "debut": 1860.84,
+      "fin": 1901.22,
+      "temps_estime": true,
+      "titre": "Le froid de l'espace : le corps reste chaud longtemps",
+      "resume": "Space is about 2.7 Kelvin, yet an unprotected body would not freeze quickly because skin is a good insulator. With no air around, there is no convection or conduction to carry heat away, so core temperature stays warm for a while.",
+      "mots_cles": [
+        "2.7 Kelvin",
+        "space cold",
+        "insulator",
+        "convection",
+        "conduction",
+        "vacuum",
+        "core body temperature"
+      ],
+      "texte": "We all know space is cold, roughly [music] 2.7 Kelvin, or -270° C, or [music] -455° F. You'd probably expect that your corpse would then rapidly freeze without any protection, but actually >> [music] >> you could stay relatively warm for a pretty long amount of time. That's because your body and skin is a pretty [music] excellent insulator. And because space is a vacuum, there's nothing to lose heat to via convection or [music] conduction. Here on Earth we're constantly surrounded by atmosphere gases. So when it gets cold, they're able [music] to leech heat from our body and carry it away. Make you guys cold. In space though, there's no medium to lose heat to, so your core body temperature >> [music] >> would remain warm for a decent amount of time."
+    },
+    {
+      "id": 49,
+      "debut": 1901.22,
+      "fin": 1956.14,
+      "temps_estime": true,
+      "titre": "Un cadavre préservé dans l'espace : pas de décomposition",
+      "resume": "On Earth bacteria in the body decompose a corpse once the immune system fails, but in space extreme radiation and temperatures kill them first. The body stays preserved for millions of years, mummifying like an ancient Egyptian if near a star.",
+      "mots_cles": [
+        "decomposition",
+        "bacteria",
+        "immune system",
+        "corpse preserved",
+        "mummify",
+        "radiation",
+        "dead in space"
+      ],
+      "texte": "Once you're dead though, well, you're not going to change much for a long, long, long time. On Earth we decompose as we're eaten up by the bacteria [music] inside of us. Billions of tiny hungry little life forms just waiting to eat you alive that keeps your body in constant check [music] throughout your immune system. But once that immune system fails, those bacteria finally have their chance to turn you into a buffet and they gorge themselves [music] while rapidly procreating. Think about that next time you buy some probiotic yogurt. You're just making those little bacteria stronger and [music] they're patiently waiting for your immune system to slip up so they can eat you from the inside out. In space though, [music] the extreme radiation and temperatures will kill that bacteria before it can consume much of your body, leaving your [music] corpse perfectly preserved for millions and millions of years. If you're close to a star, you'll mummify much like an ancient Egyptian. Only when aliens find you millions of years later, you'll actually be in a lot better shape than them. >> [music] >>"
+    },
+    {
+      "id": 50,
+      "debut": 1956.14,
+      "fin": 1999.81,
+      "temps_estime": true,
+      "titre": "Introduction : les mystères que la science ne sait pas expliquer",
+      "resume": "A new Infographics Show episode introduces mysteries that science cannot currently explain. It stresses that science is grounded in evidence, so understanding is always questioned and updated, and that science will never claim to know everything.",
+      "mots_cles": [
+        "unexplained mysteries",
+        "science",
+        "evidence and data",
+        "Infographics Show",
+        "unknown phenomena",
+        "knowledge gaps"
+      ],
+      "texte": "Science may be our best tool for understanding the universe and everything around us, but sometimes even science can't explain certain phenomena. Come with us on this journey through mysteries of the unknown, where we'll explore the darkest aspects of our existence, the bedrocks of life, and where it all began. What we know about the world and universe through science is always changing. This is what makes science so powerful. There are no absolutes, which means that our understanding of the universe is always being questioned. Science is grounded in data and evidence, so scientists can update their understanding of the universe if new evidence presents itself or new data is collected that contradicts what we claim to be true. [music] There will never be a time when science claims to know everything, but with these gaps in knowledge, there are certain mysteries that science can't currently explain, some of which will blow your mind."
+    },
+    {
+      "id": 51,
+      "debut": 1999.81,
+      "fin": 2059.87,
+      "temps_estime": true,
+      "titre": "L'origine de la vie : expérience de Miller-Urey et soupe primordiale",
+      "resume": "How life began on Earth is presented as the greatest mystery. The Miller-Urey experiment failed to create life but produced over 20 amino acids, supporting the primordial soup model, with life starting near hydrothermal vents or in lightning-struck oceans, though this remains unproven.",
+      "mots_cles": [
+        "origin of life",
+        "Miller-Urey experiment",
+        "amino acids",
+        "primordial soup",
+        "hydrothermal vents",
+        "early Earth",
+        "lightning"
+      ],
+      "texte": "Perhaps the greatest mystery of all is how life began on our planet. If this event never happened, you would not be watching this video right now because neither you nor the Infographics Show [music] would exist. There've been a number of science experiments that have tried to create life in a lab. The most famous example of this is the Miller-Urey experiment. These scientists [music] sought to create life out of compounds and elements thought to be present when life first came to be on Earth. They were not successful in creating life forms of any kind. However, they were able to synthesize over 20 different amino acids that are necessary for life. This showed that given enough time, it is likely that the amino acids could have combined in a way that may have resulted in the first life on the planet. From these experiments, it's hypothesized that life could have started around hydrothermal vents during Earth's early formation or in nutrient-rich oceans where they were constantly being bombarded by lightning and radiation. This is called the primordial soup model. Scientists who subscribe to this theory believe the ingredients necessary for life were on the planet and no outside intervention was [music] required. However, this has not been proven yet."
+    },
+    {
+      "id": 52,
+      "debut": 2059.87,
+      "fin": 2088.42,
+      "temps_estime": true,
+      "titre": "La panspermie comme alternative et débat sur l'origine de la vie",
+      "resume": "Some scientists think life came from another planet, via a piece of Mars ejected by an asteroid or a comet or meteor, a theory called panspermia. It only pushes back the question of how life began elsewhere, so the debate may never be settled.",
+      "mots_cles": [
+        "panspermia",
+        "Mars",
+        "comet",
+        "meteor",
+        "asteroid impact",
+        "origin of life debate",
+        "celestial body"
+      ],
+      "texte": "In fact, scientists aren't even sure if the primordial soup model is the right approach to discover how life got started on Earth. Some believe that life came from another planet, like a piece of Mars that was ejected into space from an asteroid impact, or perhaps life hitched a ride on a comet or a meteor that then impacted Earth. This theory is called panspermia. But this scenario begs the question, how would life have started on whatever celestial body it came from? The debate over how life began on our planet continues to rage on and may never completely be agreed upon by scientists."
+    },
+    {
+      "id": 53,
+      "debut": 2088.42,
+      "fin": 2199.89,
+      "temps_estime": true,
+      "titre": "Des pieuvres marchent sur une plage galloise en 2016",
+      "resume": "In October 2016 dozens of octopi walked out of the sea onto a Welsh beach, which had never been seen before. Theories included senescence in a species that dies after reproducing, disruption from Hurricane Ophelia and Storm Brian, and overpopulation, but none explained it and the behavior lasted about a month.",
+      "mots_cles": [
+        "octopi",
+        "Welsh beach",
+        "2016",
+        "senescence",
+        "Hurricane Ophelia",
+        "Storm Brian",
+        "overpopulation",
+        "unexplained behavior"
+      ],
+      "texte": "Life is full of mysteries. This is especially true when scientists tried to explain why dozens of octopi emerged out of the sea and walked across a Welsh beach in 2016. [music] It was late October when scientists started receiving reports that dozens of octopi were walking on land. This is an incredibly odd event that had never been seen before. Scientists couldn't [music] explain why the octopi were evacuating the water and heading for dry land, but they managed to develop a few theories. The first explanation was rather surprising and a little bit sad. Scientists thought the octopi were going through senescence. This is a scientific way of saying the octopi had gone senile and had no idea what they were doing. [music] Since it was October and the octopi probably had just laid eggs and were now ready to die, the octopus species that was observed walking across the land only lives for about a year before they finish their reproductive cycle. They lay their eggs and die so new generations can flourish. However, scientists thought perhaps all of the mysterious octopi were in fact elderly and very confused as to what they were doing. But the fact that there were so many of them on the beach made this theory seem somewhat unlikely. Scientists scrambled to save as many as they could by gently picking them up and placing them back in the water. Another theory for why this mysterious octopi event had occurred had to do with the weather. Hurricane Ophelia and Storm Brian were both off the coast at the time, which might have somehow disrupted the octopi's natural behavior. However, there had been major storms in the past which did not result in the octopi engaging in the odd behavior. The final theory had to do with overpopulation. It was thought that perhaps there were so many octopi in the area at the time that [music] many were forced out of their natural habitat to try and find food and shelter elsewhere. This led to dozens of octopi leaving the ocean simultaneously and trying their luck on land. It didn't go so well as there were no resources for them on the beach and they would have died if scientists and local residents hadn't intervened. This mysterious march of the octopi still has scientists stumped. Their strange behavior continued for about a month before the octopi decided to stay in the water and leave scientists with more questions than answers."
+    },
+    {
+      "id": 54,
+      "debut": 2199.89,
+      "fin": 2262.73,
+      "temps_estime": true,
+      "titre": "Les moisissures visqueuses : intelligence sans cerveau",
+      "resume": "Slime molds are millions of single-celled organisms that fuse into a hive mind capable of solving mazes, making risk-benefit decisions and tracking time. No one knows how they show intelligence without a brain or nervous system, and they are a type of amoeba rather than a fungus.",
+      "mots_cles": [
+        "slime molds",
+        "hive mind",
+        "single-celled organisms",
+        "maze solving",
+        "intelligence without brain",
+        "amoeba",
+        "unexplained intelligence"
+      ],
+      "texte": "Octopi are known to be notoriously smart. They can work their way through mazes and [music] use reasoning skills to solve puzzles, but there is another organism that's also incredibly clever, but is so simple that scientists [music] can't figure out why it shows so much intelligence. Slime molds are very simple organisms. In fact, slime molds are actually made up of millions of single-celled organisms, which [music] somehow work together to create a hive mind. Scientists have observed huge numbers of these single-celled [music] creatures fusing together to create one giant mass capable of doing some pretty extraordinary things. No explanation has been put forward [music] on how thousands or even millions of individual organisms can band together to create one intelligent organism. But, in experiments [music] done with slime molds, they have been able to solve mazes, make risk-benefit decisions, and even keep track of time. What has baffled [music] scientists is that the slime mold isn't using a brain or nervous system like intelligent animals do. Instead, the mechanism that allows the slime mold to show signs of intelligence and reasoning comes from some unknown source when all the single-celled organisms fuse together. Slime molds are not technically a fungus. In fact, they're a type of amoeba."
+    },
+    {
+      "id": 55,
+      "debut": 2262.73,
+      "fin": 2317.12,
+      "temps_estime": true,
+      "titre": "Le champignon Chorioactis geaster : Texas et Japon",
+      "resume": "The mushroom Chorioactis geaster grows only in Texas and Japan, two seemingly unrelated places at similar latitudes. DNA sequencing shows the populations were separated for nearly 19 million years, and mycologists cannot explain how they stayed so similar.",
+      "mots_cles": [
+        "Chorioactis geaster",
+        "mushroom",
+        "Texas",
+        "Japan",
+        "mycologists",
+        "DNA sequencing",
+        "19 million years",
+        "fungus mystery"
+      ],
+      "texte": "However, an actual fungus does something that scientists can't explain. [music] There's a mushroom called Chorioactis geaster that only grows in two places in the entire world. The crazy thing is, these two places couldn't be more different. Chorioactis [music] geaster only grows in Texas and Japan. That's right, the only two places in the world that this mushroom grows are [music] seemingly completely different and nowhere near each other. To be fair, both of these locations [music] are at similar latitudes, but scientists who study mushrooms, also known as mycologists, have no idea why Chorioactis [music] geaster only grows in these two areas. When scientists sequenced the DNA of the two populations of mushrooms, they found that they'd been separated for nearly 19 million years. So, how [music] could two populations of mushrooms be so similar, yet so far away from one another? Well, your guess is as good as any scientist's because scientists can't explain [music] it. This fungal conundrum might never be solved, but that won't stop scientists from playing around with different ideas to try to uncover the mysteries of the mushrooms."
+    },
+    {
+      "id": 56,
+      "debut": 2317.12,
+      "fin": 2386.7,
+      "temps_estime": true,
+      "titre": "L'encéphalite léthargique : la maladie du sommeil et ses victimes",
+      "resume": "Between 1917 and 1928 about 500,000 people were infected by encephalitis lethargica, which spread from Europe to North America and India. A third died and half were left conscious but unable to move or speak, living statues, and scientists then and now know little about the disease.",
+      "mots_cles": [
+        "encephalitis lethargica",
+        "sleeping sickness",
+        "1917-1928",
+        "paralysis",
+        "trapped in body",
+        "living statues",
+        "epidemic"
+      ],
+      "texte": "Just under 100 years ago, a disease caused people's bodies [music] to shut down completely while keeping their brain alert and functioning. Victims of the disease were literally trapped inside their own bodies without any idea of why or for how long. Even to this day, scientists [music] aren't entirely sure what caused the disease to have such terrifying symptoms. Between 1917 and 1928, around 500,000 people were infected by encephalitis lethargica, or what came to be known as the sleeping sickness. [music] This disease first appeared in Europe, but spread around the world quickly, becoming prominent in North America and India. There were a couple of outcomes for people who were infected by encephalitis lethargica. Around a third of the people who became ill with the disease died. However, they were the lucky ones. Half the people who were infected [music] by the sleeping sickness found themselves trapped in their own bodies. It was a nightmare come to life. They couldn't move, speak, or show any signs of consciousness, but they were fully awake and aware of their surroundings. Very few victims of encephalitis lethargica were able to communicate through limited [music] vocal noises and movement of the eyes, but this was rare. The rest of the victims infected with the sleeping sickness were living statues. Scientists at the time couldn't identify what was causing the paralysis symptoms, and even today we know very little about the disease itself."
+    },
+    {
+      "id": 57,
+      "debut": 2386.7,
+      "fin": 2456.07,
+      "temps_estime": true,
+      "titre": "Causes supposées et réapparitions de l'encéphalite léthargique",
+      "resume": "Theories blame a virus infecting the nervous system or a rare strain of streptococcus that makes the immune system attack the brain. The disease vanished for years and returned in the 1950s and in a girl in China in the early 2000s, and scientists are unsure whether recent similar cases are the same illness.",
+      "mots_cles": [
+        "encephalitis lethargica",
+        "virus",
+        "streptococcus",
+        "immune system attacks brain",
+        "recurrence",
+        "China",
+        "unknown cause",
+        "pandemic"
+      ],
+      "texte": "Some scientists think that the sleeping sickness was caused by a virus that found its way into the brain and infected [music] the nervous system, causing bodily systems to shut down while keeping synaptic activity going for its own benefit. Others think that the disease came from a rare strain of streptococcus, which would cause swelling in the nervous tissue, resulting in a person's own immune system attacking their brain. This nightmare could only last for a few hours, but it would go on for days in most cases. [music] Those incredibly unlucky people were living statues for weeks and even years of their life because of the disease. And if the disease itself wasn't scary enough, it did something even more mysterious that baffled scientists. Encephalitis lethargica disappeared for several years at a time, only to resurface again in different parts of the world. This happened in 1950s in Europe, and then [music] in the early 2000s, a girl in China was infected by the disease and became trapped within her own body. There have been sporadic cases of other diseases that cause symptoms similar to encephalitis lethargica more recently, >> [music] >> but scientists are unsure if this is the same illness or a mutated form of whatever causes the sleeping [music] sickness. Either way, scientists don't know the exact reason it can cause someone to become a living statue, but hopefully they can figure it out before it reaches [music] pandemic levels as it did in the early 1900s."
+    },
+    {
+      "id": 58,
+      "debut": 2456.07,
+      "fin": 2536.18,
+      "temps_estime": true,
+      "titre": "L'énergie noire et l'expansion accélérée de l'univers",
+      "resume": "Dark energy pushes space-time apart despite gravity, making the universe expand at an accelerating rate. Some think space-time has a property producing negative pressure, but nobody knows, and dark energy makes up roughly 70% of the universe.",
+      "mots_cles": [
+        "dark energy",
+        "accelerated expansion",
+        "negative pressure",
+        "space-time",
+        "gravity",
+        "70% of the universe",
+        "unexplained force"
+      ],
+      "texte": "There are a lot of dark mysteries in the universe, many of which scientists are not able to explain. Perhaps the biggest [music] unsolved mystery is what actually makes up most of the universe. The first unknown phenomenon we're going to look at is dark [music] energy. This form of energy is puzzling to scientists as it's causing something unexpected to happen in our universe. Even though gravity should be pulling everything with mass closer to one another, the mysterious force of dark energy is actually pushing space-time [music] apart. Not only are things moving in the opposite direction than scientists believe they should, but the universe seems to be expanding at an accelerated rate. When scientists first noticed this, it made them scratch their heads, and for decades this problem has persisted without any clear answer as to why. [music] The only thing that scientists really know about dark energy is that it's some kind of mysterious force that counteracts gravity. There are definitely some thoughts about what is causing the phenomenon. Some believe space-time has an inherent property that causes a form of negative pressure, which results in space-time expanding away from itself. However, scientists are a long way from figuring out if this is true or not, [music] and they're even further away from explaining how it works if it is. But, the craziest part of dark energy is the sheer magnitude of it. We like to think we understand the universe pretty well, but dark energy [music] makes up roughly 70% of the total contents of everything in the universe. Think about how huge that number is. Almost three-quarters of the universe is made of something that science can't explain."
+    },
+    {
+      "id": 59,
+      "debut": 2536.18,
+      "fin": 2603.0,
+      "temps_estime": true,
+      "titre": "La matière noire, les WIMP et Fritz Zwicky",
+      "resume": "About 84% of matter is invisible, and dark matter is known only through its gravity on starlight and the motion of celestial objects. Candidates are WIMPs, searched for with detectors deep underground, but nothing has been found since Fritz Zwicky proposed dark matter in 1933.",
+      "mots_cles": [
+        "dark matter",
+        "WIMPs",
+        "Fritz Zwicky",
+        "1933",
+        "invisible matter",
+        "gravity effects",
+        "WIMP detectors",
+        "galaxies"
+      ],
+      "texte": "And the mystery of unknowable things in the universe doesn't stop with dark energy. There's something else out there that might even be more perplexing, dark matter. Around 84% of all matter in the universe is invisible to our eyes and most of our sensors. The only reason we know that dark matter even exists is because of the effect it has on the things we see. For example, scientists know how dark matter exists because of the way it exerts gravity on things such as the light from stars and the movement of celestial objects. >> [music] >> Dark matter contains the majority of the mass in our universe, and the fact that it's hard to detect might be good news. We don't have to worry about slamming into a wall dark matter that we can't see, and scientists do have some ideas of what dark matter could be. Many believe that the mysterious substance is made up of WIMPs, or weakly interacting massive particles. Scientists even have WIMP detectors deep in [music] Earth to try and catch some of these particles, but nothing has been found so far. Scientists think that most of the dark matter sits on the outskirts of galaxies and may influence their shape and the way regular matter interacts. However, since 1933 when astronomer Fritz [music] Zwicky first hypothesized the existence of dark matter, scientists still have no idea what it actually is."
+    },
+    {
+      "id": 60,
+      "debut": 2603.0,
+      "fin": 2687.92,
+      "temps_estime": true,
+      "titre": "Le mystère de l'intérieur des trous noirs et du paradoxe de l'information",
+      "resume": "Black holes form from supernovas and collapse into a singularity of infinite gravity, but what happens inside is unknown. Since matter and energy cannot be destroyed, the fallen information must go somewhere, and only a little Hawking radiation escapes, leaving ideas like an alternate dimension or information stuck at the event horizon.",
+      "mots_cles": [
+        "black holes",
+        "singularity",
+        "event horizon",
+        "Hawking radiation",
+        "Stephen Hawking",
+        "information",
+        "supernova",
+        "first black hole photograph"
+      ],
+      "texte": "Perhaps the darkest and most mysterious objects in our entire [music] universe are black holes. We know they're everywhere, and scientists have just recently captured the first photograph of these lurking [music] space monsters. Scientists have explained why these phenomena occur, but have no idea what happens inside of [music] a black hole. Black holes are created when a massive star goes supernova, and the star ejects its guts across [music] the galaxy. All that's left is a sphere of densely packed particles that once made up the star's core. The matter in this region of space [music] is so dense, it collapses in on itself, creating a singularity where gravity becomes infinite. The gravity is so strong that nothing can escape its pull, not even light. But the real mystery is what happens inside the black hole. According to the [music] laws of physics, matter and energy cannot be destroyed. This means although a black hole would most certainly crush you [music] with its immense gravity if you ever fell into one, the atoms you're made up of would need to go somewhere. Scientists [music] don't think that all of that information is just stored at the center of the black hole, but since nothing but a small amount of what's called Hawking radiation, named after the famous astronomer Stephen Hawking, leaves a black hole, what happens to all [music] the other things that fall into it is still a mystery. This problem stumps the most brilliant minds that have ever lived, and [music] no solution seems to be in sight. Maybe the singularity at the center of a black hole leads to an alternate dimension where everything that's sucked in ends up. [music] Or perhaps all of this information is just stuck around the event horizon of the black hole. We will most likely never find out in our lifetime, but scientists will never [music] stop trying to uncover the answer to this great mystery of our universe."
+    },
+    {
+      "id": 61,
+      "debut": 2687.92,
+      "fin": 2754.08,
+      "temps_estime": true,
+      "titre": "Qu'est-ce que la gravité : graviton, cordes et dimensions cachées",
+      "resume": "Scientists can calculate gravity precisely but cannot identify a particle responsible for it, unlike bosons, gluons and photons for other forces. Hypotheses include a graviton, gravity as a closed loop of energy in string theory, or a cause in extra dimensions of the multiverse.",
+      "mots_cles": [
+        "gravity",
+        "graviton",
+        "string theory",
+        "extra dimensions",
+        "multiverse",
+        "fundamental forces",
+        "particles",
+        "unexplained force"
+      ],
+      "texte": "Oh, and speaking of [music] gravity, what is it? You think a force such as gravity, which we can calculate with incredible precision and observe all around us, would be something that science could explain. But [music] it turns out scientists don't actually know what gravity is. The difference between gravity and other forces is that scientists can't pinpoint the particles that cause gravity. [music] For example, bosons, gluons, and photons are all responsible for forces that hold nuclei [music] together or create electromagnetism. But what particle is responsible for gravity? Scientists have no clue. Some researchers [music] suggest that a yet-to-be-discovered particle called a graviton somehow causes gravity, but there's no proof of that yet. Another hypothesis around what creates gravity has to do with string theory. Theoretical physicists think that gravity is just a closed loop of energy connected in a way that influences everything in the universe. But perhaps the most trippy idea about what gravity is has to do with extra dimensions. [music] Some scientists think that the cause of gravity isn't in our dimension, but hidden somewhere within the multi-dimensional layers that make up the multiverse. Maybe there's another you in an alternate dimension that's somehow influencing this dimension's gravity in some unknown way. We may never know, but it's fun to think about."
+    },
+    {
+      "id": 62,
+      "debut": 2754.08,
+      "fin": 2810.96,
+      "temps_estime": false,
+      "titre": "La flèche du temps et l'entropie",
+      "resume": "Time only moves in one direction, which scientists link to entropy, the drift from order to disorder that cannot be undone. Time travel to the past may be theoretically possible, but paradoxes could end the universe.",
+      "mots_cles": [
+        "arrow of time",
+        "entropy",
+        "time travel",
+        "paradoxes",
+        "order to disorder",
+        "one direction of time",
+        "unsolved physics"
+      ],
+      "texte": "You might not realize it, but time is weird. Why does it only move one direction? Is traveling backward in time possible? These questions are currently being worked on by scientists, but for right now, there are very few answers. Scientists think that time moves forward because of a property known as entropy. At a basic level, entropy is the idea that everything in the universe is moving from a state of [music] order to a state of disorder. Once a system undergoes entropy and becomes more disordered, there is no going back. This is similar to how time works. Once you go forward in time, you can't go back in time. But why is this the case? It may just be the ignorance of humans and our inability to perceive the movement of time in different [music] ways, but as far as we can tell, time only moves in one direction. This is further reinforced by the numerous paradoxes that can occur when we discuss [music] traveling back in time. Theoretically, traveling to the past might be possible, but it can also end the universe as we know it. Time travel and the movement of time in one direction are conundrums that scientists are currently trying to solve, but time will tell how long before we can make sense of it all."
+    },
+    {
+      "id": 63,
+      "debut": 2810.96,
+      "fin": 2889.12,
+      "temps_estime": false,
+      "titre": "L'asymétrie matière-antimatière",
+      "resume": "The Big Bang should have produced equal matter and antimatter that annihilated each other, yet the universe has slightly more matter, about one particle per billion surviving. Scientists cannot explain why, and the divine intervention idea is rejected because it cannot be tested.",
+      "mots_cles": [
+        "antimatter",
+        "matter",
+        "Big Bang",
+        "annihilation",
+        "matter asymmetry",
+        "one in a billion",
+        "photons",
+        "unsolved mystery"
+      ],
+      "texte": "Scientists know the universe started with two types of matter. There was regular matter, which is [music] what you and everything else is made of, and then there was antimatter. But today the universe is made almost exclusively of regular matter. Why do we live in a world full of matter instead of a world full of antimatter? This is a great question, and one that scientists don't have an answer for. We think that at the beginning [music] of it all, when the Big Bang created the universe, there was about a 50/50 split between antimatter and matter. When these two forms of matter came into contact, they annihilate, which [music] isn't conducive to constructing the universe we see today. However, for some reason our universe ended up with slightly more matter than antimatter, which is why anything exists at all. If there were even amounts of antimatter and matter, the only thing that would be left in the universe after it all annihilated would be some photons. Obviously, this is not the case. Scientists know that there must have been more matter, but they can't figure out why that would be the case. In fact, it's estimated that only about one matter particle per billion escaped being annihilated just after the Big Bang. This [music] is a really small percentage, but it was enough to create everything we see in the universe today. The craziest part is that the antimatter and the matter mystery is nowhere close to being solved. It just doesn't make sense that mirror copies of particles [music] would not have been produced in the same number during the Big Bang. Perhaps there was some form of divine intervention. The only problem with this theory is that that's not testable, [music] and therefore not an explanation that scientists are willing to accept."
+    },
+    {
+      "id": 64,
+      "debut": 2889.12,
+      "fin": 2955.21,
+      "temps_estime": true,
+      "titre": "La sonoluminescence : des bulles qui émettent de la lumière",
+      "resume": "A sound wave at a glass of water forms bubbles that emit a trillionth-of-a-second flash of light when they pop, called sonoluminescence. The source is unknown, with theories of tiny nuclear fusion, electrical discharge or igniting gases, and the bubbles reach over 10,000 degrees Fahrenheit.",
+      "mots_cles": [
+        "sonoluminescence",
+        "bubbles",
+        "sound wave",
+        "light flash",
+        "nuclear fusion",
+        "10,000 degrees Fahrenheit",
+        "unexplained light"
+      ],
+      "texte": "There's another mystery that scientists can't explain, which may not seem quite as important as some of the other topics discussed, but once you hear about it, you'll never look at a glass of water the same way again. The phenomenon we're talking about is sonoluminescence. This is one unexplained mystery you can observe in a science lab. If you emit a certain frequency sound wave at a glass of water, it causes [music] bubbles to form within the liquid. This is pretty cool, but it's not the aspect of sonoluminescence that scientists can't explain. When the bubbles pop, something extraordinary happens. They emit light. To be fair, the light flash only lasts for a trillionth of a second, so the phenomenon can't be observed by the naked eye, but it's still an awesome unexplained mystery. [music] Scientists understand that the bubbles form due to changes in pressure regions, but the actual source of the light is unknown. Some scientists think it's a very small nuclear fusion reaction, which would be almost unbelievable and kind of scary. Others think it has to do with some type of electrical discharge or the gases inside the bubble igniting. It's difficult to get an exact measurement since the light causing reaction happens so quickly, [music] but one thing that scientists do know is that the temperatures within the bubbles are over 10,000° F when they pop."
+    },
+    {
+      "id": 65,
+      "debut": 2955.21,
+      "fin": 3043.65,
+      "temps_estime": true,
+      "titre": "Le mécanisme d'Anticythère, ordinateur antique unique",
+      "resume": "The Antikythera mechanism, found on a shipwreck in the Mediterranean, used cogs to track the Sun, Moon, five planets and eclipses, earning the name first computer. Scientists credit the ancient Greeks and mathematics rather than aliens, but they are baffled that it was built so early and has no successors.",
+      "mots_cles": [
+        "Antikythera mechanism",
+        "ancient computer",
+        "shipwreck",
+        "ancient Greeks",
+        "eclipses",
+        "celestial bodies",
+        "archaeology",
+        "engineering"
+      ],
+      "texte": "Human history [music] is full of mysteries that have yet to be explained. From ancient computers to an unbreakable code, some real-life archaeological finds rival the epic adventures of Indiana Jones. The [music] Antikythera mechanism is an ancient device found on a shipwreck in the Mediterranean Sea. The artifact has been called the first computer as it used a wind-up system of cogs and wheels to track the movement of celestial bodies in the sky. The Antikythera mechanism was so sophisticated that it could predict the motions of all five known planets at the time along with the Sun and the Moon. It could also determine the timing of eclipses. These are all complicated calculations that require precise timing mechanisms and sophisticated [music] knowledge of engineering, physics, and astronomy. Scientists don't think there needed to be some outside [music] alien intervention for the Greeks to create such a device. Instead, by using mathematics, it is possible for the ancient Greeks to create the Antikythera mechanism all on their own. >> [music] >> What has scientists baffled is how they were able to do it so early in history and why it's one of a kind. It seems odd that something [music] as important as an early computer would not be replicated. Think about the first computers that led to smartphones [music] we have today. In a matter of decades, we went from computers that took up an entire building to more powerful ones that we can hold in our hand. The Antikythera mechanism could have been the foundation of even more complex devices, but it wasn't. [music] No other apparatus has been found that are similar or seem to be built off the Antikythera mechanism. The reason for this has scientists and archaeologists stumped, but this isn't the only archaeological find that stumps scientists."
+    },
+    {
+      "id": 66,
+      "debut": 3043.65,
+      "fin": 3097.81,
+      "temps_estime": true,
+      "titre": "Le manuscrit de Voynich et son code indéchiffré",
+      "resume": "The Voynich manuscript, written about 600 years ago in probably Central Europe, is in a code nobody has broken. A computer matched 80% of the coded words to Hebrew, but the remaining 20% and the overall meaning stay undeciphered.",
+      "mots_cles": [
+        "Voynich manuscript",
+        "code",
+        "Hebrew",
+        "Central Europe",
+        "undeciphered",
+        "codebreakers",
+        "600 years old"
+      ],
+      "texte": "The Voynich manuscript [music] is a document written in a code that scientists have struggled to break for years. The manuscript was written around 600 years [music] ago and likely came from Central Europe. At first, scientists and codebreakers thought it was written in some unknown [music] language. The more they examined it, the more apparent it became that the text wasn't a new language but a code. [music] Up to this day, no one has been able to break the code and decipher what the book says. Many believe that the language that lies underneath the jumble of looping letters and symbols is Hebrew. The manuscript [music] was recently fed into a computer that found 80% of the coded words correlated to Hebrew words. The problem is that the other 20% of the manuscript still hasn't been deciphered, [music] which means no clear meaning can be discerned from the text. Scientists are perplexed by this mysterious manuscript. The code seems practically unbreakable, but the meaning of the text could [music] help us piece together another part of history. Perhaps it explains occult practices from the past or maybe it's directions on how to communicate with God. At this point, it seems like we might never know, >> [music] >>"
+    },
+    {
+      "id": 67,
+      "debut": 3097.81,
+      "fin": 3118.5,
+      "temps_estime": true,
+      "titre": "Conclusion : la science continuera de chercher",
+      "resume": "The narrator reminds viewers that these phenomena baffle scientists now but new evidence will likely explain many of them. Some things may stay unknown, yet the strength of science is that it never stops trying to solve mysteries.",
+      "mots_cles": [
+        "science",
+        "mysteries",
+        "new evidence",
+        "unknowns",
+        "conclusion",
+        "scientific progress"
+      ],
+      "texte": "but it's the unknowable that science strives to explain. It's important to remember that even though all this phenomena in the video currently has scientists stumped, it's likely it won't always be the case. As science [music] progresses and new evidence is uncovered, we'll be able to shed light on many, if not all, of these topics. Maybe there are some truly unknowns [music] in our universe, but the beauty of science is that it will never stop trying to solve these mysteries."
+    },
+    {
+      "id": 68,
+      "debut": 3118.5,
+      "fin": 3194.81,
+      "temps_estime": true,
+      "titre": "Introduction : un trou noir peut effacer l'univers ; effondrement d'une étoile",
+      "resume": "A new episode explains how black holes will delete the universe, erasing information and eventually vanishing themselves. A star over 20 solar masses runs out of fuel, its core collapses in under a second into a singularity, and space-time is warped like a rubber sheet pierced by a bowling ball.",
+      "mots_cles": [
+        "black hole",
+        "massive star collapse",
+        "singularity",
+        "nuclear fusion",
+        "space-time rubber sheet",
+        "infinite density",
+        "Infographics Show"
+      ],
+      "texte": "Black holes are the most terrifying things in existence, silent monsters that warp time and shatter physics. They don't just swallow stars and planets, they erase information itself. Over trillions of years, they'll consume everything we know and then they'll vanish, too. On today's episode of the Infographic Show, we're explaining how a black hole will delete our entire universe. When a star at least 20 times more massive than our sun runs out of fuel, it faces a crisis. For millions of years, the star has been [music] in perfect balance, nuclear fusion pushing outward from the core, gravity pulling inward. But [music] once that fuel is gone, that balance collapses. Without fusion to hold it up, gravity wins. The star's core collapses in less than a second, compressing matter so dense that a teaspoon would weigh as much as Mount Everest. >> [music] >> But the collapse doesn't stop there or ever, really. The matter keeps compressing until it becomes a singularity, a point of infinite [music] density, where physics breaks down completely. This creates a gravitational field so intense, [music] it warps space-time itself. Imagine space time as a stretched rubber sheet. A bowling ball makes a dip in the sheet. A black hole? Well, that punches a hole straight through it. >> [music] >>"
+    },
+    {
+      "id": 69,
+      "debut": 3194.81,
+      "fin": 3234.39,
+      "temps_estime": true,
+      "titre": "L'horizon des événements et l'invisibilité des trous noirs",
+      "resume": "The event horizon is where escape velocity exceeds light speed, and Earth as a black hole would have a horizon under an inch across. Black holes are invisible and detected only by their effects on nearby stars and heated matter.",
+      "mots_cles": [
+        "event horizon",
+        "escape velocity",
+        "speed of light",
+        "Earth black hole",
+        "invisible",
+        "orbiting stars",
+        "point of no return"
+      ],
+      "texte": "The event horizon is the point of no return. The boundary where escape velocity exceeds the speed of light. Cross that line and you are not just doomed, you're actually deleted, [music] at least from the universe's perspective. If Earth somehow collapsed into a black hole, that event horizon would be less than an inch across. An entire planet's worth of matter [music] compressed into a sphere smaller than a marble. And here is the most unsettling part. Black holes are completely invisible. They are the ultimate stealth predators. We can only detect them by watching what they do to everything around them. Stars orbiting invisible partners, matter heating to millions of degrees [music] before vanishing forever into the void."
+    },
+    {
+      "id": 70,
+      "debut": 3234.39,
+      "fin": 3285.53,
+      "temps_estime": true,
+      "titre": "Les trous noirs stellaires et V616 Monocerotis",
+      "resume": "Stellar mass black holes are the most common type, born from massive stars and weighing 5 to 50 solar masses, with about 100 million in the Milky Way. The nearest known, V616 Monocerotis, is 3,000 light-years away and slowly consuming a companion star.",
+      "mots_cles": [
+        "stellar mass black holes",
+        "V616 Monocerotis",
+        "100 million black holes",
+        "Milky Way",
+        "companion star",
+        "3,000 light-years",
+        "massive stars"
+      ],
+      "texte": "Black holes basically come in three versions, each one more terrifying than the last. Stellar mass black holes are your run-of-the-mill void destroyers. They're the most common type, but that doesn't make them any less terrifying. Born from [music] the violent death of massive stars, they typically weigh in at five to 50 times the mass of [music] our sun. They're like soul-sucking landmines scattered throughout every galaxy. Our Milky Way alone contains an estimated [music] 100 million of these invisible killers drifting silently through space. The closest one we know about is called V616 Monocerotis. [music] It sits just 3,000 light years away. In cosmic terms, that's practically next [music] door. It's currently feeding on a companion star, slowly stripping away its partner's atmosphere [music] and essence in a process that'll take millions of years. The victim star has no escape. It's being eaten alive in slow motion."
+    },
+    {
+      "id": 71,
+      "debut": 3285.53,
+      "fin": 3316.71,
+      "temps_estime": true,
+      "titre": "Les trous noirs supermassifs et Sagittarius A*",
+      "resume": "Supermassive black holes weigh millions to billions of suns and sit at the center of every major galaxy. Sagittarius A star, 26,000 light-years away, weighs 4 million solar masses and is currently quiet, occasionally eating gas clouds and stray stars.",
+      "mots_cles": [
+        "supermassive black holes",
+        "Sagittarius A*",
+        "galaxy center",
+        "4 million solar masses",
+        "26,000 light-years",
+        "Milky Way",
+        "gas clouds"
+      ],
+      "texte": "And then there are super [music] massive black holes. These are the real monsters of the universe. They weigh anywhere from millions to billions of times more than our sun. Every major galaxy has one lurking at its center, including our own. Sagittarius A star [music] sits at the heart of our Milky Way, about 26,000 light years from Earth. It weighs 4 million times more than our sun and could [music] swallow our entire solar system. Right now, it's relatively quiet, just occasionally snacking on gas clouds and a star that wanders too close."
+    },
+    {
+      "id": 72,
+      "debut": 3316.71,
+      "fin": 3349.66,
+      "temps_estime": true,
+      "titre": "Les trous noirs primordiaux",
+      "resume": "Primordial black holes are theoretical objects formed just after the Big Bang, ranging from microscopic to mountain-sized. Scientists are unsure they exist, but some could weigh as much as asteroids and drift invisibly through our solar system.",
+      "mots_cles": [
+        "primordial black holes",
+        "Big Bang",
+        "theoretical",
+        "microscopic",
+        "asteroid mass",
+        "invisible",
+        "solar system"
+      ],
+      "texte": "Venture further out into space [music] and you would run into primordial black holes, essentially the wild cards of the black hole hierarchy. These theoretical objects could range from microscopic [music] to mountain size, formed in the chaotic early moments after the Big Bang. Scientists are not sure they actually exist, but if they do, they could be lurking everywhere, which is more than a little unsettling. Some might be smaller than [music] atoms, but weigh as much as asteroids. Others could be drifting through our solar system right now, completely invisible and instantly lethal to anything that strays too close."
+    },
+    {
+      "id": 73,
+      "debut": 3349.66,
+      "fin": 3395.92,
+      "temps_estime": true,
+      "titre": "Des trous noirs qui grossissent et dilatation du temps à l'horizon",
+      "resume": "Black holes almost never lose mass and keep growing as matter falls in. An outside observer sees an infalling object slow, redden and appear to freeze at the horizon, even though it crosses in normal time unaware of this.",
+      "mots_cles": [
+        "black holes growth",
+        "time dilation",
+        "event horizon",
+        "redshift",
+        "frozen object",
+        "outside observer",
+        "gravity"
+      ],
+      "texte": "What makes black holes [music] so terrifying is that they almost never lose weight. Every piece of matter that falls in just makes [music] them bigger and more dangerous. And worst of all, they are incredibly patient. When you get close to a black hole, time doesn't just slow down, it gets tortured. If you watched an object approaching a black hole's event horizon, you would see it slow down, becoming redder, dimmer, [music] and more distorted. From your perspective, it would appear to freeze at the edge, its final moments stretched across eternity. You would literally watch it fade away over billions of years, never [music] quite crossing the line. But in reality, the object fell through the event horizon in normal time, completely unaware that outside the universe sees them as frozen. >> [music] >>"
+    },
+    {
+      "id": 74,
+      "debut": 3395.92,
+      "fin": 3434.05,
+      "temps_estime": true,
+      "titre": "La spaghettification",
+      "resume": "Spaghettification is real: the pull on the lower half of a falling object is much stronger than on the upper half, stretching it into a thin stream of atoms. This happens before the event horizon for stellar black holes, while for supermassive ones you may cross it intact and be torn apart nearer the center.",
+      "mots_cles": [
+        "spaghettification",
+        "tidal forces",
+        "stellar black hole",
+        "supermassive black hole",
+        "event horizon",
+        "singularity",
+        "stretching"
+      ],
+      "texte": "Spaghettification might sound like a made-up word, but it is real. As an object falls into a black hole, the gravitational pull on its lower half becomes much stronger than on the upper half. That difference stretches [music] it like cosmic taffy, pulling it into a thin stream of atoms spiraling helplessly toward the singularity. For a stellar mass black hole, this happens well before you reach the event horizon. You would be spaghettified [music] while still technically outside of the black hole itself. For supermassive black holes, the event horizon is so large that you [music] might cross it while still intact, only to be torn apart closer to the center. Either way, you don't stay you for very long."
+    },
+    {
+      "id": 75,
+      "debut": 3434.05,
+      "fin": 3474.95,
+      "temps_estime": true,
+      "titre": "Le paradoxe de l'information des trous noirs",
+      "resume": "Quantum mechanics holds that information cannot be destroyed, but anything falling into a black hole seems to lose its information forever. This information paradox implies either quantum mechanics is wrong, our understanding of black holes is incomplete, or reality works in ways we cannot comprehend.",
+      "mots_cles": [
+        "information paradox",
+        "quantum mechanics",
+        "black hole",
+        "information conservation",
+        "physics paradox",
+        "event horizon"
+      ],
+      "texte": "Ironically, getting [music] sucked in is where black holes seem to break physics in the most fundamental way possible. Quantum mechanics has one [music] absolute rule, information cannot be created nor destroyed. The quantum state of every particle, every interaction, every moment of history [music] must be preserved somehow, somewhere. But, black holes seem to violate this rule completely. When something falls into a black hole, all information about it appears to be erased forever. This creates [music] what physicists call the information paradox. Either quantum mechanics is wrong, or our understanding of black [music] holes is incomplete, or reality itself works in ways we can't comprehend. And all three are more than plausible."
+    },
+    {
+      "id": 76,
+      "debut": 3474.95,
+      "fin": 3519.45,
+      "temps_estime": true,
+      "titre": "Solutions proposées au paradoxe de l'information et si l'information est détruite",
+      "resume": "Proposed answers include information encoded in Hawking radiation, written on the black hole's surface like a hard drive, or stored in a higher dimensional realm if space-time is an illusion. If black holes truly destroy information, every moment of history could be erased and made as if it never existed.",
+      "mots_cles": [
+        "Hawking radiation",
+        "information paradox solutions",
+        "Stephen Hawking",
+        "holographic surface",
+        "space-time illusion",
+        "higher dimensions",
+        "erased history"
+      ],
+      "texte": "Some theorists think [music] that information is somehow encoded in the Hawking radiation that black holes emit. This is residual thermal energy named after the famous [music] first proponent of the information paradox, Stephen Hawking. Others suggest it's written on the black hole's surface particle interactions, like a deep space [music] hard drive. But, some think space-time itself might be an illusion, and information [music] exists in some higher dimensional realm that we can't access. But, what if none of these solutions work? What if black holes really do destroy information? Then, everything [music] that has ever happened, every human life, every thought, every moment could theoretically be permanently erased, and not just from existence, but from the possibility of ever having existed."
+    },
+    {
+      "id": 77,
+      "debut": 3519.45,
+      "fin": 3595.06,
+      "temps_estime": true,
+      "titre": "Hawking 1974 : les trous noirs s'évaporent, les petits sont plus chauds",
+      "resume": "In 1974 Hawking applied quantum mechanics to curved space-time and showed black holes slowly evaporate. Smaller ones are hotter: a solar-mass black hole is about 60 billionths of a degree above absolute zero, colder than the cosmic microwave background, while a paperclip-mass one would reach billions of degrees.",
+      "mots_cles": [
+        "Hawking radiation",
+        "1974",
+        "black hole evaporation",
+        "black hole temperature",
+        "absolute zero",
+        "cosmic microwave background",
+        "quantum mechanics"
+      ],
+      "texte": "In 1974, Stephen Hawking [music] made a discovery that would fundamentally change our understanding of black holes. Before this, black holes were thought to trap everything that entered them, with no way for anything to escape. Then, Hawking applied quantum mechanics to the curved [music] space-time around black holes, and discovered something extraordinary. These supposedly eternal monsters are actually dying, one particle at a time. Hawking's equation revealed something counterintuitive and deeply [music] unsettling. Smaller black holes are actually hotter than larger ones, and hot objects evaporate [music] faster than cool ones. A black hole with the mass of our sun has a temperature of about 60 billionths of a degree above absolute [music] zero. That is colder than the microwave background radiation left over from the Big Bang. These black holes are so cold they're actually gaining mass by absorbing background radiation faster than they lose it through Hawking evaporation. But, shrink that black hole down to the mass of a mountain, and then suddenly it's as hot as our sun's surface. That's the principle of Hawking radiation in action. Make it the mass of a car, and it becomes hot [music] enough to vaporize any material we know of. A black hole with the mass of a paperclip would have a temperature of billions of degrees."
+    },
+    {
+      "id": 78,
+      "debut": 3595.06,
+      "fin": 3615.78,
+      "temps_estime": true,
+      "titre": "La spirale d'évaporation et l'explosion finale d'un trou noir",
+      "resume": "As a black hole evaporates it gets hotter and evaporates faster, in a feedback loop that shrinks it ever more quickly. Its final moments are explosive, a small remnant detonating with the energy of millions of hydrogen bombs.",
+      "mots_cles": [
+        "black hole evaporation",
+        "feedback loop",
+        "Hawking radiation",
+        "explosion",
+        "hydrogen bombs",
+        "black hole death",
+        "shrinking"
+      ],
+      "texte": "This creates a devastating feedback loop. As black holes evaporate and lose mass, they get hotter, [music] and as they get hotter, they evaporate faster, and as they evaporate faster, they get smaller and hotter still. The final moments of a black [music] hole's death are explosive. A tiny remnant that would detonate with the energy of millions of hydrogen bombs."
+    },
+    {
+      "id": 79,
+      "debut": 3615.78,
+      "fin": 3653.61,
+      "temps_estime": true,
+      "titre": "Les plus gros trous noirs grossissent encore : l'univers doit refroidir",
+      "resume": "The biggest black holes still grow because they are colder than the cosmic microwave background, which sits at about 2.7 Kelvin. They will start shrinking only when the universe cools below their temperature, which takes thousands or millions of times the current age of the universe for the largest.",
+      "mots_cles": [
+        "cosmic microwave background",
+        "2.7 Kelvin",
+        "supermassive black hole",
+        "black hole growth",
+        "universe cooling",
+        "Hawking evaporation",
+        "future of universe"
+      ],
+      "texte": "Right now, the largest black holes in the universe are still growing [music] because they're colder than their surroundings. The cosmic microwave background that [music] fills all space has a temperature of about 2.7 Kelvin above absolute zero, or -454° [music] Fahrenheit. A supermassive black hole has a temperature millions of times lower. This means that black holes [music] won't start shrinking until the universe cools so completely that the cosmic background temperature drops below their own. For the largest ones, that won't happen until the universe [music] is thousands or even millions of times older than it is today. The"
     }
   ]
 }
