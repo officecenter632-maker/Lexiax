@@ -4,12 +4,12 @@
   "titre_video": "United States Starts to Crack. Economy and Military Collapse Coming",
   "duree_s": 10537.11,
   "avancement": {
-    "lignes_traitees": 1843,
-    "fin_traitee_s": 3600.73,
+    "lignes_traitees": 2745,
+    "fin_traitee_s": 5428.35,
     "nb_lignes_total": 5265,
     "complet": false
   },
-  "nb_segments": 88,
+  "nb_segments": 135,
   "segments": [
     {
       "id": 1,
@@ -1685,6 +1685,899 @@
         "Alaskans"
       ],
       "texte": "Alaska. It's enough to spook a lot of people in Alaska who rely on cargo shipments. The executive director of the Alaska Trucking Association, Jamie Benson, said she is deeply concerned about the proposal to either block or impose duties on products going through Canada to Alaska. She further elaborated that such measures will significantly increase transportation costs, disrupt supply chains, and raise prices for essential goods that Alaskans rely on."
+    },
+    {
+      "id": 89,
+      "debut": 3600.73,
+      "fin": 3637.93,
+      "temps_estime": false,
+      "titre": "Yukon Premier Ranj Pillai bans American liquor and restricts US contracts",
+      "resume": "Yukon Premier Ranj Pillai said government liquor stores will stop importing from American companies and that US firms will be restricted from Yukon government contracts. He stressed the measures target the US government's actions and threats, not the people of Alaska, and told Alaskans their economies are interconnected.",
+      "mots_cles": [
+        "Yukon",
+        "Ranj Pillai",
+        "liquor stores",
+        "government contracts",
+        "Alaska",
+        "US government threats",
+        "sovereignty",
+        "retaliation"
+      ],
+      "texte": "British Columbia isn't the only Canadian province threatening the US either. Yukon Premier Ranj Pillai, whose province butts up against Alaska, said that governmental liquor stores in his province will stop importing from American companies. In addition to that, US companies that may have previously had access to Yukon governmental contracts will now be restricted. Pillai made it clear that his problem is not with the people of Alaska, but rather with the US government's actions and threats. To our friends and family in Alaska, he states, our lives and economies are interconnected. Please know these measures are not directed at you, but we must do what we can to stand up for our country, our sovereignty, and our way of life. In addition, Pillai"
+    },
+    {
+      "id": 90,
+      "debut": 3637.93,
+      "fin": 3674.59,
+      "temps_estime": false,
+      "titre": "Pillai considers tolls on US commercial traffic to Alaska",
+      "resume": "Pillai said constituents want tolls on US commercial traffic bound for Alaska; building toll stations would take time, but existing weigh stations could host toll booths. The Yukon has essentially one major highway to Alaska, the Alcan (Alaska Canada) Highway, so enforcement would be easy.",
+      "mots_cles": [
+        "Yukon tolls",
+        "Alcan Highway",
+        "weigh stations",
+        "toll booths",
+        "commercial traffic",
+        "Alaska",
+        "Pillai",
+        "highway"
+      ],
+      "texte": "might be thinking about getting in on the toll game [music] himself. The premier said that he's heard from plenty of his constituents that they would be interested in imposing tolls on US commercial traffic bound for Alaska. Pillai made it clear that instituting tolls would take some time as the province would need to construct [music] toll stations and staff them. However, he pointed out that it wouldn't be too difficult to process as there are already weigh stations that trucks are required to pull into on the way to Alaska through Canada. So toll booths could easily be added to those areas. In addition, it's not like the Yukon is crisscrossed by hundreds of highways. There is one major highway that goes through to Alaska, nicknamed Alcan,"
+    },
+    {
+      "id": 91,
+      "debut": 3674.59,
+      "fin": 3692.13,
+      "temps_estime": false,
+      "titre": "Eby orders provincial boycott of American products",
+      "resume": "British Columbia Premier David Eby directed his provincial government to stop buying American products where alternatives exist and asked liquor stores to stop selling alcohol from Republican-led states, which includes Alaska.",
+      "mots_cles": [
+        "David Eby",
+        "British Columbia",
+        "boycott American products",
+        "liquor stores",
+        "Republican-led states",
+        "Alaska",
+        "provincial government",
+        "procurement"
+      ],
+      "texte": "Alaska Canada. As for the premier [music] of British EB, disrupting traffic to Alaska isn't the only plan that he has in mind. He's already directed his own provincial government to [music] stop buying American products where alternatives exist. He's asked liquor stores in his area to stop selling alcohol from Republican-led [music] states, which"
+    },
+    {
+      "id": 92,
+      "debut": 3692.13,
+      "fin": 3741.13,
+      "temps_estime": false,
+      "titre": "Alaskan Senator Dan Sullivan threatens Canada's cruise ship stops",
+      "resume": "Alaskan Senator Dan Sullivan warned that if Canada restricts commercial trucking to Alaska he could push for legislation or an executive order targeting US cruise ship stops in Canada. Cruise ships to Alaska must stop in Canada under current rules, so bypassing Canadian ports could cost Canada billions in tourism and shipping income.",
+      "mots_cles": [
+        "Dan Sullivan",
+        "cruise ships",
+        "Canadian ports",
+        "tourism",
+        "executive order",
+        "Alaska",
+        "tolls on trucks",
+        "retaliation"
+      ],
+      "texte": "includes Alaska. And Alaska, it's conflicted. Some politicians like Alaskan Senator Dan Sullivan have fired back with threats of their own. He warned that if Canada restricts commercial trucking from the contiguous US to Alaska, he could push Congress or the president to pass legislation or issue an executive order targeting US cruise ship stops in Canada. See, according to current regulations, cruise ships that go up to Alaska must make a mandatory stop in Canada, something that local economies on the coast partly rely on for tourism and shipping income. Sullivan warned Canada that tolls on trucks represent a bit of a dangerous game, and the effect of exempting cruise ships from stops in Canada could cost the latter billions. As he states, [music] we're going to work hard on having our cruise ships bypass your ports, and that'll help our economy tremendously. It'll help our tourism industry tremendously, and it'll really hurt"
+    },
+    {
+      "id": 93,
+      "debut": 3741.13,
+      "fin": 3786.43,
+      "temps_estime": false,
+      "titre": "Alaska House passes resolution recognizing Canada's sovereignty",
+      "resume": "In late March 2025 the Alaska House of Representatives passed House Joint Resolution 11 recognizing Canada's sovereignty and self-determination, a counter to US administration rhetoric, and urging both governments to resolve the tariff dispute and avoid tolls. Republicans and Democrats approved it, including majority leader Chuck Kopp.",
+      "mots_cles": [
+        "Alaska House",
+        "House Joint Resolution 11",
+        "Canada sovereignty",
+        "Chuck Kopp",
+        "bipartisan",
+        "tariff dispute",
+        "tolls",
+        "integrated economies"
+      ],
+      "texte": "their tourism. On the other hand, the Alaskan House of Representatives took a more diplomatic approach. In late March 2025, they passed House Joint Resolution 11, formally recognizing Canada's sovereignty and right to self-determination, a clear counter to the US administration's rhetoric. The resolution also urged both federal governments to resolve the tariff dispute quickly. [music] Specifically, they said the Alaska state legislature opposes restrictive trade measures or tolls that would harm the unique relationship between Canada and Alaska or negatively affect our integrated economies. Both Republicans and Democrats in the House approved the measure. Even the Republican House majority leader, Chuck Kopp, said they asked both countries to work together amicably to resolve the tariff situation in a way that shows the respect for territorial integrity and sovereignty of"
+    },
+    {
+      "id": 94,
+      "debut": 3786.43,
+      "fin": 3853.13,
+      "temps_estime": false,
+      "titre": "Towns along the Alcan Highway depend on American truckers and tourists",
+      "resume": "The provincial premiers' threats lack full local backing: towns along the Alcan Highway, such as Fort Nelson in British Columbia, rely on US trucking and tourists. Mayor Rob Fraser, RV park owner Brian Stanley and motel owner Murray Ab said American travelers, truckers and military members are a significant share of business.",
+      "mots_cles": [
+        "Alcan Highway",
+        "Fort Nelson",
+        "Rob Fraser",
+        "American tourists",
+        "local businesses",
+        "British Columbia towns",
+        "Alaska road trip",
+        "economic depression"
+      ],
+      "texte": "both nations. In addition, all of these threats from the premiers of the provinces don't have the full backing of their constituents. In fact, many [music] towns situated along the Alcan Highway rely not only on US commercial trucking but US tourism along the road to survive. The road trip to Alaska is a major bucket list for many. Local business owners and mayors situated along the route fear that escalating tensions, tariffs, and back and forth threats will decrease their customer base. Towns like Fort Nelson located in British Columbia, which are already facing economic depression, are worried about their future. Northern Rockies Regional Municipality Mayor Rob Fraser, whose district includes Fort Nelson, stated every single foreign dollar that comes in here is important to us. Every flat tire, every sandwich, every cup of coffee. Brian Stanley, the owner of Triple G Hideaway RV Park and Restaurant, [music] echoed similar sentiments, saying American tourists are a huge part of keeping this place going. Local Super 8 Motel owner Murray Ab said it's a significant percentage traveling to and from Alaska. Not only commercial truck drivers, but also tourists and even military members on their way to and from Alaskan military stations. It"
+    },
+    {
+      "id": 95,
+      "debut": 3853.13,
+      "fin": 3903.93,
+      "temps_estime": false,
+      "titre": "British Columbia's Bill 7 and the risk to tourist traffic",
+      "resume": "Bill 7, the Economic Stabilization Tariff Response Act, was introduced to give British Columbia the option of tolling US commercial traffic, but critics say its language is broad and may hit private tourism and violate an international treaty. Only about 10,000 commercial trucks pass through BC to Alaska yearly, while 97,200 visitors reached Alaska by highway or ferry in 2018.",
+      "mots_cles": [
+        "Bill 7",
+        "Economic Stabilization Tariff Response Act",
+        "British Columbia",
+        "tolls",
+        "tourists",
+        "10,000 commercial trucks",
+        "97,200 visitors",
+        "treaty"
+      ],
+      "texte": "seems Premier Eby has heard some of these concerns. Bill 7, known as the Economic Stabilization Tariff Response Act, [music] was introduced for passage in Canada, but Eby made it clear that the bill was simply proposed to give the province the option of applying tolls to US commercial traffic. Others are concerned at how broad the language in Bill 7 is and if it could possibly violate an international treaty. According to some critics, Bill 7 isn't too specific about whether it would enact tolls on just commercial traffic, meaning that private tourism could also be affected. This would create much bigger issues. [music] As while only about 10,000 commercial trucks pass through BC on their way to Alaska every year, many more tourists do. While there are no specific numbers for road trip visitors, a total of 97,200 annual visitors to Alaska arrived by highway or ferry in 2018 alone. Another"
+    },
+    {
+      "id": 96,
+      "debut": 3903.93,
+      "fin": 3939.24,
+      "temps_estime": false,
+      "titre": "The 1977 Alcan Highway treaty and Eby's response",
+      "resume": "A 1977 treaty on the Alcan Highway says any charges on US travelers must also apply to Canadian travelers, since the US built the highway before handing it to Canada. Premier Eby said that if the US does not respect treaties, BC need not either, and the segment concludes that tariff war escalation benefits almost no one.",
+      "mots_cles": [
+        "1977 treaty",
+        "Alcan Highway",
+        "David Eby",
+        "tolls on US travelers",
+        "British Columbia",
+        "treaty violation",
+        "tariff war",
+        "escalation"
+      ],
+      "texte": "important geopolitical issue may be the violation of a 1977 treaty governing the use of the Alcan Highway. The document very clearly says that any charges applied to US travelers on the highway must also be applied to Canadian travelers. The treaty was created partly because the highway itself was built by the US before being handed over to Canadian administration. However, Premier Eby doesn't seem too concerned about this. As he has said, since the US doesn't seem to respect treaties, why should British Columbia adhere to them? In other words, an escalation of the tariff war between the two countries seems like it would benefit almost no one and harm most of the people"
+    },
+    {
+      "id": 97,
+      "debut": 3939.24,
+      "fin": 3965.14,
+      "temps_estime": false,
+      "titre": "Hook: the biggest threat to the US may be imitation, a deepfake civil war",
+      "resume": "A new episode asks whether the biggest threat to the US is not invasion but imitation, a war started by a video and a lie. It describes a deepfake so convincing it fractured a country, and frames the story as what a US civil war would look like in 2025.",
+      "mots_cles": [
+        "deepfake",
+        "US civil war",
+        "imitation",
+        "digital warfare",
+        "2025",
+        "disinformation",
+        "fake video",
+        "scenario"
+      ],
+      "texte": "involved. What if the biggest threat to the US isn't invasion, but imitation? Not a war started by tanks or missiles, but by a video and a lie. A deep fake so convincing it didn't just mislead, it fractured a country. This isn't a war from the history books. It's faster, digital, unpredictable, and just as bloody. This is what a US civil war would look like in 2025. The video hit"
+    },
+    {
+      "id": 98,
+      "debut": 3965.14,
+      "fin": 4012.44,
+      "temps_estime": false,
+      "titre": "The fake Supreme Court video declaring federal control of elections",
+      "resume": "At 6:03 a.m. on a Wednesday a video leaked from a European message board and exploded on X, YouTube and Telegram, showing the Chief Justice and justices in the Supreme Court declaring emergency federal control over all state elections. Under two minutes long, it looked, sounded and felt real, and for many Americans it felt inevitable.",
+      "mots_cles": [
+        "deepfake video",
+        "Supreme Court",
+        "Chief Justice",
+        "emergency federal control",
+        "state elections",
+        "6:03 a.m.",
+        "X YouTube Telegram",
+        "viral"
+      ],
+      "texte": "the Eastern seaboard at 6:03 a.m. on a Wednesday, leaked from an encrypted European message board. It made its way onto several American political forums. Then it exploded. X, YouTube, Telegram. Within a few minutes, millions had seen it. [music] The setting was unmistakable. The Supreme Court bench framed by American flags and cold marble [music] columns. At the center sat the Chief Justice flanked by silent justices, reading aloud what appeared to be a historic ruling. In a calm, authoritative tone, he declared emergency federal control over all state elections. A sweeping power grab that sent shock waves through the political landscape. The video was just under 2 minutes long. It looked real. It sounded real. And perhaps most dangerously of all, it felt real. Because for many Americans, the content of that video didn't seem far-fetched. It felt"
+    },
+    {
+      "id": 99,
+      "debut": 4012.44,
+      "fin": 4040.14,
+      "temps_estime": false,
+      "titre": "Why the deepfake was believable: timing and authentic details",
+      "resume": "The court had heard a major case two weeks earlier on emergency federal powers over government layoffs and state election protocols, fast-tracked after a standoff between the Department of Justice and California, and rumors of a ruling were swirling. The timeline matched and the docket number looked authentic, so even seasoned press believed it was an early leak.",
+      "mots_cles": [
+        "Supreme Court case",
+        "emergency federal powers",
+        "Department of Justice",
+        "California standoff",
+        "docket number",
+        "press pool",
+        "leak",
+        "plausibility"
+      ],
+      "texte": "inevitable. The court had, in fact, heard a major case just 2 weeks earlier centered around emergency federal powers concerning government layoffs and state election protocols. The case had been fast-tracked following a high-profile standoff between the Department of Justice [music] and the State of California. Rumors had swirled for days that a ruling was imminent. When the video dropped, it didn't seem out of place. The timeline matched. The docket number [music] looked authentic. Even seasoned members of the press pool believed that this might be an early"
+    },
+    {
+      "id": 100,
+      "debut": 4040.14,
+      "fin": 4067.94,
+      "temps_estime": false,
+      "titre": "Viral spread and armed groups mobilizing within minutes",
+      "resume": "By 6:07 the video had been reposted over 80,000 times and at 6:11 the hashtag article four trended across platforms; by 6:15 armed groups in Idaho, Georgia and Northern Michigan were mobilizing. Online forums called it a second Patriot Act while others celebrated the end of state nullification.",
+      "mots_cles": [
+        "reposted 80,000 times",
+        "hashtag article four",
+        "armed groups",
+        "Idaho Georgia Michigan",
+        "Patriot Act",
+        "state nullification",
+        "social media",
+        "mobilization"
+      ],
+      "texte": "unofficial leak. By 6:07, [music] it had been reposted over 80,000 times. At 6:11, hashtag article four trended across every major social media platform. By 6:15, armed groups in Idaho, Georgia, and Northern Michigan were already mobilizing. Online forums lit up with claims that this was a second Patriot Act, where others celebrated it as a long-awaited end to state nullification. Across the country, people already full of distrust and resentment became defensive, suspicious,"
+    },
+    {
+      "id": 101,
+      "debut": 4067.94,
+      "fin": 4112.84,
+      "temps_estime": false,
+      "titre": "The second fake video: California's governor rejects the ruling",
+      "resume": "At 7:08 a.m. a second video spread on Signal, Telegram and Truth Social showing California's governor declaring that the state did not recognize the Supreme Court ruling and was forming a coalition for constitutional restoration, calling any federal incursion without legislative approval unlawful. It had over 20 million views in 30 minutes.",
+      "mots_cles": [
+        "California governor",
+        "coalition for constitutional restoration",
+        "federal overreach",
+        "second video",
+        "20 million views",
+        "Signal Telegram Truth Social",
+        "unlawful incursion",
+        "state resistance"
+      ],
+      "texte": "embraced for impact. Then came the second video. At 7:08 a.m., a new broadcast appeared on Signal, then Telegram, then Truth Social. The governor of California appeared on screen, seated behind his desk at the state capital. He looked composed, deliberate, and resolute. In a calm but defiant tone, he announced that California did not recognize the Supreme Court's ruling. It was, [music] he said, a violation of the constitutional rights of the people. The state would be forming a coalition for constitutional restoration, inviting other states to join in resisting federal overreach. He ended with a chilling declaration. Any federal [music] incursion without legislative approval would be treated as unlawful. Within 30 minutes, the video had racked up more than 20 million views, but there was one problem. Both"
+    },
+    {
+      "id": 102,
+      "debut": 4112.84,
+      "fin": 4166.14,
+      "temps_estime": false,
+      "titre": "Both videos were fake: origin, quality and the delayed denial",
+      "resume": "Both videos were fake, traced to a dark net group thought to be rogue domestic actors and foreign contractors with next-generation AI video tools. The footage had no glitches, with synced breathing, micro expressions and courtroom acoustics, and the Supreme Court took nearly two hours to deny it, too late.",
+      "mots_cles": [
+        "AI-generated video",
+        "dark net group",
+        "foreign contractors",
+        "voice cloning",
+        "Supreme Court denial",
+        "indistinguishable synthetic footage",
+        "metadata analyst",
+        "authenticity"
+      ],
+      "texte": "videos were fake. The source was traced to a previously unknown group operating on the dark net and secure foreign servers. They were believed to be a hybrid [music] of rogue domestic actors and foreign contractors with access to next-generation AI video generation tools. But this wasn't the usual AI slop. There were no lip-sync glitches, no uncanny valley stares, [music] no telltale digital seams. This was synthetic footage indistinguishable from reality, built with access to proprietary modeling data sets and advanced voice cloning tools far beyond consumer-grade capabilities. Lip movements synced with breath patterns, micro expressions matched each speaker's [music] known ticks, background audio recreated courtroom acoustics and ambient rustle. One metadata analyst would later admit it looked more authentic than the real thing. It took nearly two hours before the Supreme Court issued a formal statement denying the video's authenticity. By then, it"
+    },
+    {
+      "id": 103,
+      "debut": 4166.14,
+      "fin": 4205.54,
+      "temps_estime": false,
+      "titre": "Aftermath: local officials, militias and weaponized unreality",
+      "resume": "Dozens of local officials issued statements, militias set up roadblocks outside state houses and some police departments refused to comply with the DOJ while others pledged allegiance to the emergency order. The White House said no such ruling had been issued, and the State Department had earlier warned about AI videos impersonating officials, now described as weaponized unreality.",
+      "mots_cles": [
+        "local officials",
+        "militia roadblocks",
+        "police refuse DOJ",
+        "White House statement",
+        "State Department warnings",
+        "weaponized unreality",
+        "AI impersonation",
+        "emergency order"
+      ],
+      "texte": "was too late. Dozens of local officials had already issued statements. Militias had formed roadblocks outside of state houses. Some police departments announced that they would not comply with the DOJ. Others pledged allegiance to the emergency order. The White House's first response was a single line press release. No such ruling has been issued by the Supreme Court. We are investigating the source of the unauthorized video. In the months leading up to the war, the State Department had been issuing quiet warnings. AI-generated videos impersonating the Secretary of State were already targeting foreign officials. At the time, it seemed novel, even amusing. But this this wasn't amusing. This was weaponized unreality."
+    },
+    {
+      "id": 104,
+      "debut": 4205.54,
+      "fin": 4262.64,
+      "temps_estime": false,
+      "titre": "Government and military paralysis: Lewis-McChord, Fort Hood and the National Guard",
+      "resume": "For 48 hours the US had no single reality. Law enforcement flooded federal channels with questions, Joint Base Lewis-McChord delayed operations, Fort Hood got unofficial orders to prepare for domestic deployment but a division commander refused to act without clarification, and the National Guard split along political lines between red and blue states.",
+      "mots_cles": [
+        "Joint Base Lewis-McChord",
+        "Fort Hood",
+        "National Guard",
+        "domestic deployment",
+        "operational paralysis",
+        "red and blue states",
+        "military split",
+        "48 hours"
+      ],
+      "texte": "For 48 hours, the United States no longer had a single reality. Domestic life itself had become a digital illusion. Within minutes of the fake Supreme Court ruling's release, confusion gripped every level of government. Local law enforcement flooded federal channels with questions. Was this legitimate? Did it require immediate enforcement? Could they act on a ruling that hadn't been formally published? But there was no clear answer. The military too was split. Joint Base Lewis-McChord in Washington State delayed all operations pending confirmation from higher command. Meanwhile, Fort Hood in Texas received unofficial orders from the Pentagon to prepare for domestic deployment. But when a division commander refused to act without clarification from civilian leadership and civilian leadership had not agreed on what was real, operational paralysis set in. The National Guard, controlled by state governors, fractured along political lines. In red states, some units swore to uphold the federal directive. In blue states, others denounced it as a constitutional fraud."
+    },
+    {
+      "id": 105,
+      "debut": 4262.64,
+      "fin": 4300.74,
+      "temps_estime": false,
+      "titre": "Governors split and the White House debunks the video too late",
+      "resume": "Governors held emergency sessions: Colorado's called for calm and an investigation while Florida's praised the court's courage. At 11:00 a.m. the White House press secretary said the chief justice was not even in the country and the ruling was fake, but the internet had moved on.",
+      "mots_cles": [
+        "governors",
+        "emergency sessions",
+        "Colorado",
+        "Florida",
+        "White House press secretary",
+        "chief justice abroad",
+        "fake ruling",
+        "narrative control"
+      ],
+      "texte": "By midmorning, governors across the country began convening emergency sessions. Each meeting took on a life of its own. Colorado's governor called for calm and demanded an investigation. Florida's governor praised the court's courage to act in a time of national crisis. There was no coordinated response, only a widening divide. The White House, already reeling from its early morning statement, scrambled to seize back control of the narrative. At 11:00 a.m., the press secretary stepped behind a visibly unsteady podium and addressed the nation. The chief justice wasn't in the country. The ruling was clearly fake. There had been no federal seizure of state authority, but it was too late. The internet had already moved"
+    },
+    {
+      "id": 106,
+      "debut": 4300.74,
+      "fin": 4348.14,
+      "temps_estime": false,
+      "titre": "Tech platforms fail to respond and conspiracy groups seize on the fake",
+      "resume": "YouTube removed the video only after 2 million views, X flagged it but left it up, Telegram ignored it, and detection systems were slow. Conspiracy groups claimed the denials were part of the deception or a false flag by the feds to provoke unrest, with enemies' panic taken as proof.",
+      "mots_cles": [
+        "YouTube",
+        "X flagged",
+        "Telegram",
+        "deepfake detection",
+        "conspiracy groups",
+        "false flag",
+        "echo chambers",
+        "platform response"
+      ],
+      "texte": "on. Tech platforms unprepared for the speed and scale of the deep fake [music] spread struggled to respond. YouTube removed the video only after 2 million views. X flagged it as potentially manipulated but left it up. Telegram ignored it. Deep fake detection systems were slow to react. By the time independent analysis confirmed the footage was fake, the clips had already cemented themselves as gospel inside digital echo chambers. Conspiracy groups jumped on it. Message boards and podcasts claimed that it was part of the long-term plan. Some claimed the deep fake was real and the denials were part of the deception. Others believed the video was part of a false flag operation, a plot [music] staged by the feds to provoke civil unrest and justify a power grab. For believers on either side, the only proof required was that their enemies were panicking. By"
+    },
+    {
+      "id": 107,
+      "debut": 4348.14,
+      "fin": 4377.94,
+      "temps_estime": false,
+      "titre": "First blood: Oregon sheriff standoff with a National Guard convoy",
+      "resume": "By nightfall a rural Oregon sheriff's department and a National Guard convoy clashed when the sheriff refused federal agents access to a communications tower; gunfire left two Guardsmen and one deputy injured. The sheriff's defiant live stream got 5 million views in six hours.",
+      "mots_cles": [
+        "Oregon",
+        "sheriff standoff",
+        "National Guard convoy",
+        "communications tower",
+        "gunfire",
+        "live stream",
+        "5 million views",
+        "first blood"
+      ],
+      "texte": "nightfall, the first blood was drawn. In rural Oregon, a standoff between a county sheriff's department and a National Guard convoy erupted after the sheriff refused to allow federal agents to access a communications tower. When negotiations broke down, gunfire rang out. Two National Guardsmen and one deputy were injured before the convoy withdrew. [music] That night, the sheriff live streamed a defiant statement saying a line in the sand had been drawn. The video reached 5 million views in 6 hours [music] and the line already blurred was gone. Week one. By"
+    },
+    {
+      "id": 108,
+      "debut": 4377.94,
+      "fin": 4414.74,
+      "temps_estime": false,
+      "titre": "Week one: DOJ arrest warrants against state officials are ignored",
+      "resume": "By the end of the first week the US had split formally and functionally. The DOJ issued sweeping arrest warrants for state officials accused of subverting federal authority, including secretaries of state from California, Oregon and New York and state supreme court justices, but no US Marshals acted.",
+      "mots_cles": [
+        "Department of Justice",
+        "arrest warrants",
+        "state officials",
+        "insurrection",
+        "US Marshals",
+        "secretaries of state",
+        "supreme court justices",
+        "ignored orders"
+      ],
+      "texte": "the end of the first week, the United States had split both formally and functionally. The Department of Justice responded with force, at least on paper. It issued a sweeping set of arrest warrants targeting state officials accused of quote subverting federal authority and promoting insurrection. The list was like a who's who of political defiance, secretaries of state from California, Oregon, and New York, governors, and even multiple state supreme court justices. But the orders were ignored or worse laughed off. No U.S. Marshals attempted enforcement. There were no doors kicked in or arrests because in many [music] states there was no one left willing to carry them out."
+    },
+    {
+      "id": 109,
+      "debut": 4414.74,
+      "fin": 4443.24,
+      "temps_estime": false,
+      "titre": "The military chain of command fractures",
+      "resume": "The joint chiefs urged constitutional clarity but lower-level commanders acted on their own: some activated logistics hubs to ensure public order, others refused federal direction, and a general in Georgia used a private encrypted app to coordinate with sympathetic governors, bypassing the Pentagon. The DOD stopped releasing statements.",
+      "mots_cles": [
+        "chain of command",
+        "joint chiefs",
+        "regional logistics hubs",
+        "Georgia general",
+        "encrypted messaging",
+        "Pentagon bypassed",
+        "Department of Defense",
+        "military fracture"
+      ],
+      "texte": "Inside the military, the chain of command fractured. The joint chiefs issued guidance urging constitutional clarity, but lower-level commanders weren't waiting for instructions. Some activated regional logistics hubs to, quote, ensure public order. Others refused federal direction altogether. One general in Georgia began using a private encrypted messaging app to coordinate directly with sympathetic governors, bypassing the Pentagon entirely. The DOD, paralyzed by political crossfire, stopped releasing"
+    },
+    {
+      "id": 110,
+      "debut": 4443.24,
+      "fin": 4468.44,
+      "temps_estime": false,
+      "titre": "Courts fracture: federal rulings go unrecognized",
+      "resume": "Federal judges held emergency Zoom hearings drowned out by denial of service attacks and jurisdictional disputes, and in multiple states federal rulings were not recognized as state courts declared themselves the only legitimate arbiters. Legal scholars called it a constitutional crisis.",
+      "mots_cles": [
+        "federal judges",
+        "Zoom hearings",
+        "denial of service",
+        "state courts",
+        "jurisdictional disputes",
+        "constitutional crisis",
+        "legal scholars",
+        "rulings ignored"
+      ],
+      "texte": "public statements. The courts fared no better. Federal judges attempted to hold emergency hearings via Zoom, only to be drowned out by denial of service attacks and jurisdictional [music] disputes. In multiple states, federal court rulings were simply not recognized by local authorities. [music] State courts declared themselves the only legitimate arbiters of justice within their borders. Legal scholars called it a constitutional crisis, but in the streets, it felt different. California"
+    },
+    {
+      "id": 111,
+      "debut": 4468.44,
+      "fin": 4509.84,
+      "temps_estime": false,
+      "titre": "States diverge, corporations and media split",
+      "resume": "California, Washington and Illinois formed the Coalition for Constitutional Restoration, Florida made disobeying federal orders illegal and Texas revived defense laws to arm militias, so rights depended on where you lived. Apple and Meta halted operations in flashpoint regions, Amazon moved warehouses, and the media split.",
+      "mots_cles": [
+        "Coalition for Constitutional Restoration",
+        "Florida law",
+        "Texas militias",
+        "Apple and Meta",
+        "Amazon warehouses",
+        "media split",
+        "state laws diverge",
+        "fragmentation"
+      ],
+      "texte": "joined forces with Washington and Illinois to form the Coalition for Constitutional Restoration. Florida made it illegal to disobey federal orders. Texas revived old defense laws to arm civilian militias. From state to state, the laws no longer matched. Your rights depended on where you lived. Major corporations scrambled to adapt to the unfolding situation. Apple and Meta halted operations in flashpoint regions, citing threats to staff and infrastructure. Amazon moved its warehouses to states [music] aligned with federal authority. The media split overnight. Some networks doubled down on partisan narratives, while others went dark entirely. By the end of the week, the question [music] wasn't if the country was coming apart, it was how far the cracks would go. As America"
+    },
+    {
+      "id": 112,
+      "debut": 4509.84,
+      "fin": 4539.34,
+      "temps_estime": false,
+      "titre": "AI-generated fake news broadcasts flood the information space",
+      "resume": "Dozens of AI-generated news broadcasts claiming to be from credible outlets flooded streaming platforms, such as a general announcing military control of the West Coast and troops seizing state houses in Tallahassee and Albany. They carried network lower thirds, familiar faces and stolen logos, and the public could not tell what was real.",
+      "mots_cles": [
+        "AI-generated news",
+        "fake broadcasts",
+        "stolen logos",
+        "West Coast military control",
+        "Tallahassee Albany",
+        "information warfare",
+        "no man's land of realities",
+        "streaming platforms"
+      ],
+      "texte": "splintered, the information domain became a no man's land of competing realities. [music] Dozens of AI-generated news broadcasts flooded streaming platforms, each claiming to be from credible outlets. One feed showed a uniformed general announcing full military control of the West Coast. Another claimed federal troops had taken over state houses in Tallahassee [music] and Albany. None of it was real, but each video bore network-style lower thirds, familiar faces, [music] even stolen logos. The American public had no way to tell what was real. In Ohio,"
+    },
+    {
+      "id": 113,
+      "debut": 4539.34,
+      "fin": 4572.74,
+      "temps_estime": false,
+      "titre": "Ohio's hacked emergency alert triggers panic",
+      "resume": "In Ohio, residents got a 3:24 a.m. emergency alert saying to shelter in place and avoid military vehicles because state control was compromised; it was a hoax by a Russian-linked advanced threat group. Citizens barricaded in basements while militias flooded roads, and the alert system was shut down for 72 hours.",
+      "mots_cles": [
+        "Ohio",
+        "emergency alert hack",
+        "shelter in place",
+        "Russian threat group",
+        "militias",
+        "72-hour shutdown",
+        "hoax",
+        "panic"
+      ],
+      "texte": "residents received [music] an emergency shelter and place alert at 3:24 a.m. on Thursday. Emergency federal order, shelter in place. Do not [music] approach military vehicles. State control deemed compromised. It was a hoax, of course. The system had been hacked. Experts later traced it to an advanced [music] threat group operating out of Russia, but the damage was done. Terrified citizens barricaded themselves in [music] basements while armed militias flooded the roads. The state government was forced to shut down the entire alert system [music] for 72 hours to prevent further manipulation. On"
+    },
+    {
+      "id": 114,
+      "debut": 4572.74,
+      "fin": 4630.14,
+      "temps_estime": false,
+      "titre": "Influencers become digital warlords and encrypted channels run the resistance",
+      "resume": "Verified influencers, pundits and streamers gained huge followings by pledging loyalty to factions, becoming digital warlords with audience loyalty like a private army. Signal, Telegram and Matrix coordinated supply drops and even drone strikes, state actors listened and spread disinformation, and no one was sure who was in charge.",
+      "mots_cles": [
+        "influencers",
+        "digital warlords",
+        "Signal Telegram Matrix",
+        "encrypted channels",
+        "armed groups",
+        "disinformation",
+        "state actors",
+        "no one in charge"
+      ],
+      "texte": "social media, chaos reigned. Platforms tried to keep [music] up, but the damage was already done. Dozens of blue check influencers, pundits, and streamers capitalized on the confusion, proclaiming loyalty to one faction or another. Their follower counts exploded, so did their influence. In a world where trust in institutions was gone, verified voices became digital warlords, wielding audience loyalty like a private army. Encrypted channels on platforms like Signal, Telegram, and Matrix became central nervous systems of the resistance and the rebellion. Armed groups coordinated supply drops, movements, [music] even drone strikes via secure group chats. Private citizens shared evacuation maps, blackout alerts, and emergency first aid PDFs. State actors, foreign and [music] domestic, listened in, spread disinformation, or impersonated key figures. By the end of the first week, one thing was sure. No one was sure who was actually in charge anymore, but problematically, everyone believed someone was. [music]"
+    },
+    {
+      "id": 115,
+      "debut": 4630.14,
+      "fin": 4684.64,
+      "temps_estime": false,
+      "titre": "Week two: the Pacific Coalition forms on the West Coast",
+      "resume": "By week two the old map was obsolete and the country operated in zones. California, Oregon, Washington and Hawaii announced the Pacific Coalition, invoked coordinated sovereignty, consolidated West Coast National Guard under regional command and took control of bases, ports and infrastructure, with San Francisco as a digital capital, Pacifica.",
+      "mots_cles": [
+        "Pacific Coalition",
+        "Pacifica",
+        "coordinated sovereignty",
+        "West Coast National Guard",
+        "San Francisco",
+        "California Oregon Washington Hawaii",
+        "regional security pact",
+        "zones"
+      ],
+      "texte": "Week two. By the end of the second week, the old American map was obsolete. [music] There were no official borders, no declarations of independence, no flags raised over state capitals. Not yet. But on the ground, the country now operated in discrete zones. [music] Some aligned, some opposed, some simply trying to survive. On the West Coast, a new allegiance emerged. The politically aligned states of California, Oregon, Washington, and Hawaii announced the formation of the Pacific Coalition. In a joint broadcast, their governors declared that they would no longer comply with federal directives unless ratified by their respective legislatures. They invoked what they called the principle of coordinated sovereignty and unveiled a regional security pact to defend their shared interests. West Coast National Guard units were consolidated under regional command. Military bases, ports, and infrastructure were placed under local control. San Francisco became the coalition's nerve center, a digital capital for what some now called"
+    },
+    {
+      "id": 116,
+      "debut": 4684.64,
+      "fin": 4723.74,
+      "temps_estime": false,
+      "titre": "The Constitutional Alliance forms around Texas and Florida",
+      "resume": "A counterweight formed in the Southeast and Midwest: the Constitutional Alliance led by Texas and Florida with parts of Tennessee, Oklahoma, Indiana and the Dakotas, which supported DOJ authority. Texas reactivated its state guard and absorbed militias, but the war was between realities rather than a clean north-south divide.",
+      "mots_cles": [
+        "Constitutional Alliance",
+        "Texas",
+        "Florida",
+        "state guard",
+        "militia groups",
+        "DOJ authority",
+        "north-south divide",
+        "war between realities"
+      ],
+      "texte": "Pacifica. In the Southeast and Midwest, a counterweight formed, the Constitutional Alliance, a bloc spearheaded by Texas and Florida, joined by parts of Tennessee, Oklahoma, Indiana, and the Dakotas. These states pledged to uphold constitutional continuity through federal unity and declared support for DOJ authority in the original emergency ruling. Even as its origin remained disputed, Texas reactivated its state guard and began absorbing sympathetic militia groups into formalized command structures. Florida declared control over its ports and coastline in defense of national cohesion. But this wasn't a clean north-south divide. The war wasn't between regions, it was between"
+    },
+    {
+      "id": 117,
+      "debut": 4723.74,
+      "fin": 4750.04,
+      "temps_estime": false,
+      "titre": "Cities become fortress states and armed micronations",
+      "resume": "Cities like Atlanta, Phoenix and St. Louis declared temporary autonomy from their state governments, forming councils and citizen militias to control police, utilities and emergency protocols. They were armed micronations navigating collapsing jurisdictions, some aligning with the Pacific Coalition and others playing both sides.",
+      "mots_cles": [
+        "Atlanta",
+        "Phoenix",
+        "St. Louis",
+        "city autonomy",
+        "citizen militias",
+        "micronations",
+        "urban fortress states",
+        "collapsing jurisdictions"
+      ],
+      "texte": "realities. Urban centers became fortress states. Cities like Atlanta, Phoenix, and St. Louis declared temporary autonomy from their state governments. They formed local councils and citizen militias to control their own police, utilities, and emergency protocols. They weren't blue cities and red states, they were armed micronations navigating between collapsing jurisdictions. Some aligned with the Pacific coalition, others playing both [music] sides, many simply trying to keep the lights on."
+    },
+    {
+      "id": 118,
+      "debut": 4750.04,
+      "fin": 4792.84,
+      "temps_estime": false,
+      "titre": "Purple zones and neutral city-states",
+      "resume": "Suburbs in places like Central Pennsylvania, Northern Virginia and outside Dallas became the bloodiest purple zones, with PTA groups turning into militia cells and neighborhood watches blockading intersections. Denver declared itself a diplomatic city-state, Chicago negotiated corridor status for humanitarian convoys, and foreign embassies in DC fortified and waited.",
+      "mots_cles": [
+        "purple zones",
+        "suburban militias",
+        "Central Pennsylvania",
+        "Northern Virginia",
+        "Denver city-state",
+        "Chicago humanitarian corridor",
+        "embassies",
+        "neutral zones"
+      ],
+      "texte": "Meanwhile, the suburbs burned purple. These purple zones became the bloodiest, most unstable regions. In places like Central Pennsylvania, Northern Virginia, and the outskirts of Dallas, neighborhoods were split by ideology, ethnicity, and trust. PTA [music] groups turned into militia cells, neighborhood watch groups blockaded intersections, schools and hospitals flew neutral flags, [music] if they remained open at all. In the chaos, neutral zones emerged. Denver declared itself a diplomatic city state, refusing to take sides and inviting mediation from international Chicago declared a pause in political alignment and negotiated corridor status for humanitarian convoys. In DC, foreign embassies closed their gates, fortified their compounds, and waited."
+    },
+    {
+      "id": 119,
+      "debut": 4792.84,
+      "fin": 4828.94,
+      "temps_estime": false,
+      "titre": "Corporate sovereign zones: Google, Amazon and Microsoft",
+      "resume": "Corporations picked servers not sides: Google moved its executive command to a hardened facility outside Salt Lake City, Amazon split logistics between Utah and Toronto, and digitally sovereign corporate zones ran on smart contracts and air-gapped data centers, with Microsoft's Azure region outside Cheyenne under its own militia protection. The Union had simply stopped functioning.",
+      "mots_cles": [
+        "Google",
+        "Amazon",
+        "Microsoft Azure",
+        "Salt Lake City",
+        "corporate zones",
+        "smart contracts",
+        "air-gapped data centers",
+        "Union stopped functioning"
+      ],
+      "texte": "Corporations didn't pick sides, they picked servers. Google moved its executive command center to a hardened facility outside Salt Lake City, just east of a booming Silicon Slopes. Amazon [music] split its logistics between Utah and Toronto. A new class of digitally sovereign corporate zones sprang up. [music] Cloud-based strongholds where businesses could continue under artificial governance frameworks enforced by smart contracts and air-gapped data centers. Microsoft's Azure region outside of Cheyenne became a corporate-government hybrid with its own [music] militia protection. The Union hadn't declared dissolution, it had simply stopped functioning. Warfare"
+    },
+    {
+      "id": 120,
+      "debut": 4828.94,
+      "fin": 4892.64,
+      "temps_estime": false,
+      "titre": "Unconventional warfare: drones, hacks and DIY weapons",
+      "resume": "Warfare was unconventional: drone swarms with explosives hit a Texas convoy, hackers blacked out Portland using default passwords and opened an Atlanta dam, and attribution was meaningless. Rural militias used guerrilla tactics, loyalist forces used thermal quadcopters with facial recognition, and 3D-printed guns, printable landmines and anti-drone nets spread, with a kill box buildable for under $500.",
+      "mots_cles": [
+        "drone swarm",
+        "Portland blackout",
+        "Atlanta dam",
+        "default passwords",
+        "guerrilla tactics",
+        "quadcopters facial recognition",
+        "3D-printed guns",
+        "attribution"
+      ],
+      "texte": "in this new climate of instability proved anything but conventional. In Texas, a National Guard convoy was struck by a swarm of hobbyist drones retrofitted with commercial explosives. [music] In Portland, blackouts began with no warning. Two substations had been hacked using default manufacturer passwords. In Atlanta, a municipal dam was opened in the middle of the night, flooding a loyalist neighborhood. No one ever claimed responsibility. No one needed to. In 2025, attribution was as good as fiction. Rural militias used guerrilla tactics, ambushes, pipeline sabotage, highway raids. In cities, loyalist forces deployed quadcopters with thermal imaging and facial recognition to hunt known dissidents in alleyways. Armed engagements were fast, fluid, and often one-sided. Most casualties didn't know they were in a war zone until it was too late. 3D-printed guns, grenade launchers, and custom [music] rifle attachments flooded the underground. Hackers released CAD files for printable landmines [music] and anti-drone nets. Surveillance gear was home-brewed. A decent engineering student could build a kill box for under"
+    },
+    {
+      "id": 121,
+      "debut": 4892.64,
+      "fin": 4944.74,
+      "temps_estime": false,
+      "titre": "AI as a combatant: propaganda wars and the fight for attention",
+      "resume": "AI became a fully operational combatant, with thousands of video variants tailored to dialects, regions and psychological profiles, showing the military both liberating and massacring civilians, both fake but believed. Young digital insurgents used Stable Diffusion and GPT-based editors to make manifestos and call-to-arms videos, and holding attention became the most strategic resource.",
+      "mots_cles": [
+        "AI propaganda",
+        "tailored deepfakes",
+        "Stable Diffusion",
+        "GPT editors",
+        "digital insurgents",
+        "manifestos",
+        "attention economy",
+        "information war"
+      ],
+      "texte": "$500. On the propaganda front, AI became a fully operational combatant. Thousands of horrifying variations of the same video, edited for different dialects, regions, and psychological profiles, [music] circulated by hour. In one version, the federal military was seen liberating a town from armed insurgents. In another, they were massacring civilians. Both were fakes, but were believed. Language was a weapon. Visuals were a payload. Across the country, young digital insurgents [music] armed with tools like stable diffusion and GPT-based editors churned out revolutionary manifestos and [music] cinematic call-to-arms videos. It felt more real than anything broadcast on the evening news. This was no longer a war that could be won with tanks [music] or treaties. It was about holding attention, and in a fractured nation where reality had [music] shattered into a thousand feeds, attention was the most strategic resource of all. In this"
+    },
+    {
+      "id": 122,
+      "debut": 4944.74,
+      "fin": 4992.95,
+      "temps_estime": false,
+      "titre": "Families split and neutrality fails",
+      "resume": "The military broke first, then the government, then society: a Tennessee father joined the Constitutional Alliance militia while his Berkeley daughter joined the Pacific Coalition Civilian Defense Corps, and they stopped speaking over whether the ruling happened. People fleeing to gray zones met checkpoints, as a California family in Utah was turned away over a bumper sticker.",
+      "mots_cles": [
+        "families split",
+        "Tennessee",
+        "Berkeley",
+        "gray zones",
+        "neutrality",
+        "armed checkpoint",
+        "Utah",
+        "Restore Democracy sticker"
+      ],
+      "texte": "terrifying new landscape, the military broke first, [music] the government fractured next, then society itself followed. Families split politically and geographically. A father in Tennessee joined a local Constitutional Alliance militia, while his daughter studying in Berkeley volunteered for the Pacific Coalition Civilian Defense Corps. They stopped speaking after a phone call turned into a shouting match over whether the Supreme Court ruling had ever happened. One believed it was fake, the other believed the denial was the real deception. Some tried to remain neutral, packing up, moving to the so-called gray zones in the Mountain West or upper Midwest, but neutrality had a short shelf life. In Utah, a family fleeing California was turned away at a gas station by an armed volunteer checkpoint. [music] The driver had an old Restore Democracy bumper sticker, and that was enough. Grocery"
+    },
+    {
+      "id": 123,
+      "debut": 4992.95,
+      "fin": 5022.85,
+      "temps_estime": false,
+      "titre": "Shortages, barter and creeping tribalism",
+      "resume": "Grocery stores emptied, water became currency, blackouts and weaponized internet outages were common, people bartered canned food and antibiotics, armed guards escorted water trucks and local radio returned as the main news source. The divide ran between those who believed in the United States and those who thought it never truly existed.",
+      "mots_cles": [
+        "shortages",
+        "water as currency",
+        "blackouts",
+        "barter",
+        "local radio",
+        "armed guards",
+        "tribalism",
+        "US identity"
+      ],
+      "texte": "stores were emptied and water became currency. Blackouts were common. Internet outages were weaponized. In some towns, people bartered with [music] canned food and antibiotics. In others, armed guards escorted water trucks between neighborhoods. Local radio returned as the primary news [music] source in many places, if you could find batteries. Underlying it all was a creeping sense of tribalism. It was a [music] divide not only between left and right, but between those who still believed in the idea of a United States and those who no longer thought it ever"
+    },
+    {
+      "id": 124,
+      "debut": 5022.85,
+      "fin": 5058.05,
+      "temps_estime": false,
+      "titre": "China offers aid to the Pacific Coalition",
+      "resume": "While Americans argued over reality, Chinese officials offered technical and humanitarian aid to the Pacific Coalition, officially to restore shipping lanes and digital infrastructure. Chinese telecom and logistics personnel operated out of Oakland and Tacoma and offered free satellite internet nodes and surveillance balloons; Washington called it treason.",
+      "mots_cles": [
+        "China",
+        "Pacific Coalition",
+        "Oakland Tacoma",
+        "satellite internet nodes",
+        "surveillance balloons",
+        "foreign aid",
+        "treason",
+        "shipping lanes"
+      ],
+      "texte": "truly existed. While Americans argued over what was real, the rest [music] of the world didn't wait. Within days of the initial fracture, eager Chinese officials extended an offer of technical and humanitarian [music] assistance to the Pacific Coalition. Officially, it was to help restore disrupted shipping lanes and maintain digital [music] infrastructure. Unofficially, Chinese telecom technicians and logistics personnel began acting on contingency plans and operating out of Oakland and Tacoma. Satellite internet nodes and unmanned [music] surveillance balloons were offered at no cost. The Pacific governors called it a temporary partnership. Washington called it"
+    },
+    {
+      "id": 125,
+      "debut": 5058.05,
+      "fin": 5084.75,
+      "temps_estime": false,
+      "titre": "Russia funnels weapons and money to rural insurgents",
+      "resume": "Russia moved faster as payback for arms shipments to Ukraine, funneling cryptocurrency and weapons to rural insurgent networks in Texas, Appalachia and the Rust Belt. Contractors tied to Wagner trained local militias under the banner of defensive sovereignty, and Russian media called them democracy's heroes.",
+      "mots_cles": [
+        "Russia",
+        "Wagner",
+        "cryptocurrency",
+        "weapons",
+        "rural insurgents",
+        "Texas Appalachia Rust Belt",
+        "Ukraine payback",
+        "defensive sovereignty"
+      ],
+      "texte": "treason. Russia moved faster. Chaos was the bottom line. [music] Payback for years of arms shipments to Ukrainian freedom fighters. Intelligence services began funneling cryptocurrency and weapons to rural insurgent networks [music] in Texas, Appalachia, and the Rust Belt. Russian contractors, many tied to former Wagner elements, appeared in social media footage training [music] local militias under the banner of defensive sovereignty. Russian media outlets branded them as [music] democracy's heroes, resisting an"
+    },
+    {
+      "id": 126,
+      "debut": 5084.75,
+      "fin": 5111.55,
+      "temps_estime": false,
+      "titre": "The UN freezes: Security Council vetoes and rival factions",
+      "resume": "A UN Security Council resolution calling for mediation failed after vetoes by China and Russia, while members proposed recognizing successor factions such as the Pacific Coalition, the Constitutional Alliance and Denver's Federal Continuity Council. No consensus formed and some embassies in Washington evacuated.",
+      "mots_cles": [
+        "United Nations",
+        "Security Council",
+        "veto",
+        "China and Russia",
+        "successor factions",
+        "Federal Continuity Council",
+        "embassies evacuate",
+        "mediation"
+      ],
+      "texte": "illegitimate digital coup. And as if nobody saw it coming, the United Nations froze. A Security Council resolution to call for mediation failed [music] after both China and Russia issued vetoes. Multiple members proposed recognizing different successor [music] factions, the Pacific Coalition, the Constitutional Alliance, even Denver's self-declared Federal Continuity Council. No [music] consensus formed. Some embassies in Washington evacuated entirely, others fortified [music] and"
+    },
+    {
+      "id": 127,
+      "debut": 5111.55,
+      "fin": 5129.45,
+      "temps_estime": false,
+      "titre": "Foreign mercenaries hired by state legislatures",
+      "resume": "Foreign nationals posing as private security consultants, including former NATO soldiers and others from Brazil, Serbia, Turkey and South Africa, offered services to state legislatures. A convoy of former French Foreign Legionnaires was spotted guarding a lithium extraction facility in eastern Colorado.",
+      "mots_cles": [
+        "mercenaries",
+        "private security",
+        "former NATO soldiers",
+        "French Foreign Legion",
+        "eastern Colorado",
+        "lithium",
+        "state legislatures",
+        "foreign fighters"
+      ],
+      "texte": "waited. And then came the mercenaries. Foreign nationals posing as private security consultants, former NATO soldiers, others from Brazil, Serbia, Turkey, and South Africa offered their services to state legislatures. [music] One convoy of former French Foreign Legionnaires was spotted operating in eastern Colorado, guarding a lithium"
+    },
+    {
+      "id": 128,
+      "debut": 5129.45,
+      "fin": 5152.95,
+      "temps_estime": false,
+      "titre": "Global markets unravel and American credibility collapses",
+      "resume": "With the US fractured, the dollar's reserve status came under scrutiny, oil contracts shifted toward the yuan, London and Tokyo exchanges lost billions in days and multinationals left US operations. American military, economic and diplomatic credibility collapsed faster than a warhead could have managed.",
+      "mots_cles": [
+        "dollar reserve status",
+        "yuan oil contracts",
+        "London Tokyo stock exchanges",
+        "multinational firms",
+        "economic collapse",
+        "credibility",
+        "global markets",
+        "US fracture"
+      ],
+      "texte": "extraction facility. Global markets unraveled. With the US fractured, the dollar's reserve status fell under scrutiny. Oil contracts began shifting toward the yuan. Stock exchanges in London and Tokyo shed billions in a matter of days. Multinational firms abandoned US operations or moved them offshore. American credibility, military, economic, and diplomatic collapsed faster than any warhead could"
+    },
+    {
+      "id": 129,
+      "debut": 5152.95,
+      "fin": 5191.35,
+      "temps_estime": false,
+      "titre": "Eighteen months later: hardened territorial lines",
+      "resume": "Eighteen months after the deepfake ruling the US was shattered: territorial lines hardened where supply lines, loyalty and armed control overlapped, states split or divided into city states, tribal regions or corporate protectorates, and movement required passes, bribes or escorts. Control of highways, rail hubs and rivers determined who got food, fuel and medicine.",
+      "mots_cles": [
+        "18 months later",
+        "territorial lines",
+        "city states",
+        "corporate protectorates",
+        "passes and bribes",
+        "highways rail hubs",
+        "supply lines",
+        "fragmented US"
+      ],
+      "texte": "have managed. 18 months later, a year and a half after the deep fake ruling that never was, the United States was shattered, unwilling to be pieced back together. Rigid territorial lines had formed, redrawn zones hardened where supply lines, population loyalty, and armed control overlapped. Some states were split down the middle, others divided into city states, tribal regions, or corporate protectorates. Movement between territories required passes, bribes, or heavy escort. Maps were updated weekly, none state accurate for long. Trade routes became arteries of survival. Control of the highways, rail hubs, and river access determined who had power and who got food, fuel,"
+    },
+    {
+      "id": 130,
+      "debut": 5191.35,
+      "fin": 5233.25,
+      "temps_estime": false,
+      "titre": "A morphed economy: crypto, local currencies and CEO-run tech enclaves",
+      "resume": "The economy morphed rather than crashed: neutral zones traded food, fuel, medicine and hard drives, crypto became the main currency in city enclaves, some places printed their own money, and Silicon Valley and Austin became walled mini-nations run by CEOs. Denver and Chicago tried mediating, but no one spoke for the whole country and the war now ran on fear.",
+      "mots_cles": [
+        "crypto currency",
+        "local currencies",
+        "Silicon Valley",
+        "Austin",
+        "CEO-run enclaves",
+        "Denver Chicago mediation",
+        "barter economy",
+        "war on fear"
+      ],
+      "texte": "and medicine. The economy didn't crash. It morphed into [music] something strange. In neutral zones, people traded food, fuel, medicine, and even hard drives. Crypto became the main currency in city enclaves. Some places printed their own money. A can of food might be worth two hours of power or a handful of bullets. Tech hubs like Silicon Valley and Austin became walled off mini nations run by CEOs instead of politicians. If you followed their rules, you got security and the internet. If not, you were out. A few cities like Denver and Chicago acted as independent city states trying to mediate between the warring sides, but no one spoke for the whole country anymore. Everyone was tired. The war [music] born from a lie now ran on fear."
+    },
+    {
+      "id": 131,
+      "debut": 5233.25,
+      "fin": 5259.15,
+      "temps_estime": false,
+      "titre": "The toll of the scenario and the stakes of losing dominance",
+      "resume": "The scenario ended with 5 million displaced and nearly 300,000 dead, mostly from chaos rather than battle, with the old America surviving only in memory and peace something ordinary people stopped believing in. The narrator links it to what happens if the US loses its place as the world's most dominant power, possibly sooner than expected.",
+      "mots_cles": [
+        "5 million displaced",
+        "300,000 dead",
+        "global trade disruption",
+        "prices skyrocketing",
+        "loss of dominance",
+        "US decline",
+        "civil war scenario",
+        "world power"
+      ],
+      "texte": "The toll was massive. 5 million displaced, nearly 300,000 dead, not from battles but from chaos. [music] The old America still lived in memories, but peace, that was something ordinary people stopped believing in. Global trade disrupted, prices skyrocketing, conflicts raging. This is what happens if the US loses its place as the world's most dominant power, and it could happen sooner than you expect. On today's"
+    },
+    {
+      "id": 132,
+      "debut": 5259.15,
+      "fin": 5299.35,
+      "temps_estime": false,
+      "titre": "Episode intro: what is a superpower?",
+      "resume": "A new episode examines the fallout if America loses its position as a superpower, starting with what a superpower is. The media wrongly call the US, Russia and China all superpowers; geopolitically, since the end of the Cold War the US has been the only one, with a joke that the world has two superpowers, the US and Beyonce.",
+      "mots_cles": [
+        "superpower definition",
+        "fallout",
+        "United States",
+        "Russia and China",
+        "Cold War",
+        "only one superpower",
+        "media misuse",
+        "Infographic Show"
+      ],
+      "texte": "episode of the Infographic Show, we're looking at the fallout if America loses its position as a superpower. First, what exactly is a superpower? The term gets thrown around a lot by the media and it's almost never used correctly. Today, various media outlets often refer to the US, Russia, [music] and China as superpowers, but this is wrong. The world only has two superpowers, and it's the United States of America and Beyonce. Geopolitically, though, since the end of the Cold War and arguably through much of the second half, [music] there has only ever been one superpower, the United States. So what exactly makes America an OP character? The answer lies in various different facets [music] of"
+    },
+    {
+      "id": 133,
+      "debut": 5299.35,
+      "fin": 5356.45,
+      "temps_estime": false,
+      "titre": "Superpower trait 1: global military reach",
+      "resume": "A superpower must have global military reach: US forces are everywhere or nearby, to keep conflict far from American shores and maintain global stability so economies thrive. The US can deploy thousands of troops and hundreds of combat aircraft anywhere within 48 hours, and if it turns isolationist the global order and the US economy suffer.",
+      "mots_cles": [
+        "global military reach",
+        "US forces",
+        "global stability",
+        "48 hours deployment",
+        "military hegemony",
+        "isolationism",
+        "combat aircraft",
+        "superpower"
+      ],
+      "texte": "the modern US. First, a superpower must have global military reach. That is the simplest and most common definition used to describe such states. Though it is one the media often stumbles on. US forces are everywhere, and if they're not, they're close by. Just one [music] short C-130 or helicopter ride away from being in your backyard. That is no accident, and it is [music] not for the reason you think. The US military serves two primary goals. First, to keep conflict far from American shores. Second, [music] to maintain global stability. When nations aren't fighting, economies thrive. That stability is good for the world and for the United States. With the ability to deploy several thousand troops [music] and hundreds of combat aircraft anywhere in the world within 48 hours, few nations have the resources or the nerve to test the global peace [music] largely enforced by US military hegemony. When the US turns isolationist, the global order deteriorates. And when that happens, the US economy suffers, hurting America most"
+    },
+    {
+      "id": 134,
+      "debut": 5356.45,
+      "fin": 5386.55,
+      "temps_estime": false,
+      "titre": "Why China and Russia lack global military reach",
+      "resume": "Russia and China cannot deploy large forces far from their shores: China's navy is largely a coastal force needing friendly air support, while the US Navy brings its own air force, among the world's largest. Russia, struggling for three years to take a tenth of its neighbor's territory, does not fit the superpower mold.",
+      "mots_cles": [
+        "China navy",
+        "Russia",
+        "coastal force",
+        "US Navy air force",
+        "power projection",
+        "Ukraine war",
+        "superpower comparison",
+        "military limits"
+      ],
+      "texte": "of all. Russia [music] or China don't have the capacity to deploy large amounts of military power far from their shores. China is working on this, but to this day, their navy remains largely a coastal force that can't operate far from their own shores [music] and needs friendly air support. Unlike China, the US Navy brings its own air force to the sea, and it is big enough to rank among the world's largest. [music] And Russia, well, superpowers don't spend three years struggling to take a tenth of their neighbor's territory. But military"
+    },
+    {
+      "id": 135,
+      "debut": 5386.55,
+      "fin": 5428.35,
+      "temps_estime": false,
+      "titre": "Superpower traits 2 and 3: financial reach and diplomatic soft power",
+      "resume": "A superpower also needs global financial reach: most global trade is in dollars and only a tiny share in yuan, so US sanctions trigger a global reaction. It also has a network of allies it influences, and the US rarely moves alone, while China can shape events only regionally and sometimes.",
+      "mots_cles": [
+        "financial reach",
+        "dollar dominance",
+        "yuan",
+        "sanctions",
+        "allies",
+        "soft power",
+        "diplomatic weight",
+        "global trade"
+      ],
+      "texte": "power is only a part of the question because a superpower also has to have global financial reach. [music] In this regard, China can challenge the US, sort of. While Chinese economic influence has exploded in the last two decades, most of global trade is still done with the dollar. Only a tiny percentage is done in Chinese yuan. When the US imposes sanctions on a nation, they don't come on their own. They trigger a global pylon. That's the other side of being a superpower, [music] a worldwide network of allies you directly influence. When the US moves, it almost never moves alone. That's the staggering diplomatic weight of a superpower, the ability to shape global [music] events through soft power alone. China can only do this regionally, and even then only sometimes. [music]"
     }
   ]
 }
