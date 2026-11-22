@@ -4,12 +4,12 @@
   "titre_video": "The Collapse of the Dollar (And Why You're Already Poorer)",
   "duree_s": 13885.44,
   "avancement": {
-    "lignes_traitees": 4448,
-    "fin_traitee_s": 8956.8,
+    "lignes_traitees": 5354,
+    "fin_traitee_s": 10773.84,
     "nb_lignes_total": 6916,
     "complet": false
   },
-  "nb_segments": 214,
+  "nb_segments": 259,
   "segments": [
     {
       "id": 1,
@@ -3881,6 +3881,861 @@
         "8-day stay"
       ],
       "texte": "billionaire discussion is complete without a mention of space travel. From Elon Musk to Jeff Bezos, it seems the richest man in the world spend most their days dreaming about the same thing little boys raised in the 60s dreamed of, rocketing out to space. The only difference is they have enough money to make their whims a reality. In fact, a billion dollars makes space travel a very feasible option, even for an entire family. For the vacation of a lifetime, a billionaire family of four can pay the astronomical, sorry, price of $55 million a person to fly out and experience an 8-day stay out on the International Space Station for a grand total of $220 million. There's a vacation slideshow everyone you know will actually be dying to see. It's"
+    },
+    {
+      "id": 215,
+      "debut": 8956.8,
+      "fin": 8979.44,
+      "temps_estime": false,
+      "titre": "Intro: well-paying, lasting jobs and the education they require",
+      "resume": "Many workers find it harder to make a living: full-time jobs with good wages, advancement and retirement are fading, and many hold two or more jobs to make ends meet. Some jobs still offer the dream and are not going away, but they take time and money for education, often only four to six years.",
+      "mots_cles": [
+        "good jobs",
+        "stable careers",
+        "full-time job",
+        "two jobs",
+        "education required",
+        "wages",
+        "retirement",
+        "high-paying jobs"
+      ],
+      "texte": "getting harder and harder to make a living out there. The days of holding a full-time job that paid a healthy wage and offered chances to advance and a healthy retirement are fading for many people. And many workers are forced to hustle and hold two or more jobs just to make ends meet. But are there jobs out there that provide the dream and aren't going anywhere anytime soon? Yes, but they might not be so easy to come by."
+    },
+    {
+      "id": 216,
+      "debut": 8979.44,
+      "fin": 9012.32,
+      "temps_estime": false,
+      "titre": "Financial adviser: bachelor's degree, median over $87,000",
+      "resume": "A financial adviser needs a four-year bachelor's degree in economics. These counselors analyze clients' financial status and advise on retirement planning and major purchases such as home ownership. The profession mixes stock broker, community banker and economics teacher, with a median salary of over $87,000 a year.",
+      "mots_cles": [
+        "financial adviser",
+        "financial advisor",
+        "bachelor's degree economics",
+        "retirement planning",
+        "home ownership",
+        "median salary $87,000",
+        "stock broker",
+        "high-paying jobs"
+      ],
+      "texte": "You're probably going to spend a good amount of time and money to get the education required, but how much time varies, and some you can get by with only four or 6 years. For a first job, a financial adviser, you'll only need a 4-year bachelor's degree in economics. These counselors analyze people's financial status and give them advice on how to properly plan for retirement or major purchases like home ownership. The profession is a combination of the roles of stock broker [music] and community banker combined with an economics teacher, and it pays handsomely with a median salary of over $87,000 a year."
+    },
+    {
+      "id": 217,
+      "debut": 9012.32,
+      "fin": 9051.52,
+      "temps_estime": false,
+      "titre": "Political scientist: master's degree, over $120,000 but few openings",
+      "resume": "Politicians consult many experts, so political scientists are in demand. They need a master's degree of about six years, study international and domestic politics, and work as advisers and educators for senators, governors, campaigns, think tanks and universities. Median salary is over $120,000, but this job has the fewest openings per year on the list.",
+      "mots_cles": [
+        "political scientist",
+        "master's degree",
+        "politicians",
+        "think tanks",
+        "campaign consultants",
+        "median salary $120,000",
+        "fewest openings",
+        "universities"
+      ],
+      "texte": "Giving good advice can be good money, and that goes double when you're advising the next group. Few people consult with more experts than politicians. That means that political scientists are in hot demand. These experts [music] who need a master's degree that takes about six years to achieve. Study trends in international and domestic politics and serve as advisers and educators. While it's common for senators and governors to employ these experts directly as consultants on campaigns, they also frequently have positions in private think [music] tanks and universities. This job comes with a median salary of over $120,000, but with a caveat. There are the fewest openings for this position per year of any other job on this [music] list. Are"
+    },
+    {
+      "id": 218,
+      "debut": 9051.52,
+      "fin": 9086.48,
+      "temps_estime": false,
+      "titre": "Actuary: calculating risk for insurance companies",
+      "resume": "Insurance depends on calculating risk, so companies use actuaries with a background in statistics, economics and math to build formulas that predict likely outcomes and set rates. A bachelor's degree is enough; the transcript gives a median salary of $18,000, probably a transcription error. Other industries are starting to hire actuaries too.",
+      "mots_cles": [
+        "actuary",
+        "insurance",
+        "calculating risk",
+        "statistics",
+        "bachelor's degree",
+        "insurance rates",
+        "median salary",
+        "math jobs"
+      ],
+      "texte": "you good at math? Well, the next job might be right up your alley. Insurance is a huge business and one of the most critical parts of the field is calculating risk. When assigning people rates and [music] deciding who to insure, insurance companies use actuaries to calculate these factors. And these experts use a background in statistics, economics, and math to create formulas that predict likely outcomes. Not only does this profession have a median salary of $18,000, but it only requires a bachelor's degree to achieve. While most of the jobs are in insurance, other industries are starting to employ actuaries to calculate their own risks. But no job is"
+    },
+    {
+      "id": 219,
+      "debut": 9086.48,
+      "fin": 9118.32,
+      "temps_estime": false,
+      "titre": "Business operations manager: managing the managers",
+      "resume": "The business operations manager is one of the newer professions on the list: the person who manages the managers, coordinating hiring, contracts and budgets in large businesses so everything runs smoothly. The role differs at every company, the median salary is just over $100,000, the field is growing fast and a bachelor's degree is usually enough.",
+      "mots_cles": [
+        "business operations manager",
+        "manage the managers",
+        "hiring contracts budgets",
+        "median salary $100,000",
+        "growing field",
+        "bachelor's degree",
+        "management jobs",
+        "newer professions"
+      ],
+      "texte": "more in demand than this next one. Have you ever heard of a business operations manager? It's one of the newer professions on this list, and these are essentially the people who manage the managers. Large [music] businesses have many decisions, and this is the person who coordinates them, handling hiring, contracts, and budgets. They make the business run smoothly and keep everyone on the same page. And no business operations manager will operate the same as the next because every company has different needs. Their median salary is just over 100,000 and the field is growing fast and most companies only look for a bachelor's degree in"
+    },
+    {
+      "id": 220,
+      "debut": 9118.32,
+      "fin": 9159.6,
+      "temps_estime": false,
+      "titre": "Sales manager: a job every business needs",
+      "resume": "Almost every business needs a sales manager, who trains the sales team, sets short and long-term goals, coordinates strategy and messaging and sometimes recruits. A company falls apart without good sales, so the pay is just over $125,000 on average with a bachelor's degree, usually in business administration, and companies value experience over schooling.",
+      "mots_cles": [
+        "sales manager",
+        "sales team",
+        "sales goals",
+        "business administration",
+        "median salary $125,000",
+        "bachelor's degree",
+        "experience over schooling",
+        "recruiting"
+      ],
+      "texte": "candidates. One of the best tactics for success is to look for a job in a field almost everyone needs. Virtually every business is trying to sell you something. And that means every business needs a great sales manager. They handle training for the sales team, set short and long-term sales goals, and coordinate strategies and messaging for the company. Depending on the company's structure, they may also be involved in recruiting and hiring. The company will fall apart without a good sales team. And so, these people are paid well, just over $125,000 a year on average, and it's another job that only requires a bachelor's degree. Usually, in business administration, companies are often more interested in looking for experience than schooling. Companies are looking for a lot of talent and the opportunities for those with skills are"
+    },
+    {
+      "id": 221,
+      "debut": 9159.6,
+      "fin": 9192.64,
+      "temps_estime": false,
+      "titre": "Financial manager: cash flow and strategy, just under $130,000",
+      "resume": "The financial manager analyzes the company's cash flow, reports profit projections to those in charge and builds a financial strategy with other managers, often with a direct line to the CEO. Most companies ask for a bachelor's degree in business or economics, and the average pay is just under $130,000.",
+      "mots_cles": [
+        "financial manager",
+        "cash flow",
+        "profit projections",
+        "financial strategy",
+        "CEO",
+        "business economics degree",
+        "salary $130,000",
+        "management jobs"
+      ],
+      "texte": "growing. Every company is a complex financial institution and they need someone coordinating their deals. That's where the financial manager comes in. This critical member of the staff analyzes the company's cash flow and reports directly to the people in charge with projections for their profit. They'll work with the other managers to develop a comprehensive financial strategy for the company and often have a direct line to the CEO on economic matters. Like other managers, most companies only ask for a bachelor's degree in a related field [music] like business or economics. And these talents can earn an average of just under 130,000. But there might be one field"
+    },
+    {
+      "id": 222,
+      "debut": 9192.64,
+      "fin": 9226.08,
+      "temps_estime": false,
+      "titre": "Marketing manager: branding and pricing, $136,000 average",
+      "resume": "The marketing manager handles the company's exterior, deciding how to brand products and when, where and for how much to sell them to maximize profit. Top campaigns can be the biggest expenditure, so the role carries trust and pressure. Average salary is $136,000 and it usually needs a marketing bachelor's degree plus experience.",
+      "mots_cles": [
+        "marketing manager",
+        "branding",
+        "marketing campaigns",
+        "product pricing",
+        "maximize profits",
+        "salary $136,000",
+        "marketing degree",
+        "management jobs"
+      ],
+      "texte": "more critical to the business's success than finances. Much like the sales manager, the marketing manager handles the company's exterior and determines how to brand their products to the world. This goal is to help the company maximize their profits. And they need to know when, where, and for how much the product should be sold. Top marketing campaigns for highlevel companies can be the company's biggest expenditure. [music] And so this position has a lot of trust and a lot riding on the success. Commanding an average salary of $136,000, these talents usually need a bachelor's degree in marketing and experience [music] in the field. Of course, there's"
+    },
+    {
+      "id": 223,
+      "debut": 9226.08,
+      "fin": 9261.2,
+      "temps_estime": false,
+      "titre": "IT manager: cyber security and company systems, just under $150,000",
+      "resume": "Companies run on complex technical networks of private and public servers, and one failure can expose trade secrets, create liability and damage the brand. The IT manager, a technical expert who runs computer and information systems and cyber security with a team, usually needs a specialized bachelor's degree, earns just under $150,000 and works in a fast-growing field.",
+      "mots_cles": [
+        "IT manager",
+        "cyber security",
+        "servers",
+        "computer information systems",
+        "trade secrets",
+        "specialized bachelor's degree",
+        "salary $150,000",
+        "growing field"
+      ],
+      "texte": "one new field that every business needs an expert in. Many companies today are held together by a complex technical network of servers running both in [music] their private network and their public online presence. If one thing goes wrong in the system, it could expose the company's trade secrets, open them to liability and damage their brand. That's where the IT manager comes in, a technical expert who runs the computer and information systems of the company, and they handle cyber security and other computer related issues with a team of experts. They usually need a specialized bachelor's degree and can earn just under 150,000 a year. And that field is growing fast. But what if you"
+    },
+    {
+      "id": 224,
+      "debut": 9261.2,
+      "fin": 9297.36,
+      "temps_estime": false,
+      "titre": "Pilot: certified expert earning over $120,000",
+      "resume": "Pilots carry passengers' trust and must know the airplane and control panel in detail and stay calm in a crisis. They need a bachelor's degree and flight school certification; most jobs are in commercial aviation, with private, medical and rescue positions too. The responsibility brings good money, over $120,000 a year.",
+      "mots_cles": [
+        "pilot",
+        "commercial aircraft",
+        "flight school",
+        "pilot certification",
+        "medical rescue flights",
+        "salary $120,000",
+        "bachelor's degree",
+        "high-paying jobs"
+      ],
+      "texte": "want a little more excitement in your career? Millions of people fly each year, and every plane is full of passengers putting their trust in one person above all else, the pilot. This highly trained expert not only needs to know [music] every detail of the complex airplane and control panel, but they need to have a cool head and be able to react fast in a crisis. While they only need a bachelor's degree, they also have to be certified as a pilot in flight school. The majority of jobs are in the commercial aircraft industry, but positions are also available privately and in the medical and rescue field. Pilots have a lot of responsibility and with that responsibility [music] comes good money over 120,000 a year. Pilots"
+    },
+    {
+      "id": 225,
+      "debut": 9297.36,
+      "fin": 9337.2,
+      "temps_estime": false,
+      "titre": "Petroleum engineer: analyzing the ground to harvest oil, over $135,000",
+      "resume": "The oil industry is among the world's most valuable and its extraction equipment is expensive and complex, which makes the petroleum engineer critical. They analyze data on the ground where oil is located and choose the safest, most cost-effective way to extract it from miles underground, since catching a problem early can save millions. Average salary is over $135,000 with a four-year engineering bachelor's degree.",
+      "mots_cles": [
+        "petroleum engineer",
+        "oil industry",
+        "engineering bachelor's degree",
+        "extraction equipment",
+        "salary $135,000",
+        "oil reservoirs",
+        "cost-effective drilling",
+        "high-paying jobs"
+      ],
+      "texte": "take to the sky, but these next experts go deep below. The oil industry is one of the world's most valuable and their equipment used to harvest it from reservoirs is among the most expensive and complex out there. That's why the petroleum engineer is a critical piece of the puzzle for any oil company. Their job requires them to analyze data on the makeup of the ground where the oil is located and determine the safest and most cost-effective way to harvest it from miles underground. Identifying a problem before the equipment hits [music] it can save the company millions. So, these engineers are worth the investment for the company to the tune of an average salary of over 135,000. But a 4-year bachelor's degree in engineering is enough to get you in the door. But what is the highest paying"
+    },
+    {
+      "id": 226,
+      "debut": 9337.2,
+      "fin": 9376.32,
+      "temps_estime": false,
+      "titre": "Nurse anesthetist: the top-paid master's-level job, $175,000",
+      "resume": "Asking for the highest-paying job reachable with four to six years of college, the video points to nurses and then the nurse anesthetist, trained in inhaled and intravenous drugs that reduce pain and make surgery patients unconscious. Non-physicians allowed to handle these drugs need a master's degree and a year of critical care experience, and earn an average of at least $175,000.",
+      "mots_cles": [
+        "nurse anesthetist",
+        "nurses",
+        "master's degree",
+        "critical care experience",
+        "anesthesia drugs",
+        "salary $175,000",
+        "highest paying master's job",
+        "medical field"
+      ],
+      "texte": "job that can be obtained with only four or 6 years of college? Nurses are one of the secret weapons of the medical field, interacting with patients regularly and noticing things busy doctors might not pick up on. But there is one specialist nurse who is in even higher demand. The nurse anesthetist has training in inhaled and introvenous drugs that are used to reduce pain and render patients unconscious during surgery. These are the only non-fysicians who are allowed to handle the drugs. So, they're required to have some extra training, a master's degree, and a full year of critical care experience. >> [music] >> But the reward for that extra work is inviting. An average salary of no less than 175,000 a year. But if you want to"
+    },
+    {
+      "id": 227,
+      "debut": 9376.32,
+      "fin": 9422.0,
+      "temps_estime": false,
+      "titre": "Lawyers: doctorate, law school and six-figure salaries",
+      "resume": "The top-paying jobs require a doctorate. Lawyers will always be needed for criminal trials and business legal advice, and law school is a top destination for students seeking a reliable career. It takes a four-year pre-law program plus three years of law school, then an average salary of over $120,000, with the hope of becoming a celebrity lawyer.",
+      "mots_cles": [
+        "lawyer",
+        "law school",
+        "doctorate",
+        "pre-law program",
+        "defense firm",
+        "corporate lawyers",
+        "salary $120,000",
+        "celebrity lawyer"
+      ],
+      "texte": "go even higher, you'd better be prepared to hit the books. The top paying positions out there require a doctorate. As long as there are people facing trial for crimes and businesses needing legal advice, there will be a need for lawyers. So, it's not a surprise that law schools are still one of the top destinations for college students looking for a reliable career. Whether you're working for a private defense firm or serving as one of a staff of corporate lawyers, you'll need some serious education. A 4-year pre-law program plus 3 years of intensive law school. But for those who graduate the competitive program and find a good position, you can easily command a six-f figureure income with an average salary of over 120,000. And then there's always the hope that you'll become a celebrity lawyer and get a call when a reality TV star drives their Porsche into the neighbor's pool. No one looks forward to"
+    },
+    {
+      "id": 228,
+      "debut": 9422.0,
+      "fin": 9459.36,
+      "temps_estime": false,
+      "titre": "Dentists: 7 to 8 years of study, over $150,000",
+      "resume": "Dentists are essential and well paid, though not technically doctors: they hold a DDS or DMD degree. General dentistry means cleaning teeth, repairing cavities and advising on dental health, in a private practice or a partnership. The college program takes 7 to 8 years, dentists have independence to set their hours and average over $150,000.",
+      "mots_cles": [
+        "dentist",
+        "doctor of dental surgery",
+        "DMD",
+        "general dentistry",
+        "private practice",
+        "7 to 8 years",
+        "salary $150,000",
+        "independence"
+      ],
+      "texte": "visiting the next specialist, but they're essential and well- paid. It might surprise you, but dentists aren't technically doctors. They have their own certification, doctor of dental surgery, [music] or doctor of medicine in dentistry. General dentistry involves cleaning teeth and repairing cavities, as well as advising patients on good dental health. They can either run their own private practice or join or form a partnership with other dentists in a larger practice. But to get there, they'll have to complete a college program that ranges from 7 to 8 years. The good news is dentists usually have a great deal of independence to set their own hours and they can earn an average salary of over 150,000. But if you"
+    },
+    {
+      "id": 229,
+      "debut": 9459.36,
+      "fin": 9499.28,
+      "temps_estime": false,
+      "titre": "Orthodontists and dental specialists: 10 to 11 years, about $200,000",
+      "resume": "Dentists who specialize earn the most. Orthodontists work with teeth and jaw alignment using braces over the long term and need a separate orthodontics school after the dental degree, 10 to 11 years in total. Median salary cracks $200,000, and other specialties such as prosthodontists, who implant replacement teeth, earn similar pay.",
+      "mots_cles": [
+        "orthodontist",
+        "braces",
+        "dental specialties",
+        "prosthodontist",
+        "teeth alignment",
+        "10 to 11 years school",
+        "median salary $200,000",
+        "dental implants"
+      ],
+      "texte": "really want to hit the jackpot as a dentist, you'll need to specialize. As long as there are adolescence with crooked teeth, there'll be a need for orthodontists. These specialty dentists focus on the teeth and jaw, helping to realign teeth through slow processes, including braces and other [music] tools. They usually work with patients long term and have to go to a separate school for orthodontics after finishing their dental degree, which means it could be a 10 to 11ear stint in school before they're fully certified. They're paid handsomely for their work with [music] the median salary for orthodontists cracking the 200,000 level. The same salary and extra time in school goes for other dental specialties like prostheadontists who specialize in implanting [music] replacement teeth."
+    },
+    {
+      "id": 230,
+      "debut": 9499.28,
+      "fin": 9549.44,
+      "temps_estime": false,
+      "titre": "Medical doctors (MD): over 10 years of training, $200,000 to $250,000",
+      "resume": "The MD degree leads to the highest-paid jobs but takes over 10 years including internship and residency. Top specialties include obstetricians and gynecologists, surgeons and oral surgeons. The path is four years of premed, four of medical school, then clinical internship and residency; average doctors earn over $200,000 and some specialists approach $250,000.",
+      "mots_cles": [
+        "medical doctor",
+        "MD degree",
+        "residency",
+        "medical school",
+        "premed",
+        "surgeons",
+        "obstetrician gynecologist",
+        "salary $200,000"
+      ],
+      "texte": "But there's one degree that is your ticket to the highest paid jobs out there, but you should expect to work for it. The MD or medical degree is the conclusion of a long journey that can often take over 10 years, including a multi-year internship and residency. The exact length varies depending on your specialty. But some of the highest paid specialties include obstitricians and gynecologists who work with child birth and reproductive health, surgeons who perform complex procedures on the internal organs, and oral surgeons who perform more intensive dental procedures like extractions of impacted teeth. All of them go through a similar process. Four years of premed, four years of medical school followed by a clinical internship and residency that gives them hands-on training. And once the famous medical school gauntlet is complete, the average doctor earns over 200,000. And some specialists can approach 250,000 a year. But if you don't want to get your"
+    },
+    {
+      "id": 231,
+      "debut": 9549.44,
+      "fin": 9581.2,
+      "temps_estime": false,
+      "titre": "Psychiatrists: medical doctors for mental health, around $220,000",
+      "resume": "Unlike most psychologists, psychiatrists go through medical school. They do counseling like other therapists but can prescribe medication and analyze complex conditions such as schizophrenia from mental and biochemical standpoints. They complete internship and residency like other doctors, most hospitals have one on staff, and the average salary is around $220,000.",
+      "mots_cles": [
+        "psychiatrist",
+        "psychologist",
+        "prescribe medication",
+        "mental health",
+        "schizophrenia",
+        "residency",
+        "salary $220,000",
+        "medical school"
+      ],
+      "texte": "hands dirty, there is one medical specialty that might be for you. While most psychologists don't go through medical school psychiatrists do, these mental health specialists do much of the same counseling that other therapists do, but they have one major difference. They can prescribe medication and analyze complex mental health conditions like schizophrenia from both mental and biochemical standpoints. They have similar internship and residency programs to other medical doctors and most hospitals have at least one on staff. These medical professionals get an average salary of around 220,000. But"
+    },
+    {
+      "id": 232,
+      "debut": 9581.2,
+      "fin": 9626.88,
+      "temps_estime": false,
+      "titre": "Anesthesiologist: highest-paid doctorate-level job, $260,000",
+      "resume": "The anesthesiologist has the highest average pay in the doctorate category, as the nurse anesthetist does among master's degrees. They manage pain medication before, during and after surgery, monitor vital signs and make life-saving decisions while the surgeon operates. Certification takes 12 to 14 years and the median salary is $260,000.",
+      "mots_cles": [
+        "anesthesiologist",
+        "pain management",
+        "surgery",
+        "vital signs",
+        "12 to 14 years",
+        "median salary $260,000",
+        "doctorate",
+        "highest paid job"
+      ],
+      "texte": "there is one specialty that's even more in demand. Much like the nurse anesthetist was the highest paying job in the master's category, the job with the highest average pay in the doctorate category is the anesthesiologist. This is one of the most sought-after specialties in the medical field as these doctors are experts in administering pain management medication before, during, and after surgery, making them an essential counterpart to the surgeon. They monitor the vital signs during the surgery and can make critical life-saving decisions while the surgeon is occupied with the procedure. It can take 12 to 14 years to become a fully certified anesthesiologist, which makes it one of the most challenging careers to embark on, but the eventual median salary of $260,000 makes it an inviting specialty for the ambitious. It's something many people"
+    },
+    {
+      "id": 233,
+      "debut": 9626.88,
+      "fin": 9654.48,
+      "temps_estime": false,
+      "titre": "New video: weird ways to spend a million dollars",
+      "resume": "Many people fantasize about having a million dollars, which opens up possibilities. After a first show on what a million buys around the world (private islands, yachts, expensive homes), the channel challenges one of its writers to find weird ways to spend it. His family nags him to buy new clothes, so clothing comes first.",
+      "mots_cles": [
+        "a million dollars",
+        "weird ways to spend a million",
+        "What a Million Dollars Gets You",
+        "millionaires",
+        "writer challenge",
+        "clothing",
+        "private islands yachts homes",
+        "spending money"
+      ],
+      "texte": "fantasize about, having a million. A million certainly opens up more possibilities of what you can do. [music] On our first What a Million Dollars Gets You Around the World show, we looked at the costs of things typically associated [music] with millionaires, such as private islands, yachts, and expensive homes. For this show, we challenged one of our writers to find weird ways to [music] spend a million dollars. Our writer's family has been nagging him to buy some new clothes, so clothing is the first item on his list. [music] His first stop is"
+    },
+    {
+      "id": 234,
+      "debut": 9654.48,
+      "fin": 9694.24,
+      "temps_estime": false,
+      "titre": "Gold shirt from Rancar Jewelers in Pune, $250,000",
+      "resume": "At Rancar Jewelers in Pune, India, craftsmen custom made a woven gold cloth shirt for a wealthy Indian businessman, weighing about 7 pounds and made by 16 people in 15 days. It costs $250,000, so four fit in a million, but the writer would need a security guard and dislikes the weight, so he moves on to the UK.",
+      "mots_cles": [
+        "gold shirt",
+        "Rancar Jewelers",
+        "Pune India",
+        "woven gold cloth",
+        "$250,000",
+        "wealthy businessman",
+        "custom made shirt",
+        "weird purchases"
+      ],
+      "texte": "Rancar Jewelers in Pune, India. He read a BBC article about how craftsmen at Rancar Jewelers [music] custom made a gold shirt for a wealthy Indian businessman named Data Fuge. The velvet line shirt weighs about [music] £7. It's made from woven gold cloth and took the labor of 16 people to create it in 15 days. The shirt costs $250,000, so he could buy four of them for [music] a million. However, he considers buying just three gold shirts, so he'll be able to do a huge does whenever [music] he wears his gold shirt. hire a security guard to ensure the shirt stays on his back. The heavy weight of the gold shirts [music] does not appeal to our writer. So, he decides to travel to the UK to check out another possibility."
+    },
+    {
+      "id": 235,
+      "debut": 9694.24,
+      "fin": 9725.4,
+      "temps_estime": false,
+      "titre": "World's most expensive suit: 480 diamonds, $599,000",
+      "resume": "Richard Jules of Manchester and Stuart Hughes of Liverpool designed a dark gray suit of cashmere wool and silk set with 480 half-carat diamonds, 240 carats in total, taking 600 man hours. The Diamond Edition is billed as the world's most expensive suit, retailing for $599,000 or about 760,598 pounds.",
+      "mots_cles": [
+        "most expensive suit",
+        "Stuart Hughes",
+        "diamond suit",
+        "480 diamonds",
+        "240 carats",
+        "$599,000",
+        "Manchester Liverpool",
+        "luxury clothing"
+      ],
+      "texte": "Richard Jules [music] of Manchester and Steuart Hughes of Liverpool designed a dark gray suit that's a blend of Kashmir wool, silk, and something [music] else. 480 diamonds. Stuart Hughes's retail website says that each [music] single cut gem is half a carat. That together total a massive 240 carat. and the suit took 600 man hours to create. [music] The RJwels Diamond Edition is supposedly the world's most expensive suit with a retail price of $599,000 or £760,598.58."
+    },
+    {
+      "id": 236,
+      "debut": 9725.4,
+      "fin": 9758.6,
+      "temps_estime": false,
+      "titre": "Suit's luxury trip versus real estate in St. Lucia and Egypt",
+      "resume": "The suit price includes a luxury trip, for example to St. Lucia, but it does not tempt the writer, who would rather buy a 4,500 sq ft ocean-view home in St. Lucia with four bedrooms, pool and jacuzzi for $995,000, or a villa with a Mediterranean view on Egypt's north coast for about $894,521.",
+      "mots_cles": [
+        "St. Lucia",
+        "ocean view home",
+        "Egypt villa",
+        "Mediterranean Sea",
+        "north coast Egypt",
+        "$995,000",
+        "$894,521",
+        "real estate alternatives"
+      ],
+      "texte": "The price of the suit includes an all expense paid trip to luxury destinations such as Argon St. Lucia. However, the [music] trip does not entice our writer to buy the suit. He thinks about how he'd be better off buying a 4500 ft ocean view home in St. Lucia with four bedrooms, [music] three bathrooms, a pool, and jacuzzi for $995,000. Or a 3,466q [music] ft Marasi villa with the view of the Nile in the Mediterranean Sea on Egypt's north coast [music] for $894,521.75."
+    },
+    {
+      "id": 237,
+      "debut": 9758.6,
+      "fin": 9797.92,
+      "temps_estime": false,
+      "titre": "Buying a US ghost town: Spring Canyon in Helper, Utah",
+      "resume": "Instead of a mansion, the writer considers buying an abandoned town. Several US ghost towns are for sale; one in Helper, Utah, listed on realtor.com for $199,000, is a 154-acre parcel with the remnants of the Maple Creek Mine and the mining town of Spring Canyon, including foundations of 30 buildings and a tramway.",
+      "mots_cles": [
+        "ghost town",
+        "Helper Utah",
+        "Spring Canyon",
+        "Maple Creek Mine",
+        "154 acres",
+        "$199,000",
+        "realtor.com",
+        "abandoned town"
+      ],
+      "texte": "Speaking of real estate, our writer checks out some unusual [music] property in the United States. Instead of buying a mansion, why not buy an entire [music] town? The only catch is that the town is abandoned. There are several ghost towns for sale in the United States. One ghost town a [music] writer can afford to buy is located in Helper, Utah. There's a description of it on realtor.com. For $199,000, he gets a 154 acre parcel of land that contains [music] the remnants of the old Maple Creek Mine and former mining town of Spring Canyon. Relics of this time can be found on the property, [music] including the foundations of 30 old buildings and a tramway. However, the US"
+    },
+    {
+      "id": 238,
+      "debut": 9797.92,
+      "fin": 9844.56,
+      "temps_estime": false,
+      "titre": "European ghost towns and why upkeep scares the writer off",
+      "resume": "Ghost towns are also sold in Europe: the shepherd's village of Val Piola in Italy with a medieval church for $592,000, and the Catalan village of Yir in Spain, a renovated farmhouse plus 44 ruined buildings, for 85,000. The writer fears costly renovation and long-term upkeep, even as a tourist attraction.",
+      "mots_cles": [
+        "ghost town Europe",
+        "Val Piola Italy",
+        "Yir Catalonia Spain",
+        "abandoned village",
+        "renovation costs",
+        "maintenance upkeep",
+        "tourist attraction",
+        "$592,000"
+      ],
+      "texte": "is not the only place to buy ghost towns. [music] Our writer could buy the Spring Canyon property as well as an abandoned town in Europe. A home website lists several of them for sale. For instance, [music] the abandoned shepherd's village of Val Piola in Italy with a dilapidated medieval church can be bought for only $592,000. [music] If he wants to buy just one ghost town, he can own the entire Catalan village of Yir in Spain, which consists of a fully renovated farmhouse [music] and a total of 44 ruined buildings for 85,000. However, even though the towns are empty, that doesn't mean they're cheap. Our writer is scared away from buying them. When he realizes they could easily become a financial nightmare of costly renovations and maintenance, he might not be able to pay for their [music] long-term upkeep, even if he turned them into a tourist attraction. All of this"
+    },
+    {
+      "id": 239,
+      "debut": 9844.56,
+      "fin": 9910.24,
+      "temps_estime": false,
+      "titre": "World's most expensive taco: $25,000 at Grand Velas Los Cabos",
+      "resume": "Hungry, the writer looks at costly meals: the $25,000 taco at a Baja resort, with two tortillas containing gold flakes, Kobe beef, Beluga caviar, black truffle brie and a salsa with civet coffee, paired with a $150,000 bottle of Lalique 925 tequila. He loses interest on learning civet coffee beans are partly digested and excreted by Asian palm civets.",
+      "mots_cles": [
+        "most expensive taco",
+        "Grand Velas Los Cabos",
+        "$25,000 taco",
+        "gold flakes",
+        "Beluga caviar",
+        "Lalique 925 tequila",
+        "civet coffee",
+        "Baja Peninsula"
+      ],
+      "texte": "shopping has made our writer hungry, so he thinks [music] about getting something to eat. With a million dollars at his disposal, he has the option of eating some of the world's most expensive meals. At a luxury resort called Grand Bellas Los Cabos, [music] located on Mexico's Baja Peninsula, he could buy what's considered to be the world's most expensive taco [music] for $25,000. According to Food and Wine, customers get two tacos wrapped in tortillas containing gold [music] flakes. Then filled with lang coobe beef, alas beluga caviar, and a black truffle brie. [music] In addition, the tacos come with a lavish salsa that contains morita chili peppers, ultra premium Lelay 925 tequila, and civet coffee. [music] The taco can be paired with a $150,000 white gold and platinum bottle of Lelay 925 Pon Aztec ultra premium ANO [music] tequila for about a million. Our writer could have 40 of the $25,000 taco dinners or [music] just five of them with the premium bottles of tequila. However, he did not want to eat even one taco after he learned civet coffee is made of coffee cherries [music] that are partially digested and pooped out by jungle animals called Asian palm civets."
+    },
+    {
+      "id": 240,
+      "debut": 9910.24,
+      "fin": 9963.84,
+      "temps_estime": false,
+      "titre": "World's most expensive pudding: $34,000 chocolate dessert in England",
+      "resume": "The Lindeth Howe Country House Hotel in England offers a $34,000 chocolate pudding of Belgian chocolate, champagne jelly and edible gold leaf, styled like a Faberge Easter egg, with champagne, strawberry caviar, dessert wine, a night's stay, a meal and an 18-karat rose gold ring with a 2.62-carat diamond. It must be ordered three weeks ahead.",
+      "mots_cles": [
+        "most expensive pudding",
+        "Lindeth Howe",
+        "$34,000",
+        "chocolate pudding",
+        "gold leaf",
+        "Faberge egg",
+        "diamond ring",
+        "order three weeks ahead"
+      ],
+      "texte": "Another option is to buy the world's most expensive pudding. The Lindbeath How Country House Hotel in England offers a lavish chocolate [music] pudding that costs $34,000. According to Forbes, it's made of Belgian chocolate, champagne jelly, biscuit, jacon, and edible gold [music] leaf. It's styled like a fabraier Easter egg and decorated with handmade chocolate flowers. It's also served with champagne and strawberry caviar, as well as a bottle of chateau dk, a fine dessert wine that costs around $788 a bottle. What makes this dessert really [music] expensive are the extras which include a complimentary night stay at Lindith how [music] and an evening meal as well as an adjustable 18 karat rose gold ring with a deep chocolatecoed 2.62 karat diamond. Although he can afford to buy 29 of these desserts. The problem is that he's hungry right now and the pudding has to be ordered [music] 3 weeks in advance. He'd probably"
+    },
+    {
+      "id": 241,
+      "debut": 9963.84,
+      "fin": 10005.12,
+      "temps_estime": false,
+      "titre": "Most expensive ice cream sundae: $60,000 on Mount Kilimanjaro",
+      "resume": "Three Twins Ice Cream's sundae costs $60,000 and requires flying to Tanzania, climbing Mount Kilimanjaro and waiting for the founder to hand make the ice cream with glacial ice from the summit. The price covers airfare, five-star accommodation, unlimited ice cream, an organic cotton t-shirt and a donation to an African environmental nonprofit.",
+      "mots_cles": [
+        "ice cream sundae",
+        "Three Twins Ice Cream",
+        "$60,000",
+        "Mount Kilimanjaro",
+        "Tanzania",
+        "glacial ice",
+        "most expensive dessert",
+        "African environmental nonprofit"
+      ],
+      "texte": "encounter the same problem if he ordered the world's most expensive [music] ice cream sundae made by Three Twins Ice Cream Company. In order to get the company's absurdity Sunday, he not only has to pay $60,000, [music] but also fly to Tanzania in East Africa and then go on a guided climb to the summit of Mount Kilimanjaro, which is the highest peak in Africa. Then he has to wait for the [music] Three Twins ice cream founder to make the ice cream by hand with glacial ice from the mountain [music] summit. According to the company website, at least the Sunday's price includes the cost of airfare, five-star accommodations, as much ice cream as you can eat, a souvenir t-shirt made from organic cotton, [music] and a contribution to an African environmental nonprofit. Our writer decides [music] to"
+    },
+    {
+      "id": 242,
+      "debut": 10005.12,
+      "fin": 10075.28,
+      "temps_estime": false,
+      "titre": "Gravity jet suit: $440,000 flying suit with a 4-minute flight time",
+      "resume": "The writer visits Selfridges in London for the gravity jet suit by Gravity Industries founder Richard Browning: nine suits on sale, 59.5 pounds, five kerosene gas turbines on the arms and back, flight at 12,000 ft and up to 32 mph, $440,000 each. Drawbacks: about 4 minutes of flying time, heavy fuel use, noise, and mandatory training included in the price.",
+      "mots_cles": [
+        "gravity jet suit",
+        "Gravity Industries",
+        "Richard Browning",
+        "Selfridges Oxford Street",
+        "gas turbine engines",
+        "$440,000",
+        "flying time 4 minutes",
+        "jet suit"
+      ],
+      "texte": "spend the million dollars on something more fun than food and clothes. He returns to the UK to check out a gravity [music] jetuit invented by Gravity Industries founder and CEO, Richard Browning. There are nine of these suits on sale at the Selfridge [music] store on Oxford Street in London. According to one lifestyle website, the suit weighs 59 1/2 lb, is powered by five [music] kerosenefueled gas turbine engines that are fixed to the arms and back of its carbon fiber exoskeleton. The suit allows the wearer to fly at altitudes of [music] 12,000 ft with a top speed of 32 mph. Each suit costs $440,000, [music] so our rider could afford to buy two of them. But why would he want to buy two? He certainly does not want to give one to his [music] girlfriend. He imagines her dawning the suit during their next argument, hovering above him, trying to get in the last word like the [music] halfwoman half-bird harpies of Greek mythology. The gravity jet suit has other major drawbacks. [music] One of them is that it has a flying time of up to 4 minutes. Browning also cautions that it consumes a lot of fuel and it's noisy. [music] How high could you go without running out of fuel? How do you refuel if you're in the middle of nowhere? Perhaps [music] those questions are answered in the mandatory training that comes with the purchase price. After going from"
+    },
+    {
+      "id": 243,
+      "debut": 10075.28,
+      "fin": 10144.64,
+      "temps_estime": false,
+      "titre": "Flying car: the PAL-V Liberty for about $560,000",
+      "resume": "Leaving empty-handed, the writer picks a childhood dream, a flying car: the Dutch PAL-V Liberty, a gyrocopter and three-wheeled roadster with two engines. It drives at up to 100 mph and flies at 112 mph up to 3,500 m, switching modes in 5 to 10 minutes. It costs about 499,000 euros ($560,322) before taxes, plus insurance, maintenance and a flying license.",
+      "mots_cles": [
+        "flying car",
+        "PAL-V Liberty",
+        "gyrocopter",
+        "three-wheeled roadster",
+        "499,000 euros",
+        "$560,322",
+        "flying license",
+        "Dutch company"
+      ],
+      "texte": "place to place and leaving empty-handed, our writer decides to spend a million dollars on something he's dreamed about having since he was a kid, a flying [music] car. While there are several models to choose from, he picks one made by a Dutch [music] company called Palv International BV. The Palv Liberty is a combination of a gyroopter and three- wheeled roadster. [music] According to Autocar Magazine's website, it has two engines, one for driving and one for flying. Takes about 5 to 10 minutes to switch from driving mode to flying mode and vice [music] versa. On land, its top speed is 100 mph. And it has a fuel economy of 31 m per gallon and a range of 817 mi. In the air, it has a top flying speed of 112 mph and can reach a maximum altitude of 3500 m [music] and has a range of 310 mi. The Palv Liberty costs about €499,000 [music] or $560,322 before taxes. Buyers will receive power heating, personalization options, and some flight instruction sessions with their purchase. Although, he'll have to pay additional money for vehicle [music] insurance, maintenance, and obtaining a flying license. He thinks having this great way to get from his 30-day challenges is worth [music] it. Dirty"
+    },
+    {
+      "id": 244,
+      "debut": 10144.64,
+      "fin": 10198.96,
+      "temps_estime": false,
+      "titre": "Dirty money: how filthy cash really is",
+      "resume": "A new video from The Infographics Show: money is literally dirty, full of disgusting things. The narrator compares washing hands after public transport with how rarely people wash after paying with cash, a question about the hygiene of everyday money.",
+      "mots_cles": [
+        "dirty money",
+        "Infographics Show",
+        "germs on cash",
+        "hand washing",
+        "public transportation",
+        "hygiene",
+        "paying with cash",
+        "contaminated wallet"
+      ],
+      "texte": "money. We all know what this refers to. Money used in drug deals, money stolen from banks, any currency used in the facilitation of a crime. Yet, as the staff of the infographic show recently found out, much to their horror, it turns out money really is just plain dirty, as in full of very disgusting things. We'll warn you, this episode is going to be very informative. But you have to ask yourself if ignorance isn't bliss regarding exactly what horrifying and disgusting things are lurking in your wallet right now. We bet, or at least we sincerely hope, that you wash your hands before you eat when you've spent all day on public transportation. [music] After all, there's dozens of dirty, stinking peasants on their way to potato farms or whatever, all rubbing their grubby little hands on every square inch of a bus, subway, [music] or an airplane. So, you probably do like most people and practice good hygiene before you chomp down on the sandwich. But ask yourself, how many times have you washed your hands after paying for your food with cash? Cash may be the"
+    },
+    {
+      "id": 245,
+      "debut": 10198.96,
+      "fin": 10225.92,
+      "temps_estime": false,
+      "titre": "Cash as the most handled product: coins versus paper germs",
+      "resume": "Cash may be the most handled product in the modern world: coins last up to 50 years and bills 5 to 15 years in circulation, carrying microorganisms. Copper coins can inhibit microbial growth, but paper currency is nearly a perfect place for germs to live.",
+      "mots_cles": [
+        "cash handling",
+        "coins",
+        "bills lifespan",
+        "microorganisms",
+        "copper coins",
+        "paper currency",
+        "germs",
+        "circulation"
+      ],
+      "texte": "most handled product in our modern world. [music] With coins lasting up to 50 years in circulation and bills lasting between 5 and 15 years, that's a whole lot of time for all kinds of microorganisms [music] and filth to hitch a ride on our favorite way of paying for things. The good news is that some currencies, such as coins made of copper, can actually inhibit microorganism growth. But the bad news is that paper currency is pretty much [music] the perfect place for germs to live. And no currency is more perfect"
+    },
+    {
+      "id": 246,
+      "debut": 10225.92,
+      "fin": 10282.0,
+      "temps_estime": false,
+      "titre": "American dollar bills: cotton-linen blend and germs, versus plastic polymer",
+      "resume": "The US dollar circulates worldwide and is very good at picking up and keeping germs. Australia and Canada use plastic polymer notes, more durable and germ-resistant, while US bills are a linen and cotton blend, durable but very porous, so they pick up bacteria and viruses; the same porosity makes germs harder to dislodge onto hands.",
+      "mots_cles": [
+        "American dollar bills",
+        "linen cotton blend",
+        "plastic polymer currency",
+        "Australia Canada",
+        "porous surface",
+        "bacteria viruses",
+        "international circulation",
+        "durable money"
+      ],
+      "texte": "than American dollar bills. Not only is the currency in the greatest circulation around the world, meaning that that sweet Franklin in your pocket right now has probably [music] been fingered by people internationally, but it's also pretty much perfect at picking up germs and keeping them. Nations such as Australia and Canada have switched to plastic polymer currency, which is more [music] durable, harder to duplicate, and better at keeping germs at bay. American money, however, is made out of a blend of linen and cotton, which technically makes it cloth and not paper at all. While this makes dollars extremely durable, standing up to rain, tearing, and folding, the extremely porous surface of a linen cotton blend dollar makes it incredibly efficient at picking up bacteria and viruses. [music] The one silver lining, though, is that while American money may pick up more germs than other nations, the porest [music] nature of the dollar actually makes it harder for germs to become dislodged and contaminate your hand. Although, by no means is this impossible. So, just how filthy is your"
+    },
+    {
+      "id": 247,
+      "debut": 10282.0,
+      "fin": 10332.96,
+      "temps_estime": false,
+      "titre": "The cocaine on dollar bills myth",
+      "resume": "The rumor that most dollars carry cocaine traces comes from a study of $10 bills from several US cities where eight of ten had at least nanograms of cocaine. The narrator calls the sample very small, says contamination likely spreads from other bills and money counting machines, yet notes your money is probably partly contaminated.",
+      "mots_cles": [
+        "cocaine on money",
+        "cocaine myth",
+        "$10 bills study",
+        "nanograms",
+        "money counting machines",
+        "contaminated bills",
+        "small sample size",
+        "dirty money"
+      ],
+      "texte": "money? Go ahead and start panicking now because it's bad. Like really bad. Everyone's heard that rumor that most dollars are contaminated with cocaine. And that's not necessarily untrue, but it is a faulty assumption. The cocaine myth can be traced [music] back to a study conducted on $10 bills taken from several cities across the nation which found that eight out of 10 bills had at least a few nanogs of cocaine. [music] That's an incredibly small sample size, though, and hardly evidence that all currency is coated in nose candy. More importantly, the contamination likely comes from contact with other contaminated bills or money counting machines. So, the actual exposure of dollars to cocaine is likely quite low. Still, there's a good chance that the money in your pocket is at least partially [music] contaminated with cocaine. And if that's all it's contaminated with, then count yourself lucky because this list [music] gets much worse. Bodily fluids are also"
+    },
+    {
+      "id": 248,
+      "debut": 10332.96,
+      "fin": 10395.28,
+      "temps_estime": false,
+      "titre": "Human excrement on money: poor hand washing and flushing",
+      "resume": "The most pervasive bodily contaminant on bills is human feces. Toilet paper is thin and porous, many people skip hand washing, flushing with the lid open aerosolizes particles over the bathroom and toothbrush, and dirty hands handling cash, such as a $20 bill given as change, pass stranger's feces to your bill and hands.",
+      "mots_cles": [
+        "feces on money",
+        "human excrement",
+        "toilet paper",
+        "flushing toilet lid",
+        "aerosolized particles",
+        "hand washing",
+        "bills as change",
+        "bodily contamination"
+      ],
+      "texte": "commonly found on currency. And the most pervasive of these is [music] human excrement. Yep, poop. and it's literally all over your money because it turns out we're pretty bad at not spreading [music] poop literally everywhere we go. Many people don't consider a number two to be a reason to wash their hands, figuring that [music] the paper they use to wipe is good enough to protect themselves from exposure to their Hershey kisses. Yet, [music] toilet paper itself is so thin and porous that the fudge particles can easily penetrate and find their way to your hands. Another major way of spreading butt butter around is when you flush the toilet without closing the lid first. The rushing water causes your backend brownie particles to become attached to aerosolized water, which in turn spreads all over your bathroom, including on your toothbrush, which you then put in your mouth. So, yeah, maybe start closing the seat before you flush. Then there's just dirty people who may poke, prod, scratch, and sniff as they please, and then go to the store to buy a loaf of bread with a crisp $20 bill, which goes into the till and is given to you as change when you break that hundred later that day. Now you've got stranger poo on your bill and on your hands. But"
+    },
+    {
+      "id": 249,
+      "debut": 10395.28,
+      "fin": 10425.76,
+      "temps_estime": false,
+      "titre": "Other bodily waste on bills and the pathogens they carry",
+      "resume": "Other human body contaminants found on bills include mucus, semen, blood and vaginal bacteria. Small amounts of feces will not make you sick, but nearly every bill in circulation carries some pathogenic organisms; infection is very rare but the risk exists, and the narrator introduces a list of pathogens starting with streptococcus.",
+      "mots_cles": [
+        "bodily fluids on money",
+        "mucus semen blood",
+        "pathogenic organisms",
+        "bills in circulation",
+        "infection risk",
+        "pathogens on cash",
+        "streptococcus",
+        "dirty money"
+      ],
+      "texte": "if you're lucky, that's the only bodily waste you've got. Other human body horrors found [music] on bills include mucus, semen, blood, and vaginal bacteria. We really are a disgusting species. But hey, poo in small quantities won't make you sick. Sadly, there's plenty left on a dollar bill that will. Nearly every [music] single bill in circulation contains at least some pathogenic organisms, though infection is thankfully very rare. Still the risk is present and right now your bills could contain [music] one or more of the following pathogens. Streptoccus."
+    },
+    {
+      "id": 250,
+      "debut": 10425.76,
+      "fin": 10471.12,
+      "temps_estime": false,
+      "titre": "Streptococcus, E. coli and Salmonella on cash",
+      "resume": "Streptococcus bacteria can cause rheumatic fever, scarlet fever, toxic shock syndrome, strep throat, necrotizing fasciitis and bladder or uterus infections. E. coli, jokingly called the primary ingredient of fast food meals, is mostly harmless but can cause anemia and kidney failure. Salmonella causes food poisoning through raw food or feces, including contaminated money.",
+      "mots_cles": [
+        "streptococcus",
+        "E. coli",
+        "Salmonella",
+        "necrotizing fasciitis",
+        "scarlet fever",
+        "food poisoning",
+        "kidney failure",
+        "pathogens on bills"
+      ],
+      "texte": "This is a group of bacteria which if they find your way inside your body could do some serious damage. Infection could lead to rheumatic fever, scarlet fever, streptocoal [music] toxic shock syndrome, strep throat, necroizing fasciitis which is an infection of the skin where the bacteria eats your flesh and bladder and [music] uterus infections. E.coli. Odds are you've probably suffered the effects of E.coli at least once in your life. It's basically the primary ingredient in fast food meals. Most is relatively harmless and may cause nothing more than a tummy ache, but some can be outright deadly and can lead to anemia and kidney failure. Salmonella, yet another common ailment, salmonila causes food poisoning and is spread by contact with raw food or poop. And now you know that it can also come from contact with your money [music] which is full of poop."
+    },
+    {
+      "id": 251,
+      "debut": 10471.12,
+      "fin": 10512.16,
+      "temps_estime": false,
+      "titre": "Staphylococcus aureus, MRSA and Proteus on money",
+      "resume": "Staphylococcus aureus causes staph infections, hard to treat because of antibiotic resistance, and can lead to pneumonia, food poisoning and blood poisoning. MRSA is the antibiotic-resistant version, causing sores, boils and abscesses, months of treatment and sometimes death within 24 hours. Proteus, found in animal intestines, causes painful urinary tract infections.",
+      "mots_cles": [
+        "Staphylococcus aureus",
+        "staph infection",
+        "MRSA",
+        "antibiotic resistance",
+        "abscesses boils",
+        "Proteus",
+        "urinary tract infection",
+        "pathogens on bills"
+      ],
+      "texte": "Staflacccus orius. This bacterium causes staff infections which [music] can be extremely difficult to treat thanks to antibiotic resistance. However, ingestion can also lead to internal infection and pneumonia, food poisoning and blood poisoning. MRSA. This is an antibioticresistant version of the staff bacteria mentioned previously and is incredibly difficult to treat. [music] Side effects of the infection include soores, boils, or abscesses, and treatment can last for months. Even more frighteningly, infection can kill in as little as 24 hours in some cases. Proteus, a bacterium found in animal intestines. This may not kill you, but it'll give you a very painful urinary tract infection, anthrax. Most people"
+    },
+    {
+      "id": 252,
+      "debut": 10512.16,
+      "fin": 10548.56,
+      "temps_estime": false,
+      "titre": "Anthrax on money: natural occurrence and danger with open wounds",
+      "resume": "Anthrax is best known as a bioweapon but occurs naturally and frequently in soil around farms worldwide. As an aerosol it is durable, survives years without moisture and kills fairly quickly. It appears on currency in quantities too small to be a public health hazard, but handling infected money with an open cut could be life-threatening.",
+      "mots_cles": [
+        "anthrax",
+        "bioweapon",
+        "soil bacteria",
+        "aerosol",
+        "open cut",
+        "infected money",
+        "public health hazard",
+        "pathogens on cash"
+      ],
+      "texte": "know this from its deadly [music] use as a boweapon, but may be surprised that it occurs naturally and extremely frequently in soil on or around farms all over the world. In its weaponized form, anthrax is spread as an aerosol, and the bacterium is frighteningly perfect for this role. It is extremely durable and can survive for years with no moisture, and once infection sets in, death is relatively quick. While it appears in small enough quantities and currency to not be a public health hazard, should you handle infected money with an open cut or soar on your hand, you could be in for a fight for your life. Turns out our money is absolutely"
+    },
+    {
+      "id": 253,
+      "debut": 10548.56,
+      "fin": 10567.92,
+      "temps_estime": false,
+      "titre": "Conclusion: money is teeming with germs, calls to go cashless",
+      "resume": "Money teems with viruses, bacteria and human waste, so many people call for a cashless society. US government studies have not linked dirty money to disease outbreaks, but limiting contact with money or washing hands after handling it could not hurt.",
+      "mots_cles": [
+        "cashless society",
+        "dirty money conclusion",
+        "viruses bacteria",
+        "human waste",
+        "US government studies",
+        "disease outbreaks",
+        "wash hands",
+        "go cashless"
+      ],
+      "texte": "teeming with viruses, bacteria, and all matter of human waste. Little surprise then that many people are calling for society to go cashless. While studies by the US government have not shown a link between our dirty money [music] and disease outbreak, it certainly couldn't help to limit how much contact you have with money or at least wash your hands after handling it. Think you know where"
+    },
+    {
+      "id": 254,
+      "debut": 10567.92,
+      "fin": 10593.76,
+      "temps_estime": false,
+      "titre": "Intro: the wealth ladder and why you are poorer than you think",
+      "resume": "A new Infographics Show episode asks whether you know where you stand on the wealth ladder, from blue-collar workers scraping by and the myth of the middle class to millionaires and billionaires. It promises to break down the degrees of wealth, show how wide the spectrum is and why viewers are poorer than they think.",
+      "mots_cles": [
+        "wealth ladder",
+        "degrees of wealth",
+        "middle class myth",
+        "millionaires billionaires",
+        "modern inequality",
+        "poorer than you think",
+        "Infographics Show",
+        "wealth spectrum"
+      ],
+      "texte": "you stand on the wealth ladder? Think again. From bluecollar workers scraping by [music] to the myth of the middle class and the heights of millionaires and billionaires, the spectrum of wealth is wider [music] than most people realize. Whether you think you're doing okay or barely keeping up, the truth about modern inequality may [music] surprise you. On today's episode of the Infographic Show, we're breaking down the degrees of wealth and why you are poorer than [music] you think. It's easy"
+    },
+    {
+      "id": 255,
+      "debut": 10593.76,
+      "fin": 10618.0,
+      "temps_estime": false,
+      "titre": "The six-rung ladder of wealth",
+      "resume": "Wealth is often seen as a simple divide of rich and everyone else, but imagine everyone on Earth on a ladder with rungs for each wealth level. Models use five, seven or nine steps; the video keeps six, from the ultra-wealthy elite at the top to the lowest rung where people survive on a few dollars a day.",
+      "mots_cles": [
+        "wealth ladder",
+        "six levels of wealth",
+        "ultra-wealthy",
+        "wealth classes",
+        "lowest rung",
+        "few dollars a day",
+        "global wealth distribution",
+        "rungs"
+      ],
+      "texte": "to think of wealth as a simple divide, the rich at the top and everyone else below. But imagine every person on Earth placed on a vast ladder, each rung marking a different level of wealth. Some break it into five steps, others seven or even nine. But for ease, we'll keep it to six. From the ultra-wealthy elite at the very [music] top to the lowest rung, where people survive on just a few dollars a day. At the very"
+    },
+    {
+      "id": 256,
+      "debut": 10618.0,
+      "fin": 10650.72,
+      "temps_estime": false,
+      "titre": "Top rung: the richest class (abundance) and its influence",
+      "resume": "Less than 0.1% of the population sits at the top, holding more wealth than entire countries; some models call this level abundance, people with more money than they can spend. They own multiple homes, fly private jets and drive sports cars, but their real power is influence: their financial assets can move global markets.",
+      "mots_cles": [
+        "richest class",
+        "abundance",
+        "0.1% of population",
+        "private jets",
+        "multiple homes",
+        "financial influence",
+        "global markets",
+        "top of the ladder"
+      ],
+      "texte": "top of the ladder sits [music] the richest class, less than 0.1% of the population, yet holding more wealth than entire [music] countries. Some models call this level abundance. Those with more money than they could [music] ever spend. Not that it stops them from trying. Most of the people in this degree of wealth might own multiple homes around the world, [music] fly in private jets, and drive expensive sports cars. But beyond the lifestyle, their real power lies in influence. They control so many financial assets that their decisions can affect entire global markets. [music]"
+    },
+    {
+      "id": 257,
+      "debut": 10650.72,
+      "fin": 10692.56,
+      "temps_estime": false,
+      "titre": "The $100 million tier: 800,000 people with 11% of global wealth",
+      "resume": "Joining this group takes a net worth of at least $100 million, roughly 800,000 people worldwide who control about 11% of global wealth; only 0.03% of the world's population flies private jets and nearly a third come from this tier. The video argues luxury toys are a result, not the cause, of wealth; the real benefit is the financial freedom large capital gives.",
+      "mots_cles": [
+        "$100 million net worth",
+        "800,000 people",
+        "11% of global wealth",
+        "private jet flyers",
+        "0.03% of population",
+        "financial freedom",
+        "luxury toys",
+        "ultra-high net worth"
+      ],
+      "texte": "Joining this group takes a net worth of at least $100 million. That's roughly $800,000 people worldwide. Yet, they control about 11% of all global wealth. To put that into perspective, only 0.03% 03% of the world's [music] population flies on private jets, and nearly a third of them come from this tier alone. [music] But wealth here isn't just measured in luxury toys. One of the most common misconceptions about wealth is that the superficial elements are what makes [music] someone wealthy, when really it is the other way around. Their access to vast capital gives them an extreme level of financial freedom, the power to do whatever they want when they want, and it's all [music] thanks to the endless zeros stacked into their bank accounts."
+    },
+    {
+      "id": 258,
+      "debut": 10692.56,
+      "fin": 10733.04,
+      "temps_estime": false,
+      "titre": "Billionaires: 3,000 people owning a third of the wealth",
+      "resume": "About 3,000 billionaires own roughly one third of the wealth, and over a third of the world's 50 biggest corporations, worth a combined $13.3 trillion, are run or substantially owned by billionaires. The richest 1% hold more than the bottom 95% combined, and billionaire wealth keeps growing exponentially, giving them massive influence over global economies.",
+      "mots_cles": [
+        "billionaires",
+        "3,000 billionaires",
+        "one third of wealth",
+        "50 biggest corporations",
+        "$13.3 trillion",
+        "richest 1%",
+        "bottom 95%",
+        "wealth concentration"
+      ],
+      "texte": "But even within this elite club, there's a smaller circle still. Those who stand at the very peak of global riches. There might only be 3,000 billionaires in the world, but between them, they own onethird of the wealth. Over a third of the world's 50 biggest corporations [music] worth a combined 13.3 trillion are run by billionaires or have one as a major shareholder. To put that into perspective, the richest 1% [music] of the people hold more wealth than the bottom 95% of the population combined. The wealth of billionaires has continued to increase exponentially, [music] especially over the last few years, and this has enabled them to have massive influence over global economies. At the"
+    },
+    {
+      "id": 259,
+      "debut": 10733.04,
+      "fin": 10773.84,
+      "temps_estime": false,
+      "titre": "Elon Musk at the top rung and the borderless ultra-wealthy",
+      "resume": "Elon Musk is the wealthiest person in the world; as of 2025 his fortune grows by $7,000 to $10,000 every second, with a net worth of about $400 billion. The top rung's billionaires live in a world of their own, unaffected by borders, free to live, operate and bank wherever they choose, often in tax havens built to protect their wealth.",
+      "mots_cles": [
+        "Elon Musk",
+        "wealthiest person",
+        "$400 billion net worth",
+        "$7,000 per second",
+        "billionaires",
+        "tax havens",
+        "borderless wealth",
+        "top rung"
+      ],
+      "texte": "time of writing, there is one [music] man sitting at the top of the ladder. Elon Musk is the wealthiest person in the world with an abundance of both net worth and painfully unfunny memes. As of 2025, his fortune grows at a staggering [music] rate of $7,000 to $10,000 every single second. His net worth calculated as total assets minus liabilities stands at a staggering $400 billion. So that is our top rung. The billionaires and the ultra wealthy who are living in a world of their own. Their wealth isn't affected by borders. [music] They have the freedom to live, operate, and bank wherever they choose, often in tax havens [music] designed to protect and grow their wealth. Anyone with at least"
     }
   ]
 }
