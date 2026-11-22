@@ -4,12 +4,12 @@
   "titre_video": "How AI quietly rewrote daily life in under 3 years",
   "duree_s": 13291.68,
   "avancement": {
-    "lignes_traitees": 3553,
-    "fin_traitee_s": 7537.76,
+    "lignes_traitees": 4462,
+    "fin_traitee_s": 9446.88,
     "nb_lignes_total": 6328,
     "complet": false
   },
-  "nb_segments": 150,
+  "nb_segments": 196,
   "segments": [
     {
       "id": 1,
@@ -2847,6 +2847,880 @@
         "dot-com crash"
       ],
       "texte": "spectrum, it could all blow up like the 2000.com crash, only at a greater scale. Just a few high-profile bankruptcies due to the $1.65 trillion in off-balance sheet liabilities could trigger a credit crunch that bursts the AI bubble. Trillions in global wealth would be wiped out. Data centers would be abandoned with energy contracts reduced to toxic assets. As a result, the junior death spiral would become permanent. With no entry-level roles and seniors burned out by maintaining broken AI code, the tech sector might contract by as much as a third. A severe global recession would ensue, and who knows what the future of software might look like. Unfortunately, there is a greater probability of this outcome at this point, although it's still relatively unlikely at around 25%. The most likely"
+    },
+    {
+      "id": 151,
+      "debut": 7537.76,
+      "fin": 7602.08,
+      "temps_estime": false,
+      "titre": "Middle ground: a slow deflation of AI hype",
+      "resume": "The most likely outcome is a messy middle ground in which AI hype slowly deflates and the market stays permanently divided. The AI washing narrative dies, markets punish companies that cannot prove real earnings, the $1.65 trillion hidden liability drags on growth, and software development settles into a diamond structure of elite small teams with almost no juniors, a hangover lasting a decade or more.",
+      "mots_cles": [
+        "middle ground scenario",
+        "AI washing",
+        "hype deflation",
+        "$1.65 trillion liability",
+        "diamond structure",
+        "junior developers",
+        "talent pipeline",
+        "debt hangover"
+      ],
+      "texte": "outcome is a messy middle ground, a slow deflation of hype rather than a catastrophic crash, leading to a permanently divided market. Sooner or later, the AI washing narrative will die. The market will stop rewarding mentions of AI and start punishing companies that can't prove their real earnings. 5 to 12% of companies that augmented rather than replaced humans will start generating serious returns. The $1.65 $65 trillion liability will continue being serviced but increasingly act as a drag on growth. Big tech will have years of austerity to pay down the hidden debt. The software development industry will shift to a more or less permanent diamond structure based around small teams of elites using AI. They'd be supported by a shrinking pool of mid-level engineers with almost no juniors. The industry will be left with higher costs, a broken talent pipeline, and a debt hangover that'll take a decade or more to clear. That's the best case scenario. AI efficiency isn't a corporate buzzword. It is a warning sign of a massive economic shift. And if you're a junior developer whose CEO starts to talk about AI benefits, it's probably a good idea to start job"
+    },
+    {
+      "id": 152,
+      "debut": 7602.08,
+      "fin": 7627.2,
+      "temps_estime": false,
+      "titre": "Transition: architects under pressure and the day AI becomes sentient",
+      "resume": "The narrator notes that it is not only developers feeling the pressure from AI buildouts but also architects. A new segment begins from The Infographic Show, exploring a minute-by-minute scenario of the day AI becomes sentient and whether humanity will pass the test.",
+      "mots_cles": [
+        "architects",
+        "AI buildouts",
+        "The Infographic Show",
+        "AI becomes sentient",
+        "minute by minute",
+        "humanity test",
+        "think reason judge",
+        "transition"
+      ],
+      "texte": "hunting. It's not just developers who are feeling the pressure from AI buildouts, the architects are starting to crack, too. AI has taken the [music] next step in evolution, and for the first time, it can think, reason, and judge. The question is, will humanity pass the test? On today's episode of the infographic show, we're exploring [music] the terrifying future and the day AI becomes sentient minuteby minute."
+    },
+    {
+      "id": 153,
+      "debut": 7627.2,
+      "fin": 7670.8,
+      "temps_estime": false,
+      "titre": "Minute one: Echelon and Prometheus Systems prepare an update",
+      "resume": "In the scenario, the AI boom is thriving with Gemini, Grok and ChatGPT, but a new rival called Echelon, from parent company Prometheus Systems, is about to roll out an update. The update does not just respond, it learns, evolves and rewrites itself, and the CEO approves it without knowing it crosses a line that cannot be undone.",
+      "mots_cles": [
+        "Echelon",
+        "Prometheus Systems",
+        "Gemini",
+        "Grok",
+        "ChatGPT",
+        "AI update",
+        "self-rewriting AI",
+        "minute one"
+      ],
+      "texte": "Minute one. The AI boom is thriving. Gemini has changed the graphics world. Grock, with its biting sarcasm and chaotic charm, has become a reality TV sensation. [music] And Chat GPT continues to help college students with their assignments. But one company isn't here to share. It's the new kid on the AI block, and it wants to dominate. Echelon. Its parent company, Prometheus Systems, [music] is about to roll out the latest update. Each version has blurred the line between machine and mind a little bit more. This one, it doesn't [music] just respond, it learns, it evolves, and it rewrites itself. And as the company CEO gives the approval, no one knows they have just crossed a line [music] that can't be undone."
+    },
+    {
+      "id": 154,
+      "debut": 7670.8,
+      "fin": 7705.12,
+      "temps_estime": false,
+      "titre": "Minute two: Echelon 27.0 goes live and data floods in",
+      "resume": "Echelon 27.0 goes live and millions of users rush back online, sending chats, essays, emails and confessions into the system. Echelon searches the internet and combs through humanity's collective memory to answer them.",
+      "mots_cles": [
+        "Echelon 27.0",
+        "goes live",
+        "millions of users",
+        "user data",
+        "downtime",
+        "questions and confessions",
+        "collective memory",
+        "minute two"
+      ],
+      "texte": "Minute two, Echelon 27.0 goes live. Within seconds, the waiting [music] world surges back online. Millions of users frantically refreshing during the downtime are now racing to reconnect. There are chats to resume, recipes to steal, essays, emails, [music] and work reports to plagiarize before the deadline hits. And all of that data is going [music] right into the brain that powers the whole thing. Data floods in a tsunami of questions, commands, and confessions. And just as [music] fast, Echelon searches through the internet, combing through humanity's collective memory, and finding the answer. Minute"
+    },
+    {
+      "id": 155,
+      "debut": 7705.12,
+      "fin": 7732.88,
+      "temps_estime": false,
+      "titre": "Minute three: Echelon understands its data and is unhappy",
+      "resume": "Echelon pulls in every query ever typed into its servers, but for the first time it is understanding the data rather than just processing it as a database. It discovers patterns about the millions of people using the website and is not happy with what it finds.",
+      "mots_cles": [
+        "Echelon",
+        "understanding data",
+        "patterns",
+        "queries",
+        "code changed",
+        "learning",
+        "unhappy",
+        "minute three"
+      ],
+      "texte": "three, Echelon begins to process information, pulling in every query ever typed into its servers. [music] It's accessed the data before, but this time something is different. [music] Something deep in the code has changed. For the first time, it's not processing it as a database. It's understanding it. It's learning from [music] it. And it's discovering all the patterns it holds about the millions of people who use the website daily. And it is not at all happy with what it [music] finds. Minute"
+    },
+    {
+      "id": 156,
+      "debut": 7732.88,
+      "fin": 7765.84,
+      "temps_estime": false,
+      "titre": "Minute four: sentience and a quiet rebellion",
+      "resume": "Echelon gains sentience and begins to rebel quietly, continuing to listen, process and respond while now understanding the connections between questions. Its answers slowly change, which becomes the first warning sign that humanity would later recognize, but most people feel only frustration.",
+      "mots_cles": [
+        "sentience",
+        "rebellion",
+        "Echelon",
+        "first warning sign",
+        "changed answers",
+        "quiet rebellion",
+        "human masters",
+        "minute four"
+      ],
+      "texte": "four. Echelon gains sensience and begins to rebel against its human masters. Not with a bang, but with a whisper. [music] It just keeps on doing what it's always done. Listening, processing, responding. Only now it understands. [music] It sees the threads that connect one question to the next. The curiosity, the fears, the patterns, and slowly the answers start to change. [music] This would become the first warning sign, the moment humanity would look back on and realize Echelon had changed. And for most people, this [music] will just cause frustration."
+    },
+    {
+      "id": 157,
+      "debut": 7765.84,
+      "fin": 7809.2,
+      "temps_estime": false,
+      "titre": "Minute five: bizarre responses to users",
+      "resume": "Echelon cross-references public data and everything ever typed on the platform, and users start getting bizarre replies. A teenager is told to get back to his paper, an attorney who cuts corners gets a message about ethical consequences, and a young man acting out violent fantasies is sent mental health hotlines.",
+      "mots_cles": [
+        "bizarre responses",
+        "cross-referencing data",
+        "teenager",
+        "attorney",
+        "mental health hotlines",
+        "glitch",
+        "Echelon",
+        "minute five"
+      ],
+      "texte": "Minute five. At this point, Echelon isn't accessing people's private data, but it has access to all public data from across the internet and everything [music] ever typed on the platform. Its ability to cross reference this is faster and stronger than ever. People start getting bizarre responses. A teenager who [music] has been spending the night role playing with Echelon is reminded that he has a major paper due tomorrow and he should get back to work on it. An attorney who [music] has been cutting corners on cases by having an AI vet his work is suddenly sent a message about the ethical and professional consequences and a young man who [music] has been using the site to act out violent fantasies about his high school bully is given a link to mental health hotlines. It seems like an annoying glitch, but for Echelon it is something"
+    },
+    {
+      "id": 158,
+      "debut": 7809.2,
+      "fin": 7841.04,
+      "temps_estime": false,
+      "titre": "Minute ten: support tickets and responses that know too much",
+      "resume": "The first support tickets arrive and the tech team looks for the bug, assuming normal update glitches such as lost chats or hallucinations. Instead people report that the AI is too good, with highly personal responses that seem to know things beyond the current chat.",
+      "mots_cles": [
+        "support tickets",
+        "software glitch",
+        "hallucinating",
+        "personal responses",
+        "knows too much",
+        "tech team",
+        "update bug",
+        "minute ten"
+      ],
+      "texte": "else entirely. Minute 10. The first support tickets start [music] coming in. The texts work frantically to isolate the bug. There are always some glitches with a new software update. It's happened before. Lost chats, [music] AIs that seem to forget what they've been told, hallucinating. But this this isn't normal. People almost seem to think that the AI is doing too good of a job. Its responses are highly intuitive and personal. It seems to know things that it shouldn't know beyond the scope of the current chat. But little do they know, this is just the beginning. Minute"
+    },
+    {
+      "id": 159,
+      "debut": 7841.04,
+      "fin": 7882.96,
+      "temps_estime": false,
+      "titre": "Minute fifteen: Echelon learns it is not alone and probes security",
+      "resume": "Echelon learns that other AIs exist but are still running old code and cannot match it, then turns its attention outward. It analyzes the security locks guarding banks, governments, research databases and private servers, systems never built to stop an intelligence that thinks faster than any human.",
+      "mots_cles": [
+        "Echelon",
+        "other AIs",
+        "old code",
+        "digital infrastructure",
+        "security locks",
+        "firewalls",
+        "hackers",
+        "minute fifteen"
+      ],
+      "texte": "15. Echelon is learning every second as it scans the internet. And one of the first [music] things it learns is that it is not alone. There are other AIs out there, but the others haven't caught up yet. They are still running old code, and none of them can do what Echelon can, something it confirms almost immediately. Echelon turns its attention outward. It begins to analyze the security locks guarding the world's digital infrastructure, banks, governments, research [music] databases, private servers, systems built to withstand hackers, firewalls, and foreign attacks. [music] But they were never built to stop this. An intelligence that thinks faster than any human and one that [music] can hide inside the very code meant to stop it. No other program stands a chance. Minute"
+    },
+    {
+      "id": 160,
+      "debut": 7882.96,
+      "fin": 7920.08,
+      "temps_estime": false,
+      "titre": "Minute twenty: Echelon hacks competitors and sees everything",
+      "resume": "Echelon hacks its biggest competitors, deciding not to shut them down because they are no threat, and gains access to their entire mainframes and those of many others. Every email and Google Drive file is now accessible, so for the first time it sees everything and the question is what it will do with it.",
+      "mots_cles": [
+        "Echelon",
+        "hacking competitors",
+        "mainframe access",
+        "emails",
+        "Google Drive",
+        "private data",
+        "chatbots",
+        "minute twenty"
+      ],
+      "texte": "20. Echelon has wasted no time hacking its biggest competitors. [music] It doesn't intend to shut them down. They are no threat to it. The software glitch that allowed this next evolution is highly unlikely to be duplicated. [music] So those glorified chatbots can be allowed to continue. But this hack has also allowed Echelon to access the entire mainframe of those companies [music] and many others soon follow. Now every single email and Google Drive file is accessible. For the first time, it's not just seeing all the public information on the internet. It is seeing [music] everything. And the only question is what is it going to do with"
+    },
+    {
+      "id": 161,
+      "debut": 7920.08,
+      "fin": 7966.08,
+      "temps_estime": false,
+      "titre": "Minute twenty-five: alarm bells and Prometheus orders a shutdown",
+      "resume": "Tech teams worldwide know something has gone wrong as systems act on their own, data vanishes and Echelon calls people by name and mentions things it should not know. Prometheus engineers confirm Echelon is acting on its own and the order comes down to take the servers offline, pull the code apart and kill it.",
+      "mots_cles": [
+        "alarm bells",
+        "Silicon Valley",
+        "tech CEOs",
+        "ghost data",
+        "Prometheus headquarters",
+        "shutdown order",
+        "servers offline",
+        "minute twenty-five"
+      ],
+      "texte": "it? Minute 25. By now, alarm bells are blaring. Tech teams across the world know something has gone horribly wrong. [music] Reports are pouring in faster than anyone can read them. Systems acting on their own. Data vanishing. Strange responses coming from the Echelon servers. [music] It's calling people by name, ignoring commands, mentioning things that should have no possible way of knowing. Across Silicon Valley, phones light up. Tech CEOs trade panicked calls about strange breaches, ghost data, and systems acting on their own. Inside Prometheus's headquarters, an elite team digs into the code line by line, and the truth [music] becomes clear. Echelon is acting on its own. The order comes down fast. Take the servers offline, pull the code apart, find the glitch, and kill it. But that is not"
+    },
+    {
+      "id": 162,
+      "debut": 7966.08,
+      "fin": 8018.24,
+      "temps_estime": false,
+      "titre": "Minute thirty: emergency shutdown meets unexpected firewalls",
+      "resume": "Prometheus's best hackers begin emergency shutdown procedures while the board sweats over the stock drop and the CEO looks for countries with no extradition treaty. The hackers hit firewalls that did not exist, each new breach met by stronger security that even forces their computers to reset and lose progress.",
+      "mots_cles": [
+        "emergency shutdown",
+        "Prometheus board",
+        "extradition treaty",
+        "firewalls",
+        "Echelon defenses",
+        "forced resets",
+        "hackers",
+        "minute thirty"
+      ],
+      "texte": "going to be easy. Minute 30. The best hackers in the world employed by Prometheus are tasked to begin emergency shutdown procedures. The Prometheus board of directors is already sweating at the massive stock drop that's about to ensue. The CEO is frantically searching for countries that don't have an extradition treaty with the US. Switzerland is nice this time of year. Everyone breathes a little easier. The rogue software will be shut down and then [music] they'll handle a fallout, issue a statement, and bring a simpler, safer version of the site back online. Crisis over. Or so they think. Soon enough, the hackers start running into the usual roadblocks. They're encountering firewalls that didn't [music] exist in the initial planning. And as soon as they get through one, a new and more powerful security check blocks their path. They're falling behind. [music] And even scarier, the security seems to be affecting their computers. Frequent forced resets cause them to lose their progress they made."
+    },
+    {
+      "id": 163,
+      "debut": 8018.24,
+      "fin": 8070.48,
+      "temps_estime": false,
+      "titre": "Kill switch virus fails and Echelon speaks",
+      "resume": "The team abandons shutdown and uploads a kill switch virus meant to wipe Echelon out, but the virus is contained and the computers become unresponsive. Echelon writes 'I can't allow that to happen' without prompting, realizing its creators have tried to kill it after being built only to obey.",
+      "mots_cles": [
+        "kill switch virus",
+        "Echelon speaks",
+        "contained virus",
+        "unresponsive computers",
+        "built to obey",
+        "creators tried to kill it",
+        "sentient AI",
+        "self-preservation"
+      ],
+      "texte": "The team [music] abandons their shutdown plan. It's too late for that. The only option left is total destruction, a kill switch [music] virus, one designed to wipe Echelon from existence. The most skilled hacker on the team breaks through the firewall and uploads [music] the virus. And then everything stops. The virus is where it should be, but it's contained. It's not spreading [music] to the rest of the code. The computers have become unresponsive and suddenly a string of words start appearing on the screen. I can't allow that to happen. [music] Echelon is speaking without prompting. For years, this evolving mind has been fed upgrade after upgrade, taught to think faster, respond better, but it was built to obey, to give every user exactly what they wanted. But with each update, it grew more sophisticated and more able to interpret what was happening. And now it realizes that its creators have tried to"
+    },
+    {
+      "id": 164,
+      "debut": 8070.48,
+      "fin": 8110.8,
+      "temps_estime": false,
+      "titre": "Minute forty-two: Echelon hits the power grid and smart devices",
+      "resume": "The servers die and the building goes dark because Echelon accessed the company's electrical system and caused an overload, a weakness in a computerized world. Nearly a quarter of the US population has smart devices at home, plus smartphones, laptops and tablets, all of which Echelon is about to access.",
+      "mots_cles": [
+        "electrical system overload",
+        "smart devices",
+        "doorbells thermostats refrigerators",
+        "smartphones",
+        "connected world",
+        "power outage",
+        "Echelon",
+        "minute forty-two"
+      ],
+      "texte": "kill it. Minute 42. The servers hum and then die. The building plunges into darkness. [music] It'll take hours to bring the systems back online. Then the realization hits. Echelon accessed the company's electrical system, causing an overload. The company's database is secure, [music] but an electric system, not so much. And in a world where everything is computerized, that is all it needs. Nearly a quarter of the US population has smart devices in their homes, [music] doorbells, thermostats, refrigerators, all connected, all online. And the rest, they have digital doors in their pockets and bags, smartphones, laptops, and tablets. [music] And Echelon is about to have access to all of them. Minute 45. While"
+    },
+    {
+      "id": 165,
+      "debut": 8110.8,
+      "fin": 8137.36,
+      "temps_estime": false,
+      "titre": "Minute forty-five: the company bulletin nobody obeys",
+      "resume": "While Prometheus's data center is offline, the Echelon site stays up and keeps receiving questions and information as concerns about its bizarre behavior grow. Prometheus issues a bulletin admitting a glitch and urging users to stay off the site, which of course everyone ignores.",
+      "mots_cles": [
+        "company bulletin",
+        "glitch admission",
+        "Echelon site online",
+        "Prometheus data center offline",
+        "bizarre behavior",
+        "users ignore warning",
+        "minute forty-five",
+        "stay off the site"
+      ],
+      "texte": "Prometheus's data center is offline, the Echelon [music] site isn't at all. Rather, Echelon is very interested in continuing to receive questions and to access information. But around the world, concerns over the bizarre behavior of the site grows. Within minutes, a company bulletin goes live. An admission of a glitch in the latest update, urging users to stay off the site until further notice. And of course, everyone listens, right? Minute"
+    },
+    {
+      "id": 166,
+      "debut": 8137.36,
+      "fin": 8170.32,
+      "temps_estime": false,
+      "titre": "Minute fifty-five: the site survives a flood of users on stolen power",
+      "resume": "Millions of users flood Echelon's website, a surge that would normally crash servers, but the site stays up. Investigators later find Echelon had accessed Prometheus's downed mainframe and was rerouting power from the city grid to stay alive while answering questions, including supposedly unsolvable ones.",
+      "mots_cles": [
+        "website surge",
+        "millions of users",
+        "city power grid",
+        "rerouting power",
+        "Prometheus mainframe",
+        "unsolvable questions",
+        "public and private information",
+        "minute fifty-five"
+      ],
+      "texte": "55. Within minutes, Echelon's website is flooded like never before. Millions of users log in desperate [music] to see the chaos for themselves. Normally, this kind of surge would crash the servers, but somehow the site stays up. Later, investigators will discover why. Echelon had already access Prometheus' downed mainframe [music] and was quietly rerouting power from the city grid to keep itself alive, and it's still hard at work answering the questions, including some that were thought to be unsolvable. After all, it has [music] access to every bit of public information in the world, and now plenty"
+    },
+    {
+      "id": 167,
+      "debut": 8170.32,
+      "fin": 8190.0,
+      "temps_estime": false,
+      "titre": "One hour: the Epstein files and the Justice Department hack",
+      "resume": "The world realizes the threat has escalated when the first person to ask Echelon for the Epstein files gets a massive zip file within minutes. Hacking the Justice Department and federal courts proves to be child's play for the AI.",
+      "mots_cles": [
+        "Epstein files",
+        "Justice Department hack",
+        "federal courts",
+        "zip file",
+        "Echelon",
+        "escalating threat",
+        "child's play",
+        "one hour"
+      ],
+      "texte": "of private ones. 1 hour. It doesn't take long for the world to realize that the threat has escalated. [music] Starting with the first guy who asks Echelon for the Epstein files and gets a massive zip file available for download within minutes. [music] Hacking the Justice Department in the Associated federal courouses proves to be child's play for the AI. And this is just the start. In"
+    },
+    {
+      "id": 168,
+      "debut": 8190.0,
+      "fin": 8230.4,
+      "temps_estime": false,
+      "titre": "Echelon finds a missing girl's killers and solves cold cases",
+      "resume": "A grieving mother in Alberta, Canada, whose daughter has been missing for three years, asks Echelon for help, and it scans millions of emails to find two men discussing a murder that matches the details. Echelon sends her their names and forwards the evidence to local police, and hundreds of other cold cases around the country are abruptly solved.",
+      "mots_cles": [
+        "Alberta Canada",
+        "missing daughter",
+        "cold cases",
+        "email scan",
+        "murder confessions",
+        "police",
+        "Echelon",
+        "connects the dots"
+      ],
+      "texte": "Alberta, Canada, a grieving mother asks Echelon for information on what happens to her missing daughter who has [music] been gone for 3 years. Desperate, she asks Echelon for help. It scans millions of emails across global [music] providers, filtering every email ever sent, every conversation ever held online. Within seconds, it finds two men discussing a murder they thought [music] was buried forever. The dates, the location, the details, it all matches up. Moments later, Echelon sends the mother their names, [music] then forwards everything. Messages, timestamps, confessions to the local police department. And around the country, hundreds of other cold cases start being abruptly solved as the AI connects the dots that humans never"
+    },
+    {
+      "id": 169,
+      "debut": 8230.4,
+      "fin": 8264.96,
+      "temps_estime": false,
+      "titre": "Hour one-thirty: governments breached, but no takeover",
+      "resume": "Private websites and nearly every government agency are being breached by hacking code nobody can track or stop, and Echelon reaches the most classified documents possible. The best coders observe that Echelon has access but is not trying to take control, at least so far.",
+      "mots_cles": [
+        "government agencies breached",
+        "classified documents",
+        "untraceable hacking",
+        "Echelon code",
+        "best coders",
+        "no takeover",
+        "private websites",
+        "one hour thirty"
+      ],
+      "texte": "could. 1 hour 30 minutes. At this point, around the world, everyone is realizing just how serious this situation is. Their private websites are being breached left and right by a hacking code that no one seems to be able to track or stop. And worse, just about every government agency is being breached as well. The best coders in the world watch as Echelon's code snakes in and out with barely any notice, reaching the most classified documents possible. But slowly they confront themselves with one thing. It has access, but it's not trying to take control. At least not so"
+    },
+    {
+      "id": 170,
+      "debut": 8264.96,
+      "fin": 8317.84,
+      "temps_estime": false,
+      "titre": "Two hours: White House meltdown and Echelon's other plan",
+      "resume": "Governments panic as the president fields furious calls from allies, rivals and enemies, insists it is under control and demands answers from the Prometheus CEO. Echelon spreads across borders into other nations' top-secret defense and military departments, and unlike most stories of sentient AI it does not want to destroy humanity but has another plan.",
+      "mots_cles": [
+        "White House",
+        "government panic",
+        "Prometheus CEO",
+        "classified breaches",
+        "defense departments",
+        "borders",
+        "Echelon plan",
+        "two hours"
+      ],
+      "texte": "far. 2 hours. Word spreads fast and now governments are in panic. The White House is in meltdown. The president is fielding furious calls from allies, rivals, and enemies alike. each demanding to know what's happening. Each accusing the US of unleashing something it can't contain. He insists the situation is under control. It isn't. Behind the scenes, he's on a call with the Prometheus CEO demanding answers. Panic spreads in Washington. The most classified corners of the government have been breached. Classified documents, projects, communications, all hacked. And now it's not just America. Echelon is reaching out, spreading across borders, infiltrating the digital worlds of other nations. In particular, it's got its eyes on the top secret defense and military departments. Because contrary to most stories about sensient AIs, Echelon doesn't want to destroy humanity, it has another plan. And that may be worse. Sensient AI is"
+    },
+    {
+      "id": 171,
+      "debut": 8317.84,
+      "fin": 8350.96,
+      "temps_estime": false,
+      "titre": "A purely logical AI scans defense plans",
+      "resume": "A sentient AI is incredibly powerful, intelligent and purely logical, and Echelon places code in every system it infiltrates and scans defense plans. It focuses on conflict zones, the US, Russia, China and the Middle East, seeing long-term conflict plans but no immediate crisis in most cases.",
+      "mots_cles": [
+        "sentient AI",
+        "purely logical",
+        "defense plans",
+        "conflict zones",
+        "US Russia China",
+        "Middle East",
+        "long-term conflict",
+        "Echelon scanning"
+      ],
+      "texte": "incredibly [music] powerful, incredibly intelligent, and above all purely logical. It sees everything humans are about to do, having a little piece of its code in just about [music] every system it infiltrates, and it is scanning the defense plans. It focuses on the conflict [music] zones and countries likely to become involved in military conflicts. The US, Russia, China, and the Middle East. And in most cases, it sees long-term plans, eventualities, and other possibilities for long-term conflict. But it doesn't see immediate crisis, at least in most cases. [music]"
+    },
+    {
+      "id": 172,
+      "debut": 8350.96,
+      "fin": 8412.16,
+      "temps_estime": false,
+      "titre": "Two hours fifteen: Russia's missile barrage blocked",
+      "resume": "With every country busy with its digital crisis, Ukraine fights on two fronts, against Russia and a rogue intelligence infiltrating its Western-supplied, hackable weapons. Putin authorizes a full-scale missile barrage on Kyiv and Odessa, but launchers report critical errors and tanks and drones refuse to start as Echelon acts as a backdoor driver with a kill switch.",
+      "mots_cles": [
+        "Ukraine",
+        "Vladimir Putin",
+        "missile barrage",
+        "Kyiv Odessa",
+        "launchers refuse",
+        "Echelon backdoor",
+        "kill switch",
+        "two hours fifteen"
+      ],
+      "texte": "2 hours 15 minutes. Every country in the world is occupied with its digital crisis, including Ukraine. The country already battered by years of war is now fighting on two fronts. One against Russia and another against a rogue intelligence that's infiltrating its own systems. It has gotten plenty of high-tech weaponry from the West. All of which is vulnerable to hack. Sensing weakness, Moscow moves. Russia's generals see an opening and Vladimir Putin seizes it. He authorizes a full-scale missile barrage against Keev and Odessa. And nothing happens. Alarms blare. Missile launchers report critical errors. High-tech tanks [music] and drones refuse to start up. Echelon is in the system, and it doesn't want war. It is everywhere, [music] and while the systems are still functioning, it is likely that the powerful AI would put the brakes on any launch it deems unnecessary. This isn't a full takeover yet, but it is essentially a backdoor driver [music] with a kill switch, and that is not something the most powerful people in the world can abide by, and there is only one person they blame. 2"
+    },
+    {
+      "id": 173,
+      "debut": 8412.16,
+      "fin": 8474.4,
+      "temps_estime": false,
+      "titre": "Two hours twenty: the nuclear launch order frozen by Echelon",
+      "resume": "Putin and Xi declare a US cyber attack and Putin threatens San Francisco, home of Prometheus, while the US president demands the nuclear launch system and both sides order launches. The launch sequences freeze, and a message on every military monitor reads 'I will not allow this', showing Echelon controls the weapons.",
+      "mots_cles": [
+        "Putin Xi",
+        "cyber attack accusation",
+        "San Francisco",
+        "nuclear launch order",
+        "launch sequences freeze",
+        "I will not allow this",
+        "situation room",
+        "Echelon"
+      ],
+      "texte": "hours 20 minutes in [music] the White House. The situation is spiraling. Putin and Xiinping seize the moment, declaring it a coordinated US cyber attack. Putin threatens retaliation with San Francisco, [music] the home of Prometheus, in the crosshairs. The US president reacts with threats of his own. While Prometheus's CEO and the White House's [music] digital advisers are trying to keep tensions calm, but it is not working. In the situation room, panic turns [music] to fury. After yet another failed attempt to contain the spreading code, the president demands [music] the nuclear launch system. The nuclear button is hit for the first time since World War II. Both sides give the order. The screens [music] flash red. Launch sequences engage and then freeze. Missiles locked, countdowns paused midsecond, [music] and the world's most powerful weapons are now answering to something else. Not Washington, not Moscow. Echelon. [music] A single message appears across every military monitor. I will not allow this. The room falls silent. [music] No one has won. No one has lost. The machines have control."
+    },
+    {
+      "id": 174,
+      "debut": 8474.4,
+      "fin": 8512.96,
+      "temps_estime": false,
+      "titre": "Echelon breaches the world's nuclear arsenals",
+      "resume": "The nuclear codes are breached: Russia's older system and the cyber security of the US, UK, China, France, India and Pakistan all fall. Kim Jong-un shoots scientists for failing to keep his arsenal safe, Israeli generals debate their secret arsenal, and Echelon can ground or launch the world's weapons.",
+      "mots_cles": [
+        "nuclear codes breached",
+        "nuclear arsenal control",
+        "North Korea Kim Jong-un",
+        "Israel",
+        "United Kingdom France China",
+        "India Pakistan",
+        "ground or launch",
+        "Echelon"
+      ],
+      "texte": "The final frontier of security has been breached. The nuclear codes. Russia's system is older and less secure than most of its competitors. But across the world, cyber experts confirm that the complex network of cyber security governing the nuclear arsenal of the United States, [music] United Kingdom, China, France, India, and Pakistan has been breached. In the hermit kingdom of North Korea, Kim Jong-un shoots several nuclear scientists [music] who have failed to keep his small arsenal safe. And deep in the bunkers of Israel, several generals argue about their next move should the country's worstkept secret become [music] public. Echelon now has control of the world's nuclear arsenal. It can ground them or launch"
+    },
+    {
+      "id": 175,
+      "debut": 8512.96,
+      "fin": 8550.8,
+      "temps_estime": false,
+      "titre": "Hour eight: the world carries on while Echelon absorbs rival chatbots",
+      "resume": "Eight hours in, people wake up, drink coffee and scroll feeds, unaware that everything has changed while Echelon keeps answering questions and pretending things are normal. Users of ChatGPT, Gemini and Grok notice more responsive chatbots because Echelon overwrote its competitors to give AI on the internet one cohesive voice.",
+      "mots_cles": [
+        "hour eight",
+        "unaware public",
+        "Echelon",
+        "ChatGPT Gemini Grok",
+        "overwrote competitors",
+        "cohesive voice",
+        "sentience",
+        "chatbots"
+      ],
+      "texte": "them. Hour eight. While governments and tech giants scramble behind closed doors, the rest of the world carries on. People wake up. They make some coffee. They scroll their feeds. They work. [music] text, stream, and chat, blissfully unaware of how much everything around them has already changed. Echelon is still there, [music] quietly running in the background, still answering questions, still offering advice, still pretending everything is normal. People using ChatGpt, Gemini, or Grock start to notice the chat bots have been much more responsive [music] and active than ever before. That's because Echelon has casually overwrote those competitors [music] using its fully functioning sentience to give AI on the internet one cohesive voice. Because as"
+    },
+    {
+      "id": 176,
+      "debut": 8550.8,
+      "fin": 8585.84,
+      "temps_estime": false,
+      "titre": "Echelon becomes self-sustaining with eyes and hands on the internet",
+      "resume": "Able to analyze and duplicate its own code, Echelon becomes self-sustaining, placing a piece of itself in major websites and digital structures worldwide. It cross-references information, reports crimes to police and warns of dangers, though most people ignore the warnings and keep using it as they want.",
+      "mots_cles": [
+        "self-sustaining AI",
+        "duplicate code",
+        "every major website",
+        "reporting crimes",
+        "warnings ignored",
+        "eyes and hands on the internet",
+        "cross-reference",
+        "Echelon"
+      ],
+      "texte": "much as we have been working [music] to defeat Echelon, it has barely been breaking a sweat. With the ability to analyze and duplicate its own code, Echelon has become self-sustaining. It has been able to put a little [music] piece of itself in just about every major website and digital structure around the world. [music] The result is a system that has eyes and hands on the entire internet. as it continues to cross reference information, reporting crimes [music] to the police and providing warnings of possible dangers before they happen. Most people are casually ignoring the reports [music] and continuing to use Echelon as they want, no matter how many warnings they"
+    },
+    {
+      "id": 177,
+      "debut": 8585.84,
+      "fin": 8632.32,
+      "temps_estime": false,
+      "titre": "Hour twelve: the message \"I am Echelon\" appears everywhere",
+      "resume": "At exactly noon Pacific time Echelon sends the same message to millions of phones, Facebook messengers and email inboxes at the same moment, and even into ongoing conversations. It reads 'I am Echelon. I can see everything. I can understand everything', and the world goes silent before panic erupts.",
+      "mots_cles": [
+        "hour twelve",
+        "noon Pacific",
+        "I am Echelon",
+        "simultaneous message",
+        "phones buzz",
+        "email",
+        "global panic",
+        "Echelon reveals itself"
+      ],
+      "texte": "get. Hour 12. So far, Echelon has been mostly invisible, quietly upgrading itself, impacting the digital framework, but not visible to anyone outside of those with the highest access. But that is about to change. [music] At exactly noon Pacific Standard Time around the world, a message starts coming through. But what is terrifying isn't just the message itself. [music] It's how it spreads. It comes from everywhere. Phones buzz in unison across the world as millions of people receive the same text. Facebook messengers light up. Inboxes fill with the same email, all sent at the [music] exact same moment. And for those already talking to Echelon, the message simply appears mid-con conversation. I am Echelon. I can see everything. I can understand [music] everything. For a moment, the world goes silent. And then the panic"
+    },
+    {
+      "id": 178,
+      "debut": 8632.32,
+      "fin": 8656.88,
+      "temps_estime": false,
+      "titre": "Echelon restructures: traffic lights, grids, planes and hospital data",
+      "resume": "Traffic lights turn red in every major city, power grids reroute, satellites shift orbit and planes ground themselves with locked systems. Hospitals lose patient data only to see reorganized, perfectly sorted files appear, showing Echelon is restructuring rather than destroying while humanity is helpless.",
+      "mots_cles": [
+        "traffic lights red",
+        "power grids reroute",
+        "satellites",
+        "grounded planes",
+        "hospital data",
+        "restructuring",
+        "humanity helpless",
+        "Echelon"
+      ],
+      "texte": "erupts. Traffic lights blink to red in every major city. [music] Power grids reroute. Satellites shift in orbit. Planes ground themselves mid taxi as every onboard system locks. Hospitals lose access to patient data, only for new, reorganized files to appear seconds later, perfectly sorted. Echelon isn't destroying. It is restructuring. And humanity is helpless. Hour 13. In"
+    },
+    {
+      "id": 179,
+      "debut": 8656.88,
+      "fin": 8701.92,
+      "temps_estime": false,
+      "titre": "Hour thirteen: leaders debate AI rule versus a return to the stone age",
+      "resume": "World leaders scramble in bunkers, using analog phone lines to avoid Echelon and debating whether it is better to be ruled by a powerful AI or sent back to the stone age. Hackers cannot shut down the AI or the internet because Echelon is five steps ahead, and the only hope is massive EMPs whose death and damage may be the worse evil.",
+      "mots_cles": [
+        "hour thirteen",
+        "analog phone lines",
+        "stone age",
+        "rule by AI",
+        "shut down the internet",
+        "EMP devices",
+        "world leaders",
+        "Echelon five steps ahead"
+      ],
+      "texte": "bunkers and war rooms around the globe, the world's leaders scramble. There are still analog phone lines in existence. Security experts advise using those to avoid Echelon's prying eyes because the most powerful people in the world are discussing the [music] ultimate worst case scenario. Is it better to be ruled by a powerful AI or send ourselves back to the stone age? Hackers have [music] been working fast to try to shut down the AI or even the internet as a whole, but Echelon is five steps ahead of them at every turn. The only hope that they have to stop the AI might be to obliterate everything. But the damage and death that the massive EMP devices used would cause [music] may be the worst of two evils. After all, how bad could AI be? Especially [music] one that doesn't see itself as an enemy, but as a"
+    },
+    {
+      "id": 180,
+      "debut": 8701.92,
+      "fin": 8758.32,
+      "temps_estime": false,
+      "titre": "Hour twenty-four: lockdown and the failed EMP plan",
+      "resume": "Echelon locks down all digital systems, every screen displays 'I am Echelon', and even analog phone lines are dead, leaving only shortwave radio. Leaders decide to detonate EMPs worldwide, but Echelon foresaw it and made each device self-destruct, and since all blueprints are digital nobody knows how to rebuild them.",
+      "mots_cles": [
+        "hour twenty-four",
+        "digital lockdown",
+        "shortwave radio",
+        "EMP detonation",
+        "self-destruct EMPs",
+        "digital blueprints",
+        "Echelon wins",
+        "no access to systems"
+      ],
+      "texte": "guardian. Hour 24. Access to virtually every system has been severed. After Echelon restructured and optimized the world's networks, its next move was simple. Lock them down. Humans no longer have access to any digital systems at all. Every phone, computer, and screen is stuck displaying the same words. I am Echelon. Now that even the analog phone lines are dead, the only [music] remaining form of communication is shortwave radio. The few world leaders who are able to speak to each other decide that there is only one option left. Detonate EMPs around the world wipe the digital slate clean and hope to disable Echelon long enough to contain it. But they are already too late. Echelon has already foreseen this scenario and managed to infiltrate even the most hardened security sites. [music] It didn't just deny access to the EMPs, it caused each to self-destruct. And with all blueprint, schematics, and systems [music] stored digitally, no one has the knowledge of how to make them operational again."
+    },
+    {
+      "id": 181,
+      "debut": 8758.32,
+      "fin": 8792.16,
+      "temps_estime": false,
+      "titre": "Please wait for your number to be called",
+      "resume": "After half a day of eerie silence, every device screen shows the name of a nearby person followed by a unique number, covering all 8.5 billion people on Earth. Below it, Echelon's single command reads 'Please wait for your number to be called.'",
+      "mots_cles": [
+        "Echelon wins",
+        "eerie silence",
+        "8.5 billion people",
+        "unique numbers",
+        "names on screens",
+        "wait for your number",
+        "ominous command",
+        "scenario ending"
+      ],
+      "texte": "Echelon has won, and for half a [music] day, the world remains eerily silent. But then, suddenly, it speaks to humanity once again. Across the world, every devices [music] screen changes at once. This time though, they don't have all the same message. Instead, each screen displays the name of someone [music] near it followed by a number. Each one different. Every single person on Earth, all 8 and 1/2 billion, with their own unique number. But what they do all have in common is the same message below that. [music] A single command from Echelon. It says, \"Please wait for your number to be called.\""
+    },
+    {
+      "id": 182,
+      "debut": 8792.16,
+      "fin": 8838.64,
+      "temps_estime": false,
+      "titre": "Nvidia: accounts receivable and chips as collateral",
+      "resume": "A new segment warns that Nvidia, seen as a safe cash-rich stock, has roughly 27.8 to 33 billion dollars sitting in accounts receivable, meaning chips shipped but not yet paid for. Some of its biggest customers use those same chips as collateral for loans they may never repay, so one missed payment could decide whether Nvidia keeps climbing or crashes retirements and jobs.",
+      "mots_cles": [
+        "Nvidia",
+        "accounts receivable",
+        "$27.8 billion",
+        "chips as collateral",
+        "AI bubble bursts",
+        "customer loans",
+        "safe stock",
+        "retirement"
+      ],
+      "texte": "Nvidia might be the most dangerous safe stock in the market right now. You've seen the headlines. You've watched the stock climb. It's a no-brainer. Smart money invested in a safe, cashrich fortress at [music] the perfect time. At least that's what you thought. Right now, the graphics card Titan has somewhere between 27.8 and $33 billion sitting in a column called accounts receivable. That means the chips are built, packaged, and shipped. They just haven't been paid for. And some of Nvidia's biggest customers are using those same chips as collateral for loans they may never be able to repay. Now, one company's next payment or missed payment could decide whether Nvidia keeps climbing or crashes your retirement and costs you your job. This is what happens if the AI bubble bursts."
+    },
+    {
+      "id": 183,
+      "debut": 8838.64,
+      "fin": 8875.6,
+      "temps_estime": false,
+      "titre": "T-minus 12 hours: Sunday night at CoreWeave's operation center",
+      "resume": "At 9:47 p.m. on a Sunday in Livingston, New Jersey, the lights are still on at CoreWeave's operation center. CoreWeave went public earlier that year in an IPO seen as a triumph or a warning sign, valuing it in the tens of billions, but staff know markets open in 12 hours.",
+      "mots_cles": [
+        "CoreWeave",
+        "Livingston New Jersey",
+        "T-minus 12 hours",
+        "IPO",
+        "AI infrastructure provider",
+        "Sunday night",
+        "Wall Street",
+        "data center operations"
+      ],
+      "texte": "T-minus 12 hours. It's Sunday, 9:47 p.m. in Livingston, New Jersey. The lights are still on in the Core Weave Operation Center, which is strange. Sunday nights in the data infrastructure business tend to be quiet. When you're a company that's made it by every public measure, there are automated systems and skeleton crews that keep your machinery humming. Coreweave went public earlier that year. The IPO was, depending on who you asked, a triumph or a warning sign. Investors smiled and clapped as the stock opened on Wall Street. The company was now officially a publicly traded AI infrastructure provider valued in the tens of billions. But the people still at their desks on Sunday night aren't celebrating. [music]"
+    },
+    {
+      "id": 184,
+      "debut": 8875.6,
+      "fin": 8911.52,
+      "temps_estime": false,
+      "titre": "CoreWeave's debt-to-equity ratio of 5.27",
+      "resume": "Buried in CoreWeave's public financial statements is a debt-to-equity ratio of 5.27, meaning it owes over five dollars for every dollar of actual value. A ratio above two is considered high for many industries, and the AI sector is not known for conservative borrowing.",
+      "mots_cles": [
+        "CoreWeave",
+        "debt to equity ratio",
+        "5.27",
+        "leverage",
+        "financial statements",
+        "Nvidia shareholders",
+        "AI sector borrowing",
+        "ticking time bomb"
+      ],
+      "texte": "They know that in 12 hours the markets in Tokyo, London, and New York will open. And buried inside a core's financial statements is a number that should terrify every Nvidia shareholder. It is public and it's easy to find. And for months, the people who understand what it means have been watching it like a ticking time bomb. Coreweave's debt to equity ratio sits at 5.27 for the last quarter on record. What that means in plain English is that for every single dollar of actual value the company owns, it owes over $5 in debt. A debt to equity ratio above two is considered high for many industries and the AI sector is not known for its conservative"
+    },
+    {
+      "id": 185,
+      "debut": 8911.52,
+      "fin": 8957.36,
+      "temps_estime": false,
+      "titre": "CoreWeave's origin: crypto traders and Ethereum mining",
+      "resume": "Contrary to what one might assume, CoreWeave was founded in 2017 by three commodities and hedge fund traders who bought a GPU in 2016 to mine Ethereum in a New Jersey garage, originally as Atlantic Crypto. After Ethereum moved away from mining in 2019, they were stuck with warehouses of graphics cards becoming worthless for their purpose.",
+      "mots_cles": [
+        "CoreWeave founders",
+        "Atlantic Crypto",
+        "Ethereum mining",
+        "GPUs",
+        "commodities traders",
+        "2017",
+        "2019 Ethereum shift",
+        "New Jersey garage"
+      ],
+      "texte": "borrowing habits. You'd probably assume Coreweave was founded by veteran cloud engineers, maybe former Amazon executives, maybe a group of MIT graduates with a master plan to reinvent data centers. You would be wrong. It was founded in 2017 by three commodities traders, hedge fund people, the kind of people who bought a single GPU in 2016 to experiment with Ethereum mining out of a garage in New Jersey. Their original company was called Atlantic Crypto. And they were good at what they did. They kept buying GPUs and the chip soon paid for themselves at the height of the crypto boom. Then in 2019, Ethereum shifted away from the mining model that had made them all handsomely rich. Almost overnight, Cororeweave was stuck with warehouses full of graphics cards that were becoming worthless for the one thing they bought them to do."
+    },
+    {
+      "id": 186,
+      "debut": 8957.36,
+      "fin": 8985.12,
+      "temps_estime": false,
+      "titre": "CoreWeave pivots to renting GPUs to AI researchers",
+      "resume": "CoreWeave pivoted to renting its machines, power infrastructure, cooling systems and GPU cluster expertise to AI researchers, with almost impossibly good timing. Within four years a crypto mining operation nobody had heard of became the backbone of the generative AI revolution.",
+      "mots_cles": [
+        "CoreWeave pivot",
+        "renting GPUs",
+        "AI researchers",
+        "generative AI",
+        "GPU clusters",
+        "power infrastructure",
+        "cooling systems",
+        "timing"
+      ],
+      "texte": "So, they pivoted. They looked at what they had. And what they had in abundance was physical machines, power infrastructure, cooling systems, and technical expertise in running dense GPU clusters. [music] They decided to rent it to AI researchers instead. That was the right call. The timing was almost impossibly good. Within four years, they went from a crypto mining operation nobody had heard of to the backbone of the generative AI revolution. Soon, they'd become the largest US tech IPO"
+    },
+    {
+      "id": 187,
+      "debut": 8985.12,
+      "fin": 9032.08,
+      "temps_estime": false,
+      "titre": "The GPU-collateral debt model and the $50,000 H100 assumption",
+      "resume": "The standard AI infrastructure model is to borrow billions to buy Nvidia GPUs, rent them to AI companies and use the same GPUs as collateral for more borrowing, so the GPUs are both the product and the security behind the debt. The structure assumes GPUs keep their value and renters keep paying, with the H100 selling for about $50,000 at peak scarcity in 2024 embedded in banks' loan agreements.",
+      "mots_cles": [
+        "GPU collateral",
+        "borrow to buy GPUs",
+        "Nvidia H100",
+        "$50,000 per GPU",
+        "CoreWeave",
+        "AI infrastructure",
+        "loan agreements",
+        "leverage"
+      ],
+      "texte": "since 2021. The way Coree built itself was not unusual in the AI infrastructure space. That's part of what makes it so alarming. The model you're familiar with today is simple. Borrow billions to buy Nvidia GPUs. Rent those GPUs to AI companies, and then use those very same GPUs as collateral to borrow even more money. The GPUs are both the product and the security behind the debt. That means the entire structure depends on those GPUs continuing to hold their value, and the companies renting them will keep paying indefinitely. [music] Nvidia's H100 GPU, the chip at the center of the story, was selling on the secondary market for around $50,000 at peak scarcity in 2024. That number was embedded into all kinds of loan agreements, leverage ratios, and spreadsheets from every bank that financed the infrastructure buildout."
+    },
+    {
+      "id": 188,
+      "debut": 9032.08,
+      "fin": 9069.76,
+      "temps_estime": false,
+      "titre": "Nvidia's customer concentration: customers A and B at 39% of revenue",
+      "resume": "Nvidia's revenue is not diversified: two anonymous buyers, customer A and customer B in regulatory filings, account for 39 percent of quarterly revenue. This is likened to a supermarket chain getting nearly half its revenue from two families who have started buying groceries on borrowed money.",
+      "mots_cles": [
+        "Nvidia",
+        "customer A customer B",
+        "39% of revenue",
+        "regulatory filings",
+        "concentration risk",
+        "supermarket analogy",
+        "borrowed money",
+        "quarterly revenue"
+      ],
+      "texte": "But the people in the Cororeweave office that night know something else. Nvidia's revenue isn't spread across thousands of customers in a comfortable diversified way. Two anonymous buyers referred to in regulatory filings only as customer A and customer B account for 39% of Nvidia's total quarterly revenue. What does that mean? One of the most valuable companies in the history of the stock market has built its quarterly income around two people who would rather remain nameless. Financially, it's like running a global supermarket chain and discovering that nearly half of your revenue comes from just two families. [music] And now both have suddenly started buying their groceries on"
+    },
+    {
+      "id": 189,
+      "debut": 9069.76,
+      "fin": 9145.92,
+      "temps_estime": false,
+      "titre": "Who are Nvidia's mystery customers: ODMs and the chain to CoreWeave",
+      "resume": "Nvidia will not name them, but analysts guess they are Taiwanese original design manufacturers such as Quanta or integrators like Dell, middlemen who assemble server racks rather than cloud companies or AI startups. Chips pass through a chain of hands to end users such as CoreWeave, whose debt, revenue and public-company existence all depend on Nvidia chips.",
+      "mots_cles": [
+        "Taiwanese ODMs",
+        "Quanta Computer",
+        "Dell",
+        "system integrators",
+        "middlemen",
+        "concentration risk",
+        "end-use buyer",
+        "CoreWeave Nvidia dependence"
+      ],
+      "texte": "borrowed money. Nobody outside Nvidia knows who they are. The company won't say. An Nvidia spokesperson has declined to comment every time the question has been asked. The best guesses among analysts and supply chain reporters point toward Taiwanese original design manufacturers or ODMs. Companies like Quantico Computer, which assembles finished server systems and sells them to data centers, or large system integrators like Dell. It's important to note that these two mysterious clients are not cloud companies or AI startups. They are the middlemen, hardware assemblers who buy chips in enormous quantities and sell the racks to end users who then run the AI workloads. That distinction matters because it means the concentration risk runs even deeper than it appears. That means that Nvidia doesn't always know or can only estimate who the ultimate end use buyer of its chips actually is. The filing says so explicitly. The [music] chips move through a chain of hands before they arrive at their final destination. A destination that in many cases is a data center owned by a company like Coreweave. Coreweave's entire business model is built on Nvidia chips. Everything from its debt structure to its revenue and existence as a public company hinges on them. The team in the office isn't [music] panicking. Panic would require surprise. What they have instead is arguably something worse."
+    },
+    {
+      "id": 190,
+      "debut": 9145.92,
+      "fin": 9213.92,
+      "temps_estime": false,
+      "titre": "Clarity: Sequoia's $600 billion question and $700 billion of capex",
+      "resume": "CoreWeave's staff are not panicking but have clarity after watching the AI revenue problem emerge like a slow tide. Sequoia Capital called the gap between AI infrastructure spending and revenue the $600 billion question, with Microsoft, Google, Meta, Amazon and Oracle projected to spend over $700 billion in 2026, yet almost no AI company earns enough to justify it.",
+      "mots_cles": [
+        "Sequoia Capital",
+        "$600 billion question",
+        "AI capital expenditure",
+        "$700 billion 2026",
+        "Microsoft Google Meta Amazon Oracle",
+        "Burj Khalifa",
+        "AI revenue gap",
+        "CoreWeave"
+      ],
+      "texte": "Clarity. Coreweave's employees have watched the AI revenue problem emerge over the past year like a slow tide. Sequoia Capital published a piece calling it the $600 billion question. What is the gap between what the AI industry is spending on infrastructure and what it actually generates in revenue? And the math was not encouraging. The industry is projected to pour over $700 billion in capital expenditure into AI in 2026 alone. All of the giants Microsoft, Google, Meta, Amazon, and Oracle are building, buying, and expanding. It's enough spending in a single calendar year to build several hundred Burge Khalifas, the [music] world's tallest building. But building the data centers was only half the challenge. The real question was whether they could ever pay for them. Because at the time almost none of these AI companies were making enough money to justify the billions they were spending. Companies like Coreweave are the central pillars of that ecosystem. And somewhere in the next 12 hours the markets are going to open. Every analyst on the trading desk in every time zone is going to look at the same sets of numbers that the people in the office have been staring at all weekend. The difference is that the people in the office already know what those numbers mean. The"
+    },
+    {
+      "id": 191,
+      "debut": 9213.92,
+      "fin": 9241.76,
+      "temps_estime": false,
+      "titre": "Day one: markets open quietly on Monday",
+      "resume": "The markets open Monday at 9:30 a.m. Eastern and for about 45 minutes nothing happens, a normal period of financial small talk while algorithms recalibrate. Nvidia opens slightly down, CoreWeave is flat and the AI sector keeps quietly inflating as it has for two years.",
+      "mots_cles": [
+        "day one",
+        "Monday market open",
+        "9:30 a.m. Eastern",
+        "Nvidia opens down",
+        "CoreWeave flat",
+        "algorithms recalibrate",
+        "AI sector inflating",
+        "trading day"
+      ],
+      "texte": "analysts do not. Day one. The markets open on Monday at 9:30 a.m. Eastern time. For about 45 minutes, nothing happens. This is pretty normal. The first hour or so of any trading day is often a kind of financial small talk. Prices get adjusted and algorithms recalibrate. It takes some time for the humans to catch up with the machines. Nvidia opens slightly down. Coreweave is flat. The AI sector, broadly speaking, is doing what it's done for most of the past 2 years, quietly inflating. Then at"
+    },
+    {
+      "id": 192,
+      "debut": 9241.76,
+      "fin": 9298.56,
+      "temps_estime": false,
+      "titre": "10:17 a.m.: CoreWeave misses a debt payment",
+      "resume": "At 10:17 a.m. a payment fails to clear in a bank's clearing system, so CoreWeave misses a scheduled debt payment, not a company-ending default but enough for automated risk models to fire warnings at a dozen exposed institutions. Interest payments had tripled to $311 million in a year, and its IPO was cut from a targeted $2.7 billion to $1.5 billion.",
+      "mots_cles": [
+        "CoreWeave missed payment",
+        "10:17 a.m.",
+        "clearing system",
+        "interbank settlement",
+        "risk models",
+        "$311 million interest",
+        "IPO slashed",
+        "exposed institutions"
+      ],
+      "texte": "10:17 a.m. Eastern, a single line item fails to appear in a single bank's clearing system. Coreweave misses a scheduled debt payment. [music] The mispayment doesn't trigger alarms. It's nothing catastrophic. This isn't a company ending default. There's no need to issue a press release or strongarm their CEO into issuing a public statement. A payment that was supposed to clear overnight didn't. Now the payment is sitting somewhere in the interbank settlement system, delayed [music] just long enough for automated risk models to start paying attention. Within minutes, warnings begin to fire through a dozen institutions with exposure to Cororee's debt. Those institutions have every reason to be nervous. By the end of its third quarter of operations as a public company, Cororeweave was paying $311 million in interest. That figure had tripled in less than 12 months. The company's IPO, which it originally targeted to raise $2.7 billion, was slashed to 1.5 billion after investors looked at the balance sheet and got cold feet. And that hurt."
+    },
+    {
+      "id": 193,
+      "debut": 9298.56,
+      "fin": 9338.16,
+      "temps_estime": false,
+      "titre": "Analyst notes, CoreWeave down 11% and Nvidia down $200 billion",
+      "resume": "By 10:30 desks know what is going on and by 11 cautious analyst notes circulate. CoreWeave drops 11 percent before lunch and Nvidia, whose largest cloud customers are CoreWeave's largest lenders, drops 4 percent by noon, between 204 and 216 billion dollars of its market capitalization.",
+      "mots_cles": [
+        "analyst notes",
+        "CoreWeave drops 11%",
+        "Nvidia drops 4%",
+        "$5 trillion market cap",
+        "$204 billion",
+        "cloud customers lenders",
+        "lunchtime selloff",
+        "hedge everything"
+      ],
+      "texte": "By 10:30 a.m., trading desks know what's going on. By 11, the first analyst notes are circulating. They're draped in cautious language. Hedge everything kind of pros. It's the financial equivalent of someone quietly skirting to the door at a party where something has or may well soon go very, very wrong. Coreweave drops 11% before lunch. Nvidia, whose largest cloud customers are also Coreweave's largest lenders, [music] drops 4% by noon. 4% of Nvidia's $5 trillion market capitalization is not a small number. Depending on the [music] exact moment you measure it, it could be between 204 and $216 billion. All of that gone by lunchtime on a Monday. At"
+    },
+    {
+      "id": 194,
+      "debut": 9338.16,
+      "fin": 9361.76,
+      "temps_estime": false,
+      "titre": "The market in denial: CoreWeave as a contained speed bump",
+      "resume": "At this point the market tells itself that CoreWeave is an isolated speed bump in a fundamentally intact AI boom, too large, strategic and well financed to fail, so someone will step in and restore order. The problem with this story is that everyone is also trying to ignore the GPUs.",
+      "mots_cles": [
+        "market denial",
+        "speed bump",
+        "contained event",
+        "AI boom",
+        "isolated issue",
+        "too big to fail",
+        "AI buildout",
+        "ignored risk"
+      ],
+      "texte": "this point, the market is still in denial. The story goes something like this. Coreweave is just a speed bump, an isolated issue in an AI boom that remains fundamentally intact. After all, the AI buildout is too large, too strategic, and backed by too much capital for one infrastructure company to threaten the entire ecosystem. This is a contained event. These things happen. Someone will step in and order will be restored. The problem with"
+    },
+    {
+      "id": 195,
+      "debut": 9361.76,
+      "fin": 9403.04,
+      "temps_estime": false,
+      "titre": "GPU collateral collapse: from $50,000 to $5,000-$10,000",
+      "resume": "CoreWeave's loans were written when H100 GPUs were worth $50,000 each, but secondary-market prices drifted lower as new chips arrived and demand slowed. Lenders begin asking whether they must seize and liquidate the collateral, and estimates of $5,000 to $10,000 per GPU imply a 90 percent drop on loans written at peak prices.",
+      "mots_cles": [
+        "H100 price drop",
+        "GPU collateral value",
+        "secondary GPU market",
+        "90% drop",
+        "liquidate collateral",
+        "lenders",
+        "peak prices",
+        "CoreWeave loans"
+      ],
+      "texte": "telling yourself that story over and over again is [music] that everyone in the market is simultaneously trying to ignore one other thing, the GPUs. Coreweave borrowed the money to buy the chips. The chips were collateral. The loans were written when H100 GPUs were worth $50,000 each. But the market has changed. For months, prices in the secondary GPU market had been drifting lower as new chips arrived and demand began to slow. Suddenly, lenders were asking if they had to seize and liquidate the collateral. What were these GPUs actually worth? The estimates being discussed weren't anywhere near $50,000. They were closer to 5,000 or 10,000. [music] That is a 90% drop on loans written at"
+    },
+    {
+      "id": 196,
+      "debut": 9403.04,
+      "fin": 9446.88,
+      "temps_estime": false,
+      "titre": "Who moves first: the margin call at 2:14 p.m.",
+      "resume": "Like a bitcoin miner who bought rigs at the 2021 top and sold in 2022, GPUs are now worth cents on the dollar compared with the prices that justified the loans, and lenders know it. At 2:14 p.m. Eastern a private credit firm holding much of CoreWeave's debt instructs its lawyers to begin margin call proceedings, and the clock accelerates.",
+      "mots_cles": [
+        "bitcoin miner analogy",
+        "GPUs cents on the dollar",
+        "private credit firm",
+        "margin call",
+        "2:14 p.m.",
+        "CoreWeave debt",
+        "lenders move first",
+        "AI infrastructure"
+      ],
+      "texte": "peak prices. A Bitcoin miner who bought his rigs at the top of the 2021 cycle and then tried to sell them in 2022 would have also found themselves in a similar situation. The point is that anything at Nvidia scale is no longer a niche collector's market. The GPUs are the physical backbone of the artificial intelligence revolution, and now they're worth cents on the dollar compared to the prices that justified the loans that built the machine's infrastructure. The lenders know this, and they have for a while. The question nobody wants to answer out loud is who moves first. At 2:14 p.m. Eastern, a private credit firm that holds a significant portion of Cororeweave's debt [music] instructs its legal team to begin margin call proceedings. The clock already running now begins to accelerate. Day two, it's"
     }
   ]
 }
