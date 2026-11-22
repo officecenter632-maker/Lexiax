@@ -4,12 +4,12 @@
   "titre_video": "How Nazi Regime Finally Collapsed",
   "duree_s": 2384.25,
   "avancement": {
-    "lignes_traitees": 374,
-    "fin_traitee_s": 1794.64,
+    "lignes_traitees": 496,
+    "fin_traitee_s": 2384.25,
     "nb_lignes_total": 496,
-    "complet": false
+    "complet": true
   },
-  "nb_segments": 44,
+  "nb_segments": 60,
   "segments": [
     {
       "id": 1,
@@ -830,6 +830,297 @@
         "Red Army"
       ],
       "texte": "On March 7th, Allied troops flooded over the Rhine and captured the Ludendorff Bridge. The Nazi’s last major defensive barrier had been breached allowing Allied forces to pour into Germany. Although German engineers tried to demolish the bridge, they failed before soldiers of the U.S. 9th Armored Division seized it. Germany’s last offensive of the war, Operation Spring Awakening in Hungary against the Red Army, was crushed nine days later. It was over. Germany had fired its last shot."
+    },
+    {
+      "id": 45,
+      "debut": 1794.64,
+      "fin": 1821.2,
+      "temps_estime": false,
+      "titre": "Hitler's suicide and Goebbels follows",
+      "resume": "On April 30th, 1945, with Red Army shells exploding above his Berlin bunker, Hitler ended his life and his new wife Eva Braun died beside him from a cyanide capsule. Goebbels reportedly said the only way out was the one Hitler chose, and swallowed cyanide on May 1st.",
+      "mots_cles": [
+        "Hitler suicide",
+        "Berlin bunker",
+        "April 30 1945",
+        "Eva Braun",
+        "cyanide",
+        "Goebbels",
+        "May 1 1945"
+      ],
+      "texte": "And so had Adolf Hitler. On April 30th, deep inside his Berlin bunker, with Red Army shells exploding above, Hitler ended his life. His new wife, Eva Braun, lay dead beside him after biting into a cyanide capsule. Goebbels, Hitler’s faithful servant, is believed to have heard the news and said, “For us, everything is lost now and the only way out left for us is the one Hitler chose. I shall follow his example.” And he did. On May 1st, he swallowed cyanide."
+    },
+    {
+      "id": 46,
+      "debut": 1821.2,
+      "fin": 1846.4,
+      "temps_estime": false,
+      "titre": "Goebbels, the propagandist who foresaw history's verdict",
+      "resume": "Goebbels was an intelligent, fanatical antisemite and one of history's most effective propagandists, who helped convince millions of Germans to embrace Hitler's vision of a racially pure empire. Before dying he said Nazis would go down in history either as the greatest statesmen or the greatest criminals.",
+      "mots_cles": [
+        "Joseph Goebbels",
+        "propaganda",
+        "antisemitism",
+        "racially pure empire",
+        "history's judgment",
+        "Nazi leadership"
+      ],
+      "texte": "Goebbels was an intelligent man. A fanatical antisemite, certainly, but also one of history's most effective propagandists. More than perhaps anyone else, he helped convince millions of ordinary Germans to embrace Hitler's vision of a racially pure empire stretching across mainland Europe. Before his death, he had already contemplated how history might judge him. “We shall go down in history,” he said, “either as the greatest statesmen of all time or as the greatest criminals.”"
+    },
+    {
+      "id": 47,
+      "debut": 1846.4,
+      "fin": 1880.08,
+      "temps_estime": false,
+      "titre": "Hitler blames the German people; Speer's memorandum",
+      "resume": "Hitler believed his people had failed him by not being strong enough to carry out his orders, and did not care what happened to them afterwards. On March 18th Speer sent a memorandum warning Germany might be overrun within 4 to 8 weeks and urging that they ensure the survival of the German people, but Hitler said loyal people would have fought.",
+      "mots_cles": [
+        "Albert Speer",
+        "memorandum",
+        "March 18 1945",
+        "Hitler",
+        "German people",
+        "overrun",
+        "survival",
+        "loyalty"
+      ],
+      "texte": "For Hitler, his people had failed him. They were simply not strong enough in the end to carry out his orders and make Germany the greatest country that ever existed. He didn’t care what would happen to them after he was gone. On March 18th, his Minister of Armaments, Albert Speer, had sent him a memorandum in which Speer had said Germany might have 4 to 8 weeks before it was overrun. Speer was not a fanatic, or at least not in the same league as Hitler’s inner circle. He informed Hitler that the least they could do now was try to ensure the survival of the German people. But for Hitler, if the people were truly loyal, they’d have gone fighting as he’d asked."
+    },
+    {
+      "id": 48,
+      "debut": 1880.08,
+      "fin": 1944.08,
+      "temps_estime": false,
+      "titre": "The Nero Decree (Scorched Earth Decree) and Speer's protest",
+      "resume": "On March 19th Hitler issued the Destructive Measures on Reich Territory decree, called the Scorched Earth or Nero Decree, ordering destruction of roads, bridges, railroads, communications, factories, mines and utilities. Speer, shocked, wrote on March 29th begging Hitler not to take a step so destructive of the nation, saying it would destroy the foundation of people's lives.",
+      "mots_cles": [
+        "Nero Decree",
+        "Scorched Earth Decree",
+        "March 19 1945",
+        "Albert Speer",
+        "infrastructure destruction",
+        "Hitler",
+        "factories and mines",
+        "Nazi Party officials"
+      ],
+      "texte": "On March 19th, Hitler issued a decree titled “Destructive Measures on Reich Territory.” This is also sometimes called the “Scorched Earth Decree” or “Nero Decree,” after the tyrannical Roman emperor who watched Rome burn as he, according to legend, played the fiddle. Destroy everything, Hitler said: roads, bridges, railroads, transportation facilities, communication lines, industrial and supply installations, public utilities, and of course, the factories and mines that had made Germany such a formidable country. Nothing was exempted. If it was valuable, useful, blow it up. His orders went straight to his most loyal commanders, to the politicians and Nazi Party administrative officials he knew would understand and adhere to the order without question. Speer, who would later spend 20 years in prison for being a fulcrum of the Nazi military machine, was shocked. In a letter back to Hitler dated March 29th, he called this an injustice to the German people, adding, “I therefore beg you not to carry out a step so destructive of the nation.” If Germany's infrastructure was to be destroyed, he later wrote, then “I am preparing to destroy the foundation of their lives.”"
+    },
+    {
+      "id": 49,
+      "debut": 1944.08,
+      "fin": 1989.6,
+      "temps_estime": false,
+      "titre": "Speer's self-serving account and why the decree was moot",
+      "resume": "Speer later claimed he persuaded Hitler in the bunker to abandon the order, but there were no witnesses, and he worked after the war to portray himself as the good Nazi. The Nero Decree was never fully carried out, as much of Germany was already destroyed, but it symbolizes Hitler's extremism and willingness to see his people burn.",
+      "mots_cles": [
+        "Albert Speer",
+        "good Nazi",
+        "Nero Decree",
+        "insubordination",
+        "Hitler's extremism",
+        "destroyed cities",
+        "unreliable testimony"
+      ],
+      "texte": "Speer later claimed he confronted Hitler in the bunker and persuaded him to abandon the order. There were no witnesses. After the war, Speer worked hard to portray himself as the “good Nazi”. A man who was repentant, ethical and willing to stand up to Hitler. Whether his account is entirely truthful remains a matter of debate. If he had confronted the Fuhrer like that, there’s a good chance he’d have been shot for insubordination. Whatever the case, the Nero Decree was never fully carried out. The scary fact was, it didn’t even need to be. Much of Germany was already destroyed. There wasn’t much left to tear down in many of the major cities. But the Nero Decree serves as a symbolic reminder of Hitler’s unwavering extremism, his complete devotion to his poisonous ideals. He’d rather see his country burn, his people burn with it,"
+    },
+    {
+      "id": 50,
+      "debut": 1989.6,
+      "fin": 2009.28,
+      "temps_estime": false,
+      "titre": "German surrender on May 8th, 1945 and Zero Hour",
+      "resume": "At midnight on May 8th, 1945 Germany formally capitulated as Field Marshal Wilhelm Keitel signed the German Instrument of Surrender. Germans call this moment Zero Hour, a complete break from Nazi radicalism.",
+      "mots_cles": [
+        "German surrender",
+        "May 8 1945",
+        "Wilhelm Keitel",
+        "Instrument of Surrender",
+        "Zero Hour",
+        "end of the war in Europe"
+      ],
+      "texte": "than save something for them after he was gone. At the stroke of midnight, on May 8th, 1945, Germany formally capitulated. The war in Europe ended as Field Marshal Wilhelm Keitel signed the German Instrument of Surrender. Germans call it Zero Hour, the moment that their country made a complete break from the vile radicalism of the Nazi Party."
+    },
+    {
+      "id": 51,
+      "debut": 2009.28,
+      "fin": 2034.8,
+      "temps_estime": false,
+      "titre": "Human toll of the war on Germany",
+      "resume": "About 5.3 million German servicemen were killed, leaving only 60 to 70 men aged 20 to 40 per 100 women after the war, and hundreds of thousands of civilians died in Allied bombing. Another 500,000 to 2 million Germans died in the following years from starvation, disease or violence.",
+      "mots_cles": [
+        "German war dead",
+        "5.3 million servicemen",
+        "gender imbalance",
+        "Allied bombing",
+        "post-war deaths",
+        "starvation",
+        "disease"
+      ],
+      "texte": "But this was no time for a celebration. Around 5.3 million German servicemen had been killed. In the immediate post-war years, there were only 60 to 70 men aged 20 to 40 for every 100 women. Hundreds of thousands of German civilians had died in Allied bombing campaigns. In the years that followed, another 500,000 to 2 million Germans would die from starvation, disease or violence as Europe struggled through the aftermath of the war."
+    },
+    {
+      "id": 52,
+      "debut": 2034.8,
+      "fin": 2067.36,
+      "temps_estime": false,
+      "titre": "Nazism embedded in society: Zero Hour as a myth",
+      "resume": "Nazism was an ideology woven into marriage, family life, schools, sport, art, film and the workplace, and could not disappear with a signature. The speaker argues Zero Hour was largely a myth, a noble lie that gave Germans a sense of a new beginning.",
+      "mots_cles": [
+        "Zero Hour myth",
+        "Nazi ideology",
+        "German society",
+        "indoctrination",
+        "schools",
+        "family life",
+        "noble lie"
+      ],
+      "texte": "And if Nazism had been a malignant tumor, it had spread deep into German society. It wasn't just a series of military campaigns. It was an ideology woven into marriage, family life, schools, sport, art, film, the workplace. It was ingrained in the way children were taught to think and parents believed they ought to raise them. Was May 8th really Zero Hour? Could something that had spread so deeply really disappear with the stroke of a pen? No. Zero Hour was to a large extent a myth. A noble lie that was needed to give the people a sense of a new beginning."
+    },
+    {
+      "id": 53,
+      "debut": 2067.36,
+      "fin": 2142.24,
+      "temps_estime": false,
+      "titre": "Why Germans supported Hitler: elections, recovery and Kershaw's 90%",
+      "resume": "The Nazis won 37.3% of the vote in July 1932, becoming the largest party amid unemployment, political violence and economic collapse. Public works and rearmament cut unemployment while the regime blamed Jews and Marxists, and historian Ian Kershaw says by the late 1930s about 90% supported it in some way, so Hitler retained much support at Zero Hour.",
+      "mots_cles": [
+        "July 1932 election",
+        "37.3% vote",
+        "unemployment",
+        "public works",
+        "Ian Kershaw",
+        "public support",
+        "scapegoating Jews",
+        "complicity"
+      ],
+      "texte": "The proof is in the data. The Nazis received 37.3% of the vote in July 1932. It wasn’t a majority, but enough to become the largest party in a Germany devastated by mass unemployment, political violence and economic collapse. Millions turned to Hitler believing he could rescue a nation that seemed almost unsalvageable. For many ordinary Germans, he delivered on his promise. Massive public works, rearmament and military expansion drove unemployment down. Farmers and industrial workers often found themselves better off. At the same time, Hitler's government blamed Germany's problems on Jews, Marxists and other supposed enemies. Hatred became embedded into the state's institutions and everyday life. Life didn’t improve for everyone and certainly not the enemies of the Nazis whose lives were completely ruined. According to the British historian Ian Kershaw, by the late 1930s the regime enjoyed broad public support, about 90% in some way or other. How many Germans embraced the Nazis’ most extreme crimes -- pogroms, forced labor, mass murder and total ideological control -- is impossible to know in a nation pervaded by censorship and fear. But millions accepted, tolerated or benefited from the system that made those crimes possible. So when Zero Hour came,"
+    },
+    {
+      "id": 54,
+      "debut": 2142.24,
+      "fin": 2195.76,
+      "temps_estime": false,
+      "titre": "Post-war polls and denazification",
+      "resume": "In 1946 a US Occupying Forces poll showed 25-30% of Germans still supported National Socialism, and in another 37% agreed the extermination of Jews and Poles was necessary for Germany's security. Breaking from Nazi brainwashing took years of re-education, occupation and denazification, which sometimes led to extrajudicial murders.",
+      "mots_cles": [
+        "1946 poll",
+        "US Occupying Forces",
+        "National Socialism support",
+        "denazification",
+        "re-education",
+        "extrajudicial murders",
+        "Holocaust",
+        "brainwashing"
+      ],
+      "texte": "Hitler still had a lot of support. In 1946, when Germans already knew about the Holocaust. A poll by the US Occupying Forces revealed that 25-30% of Germans still supported the idea of National Socialism. A very unnerving 37% in another poll agreed that “the extermination of the Jews and Poles and other non-Aryan races was necessary for the security of Germany.” The “absolute break” from the Nazis at Zero Hour, the new beginning, was far from reality. The regime had brainwashed a nation and for many people, accepting they’d been wrong was an assault on their existence. It would take years of re-education, of occupation, of denazification, for Germany to free itself from the cancer of the Nazis. In some cases, all over Europe, this denazification process led to extrajudicial murders. This alone tells us there was no happy and sudden break from Nazism."
+    },
+    {
+      "id": 55,
+      "debut": 2195.76,
+      "fin": 2210.88,
+      "temps_estime": false,
+      "titre": "Homelessness, hunger and black markets in post-war Germany",
+      "resume": "Around 7.5 million Germans were homeless in a country of rubble. Food shortages brought hunger, disease and malnutrition, crime flourished and black markets became a way of life.",
+      "mots_cles": [
+        "homelessness",
+        "7.5 million homeless",
+        "food shortages",
+        "malnutrition",
+        "black markets",
+        "crime",
+        "rubble"
+      ],
+      "texte": "And around 7.5 million Germans had been left homeless in a country of rubble. Millions faced hunger as food shortages gripped the nation, and many died from disease and malnutrition in the difficult years that followed. Crime flourished. Black markets became a way of life."
+    },
+    {
+      "id": 56,
+      "debut": 2210.88,
+      "fin": 2236.16,
+      "temps_estime": false,
+      "titre": "Mass sexual violence against German women",
+      "resume": "German women were assaulted by soldiers from every occupying army, with the worst atrocities in the east under the Red Army but thousands also by American, French and British troops. Between 1 and 2 million women and girls were victims and an estimated 240,000 were killed.",
+      "mots_cles": [
+        "sexual violence",
+        "German women",
+        "Red Army",
+        "occupying armies",
+        "1-2 million victims",
+        "240,000 killed",
+        "occupation"
+      ],
+      "texte": "Women across occupied Germany also faced another terror during Zero Hour. They were assaulted by soldiers from every occupying army. The worst atrocities occurred in the east under the Red Army, but American, French and British troops also committed thousands of these assaults. In total, between 1 million and 2 million German women and girls became victims. An estimated 240,000 were killed in the process by troops from all occupying nations."
+    },
+    {
+      "id": 57,
+      "debut": 2236.16,
+      "fin": 2291.44,
+      "temps_estime": false,
+      "titre": "Not a rebirth: returnees, scavenging and the Trümmer years",
+      "resume": "Calling this time a spiritual rebirth was an insult to millions of Germans who returned from formerly occupied territories to hatred, resentment and violence, while returning Jewish survivors were called parasitic foreigners. People scavenged ruins for food and fuel, soldiers looked for work and orphaned boys formed gangs, one making a home in an abandoned swimming pool.",
+      "mots_cles": [
+        "spiritual rebirth",
+        "expellees",
+        "returning Jews",
+        "scavenging",
+        "returning soldiers",
+        "orphan gangs",
+        "ruins",
+        "post-war hardship"
+      ],
+      "texte": "For countless Germans, the war did not end on May 8, it just took on a different form. It would be an insult to call this time rebirth. But that’s what some German and western media called it -- a “spiritual rebirth” and “radical new beginning.” It also didn’t feel like that for the many millions of Germans who flooded into the country from previously occupied territories. Many found hatred, resentment, discrimination and violence. Returning Jews who’d survived the holocaust were sometimes referred to as “parasitic foreigners.” It was as if nothing had changed. Those without money scavenged among the ruins for food and fuel. Returning soldiers wandered bombed-out streets looking for work, some even finding themselves blamed by their wives for losing the war. Children did the same. Reports described gangs of orphaned boys roaming the rubble in search of anything they could eat, burn or sell. In one case, making a home out of an abandoned public swimming pool. But brick by brick, the people re-built their"
+    },
+    {
+      "id": 58,
+      "debut": 2291.44,
+      "fin": 2313.12,
+      "temps_estime": false,
+      "titre": "Cold War rehabilitation and selective amnesia",
+      "resume": "As the Iron Curtain split Europe and the Soviet Union became the new enemy of Britain, the US and West Germany, rehabilitation mattered more than facing past atrocities. Western governments and media sometimes downplayed Nazi crimes, described as omission propaganda or selective amnesia.",
+      "mots_cles": [
+        "Iron Curtain",
+        "Cold War",
+        "West Germany",
+        "rehabilitation",
+        "selective amnesia",
+        "omission propaganda",
+        "Nazi crimes downplayed"
+      ],
+      "texte": "country as an Iron Curtain cut Europe in half. The Soviet Union became the new enemy of Britain and the USA and its ally, West Germany. With West Germany now on side, rehabilitation was more important than facing past atrocities. Western governments and media even occasionally downplayed them in what could be said to have been omission propaganda or a case of selective amnesia."
+    },
+    {
+      "id": 59,
+      "debut": 2313.12,
+      "fin": 2369.6,
+      "temps_estime": false,
+      "titre": "Silence, victimhood and Germany's moral ruins",
+      "resume": "Germans rarely discussed the horrors they witnessed or perpetrated, the Holocaust became taboo in many households, and many preferred to see themselves as victims, forgetting jeering at Jewish neighbors, taking expropriated businesses and denouncing others. The physical ruins were cleared in years but the moral ruins would take generations to confront.",
+      "mots_cles": [
+        "Holocaust taboo",
+        "German victimhood",
+        "denunciation",
+        "expropriated businesses",
+        "moral ruins",
+        "confronting the past",
+        "Nazi indoctrination",
+        "1933-1945"
+      ],
+      "texte": "As the years passed, Germans rarely talked about certain aspects of the war: the horrors they’d witnessed, or in some cases, the horrors they’d perpetrated. The holocaust became almost a taboo topic in some households. Many preferred to remember themselves as victims rather than participants. Few spoke openly about jeering at Jewish neighbors as they were driven from their home and taking over expropriated businesses. They forgot about denouncing friends, colleagues and relatives to the authorities for failing to be “good” Germans. Nazi indoctrination had even persuaded some children to inform on their own parents. This would take a lifetime to rebuild but the scars never quite went away. The physical ruins of Germany could be cleared in a few years. But the moral ruins remained scattered in the minds of the people. It would take generations to root out the last remnants of Nazi ideology and to confront what had happened between 1933 and 1945. But confront it they did, because those who don’t reflect on history might be doomed to repeat it one day."
+    },
+    {
+      "id": 60,
+      "debut": 2369.6,
+      "fin": 2384.25,
+      "temps_estime": false,
+      "titre": "Outro: Nazi officers who fled to Argentina",
+      "resume": "After zero hour some high-ranking Nazis decided post-war Germany was not the place to be and fled. The video points viewers to another video about why Nazi officers fled to Argentina after WW2 and how they hid their atrocities.",
+      "mots_cles": [
+        "Nazi officers",
+        "Argentina",
+        "escape after WW2",
+        "ratlines",
+        "hidden atrocities",
+        "related video"
+      ],
+      "texte": "But after zero hour, some high ranking Nazis decided post-war Germany wasn’t the place to be. So, they ran. Watch Real Reason Why Nazi Officers Fled to Argentina After WW2 to find out how they kept their atrocities hidden. Or click on this video."
     }
   ]
 }

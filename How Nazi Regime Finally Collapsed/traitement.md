@@ -13,5 +13,10 @@ Speech : 496 lignes, 0.08 s à 2384.25 s (≈ 39,7 min), langue en, sous-titres 
 ## Tranches
 - Tranche 1 : lignes 1 à 374 (0 à 1794,64 s, ≈ 29,9 min), 44 segments (id 1 à 44). Fin sur « Germany had fired its last shot ». Remarques : aucune coupure estimée ; segments 15 (Silésie + pétrole polonais) et 31 (main-d'œuvre + alcool V-2) regroupent deux points proches.
 
-## Point d'arrêt
-Dernière ligne traitée : 374. Prochaine étape : tranche 2, à partir de la ligne 375 (« And so had Adolf Hitler. On April 30th... »), id 45.
+- Tranche 2 (finale) : lignes 375 à 496 (1794,64 à 2384,25 s, ≈ 9,8 min), 16 segments (id 45 à 60). Remarques : aucune coupure estimée ; segment 55 (15 s) volontairement court car point distinct (hébergement/faim), séparé des violences sexuelles (segment 56) ; segment 60 = outro promotionnel.
+
+## Bilan final
+- Méthode : lecture par blocs, idées définies par bornes de lignes, texte reconstruit par script (mot pour mot), vérification par script (JSON, ids, mots-clés 5 à 10, temps continus, avancement, textes bout à bout = speech).
+- Nombre de segments : 60 (lignes 1 à 496, 0,08 à 2384,25 s). Plus court : 14,7 s (segment 55). Plus long : 84,5 s.
+- Temps estimés : aucun (toutes les coupures en fin de ligne). Passages douteux : le speech contient des coquilles conservées telles quelles (« 6,1200 », « colon », « Tthen », « Werwolf »/« Werewolf ») ; quelques chiffres du speech sont approximatifs (ex. total des morts du V-1).
+- Problèmes rencontrés : aucun. Statut : complet = true.
