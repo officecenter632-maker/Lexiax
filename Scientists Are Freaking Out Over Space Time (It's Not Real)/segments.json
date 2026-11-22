@@ -4,12 +4,12 @@
   "titre_video": "Scientists Are Freaking Out Over Space Time (It's Not Real)",
   "duree_s": 10427.77,
   "avancement": {
-    "lignes_traitees": 3741,
-    "fin_traitee_s": 7432.01,
+    "lignes_traitees": 4674,
+    "fin_traitee_s": 9323.31,
     "nb_lignes_total": 5233,
     "complet": false
   },
-  "nb_segments": 150,
+  "nb_segments": 189,
   "segments": [
     {
       "id": 1,
@@ -2764,6 +2764,741 @@
         "sample return"
       ],
       "texte": "Starting in 2004, [music] rovers found evidence of past liquid water on Mars, including hydrated minerals and geological [music] features indicative of ancient lakes and streams. This significantly strengthened the idea that Mars was once a more habitable planet. [music] In 2012, an advanced Curiosity rover landed in Gale Crater, a site believed to have once [music] been a lake bed. Curiosity detected various organic molecules in Martian rocks, including [music] thiophenes, benzene, toluene, and small carbon chains. While these are the building blocks of life, they can also [music] be formed through non-biological processes. The rover also found further evidence of past freshwater lakes [music] with neutral pH and the presence of key elements for life, specifically carbon, hydrogen, oxygen, phosphorus, [music] sulfur, and nitrogen. Curiosity has also detected seasonal fluctuations in the levels [music] of methane in Gale Crater's atmosphere, and it's currently gathering samples to be collected by a future mission as [music] the search for life on Mars continues. Hopefully, this will significantly contribute to the ongoing discussion [music] about the potential of life on Mars."
+    },
+    {
+      "id": 151,
+      "debut": 7432.01,
+      "fin": 7487.93,
+      "temps_estime": true,
+      "titre": "Exoplanètes candidates : HD 20794d, Gliese 12b et Kepler-62f",
+      "resume": "Astronomers also search for life on exoplanets, judged mostly by size and orbit within the habitable zone. HD 20794d lies about 20 light-years away with an elliptical orbit, Gliese 12b is a super-Earth around a red dwarf 40 light-years away with possible liquid water, and Kepler-62f is about 40% larger than Earth, 1,200 light-years away.",
+      "mots_cles": [
+        "exoplanets",
+        "habitable zone",
+        "HD 20794d",
+        "Gliese 12b",
+        "Kepler-62f",
+        "super-Earth",
+        "red dwarf",
+        "liquid water"
+      ],
+      "texte": "Astronomers have also been looking beyond our solar system for the potential of life on exoplanets. These are mostly based on the size of the planets and their orbit in the habitable zone around their star. HD 20794d is located about 20 light-years [music] away from our solar system and is orbiting a sun-like star. Larger than Earth, it has an elliptical orbit through with the habitable zone. The elliptical nature of the orbit suggests the potential for extreme temperature [music] fluctuations. Gliese 12b is a super-Earth exoplanet orbiting a cool red dwarf star about 40 light-years away. It's within the habitable zone and has an estimated surface [music] temperature that could potentially support liquid water. Its proximity makes a good candidate for future atmospheric studies. Meanwhile, Kepler-62f is located roughly 1,200 light-years away. It's about 40% larger than Earth and orbits a cooler star. Its orbit within the habitable zone suggests the potential for liquid water, [music] and its size hints at the possibility of being a rocky planet with oceans."
+    },
+    {
+      "id": 152,
+      "debut": 7487.93,
+      "fin": 7526.34,
+      "temps_estime": true,
+      "titre": "Kepler-442b et le système TRAPPIST-1",
+      "resume": "Kepler-442b is about 33% larger than Earth, 1,200 light-years away, orbiting an orange dwarf and possibly receiving enough light for a large biosphere. TRAPPIST-1 has seven Earth-size planets around an ultra-cool red dwarf 40 light-years away, with e, f and g in the habitable zone, although red dwarf flares could threaten life.",
+      "mots_cles": [
+        "Kepler-442b",
+        "orange dwarf",
+        "TRAPPIST-1",
+        "habitable zone",
+        "red dwarf flares",
+        "Earth-size planets",
+        "biosphere",
+        "exoplanets"
+      ],
+      "texte": "And Kepler-442b is situated [music] about 1,200 light years away. This exoplanet is about 33% larger than Earth and orbits [music] a K-type star or an orange dwarf. Studies suggest that it might receive enough light to support a large biosphere. Then, there's the TRAPPIST-1 system planets e, f, and g, which are all potentially habitable planets. This system has seven Earth-size planets orbiting an ultra-cool red dwarf star about 40 light years away. Planets [music] e, f, and g are considered to be in the habitable zone and could potentially host liquid water. However, red dwarf stars are known for their intense flares, [music] which could also pose a challenge to life."
+    },
+    {
+      "id": 153,
+      "debut": 7526.34,
+      "fin": 7565.45,
+      "temps_estime": true,
+      "titre": "La spectroscopie et la première analyse spectrale d'une exoplanète",
+      "resume": "Spectroscopy studies the absorption and emission of light by matter by splitting light into wavelengths, like a prism making a rainbow. Only in the last two decades have telescopes and computers been precise enough for exoplanets, and the first Hubble spectrum of an exoplanet, published in 2002, showed vaporized sodium in the atmosphere of HD 209458b.",
+      "mots_cles": [
+        "spectroscopy",
+        "wavelengths",
+        "prism",
+        "Hubble Space Telescope",
+        "HD 209458b",
+        "sodium atmosphere",
+        "2002",
+        "exoplanet atmosphere"
+      ],
+      "texte": "Astronomers will further study these exoplanets using spectroscopy, [music] which is the study of absorption and emission of light and other radiation by matter. It [music] involves the splitting of light into its constituent wavelengths, which is done in much the same way as a prism [music] splits light into a rainbow of colors. However, it's only in the last two decades that we've had [music] telescopes, cameras, and computers powerful enough to achieve the detail and precision needed to examine exoplanets. The first spectrum analysis [music] of an exoplanet using the Hubble Space Telescope was published in 2002, showing evidence for vaporized [music] sodium in the atmosphere of an exoplanet called HD 209458b."
+    },
+    {
+      "id": 154,
+      "debut": 7565.45,
+      "fin": 7620.94,
+      "temps_estime": true,
+      "titre": "Trois techniques de spectroscopie et l'observation de K2-18b par Webb",
+      "resume": "Biosignature searches use reflection spectroscopy, thermal emission spectroscopy and transmission spectroscopy, the last watching starlight pass through an atmosphere. The James Webb team used transmission spectroscopy on K2-18b, made possible by Webb's extended wavelength range and sensitivity, and plans to confirm the results with its mid-infrared instrument.",
+      "mots_cles": [
+        "biosignatures",
+        "reflection spectroscopy",
+        "thermal emission spectroscopy",
+        "transmission spectroscopy",
+        "James Webb Space Telescope",
+        "K2-18b",
+        "mid-infrared instrument",
+        "DMS and DMDS"
+      ],
+      "texte": "This technology is now being focused on looking for potential biosignatures of life on exoplanets, with the [music] discovery of DMS and DMDS on K2-18b being the first example of a successful attempt. For these purposes, scientists use three techniques. [music] The first is reflection spectroscopy, which bounces light off the planet's surface or atmosphere. The second [music] is thermal emission spectroscopy, which observes the light produced by the heat of the planet itself. >> [music] >> The third is transmission spectroscopy, which watches light that passes through the planet's atmosphere. The James Webb Space Telescope [music] team conducted transmission spectroscopy on K2-18b, analyzing light [music] from its parent star as it passed through the planet's atmosphere. This was only made possible by the extended wavelength [music] range and heightened sensitivity of the Webb Telescope. The team hopes to confirm its results using the telescope's mid-infrared instrument spectrograph as part of their next [music] round of examination."
+    },
+    {
+      "id": 155,
+      "debut": 7620.94,
+      "fin": 7655.26,
+      "temps_estime": true,
+      "titre": "Publication des résultats et critiques de Laura Kreidberg et Edward Schwieterman",
+      "resume": "The 2023 findings were accepted by the Astrophysical Journal Letters but drew critiques. Laura Kreidberg of the Max Planck Institute for Astronomy said extraordinary claims need extraordinary evidence, and astrobiologist Edward Schwieterman said the signal might disappear when other groups reanalyze the data.",
+      "mots_cles": [
+        "Astrophysical Journal Letters",
+        "Laura Kreidberg",
+        "Max Planck Institute for Astronomy",
+        "Edward Schwieterman",
+        "extraordinary claims",
+        "critique",
+        "K2-18b",
+        "reanalysis"
+      ],
+      "texte": "Nevertheless, their initial findings in 2023 were accepted for publication in the Astrophysical Journal Letters. The published claims have, of course, drawn critique from other astronomers. Laura Kreidberg, an astronomer at [music] the Max Planck Institute for Astronomy in Germany, says that extraordinary claims require extraordinary evidence and that, quote, \"I'm not sure we're at the extraordinary evidence level yet.\" Similarly, Edward Schwieterman, an astrobiologist at the University of California, added, [music] \"It's not a sure thing, and it would not be surprising if the signal went away when other groups reanalyzed the data.\""
+    },
+    {
+      "id": 156,
+      "debut": 7655.26,
+      "fin": 7725.44,
+      "temps_estime": true,
+      "titre": "Le DMS peut-il avoir une origine non biologique ? Le long chemin de la confirmation",
+      "resume": "Other scientists ask whether DMS could be produced by something other than life, noting trace DMS has been found in comets and interstellar space, though K2-18b's concentration is 100,000 times higher. Scientists are hypercritical of new findings, and confirmation requires independent evidence, strong statistical significance and ruling out non-biological explanations, a process that could take decades.",
+      "mots_cles": [
+        "DMS",
+        "non-biological explanation",
+        "comets",
+        "interstellar space",
+        "100,000 times higher",
+        "scientific skepticism",
+        "independent confirmation",
+        "replication"
+      ],
+      "texte": "Other scientists question whether the DMS [music] signals could be produced by something other than life. Just because they're only produced by life on Earth doesn't mean that it's the same on other planets. The possibility is supported by the fact that over [music] recent years trace amounts of DMS have been found in comets and the space between stars. Though it is unlikely that these traces have the same explanation as the concentration 100,000 times higher seen [music] on K2-18b, but the extremely large amounts of DMS in K2-18b's [music] atmosphere also suggests that something non-Earth-like could be happening to produce such vast quantities. It's normal for scientists to be hypercritical [music] of new findings like this that push new technologies to their limits and question established scientific wisdom until they're proven. To confirm discoveries, results must be supported by independent lines [music] of evidence, show strong statistical significance, and rule out non-biological explanations. This level of certainty will only emerge over time as independent [music] teams replicate the original experiments, reanalyze the data, and develop new methods to confirm the findings. [music] It's a process that could take decades, but the scientific community is excited to begin."
+    },
+    {
+      "id": 157,
+      "debut": 7725.44,
+      "fin": 7783.54,
+      "temps_estime": true,
+      "titre": "Les futurs télescopes : Giant Magellan, Roman et Habitable Worlds Observatory",
+      "resume": "Webb can only image gas giants, so new telescopes are in development: the Giant Magellan Telescope with seven 26-ft mirrors forming an 82-ft mirror, the Nancy Grace Roman Space Telescope launching in 2027, and NASA's Habitable Worlds Observatory in the 2040s, which will seek oxygen, water vapor, carbon dioxide and ozone on Earth-like planets.",
+      "mots_cles": [
+        "Giant Magellan Telescope",
+        "Nancy Grace Roman Space Telescope",
+        "Habitable Worlds Observatory",
+        "2040s",
+        "Earth-like planets",
+        "biosignatures",
+        "oxygen",
+        "Earth twins"
+      ],
+      "texte": "While the James [music] Webb Space Telescope has yielded impressive results so far, it only has the capability of imaging [music] gas giant planets. Several new types of telescopes are under development, including the Giant Magellan Telescope that will utilize [music] seven mirrors, each over 26 ft in diameter, to form an 82-ft diameter mirror, offering a significantly higher resolution than the Hubble. The Nancy [music] Grace Roman Space Telescope is also scheduled to be launched in 2027 to offer infrared wide-angle views. NASA's next flagship telescope will be the Habitable Worlds Observatory, >> [music] >> and it'll seek to directly image Earth-like planets in the 2040s. It will look for signatures for oxygen, water vapor, carbon dioxide, and ozone, all of which are not just biosignatures for life, but [music] for life as we know it. While 2040 might seem like a long way off, scientists [music] will need that time to identify transiting Earth twins that orbit in the habitable zone, as they don't yet have any to analyze. [music]"
+    },
+    {
+      "id": 158,
+      "debut": 7783.54,
+      "fin": 7804.07,
+      "temps_estime": true,
+      "titre": "Madhusudhan : le point de bascule dans la recherche de vie",
+      "resume": "The potential for life on gas planets is exciting, and Madhusudhan and his team have reason to be hopeful. He says decades from now we may look back on this as when the living universe came within reach, a tipping point at which we become able to answer whether we are alone.",
+      "mots_cles": [
+        "Madhusudhan",
+        "life on gas planets",
+        "tipping point",
+        "are we alone",
+        "living universe",
+        "K2-18b",
+        "James Webb Space Telescope",
+        "search for life"
+      ],
+      "texte": "With that in mind, the potential for life on gas planets is even more exciting, and Madhu Sudan and his team have reason to be hopeful. [music] He stated, \"Decades from now, we may look back at this point and recognize it was when the living universe [music] came within reach. This could be the tipping point, where suddenly the fundamental question of whether we're alone in the universe is [music] one we're capable of answering.\""
+    },
+    {
+      "id": 159,
+      "debut": 7804.07,
+      "fin": 7841.35,
+      "temps_estime": true,
+      "titre": "Le signal Wow : accroche sur le signal de 72 secondes",
+      "resume": "Introduction to an episode of The Infographics Show about a possible message from extraterrestrials: on August 15, 1977 astronomers detected a radio burst more than 30 times stronger than background noise that lasted just over a minute and never returned. The narrator asks whether it was a message, a cosmic fluke or something still not understood.",
+      "mots_cles": [
+        "Wow signal",
+        "August 15 1977",
+        "radio burst",
+        "72-second signal",
+        "extraterrestrial message",
+        "30 times stronger",
+        "The Infographics Show",
+        "mystery signal"
+      ],
+      "texte": "What if the clearest sign of alien life we have ever received lasted just over a minute and left us with more questions than answers? On August 15th, 1977, astronomers detected a powerful radio burst more than 30 times stronger than the background noise, and then nothing. The signal was never heard again. Was it a message from extraterrestrials, a bizarre cosmic fluke, or something we still don't understand nearly 50 years later? We are heading deep into space to uncover the truth on today's episode of The Infographic Show, the 72-second space signal that came from nowhere and changed everything. Don't forget to hit that subscribe button."
+    },
+    {
+      "id": 160,
+      "debut": 7841.35,
+      "fin": 7886.34,
+      "temps_estime": true,
+      "titre": "John Kraus et son rêve d'écouter l'univers",
+      "resume": "In 1950s Ohio, physicist Dr. John Kraus of Ohio State University proposed to stop trying to see the universe and start listening to it with radio astronomy, a field barely two decades old. Most astronomers thought he had lost his mind, and he did not even know how to build a radio telescope capable of it.",
+      "mots_cles": [
+        "John Kraus",
+        "Ohio State University",
+        "radio astronomy",
+        "1950s",
+        "radio telescope",
+        "skeptics",
+        "listening to the universe",
+        "Ohio"
+      ],
+      "texte": "Every great discovery needs a dreamer, or if someone audacious enough to see solutions where others only see problems. In 1950s Ohio, that someone was Dr. John Kraus, a physicist at Ohio State University. While Kraus's colleagues were still squinting through traditional optical telescopes, Kraus had a revelation that bordered on the heretical. What if we stopped trying to see the universe and started trying to hear it instead? At that point in history, radio astronomy was barely a blip on the scientific radar, an experimental field barely two decades old. Most astronomers thought Kraus had lost his mind. Radio waves from space, really? But Kraus was undeterred by skeptics and the fact that he had no idea how to build a radio telescope capable of his cosmic eavesdropping dreams."
+    },
+    {
+      "id": 161,
+      "debut": 7886.34,
+      "fin": 7936.85,
+      "temps_estime": true,
+      "titre": "Pollution lumineuse, Perkins Observatory et demande de subvention",
+      "resume": "By the 1950s Ohio's skies were drowned in light and the Perkins Observatory was fading, but Kraus saw that radio waves, unlike visible light, are not blocked by floodlights and punch through the bright night. He therefore applied for grant money to build a radio telescope.",
+      "mots_cles": [
+        "light pollution",
+        "Perkins Observatory",
+        "radio waves",
+        "electromagnetic spectrum",
+        "grant money",
+        "Ohio",
+        "John Kraus",
+        "radio astronomy"
+      ],
+      "texte": "By the 1950s, Ohio's night skies were drowning in light. The Perkins Observatory, once a crown jewel of astronomy, was fading into obscurity. Built in the early 20th century, it had been a gateway to the cosmos. Now its powerful apertures were slowly being choked out by low-hanging clouds and the orange glow of civilization. Astronomers could only watch as the stars they once studied vanished behind street lamps. Traditional stargazing wasn't just struggling, it was slowly being snuffed out. But Kraus saw an opportunity hiding in the catastrophe. Radio waves, unlike light, couldn't be drowned out by a few thousand parking lot floodlights. They traveled the same electromagnetic spectrum as visible light, just at different wavelengths, and they could [music] punch through Earth's increasingly bright night. So Kraus did what any respectable physicist [music] would do when faced with an impossible dream. He applied for grant money."
+    },
+    {
+      "id": 162,
+      "debut": 7936.85,
+      "fin": 7995.65,
+      "temps_estime": true,
+      "titre": "Le projet du Big Ear : un radiotélescope fixe qui utilise la rotation de la Terre",
+      "resume": "Kraus proposed a radio telescope spanning three football fields, a flat structure of metal mesh. Unlike dishes that track objects, the Big Ear would sit still and let Earth's rotation sweep its beam across the sky, and he recruited part-time students, amateur astronomers and industrial engineers who believed they were building something extraordinary.",
+      "mots_cles": [
+        "Big Ear",
+        "John Kraus",
+        "radio telescope",
+        "Earth's rotation",
+        "metal mesh",
+        "three football fields",
+        "student crew",
+        "Ohio State University"
+      ],
+      "texte": "What Kraus proposed was audacious, even by the prodigious building standards of the 1950s post-war America. He wanted to [music] build a radio telescope that would span the area of three football fields, a flat, ungainly beast [music] of metal mesh and dreams that would make NASA's future projects look conservative. The design was radical, to say the least. Most radio dishes were designed to move and track objects across the sky. Kraus's big ear would do something far more elegant. It would just sit perfectly still and let Earth's rotation do the scanning. As our planet [music] spun on its axis, the telescope's beam would sweep across the heavens. And when it came to building the Big Ear, Kraus recruited a motley crew of part-time students, amateur astronomers, and industrial engineering specialists who normally dealt with time and motion studies rather than space exploration. They came from all corners of the university, drawn together by Kraus' infectious belief that they [music] were building something extraordinary, something that would change how human humanity listens to the cosmos."
+    },
+    {
+      "id": 163,
+      "debut": 7995.65,
+      "fin": 8051.42,
+      "temps_estime": true,
+      "titre": "La construction du Big Ear et son bunker souterrain",
+      "resume": "For years the unlikely crew built the Big Ear, which looked like a giant chain-link fence across four football fields. Radio waves hit the mesh reflector, bounced to a feed horn and became electrical signals recorded and analyzed from an underground bunker full of machines, electronics and computer printouts.",
+      "mots_cles": [
+        "Big Ear",
+        "mesh reflector",
+        "feed horn",
+        "electrical signals",
+        "underground bunker",
+        "computer printouts",
+        "radio waves",
+        "Kraus"
+      ],
+      "texte": "For years, this unlikely crew plugged away at Kraus' contraption. They systematized the operation with the efficiency of an assembly line and the passion of true believers. Students [music] helped amateur astronomers who worked alongside engineering specialists. What they created was truly unique. The Big Ear wasn't pretty. It looked like someone had just stretched a giant chain-link fence across [music] four football fields and then called it a day. But, it worked. Radio waves from deep space would hit [music] the mesh reflector, bounce up to the feed horn suspended overhead, and get converted into electrical signals that could then be recorded and analyzed. The entire operation ran from an underground bunker buried beneath the telescope. It was a concrete warren packed with clattering machines, blinking electronics, and later miles of continuous computer printouts. [music] It was from this subterranean nerve center that Kraus and his team would listen to the cosmos, hoping to catch something extraordinary in their electronic net. >> [music]"
+    },
+    {
+      "id": 164,
+      "debut": 8051.42,
+      "fin": 8102.22,
+      "temps_estime": false,
+      "titre": "La fièvre spatiale des années 1960 et le tabou de la vie extraterrestre à la NASA",
+      "resume": "In the 1960s, with Sputnik, Kennedy's moon plans and NASA's lunar missions, extraterrestrial life was conspicuously absent from public discussion and raising alien intelligence could stall a career at NASA. Civilian scientists, universities and independent researchers were free to ask whether intelligent life exists elsewhere and how we would know.",
+      "mots_cles": [
+        "1960s space race",
+        "Sputnik",
+        "Kennedy",
+        "NASA",
+        "alien intelligence taboo",
+        "lunar missions",
+        "civilian scientists",
+        "extraterrestrial life"
+      ],
+      "texte": ">> By the 1960s, America was in a grip of space fever. The Soviets had launched Sputnik, Kennedy had plans to reach the moon, and NASA was pushing the limits of science and engineering. [music] But, while the official space program focused on lunar landings and astronaut safety, one subject remained conspicuously absent from public discussion: extraterrestrial life. Sure, plenty of people [music] quietly wondered whether we would find life on Mars, but in the halls of NASA, bringing up alien intelligence was a quick way to stall your career. With lunar missions already stretching the limits of public funding and political support, there was little appetite for adding alien hunting to the agenda. But, civilian scientists had no such constraints. As NASA stuck to planetary exploration, universities and independent researchers were free to chase the bigger question, [music] if intelligent life exists elsewhere in the universe, and how would we know?"
+    },
+    {
+      "id": 165,
+      "debut": 8102.22,
+      "fin": 8145.38,
+      "temps_estime": false,
+      "titre": "La naissance du SETI et l'immensité des fréquences radio",
+      "resume": "That curiosity gave birth to SETI, the search for extraterrestrial intelligence, with Ohio State's Big Ear at the forefront, plus Arecibo Observatory in Puerto Rico and Soviet efforts. The challenge was that the universe is vast, radio frequencies number in the billions, and nobody knew what an alien signal would look like.",
+      "mots_cles": [
+        "SETI",
+        "search for extraterrestrial intelligence",
+        "Ohio State University",
+        "Arecibo Observatory",
+        "Puerto Rico",
+        "Soviet astronomers",
+        "radio frequencies",
+        "alien signal"
+      ],
+      "texte": "This wild curiosity gave birth to SETI, the search for extraterrestrial intelligence, a field so new that it was barely considered science. But, at the forefront was Ohio State University, home to Kraus's Big Ear telescope. Their approach was simple. If aliens were out there broadcasting, someone ought to be listening. Other programs quickly sprouted up around the world, including Arecibo Observatory in Puerto Rico, with its massive 1,000-ft [music] dish carved into a tropical sinkhole. Even Soviet astronomers quietly launched their own SETI efforts. But, here is the thing about searching for aliens. The universe is incomprehensibly vast. Radio frequencies number in the billions, [music] and nobody had the faintest idea what an alien signal might look like."
+    },
+    {
+      "id": 166,
+      "debut": 8145.38,
+      "fin": 8205.46,
+      "temps_estime": false,
+      "titre": "Le casse-tête des données et le système de codage chiffres et lettres",
+      "resume": "The Big Ear scanned the sky in slow sweeps, converting signals into columns of numbers printed and reviewed by hand. Signals were measured against background noise: 1 was cosmic static, values rose to 9, then letters from A for 10 times the noise, so anything above 6 was noteworthy and letters were extraordinary.",
+      "mots_cles": [
+        "data processing",
+        "Big Ear printouts",
+        "signal coding system",
+        "background noise",
+        "numbers and letters",
+        "anomaly",
+        "SETI",
+        "manual review"
+      ],
+      "texte": "What SETI researchers faced wasn't just a scientific challenge, it was a data processing nightmare. The Big Ear telescope scanned the sky in slow, methodical sweeps, capturing radio signals from every corner of the cosmos, and translating them into numbers. Researchers were faced with endless columns of raw data that had to be printed, read, and reviewed by hand. The [music] coding system was simple, but tedious. Radio signals were measured against background noise, and assigned values. One meant the signal was barely detectable, effectively cosmic static. Two meant it was twice as strong, and so on up through nine. After nine, the system switched to letters. A equaled 10 times the background noise, B meant 11 times, and so forth up the alphabet. In the endless sea of ones and twos that represented the universe's normal radio chatter, anything above six was noteworthy. Anything reaching letter status was extraordinary, and anything into the middle of the alphabet, that was the kind of anomaly that made astronomers drop their coffee and start double-checking equipment calibrations."
+    },
+    {
+      "id": 167,
+      "debut": 8205.46,
+      "fin": 8251.54,
+      "temps_estime": false,
+      "titre": "La fréquence 1420 MHz de la raie de l'hydrogène",
+      "resume": "The Big Ear team targeted 1420 MHz, the hydrogen line, the frequency at which hydrogen atoms emit radio waves when electrons flip energy states. Since hydrogen is the most common element, it is the universe's baseline hum that any scientifically literate species would recognize, and astronomer Jerry Ehman and colleagues combed the printouts for years.",
+      "mots_cles": [
+        "1420 MHz",
+        "hydrogen line",
+        "hydrogen atoms",
+        "Jerry Ehman",
+        "Big Ear",
+        "SETI",
+        "baseline hum",
+        "electron energy state"
+      ],
+      "texte": "The Big Ear team wasn't just listening randomly. They had a target frequency that made the perfect sense from a cosmic perspective, 1420 MHz, better known as the hydrogen line. This is the frequency at which hydrogen atoms naturally emit radio waves when their electrons flip from one energy state to another. And since hydrogen is the most common element in the universe, >> [music] >> essentially the building block of everything, this frequency is like the universe's baseline hum. If aliens did exist and they wanted to get our attention, they would broadcast on a frequency that any scientifically literate species would recognize. Big Ear was patiently sweeping the heavens, recording the radio whispers of distant galaxies and quasars with astronomer Jerry Ehman and his colleagues combing through the printouts. They did this for weeks, then months, and then years."
+    },
+    {
+      "id": 168,
+      "debut": 8251.54,
+      "fin": 8280.94,
+      "temps_estime": false,
+      "titre": "Le lundi ordinaire : un signal venu du Sagittaire",
+      "resume": "Big Ear mostly found cosmic background radiation, the echo of the Big Bang 14 billion years later, and occasional pulsar signals. Then, on an ordinary Monday, a routine sweep of the constellation Sagittarius intercepted a signal coded 6EQUJ5 that broke every rule.",
+      "mots_cles": [
+        "cosmic background radiation",
+        "pulsars",
+        "Sagittarius",
+        "6EQUJ5",
+        "Big Ear",
+        "Jerry Ehman",
+        "Monday",
+        "anomalous signal"
+      ],
+      "texte": "Mostly they found cosmic background radiation, the electromagnetic echo of the Big Bang still reverberating through space 14 billion years later. Sometimes they would catch interesting signals from pulsars and other natural phenomena, but mostly it was just quiet. And then, on [music] a perfectly ordinary Monday, something extraordinary happened. The Big Ear was conducting its routine sweep of the constellation Sagittarius when it intercepted a signal that broke every rule in the book. 6EQJ5."
+    },
+    {
+      "id": 169,
+      "debut": 8280.94,
+      "fin": 8331.62,
+      "temps_estime": false,
+      "titre": "Le signal Wow : 1420,4556 MHz, 30 fois plus fort, 72 secondes",
+      "resume": "The signal was so narrow in bandwidth it had to be artificial, almost exactly on the hydrogen line at 1420.4556 MHz, and 30 times stronger than anything recorded from that region. Jerry Ehman circled the printout and wrote Wow in red ink; it lasted exactly 72 seconds, the maximum time Big Ear could track a source.",
+      "mots_cles": [
+        "Wow signal",
+        "1420.4556 MHz",
+        "Jerry Ehman",
+        "72 seconds",
+        "narrow bandwidth",
+        "artificial origin",
+        "30 times stronger",
+        "SETI history"
+      ],
+      "texte": "The signal was precisely focused, [music] so narrow in bandwidth it had to be artificial. It came in almost exactly on the hydrogen line frequency, [music] 1420.4556 MHz, down to a decimal that suggested deliberate calibration. That kind of precision didn't [music] happen by accident. Even more astonishing was its strength. The U designation meant that it was 30 times stronger than anything they'd ever recorded from that region of space. Jerry Ehman circled the printout and scrolled one word in red ink, \"Wow\", capturing the magnitude of what they found. The annotation became the most famous in SETI history. For exactly 72 seconds, the maximum time that Big Ear could track any source as Earth's rotation carried the telescope's beam across the sky, something in the cosmos was transmitting a signal with all the characteristics of artificial origin."
+    },
+    {
+      "id": 170,
+      "debut": 8331.62,
+      "fin": 8374.98,
+      "temps_estime": false,
+      "titre": "Un signal disparu et le problème de la réplication",
+      "resume": "The source of the Wow signal vanished and has stayed silent despite decades of follow-up with better technology, and the Big Ear team found only radio silence when rescanning the same patch of sky. This is the replication problem: science requires results others can reproduce, but the cosmos does not perform on command.",
+      "mots_cles": [
+        "Wow signal",
+        "vanished signal",
+        "replication problem",
+        "follow-up observations",
+        "Big Ear",
+        "radio silence",
+        "extraordinary evidence",
+        "72 seconds of data"
+      ],
+      "texte": "But [music] just as suddenly as it arrived, the source of the Wow signal vanished, and it's remained [music] silent ever since. Despite decades of follow-up observations armed with ever more advanced detection technology, nothing like it has ever been heard again from that corner of the cosmos. The Big Ear team acted quickly. They [music] reoriented their radio array to that same patch of sky, scanning and re-scanning hoping for another bite, but they were met with a radio silence. What remained was 72 seconds of data [music] and a whole lot of questions. This was the replication problem that would haunt the Wow signal for decades. In science, extraordinary [music] claims require extraordinary evidence, and this usually means that you can show your work to someone else and get the same result. >> [music]"
+    },
+    {
+      "id": 171,
+      "debut": 8374.98,
+      "fin": 8450.21,
+      "temps_estime": true,
+      "titre": "L'hypothèse extraterrestre et ses limites",
+      "resume": "The scientific community split between researchers excited that humanity might not be alone and skeptics. For SETI the narrow-band, focused 1420 MHz signal was like winning the lottery, but the alien hypothesis struggles to explain a 72-second broadcast followed by decades of silence, possibly a lighthouse beam or equipment test, and one signal is not first contact.",
+      "mots_cles": [
+        "alien hypothesis",
+        "SETI",
+        "skepticism",
+        "narrow band signal",
+        "lighthouse beam",
+        "first contact",
+        "Wow signal",
+        "1420 MHz"
+      ],
+      "texte": ">> But the cosmos, they don't perform on command. The scientific community quickly split into different camps. Some researchers felt their hearts race with the possibility that humanity was no longer alone. Others maintained the kind of healthy skepticism that keeps [music] science from turning into science fiction. Both sides had valid points, and both sides had their work cut out for them. For SETI researchers, the Wow signal was like winning the lottery. The 1420 MHz [music] signal had all the hallmarks of artificial origin that researchers had been dreaming about. It was narrow band, incredibly focused, and transmitted at the perfect frequency. But here is where the alien hypothesis hits its first speed bump. If an extraterrestrial civilization wanted to announce their presence, why broadcast it for just 72 seconds [music] and then go silent for decades? Maybe they were scanning the galaxy like a lighthouse, their beam sweeping past Earth only briefly. Maybe they were testing their equipment. Maybe they had better things to do than chat with a species that only had recently figured out how to leave their own planet. The [music] sobering reality was that one signal, no matter how perfect, doesn't constitute first contact. It's like hearing half a sentence through static on a long-distance call. Intriguing, but hardly conclusive. The alien hypothesis remained alive, but it was starving for more evidence."
+    },
+    {
+      "id": 172,
+      "debut": 8450.21,
+      "fin": 8520.83,
+      "temps_estime": true,
+      "titre": "Les phénomènes naturels peinent à expliquer le signal Wow",
+      "resume": "The second theory is a natural cosmic phenomenon: exploding stars, black holes and quasars are violent, but quasars produce broader, messier signals than the Big Ear detected, supernovas are too brief and chaotic, and pulsars leave repetitive footprints. Natural hydrogen emissions at 1420 MHz are weak and spread out, whereas the Wow signal was concentrated and powerful and seemed to come from a specific point.",
+      "mots_cles": [
+        "natural phenomena",
+        "quasars",
+        "supernovas",
+        "pulsars",
+        "hydrogen emission",
+        "1420 MHz",
+        "Wow signal",
+        "Big Ear"
+      ],
+      "texte": "The second theory involved the natural cosmic phenomena. Space is [music] spectacularly violent. Stars explode with the force of billions of atomic bombs every second. Black holes devour matter and spit out radiation. Quasars, supermassive black holes actively feeding, blast energy across billions of light-years. Surely one of those natural phenomena could explain the Wow signal. Astronomers lined up the usual suspects. Quasars could produce narrow band signals, but they're typically much broader and messier than what the Big Ear detected. Supernovas were too brief and too chaotic, and pulsars spin with clockwork precision, but they leave distinctly repetitive footprints that the Big Ear would have instantly recognized. The signal didn't behave like any known astrophysical phenomenon. The frequency remained the smoking gun. Natural hydrogen emissions at 1420 MHz are common throughout the universe, but they are typically weak and they spread out over large areas of the sky. The Wow signal was concentrated, powerful, and it appeared to come from a specific point in space. Every natural explanation seemed to fall short of the signal's unique characteristics. The universe had produced something that looked artificial, even if no one could prove it actually was."
+    },
+    {
+      "id": 173,
+      "debut": 8520.83,
+      "fin": 8597.49,
+      "temps_estime": true,
+      "titre": "L'hypothèse des comètes d'Antonio Paris",
+      "resume": "In 2017, forty years after the signal, astronomer Antonio Paris proposed that comet 266P/Christensen and its companion 335P/Gibbs caused it, since comets emit hydrogen clouds detectable at 1420 MHz and both were in Big Ear's field of view on August 15, 1977. Observations of those comets produced much weaker signals than the 1977 one, so most scientists dismiss the hypothesis.",
+      "mots_cles": [
+        "Antonio Paris",
+        "comet 266P Christensen",
+        "comet 335P Gibbs",
+        "hydrogen clouds",
+        "1420 MHz",
+        "2017 observations",
+        "Wow signal",
+        "comet hypothesis"
+      ],
+      "texte": "It took a long time for the next plausible explanation, but 40 years after Jerry Ehman circled those famous letters and numbers, astronomer [music] Antonio Paris thought that he had cracked the case. He believed the culprit was a comet with the unglamorous name 266P Christensen, along with its companion comet 335P Gibbs. Paris's theory was elegant in its simplicity. Comets emit clouds of hydrogen gas as they streak through the solar system. Those gaseous trails, like cosmic contrails, linger in space. [music] When radio telescopes observe those hydrogen clouds, they can detect signals at 1420 MHz. The timing seemed too perfect to be a coincidence. Paris calculated that both comets were in exactly the right position to be in the Big Ear's field of view on August 15th, 1977. Modern observations of the same comets showed that they did indeed produce hydrogen signals detectable by radio telescopes. Case closed? Not quite. The 2017 observations showed much weaker signals than the powerhouse detected in 1977. If comets were the answer, why was the original Wow signal so much stronger? It was like comparing a firecracker to a stick of dynamite. Technically, the same type of explosion, but with vastly different energy levels. Most scientists now dismiss [music] Paris's hypothesis entirely."
+    },
+    {
+      "id": 174,
+      "debut": 8597.49,
+      "fin": 8643.51,
+      "temps_estime": true,
+      "titre": "L'hypothèse des magnétars de 2024 : des séismes stellaires extrêmes",
+      "resume": "The newest theory, from summer 2024, involves magnetars, collapsed cores of massive stars with magnetic fields trillions of times stronger than Earth's, strong enough to strip iron from blood within 600 miles. Their starquakes reach a magnitude of 32 and release more energy in a fraction of a second than the sun emits in 150,000 years.",
+      "mots_cles": [
+        "magnetars",
+        "neutron stars",
+        "starquakes",
+        "magnetic field",
+        "magnitude 32",
+        "2024 theory",
+        "Wow signal",
+        "stripping iron from blood"
+      ],
+      "texte": "The newest theory came as recently as the summer of 2024, and it might also be the most terrifying. Magnetars are neutron stars, well, the collapsed core of massive stars with magnetic fields so intense they would strip the iron from your blood if you got within 600 miles of one. They're the universe's ultimate magnets with field strengths trillions of times [music] more powerful than Earth's. These stellar monsters occasionally experience starquakes, events that make Earth's most devastating earthquakes look like tiny tremors. Magnetar starquakes clock in at a magnitude of 32, releasing more energy in a fraction of a second than our sun emits [music] in 150,000 years. When a magnetar experiences one of those apocalyptic hiccups, it doesn't just crack its surface. [music]"
+    },
+    {
+      "id": 175,
+      "debut": 8643.51,
+      "fin": 8694.0,
+      "temps_estime": true,
+      "titre": "Comment un magnétar expliquerait le signal Wow, et le risque d'extinction",
+      "resume": "A magnetar starquake could send shockwaves exciting hydrogen clouds light-years away so that they emit at 1420 MHz, explaining the signal's strength, brief duration and lack of repetition. A major starquake within 10 light-years could strip Earth's ozone layer and trigger mass extinction, so the signal may be a reminder of how dangerous the universe is.",
+      "mots_cles": [
+        "magnetar hypothesis",
+        "hydrogen clouds",
+        "1420 MHz",
+        "short-lived burst",
+        "never repeated",
+        "ozone layer",
+        "mass extinction",
+        "Wow signal"
+      ],
+      "texte": "It sends shockwaves through space that can excite hydrogen clouds light-years away. These hydrogen atoms then emit radiation at 1420 MHz, potentially creating signals powerful enough to be detected across vast distances. The magnetar hypothesis explains [music] both the signal strength and its brief duration. A starquake would create an intense but short-lived burst, exactly matching what [music] the Big Ear observed. It also explains why the signal was never repeated. Magnetar starquakes are rare, violent events that don't follow predictable schedules. If a magnetar within 10 light-years of Earth experienced a major starquake, the radiation burst could strip away our ozone layer and trigger a mass extinction event. The Wow signal might not have been a friendly hello from the cosmos. It could have been a reminder of just how dangerous the universe really is. The"
+    },
+    {
+      "id": 176,
+      "debut": 8694.0,
+      "fin": 8754.95,
+      "temps_estime": true,
+      "titre": "L'héritage du signal Wow pour le SETI et la radioastronomie",
+      "resume": "The Wow signal turned SETI from a fringe pursuit into legitimate science, with universities funding radio astronomy, governments taking the search seriously and volunteers analyzing signals on home computers. Kraus's printouts gave way to computer systems, and instruments such as the Allen Telescope Array and the upcoming Square Kilometer Array exist partly because of the 72-second mystery.",
+      "mots_cles": [
+        "Wow signal legacy",
+        "SETI",
+        "Allen Telescope Array",
+        "Square Kilometer Array",
+        "radio astronomy",
+        "digital age",
+        "Sagittarius",
+        "ghost signal"
+      ],
+      "texte": "Wow signal transformed SETI from a fringe pursuit into legitimate science, inspiring a new generation of telescopes and listening programs. [music] Suddenly, universities were funding radio astronomy projects, and governments were taking the search seriously. Scientists around the world were downloading software to help analyze cosmic signals from their home computers. The signal pushed radio astronomy into the digital age. Dr. Kraus's primitive printouts [music] gave way to sophisticated computer systems that could process thousands of signals simultaneously. Modern telescopes like the Allen Telescope Array and the upcoming Square Kilometer Array exist [music] partly because a 72-second mystery convinced the world we needed better tools to listen to the cosmos. Nearly [music] five decades later, we are still chasing that ghost signal and still trying to understand what spoke to us from Sagittarius that August night. Whether it [music] was aliens, comments, or cosmic catastrophe, the Wow signal proved that the universe still has secrets worth discovering and that sometimes the most profound questions [music] begin with the simplest expression of wonder."
+    },
+    {
+      "id": 177,
+      "debut": 8754.95,
+      "fin": 8787.33,
+      "temps_estime": true,
+      "titre": "Introduction à l'épisode sur les trous noirs et la fin de tout",
+      "resume": "Moving from the Wow signal to another cosmic mystery, the narrator describes black holes as invisible monsters that nothing can escape, which can freeze time and stretch bodies like spaghetti. The episode will explain what black holes are, how they form and why they could lead to the destruction of everything.",
+      "mots_cles": [
+        "black holes",
+        "spaghettification",
+        "time dilation",
+        "destruction of the universe",
+        "cosmic phenomena",
+        "introduction",
+        "how black holes form"
+      ],
+      "texte": "The 72-second signal stunned scientists, >> [music] >> but it is just one of many cosmic phenomena that we still don't understand. Imagine a monster that was so powerful nothing could escape it. Now imagine that this monster was invisible [music] and had the ability to freeze time and could stretch your body as thin as spaghetti. This might seem like a terrifying nightmare, but such monsters exist in our universe and they're called black holes. [music] Join us as we journey through the cosmos to understand what black holes are, how they form, and why they could lead to the destruction of everything as we know it."
+    },
+    {
+      "id": 178,
+      "debut": 8787.33,
+      "fin": 8859.69,
+      "temps_estime": true,
+      "titre": "Définition d'un trou noir : singularité et horizon des événements",
+      "resume": "A black hole is a region where matter is packed so tightly that gravity exceeds every other force, so even light cannot escape and everything is drawn to the singularity, where matter is compressed into an infinitely small point and known physics breaks down. The event horizon is the boundary beyond which the escape velocity exceeds the speed of light.",
+      "mots_cles": [
+        "black hole definition",
+        "gravitational force",
+        "singularity",
+        "event horizon",
+        "escape velocity",
+        "speed of light",
+        "infinitely dense point",
+        "light cannot escape"
+      ],
+      "texte": "Before diving into the science behind black need to discuss what a black hole is and how they form. [music] This will provide the foundation for understanding what happens to matter and energy that fall into a black hole. Simply [music] put, a black hole is a region of space where matter is packed so tightly together that its gravitational force becomes stronger than any other force in that part of the universe. This means that if anything, including light, gets close enough to a black hole, there [music] is no escaping its gravitational pull and it will be drawn toward the center, or what's known as the singularity. This is where the gravity of a black hole is most intense. We'll go more in-depth into the different parts and aspects of black holes, but for now it's important to know that the singularity is where matter is compressed into an infinitely tiny point and [music] everything we know about time, space, and reality breaks down. The second part of the black hole we need to define is [music] the event horizon. This is the boundary around the black hole where it becomes impossible to escape the gravitational pull produced by the singularity as the velocity needed to break free exceeds the speed of light and since the laws of physics tell us that nothing can move faster than [music] the speed of light, there's no hoping to exit the black hole once an object gets past this point."
+    },
+    {
+      "id": 179,
+      "debut": 8859.69,
+      "fin": 8905.02,
+      "temps_estime": true,
+      "titre": "Histoire du concept : John Michell, Einstein et la relativité générale",
+      "resume": "The first person to describe a black hole was John Michell, an English clergyman, in 1783, but his ideas were forgotten until the mathematics existed. In 1915 Einstein's general relativity predicted black holes, the community was divided, but physicists using his equations showed they were theoretically possible.",
+      "mots_cles": [
+        "John Michell",
+        "1783",
+        "Albert Einstein",
+        "general relativity",
+        "1915",
+        "black hole prediction",
+        "history of physics",
+        "theoretical black holes"
+      ],
+      "texte": "The first person to describe a black hole was a religious man in England by the name of John Michell in 1783. Michell was considered a brilliant scientist at the time. However, his ideas eventually fell into obscurity since [music] the math and understanding of physics necessary to explain how a black hole works wouldn't be invented for another century and a half. In 1915, when Albert Einstein came up with his theory of general relativity, he predicted [music] the existence of black holes based on the equations that he invented. At this point, the scientific [music] community was divided on whether such a powerful and terrifying source of gravity could actually exist, [music] but as cosmologists and mathematicians began to investigate the universe using Einstein's equations, it became clear that black holes were indeed [music] theoretically possible."
+    },
+    {
+      "id": 180,
+      "debut": 8905.02,
+      "fin": 8936.9,
+      "temps_estime": true,
+      "titre": "Cygnus X-1, le premier trou noir observé",
+      "resume": "In the early 1970s British astronomers Louise Webster and Paul Murdin, and Thomas Bolton of the University of Toronto, independently announced an invisible massive object orbiting a star over 6,000 light-years away and emitting large amounts of X-rays. Named Cygnus X-1, it came to be regarded as the first black hole ever observed.",
+      "mots_cles": [
+        "Cygnus X-1",
+        "Louise Webster",
+        "Paul Murdin",
+        "Thomas Bolton",
+        "X-rays",
+        "first observed black hole",
+        "Royal Greenwich Observatory",
+        "6,000 light-years"
+      ],
+      "texte": "Then in the early '70s, British astronomers Louise Webster and Paul Murdin at the Royal Greenwich Observatory [music] and Thomas Bolton, a graduate student at the University of Toronto, independently announced that they had discovered an invisible massive object orbiting [music] a star over 6,000 light years from Earth. The celestial body was emitting massive amounts of x-rays, but the source of the radiation could not be seen. The astronomers named the mysterious object Cygnus X-1, which would eventually be regarded as the first black hole ever to be observed by scientists."
+    },
+    {
+      "id": 181,
+      "debut": 8936.9,
+      "fin": 8972.87,
+      "temps_estime": true,
+      "titre": "Qu'est-ce qu'une année-lumière ?",
+      "resume": "A light-year is a measure of distance, not time: how far light travels in one Earth year at 299,792,458 m/s, about 186,282 mph. One light-year is roughly 5.88 trillion miles or 9.46 trillion kilometers, so 6,000 light-years is around 30,000 trillion miles.",
+      "mots_cles": [
+        "light-year",
+        "speed of light",
+        "299,792,458 m/s",
+        "186,282 mph",
+        "5.88 trillion miles",
+        "9.46 trillion kilometers",
+        "distance unit",
+        "astronomy"
+      ],
+      "texte": "It's [music] worth mentioning before we go any further that a light-year is the measurement of distance and not [music] time. When scientists use the term light-year, they're talking about the distance that light travels in one Earth year. Since light always travels at the same speed of 299,792,458 [music] m/s or about 186,282 mph, one light year is approximately 5.88 trillion miles or 9.46 trillion kilometers. This means that 6,000 light years is around 30,000 trillion miles."
+    },
+    {
+      "id": 182,
+      "debut": 8972.87,
+      "fin": 9045.15,
+      "temps_estime": false,
+      "titre": "Formation des trous noirs : fusion stellaire et supernova",
+      "resume": "Most black holes form when a large star goes supernova and collapses. Fusion in a star's core builds hydrogen into helium, carbon and finally iron and nickel, after which fusion no longer releases energy, pressure drops, gravity takes over and the star collapses in seconds, leaving an infinitely dense point if the star is about three times the sun's mass or more.",
+      "mots_cles": [
+        "black hole formation",
+        "supernova",
+        "stellar fusion",
+        "hydrogen to helium",
+        "iron and nickel",
+        "gravitational collapse",
+        "star mass",
+        "infinitely dense point"
+      ],
+      "texte": "Let's now discuss how these incredible marvels of space actually form. Even though we know the basic properties and [music] physics of black holes, there's still a lot that scientists have yet to uncover. We know that most black holes are formed when a large star goes supernova and collapses in on itself. In the middle of stars, elements are being forced together in a process called fusion. Initially, the hydrogen in a star fuses together to form helium. After the star uses up all of its hydrogen, helium begins to fuse into carbon. This process continues until [music] the fusion of elements start to produce iron and nickel. At that point, the fusion process no longer releases energy, instead requiring an input of energy to keep going. This causes [music] the star to cool, leading to the outward forces of pressure slowly dropping. When this pressure drops to a low enough level, gravity takes over and the star collapses in on itself [music] in a matter of seconds, resulting in a supernova explosion. In order for a star to go supernova, it must have a mass approximately three times greater than our sun. Once these massive [music] stars spew their elements across the cosmos, all that remains is an infinitely dense point in space. And this is how a black hole is born."
+    },
+    {
+      "id": 183,
+      "debut": 9045.15,
+      "fin": 9112.85,
+      "temps_estime": true,
+      "titre": "Trous noirs d'origine mystérieuse et le tri des idées reçues",
+      "resume": "Stellar collapse cannot explain every black hole, and in December 2004 gamma-ray burst afterglows suggested a black hole and a neutron star colliding to form a larger one, showing that bigger black holes can come from cosmic collisions. Supermassive black holes at galaxy centers are the most massive, yet scientists still do not know how they formed, and the narrator announces common misconceptions to address.",
+      "mots_cles": [
+        "supermassive black holes",
+        "gamma-ray bursts",
+        "December 2004",
+        "black hole and neutron star collision",
+        "origin of black holes",
+        "galaxy centers",
+        "unsolved mystery",
+        "misconceptions"
+      ],
+      "texte": "However, the collapse of stars cannot account for every black hole in the universe, and this is where scientists are stumped. It's [music] not entirely clear where some of the largest black holes in our cosmos came from. In December of 2004, astronomers observed flashes of light coming from a series of gamma-ray bursts. The data collected [music] suggested that these flashes were the afterglow of a gigantic explosion that that from a black hole and a neutron star colliding. This event resulted in a significantly larger black hole forming, which confirmed that black holes are not only created by the collapse of massive stars, [music] but much larger black holes can be born from cosmic collisions. The largest black holes in the universe can be found in the center of galaxies and are known as supermassive black holes. The craziest part is that even though scientists know these are the most massive and [music] densest black holes in our universe, they still don't know exactly how they were formed. We'll look more closely at each type of black hole to better understand what makes them different [music] from one another and hopefully gain a little more insight into where they came from. But before we do this, let's address some common [music] misconceptions about these cosmological monsters."
+    },
+    {
+      "id": 184,
+      "debut": 9112.85,
+      "fin": 9156.05,
+      "temps_estime": true,
+      "titre": "Les trous noirs ne sont pas des trous de ver",
+      "resume": "Wormholes in science fiction let travelers cross the galaxy in minutes, and theoretically they could act as space shortcuts by folding space-time, with an entrance in one region and an exit light-years away. The narrator explains this concept before contrasting it with black holes.",
+      "mots_cles": [
+        "wormholes",
+        "science fiction",
+        "space shortcut",
+        "folding space-time",
+        "light speed travel",
+        "tunnel through space",
+        "black holes vs wormholes"
+      ],
+      "texte": "Black holes are not the same as wormholes. Sci-fi epics love to include wormholes that can take space travelers from one point of a galaxy to another in a matter of minutes. [music] This is very important when writing exciting plots because no one would want to watch a show or read a book depicting a [music] crew traversing the cosmos at light speed and arriving at their destination hundreds of years after they left. Wormholes fix this narrative problem as theoretically speaking, they can be used as a kind [music] of space shortcut by folding space-time. The way this could work is that two points in the universe could be connected by a tunnel that [music] has an entrance in one region of space-time and an exit hundreds, thousands, or even millions of light-years away."
+    },
+    {
+      "id": 185,
+      "debut": 9156.05,
+      "fin": 9190.74,
+      "temps_estime": true,
+      "titre": "L'analogie de l'insecte et de la feuille pliée",
+      "resume": "To visualize a wormhole, imagine an insect crawling across a sheet of paper: crawling the whole page takes a long time, but if the paper is folded so the two edges touch, a few steps suffice. Likewise two points in space-time could be folded together so that you pass through the fold from one point to the other.",
+      "mots_cles": [
+        "wormhole analogy",
+        "insect on paper",
+        "folded paper",
+        "space-time fold",
+        "shortcut",
+        "two points in space-time",
+        "visualization"
+      ],
+      "texte": "To visualize this better, [music] let's say you were a small insect on a piece of paper and you wanted to crawl from one end of the paper to the other. Under normal circumstances, you need to crawl across the entire page [music] to get to your destination, which could take a very long time. However, if the goal is to get from one edge of the paper to the opposite edge and we fold the paper in half, you would only need to take a few [music] steps to reach your destination. This is similar to how a wormhole might work in our cosmos. >> [music] >> The two points in space-time could be folded on top of one another and the wormhole would allow you to pass from one point through the fold to the other point."
+    },
+    {
+      "id": 186,
+      "debut": 9190.74,
+      "fin": 9214.98,
+      "temps_estime": true,
+      "titre": "Un trou noir n'est pas un raccourci : on y est écrasé par la singularité",
+      "resume": "Black holes do not work like wormholes: entering one to shortcut between two points means being swallowed by the singularity and crushed by its gravity. As far as we know nothing lies on the other side, and beyond the event horizon you are dragged into darkness with no escape.",
+      "mots_cles": [
+        "black holes vs wormholes",
+        "singularity",
+        "crushed by gravity",
+        "event horizon",
+        "no escape",
+        "misconception",
+        "no shortcut"
+      ],
+      "texte": "Unfortunately, black holes [music] do not do this because they are completely different phenomenon than wormholes. Instead, if you entered a black hole looking to take a shortcut between two points in space, you would be swallowed up by the singularity and crushed under its immense gravitational force. As far as we know, there is nothing on the other side of a black hole. Once you pass the event horizon, you're dragged into the darkness [music] with no way to escape. Another"
+    },
+    {
+      "id": 187,
+      "debut": 9214.98,
+      "fin": 9263.54,
+      "temps_estime": true,
+      "titre": "Les trous noirs ne sont pas des aspirateurs cosmiques",
+      "resume": "Black holes do not suck things in; objects fall in when their trajectory brings them too close to the gravitational pull, and stars, solar systems and galaxies orbit black holes like planets orbit a star. Things are constantly knocked into black holes, for example Sagittarius A at the center of the Milky Way, which keeps devouring stellar dust, bodies and stars.",
+      "mots_cles": [
+        "vacuum cleaner misconception",
+        "black hole orbits",
+        "gravitational pull",
+        "Sagittarius A",
+        "Milky Way center",
+        "stars and solar systems",
+        "trajectory"
+      ],
+      "texte": "common misconception is that black holes are the vacuum cleaners of the universe, sucking up any thing and everything into them as they stalk the cosmos. [music] In reality, black holes don't suck anything in. Instead, objects fall into black holes when they're put on a trajectory [music] that brings them too close to a black hole's gravitational pull. Entire stars, solar systems, or galaxies orbit black holes [music] in the same fashion that planets of a solar system orbit their star. And just like asteroids or any cosmic body that gets knocked off course, entire [music] solar systems can end up on trajectories that bring them into the path of a massive black hole. Due to our universe's chaotic nature, things are always being knocked into black holes. For example, [music] Sagittarius A, the black hole in the middle of our Milky Way galaxy, is constantly devouring stellar dust, celestial bodies, and stars."
+    },
+    {
+      "id": 188,
+      "debut": 9263.54,
+      "fin": 9288.37,
+      "temps_estime": true,
+      "titre": "Les jets relativistes issus de la matière avalée",
+      "resume": "When objects are ripped apart and consumed by a black hole, they release huge amounts of energy and matter. This can produce relativistic jets that shoot gamma radiation at near the speed of light, decimating anything in their path, including stars and planets.",
+      "mots_cles": [
+        "relativistic jets",
+        "gamma radiation",
+        "near the speed of light",
+        "matter ripped apart",
+        "black hole energy",
+        "destructive phenomena",
+        "stars and planets"
+      ],
+      "texte": "Some incredibly [music] interesting and destructive phenomena can occur depending on what falls into the black hole. As some objects are ripped apart and consumed, they release huge amounts of energy and matter that are hurled across the universe. [music] This can lead to a phenomenon known as relativistic jets, which shoot gamma radiation at near the speed of light out from a black hole, decimating anything [music] in their path, including stars and planets."
+    },
+    {
+      "id": 189,
+      "debut": 9288.37,
+      "fin": 9323.31,
+      "temps_estime": true,
+      "titre": "Les catégories de trous noirs : stellaires, supermassifs, intermédiaires et primordiaux",
+      "resume": "Astronomers classify black holes as stellar mass, supermassive and intermediate mass, with no exact parameters, and some straddle the boundaries, which scientists keep reassessing. A fourth category, primordial black holes, was added relatively recently, and the narrator introduces examining each type, starting with stellar mass black holes.",
+      "mots_cles": [
+        "black hole classification",
+        "stellar mass black holes",
+        "supermassive black holes",
+        "intermediate mass black holes",
+        "primordial black holes",
+        "categories",
+        "boundaries",
+        "astronomers"
+      ],
+      "texte": "Typically, astronomers classify black holes in one of three [music] categories: stellar mass, supermassive, and intermediate mass. There are no exact parameters for each set class, [music] and there are black holes that straddle the line between the two groups. In fact, scientists are constantly reassessing and shifting the boundaries of each black hole type. Relatively recently, a fourth category called [music] primordial black holes has been added. Let's examine each one to get a better understanding of the diversity within these phenomena and how it affects the science that goes on with them. Stellar mass black [music] holes."
     }
   ]
 }

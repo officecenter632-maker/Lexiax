@@ -31,3 +31,8 @@ Départ : segments.json existant, complet=false, 2738 lignes traitées, 109 segm
 
 ## Point d'arrêt
 Dernière ligne traitée : 3741. Prochaine étape : reprendre à la ligne 3742 (liste d'exoplanètes potentiellement habitables : HD 20794d, Gliese 12b, Kepler-62f, Kepler-442b, TRAPPIST-1) avec l'id 151.
+
+- Tranche 5 : lignes 3742 à 4674, 7432.01 s à 9323.31 s (environ 31,5 min), 39 segments (#151 à #189). Vérification OK. Contenu : fin de l'épisode K2-18b (exoplanètes candidates, spectroscopie, critiques, futurs télescopes) (#151 à #158), épisode sur le signal Wow et le Big Ear de John Kraus (#159 à #176 : SETI, raie de l'hydrogène 1420 MHz, hypothèses comètes d'Antonio Paris et magnétars), début d'un épisode sur les trous noirs (#177 à #189 : définition, histoire, Cygnus X-1, année-lumière, formation, trous de ver, idées reçues, classification). Remarques : 31 segments sur 39 ont un temps estimé (coupures en milieu de ligne). Lignes 4411 à 4412 : le texte automatique est tronqué (« science behind black / need to discuss »), gardé tel quel. Le dernier segment finit à la fin de la ligne 4674 (« Stellar mass black holes. »), qui annonce le segment suivant.
+
+## Point d'arrêt
+Dernière ligne traitée : 4674. Prochaine étape : reprendre à la ligne 4675 (« Not all stars that go supernova end up as black holes ») avec l'id 190 : trous noirs stellaires, puis les autres catégories.
