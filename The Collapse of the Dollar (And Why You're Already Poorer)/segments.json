@@ -4,12 +4,12 @@
   "titre_video": "The Collapse of the Dollar (And Why You're Already Poorer)",
   "duree_s": 13885.44,
   "avancement": {
-    "lignes_traitees": 5354,
-    "fin_traitee_s": 10773.84,
+    "lignes_traitees": 6253,
+    "fin_traitee_s": 12565.36,
     "nb_lignes_total": 6916,
     "complet": false
   },
-  "nb_segments": 259,
+  "nb_segments": 321,
   "segments": [
     {
       "id": 1,
@@ -4736,6 +4736,1184 @@
         "top rung"
       ],
       "texte": "time of writing, there is one [music] man sitting at the top of the ladder. Elon Musk is the wealthiest person in the world with an abundance of both net worth and painfully unfunny memes. As of 2025, his fortune grows at a staggering [music] rate of $7,000 to $10,000 every single second. His net worth calculated as total assets minus liabilities stands at a staggering $400 billion. So that is our top rung. The billionaires and the ultra wealthy who are living in a world of their own. Their wealth isn't affected by borders. [music] They have the freedom to live, operate, and bank wherever they choose, often in tax havens [music] designed to protect and grow their wealth. Anyone with at least"
+    },
+    {
+      "id": 260,
+      "debut": 10773.84,
+      "fin": 10829.6,
+      "temps_estime": false,
+      "titre": "Millionaires: 82 million people with 38% of wealth and passive income",
+      "resume": "Anyone with at least a million dollars in net worth sits on this rung: around 82 million people controlling nearly 38% of the world's wealth. They build wealth through years of investing, with portfolios generating passive income so that work becomes optional; they are investors or major shareholders, may reinvest or spend time on golf and travel, and can afford financial independence.",
+      "mots_cles": [
+        "millionaires",
+        "82 million people",
+        "38% of world's wealth",
+        "passive income",
+        "investing",
+        "financial independence",
+        "major shareholders",
+        "optional work"
+      ],
+      "texte": "a million dollars in net worth sits on this rung of the ladder. Millionaires may be more common than the ultra rich, but they are still rare compared to the global [music] population. Around 82 million people fall into this group, collectively controlling nearly 38% of the world's wealth. People in this tier often build their wealth through years of investing, [music] creating portfolios that generate enough passive income to cover their daily life. Work becomes optional. Many hold jobs in name only, but their real role is as investors or major shareholders at companies. [music] It's a position far removed from those further down the ladder filing the paperwork. With the right investments, their passive income can grow enough to secure a comfortable lifestyle. Some choose to reinvest and [music] build lasting security, while others spend their days on the golf course, traveling the world, and buying luxury goods, all while living off their portfolios well into retirement. They have the wealth and financial independence needed to afford that choice. Going one notch down and we're"
+    },
+    {
+      "id": 261,
+      "debut": 10829.6,
+      "fin": 10877.68,
+      "temps_estime": false,
+      "titre": "Middle and lower tiers: comfortable middle, secure rung and the global median",
+      "resume": "Where most people are: the comfortable middle owns a home, a car and has retirement savings or a pension, and the secure rung is about 10% of the global population, concentrated in the US, China and Japan. The US holds nearly 30% of private wealth and averages about $38 an hour (just under $79,000 a year), yet many who feel middle class fall below the global median.",
+      "mots_cles": [
+        "comfortable middle",
+        "secure rung",
+        "10% of global population",
+        "US private wealth 30%",
+        "average American wage",
+        "$79,000 a year",
+        "global median",
+        "middle class"
+      ],
+      "texte": "arriving at the middle and lower tiers of the ladder. And this is where most people are, maybe even you. Falling into the comfortable middle of the ladder are the people who might own a home, a car, and have retirement savings or some form of a pension plan. Next is the secure run, which [music] makes up about 10% of the global population. Mostly concentrated in the wealthiest nations like the United States, [music] China, and Japan. The US alone holds nearly 30% of the world's private wealth. As of August 2025, the average American wage sits around $38 an hour or just [music] under $79,000 a year. By global standards, most Americans are still doing well. But many who see themselves as comfortably middle class actually [music] fall below the global median, placing them closer to the lower end of the wealth ladder, even if they feel secure at [music] home. Between each"
+    },
+    {
+      "id": 262,
+      "debut": 10877.68,
+      "fin": 10920.56,
+      "temps_estime": false,
+      "titre": "Income inequality within and between countries: South Africa versus the US",
+      "resume": "Wealth is not evenly spaced between rungs and there is massive inequality even within a group, as Elon Musk's fortune dwarfs other billionaires. Being in the top 10% of one country may be only average in another. South Africa has the highest income inequality, the top 10% taking 65% of income versus 47% in the US, yet US top earners are richer in absolute terms: location shapes wealth.",
+      "mots_cles": [
+        "income inequality",
+        "South Africa",
+        "top 10% income",
+        "65% of income",
+        "47% of income US",
+        "Elon Musk",
+        "where you live",
+        "inequality between countries"
+      ],
+      "texte": "rung of the ladder, wealth isn't evenly spaced. There's massive inequality. even within the same group. [music] And that pattern continues all the way to the top. It's why we mentioned Elon Musk earlier. His fortune is so extreme that it dwarfs even the net worth of other billionaires. Being in the top 10% of one [music] country might only put you in the middle of the pack in another. The country with the highest income inequality is South Africa. In the US, the top [music] 10% take home about 47% of all income. In South Africa, that figure jumps to 65%. >> [music] >> Yet, despite the bigger share, Americ's top 10% are often wealthier in absolute terms. It just shows you that one of the biggest factors shaping wealth isn't just status. [music] It's where in the world you live. So far, we've been"
+    },
+    {
+      "id": 263,
+      "debut": 10920.56,
+      "fin": 10966.64,
+      "temps_estime": false,
+      "titre": "Wealth inequality: South Africa 86%, Netherlands 56%, US 71%",
+      "resume": "Wealth, the total value of everything someone owns, is more unequal than income. South Africa's richest 10% hold around 86% of national wealth, the Netherlands' top 10% hold 56%, and the US sits between, with the top 10% controlling about 71% of national wealth as of 2021, even though US income inequality looks smaller than South Africa's.",
+      "mots_cles": [
+        "wealth inequality",
+        "top 10% wealth",
+        "South Africa 86%",
+        "Netherlands 56%",
+        "US top 10% 71%",
+        "income versus wealth",
+        "net worth",
+        "2021 data"
+      ],
+      "texte": "talking about income, the money people earn. But wealth goes even [music] further. It's the total value of everything someone owns, from houses and cars to savings and investments. And when we look at wealth inequality, the picture gets even starker. [music] South Africa again tops the list with its richest 10% holding around 86% of the nation's wealth. On the opposite end of the scale, [music] the Netherlands is far more balanced. Its top 10% hold just 56% of the wealth, still nearly 1.5 trillion, but far less lopsided. The US sits somewhere in between. While income inequality may look smaller than South Africa's, wealth inequality is massive. As of 2021, America's top 10% controlled about 71% of the nation's [music] wealth. For people on this rung of the"
+    },
+    {
+      "id": 264,
+      "debut": 10966.64,
+      "fin": 11012.96,
+      "temps_estime": false,
+      "titre": "Life on the secure rung: a cushion, choice and fear of sliding down",
+      "resume": "On this rung money is not a daily anxiety: people may worry about the future but are stable, with savings to weather illness, job loss or sudden expenses, which gives some choice such as a career change or a gamble on something fulfilling. Still, everyone looks up at the rung above with envy and one bad decision or crisis could send them sliding down.",
+      "mots_cles": [
+        "secure rung",
+        "financial stability",
+        "emergency savings",
+        "career change",
+        "envy",
+        "sliding down",
+        "financial cushion",
+        "wealth and choice"
+      ],
+      "texte": "ladder, money isn't a daily source of anxiety. They might worry about the future or unexpected costs, but daytoday they're stable. [music] Most have enough savings to weather emergencies like illness, job loss, or sudden expenses. A big one-off cost might sting, but it won't bankrupt them. Their accumulated wealth gives them a cushion against life's surprises. At this level of wealth comes a measure of choice. Okay, [music] it doesn't have the limitless freedom of the upper rungs, but it's still enough to consider a career change or take a gamble on something more fulfilling. Still, security doesn't mean satisfaction. On this ladder, everyone is always looking up at the rung above with envy. And at that [music] same time, the rung beneath serves as a constant reminder. One bad decision, one crisis, or just a streak of bad luck [music] could send them sliding down."
+    },
+    {
+      "id": 265,
+      "debut": 11012.96,
+      "fin": 11079.76,
+      "temps_estime": false,
+      "titre": "The stable rung: almost 90% of the world, with Spain as an example",
+      "resume": "The first rung in the lower half is called stable, a significant gap below secure; almost 90% of the world's population is here. In Spain, with a median income of about $40 a day, people afford quality housing, healthcare and social security paid via taxes; they own few assets, may not be on the property ladder, but have some emergency savings and can take a vacation once or twice a year.",
+      "mots_cles": [
+        "stable rung",
+        "90% of world population",
+        "Spain median income",
+        "$40 a day",
+        "emergency funds",
+        "property ladder",
+        "public services",
+        "decent quality of life"
+      ],
+      "texte": "Moving further down, we hit the first rung in the lower half of our ladder. One that [music] we'll call stable. This rung may seem close to the one above, but the gap is still significant. There's a big difference between being secure and only just managing [music] to stay stable. This rung is where almost 90% of the world's population exists. If [music] we use a country like Spain as an example, where the median income is around $40 a day, most people are able to afford quality housing, [music] a decent standard of healthare, social security, and other essential public services, all paid for via taxation. Most people [music] at this degree of wealth probably don't own a whole lot of assets, and not all would have been able to make it onto the property ladder, but most will likely have access to emergency funds in the form of cash that they've managed to save. [music] While it might not be as much as the level above, it's probably enough to bear the weight of an unexpected cost. People on this rung may not live extravagantly, but they usually earn enough for a decent quality [music] of life. Vacations are possible, maybe once a year, twice if they're lucky, but often not to the dream destinations they'd like. But once again, location matters."
+    },
+    {
+      "id": 266,
+      "debut": 11079.76,
+      "fin": 11107.84,
+      "temps_estime": false,
+      "titre": "Country development and the freedom to travel without a visa",
+      "resume": "A country's level of development shapes what wealth means: less development means weaker education, fewer high-paying jobs and lower incomes and national wealth. It also restricts citizens below a certain wealth level, notably the freedom to travel, since lower-income countries' citizens can visit fewer countries without a visa.",
+      "mots_cles": [
+        "country development",
+        "visa-free travel",
+        "lower income countries",
+        "weaker education",
+        "high-paying jobs",
+        "national wealth",
+        "freedom to travel",
+        "globalized world"
+      ],
+      "texte": "A country's level of development plays a huge role [music] in shaping what wealth really means. Even in a globalized world, not every nation has the same growth. [music] Less development often means weaker education, fewer high-paying jobs, and ultimately lower incomes and national wealth overall. This also restricts citizens who remain below a certain level of wealth in specific ways. One of which being [music] the freedom to travel. Lower income countries tend to have a smaller number of countries that their citizens can visit without the need for a visa."
+    },
+    {
+      "id": 267,
+      "debut": 11107.84,
+      "fin": 11140.48,
+      "temps_estime": false,
+      "titre": "The solvent rung: making ends meet with no financial cushion",
+      "resume": "The penultimate rung, called solvent, is not financially comfortable: people can keep the lights on and pay rent but it is a stretch and they only make ends meet. Emergency funds are very limited, a month without income is terrifying, and gambling on a higher-paying job feels like a huge risk because stopping work could leave them without enough for the next month.",
+      "mots_cles": [
+        "solvent rung",
+        "making ends meet",
+        "emergency funds",
+        "no financial cushion",
+        "financially uncomfortable",
+        "penultimate rung",
+        "living paycheck to paycheck",
+        "risk of quitting job"
+      ],
+      "texte": "Lower down, we reach the [music] penultimate rung, and this is what we'll call the solvent level. Those living at this level aren't financially comfortable. While they might make enough to keep the lights on and pay their rent, it is a stretch and [music] normally they only have enough to make ends meet. Access to emergency funds is way more limited here and the idea of going even a month without any income is a terrifying prospect. [music] Taking a gamble on trying to get a higher paying position feels like a huge risk. After all, if someone on this rung stops working, they may not even have enough to make it through the next month."
+    },
+    {
+      "id": 268,
+      "debut": 11140.48,
+      "fin": 11182.56,
+      "temps_estime": false,
+      "titre": "Solvent rung examples: Brazil at $17 a day and Indonesia at $8 a day",
+      "resume": "In Brazil, where most people sit at the upper end of the solvent rung, the median wage is roughly $17 per day, enough to have access to a computer or car, and above the global average. In Indonesia, with a median wage as low as $8 a day, people still have smartphones, internet and transportation but housing is cramped, with multiple family members sharing space.",
+      "mots_cles": [
+        "Brazil median wage",
+        "$17 per day",
+        "Indonesia median wage",
+        "$8 a day",
+        "global average",
+        "cramped housing",
+        "smartphones internet",
+        "solvent rung"
+      ],
+      "texte": "[music] Take Brazil for example. Most people there sit on the upper end of this solvent rung of the ladder. The median wage is roughly $17 per day, which is a level of income that still makes [music] it possible to have access to things like a computer or car. But while Brazil is far from the richest country in the world, it is at least above the global average. In places like [music] Indonesia, where the median wage is as low as $8 a day, the story is very different. Many people still have access [music] to smartphones, the internet, and basic transportation. But housing is often cramped with multiple family members sharing the same space. Though it usually still includes essentials like a bathroom, kitchen, and bedrooms. It's not ideal. But it could certainly be worse. Now, we reach the bottom rung"
+    },
+    {
+      "id": 269,
+      "debut": 11182.56,
+      "fin": 11217.2,
+      "temps_estime": false,
+      "titre": "The bottom rung: dependence, which almost everyone has experienced",
+      "resume": "The bottom rung covers the billions living on a few dollars a day, where poverty is about survival rather than perception; some models call this level dependence. Almost all of us have been here as children, financially dependent on parents, the state, a foster family or even the kindness of strangers.",
+      "mots_cles": [
+        "bottom rung",
+        "dependence",
+        "extreme poverty",
+        "financial dependence",
+        "childhood dependence",
+        "foster family",
+        "survival",
+        "few dollars a day"
+      ],
+      "texte": "of the ladder. [music] And the billions around the world who are living on less than a few dollars a day. Down here, poverty isn't about perception, [music] it's about survival. A lot of models call this level dependence. And it might surprise you to learn that almost all of us have been here [music] at some point in our lives. Of course, not everyone is born into the same social or economic background and circumstances vary wildly. But in our earliest years, almost all of us are financially dependent on someone [music] else. For most, that support comes from parents during childhood. For others, it may come from the state, [music] a foster family, or even the kindness of strangers. For those born into the"
+    },
+    {
+      "id": 270,
+      "debut": 11217.2,
+      "fin": 11268.56,
+      "temps_estime": false,
+      "titre": "Lowest GDP countries: Burundi and life at the bottom of the ladder",
+      "resume": "The hardest circumstances are in countries with the lowest GDP, including all of Africa. In Burundi the median wage is reported as $180 per day (probably a transcription of per year), some wages as low as 90 cents a day, families rely on limited agriculture, rural houses are mud with no electricity and 1 in 17 children do not reach age five; this rung is a little over 3.5% of the population.",
+      "mots_cles": [
+        "Burundi",
+        "lowest GDP per capita",
+        "Africa",
+        "child mortality",
+        "extreme poverty",
+        "agriculture work",
+        "3.5% of world population",
+        "median wage"
+      ],
+      "texte": "hardest circumstances [music] here, we'd see the countries in the world with the lowest GDP, which includes all of the countries in the continent of Africa. One nation with the lowest GDP per capita, is Burundi, with a median wage of only $180 [music] per day. And that is not a guaranteed income either. Some wages can be as low as 90 cents a day. Families are dependent on limited agriculture work to make a living with a real poor quality of life. [music] In most rural areas, houses are made using mud, bricks, and have no electricity. Children are at a higher risk of death [music] with 1 in 17 unlikely to make it to 5 years old due to the lack of access to adequate healthcare. While this part of the ladder only accounts for little over 3.5% [music] of the world's population, and not everyone on this rung is dependent in the same way. Needless to say, life this low down the ladder is an unimaginable struggle. Like we've highlighted"
+    },
+    {
+      "id": 271,
+      "debut": 11268.56,
+      "fin": 11294.64,
+      "temps_estime": false,
+      "titre": "Conclusion: you are closer to the middle of the global wealth ladder than you think",
+      "resume": "Wealth is not only the money in your wallet or bank account but the sum of everything you own and where that places you globally. Being well off in your own city does not make you top dog; you are probably closer to the middle of the global wealth ladder, which is steeper than it looks. The last words introduce a video on 50 facts about money.",
+      "mots_cles": [
+        "global wealth ladder",
+        "global context",
+        "middle of the ladder",
+        "wealth definition",
+        "steep ladder",
+        "relative wealth",
+        "net worth",
+        "conclusion"
+      ],
+      "texte": "throughout this video, wealth isn't just about how much you have handy in your wallet or the number in your bank account. It's about the sum total of all you have to your name and where that places you within a wider global context. Just because you're well off in your own city doesn't make you top dog. You're probably much closer to the middle of the global wealth ladder than you think. After all, most of us are because the ladder is much steeper than it looks. These are 50 facts about"
+    },
+    {
+      "id": 272,
+      "debut": 11294.64,
+      "fin": 11312.32,
+      "temps_estime": false,
+      "titre": "Fact 50: the British pound is the oldest currency in use",
+      "resume": "The British pound sterling is over a thousand years old, the oldest currency in continuous use, dating to the Anglo-Saxon period about 1,200 years ago. It evolved from the sterling silver penny introduced in 760 AD, probably by King Offa of Mercia.",
+      "mots_cles": [
+        "British pound sterling",
+        "oldest currency",
+        "King Offa",
+        "sterling silver penny",
+        "760 AD",
+        "Anglo-Saxon",
+        "money facts",
+        "50 facts about money"
+      ],
+      "texte": "money. Number 50. The British pound sterling is over a thousand years old. It's actually the oldest currency still in continuous use today, dating back to the Anglo-Saxon period 1,200 years ago. It evolved out of the sterling silver penny first introduced in 760 AD, probably by King Offa of Mercuria."
+    },
+    {
+      "id": 273,
+      "debut": 11312.32,
+      "fin": 11328.08,
+      "temps_estime": false,
+      "titre": "Fact 49: the US penny cost more than it was worth",
+      "resume": "For a long time the US Mint produced the penny at a loss; by the time its suspension was formalized, each penny cost 3.69 cents to produce counting material and labor.",
+      "mots_cles": [
+        "US penny",
+        "US Mint",
+        "penny production cost",
+        "3.69 cents",
+        "penny suspension",
+        "minting at a loss",
+        "money facts",
+        "coin cost"
+      ],
+      "texte": "Number 49. The penny cost more than it was worth. For a long time, the US Mint was literally producing a penny at a loss. By the time the suspension of the penny was formalized, every single penny cost 3.69 [music] cents to produce. when accounting for a mix of material and labor costs. Number"
+    },
+    {
+      "id": 274,
+      "debut": 11328.08,
+      "fin": 11354.24,
+      "temps_estime": false,
+      "titre": "Fact 48: money is literally dirty, with 3,000 types of bacteria",
+      "resume": "Beyond its corrupting influence, money is literally dirty: trace cocaine from the 80s Wall Street era, and a 2014 study found the average dollar bill in New York carries over 3,000 types of bacteria, including drug-resistant strains.",
+      "mots_cles": [
+        "dirty money",
+        "bacteria on dollar bills",
+        "2014 study",
+        "3,000 types of bacteria",
+        "New York",
+        "drug-resistant strains",
+        "cocaine traces",
+        "money facts"
+      ],
+      "texte": "48. Money is filthy. And we're not just talking about its corrupting influence over the soul of humankind. It is literally dirty. In addition to trace amounts of cocaine from all the Wall Street Bros honking nose candy in the decadent 80s, the average dollar bill in New York has another problem. A 2014 study found they carry over 3,000 different types of bacteria. And that includes some pretty scary drugresistant strains that you really don't want to let into your body. Number 47. Zimbabwe"
+    },
+    {
+      "id": 275,
+      "debut": 11354.24,
+      "fin": 11382.24,
+      "temps_estime": false,
+      "titre": "Fact 47: Zimbabwe's $100 trillion bank note",
+      "resume": "Zimbabwe produced a $100 trillion note in January 2009 after total economic collapse and hyperinflation pushed consumer prices to absurd levels, forcing ever larger denominations. Today the banknotes are sold as souvenirs for a profit.",
+      "mots_cles": [
+        "Zimbabwe",
+        "$100 trillion note",
+        "hyperinflation",
+        "2009",
+        "economic collapse",
+        "banknote souvenir",
+        "large denominations",
+        "money facts"
+      ],
+      "texte": "had a $100 trillion bank note. Hyperinflation is real and Zimbabwe had a downright legendary case of it. It was first introduced in January of 2009 after total economic collapse led to absurd rises in prices for consumer goods. The Zimbabwean Mint needed to create larger and larger currency denominations to keep up. Now that Zimbabwe is a much better place, these insane banknotes are actually turning a profit. People often buy the deranged 100 trillion banknotes as a unique souvenir. >> [music]"
+    },
+    {
+      "id": 276,
+      "debut": 11382.24,
+      "fin": 11419.44,
+      "temps_estime": false,
+      "titre": "Fact 46: the 1933 double eagle, a US coin illegal to own",
+      "resume": "The 1933 double eagle, 90% gold and 10% copper, was minted in a very limited number during the Great Depression but never circulated. The government ordered nearly all melted; 20 were stolen, nine recovered and destroyed, leaving 13, and the Secret Service hunts them since private ownership is illegal.",
+      "mots_cles": [
+        "1933 double eagle",
+        "rare coin",
+        "illegal to own",
+        "Great Depression",
+        "Secret Service",
+        "gold coin",
+        "stolen coins",
+        "money facts"
+      ],
+      "texte": ">> Number 46. There's a US coin that is literally illegal to own. The 1933 double eagle. One of the rarest coins in existence. It's made of 90% gold and 10% copper and produced [music] in an extremely limited number during the Great Depression, but never actually circulated to the public. The government ordered all but two of them to be melted down, but 20 were stolen. Nine were found and destroyed, leaving only 13 in existence. And we can only assume that if you got your hands on all 13, you'd have some kind of superpower. To this day, the Secret Service is tasked with hunting them down. And if you come into private ownership of one of them, you're breaking the law. Number 45. In 2018,"
+    },
+    {
+      "id": 277,
+      "debut": 11419.44,
+      "fin": 11449.76,
+      "temps_estime": false,
+      "titre": "Fact 45: Samsung's 2018 fat finger error made 2,000 employees millionaires",
+      "resume": "In 2018 Samsung Securities mistakenly issued 2.8 billion shares instead of dividends to 2,000 Korean employees, each worth about 1,000 won, making them worth over a hundred billion, thirty times the company's market cap. The error was fixed but Samsung's stock fell 11%.",
+      "mots_cles": [
+        "Samsung Securities",
+        "fat finger error",
+        "2018",
+        "2.8 billion shares",
+        "Korean employees",
+        "stock dividends",
+        "market cap",
+        "money facts"
+      ],
+      "texte": "Samsung accidentally made 2,000 employees multi-millionaires. The 2018 Fat Finger incident was a full-on catastrophe. Samsung Securities, the trading wing of the tech giant, made a massive boooo while issuing stock dividends to 2,000 Korean employees. They accidentally issued 2.8 8 billion shares, each one worth about 1,000 Korean Juan, resulting in the shares being worth over a hundred billion, 30 times the market cap of the company itself. The issue was later rectified, but it made Samsung's stock tank 11%."
+    },
+    {
+      "id": 278,
+      "debut": 11449.76,
+      "fin": 11480.64,
+      "temps_estime": false,
+      "titre": "Fact 44: a Bitcoin fortune in a Welsh landfill",
+      "resume": "Welsh engineer James Howells accidentally gave a hard drive holding his Bitcoin wallet to his girlfriend, who threw it out. Worth about $751 million, it is buried in the Newport landfill and a local court ruled he had no hope of recovering it.",
+      "mots_cles": [
+        "James Howells",
+        "Bitcoin wallet",
+        "Newport landfill",
+        "Wales",
+        "hard drive thrown away",
+        "$751 million",
+        "high court ruling",
+        "money facts"
+      ],
+      "texte": "[music] Number 44. There's a fortune in Bitcoin hidden in a Welsh landfill. James Howells, a Welsh computer engineer, made one mistake [music] that probably haunts him daily. He accidentally handed his girlfriend a hard drive with his Bitcoin wallet, and she threw it out with the trash. The content of the wallet is currently around $751 million. It is [music] buried under tons of trash in the Newport landfill. After the local high court ruled that James had no hope of ever finding it again. So, if you've got a shovel and a life to waste, we hear that Wales is lovely this time of year."
+    },
+    {
+      "id": 279,
+      "debut": 11480.64,
+      "fin": 11510.72,
+      "temps_estime": false,
+      "titre": "Fact 43: the Orion constellation secret symbol on banknotes",
+      "resume": "A secret pattern unites almost all paper money, the EURion constellation, based on Orion and standardized in 1996 with computer advances. It is not an Illuminati symbol but a pattern that lets imaging software recognize banknotes and block counterfeiting.",
+      "mots_cles": [
+        "EURion constellation",
+        "Orion",
+        "banknote security",
+        "counterfeiting",
+        "imaging software",
+        "1996",
+        "paper money symbol",
+        "money facts"
+      ],
+      "texte": "Number 43. There's a secret symbol that unites almost all paper money worldwide. The symbol is called the Urion constellation, a pattern of symbols based on the Orion constellation that was standardized along with advances in computer technology in 1996. [music] No, this isn't some weird Illuminati new world order type thing. It's a consistent pattern that can help imaging software recognize these kinds of documents in digital imaging. It is mainly used as a mechanism to stop that software being used in a counterfeiting operation. Number 42. Almost no currency"
+    },
+    {
+      "id": 280,
+      "debut": 11510.72,
+      "fin": 11538.56,
+      "temps_estime": false,
+      "titre": "Fact 42: the Hungarian pengo and the worst hyperinflation in history",
+      "resume": "The Hungarian pengo, introduced January 1927, lasted under 20 years before hyperinflation after World War II made it worthless, with trillion-denomination notes printed; the last note was for one sextillion, the worst case of hyperinflation in history.",
+      "mots_cles": [
+        "Hungarian pengo",
+        "hyperinflation",
+        "World War II Hungary",
+        "worthless currency",
+        "trillion denominations",
+        "one sextillion",
+        "1927",
+        "money facts"
+      ],
+      "texte": "was more unlucky than the Hungarian panga. This currency was introduced on the first day of 1927 and it wouldn't even last 20 years before hyperinflation made it utterly worthless. Much like Zimbabwe, when hyperinflation hit Hungary at the end of World War II, denominations in the trillion started getting printed real quick. The last bank note for the panga ever produced was for one sexillion of them, making it the worst case of hyperinflation in human history. Number 41. Memecoins make"
+    },
+    {
+      "id": 281,
+      "debut": 11538.56,
+      "fin": 11559.6,
+      "temps_estime": false,
+      "titre": "Fact 41: memecoins and cryptocurrencies based on internet memes",
+      "resume": "Memecoins are a subset of cryptocurrencies based on internet memes or dubiously humorous concepts; infamous examples include Dogecoin, Pepe, Bonk, a rugpull coin based on the Hawk Tuah meme and Monkey J, which the narrator jokes may be why aliens don't visit.",
+      "mots_cles": [
+        "memecoins",
+        "cryptocurrency",
+        "Dogecoin",
+        "Pepe",
+        "Bonk",
+        "internet memes",
+        "rug pull",
+        "money facts"
+      ],
+      "texte": "money really stupid. This is a particular subset of cryptocurrencies that are based on internet memes or other dubiously humorous concepts online. Some of the most infamous examples include Dogecoin, Pepe, Bonk, Hawk, the rugpool coin based on the Hakua meme, and of course, [music] who could forget Monkey J. Things like this just might be why aliens don't visit us. Number 40. [music]"
+    },
+    {
+      "id": 282,
+      "debut": 11559.6,
+      "fin": 11577.44,
+      "temps_estime": false,
+      "titre": "Fact 40: the Kuwaiti dinar is the world's strongest currency",
+      "resume": "The world's strongest currency is not the dollar, pound or euro but the Kuwaiti dinar, supported by Kuwait's oil wealth and the government's tight control of inflation, making it one of the most stable currencies in the world.",
+      "mots_cles": [
+        "Kuwaiti dinar",
+        "strongest currency",
+        "Kuwait oil",
+        "inflation control",
+        "stable currency",
+        "international market",
+        "forex",
+        "money facts"
+      ],
+      "texte": "You might have never even heard of the world's strongest currency. It isn't the US dollar or the pound sterling or the euro. It is the Kuwaiti dinar. Its position on the international market is bolstered by Kuwait's oil riches and the government's tight control over inflation, making it one of the most stable currencies in the world. Number"
+    },
+    {
+      "id": 283,
+      "debut": 11577.44,
+      "fin": 11605.76,
+      "temps_estime": false,
+      "titre": "Fact 39: Operation Bernhard, the Nazi plan to flood Britain with fake pounds",
+      "resume": "Nazi Germany tried to use hyperinflation as a weapon with Operation Bernhard: forging British money and distributing it in England to devalue the pound, using concentration camp prisoners to make the counterfeit notes.",
+      "mots_cles": [
+        "Operation Bernhard",
+        "Nazi counterfeiting",
+        "forged British pounds",
+        "hyperinflation weapon",
+        "devalue the pound",
+        "concentration camp prisoners",
+        "World War II",
+        "money facts"
+      ],
+      "texte": "39. The Nazis tried to use hyperinflation as a weapon. It makes sense that one of the most evil governments in history would try to wield the dark spectre of hyperinflation against their enemies. But if you could believe [music] it, it's going to get worse. It was called Operation Burnhard. And the plan was simple. Forge fake British money and then distribute it through England to devalue the pound. >> [music] >> And what made this plan particularly diabolical? They forced concentration camp prisoners to make the counterfeit money. Number 38. [music] Rice stones"
+    },
+    {
+      "id": 284,
+      "debut": 11605.76,
+      "fin": 11640.0,
+      "temps_estime": false,
+      "titre": "Fact 38: Rai stones, the most inconvenient currency",
+      "resume": "Rai stones were giant circular limestone disks with a hole, larger than a person, used as money by the people of Yap in Micronesia. They stayed in place and ownership changes were added to the area's oral history, giving the owner social clout.",
+      "mots_cles": [
+        "Rai stones",
+        "Yap Micronesia",
+        "limestone money",
+        "ancient currency",
+        "oral history ownership",
+        "inconvenient currency",
+        "giant coin",
+        "money facts"
+      ],
+      "texte": "are the world's most inconvenient currency. Yes, even more inconvenient than monkey jizz, if you can believe it. This is because [music] the bizarre ancient money was literally a giant circular piece of limestone with a hole in the middle. [music] And when we say giant, we mean physically larger than a person. You would have a really hard time fitting that into your wallet. employed by the Aisi people of Micronia. The way it worked was [music] very different to money today. The stones would stay in place, but when the ownership was transferred, the transfer would then be added to the oral history of the area, which would confer a kind of clout value to the owner. Number 37."
+    },
+    {
+      "id": 285,
+      "debut": 11640.0,
+      "fin": 11683.37,
+      "temps_estime": false,
+      "titre": "Fact 37: the Ting Hai effect and Adam Cheng on the Hong Kong stock market",
+      "resume": "The Ting Hai effect is a self-fulfilling prophecy in the Hong Kong stock market since 1992: actor Adam Cheng played villain Ting Hai in the drama The Greed of Man, whose death scene was seen as a curse, and brokers observed dips each time a new Cheng show aired. Probably coincidence, it shows how superstitious stock trading is.",
+      "mots_cles": [
+        "Ting Hai effect",
+        "Adam Cheng",
+        "Hong Kong stock market",
+        "The Greed of Man",
+        "superstition",
+        "stock market curse",
+        "1992",
+        "money facts"
+      ],
+      "texte": "[music] In Hong Kong, an actor might secretly control the stock market. Okay, well, that's oversimplifying it just a little, but [music] the Ting Hai effect was a bizarre, self-fulfilling prophecy that struck the Hong Kong stock market several [music] times starting in 1992. The actor Adam Chang played a villain called Ting Hai in the financial drama The Greed of Man, whose gruesome death scene was seen by some as a curse on the stock market itself. Since then, some stock brokers have observed a bizarre phenomenon where every time a new show starring Adam Chang airs, there is an inexplicable dip in the Hong Kong stock market. Is Chang really stock index [music] poison? Probably not, but it's a perfect example of how playing the stock market is often much more a bunch of superstitious gambling than any kind of exact science. Number 36. Some teen"
+    },
+    {
+      "id": 286,
+      "debut": 11683.37,
+      "fin": 11726.08,
+      "temps_estime": false,
+      "titre": "Fact 36: teenage girls' joke triggers a bank run in Japan",
+      "resume": "In December 1973 three teen girls joked that Shinkin Bank was dangerous to work at if a robber showed up; it was misheard as an unsafe place for money. The rumor spread and mutated into a belief of imminent collapse, causing the Toyokawa Shinkin bank run with about 5,000 customers withdrawing money.",
+      "mots_cles": [
+        "Toyokawa Shinkin bank run",
+        "Japan 1973",
+        "bank run",
+        "rumor",
+        "teenage girls",
+        "5,000 customers",
+        "bank collapse panic",
+        "money facts"
+      ],
+      "texte": "girls almost collapsed a bank in Japan. [music] This isn't a story of three ambitious young bank robbers trying to fund their J-pop idol group with their ill-gotten gains. We're talking about the Toyoka Shinkin bankr run [music] incident. In December 1973, three teen girls were chatting about future careers on their way to school. One joke is [music] Shinkin Bank dangerous, as in dangerous to work at if a robber shows up. But that rapidly spiraled when it was intercepted [music] as, \"Is Shinkin Bank a dangerous place to put your money?\" The rumor quickly passed from person to person and [music] it mutated into the belief that the bank was imminently about to collapse which led to a bank run. People panicked and they started taking out their money with around 5,000 customers getting roped [music] into the madness. Number 35."
+    },
+    {
+      "id": 287,
+      "debut": 11726.08,
+      "fin": 11753.36,
+      "temps_estime": false,
+      "titre": "Fact 35: India's zero rupee note against corruption",
+      "resume": "Since 2007 the anti-corruption NGO Fifth Pillar has printed novelty zero-rupee notes modeled on the 50 rupee note, to be handed to corrupt officials as fake bribes and protest politicians selling their influence for cash.",
+      "mots_cles": [
+        "zero rupee note",
+        "Fifth Pillar",
+        "India anti-corruption",
+        "novelty banknote",
+        "50 rupee note",
+        "fake bribe",
+        "corrupt politicians",
+        "money facts"
+      ],
+      "texte": "India's worthless bank note was here to spite politicians. Since their creation in 2007, an anti-corruption NGO called the fifth pillar in India has printed off fake novelty banknotes based on the only 50 rupee bank note. Except these notes had a big fat zero on them. Why? Well, it's because these notes are designed to be given as fake bribes to corrupt politicians to make fun [music] of them and then protest these elected officials selling their influence for cash. Number 34. In contrast, [music]"
+    },
+    {
+      "id": 288,
+      "debut": 11753.36,
+      "fin": 11787.76,
+      "temps_estime": false,
+      "titre": "Fact 34: the proposed US trillion dollar platinum coin",
+      "resume": "During the 2011 US debt ceiling crisis a platinum trillion dollar coin was proposed to bypass the borrowing limit. Paul Krugman backed it, saying opponents disliked it revealing money as a social contrivance; the Federal Reserve rejected it in 2013 though it has been proposed again.",
+      "mots_cles": [
+        "trillion dollar coin",
+        "platinum coin",
+        "debt ceiling crisis 2011",
+        "Paul Krugman",
+        "Federal Reserve",
+        "borrowing limit",
+        "US debt",
+        "money facts"
+      ],
+      "texte": "the US thought about making a trillion dollar coin. Back in 2011, during the United States's debt sealing crisis, one wacky proposed solution was a platinum [music] trillion dollar coin that would immediately bypass the country's borrowing limit. Economist Paul Krugman threw his weight behind the controversial idea, saying that anyone who opposed it was just [music] uncomfortable with the way that it revealed money as a social contrivance. But the idea was officially rejected by the Federal Reserve in 2013, though it has been proposed again a few more times in the decade [music] and some change since then. Number 33. The UK actually"
+    },
+    {
+      "id": 289,
+      "debut": 11787.76,
+      "fin": 11811.76,
+      "temps_estime": false,
+      "titre": "Fact 33: the UK's 100 million pound Titan note",
+      "resume": "The UK has a non-circulating 100 million pound note, nicknamed the Titan for its huge size, created to back the Scottish and Northern Irish banknotes and link them to currency minted in England and Wales; they are all locked in the Bank of England vault.",
+      "mots_cles": [
+        "100 million pound note",
+        "Titan note",
+        "Bank of England vault",
+        "Scottish banknotes",
+        "Northern Irish banknotes",
+        "non-circulating note",
+        "backing banknotes",
+        "money facts"
+      ],
+      "texte": "does have a 100 million pound bank note, also known as the Titan [music] because it is absurdly huge. This non-irculating note was created to back the value of the Scottish and Northern Irish banknotes, creating a link between them and the currency minted in England and Wales. They're all locked away together in the Bank of England vault. But hey, if anyone plans on putting together an Oceans 11 style heist team [music] to go get them, who are we to try to stop you?"
+    },
+    {
+      "id": 290,
+      "debut": 11811.76,
+      "fin": 11842.54,
+      "temps_estime": false,
+      "titre": "Fact 32: Chinese hell money for the afterlife",
+      "resume": "Chinese hell money is joss paper, ceremonial incense paper designed to look like modern money and burned in ancestor worship to keep dead relatives solvent in the afterlife. Giving it to living people in China is a grave insult, almost a death threat.",
+      "mots_cles": [
+        "Chinese hell money",
+        "joss paper",
+        "ancestor worship",
+        "afterlife money",
+        "ceremonial paper",
+        "insult",
+        "Chinese tradition",
+        "money facts"
+      ],
+      "texte": "Number 32, Chinese hell money keeps the dead out of debt. This is a form of JS paper, ceremonial incense paper used in Chinese ancestor worship practices. Designed [music] to look like modern money. They're burned as a form of respect meant to keep your dead family members solvent in the afterlife. However, if you happen to get your hands on some hell money, make sure you just don't give it to any living people in China. It's considered [music] a grave insult, maybe even a death threat, as if to say, \"You're going to need this money later when I kill you.\" Number 31. In"
+    },
+    {
+      "id": 291,
+      "debut": 11842.54,
+      "fin": 11871.92,
+      "temps_estime": false,
+      "titre": "Fact 31: Congo punched holes through its money to remove Mobutu's face",
+      "resume": "In 1997, after the dictatorship of Joseph Mobutu, Congo could not replace all its currency overnight and did not want his face on every transaction, so it punched a hole through all its money to remove his face until new bills were printed.",
+      "mots_cles": [
+        "Congo 1997",
+        "Joseph Mobutu",
+        "punched hole banknotes",
+        "currency replacement",
+        "dictator's face",
+        "Democratic Republic of Congo",
+        "new bills",
+        "money facts"
+      ],
+      "texte": "1997, the Congo punched a hole through [music] all of its money. They didn't just do it for fun. Prior to that point, they'd suffered under the totalitarian dictatorship of Joseph Mabutu, who had the national approval rating of genital herpes at the time. But after Mabu was gone, it was hard to change out all the currency overnight. But nobody wanted to look at his face every single time they made a financial transaction in the meantime. So the solution, they punched a hole right through all their money, removing Mobu's face from the money until they could print new bills. Number"
+    },
+    {
+      "id": 292,
+      "debut": 11871.92,
+      "fin": 11906.48,
+      "temps_estime": false,
+      "titre": "Fact 30: Germans used worthless money as wallpaper and toys in the 1920s",
+      "resume": "After World War I, Germany suffered hyperinflation, which also set the stage for Hitler's rise. With the German mark worth less than a sticky note, Germans used worthless money as wallpaper and gave it to children as toys.",
+      "mots_cles": [
+        "German hyperinflation",
+        "1920s Germany",
+        "worthless marks",
+        "money as wallpaper",
+        "money as toys",
+        "World War I",
+        "Weimar",
+        "money facts"
+      ],
+      "texte": "30. In the 1920s, Germans found creative ways to use their useless money. World War I was economically devastating for Germany, creating our old friend hyperinflation and also [music] setting the stage for a demagogue like Hitler to rise to power. But before a man with a silly mustache tried to wipe out multiple races and sexualities, average Germans had a lot of money that was now not really worth anything. But being industrious people, some folks used their worthless money as a kitschy wallpaper. Other people gave it to their kids to use as toys. Seeing as the German mark was less valuable than the modern-day sticky note at this point, we really can't fault them for that. Number"
+    },
+    {
+      "id": 293,
+      "debut": 11906.48,
+      "fin": 11935.76,
+      "temps_estime": false,
+      "titre": "Fact 29: scrip kept people alive during the Great Depression",
+      "resume": "Scrip is any replacement for legal tender, from IOUs to wooden nickels. During the Great Depression communities printed large amounts to pay workers when legal currency fell short, often with a limited use window to keep it circulating and prevent hoarding.",
+      "mots_cles": [
+        "scrip",
+        "Great Depression",
+        "replacement currency",
+        "wooden nickel",
+        "local currency",
+        "hoarding",
+        "legal tender",
+        "money facts"
+      ],
+      "texte": "29. Script [music] kept people alive during the Great Depression. Script is any source of replacement for legal tender, from an IOU to a wooden nickel given out to plantation workers in the deep south. And during the Great Depression, huge amounts of script were made by different communities to give out to American workers when the printing of legal currency fell short. >> [music] >> Script would often have a limited use window to keep it circulating and prevent the kind of hoarding that makes economies lock up. We'd maybe live in a better world where billionaires had to actually spend their money, too. Number"
+    },
+    {
+      "id": 294,
+      "debut": 11935.76,
+      "fin": 11967.68,
+      "temps_estime": false,
+      "titre": "Fact 28: Afghanistan's former finance minister drives an Uber",
+      "resume": "Khalid Payenda once managed a treasury of over $6 billion; hearing the US military was pulling out in 2022 he left before the Taliban retook the country. Now in Washington DC he drives an Uber, making $150 for six-hour sessions.",
+      "mots_cles": [
+        "Afghanistan finance minister",
+        "Khalid Payenda",
+        "Uber driver",
+        "Taliban",
+        "US withdrawal",
+        "$6 billion treasury",
+        "Washington DC",
+        "money facts"
+      ],
+      "texte": "28. The former Afghanistan finance minister is an Uber driver now. Khaled Panda once had a pretty sweet gig managing a treasury of over $6 billion. But when he heard that the US military were pulling out of the country in 2022, he decided it was probably best to make tracks as the Taliban would inevitably retake the country. Since moving to the US, his life hasn't been quite so glamorous. He now drives an Uber in Washington DC, making $150 for 6-hour work sessions. Hey, it's all about the grind. Number 27. US money used to"
+    },
+    {
+      "id": 295,
+      "debut": 11967.68,
+      "fin": 11990.16,
+      "temps_estime": false,
+      "titre": "Fact 27: colonial US bills warned 'To counterfeit is death'",
+      "resume": "Today American bills carry 'In God We Trust', but in the 18th century some colonial bills bore the slogan 'To counterfeit is death', because counterfeiting was then a capital offense.",
+      "mots_cles": [
+        "colonial money",
+        "To counterfeit is death",
+        "counterfeiting capital offense",
+        "In God We Trust",
+        "18th century",
+        "American bills",
+        "colonial US",
+        "money facts"
+      ],
+      "texte": "directly threaten you. These days, the catchphrase you see on American bills is in God we trust. But back in the 18th century, colonial money needed to be a lot more hardcore. While the fledgling country was still finding its feet, some bills instead featured a slogan that said, \"To counterfeit is death.\" Because counterfeiting was at the time a capital offense. Number 26. Pablo Escobar spent"
+    },
+    {
+      "id": 296,
+      "debut": 11990.16,
+      "fin": 12011.6,
+      "temps_estime": false,
+      "titre": "Fact 26: Pablo Escobar spent $2,500 a month on rubber bands",
+      "resume": "As the king of cocaine, Pablo Escobar dealt only in cash, and at the height of his riches he spent $2,500 on rubber bands to keep his cash together.",
+      "mots_cles": [
+        "Pablo Escobar",
+        "rubber bands",
+        "$2,500",
+        "cocaine cash",
+        "drug money",
+        "Escobar wealth",
+        "cash only",
+        "money facts"
+      ],
+      "texte": "$2,500 on rubber bands. And what does this have to do with money? Well, it's why he spent that much on rubber bands. As the king of cocaine, Escobar dealt in cash only, the [music] drug dealer special. and he was making so much at the height of his riches that he needed to buy all those rubber bands to keep the rest of his cash together. There's Ballin and then there's Pablo Escobar Ballin. Number 25. One of the most"
+    },
+    {
+      "id": 297,
+      "debut": 12011.6,
+      "fin": 12040.32,
+      "temps_estime": false,
+      "titre": "Fact 25: Canada's $1 million Big Maple Leaf gold coin",
+      "resume": "Canada's Big Maple Leaf is a giant $1 million coin with Queen Elizabeth's face, made of 99.999% gold and weighing 220 pounds. Its face value is a million but its actual value is about 12 million.",
+      "mots_cles": [
+        "Big Maple Leaf",
+        "Canadian $1 million coin",
+        "99.999% gold",
+        "220 pounds",
+        "Queen Elizabeth",
+        "pure gold coin",
+        "coin value 12 million",
+        "money facts"
+      ],
+      "texte": "valuable coins in the world is also one of the largest. Canada's big maple leaf, yeah, it's really called that is a giant Canadian $1 million coin with Queen Elizabeth's face on it. It's made of 99.999% gold, some of the purest gold in the world, and it weighs in at 220 lb. Despite the coin having a face value of a cool million, the actual value of the coin is [music] 12 million, which is great, assuming you could figure out how to haul the thing around. Number 24,"
+    },
+    {
+      "id": 298,
+      "debut": 12040.32,
+      "fin": 12060.48,
+      "temps_estime": false,
+      "titre": "Fact 24: torn Australian banknotes keep their value",
+      "resume": "In Australia a ripped banknote is worth half its value if 50% is missing, so half of a $100 note is worth $50; money is only worthless when less than 80% remains (as transcribed).",
+      "mots_cles": [
+        "Australian banknotes",
+        "torn money",
+        "half a bank note",
+        "ripped $100 bill",
+        "banknote rules",
+        "value of damaged cash",
+        "Australia",
+        "money facts"
+      ],
+      "texte": "ripping Australian money in half also has its value. There are actually some very specific [music] rules around this. If 50% of the bank note is missing, the bank note is worth half of its original value. And if you've got half of a ripped up $100 bank note, you've got 50 [music] bucks. The money is only worthless if there's less than 80% remaining. Number 23. A lot of cash is"
+    },
+    {
+      "id": 299,
+      "debut": 12060.48,
+      "fin": 12080.4,
+      "temps_estime": false,
+      "titre": "Fact 23: a lot of cash is not vegan friendly",
+      "resume": "Vegans avoid animal byproducts, but the paper cash of Britain and Australia and of over 22 other countries is made using beef tallow, so vegans can't use it.",
+      "mots_cles": [
+        "vegan",
+        "beef tallow",
+        "British banknotes",
+        "Australian banknotes",
+        "animal byproducts",
+        "polymer notes",
+        "vegetarians vs vegans",
+        "money facts"
+      ],
+      "texte": "not vegan friendly. The difference between vegetarians and vegans is that vegans won't use anything that involves animal byproducts at all. As a result, [music] there is a lot of money, including the paper cash of Britain and Australia, that vegans can't use. That's because this [music] money, as well as the money from over 22 other countries, is made using beef tallow. Number 22."
+    },
+    {
+      "id": 300,
+      "debut": 12080.4,
+      "fin": 12104.0,
+      "temps_estime": false,
+      "titre": "Fact 22: Harvard could give all students a free ride",
+      "resume": "Harvard has an endowment of $51.9 billion; paying full tuition, room and board for all 6,700 undergraduates would still leave $32.3 billion, but it chooses not to.",
+      "mots_cles": [
+        "Harvard endowment",
+        "$51.9 billion",
+        "free tuition",
+        "6,700 undergraduates",
+        "room and board",
+        "university endowment",
+        "Massachusetts",
+        "money facts"
+      ],
+      "texte": "Harvard could afford to give all of its students a free ride. This prestigious Massachusetts university has an incredible endowment of 51.9 billion. And this has led to people crunching the numbers. If they paid full tuition, room and board for all of its 6,700 undergrads with this endowment, they would still have 32.3 [music] billion left over. They just don't want to. Number 21. Less than a third of"
+    },
+    {
+      "id": 301,
+      "debut": 12104.0,
+      "fin": 12121.2,
+      "temps_estime": false,
+      "titre": "Fact 21: less than a third of American adults pass a financial literacy test",
+      "resume": "The FINRA Foundation's national financial capability study gave a seven-question quiz on basic financial concepts to a representative sample of American adults, and only 27% passed.",
+      "mots_cles": [
+        "financial literacy",
+        "FINRA Foundation",
+        "financial capability study",
+        "27% passed",
+        "seven question quiz",
+        "American adults",
+        "basic financial concepts",
+        "money facts"
+      ],
+      "texte": "American adults can pass a basic financial literacy test. The FINRA Foundation ran a national financial capability study. As [music] part of it, they gave a seven question quiz on basic financial concepts to a representative sample of American adults. Only 27% passed. Number 20. Different bills have"
+    },
+    {
+      "id": 302,
+      "debut": 12121.2,
+      "fin": 12148.48,
+      "temps_estime": false,
+      "titre": "Fact 20: lifespans of US bills from $1 to $100",
+      "resume": "Each US bill has its own lifespan: $1 bills last 6.6 years, $5 bills 4.7, $10 bills 5.3, $20 bills 7.8, $50 bills 12.2 and $100 bills 22.9 years.",
+      "mots_cles": [
+        "US bill lifespan",
+        "$1 bill 6.6 years",
+        "$100 bill 22.9 years",
+        "bill durability",
+        "circulation life",
+        "dollar bills",
+        "currency lifespan",
+        "money facts"
+      ],
+      "texte": "their own lifespan. Each different US bill has its own unique lifespan. And we're going to list them here real quick. $1 bills last for 6.6 years. $5 bills 4.7 years. $10 bills for 5.3 years. $20 bills last for 7.8 years. $50 bills last for 12.2 years. and $100 bills last for 22.9 years, but none of them survive more than a weekend in our bank accounts. Number 19. You'd need to"
+    },
+    {
+      "id": 303,
+      "debut": 12148.48,
+      "fin": 12173.28,
+      "temps_estime": false,
+      "titre": "Fact 19: a dollar bill must be folded 4,000 times to tear",
+      "resume": "The Bureau of Engraving and Printing says a dollar bill must be double-folded about 4,000 times to break. It is durable because it is not paper but 25% linen and 75% cotton.",
+      "mots_cles": [
+        "dollar bill folding",
+        "4,000 folds",
+        "Bureau of Engraving and Printing",
+        "linen and cotton",
+        "bill durability",
+        "25% linen 75% cotton",
+        "dollar not paper",
+        "money facts"
+      ],
+      "texte": "fold a dollar bill 4,000 times to tear it. This was officially confirmed by the Bureau of Engraving and Printing, claiming that a dollar bill would need to be doublefolded 4,000 times forwards and backwards to break it. Why are they so durable? Because they're not actually made of paper. They're made of 25% linen and 75% cotton. [music] In that sense, they're a lot more durable than people who will tear if you fold them four times. Number 18. The iconic dollar sign"
+    },
+    {
+      "id": 304,
+      "debut": 12173.28,
+      "fin": 12190.8,
+      "temps_estime": false,
+      "titre": "Fact 18: the dollar sign was first used in 1785",
+      "resume": "The dollar sign, a ubiquitous symbol, was first used in 1785 and is less than 400 years old. It is widely believed to come from the letters PS for the Spanish peso, which slowly overlapped into the dollar sign.",
+      "mots_cles": [
+        "dollar sign",
+        "1785",
+        "origin of dollar symbol",
+        "Spanish peso",
+        "PS letters",
+        "currency symbol",
+        "history of the dollar",
+        "money facts"
+      ],
+      "texte": "was first used in 1785. Despite being a pretty ubiquitous symbol these days, it's less than 400 years old. It's widely believed that the symbol originated from the letters PS representing a Spanish peso. With the letters slowly overlapping one another until it morphed into the distinctive dollar sign symbol we know today. Number"
+    },
+    {
+      "id": 305,
+      "debut": 12190.8,
+      "fin": 12216.32,
+      "temps_estime": false,
+      "titre": "Fact 17: the $2 bill and the bad luck superstition",
+      "resume": "The $2 bill is the rarest US denomination and is no longer printed, yet 1.6 billion circulate. Folklore calls it a bad omen, and believers tear off a corner to break the curse, rendering it useless.",
+      "mots_cles": [
+        "$2 bill",
+        "rarest US denomination",
+        "1.6 billion bills",
+        "bad omen superstition",
+        "torn corner",
+        "discontinued bill",
+        "US currency",
+        "money facts"
+      ],
+      "texte": "17. There are plenty of $2 bills out there. It's the rarest denomination of US currency, and [music] like the penny, they don't make it anymore. However, there are still 1.6 billion of these bills floating around out there. And a strange folklore has built up around the idea of it being some kind of bad omen. [music] When these believers encounter the $2 bill, they tear off the corner to break the curse and render the bill useless in the process. Losing two bucks seems like the real bad luck here."
+    },
+    {
+      "id": 306,
+      "debut": 12216.32,
+      "fin": 12231.6,
+      "temps_estime": false,
+      "titre": "Fact 16: there is an ATM on every continent, even Antarctica",
+      "resume": "There is an ATM on every continent, including Antarctica at McMurdo Station, and another on Easter Island: you can't escape money anywhere.",
+      "mots_cles": [
+        "ATM Antarctica",
+        "McMurdo Station",
+        "Easter Island ATM",
+        "ATM every continent",
+        "cash machines",
+        "remote ATMs",
+        "banking",
+        "money facts"
+      ],
+      "texte": "Number 16. There's an ATM on literally every continent of the Earth. Yes, we are very much including Antarctica in that because there is an ATM at McMurto station in the frozen wastess. There's also one on Easter Island. You can't escape money anywhere. Number 15. The"
+    },
+    {
+      "id": 307,
+      "debut": 12231.6,
+      "fin": 12269.6,
+      "temps_estime": false,
+      "titre": "Fact 15: the Knights Templar ran some of the first banks",
+      "resume": "During the Crusades the Knights Templar ran forts in the Middle East protecting Christian pilgrims and let them deposit gold at one fort and redeem a letter of credit at another, which made them so rich the Vatican grew nervous and the Pope ordered them executed.",
+      "mots_cles": [
+        "Knights Templar",
+        "first banks",
+        "letter of credit",
+        "Crusades",
+        "pilgrims",
+        "medieval banking",
+        "Templar forts",
+        "money facts"
+      ],
+      "texte": "Knights Templar ran some of the first banks in the world. Back during the Crusades almost a millennium ago, the Devout Knights [music] Templar ran a series of forts throughout the Middle East where they could help protect the path for Christian religious pilgrims. Since it was incredibly dangerous to carry large amounts of gold during these pilgrimages, the knights offered a system where you could leave your gold at one of their forts. They [music] would then give you a letter of credit so you could redeem that money at any other Templar fort along the path. Services like these made the Templars incredibly rich. So much so that it started to make the Vatican a little bit nervous. [music] The Pope ordered the Templars to be executed as a result, which we could only imagine caused one hell of a bank run. Number 14. Only 8%"
+    },
+    {
+      "id": 308,
+      "debut": 12269.6,
+      "fin": 12287.36,
+      "temps_estime": false,
+      "titre": "Fact 14: only 8% of the world's money is physical cash",
+      "resume": "Only 8% of the world's money is physical cash; most global currency exists as digital data on computer hard drives, which the narrator says should prompt governments to invest more in cyber security.",
+      "mots_cles": [
+        "8% physical cash",
+        "digital money",
+        "online banking",
+        "global currency",
+        "cyber security",
+        "money supply",
+        "computer hard drives",
+        "money facts"
+      ],
+      "texte": "of the world's money is actually physical cash. That's kind of terrifying, [music] isn't it? In our brave new world of online banking, the majority of global currency is very dust on various computer hard drives the world over. Really makes you think that the world's governments should be maybe investing a little more heavily into cyber security. Number 13, [music]"
+    },
+    {
+      "id": 309,
+      "debut": 12287.36,
+      "fin": 12309.68,
+      "temps_estime": false,
+      "titre": "Fact 13: the TSA collects millions in loose change",
+      "resume": "Over 13 years the TSA has collected over $10 million in loose change left at airport security checkpoints, put into a special fund to allegedly improve security.",
+      "mots_cles": [
+        "TSA loose change",
+        "$10 million",
+        "airport security checkpoints",
+        "left behind coins",
+        "TSA fund",
+        "13 years",
+        "airport",
+        "money facts"
+      ],
+      "texte": "the TSA is robbing us blind through loose change. Over the last 13 years, the TSA has picked up over $10 million in loose change [music] that gets left at different airport security checkpoints. These coins are put into a special fund to allegedly improve security. Though we wonder if they're improving security by putting nicer couches and bigger TVs into the TSA break rooms on our literal dimes. Number"
+    },
+    {
+      "id": 310,
+      "debut": 12309.68,
+      "fin": 12319.84,
+      "temps_estime": false,
+      "titre": "Fact 12: a mile-high stack of dollar bills is $14.5 million",
+      "resume": "A stack of dollar bills a mile high would be worth $14.5 million.",
+      "mots_cles": [
+        "stack of dollar bills",
+        "mile high",
+        "$14.5 million",
+        "dollar bill thickness",
+        "cash stack",
+        "money measurements",
+        "bills",
+        "money facts"
+      ],
+      "texte": "12. If you stacked [music] dollar bills a mile high, you'd have $14.5 million, which is maybe not the most responsible use of your money. Number 11. [music] US"
+    },
+    {
+      "id": 311,
+      "debut": 12319.84,
+      "fin": 12344.0,
+      "temps_estime": false,
+      "titre": "Fact 11: UV security threads color-coded by denomination",
+      "resume": "US money has UV-reactive security threads woven into the bills against counterfeiting, glowing different colors by denomination: $5 blue, $10 orange, $20 green, $50 yellow and $100 pink.",
+      "mots_cles": [
+        "security threads",
+        "UV reactive threads",
+        "counterfeit prevention",
+        "$5 blue thread",
+        "$100 pink thread",
+        "bill denominations colors",
+        "UV light",
+        "money facts"
+      ],
+      "texte": "money is filled with security threads to prevent counterfeiting. These are UV reactive threads woven into the fabric of the bills, and they [music] glow different colors depending on the denomination of the bill. Grab a UV light if you've got one and take a look. $5 bills have blue threads, $10 bills have orange threads, $20 bills [music] have green threads, $50 bills have yellow threads, and $100 bills have pink threads. Like one expensive rainbow."
+    },
+    {
+      "id": 312,
+      "debut": 12344.0,
+      "fin": 12368.96,
+      "temps_estime": false,
+      "titre": "Fact 10: the US government once accepted postage stamps as money",
+      "resume": "During the Civil War coins were hoarded because metal was valuable, so the government passed a temporary law letting US postage stamps be used as legal tender, which then caused a shortage of stamps.",
+      "mots_cles": [
+        "postage stamps as money",
+        "Civil War",
+        "legal tender",
+        "coin shortage",
+        "stamp shortage",
+        "temporary law",
+        "US government",
+        "money facts"
+      ],
+      "texte": "Number 10. The US government once accepted postage stamps as money. Back in the Civil War, coins were still the currency desour, and people weren't eager to part with them because, well, in wartime, metal is valuable. In order to address the issue, the government put into place a temporary law that allowed US postage stamps to be used as legal tender. The problem [music] was this then resulted in a shortage of stamps. It's really hard to win in government. Have you noticed that? Number nine,"
+    },
+    {
+      "id": 313,
+      "debut": 12368.96,
+      "fin": 12402.8,
+      "temps_estime": false,
+      "titre": "Fact 9: edible money: salt, turmeric, cocoa and Parmesan",
+      "resume": "History is littered with edible money: salt, one of the oldest currencies and the origin of the word salary from the Latin salarium paid to Roman soldiers; rang, a turmeric ball used on the Solomon Islands; cocoa beans in Mexico and Central America; and Parmigiano Reggiano, used as currency and bank collateral in Italy.",
+      "mots_cles": [
+        "edible money",
+        "salt currency",
+        "salary Latin salarium",
+        "turmeric currency",
+        "cocoa beans",
+        "Parmigiano Reggiano",
+        "Roman soldiers",
+        "money facts"
+      ],
+      "texte": "history is littered with edible money. One of the oldest currencies in the world is salt, [music] vital as both a condiment and a way of preserving food. Salt is so tied in with money that the word salary is actually derived from the Latin salarium, meaning the money given to Roman soldiers used to buy salt. And then there's rang, a ball of turmeric spice that acted [music] as currency on the Solomon Islands. And of course, cocoa, the delicious chocolate beans in Mexico and Central [music] America. But we think our absolute favorite is Parmesano Reano, used as currency and even bank collateral in Italy. Got to get that cheese. Number eight, animal"
+    },
+    {
+      "id": 314,
+      "debut": 12402.8,
+      "fin": 12429.76,
+      "temps_estime": false,
+      "titre": "Fact 8: animal pelts as currency, from beaver to squirrel",
+      "resume": "Beaver pelts and buckskins were cornerstones of trade between First Nations people and Europeans in the 1700s, which is why dollars are called bucks. In medieval Russia and Finland squirrel pelts were currency, and the Finnish word for money, raha, originally referred to squirrel fur.",
+      "mots_cles": [
+        "animal pelts currency",
+        "beaver pelts",
+        "buckskins",
+        "bucks slang",
+        "squirrel pelts",
+        "Finnish word raha",
+        "First Nations trade",
+        "money facts"
+      ],
+      "texte": "pelts have also historically been a currency mainstay. Beaver pelts and buckskins were one of the cornerstones of trade between the First Nations people and the European invaders in the 1700s. [music] It's even why some people call dollars bucks in the modern day. But hundreds of years before this, back in medieval Russia and Finland, squirrel pelts were a popular form of currency. Much like bucks, the legacy lingers. The Finnish word for money, Raha, originally referred to fur of squirrel. It's all connected. Number seven, the holy water"
+    },
+    {
+      "id": 315,
+      "debut": 12429.76,
+      "fin": 12454.64,
+      "temps_estime": false,
+      "titre": "Fact 7: the holy water dollar, a Palau commemorative coin",
+      "resume": "In 2007 the island nation of Palau released a limited series of silver dollars depicting the Virgin Mary, each containing a tiny vial of holy water from the grotto in Lourdes, France, where she was supposedly seen 150 years earlier.",
+      "mots_cles": [
+        "holy water dollar",
+        "Palau coin",
+        "commemorative coin",
+        "Virgin Mary",
+        "Lourdes France",
+        "silver dollar",
+        "2007",
+        "money facts"
+      ],
+      "texte": "dollar is one of the weirdest commemorative coins ever. In 2007, the island nation of Palaou released a limited series of silver dollars depicting the Virgin Mary. Each one contains a tiny vial of holy water taken directly from a grotto in Lord [music] France where the Virgin Mary was supposedly cited 150 years prior. The coin bore the words a Maria Lord. A wonderful gift for all the big Virgin Mary fans out there, we guess. Number"
+    },
+    {
+      "id": 316,
+      "debut": 12454.64,
+      "fin": 12479.12,
+      "temps_estime": false,
+      "titre": "Fact 6: the global economy once relied on messenger pigeons",
+      "resume": "Before telegraph networks spread across Europe, messenger pigeons carried market updates, financial news, exchange rates and stock prices, often faster and more accurately than trains.",
+      "mots_cles": [
+        "messenger pigeons",
+        "financial news",
+        "telegraph networks",
+        "stock prices",
+        "currency exchange rates",
+        "19th century Europe",
+        "market updates",
+        "money facts"
+      ],
+      "texte": "six, the global economy was once reliant on pigeons. Before telegraph networks were set up across Europe, messenger pigeons were the key to transporting market updates, financial news, currency exchange rates, and stock prices. This was because they were often faster and more accurate than trains [music] at the time. There's a certain romance to that. We'd live in a better world if you could send your stock purchasing intentions often a messenger pigeon rather than just opening the Robin Hood app. [music]"
+    },
+    {
+      "id": 317,
+      "debut": 12479.12,
+      "fin": 12497.36,
+      "temps_estime": false,
+      "titre": "Fact 5: the metal smell of coins comes from your skin oils",
+      "resume": "The metallic smell after handling loose change is not the coins but you: skin oils react with the metal and break down into compounds with a unique smell, so smelling a dime means sniffing other people's sweat and oils.",
+      "mots_cles": [
+        "coin smell",
+        "metal smell",
+        "skin oils",
+        "loose change",
+        "sweat and oils",
+        "chemical reaction",
+        "Apple Pay",
+        "money facts"
+      ],
+      "texte": "Number five, you know that weird metal smell you get after handling loose change? That's not the coins, it's you. Your skin oils react with the metal and break down into compounds that give it a unique smell. Next time you give a dime a sniff, just remember you're huffing other people's sweat and oils. Suddenly, Apple Pay seems so much more attractive."
+    },
+    {
+      "id": 318,
+      "debut": 12497.36,
+      "fin": 12507.2,
+      "temps_estime": false,
+      "titre": "Fact 4: $50 billion of Monopoly money printed each year",
+      "resume": "About $50 billion of Monopoly money is printed each year, which the narrator jokes is the only thing more capable of tearing families apart than real money.",
+      "mots_cles": [
+        "Monopoly money",
+        "$50 billion",
+        "board game money",
+        "printed each year",
+        "Monopoly",
+        "fake money",
+        "family arguments",
+        "money facts"
+      ],
+      "texte": "Number four, $50 billion of Monopoly money is printed each [music] year. It's somehow the only thing more capable of tearing happy families apart than real money. Number three, there are 182"
+    },
+    {
+      "id": 319,
+      "debut": 12507.2,
+      "fin": 12515.68,
+      "temps_estime": false,
+      "titre": "Fact 3: there are 182 official currencies in the world",
+      "resume": "There are 182 official currencies in the world, not counting crypto meme coins, which would run into the thousands and be mostly worthless.",
+      "mots_cles": [
+        "182 official currencies",
+        "world currencies",
+        "official currency",
+        "meme coins",
+        "cryptocurrencies",
+        "number of currencies",
+        "global money",
+        "money facts"
+      ],
+      "texte": "official currencies in the world. And no, we're not counting those crypto meme coins or we'd be getting into the thousands and most of them would be worthless. Number two, there are"
+    },
+    {
+      "id": 320,
+      "debut": 12515.68,
+      "fin": 12545.28,
+      "temps_estime": false,
+      "titre": "Fact 2: why coins have ridges on their edges",
+      "resume": "Coin ridges make coins harder to counterfeit, give them a tactile feel, echo older coins whose edges were manually cut to prove authenticity, and let coins flip properly in the air when tossed.",
+      "mots_cles": [
+        "coin ridges",
+        "reeded edges",
+        "counterfeit prevention",
+        "coin flip",
+        "tactile feel",
+        "coin edges",
+        "coinage history",
+        "money facts"
+      ],
+      "texte": "actually plenty of good reasons why there are ridges on the sides of coins. Most prominently, the distinctive ridge [music] pattern makes the coins harder to counterfeit. Just like the paper money anti-counterfeit measures we mentioned earlier, the ridges also give coins a tactile feeling that gives them a classic heft of older currencies [music] where people would make manual cuts into the edges of the coins to show their authenticity. And for lovers of bar [music] tricks out there, the ridges and coins are what gives them the ability to properly flip in midair when you toss a coin. [music] And we think it's worth it for that alone. Number"
+    },
+    {
+      "id": 321,
+      "debut": 12545.28,
+      "fin": 12565.36,
+      "temps_estime": false,
+      "titre": "Fact 1: US coins avoided presidents' faces at first",
+      "resume": "People initially did not want faces of presidents or famous people on US coins; they planned symbols such as Lady Liberty and the bald eagle, because British coins featured monarchs' faces and the newly independent US did not want to repeat old mistakes.",
+      "mots_cles": [
+        "US coins",
+        "faces on coins",
+        "Lady Liberty",
+        "bald eagle",
+        "British coinage monarchs",
+        "American independence",
+        "non-representational symbols",
+        "money facts"
+      ],
+      "texte": "one, people initially didn't want to put faces of presidents or other famous people on their coins in the US. Initially, they were all going to have more non-representational symbols of America, like Lady Liberty [music] and the bald eagle. And this was because British coinage featured the faces of monarchs and the newly independent US. Well, they didn't feel like repeating old mistakes. [music]"
     }
   ]
 }
