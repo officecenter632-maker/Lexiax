@@ -1,0 +1,395 @@
+{
+  "version": 1,
+  "video_id": "HTYIKPcPRRQ",
+  "titre_video": "Holy sh*t spacetime is fake...",
+  "duree_s": 986.72,
+  "avancement": {
+    "lignes_traitees": 204,
+    "fin_traitee_s": 986.72,
+    "nb_lignes_total": 204,
+    "complet": true
+  },
+  "nb_segments": 20,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.24,
+      "fin": 28.64,
+      "temps_estime": false,
+      "titre": "Hook: free will, Einstein and a scripted life",
+      "resume": "The video opens by asking whether choosing to click was free will, claims Einstein was wrong, and teases a telescope test aimed 7.8 billion light years into space. The stakes are posed as a choice between space and time being illusions or every choice having been decided before Earth existed.",
+      "mots_cles": [
+        "free will",
+        "Einstein",
+        "quantum physics",
+        "scripted life",
+        "space and time illusion",
+        "7.8 billion light years",
+        "predetermined",
+        "fabric of reality"
+      ],
+      "texte": "You chose to click on this video. You thought it was your own free will. Even Albert Einstein would have agreed with you. Einstein was dead wrong. Quantum physicists pointed giant telescopes 7.8 billion light years into the deep cosmos to test the fabric or reality. What they found changes everything. Either space and time are complete illusions… or your entire life is scripted. Every thought you’ve ever had and every choice you’ll make was already decided long before Earth even existed."
+    },
+    {
+      "id": 2,
+      "debut": 28.64,
+      "fin": 74.32,
+      "temps_estime": false,
+      "titre": "Einstein's general relativity and local realism",
+      "resume": "Einstein's general relativity weaves space and time into a 4D fabric, and he held to local realism: things exist whether observed or not, and distant events cannot affect each other instantly. A rock on Mars keeps existing unobserved, and any influence needs a link, delay or signal.",
+      "mots_cles": [
+        "general relativity",
+        "Einstein",
+        "local realism",
+        "4D fabric",
+        "spacetime",
+        "common sense reality",
+        "rock on Mars",
+        "signal delay"
+      ],
+      "texte": "Albert Einstein’s greatest gift to the world was the theory of “General Relativity,” also known as “Einstein’s theory of gravity.” He discovered that space and time are woven together like a giant, invisible 4D fabric. According to Einstein, reality is predictable, logical, and makes total sense. He believed in the concept of “local realism” and it boiled down to 2 simple concepts. Things are real, whether you’re looking at them or not. A rock on Mars doesn’t stop existing because no one is there to see it. And events occurring in one location can’t instantly affect something happening millions of miles away. There has to be a link, a delay or a signal. It’s a “common sense” view of the physical world. Something even though the average person can generally understand. Then quantum physics completely"
+    },
+    {
+      "id": 3,
+      "debut": 74.32,
+      "fin": 95.44,
+      "temps_estime": false,
+      "titre": "Quantum physics breaks local realism",
+      "resume": "At the subatomic level, discoveries overturned local realism: unobserved particles dissolve into a ghostly cloud of mathematical probabilities instead of sitting in one place. The segment sets up the stranger result that follows.",
+      "mots_cles": [
+        "quantum physics",
+        "subatomic",
+        "local realism",
+        "probability cloud",
+        "unobserved particles",
+        "wave function",
+        "reality"
+      ],
+      "texte": "shattered what Einstein believed in. When scientists started looking at reality on a subatomic level, they made discoveries that turned the entire concept of “local realism” on its head. They found that, instead of existing in a specific location, unobserved particles dissolved into a ghostly “cloud” of mathematical probabilities. And it gets weirder."
+    },
+    {
+      "id": 4,
+      "debut": 95.44,
+      "fin": 134.4,
+      "temps_estime": false,
+      "titre": "Quantum entanglement and 'spooky action at a distance'",
+      "resume": "Entangled particles stay linked even when separated, such as one at the North Pole and one on the Moon, and mirror each other instantly. Einstein found this ridiculous because it broke the light-speed limit, mocked colleagues about the moon not being there, and called it spooky action at a distance.",
+      "mots_cles": [
+        "quantum entanglement",
+        "spooky action at a distance",
+        "faster than light",
+        "Einstein",
+        "North Pole and Moon",
+        "instant correlation",
+        "light speed limit",
+        "spin"
+      ],
+      "texte": "Digging deeper, they developed the theory of “quantum entanglement.” Essentially, it means that two or more tiny particles can become linked. Even if they’re in completely different places - like putting one at the North Pole and the other on the Moon - they still mirror one another. Spin one and the other will spin. This happens instantly. Without delay. For Einstein, this was ridiculous. It broke his rule that nothing could travel faster than light. He famously mocked colleagues, stating, “Do you really believe the moon is not there when you are not looking at it?”. He jokingly called quantum entanglement “spooky action at a distance.” He went to his grave believing that quantum physics was fundamentally flawed."
+    },
+    {
+      "id": 5,
+      "debut": 134.4,
+      "fin": 170.24,
+      "temps_estime": false,
+      "titre": "Einstein's hidden variable and the dismissal of quantum theory",
+      "resume": "Einstein believed in a secret variable built into particles at birth, meaning they simply followed a script rather than communicating. For decades quantum theory was dismissed as philosophy or crackpottery, journals refused papers, and students were steered to classical physics.",
+      "mots_cles": [
+        "hidden variable",
+        "Einstein",
+        "particles script",
+        "quantum theory dismissed",
+        "crackpottery",
+        "scientific debate",
+        "classical physics",
+        "built-in property"
+      ],
+      "texte": "Einstein believed scientists were missing a secret variable. Like some sort of special property that was “built into” particles at their birth which dictated their behavior in the future. To him, the particles weren’t “communicating” across light years. They were just following a script we couldn’t read yet. For decades, scientists argued both sides of the debate.. For a long time, quantum theories were dismissed as “philosophy” or even “crackpottery. Many scientific journals literally refused to publish papers on the topic. Aspiring quantum students were encouraged to stick to classical physics instead. Then, in the 1960s, something changed."
+    },
+    {
+      "id": 6,
+      "debut": 170.24,
+      "fin": 217.2,
+      "temps_estime": false,
+      "titre": "Bell's theorem and the first experiments",
+      "resume": "In the 1960s John Stewart Bell proposed a test with a limit on how synchronized separated particles could be if Einstein was right. Technology lagged until the 1970s and 80s, when John Clauser, Stuart Freedman and Alain Aspect tested it, and the particles broke Bell's limit.",
+      "mots_cles": [
+        "John Stewart Bell",
+        "Bell test",
+        "Bell's theorem",
+        "Clauser",
+        "Freedman",
+        "Alain Aspect",
+        "entanglement proven",
+        "1970s 1980s experiments"
+      ],
+      "texte": "A Northern Irish physicist called John Stewart Bell proposed a test that could, potentially, settle the “spooky action” debate, once and for all. It would determine whether distant entangled particles communicate instantly or if Einstein was right all along. If Einstein was right, then there had to be some sort of limit on how synchronized two separated particles could be. If the quantum physicists were right, however, they would smash through that limit. But Bell couldn’t actually perform the experiment. The technology didn’t exist. It wasn’t until the 1970s and ‘80s, that a new generation of scientists, such as John Clauser, Stuart Freedman, and Alain Aspect, were able to put Bell’s theorem to the test. And Einstein lost. Every time. The particles shattered Bell’s mathematical limit, proving quantum entanglement was real."
+    },
+    {
+      "id": 7,
+      "debut": 217.2,
+      "fin": 278.08,
+      "temps_estime": false,
+      "titre": "The detection and locality loopholes and the 2015 loophole-free test",
+      "resume": "Skeptics argued the experiments had loopholes: the detection or fair sampling loophole (cherry-picked pairs) and the locality loophole (a hidden fast signal). Ultra-fast electronics and better detectors closed them, producing the first loophole-free Bell test in 2015.",
+      "mots_cles": [
+        "detection loophole",
+        "fair sampling",
+        "locality loophole",
+        "hidden signal",
+        "loophole-free Bell test",
+        "2015",
+        "Einstein lost",
+        "cherry-picking"
+      ],
+      "texte": "But Einstein’s acolytes refused to back down. They claimed the experiments were rigged or pointed out massive “loopholes” in the logic. First there was the “detection” or “fair sampling loophole”. Skeptics argued that existing scientific equipment simply wasn’t accurate and reliable enough to capture every particle. They accused scientists of inadvertently “cherry-picking” the pairs that lined up with their hypothesis. Then there was the “locality loophole.” This argued that the particles were communicating, just like Einstein thought, just using a hidden signal that moved incredibly fast. If the particles had a microsecond to send messages before being captured, then the whole test was invalid. As the years went by and technology improved, scientists found ways to shut down these loopholes. They built ultra-fast electronic systems to counter the “locality loophole” argument and made detectors more efficient to collect broader and more reliable measurements. By 2015, they had achieved the Holy Grail of quantum physics: the first loophole free Bell test. Again, Einstein lost."
+    },
+    {
+      "id": 8,
+      "debut": 278.08,
+      "fin": 307.2,
+      "temps_estime": false,
+      "titre": "5-sigma and the 2015 Bell test's 11.5 sigma",
+      "resume": "A discovery is confirmed at 5-sigma, the gold standard reached by the Higgs boson at CERN. The 2015 Bell test hit 11.5 sigma, making chance practically impossible, less likely than winning the lottery every week for life.",
+      "mots_cles": [
+        "5-sigma",
+        "11.5 sigma",
+        "Higgs boson",
+        "CERN",
+        "statistical significance",
+        "random chance",
+        "2015 Bell test",
+        "lottery odds"
+      ],
+      "texte": "The data was overwhelming. In statistics, a discovery is confirmed at a level called 5-Sigma. It’s the gold standard. When it hits that, there’s an almost unimaginably microscopic probability that the results were just “random chance.” The discovery of the Higgs Boson at CERN achieved 5-sigma. The 2015 Bell Test hit 11.5. The odds of that happening by chance are practically zero. It’s more likely that you win the lottery every week for the rest of your life."
+    },
+    {
+      "id": 9,
+      "debut": 307.2,
+      "fin": 384.24,
+      "temps_estime": false,
+      "titre": "The free will (freedom of choice) loophole",
+      "resume": "Bell tests require detectors to switch measuring settings randomly at the last millisecond, assuming scientists have free choice. The free will loophole says a hidden connection, possibly millions of years old, could link machine settings and particles, so the test was rigged from the start and cannot be disproven.",
+      "mots_cles": [
+        "free will loophole",
+        "freedom of choice",
+        "Bell test settings",
+        "entangled photons",
+        "hidden thread",
+        "predetermined link",
+        "random switching",
+        "microchips and particles"
+      ],
+      "texte": "The science was indisputable. But Einstein’s defenders did dispute it. They had one more card to play. They pointed to one last but significant loophole: the “freedom of choice” or “free will” loophole. The most complex loophole of all. In a typical Bell Test, scientists fire a pair of entangled photons towards two separate detectors. To keep the tests fair, the detectors must randomly switch their measuring filters at the very last millisecond, before the particles arrive. The “free will” loophole argument states that tests like these operate on the assumption that the scientists have freedom of choice to pick whichever setting they want. They aren’t influenced into making one decision over another. But what if they don’t? What if there’s some unknown, hidden thread connecting the machine setting and the particle being measured? It might look like quantum entanglement, but it’s actually proof of some sort of secret predetermined link between the two. The question the machine asks and the answer the particle gives were rigged from the start. The loophole is practically impossible to close. People can easily claim there’s some sort of connection between the microchips inside lab computers and the particles in the air around them; a connection that potentially dates back millions of years. Unless you can break that connection, you can never prove Einstein wrong."
+    },
+    {
+      "id": 10,
+      "debut": 384.24,
+      "fin": 465.44,
+      "temps_estime": false,
+      "titre": "The 2018 Cosmic Bell Test setup with quasars",
+      "resume": "In 2018 a team led by Nobel laureate Anton Zeilinger used telescopes at the Roque de los Muchachos Observatory on La Palma, with a laser generating entangled photons. Instead of a computer or human, they chose detector settings using light from two quasars, 7.8 and 12.2 billion light years away.",
+      "mots_cles": [
+        "Cosmic Bell Test",
+        "Anton Zeilinger",
+        "La Palma",
+        "Canary Islands",
+        "quasars",
+        "7.8 billion light years",
+        "12.2 billion light years",
+        "entangled photons",
+        "telescopes"
+      ],
+      "texte": "So, in 2018, a team of scientists decided to do the unthinkable. To close this loophole, they had to escape Earth and take their experiment deep into the cosmos. Led by Nobel Laureate, Dr. Anton Zeilinger, the team - made up of theoretical physicists David from MIT, and UC San Diego - gathered at the Roque de los Muchachos Observatory on La Palma, in the Canary Islands. Their mission… a Cosmic Bell Test. They set up two enormous astronomical telescopes, one measuring 11.8 feet (3.6 meters) across, the other, 13.7 feet (4.2 meters). They also had an advanced laser system that generated entangled pairs of photons before firing one of each pair towards each telescope site. There was one that made this experiment so different. To choose the detector settings, they didn’t use a computer or human. They used the universe itself. The team pointed their telescopes into the deepest recesses of space, towards two extremely far-away galactic cores called quasars. These weren’t local stars, or nearby galaxies. One quasar was 7.8 billion light-years away. The other was even further: 12.2 billion light-years. That means that the light from these galaxy cores had been traveling through the void for billions of years just to get to Earth. And that made it the perfect tool to slam the free will loophole shut and once and for all."
+    },
+    {
+      "id": 11,
+      "debut": 465.44,
+      "fin": 521.6,
+      "temps_estime": false,
+      "titre": "Cosmic Bell Test result: quantum mechanics wins again",
+      "resume": "Random color fluctuations in ancient quasar light were converted into numerical signals that set the detectors as photons arrived, making the universe a random number generator. The quasars could not have communicated, yet the photons still behaved as connected, so quantum mechanics won again.",
+      "mots_cles": [
+        "quasar light",
+        "random number generator",
+        "detector settings",
+        "entangled photons",
+        "Cosmic Bell Test result",
+        "quantum mechanics wins",
+        "no communication",
+        "billions of years"
+      ],
+      "texte": "The strategy was brilliant. As the ancient light from the quasars entered the telescope’s sights, scientists captured the random color fluctuations. That was converted into numerical signals, which were used to change the detector settings right as the entangled photons arrived. The universe became the ultimate cosmic random number generators. The quasars were so old, so far apart, and so far away from Earth, they had no way of communicating with each other. If Einstein was right, any measurable correlations between the photons should have flattened out the quantum effects. The experiment should have failed. That’s not what happened. When the scientists analyzed their findings, their conclusion was unequivocal. Just like in so many other Bell Tests, the entangled photons behaved like they were connected through space and time. Even when the choices were dictated by light that left its source billions of years ago, nothing changed. Quantum mechanics won again. And it wasn’t even close."
+    },
+    {
+      "id": 12,
+      "debut": 521.6,
+      "fin": 553.52,
+      "temps_estime": false,
+      "titre": "One in 100 billion billion odds and the grain of sand analogy",
+      "resume": "Dr. Alan Guth said the chance of the results being a fluke was one in 100 billion billion, illustrated by picking the same grain of sand from a beach again and again. The experiment shows the common-sense view of reality is dead.",
+      "mots_cles": [
+        "Alan Guth",
+        "100 billion billion",
+        "grain of sand analogy",
+        "statistical impossibility",
+        "fluke",
+        "common sense reality",
+        "cosmic Bell test",
+        "probability"
+      ],
+      "texte": "Dr. Alan Guth revealed that the possibility of the test results being a fluke were a one in 100 billion billion. To put that into perspective, imagine going to a beach, picking up a single grain of sand and then dropping it among the trillions of other grains. Then you close your eyes and immediately pick up that same grain of sand. Over and over again. It is a statistical impossibility. That’s what made this experiment matter so much. It proved beyond a shadow of a doubt that our common sense view of reality is dead."
+    },
+    {
+      "id": 13,
+      "debut": 553.52,
+      "fin": 646.32,
+      "temps_estime": false,
+      "titre": "Superdeterminism and the end of free will",
+      "resume": "The only remaining defense of Einstein is superdeterminism, which rejects statistical independence and says everything has been locked in since the Big Bang, so the quasars were following a cosmic script. Experiments become an illusion and humans have no agency, like trains on tracks or actors reading lines.",
+      "mots_cles": [
+        "superdeterminism",
+        "statistical independence",
+        "Big Bang script",
+        "predetermined universe",
+        "no free will",
+        "determinism",
+        "illusion of experiments",
+        "agency",
+        "Cosmic Bell Test"
+      ],
+      "texte": "If anyone wants to hold onto Einstein’s theory, they can’t blame faulty equipment or local lab conditions. The only card they have left to play is a concept so mindbending, it sounds insane. Superdeterminism. To understand how terrifying this is, you have to understand how science works. In normal scientific circles, we rely on something called statistical independence. It means that when a scientist flicks a switch to measure a particle, the particle doesn’t “know” that the switch is about to be flicked. Superdeterminism says that’s a lie. It argues that everything in the universe has been locked in since the dawn of time. So, if superdeterminism is accurate, those distant quasars weren’t as random as they seemed to be. Instead, they were reading from a script that was written billions of years ago during the Big Bang. A cosmic script that those exact two quasars would emit a specific type of light in a particular way that would perfectly match the subatomic states of photons generated in a Canary Islands lab. Under this rule, there’s no such thing as an “independent experiment.” Experiments and science are little more than an illusion. Everything we do, everything we measure, every tool we use… it’s already predetermined. That means humans don’t have agency of any kind. There’s no free will. Nothing is random. Every single thing that’s ever happened and ever will happen was always going to happen that exact same way. And there’s nothing we can do to change it. We’re all just going through the motions, like trains following tracks or actors reading lines that were written before they were born."
+    },
+    {
+      "id": 14,
+      "debut": 646.32,
+      "fin": 681.36,
+      "temps_estime": false,
+      "titre": "John Bell on superdeterminism and its reception",
+      "resume": "John Stewart Bell acknowledged in the 1980s, in a BBC interview, that superluminal speeds could be avoided only through absolute determinism and the absence of free will. He called it implausible, and most physicists dismissed it as a cop-out that could never be tested.",
+      "mots_cles": [
+        "John Stewart Bell",
+        "BBC interview",
+        "absolute determinism",
+        "absence of free will",
+        "superluminal",
+        "cop-out",
+        "implausible",
+        "superdeterminism"
+      ],
+      "texte": "John Stewart Bell even acknowledged this argument back in the 1980s, telling the BBC: “There is a way to escape the inference of superluminal speeds and spooky action… But it involves absolute determinism… the complete absence of free will…. There is no need for a faster than light signal to tell particle A what measurement has been carried out on particle B, because the universe… already \"knows\" what that measurement, and its outcome, will be.” Bell also stated that he believed this concept to be “implausible.” Most physicists flat out ignored it, saying it was a “cop-out” that could never be tested or proven."
+    },
+    {
+      "id": 15,
+      "debut": 681.36,
+      "fin": 729.76,
+      "temps_estime": false,
+      "titre": "The dilemma: superdeterminism or non-local entanglement",
+      "resume": "Physicists are forced to choose between superdeterminism, where the universe is hard-coded, or concluding Einstein was wrong, local realism is disproven and particles influence each other faster than light. Most choose the second because accepting predetermination would make scientific pursuits pointless.",
+      "mots_cles": [
+        "dilemma",
+        "superdeterminism",
+        "local realism disproven",
+        "faster-than-light influence",
+        "scientific pursuit",
+        "Einstein wrong",
+        "predetermination",
+        "physicists' choice"
+      ],
+      "texte": "But as quantum physics has evolved, scientists are being backed into a corner. They are being increasingly forced to face up to the idea of superdeterminism. And that leaves them to choose between 2 very different views of the world. Either superdeterminism is real. And that means the whole universe is hard-coded and independent agency is an illusion. Or that Einstein was wrong. Local realism has been disproven, and particles - even in completely different places - can remain connected and directly influence one another at faster-than-light speeds. Most scientists opt for the second option because the idea of accepting superdeterminism doesn’t sit right with them. If you accept that everything is predetermined, then “scientific pursuits” aren’t worth pursuing, at all. But if local realism is wrong, then so is most of what we know about space and time."
+    },
+    {
+      "id": 16,
+      "debut": 729.76,
+      "fin": 787.84,
+      "temps_estime": false,
+      "titre": "From Newton's arena to the collapse of the spacetime backdrop",
+      "resume": "Newton saw space as a rigid empty stage and Einstein wove space and time into a 4D fabric that still served as a backdrop dictating where objects were and how cause and effect worked. The Cosmic Bell Test implies a reality where distance is meaningless, so spacetime clashes with quantum mechanics.",
+      "mots_cles": [
+        "Isaac Newton",
+        "space as arena",
+        "spacetime fabric",
+        "backdrop of reality",
+        "distance meaningless",
+        "Cosmic Bell Test",
+        "entangled particles on Jupiter",
+        "quantum mechanics vs relativity"
+      ],
+      "texte": "Isaac Newton famously saw space as a kind of rigid empty “arena” or stage. Einstein took the idea to a new level, suggesting that space and time weave around one another into a complex 4D “fabric” called space-time. But even in Einstein’s vision, space-time was still seen as a kind of “backdrop” of reality. It was a physical layer that dictated where objects were, how quickly they could move, and how cause and effect worked together. The Cosmic Bell Test shattered all that. By closing the last loophole, the Canary Islands research team forced scientists across the globe to confront a whole new type of reality: a reality in which distance is meaningless. A reality in which particle A on Earth can impact particle B on Jupiter instantly. If physical distance doesn’t matter to entangled particles, then physical space isn’t what we think it was. Einstein’s space-time fabric clashes with quantum mechanics. That suggests something deeply unsettling."
+    },
+    {
+      "id": 17,
+      "debut": 787.84,
+      "fin": 848.72,
+      "temps_estime": false,
+      "titre": "Spacetime as emergent: the boiling water analogy",
+      "resume": "Spacetime may be real only to human perception, like the heat felt from boiling water that is just molecular kinetic energy and not a property of single molecules. Theoretical physicists propose that space and time emerge from a vast network of entangled quantum particles exchanging information.",
+      "mots_cles": [
+        "spacetime not real",
+        "emergent spacetime",
+        "boiling water analogy",
+        "heat and kinetic energy",
+        "entangled network",
+        "quantum information",
+        "theoretical physicists",
+        "by-product"
+      ],
+      "texte": "Space-time isn’t real. We may perceive it as real, but that’s just a flaw in human nature. If you pour boiling water into a cup and touch it, you feel heat. You notice a rise in temperature. But if you zoom in and look at an individual molecule of water, it doesn’t have an increase in “temperature.” It just has an increase in kinetic energy. It’s moving fast. The heat you feel is a by-product of large amounts of energy across large amounts of molecules, all interacting and colliding with one another. It’s real to us, because we can feel it in our fingertips. But on a subatomic level, it’s not real. And today’s theoretical physicists are taking that logic and applying it to space and time. Space-time, they say, isn’t a stage or a fabric. It’s closer to a by-product. Just as heat emerges from the chaotic motion molecules, physical space and time emerges from the unimaginably vast network of entangled quantum particles constantly swapping information."
+    },
+    {
+      "id": 18,
+      "debut": 848.72,
+      "fin": 926.0,
+      "temps_estime": false,
+      "titre": "The Holographic Principle",
+      "resume": "The Holographic Principle says our 3D reality is a projection from a 2D screen at the cosmic edge made of interacting quantum bits, like a 3D movie that is flat when touched. It explains spooky action because entangled particles are not truly far apart, and time's flow could also be an illusion.",
+      "mots_cles": [
+        "Holographic Principle",
+        "holographic universe",
+        "2D screen projection",
+        "quantum bits",
+        "3D movie analogy",
+        "spooky action explained",
+        "time illusion",
+        "entanglement"
+      ],
+      "texte": "And as theoretical physicists slowly turn away from Einstein’s teachings, they’ve had to come up with an alternate way to visualize the universe. The Holographic Principle or Holographic Universe. This theory suggests that our 3D reality is actually a kind of “projection” emanating from a vast 2D “screen” that sits at the edge of the cosmos. On that screen, there’s no such thing as gravity, spatial distance, or 3D space. It’s just a collection of quantum bits all interacting with each other to “project” our reality into existence. It’s almost like when you watch a movie in 3D. It might look and feel as though objects are moving towards you, but if you stand up and touch the screen, everything is flat. The Holographic Principle actually explains Einstein’s “spooky action at a distance” idea well. If two particles are entangled on a flat 2D screen, they’re not actually communicating with one another in some magical, mysterious way across light-years of 3D space. We just perceive them as being far apart, but in reality, they aren’t. The same sort of logic can also be applied to time. We experience it in a linear, sequential format: past, present, and future. But that, too, might just be an illusion. It’s our brain's desperate attempt to interpret complex quantum data unfolding on a flat plane"
+    },
+    {
+      "id": 19,
+      "debut": 926.0,
+      "fin": 971.92,
+      "temps_estime": false,
+      "titre": "The terrifying dilemma after the Cosmic Bell Test",
+      "resume": "Humanity faces two options: accept superdeterminism, where spacetime may be real but free will is fake, or reject it and accept that space and time are illusions, a holographic projection of quantum data. Either way, a fundamental belief about the world, life and choices is wrong.",
+      "mots_cles": [
+        "dilemma",
+        "superdeterminism",
+        "free will fake",
+        "spacetime illusion",
+        "holographic projection",
+        "Cosmic Bell Test",
+        "quantum data",
+        "fundamental beliefs"
+      ],
+      "texte": "that we’re hardwired to misunderstand. Even if you want to reject these ideas, the alternative isn’t any more comforting. The Cosmic Bell Test has plunged humanity into a terrifying dilemma. On the one hand, you can believe in superdeterminism. That means that space and time as we know them might be real. But free will is fake and nothing you do is ever really your decision. On the other hand, you can reject superdeterminism. But then you have to accept that space and time are simply illusions. The world around you is basically a holographic movie projection of quantum data. Either way, you have to accept that at least one of the fundamental things you thought about the world, about life, and about your own choices and experiences is wrong. And that’s the most frightening part of all."
+    },
+    {
+      "id": 20,
+      "debut": 971.92,
+      "fin": 986.72,
+      "temps_estime": false,
+      "titre": "Outro: end of the universe video",
+      "resume": "The video closes by saying nothing lasts forever and recommends another video, 'What the End of the Universe Will Look Like According to Scientists', for what happens when the cosmic script runs out of pages.",
+      "mots_cles": [
+        "end of the universe",
+        "recommended video",
+        "cosmic script",
+        "outro",
+        "nothing lasts forever",
+        "scientists",
+        "choice"
+      ],
+      "texte": "Space continues to surprise us all. But one thing is certain… nothing lasts forever. If you want to know what happens when the cosmic script runs out of pages, watch “What the End of the Universe Will Look Like According to Scientists”... assuming you have the choice. Or click on this."
+    }
+  ]
+}
