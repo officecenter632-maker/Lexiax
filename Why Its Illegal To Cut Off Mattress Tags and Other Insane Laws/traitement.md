@@ -10,6 +10,10 @@ Départ : début de la vidéo (segments.json n'existait pas).
 - Tranche 1 : lignes 1 à 912, 0 à 1719,44 s (~28,7 min), 39 segments (id 1 à 39). Vérification OK.
 - Tranche 2 : lignes 913 à 1859, 1719,44 à 3646,08 s (~32 min), 48 segments (id 40 à 87). Vérification OK. Contenu : Chine impériale, Angleterre médiévale et Tudor, lois américaines (prohibition, flipper, danse), puis début d'une 2e vidéo-compilation : « 20 aliments interdits aux États-Unis » (un segment par numéro, 20 à 1) et « choses illégales en Russie » (n° 10 : produits importés).
 
+Reprise à la ligne 1860 (un autre agent s'était arrêté après la tranche 2 ; son travail est vérifié OK et n'a pas été modifié).
+
+- Tranche 3 : lignes 1860 à 2854, 3646,08 à 5484,96 s (~30,7 min), 50 segments (id 88 à 137). Vérification OK. Contenu : fin de la liste « choses illégales en Russie » (n° 9 blogs à n° 1 sous-vêtements en dentelle), « choses illégales du quotidien aux États-Unis » (chien sans licence, électronique jetée, Orem, Milwaukee, curfews, impôts, mots de passe Netflix, Bobby Unser, obstruction), puis « 20 choses légales aux États-Unis » (n° 20 singes à n° 4 conduire nu). Les coupures en milieu de ligne (titres de liste) sont marquées temps_estime = true.
+
 ## Décisions prises (pour qui reprend le travail)
 
 - Une idée = un sujet précis : une loi bizarre (ex. Boulder, Reno, Akron), un cas judiciaire (Hattori, Johns Hopkins, Baltimore) ou une étape d'un raisonnement. Quand un cas est long, il est scindé en « les faits » et « le verdict / les suites ».
@@ -20,4 +24,4 @@ Départ : début de la vidéo (segments.json n'existait pas).
 
 ## Point d'arrêt
 
-Tranche 2 terminée : lignes_traitees = 1859 (fin de la partie « Russie n° 10 », juste avant « Number nine, popular blogs »). Prochaine étape : reprise à la ligne 1860 (Russie n° 9 : blogs populaires). La vidéo est une compilation de plusieurs sujets (lois absurdes, voyage dans le temps, aliments interdits aux USA, Russie) : un nouveau sujet commence souvent par un titre sans transition, à couper en milieu de ligne si besoin. Format des titres pour les listes numérotées : « Number N: sujet ».
+Tranche 3 terminée : lignes_traitees = 2854 (fin de « Number 4: driving naked », juste avant « And while driving, you might want to save yourself some money. Number three, using radar detectors »). Prochaine étape : reprise à la ligne 2855 (n° 3 : détecteurs de radar). La vidéo est une compilation de plusieurs sujets (lois absurdes, voyage dans le temps, aliments interdits aux USA, Russie) : un nouveau sujet commence souvent par un titre sans transition, à couper en milieu de ligne si besoin. Format des titres pour les listes numérotées : « Number N: sujet ».
