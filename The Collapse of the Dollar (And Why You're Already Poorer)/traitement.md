@@ -14,9 +14,13 @@ Le speech est en réalité un enchaînement de plusieurs sujets (fabrication de 
 ## Tranches
 - Tranche 1 : lignes 1 à 877, 0 à 1828,0 s (30,5 min), 43 segments. Sujets : fabrication et coût de l'argent (lignes 1-274), Gen Z « génération la plus pauvre » (275-798), début de la partie sur la fin du dollar : réserve de change, Bretton Woods, seigniorage (799-877). Coupure à la ligne 877 (fin d'une idée sur les avantages du dollar comme monnaie de réserve). La suite commence ligne 878 (« to change, but other nations have recently been saying... ») par les pays qui échangent leurs dollars contre de l'or.
 
+- Tranche 2 : lignes 878 à 1736, 1828,0 à 3499,04 s (27,9 min), 43 segments (id 44 à 86). Sujets : de-dollarisation et pays qui s'éloignent du dollar (878-1020), guerre en Ukraine vue par le Sud global, BRICS, or (1021-1273), « bonnes et mauvaises nouvelles » pour le dollar (1274-1445), puis Bill Hwang / Archegos (1446-1736). Coupure à la ligne 1736, fin d'une vidéo du speech ; la ligne 1737 démarre un nouveau sujet (scénario « et si le dollar s'effondrait en une nuit »).
+  Remarque : les noms propres du speech sont mal transcrits (Huang/Hong/Hang pour Hwang, Archos/Archugos pour Archegos, Silva, Zolinski) : texte conservé, résumés avec l'orthographe correcte.
+
 ## Passages douteux
+- Ligne 1446 : commence par « right now, not a fact. », fin de la phrase du sujet précédent, rattachée au segment 73 par coupure à la fin de ligne.
 - Ligne 548-550 : « 2,17% » et « 2580% » pour la hausse des frais de scolarité (transcription automatique).
 - Lignes 277-278 : « Wait, no, that's a mistake. Negative $22,000 » : propos de l'orateur, conservé.
 
 ## Point d'arrêt
-Dernière ligne traitée : 877 sur 6916. Prochaine étape : tranche 2 à partir de la ligne 878.
+Dernière ligne traitée : 1736 sur 6916 (3499,04 s). Prochaine étape : tranche 3 à partir de la ligne 1737 (scénario « et si le dollar s'effondrait en une nuit »).

@@ -4,12 +4,12 @@
   "titre_video": "The Collapse of the Dollar (And Why You're Already Poorer)",
   "duree_s": 13885.44,
   "avancement": {
-    "lignes_traitees": 877,
-    "fin_traitee_s": 1828.0,
+    "lignes_traitees": 1736,
+    "fin_traitee_s": 3499.04,
     "nb_lignes_total": 6916,
     "complet": false
   },
-  "nb_segments": 43,
+  "nb_segments": 86,
   "segments": [
     {
       "id": 1,
@@ -798,6 +798,774 @@
         "cost to print $10"
       ],
       "texte": "But of course, [music] the fact the reserve currency was the dollar was also a very good thing for the USA. The dollar became the king of the economic jungle. As the USA roared through the 20th [music] century, often doing whatever the hell it wanted with significant economic and geopolitical advantages compared to other nations. The dollar was in demand. Everyone needed [music] the dollar and the US controlled it. Because of that, the US was able to exert influence on other countries. Having the reserve currency also [music] gave the US trade advantages. There's also something called senurage which in short means the US made money from the production of money [music] since the cost of making it was less than what it was worth. It costs less than 10 bucks to make [music] 10 bucks and everyone wants or needs the bucks. Cha-ching. This is a very basic explanation but all you really need to know is when the dollar became the world's reserve currency that suited the US just fine. The US doesn't want this"
+    },
+    {
+      "id": 44,
+      "debut": 1828.0,
+      "fin": 1859.6,
+      "temps_estime": false,
+      "titre": "Countries swap dollars for gold; Saudi Arabia open to non-dollar oil deals",
+      "resume": "Some nations say they are exchanging dollars for gold at an astonishing rate and refusing certain trades in dollars. In 2023 Saudi finance minister Mohammed Al-Jadaan said the kingdom was open to oil deals in other currencies after trading oil in dollars for 48 years.",
+      "mots_cles": [
+        "gold purchases",
+        "Saudi Arabia",
+        "oil in non-dollar currencies",
+        "Mohammed Al-Jadaan",
+        "petrodollar",
+        "2023",
+        "de-dollarization"
+      ],
+      "texte": "to change, but other nations have recently been saying that they have been exchanging their dollars for gold at an astonishing rate and also refusing to do certain trades in the dollar. The question is why? Let's also give you some examples. [music] In 2023, Saudi Arabia's finance minister Muhammad al- Jadan shocked the world when he said his country was open to doing oil deals in other currencies besides the dollar. This oilrich nation had been trading its oil in dollars for 48 years. This really was a big story and there are a few things to consider. China is one of"
+    },
+    {
+      "id": 45,
+      "debut": 1859.6,
+      "fin": 1895.76,
+      "temps_estime": false,
+      "titre": "Saudi Arabia and China: oil trade and Belt and Road",
+      "resume": "China buys about a quarter of Saudi oil exports and is Saudi Arabia's largest trading partner, while Saudi relations with the US have been strained at times. Saudi Arabia is also part of China's Belt and Road Initiative, which helps it diversify away from oil.",
+      "mots_cles": [
+        "China Saudi trade",
+        "Belt and Road Initiative",
+        "oil exports",
+        "largest trading partner",
+        "economic diversification",
+        "US Saudi relations"
+      ],
+      "texte": "them. Due to China buying about one quarter of all Saudi Arabia's oil exports, China is Saudi's largest trading partner. The countries have been close for a long time, but it seems they're becoming even closer these days. Just [music] as Saudi Arabia's relationship with the US has been somewhat strained at times. Importantly, Saudi Arabia is also a big part of China's Belt and Road Initiative, a multi-billion dollar, maybe a trillion dollar global development project that gives China tremendous influence around the world. This will help Saudi Arabia heavily reliant on its oil exports to diversify its economy. That will be needed when the world is less reliant on oil. These countries need each other."
+    },
+    {
+      "id": 46,
+      "debut": 1895.76,
+      "fin": 1923.84,
+      "temps_estime": false,
+      "titre": "Aramco's $3.6 billion Rongsheng deal and talk of yuan oil deals",
+      "resume": "State-owned Saudi Aramco agreed to buy a 10% stake in Chinese refiner Rongsheng Petrochemical for $3.6 billion and supply 480,000 barrels a day of crude for two decades. What matters is that the countries are getting closer and discussing deals in yuan rather than dollars.",
+      "mots_cles": [
+        "Saudi Aramco",
+        "Rongsheng Petrochemical",
+        "$3.6 billion",
+        "480,000 barrels a day",
+        "yuan oil deals",
+        "China Saudi Arabia"
+      ],
+      "texte": "The two countries just made a deal in which stateowned Saudi Aramco will acquire a 10% share in the Chinese oil refiner Rang [music] Shen Prochemical for $3.6 billion. At that same time, the former will provide 480,000 barrels a day of crude oil to RS refinery for two decades. The small print on the deal doesn't really matter for this video, but what does matter is China and Saudi Arabia are getting closer, and it also matters that they're talking about doing deals in [music] yuan, not dollars. What"
+    },
+    {
+      "id": 47,
+      "debut": 1923.84,
+      "fin": 1955.68,
+      "temps_estime": false,
+      "titre": "China mediates Iran-Saudi deal; a post-American Gulf",
+      "resume": "In 2023 China mediated between Iran and Saudi Arabia, while US relations with many Gulf countries have been touch-and-go, prompting talk of a post-American Gulf. These nations may want to diversify as the US prepares for conflicts with China and Russia, and forgoing the dollar makes sense when the US controls the reserve currency.",
+      "mots_cles": [
+        "China mediation",
+        "Iran Saudi Arabia",
+        "post-American Gulf",
+        "Middle East diplomacy",
+        "diversify economies",
+        "US China conflict",
+        "reserve currency"
+      ],
+      "texte": "was even more surprising in 2023 was China mediating between Iran and Saudi Arabia, two countries that certainly have not seen eye to eye for a long time. China's brokering deals in the Middle East, while the US's relationship with many countries in the region has been quite touchandgo. Some people have even talked about a postamerican Gulf. These nations may want to diversify their economies as the US primes itself for conflicts with China and Russia. They aren't playing ball with the US and the US controls the world's reserve currency. So [music] it makes sense to forego using that currency. As we said,"
+    },
+    {
+      "id": 48,
+      "debut": 1955.68,
+      "fin": 2006.24,
+      "temps_estime": false,
+      "titre": "Weaponizing the dollar: sanctions and the Russian reserves freeze",
+      "resume": "Because the US holds the reserve currency it can weaponize the dollar through sanctions, as with Russia, or devalue it to win trade wars. China says the US weaponizes the dollar, and the more deals are done in yuan the weaker that weapon becomes; the US froze $300 billion of Russian central bank reserves after the invasion of Ukraine.",
+      "mots_cles": [
+        "weaponize the dollar",
+        "sanctions",
+        "Russia",
+        "$300 billion frozen reserves",
+        "Chinese yuan",
+        "paper kryptonite",
+        "reserve currency abuse"
+      ],
+      "texte": "because the US holds the world's reserve currency, it can exploit its position. The word generally used is weaponize the dollar, which seems to be motivating countries to trade in other currencies. The US can implement sanctions on countries, as we've seen with Russia. It can devalue its own currency to win trade wars, but this might harm the rest of the world. Again, [music] it might make sense to dump the dollar for some nations. This is exactly what China has been saying that the US has been weaponizing their dollar. It's less a weapon, of course, if countries use it less. The more deals are done in other currencies such as the Chinese yuan, the less the greenback is like paper kryptonite. It loses its power. To some countries, the US is acting a little roguish, abusing its position as the country [music] with the global reserve currency. For instance, it was able to freeze $300 billion of the Russian central bank's foreign exchange reserves when Russia invaded Ukraine. While the"
+    },
+    {
+      "id": 49,
+      "debut": 2006.24,
+      "fin": 2037.28,
+      "temps_estime": false,
+      "titre": "Frozen reserves raise credibility worries for some nations",
+      "resume": "Many countries back the US, but others, even those who condemn Putin's invasion, see a proxy war and a US that ignored the rules-based financial system. They worry the US can freeze reserves whenever it likes, and critics say it undermined US international credibility.",
+      "mots_cles": [
+        "freezing reserves",
+        "proxy war",
+        "rules-based financial system",
+        "US credibility",
+        "Ukraine war",
+        "sanctions risk",
+        "Putin invasion"
+      ],
+      "texte": "US has the full support of many nations, it doesn't in other nations, even if they think Putin's invasion was wrong and what's happening in Ukraine is a terrible thing. Many countries believe this is a proxy war and the US, a bully to some nations, just [music] flexed its muscles and ignored a rules-based international financial system. This made them worried. They might now be thinking, \"So every time the US feels like it, it can just freeze reserves.\" Some critics have talked about how this has undermined the US's international credibility. What if they refuse to do as the US asks? What'll happen to them?"
+    },
+    {
+      "id": 50,
+      "debut": 2037.28,
+      "fin": 2069.76,
+      "temps_estime": false,
+      "titre": "Global South skepticism about the Ukraine war",
+      "resume": "Some countries, especially in the global south and Middle East, are skeptical about the war and don't think they should suffer for it. India's foreign minister said Europe thinks its problems are the world's problems but the world's problems are not Europe's, and neutral countries take a broader view of US foreign policy.",
+      "mots_cles": [
+        "global south",
+        "India foreign minister",
+        "neutral countries",
+        "Ukraine war",
+        "Europe's problems",
+        "American foreign policy",
+        "Middle East skepticism"
+      ],
+      "texte": "Countries [music] are suffering because of what's going on in Ukraine. But some of them, especially in the global south and the Middle East, are skeptical about the war and don't think they should be suffering for it. India's foreign minister was quite vocal about this when he recently said Europe thinks Europe's problems are [music] the world's problems but that world's problems are not Europe's problems. Some of these more neutral countries are not so critical of Russia or even if they are they take a broader view of matters and in view of American foreign policy over the years might not see things as black and white on the good and evil front. So"
+    },
+    {
+      "id": 51,
+      "debut": 2069.76,
+      "fin": 2110.0,
+      "temps_estime": false,
+      "titre": "BRICS, Putin's new currency standard and a multipolar order",
+      "resume": "At the 14th BRICS summit in 2022 Putin spoke of a new international currency standard and some listened, questioning US dollar hegemony after decades of sanctions and coercive diplomacy. The European Council on Foreign Relations said non-western countries see a multipolar, post-western order as more likely than a bipolar one, which may mean an end to dollar hegemony.",
+      "mots_cles": [
+        "BRICS summit 2022",
+        "Putin",
+        "new currency standard",
+        "multipolar world",
+        "European Council on Foreign Relations",
+        "post-western order",
+        "dollar hegemony"
+      ],
+      "texte": "when at the 14th brick summit in 2022 Vladimir Putin talked about creating a new international currency standard some [music] of them listened. They might be looking at the US's many sanctions over the decades and its somewhat coercive diplomacy and wondering if US dollar hegemony is in their best interests. The European Council on Foreign Relations said the world is divided on Ukraine. Importantly, it also wrote, \"People in these non-western countries and in Russia also consider the emergence of a multi-polar [music] world order to be more probable than a bipolar arrangement. They're talking about a post-western international order, which may mean an end to dollar hegemony. What we might now be seeing with countries foregoing the dollar is the start of this. Argentina was another"
+    },
+    {
+      "id": 52,
+      "debut": 2110.0,
+      "fin": 2146.4,
+      "temps_estime": false,
+      "titre": "Argentina pays for Chinese imports in yuan",
+      "resume": "Argentina announced it would pay for Chinese imports in yuan, with its economy minister citing the worst drought in history and the need to keep foreign reserves robust. In April 2023 it planned about $1 billion of imports in yuan plus $790 million monthly afterwards, strengthening ties to China and cutting reliance on the dollar.",
+      "mots_cles": [
+        "Argentina",
+        "yuan imports",
+        "$1 billion",
+        "$790 million monthly",
+        "drought",
+        "foreign reserves",
+        "China trade",
+        "dollar reliance"
+      ],
+      "texte": "country that lately announced it would start paying [music] for Chinese imports in yuan, not dollars. The country's economy minister explained, \"Following the worst drought in history, Argentina must keep its foreign reserves robust.\" In April 2023, Argentina said it was planning on paying for around $1 billion worth of imports in Yuan and $790 million of monthly imports after that, also in Yuan. This no doubt delighted China. not so much the USA. While this might not have anything to do with the war, it shows how the country is strengthening its bond with China and at the same time saying it wants less reliance on the dollar. Then you have"
+    },
+    {
+      "id": 53,
+      "debut": 2146.4,
+      "fin": 2193.04,
+      "temps_estime": false,
+      "titre": "Brazil's Lula criticizes the West over Ukraine",
+      "resume": "Brazil, criticized by the US for staying neutral on Ukraine, is led by Luiz Inacio Lula da Silva, who in 2023 said NATO should not have installed bases so close to Russia, criticized Western politicians for not negotiating, and blamed Zelensky as much as Putin. Ukraine's foreign minister replied that Ukraine does not trade its territories.",
+      "mots_cles": [
+        "Lula da Silva",
+        "Brazil neutrality",
+        "NATO bases",
+        "Zelensky",
+        "Ukraine foreign minister",
+        "global south views",
+        "Ukraine war"
+      ],
+      "texte": "Brazil, which the US has criticized for remaining neutral where the Ukraine war is concerned. Brazil's president Luis Anasio Lula Dilva is not on any especially bad terms with the US, but his position on Ukraine has not exactly been in line with the US and the EU thinking. In 2023, he explained what some politicians and people in the global south have been thinking when he said NATO should not have been installing military bases that close to Russia given the promises of the past. He criticized Western politicians for encouraging war and not doing enough to negotiate with Russia in the run-up to Ukraine's invasion. He also blamed Ukrainian President Vladimir Zolinski, saying he was as responsible as Putin for the war. The Ukraine foreign minister shot back, \"We have to clearly note Ukraine does not trade its territories.\" Silva's comment obviously"
+    },
+    {
+      "id": 54,
+      "debut": 2193.04,
+      "fin": 2249.6,
+      "temps_estime": false,
+      "titre": "Analysts and officials on whether diplomacy could have prevented the war",
+      "resume": "Outside mainstream Western media, analysts such as historian Geoffrey Roberts argue a deal halting NATO expansion might have prevented the war. Others cite William Burns's 2008 cable warning of consequences from NATO enlargement and Oleksiy Arestovych's 2019 remark that joining NATO meant a big war, and some claim the US knew war would come and went ahead to weaken Russia.",
+      "mots_cles": [
+        "NATO expansion",
+        "Geoffrey Roberts",
+        "William Burns cable 2008",
+        "Arestovych",
+        "diplomacy blocked",
+        "proxy war",
+        "weaken Russia",
+        "Ukraine"
+      ],
+      "texte": "made some people's blood boil, but outside of the mainstream Western media, many analysts have said similar [music] things. The British historian Jeffrey Roberts, whose specialty is Soviet diplomatic and military history, wrote in a recent paper, [music] could war have been prevented by a Russian Western deal that halted NATO expansion and neutralized Ukraine in return for solid guarantees of Ukrainian independence [music] and sovereignty. Quite possibly. Many others say diplomacy was blocked by the US and UK, often citing the former US ambassador to Russia and presently [music] the CIA director, William Burns, who in a cable to Washington in 2008 warned that unpredictable and uncontrolled [music] consequences and war could happen with the enlargement of NATO. They also might refer to Alexi Aristovich, [music] a former military intelligence officer and former adviser to President Zalinsky, who in 2019 warned, \"Our price for joining NATO is a big war with Russia.\" Some say the US knew there would [music] be war and went ahead anyway to weaken Russia. So, some"
+    },
+    {
+      "id": 55,
+      "debut": 2249.6,
+      "fin": 2291.92,
+      "temps_estime": false,
+      "titre": "Why many countries refuse to side with the US; BRICS and China-Russia ties",
+      "resume": "The narrator says it doesn't matter who is right: some nations believe the war was preventable and won't suffer for it or become Russia's enemy. Brazil, part of BRICS with Russia, India, China and South Africa, refuses sanctions, and China talks of a multipolar world and signed trade deals in Moscow.",
+      "mots_cles": [
+        "BRICS",
+        "refusing sanctions",
+        "multipolar world",
+        "China Russia trade deals",
+        "Moscow",
+        "Brazil",
+        "neutrality",
+        "US hegemony"
+      ],
+      "texte": "nations might be saying they will not suffer just for the US to gain [music] more global influence. In terms of this video, it doesn't matter who's right or wrong. We're [music] just trying to explain how some countries are thinking and the reason they might be upset with the US. They believe this war could have been prevented and so they won't hurt for it. They're not willing to be an enemy of Russia. It's why [music] Brazil, part of BRICS along with Russia, India, China, and South Africa, is just one of many nations that refuses to side with the US and NATO and will not agree to sanctions. Unsurprisingly, China has also talked about US agy and a new multipolar world. China just [music] inked trade deals in Moscow. In a joint statement, they said, \"Russia needs a prosperous and stable China, and China needs a strong and successful Russia.\""
+    },
+    {
+      "id": 56,
+      "debut": 2291.92,
+      "fin": 2329.44,
+      "temps_estime": false,
+      "titre": "Russia's resilient economy and Brazil-China trade",
+      "resume": "China and Russia plan to expand agricultural and food trade, and Russia's economy has stayed strong despite sanctions partly because of China and deals in yuan. China was not in Brazil's top five trading partners in 2000 and is now number one, with over $100 billion in trade.",
+      "mots_cles": [
+        "Russia economy sanctions",
+        "China Russia agriculture trade",
+        "Brazil China trade",
+        "$100 billion",
+        "yuan deals",
+        "emerging economies"
+      ],
+      "texte": "They added that they intended to [music] increase the diversity and supply of agricultural products and food exports to each other. Russia's economy, [music] despite the sanctions, has remained strong and will very likely stay strong for some years to come. One of the reasons is China [music] and the fact that many deals will now be done in yuan, not dollars. Brazil will too. In 2000, China wasn't even in the top five trading [music] partners with Brazil, and now it's number one. It's the only country in the region to have hit over $100 [music] billion in trading with China, and more deals have been made. We might now be at 150 billion. Many of these emerging economies seem to be thinking in a similar way. We hope you're starting to see a pattern here."
+    },
+    {
+      "id": 57,
+      "debut": 2329.44,
+      "fin": 2380.32,
+      "temps_estime": false,
+      "titre": "India navigates sanctions: rupee-ruble trade and Russian arms",
+      "resume": "South Korea and Indonesia agreed to trade in their own currencies, and India and Russia signed a rupee-ruble trade agreement after US pressure to cut Russian imports. India says Ukraine is Europe's problem and its duty is to its citizens; Russia supplies 70% of its arms.",
+      "mots_cles": [
+        "rupee ruble agreement",
+        "India Russia trade",
+        "70% of India's arms",
+        "South Korea Indonesia local currencies",
+        "sanctions pressure",
+        "India neutrality",
+        "Ukraine"
+      ],
+      "texte": "[music] At around the same time as Brazil and China made those deals, South Korea and Indonesia also agreed to use their respective currencies for trade. About a year later, India and Russia signed the rupee rubal trade agreement. The US had pressured India to reduce its Russian imports under sanctions to Ukraine and the EU prohibited trade in euro denominated banknotes to Russia. So India was between Iraq and a hard place. It chose the route out straight down the middle. The country has been criticized but as you know India said Ukraine is Europe's problem. It said it's just taking care of business and its moral duty is toward its own citizens. Ukraine said India is acting immorally and adding to Ukraine's suffering. But guess who is India's biggest arm supplier by far? Russia. It supplies 70% of India's arms. There's not a chance in hell India will turn away from trade with Russia. India has already inked a new bilateral"
+    },
+    {
+      "id": 58,
+      "debut": 2380.32,
+      "fin": 2410.48,
+      "temps_estime": false,
+      "titre": "Asian countries set up non-dollar payment schemes",
+      "resume": "India signed a bilateral payment scheme with the UAE, Bangladesh, Kazakhstan and Laos talk to China about payment mechanisms, and Malaysia, Indonesia, Singapore and Thailand agreed to trade outside the dollar. Indonesia's finance minister called sanctions on Russia a valuable lesson pushing bilateral local-currency transactions.",
+      "mots_cles": [
+        "non-dollar payments",
+        "local currency trade",
+        "UAE India payment scheme",
+        "ASEAN",
+        "Indonesia finance minister",
+        "sanctions lesson",
+        "bilateral transactions"
+      ],
+      "texte": "payment scheme, meaning not in dollars with the United Arab Emirates. Sticking with Asia, Bangladesh, Kazakhstan, and Laos are now in talks with China about new payment mechanisms. Malaysia, Indonesia, Singapore, and Thailand have all agreed to trade outside of the dollar. The Indonesian finance minister said in 2023 [music] that the sanctions on Russia are a valuable lesson, saying countries will now just do transactions directly bilaterally using their local currencies, which he said was probably good for the world in the long run. Maybe not for the US though. These"
+    },
+    {
+      "id": 59,
+      "debut": 2410.48,
+      "fin": 2439.76,
+      "temps_estime": false,
+      "titre": "Countries don't want to choose sides; the strong dollar as a wrecking ball",
+      "resume": "These countries say their economies and citizens' safety don't allow them to choose sides. The strong dollar, driven by Federal Reserve rate hikes, hurt their economies and raised food prices for the very poor, and a Singapore journalist called the dollar a wrecking ball.",
+      "mots_cles": [
+        "neutral countries",
+        "strong dollar",
+        "Federal Reserve rate hikes",
+        "food prices",
+        "emerging markets",
+        "wrecking ball",
+        "Singapore"
+      ],
+      "texte": "countries don't want to choose sides. Their economies and their safety of their people, they say, might not allow them to choose sides. Like India, they might say it's easy to tell us what we have to do, but try being us. It should be said that the US's dollar brute strength of late, thanks to the US Federal Reserve raising interest rates, has also wre havoc in their nations with the very poor being profoundly affected as food prices increased dramatically. In Singapore, a journalist summed this all up, saying, \"The US dollar has become a wrecking ball.\" Also, when"
+    },
+    {
+      "id": 60,
+      "debut": 2439.76,
+      "fin": 2473.84,
+      "temps_estime": false,
+      "titre": "Russia demands rubles for gas; can the US stop de-dollarization?",
+      "resume": "Russia demanded payment in rubles for gas supplied to 23 European nations, and reports say four countries started paying in rubles and ten European companies opened accounts at Gazprombank. Some think the US can no longer control other nations as it once did.",
+      "mots_cles": [
+        "Russian gas rubles",
+        "Gazprombank",
+        "European energy",
+        "23 European nations",
+        "payment in rubles",
+        "US power decline",
+        "sanctions limits"
+      ],
+      "texte": "European nations found they couldn't pay for Russian energy, Russia just demanded that they do the deal in rubles. Russia supplies gas to 23 European nations. While Europe is against Russia's invasion of Ukraine, some countries obviously feel they can't live without Russian gas. Reports state that four countries in Europe have already started to pay in rubles and 10 European companies have opened accounts at Gazprom bank so they can start paying Putin's chosen currency. Can the US do anything about such an activity? Some think not. They think the US doesn't have the ability to control other nations anymore or at least not as it"
+    },
+    {
+      "id": 61,
+      "debut": 2473.84,
+      "fin": 2528.56,
+      "temps_estime": false,
+      "titre": "A revolt against the dollar: Bloomberg and US critics",
+      "resume": "Open Democracy wrote in 2023 that the world is moving toward multipolarity and the global south won't be bullied, and pundits call de-dollarization a revolt against weaponization of the greenback. Bloomberg reported at least a dozen Asian countries experimenting with dollar alternatives, and a US strategist said the Biden administration erred by weaponizing the dollar.",
+      "mots_cles": [
+        "Open Democracy",
+        "revolt against the dollar",
+        "Bloomberg",
+        "dollar alternatives Asia",
+        "Biden administration",
+        "Straits Times",
+        "weaponization",
+        "diversify holdings"
+      ],
+      "texte": "had in the past. Open Democracy wrote in 2023, \"The power of Western powers is undeniable, but it is also undeniable that the world is increasingly moving toward multiparity.\" The article said that the global south will not be bullied. Many others argue that the days of do what we tell you or else are coming to an end, and DDolarization is proof of that. Dolorization is certainly catching on, which has led [music] some pundits to call this a revolt against the US and its dollar. They say weaponization of the greenback doesn't work anymore. Bloomberg reported that at least a dozen countries in Asia are experimenting with a dollar alternative. It said this was unthinkable not even that long ago. The criticism isn't just coming from outside the US. An investment strategist in the US told the Straits Times the Biden administration made an error in weaponizing the US dollar in the global payment system that will force non US investors and nations to diversify their holdings outside the traditional safe haven of the US."
+    },
+    {
+      "id": 62,
+      "debut": 2528.56,
+      "fin": 2572.48,
+      "temps_estime": false,
+      "titre": "Record central bank gold buying",
+      "resume": "Countries are buying gold with their dollars, led by China and Turkey with India, Qatar and Uzbekistan high on the list. Central banks bought 1,078 metric tons in 2022 versus 450 in 2021, the biggest gold buy in history, which a Japanese analyst said signals eroding dollar dominance.",
+      "mots_cles": [
+        "central bank gold",
+        "1,078 tons",
+        "2022 gold buying",
+        "China Turkey gold",
+        "dollar dominance eroding",
+        "safe haven",
+        "inflation"
+      ],
+      "texte": "Another thing that's happened is countries buying gold with their dollars. They may not feel right now the dollar is their safest bet. Gold is probably safer given they don't know what the US is going to do next and inflation could be on the way. China and Turkey were the biggest buyers with India, Qatar, and Usbekiststan also ranking highly on the list. It was the biggest gold buyout in history by central banks. In 2022, they bought 1,078 metric tonses compared to 450 tons in 2021. Again, this is countries thinking the dollar is at risk. A Japanese analyst explained, \"Gold buying by central banks is a sign that the dollar's dominance is eroding. This gold purchasing activity is expected to remain rampant as countries opt for a safer economic path. So, diversity is"
+    },
+    {
+      "id": 63,
+      "debut": 2572.48,
+      "fin": 2617.68,
+      "temps_estime": false,
+      "titre": "Diversification and the 'good news, bad news' framing",
+      "resume": "The world's economies are diversifying like organisms adapting to a new environment, and the narrator compares the US to an alpha chimpanzee facing rebellion. He asks whether the end-of-dollar story is exaggerated and introduces a good news and bad news segment, starting with good news for those who want the dollar to stay.",
+      "mots_cles": [
+        "diversification",
+        "alpha male chimpanzee",
+        "rebellion",
+        "end of the dollar exaggerated",
+        "good news bad news",
+        "reserve currency"
+      ],
+      "texte": "the word on the street in economics these days, just as much as it's one of the most used words regarding cultural issues. The world's economies are diversifying. In evolutionary terms, they're adapting to a new environment, its survival of the fittest. But what will these new adaptations mean for the US? Some might say that the answer to this is the same as the answer to what happens to the alpha male chimpanzee when he leads with too much violence and is often unfair to the troop. Rebellion is the answer. Always violent rebellion. But [music] is this way over the top? Is the story of rebellion and the end of the dollar being exaggerated? Don't have a panic attack yet is what we say. We call this the good news and the bad news segment of the show. Let's start with the good news for the people that don't want to see the end of the dollar as the world's reserve currency. Okay, so first"
+    },
+    {
+      "id": 64,
+      "debut": 2617.68,
+      "fin": 2656.08,
+      "temps_estime": false,
+      "titre": "Good news 1: replacing the reserve currency would take decades",
+      "resume": "About 60% of global foreign currency reserves are in dollars, and replacing the pound took decades. The dollar was 71% of reserves in 2000, but at 60% it still far exceeds the yuan (2%), euro (21%), yen (6%) and pound (5%); replacing it would be like replacing English as the global language.",
+      "mots_cles": [
+        "reserve currency share 60%",
+        "dollar 71% in 2000",
+        "yuan 2%",
+        "euro 21%",
+        "yen 6%",
+        "British pound 5%",
+        "English language analogy"
+      ],
+      "texte": "of all, changing a reserve currency would take a long, long time. You can't just supplant the reserve currency for the simple fact that about 60% of the global foreign currency reserves are in the dollar. It took many decades for the British pound to be replaced. It would be the [music] same with the US dollar. It's true that in 2000 the dollar was 71% of global foreign currency reserves, but 60% is still a lot more than the yuan in circulation at 2%, the euro just 21%, the yen [music] at 6%, and the British pound at 5%. As one analyst said, changing the reserve currency would be like telling the world that the English language should be replaced as a global language. The dollar is not done."
+    },
+    {
+      "id": 65,
+      "debut": 2656.08,
+      "fin": 2678.24,
+      "temps_estime": false,
+      "titre": "Good news 2: the dollar dominates global trade invoicing",
+      "resume": "Close to 96% of trade across the Americas is in dollars, 23% of European trades, 74% in Asia-Pacific and 79% in the rest of the world, so the dollar's role in trade will not change soon.",
+      "mots_cles": [
+        "dollar trade share",
+        "96% Americas",
+        "74% Asia-Pacific",
+        "79% rest of world",
+        "euro 23%",
+        "trade invoicing",
+        "greenback"
+      ],
+      "texte": "If we look at global trade throughout the entire Americas, close [music] to 96% of trading is in the greenback. That's not going to change anytime soon. Sure, in Europe, the euro is the currency of choice, but even then, 23% of trades are executed on the dollar. As for Asia-Pacific region, 74% of trading is done using the dollar. The rest of the world, 79% of trades use the dollar."
+    },
+    {
+      "id": 66,
+      "debut": 2678.24,
+      "fin": 2744.32,
+      "temps_estime": false,
+      "titre": "Good news 3: trade deficit, Treasuries and no alternative",
+      "resume": "In 2022 the US bought $3.3 trillion of goods and sold $2.1 trillion, leaving a $1.2 trillion deficit and foreign holders with stacks of dollars, which they put in US Treasuries (about $7.4 trillion, plus $1 trillion in cash, 46% of all dollars). Experts say no other country is willing or able to take on this role, and the dollar is the oil for the world's economic engine.",
+      "mots_cles": [
+        "trade deficit $1.2 trillion",
+        "US Treasuries",
+        "$7.4 trillion",
+        "most liquid security",
+        "dollar holdings",
+        "no alternative",
+        "global economy engine"
+      ],
+      "texte": "You also need to know this. In 2022, the USA bought around $3.3 trillion worth of goods from other countries, but other countries only bought 2.1 trillion from the US. That leaves what we call a trade deficit. $1.2 $2 trillion, not [music] pocket change. So, the foreign countries are sitting with a stack of dollars. They could spend it elsewhere, maybe in China, but then they'd have to convert their USD to do that. You can also only buy stuff in the US in USD. Instead, they buy what's called the most liquid security on the planet, which is US treasuries. Some also hold on to the cash. It's thought the world has about $7.4 trillion in these treasuries and about $1 trillion in cash. about 46% [music] of all the dollars out there. But the US offering these treasuries is a liability and the countries must trust in the US and its dollar, which they obviously do. No other countries, according to the experts, are willing to take on this role. And even if they thought about it, they probably wouldn't be capable. Money makes [music] the world go round, and the dollar is the oil for the engine. Without it, the economies of the world would grind to a halt and almost get conked [music] out."
+    },
+    {
+      "id": 67,
+      "debut": 2744.32,
+      "fin": 2788.8,
+      "temps_estime": false,
+      "titre": "Doom stories, and China depends on the dollar staying on top",
+      "resume": "Stories about the end of the dollar have circulated for decades, and the media loves doom stories. China's growth model depends on the dollar being the reserve currency, so China doesn't want it to change, and few countries would trust a new reserve currency.",
+      "mots_cles": [
+        "end of the dollar stories",
+        "media doom",
+        "China economic model",
+        "reserve currency dependence",
+        "trust in reserve currency",
+        "China growth"
+      ],
+      "texte": "Stories about the end of the dollar have been around for decades, which tells you something about their predictive potential. The media loves a good doom [music] story. Whether it's overpopulation, all the oil running out, or the end of the dollar, it gets eyes on their product. But it doesn't mean the stories are anything close to being true. Another thing is China is always mentioned in these stories. Still, economists often point out that China's economic model, it's well known for super growth over the last two decades or so, [music] depends on the US dollar being the world's reserve currency. China doesn't want this to change. It can't [music] change if China's well-being is to stay intact. And you have to ask the question, if China was thinking about knocking the dollar off the top spot, how many countries would put their trust in a new reserve currency? Sure, the US has problems, but"
+    },
+    {
+      "id": 68,
+      "debut": 2788.8,
+      "fin": 2814.24,
+      "temps_estime": false,
+      "titre": "Why the dollar beats the yuan: transparency and capital controls",
+      "resume": "The US is not autocratic and is more transparent than China, which governments want when entrusting their money, and China has strict capital controls while the US has few. As one pundit put it, the US and EU are coherent actors with deeply embedded institutional structures that are hard to replicate.",
+      "mots_cles": [
+        "US transparency",
+        "China capital controls",
+        "reserve currency requirements",
+        "institutional structures",
+        "autocracy",
+        "yuan vs dollar"
+      ],
+      "texte": "it's not autocratic, and it's certainly more transparent than China, which is what governments want when they're entrusting their money with a country. China also has very strict capital controls, while the US doesn't have many. This makes the dollar the better option for a reserve currency. As one economic pundit explained, for all the troubles of the West, the US and the EU are coherent actors with a deeply embedded institutional structures that are difficult to replicate. Now for the"
+    },
+    {
+      "id": 69,
+      "debut": 2814.24,
+      "fin": 2849.44,
+      "temps_estime": false,
+      "titre": "Bad news: critics say the US overplayed its hand",
+      "resume": "Critics argue the US has played schoolyard bully too many times and is seen as a polarized social and political mess, fueling talk of the end of US hegemony. They liken the US to a sinking ship whose passengers fight over the gold in the hold, with politics too much us versus them.",
+      "mots_cles": [
+        "US overplayed hand",
+        "end of US hegemony",
+        "polarization",
+        "US politics",
+        "sinking ship metaphor",
+        "stability",
+        "critics"
+      ],
+      "texte": "bad news. Some people say the US has overplayed its hand too many times. Now it's activated the eye of too many nations, playing school ground bully one too many times. Internally, much of the world sees the USA as a polarized social and political mess. This is another reason why there's a lot of talk about the end of US hijgemony. The ship is sinking, they say. And rather than try to fix it, they're fighting over the gold and the jewels in the hold, which no one will have if the ship goes down. The critics say US politics, society, and culture is too much us versus them rather than we. It doesn't scream stability, and other nations are taking"
+    },
+    {
+      "id": 70,
+      "debut": 2849.44,
+      "fin": 2913.44,
+      "temps_estime": false,
+      "titre": "BRICS expansion and a possible common currency",
+      "resume": "There is chatter about BRICS creating a common currency, with eight countries on the waiting list (Algeria, Argentina, Bahrain, Egypt, Indonesia, Iran, Saudi Arabia, UAE) and many more considering joining. By 2050 some members are expected to be economic heavyweights, and one analyst says they will outweigh the entire G7 combined.",
+      "mots_cles": [
+        "BRICS common currency",
+        "BRICS waiting list",
+        "BRICS plus",
+        "G7",
+        "Saudi Arabia UAE Iran",
+        "2050 economies",
+        "new members"
+      ],
+      "texte": "note. There's been chatter about bricks coming up with a common currency. More and more countries seem to be interested in joining the group, although it would be a pity to spoil that easy to remember acronym. The term bricks plus has been mowled over, but we think it sounds too much like a vitamin [music] shake. On the bricks waiting list are eight countries: Algeria, Argentina, Bahrain, Egypt, Indonesia, Iran, Saudi Arabia, and the UAE. The countries thinking about joining are Afghanistan, Bangladesh, Barus, Kazakhstan, Mexico, Nicaragua, Nigeria, Pakistan, Sagal, Sudan, Syria, Thailand, Tunisia, Turkey, Uruguay, Venezuela, and Zimbabwe. By 2050, some of these nations are expected to be economically flying. You can expect more countries in the near future to want to join. The question is, will the dollar be done by then as the global reserve currency or will that happen much quicker? It's easy to imagine the answer is yes to the former question. Many think that bricks common currency is coming, especially as one analyst put it, these countries will outweigh not only the reigning hegeimon, the US, but the entire G7 weight class put together."
+    },
+    {
+      "id": 71,
+      "debut": 2913.44,
+      "fin": 2941.76,
+      "temps_estime": false,
+      "titre": "Would losing reserve status hurt the US? India and China can't agree",
+      "resume": "One analyst argues that the dollar being replaced might not be so bad for the US given the responsibility that comes with it, and that BRICS is unlikely to challenge the dollar soon because India and China, its biggest economies, barely agree on anything. If they could, BRICS might smash the status quo.",
+      "mots_cles": [
+        "dollar replacement",
+        "BRICS challenge",
+        "India China disagreement",
+        "status quo",
+        "US responsibility reserve currency",
+        "analyst view"
+      ],
+      "texte": "Still, that doesn't mean all you guys in the USA will be living among smoking embers of houses while running around trying to catch rats for your evening meal. One analyst argues that the dollar being replaced might not be such a bad thing for the US given how much responsibility comes with it. He also said it seems unlikely that anytime soon this alliance will mount any profound challenge to the dollar, especially as its two biggest economies, India and China, can barely agree on anything. He reckons if they could, Bricks might just smash through the status quo. This means"
+    },
+    {
+      "id": 72,
+      "debut": 2941.76,
+      "fin": 2971.76,
+      "temps_estime": false,
+      "titre": "Conclusion: reserve status safe for now, but a new world order forms",
+      "resume": "The dollar's reserve status won't change anytime soon, but a new world order is taking shape that likely means the US loses much of its power to influence the world. The US stays a cultural, political and economic powerhouse, though global hegemony may be ending, which the narrator calls a theory, not a fact.",
+      "mots_cles": [
+        "new world order",
+        "US hegemony ending",
+        "reserve currency status",
+        "US power",
+        "multipolar",
+        "theory not fact"
+      ],
+      "texte": "that the dollar status as the world's reserve currency is not going to change anytime soon. But, and it is a big butt, a new world order is taking shape. How will that look? We can't say, but it will likely mean the US losing much of its power to influence what happens in the world. The new kids have been on the block for a while now. Their voices are deepening and they're growing big muscles. The US will remain a cultural, political, and economic powerhouse, but its days of global hegemony might be coming to an end. That's only a theory"
+    },
+    {
+      "id": 73,
+      "debut": 2971.76,
+      "fin": 3018.8,
+      "temps_estime": false,
+      "titre": "Bill Hwang: rise to billionaire and philanthropy",
+      "resume": "Bill Hwang (spelled Huang/Hong in the transcript) was a South Korean immigrant who became a billionaire at 57, worth up to $30 billion, before losing it in days. He started at hedge fund Tiger Management, gave millions to charity and funded Liberty in North Korea, which helps North Koreans escape.",
+      "mots_cles": [
+        "Bill Hwang",
+        "Archegos",
+        "Tiger Management",
+        "South Korean immigrant",
+        "billionaire",
+        "Liberty in North Korea",
+        "charity",
+        "$30 billion"
+      ],
+      "texte": "right now, not a fact. Bill Huang had it all. He was worth [music] billions and billions of dollars. Then with one wrong move, it was all gone in a matter of days. Hang actually lost so much money that the impact was felt around the planet. Hang was an immigrant from South Korea and at the age of 57, a billionaire. Some estimate that at his height, [music] Huang was worth as much as $30 billion. Bill Hong started his career in investing at one of the most lucrative hedge fund companies [music] of all time, Tiger Management. This is where he started to first make his fortune. But Hong was not your typical [music] greedy Wall Street shark. Instead, he donated millions of dollars every year to charities, [music] spent time with his family, and worked hard. That was Bill Hong's life, and to him, all that mattered. [music] He also provided funds for an organization called Liberty and North Korea, which helps North Koreans escape the oppressive regime and start their lives."
+    },
+    {
+      "id": 74,
+      "debut": 3018.8,
+      "fin": 3047.84,
+      "temps_estime": false,
+      "titre": "Tiger Asia and Hwang's concentrated stock strategy",
+      "resume": "Hwang was put in charge of Tiger Asia, investing in Asian stocks of Korean, Japanese and Chinese companies earning profits domestically. With Tiger's assets behind him he put millions into a few companies and could move stock prices by buying or dumping shares.",
+      "mots_cles": [
+        "Tiger Asia",
+        "Asian stocks",
+        "concentrated positions",
+        "stock price influence",
+        "Korean Japanese Chinese companies",
+        "Tiger Management"
+      ],
+      "texte": "His strategy [music] for investing was developed while working at Tiger Management. Hong eventually was put in charge of a part of the company called Tiger Asia where he would [music] invest in Asian stocks. He focused his attention on Korean, Japanese, and Chinese companies that made their profits from within their [music] own countries instead of in the world market. Having the financial assets of Tiger Management behind him allowed Huang to invest millions and millions of dollars into [music] a few companies, thereby pretty much controlling the stock prices of those assets. If he wanted to raise the prices of the stocks, he could buy up millions of dollars worth of shares."
+    },
+    {
+      "id": 75,
+      "debut": 3047.84,
+      "fin": 3076.88,
+      "temps_estime": false,
+      "titre": "Risky secrecy at Tiger Asia",
+      "resume": "Moving prices this way is dangerous: if the market turns, you can lose everything. A red flag was that Hwang refused to tell his own analysts which companies he held and how much, a secrecy that later helped cost him billions.",
+      "mots_cles": [
+        "risk of concentration",
+        "secrecy",
+        "Tiger Asia analysts",
+        "investment strategy",
+        "red flag",
+        "hedge fund"
+      ],
+      "texte": ">> [music] >> If he wanted to lower the price, he could dump the shares that have been purchased. This is a dangerous game to play since if the market does something unexpected and your money is in the wrong place at the wrong time, you could lose it all. A red flag for what was to come should have been seen within Tiger Asia itself. Huang would refuse to divulge what companies he was investing in and how much money he had in each to his own analysts. This secrecy [music] would be a common theme in Hongs investment strategy and would be one of the things that led to him losing"
+    },
+    {
+      "id": 76,
+      "debut": 3076.88,
+      "fin": 3105.76,
+      "temps_estime": false,
+      "titre": "How short selling works and why it is dangerous",
+      "resume": "Short selling means borrowing a stock, selling it before an expected drop, buying it back cheaper and returning it, pocketing the difference. It seems counterintuitive and can make someone wealthy, but it is a dangerous game.",
+      "mots_cles": [
+        "short selling",
+        "borrowing stock",
+        "betting against stock",
+        "profit from falling prices",
+        "risk",
+        "explanation"
+      ],
+      "texte": "billions [music] of dollars. Hang love to use the strategy of shortselling stocks. This is when you borrow a company's stock at one price and sell it just before the price of that stock is expected to drop. Then you wait until [music] the stock price drops, buy it back, and return it to the company that lended it to you, thereby pocketing the profits of the initial sale. Basically, you're betting the stock you borrowed will decrease [music] in value, which seems like a counterintuitive way to invest, but it can make someone very wealthy if done right. Unfortunately, this [music] can be a dangerous game."
+    },
+    {
+      "id": 77,
+      "debut": 3105.76,
+      "fin": 3137.52,
+      "temps_estime": false,
+      "titre": "The Volkswagen short that cost 23%",
+      "resume": "At Tiger Asia Hwang bet against Volkswagen AG, but takeover speculation sent the stock soaring and he lost 23% of the invested money. Tiger Management investors were furious, and he wasn't even supposed to invest in European companies.",
+      "mots_cles": [
+        "Volkswagen short",
+        "takeover speculation",
+        "23% loss",
+        "Tiger Management investors",
+        "stock soared",
+        "overstepping mandate"
+      ],
+      "texte": "While at Tiger Asia, Huang invested millions of dollars into Volkswagen AG, predicting that he could short the stock. But then something unexpected [music] happened. Speculation into a future takeover by Volkswagen sent the stock soaring instead of decreasing. Before Huang could sell the stocks he borrowed back to Volkswagen, he had lost 23% of his invested money. This led investors in Tiger Management to be furious [music] as they lost all the money on Hong's bet. In fact, he wasn't even supposed to be investing in European companies since his [music] portfolio was based in Asia. And this wouldn't be the last time Hong overstepped and was"
+    },
+    {
+      "id": 78,
+      "debut": 3137.52,
+      "fin": 3183.99,
+      "temps_estime": false,
+      "titre": "2012 insider trading charges and Tiger Asia's guilty plea",
+      "resume": "In 2012 the SEC charged Tiger Asia and Hwang with insider trading and manipulation of two Chinese bank stocks. Hwang settled without admitting wrongdoing, Tiger Asia pleaded guilty and was fined over $60 million, and he was worth tens of millions when it closed, then reinvested in a new company.",
+      "mots_cles": [
+        "SEC",
+        "insider trading",
+        "market manipulation",
+        "Chinese bank stocks",
+        "$60 million fine",
+        "guilty plea",
+        "Tiger Asia closed",
+        "2012"
+      ],
+      "texte": "scrutinized for it. Although shorting a stock is not illegal, what [music] he did next was. In 2012, the US Securities and Exchange Commission charged Tiger Asia and more specifically, Bill Hang with insider trading and manipulation of two Chinese bank stocks. [music] Supposedly, Huang had received confidential financial information and used it to set up a position in which he made a massive amount of money. Eventually, Hong settled the case without admitting any wrongdoing, but Tiger Asia as a whole pleaded [music] guilty. The fines on the company were more than $60 million. And the surprising thing was that Hong wasn't too worried about it. In fact, [music] when Tiger Asia finally closed that year, Hong would be worth tens of millions of dollars. [music] And what did he do with his small fortune? He started a new company and reinvested. This is how Bill [music] Hong would become a billionaire until he lost it"
+    },
+    {
+      "id": 79,
+      "debut": 3183.99,
+      "fin": 3219.36,
+      "temps_estime": false,
+      "titre": "Archegos Capital: a family office with little oversight",
+      "resume": "In 2013 Hwang started Archegos with his own money as a family office, which let him stay anonymous and avoid the regulatory scrutiny of Wall Street firms. His strategy was still to leverage large sums and influence the market, which had caused trouble before but made him wealthy.",
+      "mots_cles": [
+        "Archegos Capital",
+        "family office",
+        "anonymity",
+        "regulatory scrutiny",
+        "leverage",
+        "2013",
+        "Wall Street"
+      ],
+      "texte": "all. In 2013, Hong started Archos [music] using his own money. The new investment company was considered a family office. He did [music] this for a couple of reasons. First and foremost, by being a family office instead of a hedge fund or a large corporation, he was able to stay anonymous and was not held to the same regulatory scrutiny as the Wall Street [music] companies. This basically meant he could do whatever he wanted as long as he did not draw attention [music] to himself. The only problem was that Hong's whole strategy was to leverage stocks by investing large sums of money and influencing certain aspects of the market. Although this had gotten him into trouble at Tiger Asia a couple of times, it had also made him incredibly wealthy."
+    },
+    {
+      "id": 80,
+      "debut": 3219.36,
+      "fin": 3266.8,
+      "temps_estime": false,
+      "titre": "Swap agreements hid Archegos's positions",
+      "resume": "Using swap agreements, Hwang paid banks for exposure to stocks, so filings showed the bank as the buyer instead of him. He used swaps with multiple banks, who didn't know of the others, and family offices are not legally required to be transparent.",
+      "mots_cles": [
+        "total return swaps",
+        "swap agreements",
+        "hidden positions",
+        "multiple banks",
+        "no disclosure",
+        "family office rules",
+        "anonymous ownership"
+      ],
+      "texte": "Unfortunately, buying stocks under a single alias would raise red flags and draw attention to Archos. So, Hong found a way around this problem by using a method called swap agreements. This meant he would pay a bank or financial institution to give him exposure to [music] a stock through their own company. This allowed Huang to buy a large number of stocks he needed, but on the filings, it would show up as the bank that bought them, not Huang himself. [music] And Hang took it a step further by having swap agreements with multiple different banks. He did this so he could borrow more money and invest in even more stocks. But he did not disclose [music] any of this information to the banks themselves. The scary part is that he didn't actually have to disclose the [music] information. There's no law requiring family offices to be transparent in their practices. By using multiple different banks and the swap agreements, Huang was able to remain anonymous while [music] owning huge amounts of shares in different"
+    },
+    {
+      "id": 81,
+      "debut": 3266.8,
+      "fin": 3296.4,
+      "temps_estime": false,
+      "titre": "Leverage: borrowing without the usual limits",
+      "resume": "Individuals can only borrow 50% to invest in securities, but family offices have no such limits; Hwang was initially allowed to borrow $1 million for every $1 million of capital. That doubled potential profits and losses, and a bad bet can wipe out billions in days.",
+      "mots_cles": [
+        "leverage",
+        "borrowed money",
+        "50% margin limit",
+        "family office restrictions",
+        "double losses",
+        "Archegos",
+        "risk"
+      ],
+      "texte": "companies. The other thing that a family office allowed him to do was buy large numbers of stocks [music] with borrowed money. Individuals can only use 50% of borrowed money to invest in securities. However, family offices are not held [music] to the same restrictions. Wong was initially allowed to invest $1 million of borrowed money for every $1 million of capital he had. This basically meant he could double his profits, but it also meant he [music] could double his losses. And as Hong would find out, when you make a bad bet, you can lose billions of dollars in a matter of days. The practices Hong"
+    },
+    {
+      "id": 82,
+      "debut": 3296.4,
+      "fin": 3346.4,
+      "temps_estime": false,
+      "titre": "Archegos's concentrated bets and shift to media stocks",
+      "resume": "Archegos held huge positions unnoticed in stocks such as Amazon, LinkedIn and Netflix and was worth about $4 billion in 2017. Unlike most firms, Hwang kept no large safe holdings, and he shifted from tech into media conglomerates like ViacomCBS and made similar moves in China.",
+      "mots_cles": [
+        "Archegos portfolio",
+        "Amazon Netflix LinkedIn",
+        "$4 billion 2017",
+        "ViacomCBS",
+        "volatile stocks",
+        "no safe holdings",
+        "concentrated risk"
+      ],
+      "texte": "implemented at Archigos allowed him to invest and hold huge positions in companies without anyone realizing that the shares were owned by a single investor. Hang [music] bought up stocks like Amazon, LinkedIn, which was later acquired by Microsoft and Netflix. All of these stocks would make Huang incredible amounts of money. In 2017, Archugos was worth around $4 billion. Hong's aggressive way of buying a lot of stocks and owning [music] a few companies made him very rich, but was also very dangerous. Most investment firms will always keep a large portion of their [music] capital in long-term or relatively safe stocks. They do this just in case something goes wrong. But Hong did not follow this practice [music] and continue to invest heavily in stocks that could become volatile at any moment. It's not entirely clear why, but Hong started to move [music] his positions around and shifted from owning stocks in tech companies to buying up stocks in media conglomerates such as Viacom CBS. He also did the same thing"
+    },
+    {
+      "id": 83,
+      "debut": 3346.4,
+      "fin": 3376.64,
+      "temps_estime": false,
+      "titre": "From $30 billion in 2020 to the media stock slump in 2021",
+      "resume": "In 2020 Hwang's stocks gained about 70%, taking his $4 billion in 2017 to nearly $30 billion. In March 2021 the media companies he held fell behind streaming services like Apple TV and Disney Plus, after ViacomCBS stock inflated by his buying had tripled in four months.",
+      "mots_cles": [
+        "Archegos $30 billion",
+        "March 2021",
+        "ViacomCBS",
+        "streaming services",
+        "stock inflated",
+        "70% gains",
+        "Disney Plus"
+      ],
+      "texte": "with his stocks in China. In 2020, things were still looking up for Hong, as even with the shift into the media, his stocks gained somewhere around 70% in profits. His $4 billion in 2017 was now closer to $30 billion. [music] Bill Hong was a billionaire many times over in the fourth quarter of 2020. Then in March of 2021, everything began to fall apart. The media companies that Hong had invested in could not keep up with the tech streaming services such as Apple TV and Disney Plus. [music] Viacom CBS's stock had been inflated by Hong's investments and had tripled its value in"
+    },
+    {
+      "id": 84,
+      "debut": 3376.64,
+      "fin": 3423.2,
+      "temps_estime": false,
+      "titre": "ViacomCBS stock offering triggers bank panic",
+      "resume": "ViacomCBS announced it needed to sell $3 billion in stock to pay debt, and its stock tanked. Banks that lent to Hwang begged him to sell at a loss; he wanted time, but with about $85 million borrowed for every $20 million of capital the banks panicked, though holding on could have saved everyone.",
+      "mots_cles": [
+        "ViacomCBS $3 billion offering",
+        "margin calls",
+        "banks panic",
+        "$85 million per $20 million",
+        "leverage",
+        "stock tank",
+        "Archegos"
+      ],
+      "texte": "just 4 months. [music] Now, however, the company was announcing it needed to sell $3 billion in stocks to [music] pay off its debt, and that caused the stock to tank. All of the banks who had lent Hong money to invest were now hemorrhaging and begged him to sell [music] his media stocks at a loss. He would still be incredibly wealthy and by no means in jeopardy of going bankrupt, but Huang wanted time to assess the situation. Unfortunately, things [music] were moving too fast and money was being lost at an astonishing rate. He had a considerable buffer in place in case something like this happened. But since he had borrowed roughly $85 million for every 20 million he had in capital, the banks began to panic. [music] If everyone had waited to sell their assets and the stocks rebounded, Hong and the banks would have been fine and recoup their initial [music] losses. But in order for this to work, the banks needed to hold on to their Archugos holdings."
+    },
+    {
+      "id": 85,
+      "debut": 3423.2,
+      "fin": 3461.44,
+      "temps_estime": false,
+      "titre": "Morgan Stanley's block sale and the cascade of selling",
+      "resume": "Morgan Stanley secretly unloaded about $5 billion of Archegos holdings at a big discount to hedge funds, prompting other banks to panic and sell too. The snowball wiped out Hwang's fortune and hit smaller lenders, which couldn't sell as quickly.",
+      "mots_cles": [
+        "Morgan Stanley",
+        "$5 billion block sale",
+        "bank panic",
+        "snowball effect",
+        "Archegos collapse",
+        "smaller banks",
+        "fire sale"
+      ],
+      "texte": "Unfortunately for everyone involved, Morgan Stanley made a move without informing anyone else and unloaded around $5 [music] billion worth of Archos holdings at a huge discount to a group of hedge funds. This led to other major banks panicking and unloading their [music] holding at Archos as well, costing the banks millions of dollars and Hang billions. Since the lenders panicked and decided [music] to sell everything instead of waiting to see what would happen, all of the accumulated wealth that Hang had amassed was gone in an instant. As the banks sold [music] their holdings of Archugos, the value of the stocks Hang invested continued to fall. This snowball effect led to not only Huang losing his fortune, but smaller banks that [music] lent him money being hit just as hard."
+    },
+    {
+      "id": 86,
+      "debut": 3461.44,
+      "fin": 3499.04,
+      "temps_estime": false,
+      "titre": "Aftermath: echoes of 2008 and no illegality",
+      "resume": "The tragedy resembles the 2008 housing crisis: Hwang lost tens of billions in two days due to questionable trading and panicking institutions. Nobody technically did anything illegal because lack of transparency is still allowed, raising the question of when the next financial meltdown will happen.",
+      "mots_cles": [
+        "Archegos collapse",
+        "2008 financial crisis",
+        "lack of transparency",
+        "two days",
+        "next financial meltdown",
+        "Bill Hwang",
+        "legal loopholes"
+      ],
+      "texte": "The smaller institutions were not able to unload their holdings quickly as the larger banks, and they [music] paid dearly for it. This financial tragedy could have been prevented if a bad series of investments and the panicking of banks could have been managed or prevented, [music] which when you think about it, is eerily similar to what happened during the housing market crisis in 2008. Bill Hong, who was worth tens of billions of dollars, lost it all in 2 days because of the questionable trading practices and the panicking of financial institutions. Crazy thing is that no one technically did anything illegal. The lack of transparency by investors and banks [music] is still allowed, which begs the question, when will the next financial meltdown happen?"
     }
   ]
 }
