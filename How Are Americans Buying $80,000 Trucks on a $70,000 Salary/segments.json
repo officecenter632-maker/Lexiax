@@ -1,0 +1,528 @@
+{
+  "version": 1,
+  "video_id": "yv-xKJVXrLE",
+  "titre_video": "How Are Americans Buying $80,000 Trucks on a $70,000 Salary?",
+  "duree_s": 1050.56,
+  "avancement": {
+    "lignes_traitees": 200,
+    "fin_traitee_s": 1050.56,
+    "nb_lignes_total": 200,
+    "complet": true
+  },
+  "nb_segments": 27,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.16,
+      "fin": 30.72,
+      "temps_estime": false,
+      "titre": "Hook: a Texas graveyard of abandoned $80,000 trucks",
+      "resume": "In Texas lies a multi-million dollar graveyard of abandoned $80,000 trucks, while American auto loans surge past 2008 financial crisis records. The video blames a predatory illusion engineered by banks and dealerships, and says banks only want the keys.",
+      "mots_cles": [
+        "Texas",
+        "$80,000 trucks",
+        "abandoned trucks",
+        "auto loans",
+        "2008 crisis records",
+        "banks",
+        "dealerships",
+        "repossession"
+      ],
+      "texte": "Deep in the heart of Texas lies a multi-million dollar graveyard. It’s not filled with bodies… it’s packed with endless rows of abandoned $80,000 trucks. Right now, American auto loans are surging past 2008 financial crisis records. And it’s not slowing down. It’s all fueled by a predatory illusion engineered by banks and dealerships to trick American drivers. Now those luxury vehicles are gathering dust in lots. The banks don’t care about the circumstances. They don’t care about the families. All they want are the keys."
+    },
+    {
+      "id": 2,
+      "debut": 30.72,
+      "fin": 69.84,
+      "temps_estime": false,
+      "titre": "1.7 million repossessions: Texas and Florida lead",
+      "resume": "In 2024 alone 1.7 million vehicles were repossessed in the US, a number close to the cars driving around New York City. Texas had almost 320,000 repossessions in the first three quarters of 2025 and Florida 222,000. The narrator blames a perfect storm of dealer tricks, skyrocketing prices and shady loan structures.",
+      "mots_cles": [
+        "1.7 million repossessions",
+        "2024",
+        "Texas 320,000 repos",
+        "Florida 222,000",
+        "vehicle repossession",
+        "dealer tricks",
+        "car prices",
+        "loan structures"
+      ],
+      "texte": "And it affects you… In 2024 alone, a staggering 1.7 million vehicles were repossessed in the U.S. That’s a number nearly equal to the amount of cars driving around New York city. It’s a genuine crisis. And it’s accelerating. Texas leads the way with almost 320,000 repossessions in the first three quarters of 2025. Florida follows closely, with 222,000repos in the same period. So how did so many Americans end up with vehicles they couldn’t afford. It’s the result of a perfect storm: dealer tricks, skyrocketing car prices, and shady loan structures. Together,"
+    },
+    {
+      "id": 3,
+      "debut": 69.84,
+      "fin": 107.12,
+      "temps_estime": false,
+      "titre": "$1.7 trillion auto debt and a middle class drowning in consumer debt",
+      "resume": "Auto loan debt has reached $1.7 trillion, more than the annual GDP of Turkiye and more than twice the 2010 level at the Great Recession peak. According to a consumer credit counseling organization, the average person seeking debt help used to earn about $50,000 but now earns around $75,000.",
+      "mots_cles": [
+        "$1.7 trillion auto debt",
+        "Turkiye GDP",
+        "2010 Great Recession",
+        "consumer debt",
+        "credit counseling",
+        "$75,000 income",
+        "middle class",
+        "suburbs"
+      ],
+      "texte": "they have led to a massive auto loan debt of $1.7 trillion. That’s more than the entire annual GDP of Turkiye. It’s also more than twice the level of outstanding auto debt recorded in 2010, at the peak of the Great Recession. And the suburbs are taking the hit. According to the American Counseling Consumer Credit Organization, the average person calling them up for help with consumer debt used to make around $50,000 a year. In 2024-2025, the average person struggling under mountains of crushing consumer debt makes around $75,000 a year. The middle class is drowning in debt. It makes sense when you look at the"
+    },
+    {
+      "id": 4,
+      "debut": 107.12,
+      "fin": 148.64,
+      "temps_estime": false,
+      "titre": "Car and truck prices up 35% and monthly payments of $761",
+      "resume": "Since 2019 new car prices rose 35%, and the average new car now exceeds $50,000. Cox Automotive puts the average full-size truck near $65,000, the average new car payment at $761 and used car payments at $570, almost $300 more per month than in 2019.",
+      "mots_cles": [
+        "new car price +35%",
+        "$50,000 average car",
+        "Cox Automotive",
+        "full-size truck $65,000",
+        "$761 monthly payment",
+        "used car $570",
+        "since 2019",
+        "affordability"
+      ],
+      "texte": "numbers. Since 2019, the price of a new car has gone up by 35%. Today, the average new car in the U.S. has now breached $50,000. For the everyday American, buying a car means sacrificing their entire post tax income. When it comes to trucks – the US’ most popular vehicles - the increase has been even steeper. According to Cox Automotive, the average full-size truck now costs almost $65,000. The average monthly payment on a new car loan is $761. Used cars don’t fare much better, racking up an average of $570 a month in payments. Compared to 2019, that’s almost a $300-a-month increase. And that’s not even the worst part."
+    },
+    {
+      "id": 5,
+      "debut": 148.64,
+      "fin": 173.04,
+      "temps_estime": false,
+      "titre": "1 in 5 new car loans exceeds $1,000 a month, mostly pickups",
+      "resume": "Experian data shows almost 1 in 5 new vehicle loans now have monthly payments over $1,000, versus 5.4% in 2021. 74% of those loans are for standard non-luxury vehicles, mostly pickup trucks such as the Chevy Silverado 1500 and Ford F-150.",
+      "mots_cles": [
+        "Experian",
+        "$1,000 monthly payment",
+        "1 in 5 loans",
+        "5.4% in 2021",
+        "pickup trucks",
+        "Chevy Silverado 1500",
+        "Ford F-150",
+        "non-luxury vehicles"
+      ],
+      "texte": "Data from credit agency Experian reveals that almost 1 in 5 new vehicle loans have monthly payments of over $1,000. In 2021, it was only 5.4%. These payments aren’t for high-end models or luxury vehicles either. 74% of those thousand dollar loans are for standard non-luxury vehicles. They’re mostly pickup trucks, including the Chevy Silverado 1500 and the Ford F-150."
+    },
+    {
+      "id": 6,
+      "debut": 173.04,
+      "fin": 209.04,
+      "temps_estime": false,
+      "titre": "The 84-month loan: seven years of payments to hide high prices",
+      "resume": "Families cannot afford the new vehicles amid inflation and low wage growth, so dealers use the 84-month loan, a relatively recent instrument engineered by lenders to make high prices more palatable. The average borrowed amount is now $44,000, and the longer loan with lower payments destroys long-term financial survival.",
+      "mots_cles": [
+        "84-month loan",
+        "7-year car loan",
+        "long-term auto loan",
+        "dealerships",
+        "$44,000 average loan",
+        "inflation",
+        "low wage growth",
+        "lower payments"
+      ],
+      "texte": "How are families affording these new cars during rapid inflation and low wage growth? They aren’t. But auto dealers have a way around that. A sleight of hand that fools people into signing on the dotted line. The 84-month loan. 7 years of car payments. This is a relatively recent financial instrument engineered by lenders and offered by dealerships to make surging vehicle prices more palatable to the average consumer. The average amount consumers need to borrow is now up to $44,000. So 7 years of relatively lower payments sounds relatively appealing. But it destroys their"
+    },
+    {
+      "id": 7,
+      "debut": 209.04,
+      "fin": 238.0,
+      "temps_estime": false,
+      "titre": "Carvana approves $5,000 earners; 27.5% of loans run 72+ months",
+      "resume": "Platforms like Carvana approve loans for people making as little as $5,000 a year, about $100 a week, then act surprised at defaults. Loans of 72 months or longer make up 27.5% of the market, so almost 1 in 3 Americans sign up for a long interest-heavy debt burden.",
+      "mots_cles": [
+        "Carvana",
+        "$5,000 income loans",
+        "$100 per week",
+        "72-month loans",
+        "27.5% of market",
+        "defaults",
+        "dealers",
+        "debt burden"
+      ],
+      "texte": "long term financial survival. Major platforms like Carvana approve loans for people making as little as $5,000 a year. They’re handing the keys to people making around $100 per week, then acting surprised when that person defaults. Dealers want to sell cars. They want to close the deal. And it’s working. Loans of 72 months or longer make up 27.5% of the market. Almost 1 in 3 Americans are signing up for a never-ending, interest-heavy debt burden."
+    },
+    {
+      "id": 8,
+      "debut": 238.0,
+      "fin": 276.08,
+      "temps_estime": false,
+      "titre": "Interest cost: $40,000 loan over 60 versus 84 months",
+      "resume": "Edmunds' Ivan Drury says 84-month loans will be used more often as vehicles get pricier, but many consumers do not grasp the cost. A $40,000 loan over 60 months costs just over $7,500 in interest, while the same loan over 84 months costs about $10,700.",
+      "mots_cles": [
+        "Edmunds",
+        "Ivan Drury",
+        "84-month loan interest",
+        "$40,000 loan",
+        "60 months",
+        "$7,500 interest",
+        "$10,700 interest",
+        "lower monthly payment illusion"
+      ],
+      "texte": "Statistically, it’s going to drag them under. Edmunds director of insights, Ivan Drury, put it simply: “as vehicles become increasingly more expensive, [84-month auto loans] will be used more often.” But many consumers don't understand how much these loans are costing them. If a car buyer took out a $40,000 loan over a period of 60 months, they would end up paying just over $7,500 in interest. If they took out the same loan over 84 months, the total interest paid shoots up to around $10,700. They’re handing over thousands of dollars more based on an illusion of lower monthly payments. The financial bleeding doesn’t stop there."
+    },
+    {
+      "id": 9,
+      "debut": 276.08,
+      "fin": 325.68,
+      "temps_estime": false,
+      "titre": "Warranty expiry and depreciation leave owners underwater",
+      "resume": "Manufacturer warranties expire after 2 to 3 years, leaving up to 5 years of payments with repairs paid out of pocket. Kelley Blue Book says the average new car loses 30% of its value in 2 years and then 8-12% a year, so 7-year borrowers can quickly owe more than the car is worth.",
+      "mots_cles": [
+        "warranty expiration",
+        "depreciation",
+        "Kelley Blue Book",
+        "30% value loss",
+        "8-12% per year",
+        "owe more than worth",
+        "7-year loan",
+        "selling at a loss"
+      ],
+      "texte": "Most manufacturer warranties expire after 2 to 3 years. On an 84 month loan, the warranty will run out while there’s still 5 years of payments left. If there’s a major breakdown or repair, it’s coming out of their pocket. All the while, the car is depreciating while the debt stays alive. Kelley Blue Book states that the average new car loses 30% of its value within the first 2 years of buying it. The percentage is even higher for luxury cars and trucks. After that, it loses 8-12% of its value every year. For people who have 7-year loans to pay off, this steep drop in value is a massive problem. In just two years, they can find themselves owing more than the car is worth. Not only does this mean selling at a loss if something comes up and a consumer needs to sell their car. It also means consumers are less likely to make their payments in the first place."
+    },
+    {
+      "id": 10,
+      "debut": 325.68,
+      "fin": 345.12,
+      "temps_estime": false,
+      "titre": "Vicious cycle: negative equity reduces the incentive to pay",
+      "resume": "The Texas Standard notes that when a vehicle's value is below the outstanding balance, the incentive to make a missed payment decreases. Missing payments raises the chance of repossession and the buyer takes a massive loss.",
+      "mots_cles": [
+        "negative equity",
+        "Texas Standard",
+        "missed payments",
+        "vicious cycle",
+        "repossession",
+        "outstanding balance",
+        "incentive to pay",
+        "loss on purchase"
+      ],
+      "texte": "The Texas Standard states, “the incentive for a car buyer to pay and make a missed monthly payment decreases when the vehicle’s value is below the outstanding balance.” It starts a vicious cycle. Missing car payments increases the chances of a buyer’s car getting repossessed by the bank. And the buyer then takes a massive loss on their purchase."
+    },
+    {
+      "id": 11,
+      "debut": 345.12,
+      "fin": 377.76,
+      "temps_estime": false,
+      "titre": "After repossession you still owe: balances and repo fees",
+      "resume": "Repossession does not clear the loan: the bank sells the truck for pennies and bills the borrower for the rest. As of December 2022 the average balance owed after repossession was up to $11,000, plus repossession fees ranging from hundreds to a couple of thousand dollars.",
+      "mots_cles": [
+        "repossession",
+        "remaining balance",
+        "$11,000 owed after repo",
+        "repo fees",
+        "bank sells truck",
+        "deficiency",
+        "December 2022",
+        "bill after repossession"
+      ],
+      "texte": "At least if the bank takes it back, the loan is finally off your hands, right? Wrong. Some consumers don’t even know it until their car is lifted from their driveway, and they get a bill for everything they still owe. The bank takes your truck, sells it for pennies, and bills you for the rest. As of December 2022, the average outstanding balance a consumer owed after a repossession was up to $11,000. That doesn’t even touch on the money the consumer owes lenders for the repossession itself, which can range from hundreds of dollars to a couple of thousands."
+    },
+    {
+      "id": 12,
+      "debut": 377.76,
+      "fin": 404.48,
+      "temps_estime": false,
+      "titre": "Third-party repossession forwarding companies raise the cost",
+      "resume": "Lenders increasingly use third-party repossession forwarding companies, which handled 66% of cases in December 2022 versus 31% in January 2018. The middlemen charge higher rates that are added to the borrower's bill, so losing a vehicle gets more expensive.",
+      "mots_cles": [
+        "repossession forwarding companies",
+        "third-party repo",
+        "66% of cases",
+        "31% in 2018",
+        "middlemen fees",
+        "repo men",
+        "delinquent owners",
+        "higher bill"
+      ],
+      "texte": "But when it comes to repo, the banks are getting their hands dirty. Lenders are increasingly using third-party repossession forwarding companies to track down delinquent owners. They handled 66% of cases in December 2022 compared to 31% of cases in January 2018. The middle men charge higher rates which get tacked onto the car owner’s bill. So losing your vehicle is even more expensive. And the repo men are busier than ever."
+    },
+    {
+      "id": 13,
+      "debut": 404.48,
+      "fin": 438.24,
+      "temps_estime": false,
+      "titre": "Repos up 43% and the lasting credit damage",
+      "resume": "Between 2022 and 2024 vehicle repossessions rose 43%. Delinquency or default hurts credit scores and future loan access, and repossessions stay on credit reports up to 7 years, affecting auto insurance rates too.",
+      "mots_cles": [
+        "repos up 43%",
+        "2022-2024",
+        "credit score",
+        "credit report 7 years",
+        "default",
+        "auto insurance rates",
+        "future loans",
+        "delinquency"
+      ],
+      "texte": "Between 2022 and 2024, vehicle repos increased by 43%. Even though the car is no longer in your driveway, the fallout looms over you for years. Being delinquent, or worse yet, defaulting on car payments affects a consumer’s credit score, including their ability to secure a car loan - or any loan - in the future. And repossessions can stay on credit reports for up to 7 years; also affecting future auto insurance rates. The less able you are to make payments now, the less likely it is you will ever be able to afford car payments and insurance in the future."
+    },
+    {
+      "id": 14,
+      "debut": 438.24,
+      "fin": 491.12,
+      "temps_estime": false,
+      "titre": "Negative equity at record levels: 1 in 3 buyers trading in",
+      "resume": "Trading in a car with negative equity starts the next loan in the red. Edmunds found 1 in 3 buyers carry negative equity, up from 23.9% in spring 2024 and 18.5% a year earlier, and 29% of auto finance customers are categorized as financially vulnerable. The average amount is $7,200 underwater, over $10,000 for trucks, an all-time high.",
+      "mots_cles": [
+        "negative equity",
+        "Edmunds",
+        "1 in 3 buyers",
+        "23.9% spring 2024",
+        "financially vulnerable 29%",
+        "$7,200 underwater",
+        "trucks $10,000",
+        "trade-in"
+      ],
+      "texte": "It’s why this particular bubble is so dangerous. Even if the car doesn’t get repo’d, and the consumer just trades it in for another vehicle, all that negative equity starts them off in the red. It’s not a rare event anymore. Edmunds found that 1 in 3 car buyers are carrying negative equity when trading in for a new vehicle. In spring of 2024, only 23.9% of car buyers had negative equity. A year earlier, that share was as low as 18.5%. The rapid increase in car buyers operating in the red has experts very worried. Maybe that’s why the U.S. Automotive Financing Satisfaction Study found that 29% of auto finance customers are now categorized as “financially vulnerable”. The average amount of that equity is $7,200 in the red. For trucks, that number goes up past $10,000. It’s an all time high."
+    },
+    {
+      "id": 15,
+      "debut": 491.12,
+      "fin": 519.2,
+      "temps_estime": false,
+      "titre": "Rolling $11,000 negative equity into a new truck",
+      "resume": "Rolling $11,000 of negative equity into a new truck is likened to buying a reliable used car and pushing it off a cliff. Edmunds' Jessica Caldwell calls owing $10,000 or $15,000 more than a car is worth alarming. The narrator then asks whether the consumer alone is at fault.",
+      "mots_cles": [
+        "rolling negative equity",
+        "Jessica Caldwell",
+        "Edmunds",
+        "$10,000 underwater",
+        "$15,000 underwater",
+        "new truck",
+        "alarming",
+        "consumer fault"
+      ],
+      "texte": "Rolling $11,000 of negative equity into a new truck is the mathematical equivalent of buying a reliable used car and immediately pushing it off a cliff before you even drive off the lot. Edmunds’ Jessica Caldwell says, “consumers owing a grand or two more than their cars are worth isn’t the end of the world, but seeing such a notable share of individuals affected at the $10,000 or even $15,000 level is nothing short of alarming…” But is this solely the consumer’s fault?"
+    },
+    {
+      "id": 16,
+      "debut": 519.2,
+      "fin": 558.08,
+      "temps_estime": false,
+      "titre": "Asset-backed securities: turning auto debt into bonds like 2008",
+      "resume": "Banks pool thousands of high-risk auto loans into asset-backed securities (ABS) and sell them to global investors as bonds, giving investors steady income and banks an immediate payout. The narrator says it is the same play that triggered the 2008 financial crisis, now with subprime auto ABS.",
+      "mots_cles": [
+        "asset-backed securities",
+        "ABS",
+        "subprime auto loans",
+        "pooled loans",
+        "global investors",
+        "bonds",
+        "2008 financial crisis",
+        "Wall Street"
+      ],
+      "texte": "Banks have figured out a way to turn your debt into pure profit. It’s driven by a Wall Street trick known as Asset Backed Securities, or ABS. Lenders take thousands of high risk auto loans and pool them together. They then sell them off to global investors as bonds. The investors get a steady stream of income from your payments and the banks get an immediate payout. If it sounds terrifyingly familiar, that’s because it is. It’s the same play that triggered the 2008 financial crisis. Wall Street failed to learn its lesson… or it just doesn’t care. They're killing off subprime auto ABS, completely ignoring the warning signs. But this time, there’s a fatal flaw."
+    },
+    {
+      "id": 17,
+      "debut": 558.08,
+      "fin": 573.52,
+      "temps_estime": false,
+      "titre": "Fatal flaw: cars depreciate quickly unlike houses",
+      "resume": "Unlike houses, cars are rapidly depreciating assets and loans mature in a few years. When consumers default, defaults arrive fast and the underlying assets are worth little.",
+      "mots_cles": [
+        "depreciating assets",
+        "cars versus houses",
+        "loan maturity",
+        "defaults",
+        "subprime auto ABS",
+        "fatal flaw",
+        "asset value",
+        "repossessed vehicles"
+      ],
+      "texte": "Unlike houses, cars are rapidly depreciating assets. They lose value quickly, and loans mature over a few years at most. That means when consumers start defaulting on loans, not only will the defaults start coming in fast; but the assets won’t even be worth much."
+    },
+    {
+      "id": 18,
+      "debut": 573.52,
+      "fin": 617.2,
+      "temps_estime": false,
+      "titre": "Deficiency balance: debt collectors, wage garnishment and Chapter 7",
+      "resume": "When a repossessed vehicle sells for less than the loan, the difference is a 'deficiency balance' classified as unsecured debt. Lenders try to collect, then pass it to a third-party debt collector, and can sue to take money from wages. The only way out is Chapter 7 bankruptcy.",
+      "mots_cles": [
+        "deficiency balance",
+        "unsecured debt",
+        "debt collector",
+        "wage garnishment",
+        "Chapter 7 bankruptcy",
+        "repossession sale",
+        "lawsuit",
+        "loan balance"
+      ],
+      "texte": "In fact, according to one law firm that deals with repo cases, “when a vehicle is repossessed and sold, the sale price often does not cover the remaining loan balance.” The difference between what a consumer owes on a car loan and what the bank sold is called a “deficiency balance.” It’s classified as unsecured debt. Lenders will try to collect it directly after selling off your car. If you don’t pay immediately, it gets transferred to a third-party debt collector. If you can’t pay the debt collector in a timely manner, lenders can sue to take the money directly out of your wages. The only way the consumer can truly get out of paying the deficiency balance is to declare Chapter 7 bankruptcy. Which most people don’t prefer for a whole host of reasons. But in the meantime, financial companies make a"
+    },
+    {
+      "id": 19,
+      "debut": 617.2,
+      "fin": 668.96,
+      "temps_estime": false,
+      "titre": "Drive 2019-3 and Janice Siler's 22.05% Santander loan",
+      "resume": "A large chunk of subprime auto loans were wrapped in an ABS called Drive 2019-3, with over 75,000 loans, which paid higher yields than Treasury bonds. Santander Consumer USA charged Janice Siler 22.05% on a used car loan, over 3 times what good credit would get, and built its securities assuming up to 42% could default.",
+      "mots_cles": [
+        "Drive 2019-3",
+        "Santander Consumer USA",
+        "Janice Siler",
+        "22.05% interest",
+        "subprime ABS yields",
+        "42% default assumption",
+        "Treasury bonds",
+        "poor credit rates"
+      ],
+      "texte": "lot of money. A huge chunk of subprime auto loans were wrapped into an ABS known as Drive 2019-3. Investment firms took on these securities - which included over 75,000 auto loans - because clever financial maneuvering made Drive 2019-3 pay out higher yields than Treasury bonds. That’s partly because of the exorbitant rates companies can charge when giving loans to people with poor credit. Santander Consumer USA charged one consumer, Janice Siler, 22.05% interest on her loan to buy a used car. A customer with good credit would get a rate more than 3 times lower. Even when she defaults, it’s not a big deal for Santander and Co. They built their securities based on the assumption that up to 42% of customers could and would default, and their bottom line would remain unaffected. How can the companies do this?"
+    },
+    {
+      "id": 20,
+      "debut": 668.96,
+      "fin": 725.92,
+      "temps_estime": false,
+      "titre": "Alleged income fudging, Tricolor CEO quote and the booming subprime ABS market",
+      "resume": "Santander allegedly gave Siler her loan based on a $70,000 income she never claimed. Tricolor CEO Daniel Chu is quoted saying it does not work for the consumer but works for everyone else. Subprime auto loans backed more than $37 billion in bonds in 2022, double 2012, and the consumer is left holding the bag as dominoes start falling.",
+      "mots_cles": [
+        "fudged income",
+        "$70,000 income",
+        "Daniel Chu",
+        "Tricolor Holdings",
+        "subprime auto ABS $37 billion",
+        "Bloomberg",
+        "left holding the bag",
+        "dominoes"
+      ],
+      "texte": "By allegedly fudging the numbers. In Siler’s case, Santander gave her the loan based on Janice making an annual income of $70,000 a year. But Janice never made that much. And she never told Santander that she did. As Daniel Chu, CEO of subprime auto lender Tricolor Holdings says, “it doesn’t really work for the consumer. But it works for everyone else”. And thanks to creative financial instruments and usurious interest rates, the subprime auto ABS market is booming. According to Bloomberg, as of 2022, subprime auto loans backed more than $37 billion in bonds. In 2012, the value of the subprime auto ABS market was just half that. Just like with subprime mortgage loans, it’s all going great… Until it isn’t. The average consumer is left holding the bag while the financial giants have made off with billions. In the subprime auto ABS market, the red flags are starting to show; because the dominoes are already falling."
+    },
+    {
+      "id": 21,
+      "debut": 725.92,
+      "fin": 785.04,
+      "temps_estime": false,
+      "titre": "Tricolor Holdings and buy-here-pay-here dealerships",
+      "resume": "Tricolor was a buy-here-pay-here (BHPH) dealership chain in Texas, Arizona and California selling used cars and subprime loans together. The Federal Reserve found 78% of BHPH customers were subprime in May 2025 versus 27% for regular lenders, with 1.88 times the default rate, 2.65 times the delinquency rate and 16.6 times the repossession rate.",
+      "mots_cles": [
+        "Tricolor Holdings",
+        "buy here pay here",
+        "BHPH",
+        "Federal Reserve May 2025",
+        "78% subprime",
+        "default rates 1.88x",
+        "repossession 16.6x",
+        "Texas Arizona California"
+      ],
+      "texte": "The first one? Tricolor Holdings. Tricolor was a big “buy here, pay here” – known as BHPH - dealership chain operating in Texas, Arizona, and California. Customers would get both their used cars and subprime loans in the same place. Many of these buyers were customers who could not get a car loan through traditional financial institutions because of poor credit. In May 2025, the Federal Reserve actually found that 78% of BHPH customers were subprime borrowers, compared to 27% of customers for regular auto lenders. But Tricolor was giving out loans to people it knew would never be able to pay them off. Overall, BHPH loans have 1.88 times the default rates of traditional auto loans, and 2.65 times the delinquency rates. The rate of repossessions for BHPH customers was 16.6 times the rate of repossessions for the average car consumers. It amounted to around 5% of BHPH balances."
+    },
+    {
+      "id": 22,
+      "debut": 785.04,
+      "fin": 839.76,
+      "temps_estime": false,
+      "titre": "Tricolor bankruptcy, SEC fraud charges and bank losses",
+      "resume": "Tricolor declared bankruptcy in September 2025 and the SEC charged executives including Daniel Chu, CFO Jerome Kollar and Ameryn Seibold with fraud for double pledging hundreds of millions of dollars of subprime auto loans to multiple ABS offerings. Banks providing credit lines, from Origin Bancorp to JPMorgan Chase and Barclays, lost tens to hundreds of millions each.",
+      "mots_cles": [
+        "Tricolor bankruptcy",
+        "September 2025",
+        "SEC fraud charges",
+        "double pledging",
+        "Jerome Kollar",
+        "JPMorgan Chase",
+        "Barclays",
+        "Origin Bancorp"
+      ],
+      "texte": "Defaults hit such high that not only did the company declare bankruptcy in September 2025; the Securities and Exchange Commission (SEC) has charged Tricolor executives with fraud. That includes the formerly quoted Daniel Chu. as well as CFO Jerome Kollar and Senior Director of Finance Ameryn Seibold. Apparently, Tricolor had “an alleged multi-year scheme to defraud investors by double pledging hundreds of millions of dollars of subprime auto loans to multiple asset-backed securities (ABS) offerings and lenders.” The bankruptcy of the company caused the two major banks who were providing credit lines to Tricolor to lose between tens of millions and hundreds of millions each. These range from local Louisiana banks like Origin Bancorp., to major international institutions like JPMorgan Chase and Barclays. But even though Tricolor may have gone under, the subprime auto loan market is still thriving..."
+    },
+    {
+      "id": 23,
+      "debut": 839.76,
+      "fin": 884.56,
+      "temps_estime": false,
+      "titre": "Subprime delinquencies and what roll-rates reveal",
+      "resume": "Almost 16% of subprime borrowers were at least 30 days past due on car payments by late 2025, while prime borrowers also feel the crunch from an affordability crisis. Lenders watch delinquency roll-rates, which track how many borrowers move from one missed payment to two, then three, and 60-day rates are worsening.",
+      "mots_cles": [
+        "subprime delinquency 16%",
+        "30 days past due",
+        "prime borrowers",
+        "affordability crisis",
+        "delinquency roll-rates",
+        "missed payments",
+        "60-day delinquency",
+        "late 2025"
+      ],
+      "texte": "At the expense of everyday consumers. Overall, when it comes to subprime borrowers, almost 16% were at least 30 days past due on their car payments as of late 2025. Prime borrowers, though they have lower delinquency rates, are also feeling the crunch, as an affordability crisis lessens their ability to pay. But lenders often look at something called delinquency roll-rates to see just how badly the market is shifting. Anyone can miss one car payment, by accident or because of an unexpected cost eating into their budget. A delinquency roll-rate looks at how many consumers go from one missed payment… to two. Then three. Then more. The bad news is, 60-day delinquency rates are faring worse than they used to as well."
+    },
+    {
+      "id": 24,
+      "debut": 884.56,
+      "fin": 922.56,
+      "temps_estime": false,
+      "titre": "90+ day delinquencies at 5.2% and $1.66 trillion owed",
+      "resume": "In January 2025, 6.9% of subprime auto borrowers were at least two billing cycles past due. US auto loan 90+ day delinquencies reached 5.2%, well above the roughly 2% norm before the Great Recession, and outstanding balance of $1.66 trillion is double the 2010 level.",
+      "mots_cles": [
+        "90+ day delinquencies 5.2%",
+        "subprime 6.9%",
+        "January 2025",
+        "$1.66 trillion balance",
+        "2010 Great Recession",
+        "delinquency norm 2%",
+        "auto loan delinquency",
+        "double 2010"
+      ],
+      "texte": "In January 2025, 6.9% of consumers with subprime auto loans were at least 2 full billing schedules past due on their scheduled car payments. As for U.S. auto loan 90+ day delinquencies? They have now reached 5.2%. While that may not sound like much, it’s actually way above the norm. Coming with 0.06 percentage points of defaults during the peak of the 2010 Great Recession. Before then, the rates of over-90-day delinquency usually hovered around 2%. The outstanding balance owed today is $1.66 trillion. That’s double the outstanding balance of 2010."
+    },
+    {
+      "id": 25,
+      "debut": 922.56,
+      "fin": 952.88,
+      "temps_estime": false,
+      "titre": "Repossessions flooding the used car market",
+      "resume": "Delinquencies and repossessions are disrupting the used car market, which could be the one bright spot for burdened consumers. Auto news outlets predict used-vehicle values could drop up to 4% in 2026, partly from low consumer confidence and hundreds of thousands of repossessed vehicles flooding the market.",
+      "mots_cles": [
+        "used car market",
+        "used vehicle values -4% 2026",
+        "repossessed vehicles",
+        "low prices",
+        "consumer confidence",
+        "auto industry",
+        "delinquencies",
+        "2026 forecast"
+      ],
+      "texte": "These delinquencies and repossessions are also wreaking havoc on the used car market. Though for consumers burdened by high costs, it may be the one bright spot in the current auto industry. Auto news outlets predict that used-vehicle values could drop up to 4% in 2026 compared to the year before. While that’s a reflection of lower-than-usual consumer confidence, another factor may also be the hundreds of thousands of repossessed vehicles flooding the market at low, low prices. The bigger problem for the average U.S. consumer?"
+    },
+    {
+      "id": 26,
+      "debut": 952.88,
+      "fin": 1014.08,
+      "temps_estime": false,
+      "titre": "Pension funds exposed to subprime auto ABS through private credit",
+      "resume": "Defaults can affect people who do not hold the loans: retirement and pension funds invested in subprime auto ABS could suffer. 15% of the Arizona State Retirement system goes to private credit, CalPERS invests in it, and per the Wall Street Journal public funds' average private-credit allocation is moving from 3% to a 5.7% target, with consumers unsure whether their funds hold risky securities.",
+      "mots_cles": [
+        "pension funds",
+        "retirement funds",
+        "private credit",
+        "Arizona State Retirement",
+        "CalPERS",
+        "Wall Street Journal",
+        "subprime auto ABS exposure",
+        "5.7% target allocation"
+      ],
+      "texte": "Defaults on these car loans can affect you… even if you’re not the one that holds them. If your retirement or pension fund is invested in subprime auto ABS, and the securities collapse, it’s your retirement money that’s going to be caught in the crossfires. Depending on where you live and what your company pension funds invest in, the exposure can be pretty significant. 15% of the Arizona State Retirement system’s portfolio goes to private credit. Another 7% is invested in distressed debt. California Public Employees’ Retirement System is also making investments in private credit, passing 5% investment as of 2022. According to the Wall Street Journal, “across the U.S., state and local retirement funds with private-credit portfolios are expanding them faster than any other alternative investment, from an average allocation of 3% to an average target of 5.7%”. Most consumers aren’t entirely sure if these private credit investments, including the ones that control their own pension funds, are going to risky funds like subprime auto securities."
+    },
+    {
+      "id": 27,
+      "debut": 1014.08,
+      "fin": 1050.56,
+      "temps_estime": false,
+      "titre": "Conclusion: they can't afford $80,000 trucks; outro on Ford",
+      "resume": "The answer to how Americans afford $80,000 trucks on a $70,000 salary is that they don't: the auto and lending industries made it seem possible through shady financial and lending practices. When payments come due it could bring the whole economy down, and automakers are not safe either. Viewers are pointed to 'REAL Reason Why FORD Is Failing'.",
+      "mots_cles": [
+        "$80,000 trucks",
+        "$70,000 salary",
+        "shady lending practices",
+        "economy crash",
+        "auto manufacturers",
+        "Ford failing",
+        "outro",
+        "conclusion"
+      ],
+      "texte": "So when it comes to the question of how Americans are affording $80,000 trucks on a $70,000 salary these days, the ugly truth is… they’re not. The auto and lending industries have led them to believe that it’s possible with shady financial and lending practices. Increasing car costs are only adding to the pressures and mounting debt. But when payment comes due, it could bring the whole economy crashing down. Consumers might be feeling the effects of shady practices, but that doesn’t mean the auto manufacturers are safe. Watch “REAL Reason Why FORD Is Failing” to see why one of the biggest names in automotive history is imploding. Or click on this."
+    }
+  ]
+}
