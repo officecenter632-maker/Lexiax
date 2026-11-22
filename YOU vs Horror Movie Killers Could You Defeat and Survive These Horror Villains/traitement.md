@@ -11,5 +11,7 @@ Speech : 3354 lignes, 6980,17 s (~116 min), langue en, sous-titres automatiques 
 - Départ : début de la vidéo (aucun segments.json existant).
 - Tranche 1 : lignes 1 à 898 (sur 3354), 0 à 1834,89 s (~30,6 min), 39 segments (id 1 à 39). Xenomorph (Alien), Babadook, Leatherface, début de Pinhead (jusqu'à la tolérance à la douleur). Vérification OK.
 
+- Tranche 2 : lignes 899 à 1731 (sur 3354), jusqu'à 3599,18 s (couvre 1834,89 à 3599,18 s, ~29,4 min), 36 segments (id 40 à 75). Fin de Pinhead, Michael Myers, Pennywise, début d'Annabelle (jusqu'à l'attaque physique). Vérification OK.
+
 ## Point d'arrêt
-- Dernière ligne traitée : 898. Prochaine étape : tranche 2 à partir de la ligne 899 (Pinhead : chaînes à crochets, suite), id 40.
+- Dernière ligne traitée : 1731. Prochaine étape : tranche 3 à partir de la ligne 1732 (Annabelle prend forme physique, fusil AA-12), id 76.
