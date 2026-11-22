@@ -1,0 +1,605 @@
+{
+  "version": 1,
+  "video_id": "Dd4GWmPSRAk",
+  "titre_video": "The Day The National Debt Actually Becomes a Problem",
+  "duree_s": 1529.3,
+  "avancement": {
+    "lignes_traitees": 358,
+    "fin_traitee_s": 1529.3,
+    "nb_lignes_total": 358,
+    "complet": true
+  },
+  "nb_segments": 32,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.16,
+      "fin": 26.48,
+      "temps_estime": false,
+      "titre": "Hook: net interest surpasses defense spending in 2024",
+      "resume": "In fiscal year 2024 the US government spent about $882 billion on net interest, more than the $826 billion spent on national defense. For the first time the Pentagon was overtaken by the cost of interest on the nation's own debt. The video frames this as the start of a ticking clock most people ignore.",
+      "mots_cles": [
+        "net interest",
+        "defense spending",
+        "$882 billion",
+        "fiscal year 2024",
+        "national debt",
+        "Pentagon",
+        "interest costs",
+        "ticking clock"
+      ],
+      "texte": "For decades, we’ve been told the U.S. military is the most expensive machine on Earth. But in fiscal year 2024, that changed. For the first time in history, the U.S. government spent about $882 billion just on net interest, surpassing the $826 billion spent on national defense. The Pentagon was overtaken by the cost of interest on its own debt. And that started a ticking clock… one that most people still aren’t paying attention to."
+    },
+    {
+      "id": 2,
+      "debut": 26.48,
+      "fin": 69.12,
+      "temps_estime": false,
+      "titre": "Meet Mark: the national debt as an abstract number",
+      "resume": "The video introduces Mark, a logistics worker in Columbus, Ohio, who pays his taxes each April and expects roads, schools and defense in return. To him the $35.7 trillion national debt is an unimaginable number that never touched his daily life, and not his parents' or grandparents' problem. The narration says it is his problem anyway.",
+      "mots_cles": [
+        "Mark",
+        "Columbus Ohio",
+        "$35.7 trillion",
+        "national debt",
+        "taxes",
+        "storytelling",
+        "ordinary American",
+        "abstract number"
+      ],
+      "texte": "Meet Mark. He lives in Columbus, Ohio and works in logistics for a mid-sized manufacturing company. Every April, he pays his taxes without much thought, like most Americans. In his mind, that money is supposed to turn into something solid. Roads. Schools. A military that keeps the country stable. The basics of a functioning nation. The national debt always felt distant. It’s the kind of thing politicians argue about on TV, not something that touches his day to day life. $35.7 trillion is just a number to him. Too large to picture, too disconnected to feel real. It’s like trying to count every grain of sand on a beach or every star in the sky. It wasn’t his grandparents’ problem. It wasn’t his parents’ problem. So why would it be his? Except it is."
+    },
+    {
+      "id": 3,
+      "debut": 69.12,
+      "fin": 134.0,
+      "temps_estime": false,
+      "titre": "Federal budget 2024: $2 trillion borrowed and interest becomes the second-largest item",
+      "resume": "In fiscal year 2024 the government collected about $4.9 trillion in taxes and spent $6.8 trillion, borrowing nearly $2 trillion. Interest on the debt hit $882 billion, up 34% in one year, and jumped from seventh largest budget item two years earlier to second, overtaking Medicare and defense and trailing only Social Security.",
+      "mots_cles": [
+        "federal budget",
+        "tax revenue $4.9 trillion",
+        "deficit",
+        "borrowing",
+        "interest $882 billion",
+        "Social Security",
+        "Medicare",
+        "line items"
+      ],
+      "texte": "What Mark doesn’t know is that the U.S. government collected roughly $4.9 trillion in tax revenue in fiscal year 2024. It spent $6.8 trillion that same year. Nearly $2 trillion was borrowed money. That’s nothing new. It’s a tale as old as time for prosperous post-war America. What is new is where the money is going. For decades the biggest line items in the federal budget were all pretty predictable. Social Security, Medicare, defense. The things a country buys when it’s trying to take care of its people and protect its borders. But in 2024, a new entry muscled its way to the top of the ledger book: The cost of borrowing money that was already spent. The interest on the national debt hit a cool $882 billion. Just 2 years earlier, it was only the seventh largest line item in the federal budget. By 2024, it had surged to second place, overtaking Medicare, overtaking defense, and now sitting behind only Social Security. And that interest was ballooning at such an alarming rate it made every other line item look like a rounding error. Up 34% in a single year."
+    },
+    {
+      "id": 4,
+      "debut": 134.0,
+      "fin": 188.48,
+      "temps_estime": false,
+      "titre": "Interest will pass $1 trillion in 2026 and cost $16.2 trillion in a decade",
+      "resume": "Interest payments are set to cross $1 trillion in 2026 and total about $16.2 trillion over the next decade, nearly double the previous two decades adjusted for inflation. The money equals a $4 million raise for 3.2 million teachers or wiping out student debt nine times. Instead it builds nothing and goes to bondholders such as foreign governments, domestic banks and pension funds.",
+      "mots_cles": [
+        "$1 trillion interest",
+        "$16.2 trillion",
+        "bondholders",
+        "student loan debt",
+        "teachers",
+        "interest projection",
+        "foreign governments",
+        "pension funds"
+      ],
+      "texte": "America has always been about pushing new frontiers. Well, here’s one it never wanted to cross. In 2026, interest payments will cross the $1 trillion mark for the first time. It won’t stop there. Over the next decade, the U.S. government is projected to spend $16.2 trillion on interest alone. That's nearly double what it spent in interest over the previous two decades adjusted for inflation. Think about what that amount of debt means in human terms. It’s enough to give every single one of the 3.2 million public school teachers in America a $4 million raise. It’s basically enough to wipe out all outstanding student loan debt 9 times over. Instead, all of it just…vanishes. It produces nothing, builds nothing, and goes directly to bondholders that own them. Bondholders being the official term for a gaggle of foreign governments, domestic banks, pension funds and the like. That’s the price the United States government must pay."
+    },
+    {
+      "id": 5,
+      "debut": 188.48,
+      "fin": 214.96,
+      "temps_estime": false,
+      "titre": "Debt-to-GDP: from 98% toward 200% by 2047",
+      "resume": "Publicly held debt was about 98% of the US economy in 2024, has since passed that level, and is projected to reach 200% by 2047. Debt is projected to grow more than twice as fast as the economy. Each year the hole deepens faster than growth can fill it.",
+      "mots_cles": [
+        "debt to GDP",
+        "publicly held debt",
+        "200% of GDP",
+        "2047 projection",
+        "economic growth",
+        "World War II",
+        "debt trajectory"
+      ],
+      "texte": "And the trajectory is unlike anything the country has seen since World War II. Back in 2024, publicly held debt was sitting pretty at 98% of the entire U.S. economy. Today, it has surpassed it. And by 2047, that number is projected to reach 200% of the entire U.S. economy. The country’s debt will be growing more than twice as fast as the economy. Every year that passes, the financial hole deepens faster than growth can close it."
+    },
+    {
+      "id": 6,
+      "debut": 214.96,
+      "fin": 257.52,
+      "temps_estime": false,
+      "titre": "Rising average interest rate and the 30-year bond at 5.19%",
+      "resume": "The average interest rate on the national debt rose from 1.84% five years ago to above 3.3%, as older low-rate debt expires and is refinanced at market rates. The government funds itself by selling bonds, and the 30-year bond yields 5.19%, its highest in 19 years. Each time cheap debt rolls off it is replaced at the higher rate.",
+      "mots_cles": [
+        "average interest rate",
+        "30-year bond yield",
+        "5.19%",
+        "refinancing",
+        "Treasury bonds",
+        "rolling debt",
+        "mortgage analogy",
+        "bond yields"
+      ],
+      "texte": "Five years ago the average interest rate on the national debt was 1.84%. Today it’s hovering north of 3.3% and climbing fast. Older low-rate debt is expiring and getting refinanced at whatever the market demands. Think of it like a mortgage that never fully gets paid off. The government finances itself by selling bonds, basically IOUs to investors around the world. Short-term, long-term, all at different rates. Right now, the government’s longest-term IOU, a 30-year bond, is yielding 5.19%, its highest level in 19 years. That matters because it sets the price of new borrowing. Every time older, cheaper debt rolls off, it gets replaced at the higher rate. The system starts putting more expensive debt on top of the old."
+    },
+    {
+      "id": 7,
+      "debut": 257.52,
+      "fin": 297.56,
+      "temps_estime": false,
+      "titre": "The 6.3% breaking point: interest could eat all tax revenue",
+      "resume": "Economists calculate that if the blended average interest rate reaches about 6.3%, a level the US has paid before, interest alone would consume every dollar of federal tax revenue. Already 18.5 cents of every federal dollar collected in 2025 went to interest, a record above the 1991 high. By 2036 the share is projected near 26 cents, one dollar in four.",
+      "mots_cles": [
+        "6.3% interest rate",
+        "interest share of revenue",
+        "18.5 cents per dollar",
+        "record 1991",
+        "2036 projection",
+        "federal taxes",
+        "debt service",
+        "breaking point"
+      ],
+      "texte": "The blended average keeps ratcheting up, and economists have calculated the breaking point. If that average hits around 6.3%, a level the U.S. has paid before,interest alone would eat up every dollar collected in federal taxes. Every dollar Mark sends to Washington in April, used to pay off the debt’s weighty interest bill. We’re not there yet. But consider where we already are. 18.5 cents of every federal dollar collected in 2025 went straight to interest, which was already a record set above the previous high in 1991. By 2036, under current projections, that figure will hit nearly 26 cents. One in four dollars spent just keeping the debt from collapsing under its own weight."
+    },
+    {
+      "id": 8,
+      "debut": 297.56,
+      "fin": 369.26,
+      "temps_estime": false,
+      "titre": "Sponsor segment: Kalshi and gold perpetual futures",
+      "resume": "Sponsor read for Kalshi, a CFTC-regulated exchange offering event contracts and perpetual futures on gold and silver. It mentions central banks buying gold while reducing Treasury exposure, trading fees, leverage risk and a $25 bonus for a $50 trade, then returns to Mark.",
+      "mots_cles": [
+        "Kalshi",
+        "sponsor",
+        "gold perpetual futures",
+        "CFTC regulated",
+        "event contracts",
+        "central banks gold",
+        "trading",
+        "silver"
+      ],
+      "texte": "And when debt and interest rates are moving like this, it raises another question: where does gold go from here? That brings us to today’s sponsor, Kalshi, a CFTC-regulated U.S. exchange where you can trade financial contracts tied to real-world outcomes and price movements, including sports, politics, economics, crypto, and more. Kalshi also offers Perpetual Futures, including Gold and Silver Perps you can trade 24/7 from your phone. Perps let eligible traders take a position on prices moving up or down without owning the underlying asset, and there’s no fixed expiration date. Gold is especially interesting here because, as you’ll see later, central banks have been buying more gold while other countries are reducing their U.S. Treasury exposure. That makes gold an important asset to watch as debt, inflation, interest rates, and confidence in currencies shift. If you want to take a position based on what gold does next, Kalshi supports fiat and crypto onramps, requires no VPN, and Kalshi Pro fees are 4 basis points, lower than Hyperliquid and most CEXs. Multipliers amplify both potential gains and potential losses. So check out Kalshi using my link in the description and pinned comment. Trade $50 and get $25 using my link. But back to Mark."
+    },
+    {
+      "id": 9,
+      "debut": 369.26,
+      "fin": 445.92,
+      "temps_estime": false,
+      "titre": "Spirit Airlines shuts down and strands Mark",
+      "resume": "Mark books a cheap Spirit Airlines trip to Tampa but the airline shuts down immediately after 34 years, leaving tens of thousands of passengers stranded and thousands of employees jobless. He pays three times as much for a Delta ticket. The narration says Spirit's failure was not bad luck and that it was not alone.",
+      "mots_cles": [
+        "Spirit Airlines",
+        "airline shutdown",
+        "stranded passengers",
+        "layoffs",
+        "Delta ticket",
+        "Tampa",
+        "corporate failure",
+        "cheap airfare"
+      ],
+      "texte": "Mark doesn’t feel any of this yet. His paycheck always looks the same, and the roads in Columbus always feel like they’re generally improving. The news cycles spout the same old thing. But somewhere between the spreadsheets and the auction houses and bond markets, something irrevocably bad has already broken. Mark had a flight booked for a trip he’d been looking forward to for months. Nothing exotic, just a long weekend in Tampa to see his college roommate. He booked it on Spirit Airlines because it was cheap, and it got him there in one piece. He’d flown Spirit more times than he could count. Cramped seats, no extras, nothing fancy, but it worked. It showed up, it took off, and it landed where it was supposed to. The week before his trip, Mark opened his email and saw one unread message. Spirit Airlines was shutting down immediately. After 34 years in the air, the airline was gone. Just like that, Mark became one of tens of thousands of passengers stranded mid-booking. Flights were canceled and plans erased. Thousands of Spirit Airline employees were suddenly out in the cold seeking work elsewhere. Hoping for an eventual refund, Mark had to scramble for a last-minute ticket on Delta that cost him three times as much. He figured it was a one-off. People had seen the writing on the wall for Spirit. Bad management, maybe? Bad luck? Nope. Turns out it was neither. And Spirit wasn’t alone."
+    },
+    {
+      "id": 10,
+      "debut": 445.92,
+      "fin": 479.2,
+      "temps_estime": false,
+      "titre": "Mark's company is stagnating: frozen raises and no hiring",
+      "resume": "The same slow decline hits Mark's manufacturing company: raises frozen for a third year, promised equipment never delivered, talk of restructuring and no hiring. Mark blames the economy, but the narration says his company, like Spirit and thousands of others, is already dead in the water without knowing it.",
+      "mots_cles": [
+        "frozen raises",
+        "no hiring",
+        "restructuring",
+        "manufacturing company",
+        "stagnation",
+        "zombie company",
+        "economic slowdown"
+      ],
+      "texte": "What happened to Spirit was happening across the country, and it was happening at Mark’s manufacturing company too. His company wasn’t growing. Raises had been frozen for the third year running. The new equipment his boss promised last spring never showed up. There was talk of restructuring. Nobody has been fired yet. But nobody was being hired, either. The whole place felt like it’s running in place. Mark assumes it's just the economy. There’s always rough patches in his industry, and things should pick up soon. This time, though, they won’t. Because Mark’s company, like Spirit and thousands like it are already dead in the water. They just don’t know it yet."
+    },
+    {
+      "id": 11,
+      "debut": 479.2,
+      "fin": 533.44,
+      "temps_estime": false,
+      "titre": "Zombie firms: companies kept alive by cheap debt",
+      "resume": "For a decade of near-zero interest rates, unprofitable companies survived by borrowing cheaply to cover bills and old debt. Economists call them zombie firms, which cannot cover interest from earnings, and there are thousands in the US. Examples named include JetBlue, Peloton, Wayfair and Bed Bath & Beyond.",
+      "mots_cles": [
+        "zombie firms",
+        "cheap debt",
+        "low interest rates",
+        "JetBlue",
+        "Peloton",
+        "Wayfair",
+        "Bed Bath & Beyond",
+        "unprofitable companies"
+      ],
+      "texte": "For much of the past decade interest rates were at historic lows. Borrowing money was almost free. So companies like Mark’s that weren’t especially profitable would keep themselves alive by taking out cheap loans to cover the gap, pay their bills, service their old debt, and pay their employees. Economists have a name for these companies. They call them zombie firms. Their achilles heel isn’t anything dramatic, just their fundamental, recurring need to borrow to keep themselves afloat. And there are thousands of them operating in the U.S. alone, These companies stumble forward on cheap debt the way a person survives on credit cards after losing their job. It’s a way of biding their time. They’re so buried in debt they can’t even cover the interest payments on their loans from what they actually earn. Sound familiar? You may have heard of some of them. JetBlue. Peloton. Wayfair. Bed Bath & Beyond. Household names, all of them, but ones kept breathing by an IV drip-feed of cheap borrowed money."
+    },
+    {
+      "id": 12,
+      "debut": 533.44,
+      "fin": 590.8,
+      "temps_estime": false,
+      "titre": "Buybacks, Bed Bath & Beyond and the bankruptcy surge",
+      "resume": "Zombie companies used borrowed money for stock buybacks and executive pay rather than better products; Bed Bath & Beyond paid its top three executives $140 million and spent $7 billion on buybacks before going bankrupt. When rates rose, business bankruptcies jumped 22% in 2024, a third straight yearly increase. A famous investor called it the greatest tinderbox-timebomb in financial history.",
+      "mots_cles": [
+        "stock buybacks",
+        "executive compensation",
+        "Bed Bath & Beyond bankruptcy",
+        "business bankruptcies 2024",
+        "rising interest rates",
+        "financial timebomb",
+        "Great Depression comparison"
+      ],
+      "texte": "The part that would really make Mark’s stomach drop is how the company chose to survive. A huge chunk of its debt wasn’t used to build better products or improve their service. It was used to buy back its own stock and make the company look healthier on paper than it actually was. In extreme cases, it was used to inflate executives’ pay packages. At Bed Bath & Beyond, the top three executives collected $140 million in compensation while the company spent $7 billion on stock buybacks. Then it went bankrupt. Tens of thousands of workers lost their jobs. The executives, of course, kept the money. The reckoning arrived fast when interest rates rose and all the cheap money dried up. Business bankruptcies jumped 22% in 2024 alone, the third straight year of increases after a decade of decline. One investor who famously predicted the last two market crashes warned that worse lay ahead. He said it was “objectively the greatest tinderbox-timebomb in financial history,” one where a single wildfire could burn the economy far worse than the Great Depression."
+    },
+    {
+      "id": 13,
+      "debut": 590.8,
+      "fin": 618.96,
+      "temps_estime": false,
+      "titre": "How zombie firms drain the wider economy",
+      "resume": "While alive, zombie firms tie up workers, office space, equipment and credit that healthier companies could use. Startups with useful products cannot get loans when banks are loaded with zombie debt, so innovation and wage growth slow. The whole economy moves in slow motion and people like Mark feel it.",
+      "mots_cles": [
+        "zombie companies",
+        "credit misallocation",
+        "slow growth",
+        "innovation slowdown",
+        "wage stagnation",
+        "bank lending",
+        "startups"
+      ],
+      "texte": "Zombie firms are notorious for doing more than just hurting shareholders when they finally collapse. While they’re alive, they act like a slow drain on the economy. They tie up workers, office space, equipment, and credit that could be flowing to healthier, growing companies instead. So when a scrappy startup with a genuinely useful product can’t get a loan because banks are already loaded up with zombie debt. Wheninnovation slows, or when wages stop rising, that’s when people like Mark start to feel it. The whole economy starts moving in slow motion."
+    },
+    {
+      "id": 14,
+      "debut": 618.96,
+      "fin": 701.04,
+      "temps_estime": false,
+      "titre": "Japan's lost decades: the 1989 bubble and its aftermath",
+      "resume": "In 1989 Japan was the envy of the world, with land under the Tokyo Emperor's palace valued above all California real estate. The bubble popped: the Nikkei fell almost 40% in a year and nearly two-thirds from its peak, and growth stopped. Japan's share of the world economy fell from 17.8% in 1995 to 3.6% in 2025, with delayed marriage, collapsing birthrates and hikikomori withdrawing from society.",
+      "mots_cles": [
+        "Japan 1989 bubble",
+        "Nikkei crash",
+        "lost decade",
+        "hikikomori",
+        "Tokyo real estate",
+        "economic stagnation",
+        "birthrate collapse",
+        "share of world economy"
+      ],
+      "texte": "America has always assumed it was immune to this kind of slow-motion decay. Other countries have too. Look no further than Japan, a country that once had a world-class economy, cutting-edge industry, and absolute confidence in its own exceptionalism. In 1989, Japan was the envy of the world. Its companies were buying up American landmarks, and its banks were the largest on Earth. Japanese land was worth more than anything, ever. At its peak, the land itself underneath the Emperor’s palace in central Tokyo was estimated to be worth more than every piece of real estate in the entire state of California combined. Then, it all popped. The Nikkei stock index started a steady skid downward, losing almost 40% of its value in a single year. It kept tanking for 2 more, eventually losing nearly two-thirds of its peak value. Businesses were failing at astonishing rates. Even though no single company collapsed overnight, by the end, the country with the second-largest economy on Earth simply stopped growing. An entire generation grew up not knowing what economic momentum even felt like. From 1995 to 2025, Japan's share of the entire world economy shrank from 17.8% to 3.6%. Japanese workers couldn’t afford homes. They delayed marriage. Birthrates soon collapsed, and many withdrew from society entirely. They coined a term for these people: Hikikomori. People so ground down by decades of economic stagnation they simply stopped playing the game."
+    },
+    {
+      "id": 15,
+      "debut": 701.04,
+      "fin": 724.32,
+      "temps_estime": false,
+      "titre": "Why the US may be in a worse position than Japan",
+      "resume": "The US thinks it is different from Japan but enters its critical phase with things Japan lacked at the start of its lost decade: debt around 100% of GDP, an interest bill growing faster than the economy, and about 2,000 zombie companies. The narration suggests the government may be about to discover its own zombie problem.",
+      "mots_cles": [
+        "US vs Japan",
+        "debt 100% of GDP",
+        "interest bill",
+        "2,000 zombie companies",
+        "lost decade",
+        "stagnation risk",
+        "comparison"
+      ],
+      "texte": "The United States thinks it’s different. But it’s entering a critical phase of its financial history with a few things Japan didn’t have at the start of its lost decade. A national debt already humming along at 100% of its GDP with an interest bill growing faster than the economy itself and 2,000 zombie companies hollowing out the workforce. And in Washington, the government might be about to discover it has a zombie problem of its own."
+    },
+    {
+      "id": 16,
+      "debut": 724.32,
+      "fin": 756.56,
+      "temps_estime": false,
+      "titre": "2030: Mark's brother-in-law says the world will keep buying US debt",
+      "resume": "By 2030 Mark sees rising grocery prices and a painful mortgage refinance quote. At a family barbecue his brother-in-law says the world uses American money so it will keep buying US debt. Mark wants to believe it but knows that deal is falling apart.",
+      "mots_cles": [
+        "2030 scenario",
+        "mortgage rates",
+        "grocery prices",
+        "foreign buyers of Treasuries",
+        "world uses dollars",
+        "Mark",
+        "confidence in US debt"
+      ],
+      "texte": "By 2030, Mark has started paying attention to the news in a way he never used to. He has to. Grocery prices keep jumping. The mortgage refinance quote he got was high enough to make his stomach turn. At a family barbecue in Columbus, he brings it up. His brother-in-law shrugs. “Doesn’t matter. We’re America. The whole world uses our money. They’ll keep buying our debt.” Mark wants to believe that. It’s comforting. The idea that no matter how bad things get, the rest of the world is contractually obligated, in some unspoken way, to keep bailing out the U.S. Deep down, he knows that deal is falling apart."
+    },
+    {
+      "id": 17,
+      "debut": 756.56,
+      "fin": 794.0,
+      "temps_estime": false,
+      "titre": "Dollar reserve currency and the exorbitant privilege",
+      "resume": "For 80 years the dollar's role as world reserve currency let America borrow huge amounts at low rates, because every country needed dollars for oil, trade and reserves and held them in Treasuries. Economists call this the exorbitant privilege, a phrase coined by a French finance minister. The narration says privileges can be revoked.",
+      "mots_cles": [
+        "reserve currency",
+        "exorbitant privilege",
+        "Treasury bonds safe asset",
+        "dollar dominance",
+        "oil trade",
+        "borrowing costs",
+        "French finance minister"
+      ],
+      "texte": "For 80 years, being the world's reserve currency was America's superpower. To buy oil, trade with each other, or keep one’s vaults as a safety net, every country on earth needed dollars. And the easiest way to hold onto dollars safely was to buy U.S. government debt. It was the deal of the century. America could borrow almost unlimited amounts of money, at incredibly low rates, because the entire planet needed somewhere to park its cash. U.S. Treasury bonds were considered the safest asset on Earth. Economists call this phenomenon the “exorbitant privilege,” a phrase coined decades ago by a French finance minister speaking out of pure jealousy. Everyone knows privileges can be revoked."
+    },
+    {
+      "id": 18,
+      "debut": 794.0,
+      "fin": 875.84,
+      "temps_estime": false,
+      "titre": "Central banks shift from Treasuries to gold",
+      "resume": "In October 2025 central banks' gold reserves became worth more than their US Treasury holdings for the first time since the late 1990s. Poland, India, Turkey and China are moving into gold, central banks bought over a thousand tons a year, and China cut its Treasuries from $1.3 trillion in 2013 to under $700 billion. The 2022 freeze of Russia's central bank assets taught the world the dollar can be cut off, so the exit is slow but accelerating.",
+      "mots_cles": [
+        "central bank gold buying",
+        "gold vs Treasuries",
+        "October 2025",
+        "China Treasury holdings",
+        "Russia sanctions freeze",
+        "de-dollarization",
+        "sanctions risk",
+        "Poland India Turkey"
+      ],
+      "texte": "In October 2025, something happened that had not happened in about 30 years. For the first time since the late 1990s, the physical gold reserves sitting in the world’s central banks became worth more than all the U.S. Treasury bonds they were holding combined. This is the central point for these central banks: It did not take long for them to start trusting their own gold bars rather than the portions of the U.S. government debt they held. Poland, India, Turkey, China, and dozens of others have started to move their money out of American IOUs and into something the U.S. can’t print, freeze, or sanction. In the last few years alone, central banks bought more than a thousand tons of gold per year, year-over-year. China has slashed its U.S. Treasury holdings from a peak of $1.3 trillion in 2013 down to under $700 billion, the lowest share it’s held since 2001. Why? Because in 2022, when the U.S. and its allies froze hundreds of billions of dollars belonging to Russia’s central bank overnight. The rest of the world got the message loud and clear. If you make America angry, you can lose access to your own money, no questions asked, no warning given. So, the slow exit began. Emphasis on slow, since you can’t just dump trillions of dollars in U.S. debt overnight without crashing the value of what you’re holding. It’s more like watching water find its way out of a cracked dam. It’s slow and methodical until it isn’t, all at once."
+    },
+    {
+      "id": 19,
+      "debut": 875.84,
+      "fin": 946.88,
+      "temps_estime": false,
+      "titre": "Fewer foreign buyers: the Fed buys debt and rates feed a spiral",
+      "resume": "The government borrows about $2 trillion a year, and as foreign buyers retreat someone else must fill the gap. After trying to shrink its balance sheet, the Fed reversed course at the end of 2025 and resumed buying Treasuries, effectively printing money. A shrinking buyer pool forces higher rates, bigger interest bills, more borrowing and a self-feeding problem, which Mark feels as a higher mortgage rate.",
+      "mots_cles": [
+        "foreign demand for Treasuries",
+        "Federal Reserve buying debt",
+        "money printing",
+        "higher interest rates",
+        "debt spiral",
+        "$2 trillion annual borrowing",
+        "mortgage rates",
+        "quantitative easing"
+      ],
+      "texte": "Here’s what it means for Mark. The U.S. government needs to borrow roughly $2 trillion every single year just to cover the gap between what it spends and what it collects. For decades, foreign buyers were a massive, reliable chunk of the customers showing up to buy that debt. Now, as they choose to buy less while demanding more in return, someone else has to step in and fill the gap. That someone is America. For a few years, the Federal Reserve actually tried to do the opposite. It pulled back from the bond market, hoping the rest of the world and domestic investors could absorb the difference. By the end of 2025, the number didn’t add up. The Fed announced it had to reverse course entirely and start buying U.S. debt again, essentially printing new money to cover what foreign buyers would not. When the buyer pool shrinks and the amount of debt for sale keeps growing, there’s only one way to attract the buyers who are left: Pay them more. Higher rates mean the government has to spend more money just paying interest. To cover that bigger bill, it borrows even more. And the more it borrows, the more lenders start asking to be paid for the risk. Before long, the problem starts feeding itself. Mark doesn't know any of that. He just knows his mortgage rate is higher than anything his parents ever dealt with. And he's starting to think his brother-in-law's explanation wasn't much of an explanation at all."
+    },
+    {
+      "id": 20,
+      "debut": 946.88,
+      "fin": 1016.8,
+      "temps_estime": false,
+      "titre": "2033: Social Security trust fund runs dry with a 22% cut",
+      "resume": "In 2033 Mark, now 44, worries about retirement as the Social Security trust fund nears exhaustion, with the trustees' projection at insolvency by 2032. The law does not allow printing extra checks, so benefits would be cut 22% across the board, about $500 less a month for the average retiree.",
+      "mots_cles": [
+        "Social Security insolvency",
+        "trust fund depletion",
+        "2032",
+        "22% benefit cut",
+        "$500 less per month",
+        "retirement",
+        "trustees report"
+      ],
+      "texte": "But the scary part isn't the debt. It's what happens when the debt starts changing everyone else's behavior. It’s 2033. Mark is 44 now. His kids are in middle school, and he’s started doing the things people in their 40s do.. checking retirement calculators, wondering if he’s behind, wondering whether Social Security will still be around when he needs it. For most of his life, that question felt almost ridiculous. Of course it would be there. It had always been there. His grandparents got checks. His parents got checks. Social Security was just part of the furniture. It was one of those government programs that worked in the background. Then his phone starts blowing up. The Social Security trust fund which has been topping up monthly checks for retirees for decades is running dry. Imminently. The trustees who manage the program have moved up the date so many times it's started to feel like a countdown clock that only ever ticks one direction. The latest projection today is insolvency by 2032. When that actually happens, the law doesn't allow the government to just print extra checks to cover the gap. The payments will automatically shrink with a 22% across-the-board cut, to everyone. Overnight. For the average retiree, that's about $500 less every single month, forever, unless something changes."
+    },
+    {
+      "id": 21,
+      "debut": 1016.8,
+      "fin": 1069.84,
+      "temps_estime": false,
+      "titre": "The fiscal event horizon: deficit becomes the whole budget",
+      "resume": "By 2033 the deficit bill becomes the entire budget, meaning everything from the military and NASA to the FBI, parks and air traffic control must be funded by borrowing. Economists call this the fiscal event horizon. The government must run deficits just to cover non-negotiable basics, not for stimulus or crisis response.",
+      "mots_cles": [
+        "fiscal event horizon",
+        "2033",
+        "deficit",
+        "federal budget",
+        "borrowing for basics",
+        "interest and entitlements",
+        "government services"
+      ],
+      "texte": "There’s another turning point in 2033, one far beyond the confines of Social Security. For decades the federal government collected tax revenue and used it to pay for everything its citizens needed. There was always a gap between revenue and spending. That’s the deficit. But that gap was manageable, a bill you could put on the credit card and chip away at. By 2033, that bill becomes the entire budget. There’s nothing left, not a penny. Everything you need to fund the military, NASA, the FBI, national parks, food safety inspections, air traffic control, and disaster relief has to come from somewhere else entirely. And that somewhere else… is borrowing. It’s the moment economists call the fiscal event horizon. Before, the government could borrow for things like stimulus, upgrades or crisis response. But this is different. Now it has to run a deficit just to keep the basics going, the non-negotiable stuff that holds the country together."
+    },
+    {
+      "id": 22,
+      "debut": 1069.84,
+      "fin": 1102.96,
+      "temps_estime": false,
+      "titre": "Two options: cut benefits or print money",
+      "resume": "With no good options, the choice is to slash Social Security and Medicare beyond the 22% cut, a political death knell, or to have the Federal Reserve buy the debt the world will not, creating new dollars. Printing needs no painful vote, but its pain eventually hits everyone at once. The narration says the government is about to choose printing.",
+      "mots_cles": [
+        "benefit cuts",
+        "money printing",
+        "Federal Reserve monetization",
+        "political choice",
+        "Social Security cuts",
+        "Medicare",
+        "inflation risk"
+      ],
+      "texte": "After that, there’s a choice to be made with no good options. Either you slash Social Security and Medicare further, well past the 22% cut that’s already coming. Which is a political death knell. No politician survives being the one who cut Grandma’s check on purpose. Option two is to print more money. Have the Federal Reserve buy up the debt the rest of the world won't, creating new dollars out of thin air to cover the gap. This doesn't require anyone to vote for anything painful. But the pain eventually shows up for everyone, all at once. Mark doesn’t know it yet, but his government is about to choose option two."
+    },
+    {
+      "id": 23,
+      "debut": 1102.96,
+      "fin": 1147.68,
+      "temps_estime": false,
+      "titre": "Why the United States cannot go bankrupt",
+      "resume": "Mark used to think the options were endless borrowing or bankruptcy, but the US cannot go bankrupt. Individuals borrow in a currency they do not control, while the US government borrows in dollars and is the only entity allowed to create them. It is described as the house that owns the printing press the casino runs on.",
+      "mots_cles": [
+        "US cannot go bankrupt",
+        "dollar printing",
+        "sovereign currency",
+        "borrowing in own currency",
+        "bankruptcy",
+        "monetary sovereignty",
+        "government debt"
+      ],
+      "texte": "Mark used to think there were only two endings to this story. Either the government just keeps borrowing forever and everything somehow keeps running. Or, one day the bill comes due, the money runs out, and the United States declares bankruptcy. Neither of these things happen. People can go bankrupt. Companies can go bankrupt. The United States cannot go bankrupt. Why? Because when people borrow money, we borrow in a currency we don't control. For example, if you take out a loan in dollars, you have to go earn dollars to pay it back. And if you can't, the bank takes your stuff. But the U.S. government borrows in dollars. And the U.S. government is the only entity on Earth legally allowed to create more dollars. It is, quite literally, the house that owns the printing press the casino runs on."
+    },
+    {
+      "id": 24,
+      "debut": 1147.68,
+      "fin": 1203.92,
+      "temps_estime": false,
+      "titre": "Creating money as the escape hatch: default by inflation",
+      "resume": "The Federal Reserve can create money to pay the enormous bill due by 2034, but more money does not create more goods, so more dollars chase the same supply and each buys less. The narration says this is America's real default: every bill is paid in full, but the dollars buy less, with no press conference.",
+      "mots_cles": [
+        "inflation",
+        "Federal Reserve",
+        "money creation",
+        "default by inflation",
+        "purchasing power",
+        "2034",
+        "more dollars same goods"
+      ],
+      "texte": "So when the bill comes due - and by 2034, that bill will be absolutely enormous - the Federal Reserve has an escape-hatch option no ordinary borrower has. It can simply create the money to pay for it. Creating more money doesn’t create more real things. It doesn’t build extra houses, produce more cars, or put additional groceries on the shelves. The actual supply of goods and services stays the same. What changes is the number of dollars trying to buy them. And when more dollars are chasing the same amount of things, each dollar buys a little less. Prices adjust. Slowly at first, then all at once in ways people notice in everyday life. This is the default. It just doesn’t look like one yet. When America actually defaults, there won’t be any press conferences announcing what just happened. The government will still pay every bill, on time, in full, exactly as promised. Grandma will still get her social security check. And the dollar amounts will be correct, right down to the cent. Those dollars just don’t buy what they used to."
+    },
+    {
+      "id": 25,
+      "debut": 1203.92,
+      "fin": 1262.88,
+      "temps_estime": false,
+      "titre": "Inflation 2020-2025 and the debt 'inflated away'",
+      "resume": "Between 2020 and 2025 prices rose about 25%, so Mark's $10,000 in savings bought only what about $7,500 used to. At larger scale this is what economists mean by debt being inflated away: bondholders and savers are repaid in full nominally while retirement accounts lag behind prices. It is described as a tax nobody signed up for, the only one that collects itself.",
+      "mots_cles": [
+        "inflation 2020-2025",
+        "purchasing power",
+        "$10,000 savings",
+        "inflated away",
+        "inflation tax",
+        "retirement accounts",
+        "savings erosion"
+      ],
+      "texte": "This already happened to Mark once, and he barely noticed it at the time. Between 2020 and 2025, prices in America rose by roughly 25%, more than double the rate of the 5 years before that. If you took the $10,000 Mark had sitting in a savings account in early 2020, you’d know he didn't spend a dime of it. He just left it there, the way you're supposed to. But by 2025, that same $10,000 could only buy what about $7,500 used to buy. $2,500 dollars worth of value, shaved clean off the top in the span of just 5 years. You can imagine that process at a much larger scale. It’s the only tool left in 2034 that doesn’t require a single politician to vote for anything painful. It’s exactly what economists mean when they talk about the debt getting “inflated away.” The government will still pay you back in full, but the dollars you earned for your retirement account will not grow faster than prices rise. It’s a form of tax, but not one you signed up for. It’s the only tax in American history that collects itself."
+    },
+    {
+      "id": 26,
+      "debut": 1262.88,
+      "fin": 1287.04,
+      "temps_estime": false,
+      "titre": "2038: Mark's daughter cannot afford a home or a future",
+      "resume": "In 2038 Mark's grown daughter lives at home after college because rent eats over half an entry-level paycheck and home buying feels like something inherited, not earned. She has been with her boyfriend for six years with no engagement or wedding plans.",
+      "mots_cles": [
+        "2038 scenario",
+        "housing affordability",
+        "rent burden",
+        "young adults living at home",
+        "delayed marriage",
+        "Millennials",
+        "Mark's daughter"
+      ],
+      "texte": "It’s 2038, and Mark is approaching 50. His kids are grown. His daughter finished college four years ago, and she’s still living at home. Not because she isn’t trying. Rent in any city with decent jobs eats more than half of an entry level paycheck. Buying a home feels like something from another era. It’s something people inherit, not earn. She’s been with her boyfriend for 6 years, but there’s no engagement, no wedding plans. Mark stopped asking a while ago."
+    },
+    {
+      "id": 27,
+      "debut": 1287.04,
+      "fin": 1357.52,
+      "temps_estime": false,
+      "titre": "Japanification: the 1990s Japanese generation as a case study",
+      "resume": "Mark's story is described as Japan's story 30 years later, in which young people did everything right but the economy had no room for them. By 2020, 27% of Japanese women reached age 50 without children, and Japan's population is projected to fall from 125 million to about 87 million by 2070. Economists call this Japanification, the loss of long-term stability after decades of stagnant growth.",
+      "mots_cles": [
+        "Japanification",
+        "Japan birthrate",
+        "27% childless women",
+        "Japan population decline",
+        "hikikomori",
+        "economic stagnation",
+        "young generation",
+        "2070 projection"
+      ],
+      "texte": "Mark doesn’t know it, but the story he’s living is the story of Japan, 30 years later, with an American accent. In Tokyo in the 1990s, a generation of young people did everything they were told to do. They got educated, they showed up, they looked for stable jobs. They tried to build the same kind of life their parents had. Instead, they ran into something they couldn’t really see coming. An economy that had stopped making room for them. Moving back in with their parents indefinitely was a form of economic and social adaptation. Delaying marriage was a hallmark of demographic evolution. There was just never enough money to get around to it. By 2020, 27% of Japanese women reached age 50 without ever having had a child. It was the highest rate among developed countries, and more than double what it was just fifteen years earlier. Multiply that pattern across an entire population, for an entire generation, and it becomes its own kind of crisis. If nothing changes, Japan's population is projected to shrink from 125 million people to around 87 million by 2070. Spiraling birth rates. Hikikomori are withdrawing from society altogether. This is what economists mean when they talk about “Japanification.” It’s what happens when countries with decades of stagnant growth lose their long-term stability."
+    },
+    {
+      "id": 28,
+      "debut": 1357.52,
+      "fin": 1392.4,
+      "temps_estime": false,
+      "titre": "The American Dream deferred",
+      "resume": "By 2038 Mark's daughter has stopped fighting it and waits for rent to become affordable and wages to catch up. She is living inside a case study while the gap between the promised life and the real one widens, and the American Dream deferred long enough looks the same as dead.",
+      "mots_cles": [
+        "American Dream",
+        "deferred dream",
+        "wages",
+        "affordability",
+        "generational gap",
+        "resignation",
+        "economic stagnation"
+      ],
+      "texte": "By 2038, Mark’s daughter isn’t fighting it anymore. What’s the point of organizing or protesting in the streets for change? She’ll just continue to wait for rent to become affordable again, for wages to catch up. For some version of the future her father had. She doesn’t know she’s living inside a case study. The only thing she knows is that every year, the gap between the life she was promised and the life she's living gets a little wider. And nobody in charge seems to be in a hurry to close it. From her point of view, the American Dream hasn’t died, but it does feel deferred. And when you defer something long enough, it starts to look exactly the same as dead."
+    },
+    {
+      "id": 29,
+      "debut": 1392.4,
+      "fin": 1422.96,
+      "temps_estime": false,
+      "titre": "Back to today: the outcome is avoidable but the fixes are unpopular",
+      "resume": "The narration rewinds to the present, where the interest bill has not yet passed the military budget and the fiscal event horizon is only a forecast. Every scenario is still avoidable because it is a trajectory, not fate. The fixes are not secret or complicated but brutally unpopular.",
+      "mots_cles": [
+        "avoidable trajectory",
+        "fiscal reform",
+        "political will",
+        "unpopular fixes",
+        "fiscal event horizon",
+        "forecast",
+        "solutions"
+      ],
+      "texte": "Now stop the clock. Rewind everything. Go back to today. The interest bill hasn’t surpassed the military budget. The fiscal event horizon is still just an ominous forecast of dark clouds on your local news station. The truth is that every single thing we mentioned is still technically avoidable. It isn’t fate, it’s a trajectory. And those can be changed by people willing to grab ahold of the wheel. But the word “willing” is doing an awful lot in that sentence. The fixes aren’t secret or complicated. They’re just brutally unpopular."
+    },
+    {
+      "id": 30,
+      "debut": 1422.96,
+      "fin": 1452.8,
+      "temps_estime": false,
+      "titre": "Fixes for the deficit: retirement age, means-testing, benefit formulas",
+      "resume": "Fixing the problem means closing the gap between spending and revenue before the 2032 Social Security cliff, not after. Options include raising the retirement age as lifespans increase, means-testing benefits so wealthy retirees get less, and reworking how benefits are calculated. None is painless, but they try to make the math work before time does it for us.",
+      "mots_cles": [
+        "Social Security reform",
+        "retirement age",
+        "means-testing",
+        "benefit calculation",
+        "deficit reduction",
+        "2032 cliff",
+        "entitlement reform"
+      ],
+      "texte": "Fixing this mess means closing the gap between what the government spends and what it collects years before the 2032 Social Security cliff, not after. That means choices most people don’t want to talk about. Raising the retirement age as lifespans increase. Means-testing benefits so the wealthiest retirees get less. Reworking how benefits are calculated so the system holds together long-term instead of being patched year to year. None of it is painless. All of it is just trying to make the math work again before time does it for us."
+    },
+    {
+      "id": 31,
+      "debut": 1452.8,
+      "fin": 1485.2,
+      "temps_estime": false,
+      "titre": "Letting zombie firms fail and paying the past 30 years' bill",
+      "resume": "Reform also means dealing with zombie firms by letting unviable companies fail rather than propping them up with cheap credit, which frees capital and workers for businesses building the future. It requires an honest conversation that the bill for the past 30 years must be paid by someone, and delay shifts it onto people like Mark. The job is thankless because benefits go to future generations while blame falls on whoever casts the hard votes.",
+      "mots_cles": [
+        "zombie firms",
+        "letting companies fail",
+        "cheap credit",
+        "capital allocation",
+        "intergenerational burden",
+        "hard votes",
+        "fiscal responsibility"
+      ],
+      "texte": "It also means dealing with the zombie problem head-on. Letting genuinely unviable companies fail instead of propping them up with cheap credit. That would free up capital and workers for the businesses that are actually building the future. And it means, eventually, an honest conversation nobody in Washington wants to have. The bill for the past 30 years has to be paid by someone. The longer it’s delayed, the more it falls on people like Mark, and you, and me. It is, in the most literal sense, a thankless job. The benefits will accrue to future generations, but the blame goes to whoever's in the room when the hard votes happen."
+    },
+    {
+      "id": 32,
+      "debut": 1485.2,
+      "fin": 1529.3,
+      "temps_estime": false,
+      "titre": "Conclusion: the real crisis is incentives, plus next-video teaser",
+      "resume": "The real crisis is not the debt itself but a system in which everyone sees the problem and agrees it is real, yet no one with the power to fix it has an incentive to act before the damage lands. Interest compounds on interest and promises on promises until the bill arrives, and Mark inherited a system he did not build. The video closes by pointing to another video about housing, jobs and retirement accounts, titled The American Dream Is Dead, Millennials Are OBLITERATED.",
+      "mots_cles": [
+        "political incentives",
+        "debt crisis",
+        "compounding interest",
+        "intergenerational inheritance",
+        "conclusion",
+        "American Dream Is Dead",
+        "next video",
+        "Millennials"
+      ],
+      "texte": "That’s the real crisis if America can’t start getting its debt under control. It isn’t the debt itself. The crisis is a system where everyone can see the problem, everyone agrees it’s real, and yet no one in a position to fix it has any real incentive to act before the damage lands. Until then, it’ll continue the same way it has for the past 30 years. Interest compounding on interest. Promises compounding on promises. Until one day, the bill arrives at a door near you. People like Mark didn’t build this system. They just inherited it. The question is whether his kids will too. If this broke your brain a little, wait until you see what’s happening to the housing market. Or the job market. Or your retirement account. Watch The American Dream Is Dead. Millennials Are OBLITERATED to see how it all connects. Or click on this video."
+    }
+  ]
+}
