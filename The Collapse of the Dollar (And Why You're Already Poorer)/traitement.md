@@ -20,10 +20,13 @@ Le speech est en réalité un enchaînement de plusieurs sujets (fabrication de 
 - Tranche 3 : lignes 1737 à 2727, 3499,04 à 5446,88 s (32,4 min), 44 segments (id 87 à 130). Sujets : scénario heure par heure « et si le dollar s'effondrait en une nuit » (1737-2240), hyperinflation et scénarios d'effondrement du dollar (2241-2415), chute du dollar face à l'euro en 2025 : droits de douane, dégradation Moody's, dette, indépendance de la Fed (2416-2727). Coupure à la ligne 2727 (fin de l'idée sur l'indépendance de la Fed) ; la ligne 2728 (« replaced the British sterling... ») commence l'historique de la monnaie de réserve.
   Remarques : les lignes 2241 et 2416 commencent par la fin d'une phrase du sujet précédent (« regains its value. », « for now. Something major is happening in »), rattachées au segment suivant par coupure à la fin de ligne. Noms mal transcrits : un stratège d'ING (nom illisible) laissé anonyme dans le résumé.
 
+- Tranche 4 : lignes 2728 à 3555, 5446,88 à 7149,6 s (28,4 min), 35 segments (id 131 à 165). Sujets : suite de la vidéo sur la chute du dollar face à l'euro, effets d'un dollar faible, sondages d'opinion (2728-2930), vidéo sur Bretton Woods et ce qui se passerait si le dollar perdait son statut de monnaie de réserve (2931-3524), puis début d'une vidéo sur le coût d'utilisation des armes militaires (3525-3555). Coupure à la ligne 3555 (fin de l'introduction sur les armes à feu) ; la ligne 3556 commence l'exemple du M16.
+  Remarques : la ligne 3525 mélange la fin de la vidéo précédente (« dollar status over time. ») et le début de la suivante (« If you're a regular watcher... ») : coupure à la fin de ligne, le segment 164 contient donc quelques mots de la vidéo suivante. Noms mal transcrits dans le speech (Roland Burger/Burer pour Roland Berger, Giscard d'Estaing, Xiinping) ; la mention « $2.7 billion » d'importations chinoises (probablement des milliers de milliards) est conservée dans le texte et signalée dans le résumé.
+
 ## Passages douteux
 - Ligne 1446 : commence par « right now, not a fact. », fin de la phrase du sujet précédent, rattachée au segment 73 par coupure à la fin de ligne.
 - Ligne 548-550 : « 2,17% » et « 2580% » pour la hausse des frais de scolarité (transcription automatique).
 - Lignes 277-278 : « Wait, no, that's a mistake. Negative $22,000 » : propos de l'orateur, conservé.
 
 ## Point d'arrêt
-Dernière ligne traitée : 2727 sur 6916 (5446,88 s). Prochaine étape : tranche 4 à partir de la ligne 2728 (historique de la monnaie de réserve : dollar remplaçant la livre sterling).
+Dernière ligne traitée : 3555 sur 6916 (7149,6 s). Prochaine étape : tranche 5 à partir de la ligne 3556 (coût d'utilisation des armes militaires : M16/M4, mitrailleuse M2, grenades, artillerie).

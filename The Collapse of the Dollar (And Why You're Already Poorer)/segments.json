@@ -4,12 +4,12 @@
   "titre_video": "The Collapse of the Dollar (And Why You're Already Poorer)",
   "duree_s": 13885.44,
   "avancement": {
-    "lignes_traitees": 2727,
-    "fin_traitee_s": 5446.88,
+    "lignes_traitees": 3555,
+    "fin_traitee_s": 7149.6,
     "nb_lignes_total": 6916,
     "complet": false
   },
-  "nb_segments": 130,
+  "nb_segments": 165,
   "segments": [
     {
       "id": 1,
@@ -2347,6 +2347,622 @@
         "reserve currency risk"
       ],
       "texte": "investment from the US dollar has not been helped by the US administration statements against the Federal Reserve. The president has frequently and publicly pressured Jerome Powell, the chairman of the Federal Reserve, to resign while also criticizing his character. Though this might seem like a run-of-the-mill political [music] bickering, the independence of the Federal Reserve's chairman and the independence of central banks in general is really important to investors view of a country's stability. The reason the Federal Reserve was made independent [music] from the political administration is so that the bank could be run by seasoned economists and investors and it should operate without pressure from the political trends and without being beholden to each new administration's political goals. Susanna Strereer, the head of money and markets at Hargreaves Landsdown, a financial services company, said the independence of central banks is seen as critical [music] to ensure long-term price stability. Ring fencing policy makers from short-term political pressures. Even if Powell is not removed as chairman, Alliance GI senior portfolio manager Ranjie Man said that investors [music] seeing the Fed as increasingly more politicized will shake confidence in US economic policy anyway. [music] This in turn would further devalue the dollar and if things don't change in the very long-term future risk its status as the world's reserve currency. The dollar"
+    },
+    {
+      "id": 131,
+      "debut": 5446.88,
+      "fin": 5477.76,
+      "temps_estime": false,
+      "titre": "How the dollar replaced sterling and what reserve status means",
+      "resume": "The dollar replaced the British pound as the world's reserve currency under the 1944 Bretton Woods agreement because two world wars had decimated the UK and Europe, while the US fought on foreign soil and its economy gained from weapons manufacturing. Being the reserve currency means central banks hold large dollar reserves for international transactions, and half of world trade is invoiced in dollars.",
+      "mots_cles": [
+        "Bretton Woods 1944",
+        "British sterling replaced",
+        "reserve currency meaning",
+        "central bank reserves",
+        "trade invoicing",
+        "World War II economy",
+        "weapons manufacturing"
+      ],
+      "texte": "replaced the British sterling as the world's reserve currency in the Brettonwoods agreement of 1944 since two world wars had decimated the UK economy and most of Europe. The US had the good fortune to be fighting World War II on not its land, meaning the war provided more of a boost to its economy [music] through weapons manufacturing and related industries. In simple terms, being the world's reserve currency means that central banks around the world hold large reserves of US dollars and use them in international transactions. Half of world trade invoices are done in US"
+    },
+    {
+      "id": 132,
+      "debut": 5477.76,
+      "fin": 5513.76,
+      "temps_estime": false,
+      "titre": "Dollar as go-between currency; post-1971 backing by trust",
+      "resume": "Countries often use the dollar as a go-between, for example Japan converting yen to dollars to pay Argentina, which converts dollars to pesos. After Nixon ended the gold standard in 1971, the dollar has been backed by US government credit and faith in a stable superpower, and that global trust is fading.",
+      "mots_cles": [
+        "go-between currency",
+        "Japan Argentina example",
+        "Nixon 1971",
+        "end of gold standard",
+        "faith in the US",
+        "fiat dollar",
+        "global trust"
+      ],
+      "texte": "dollars. In many cases, when foreign countries [music] want to trade with each other, they use dollars as a kind of gobetween currency. Let's say Japan wants to trade with Argentina. The Japanese will convert [music] their yen to dollars, which they'll use to pay for the products from Argentina. The Argentinians will then convert those dollars back [music] to Argentinian pesos. While the dollar was originally backed by gold, in 1971, President Nixon did away with the gold standard, which [music] means that since then, the dollar has been backed by US government credit and faith in the US continuing to be a politically stable economic superpower [music] and global trust in both things is fading fast. Ipsos"
+    },
+    {
+      "id": 133,
+      "debut": 5513.76,
+      "fin": 5569.76,
+      "temps_estime": false,
+      "titre": "Polls show falling global opinion of the US",
+      "resume": "An Ipsos poll of 29 countries in April 2025 found 26 were less likely to expect a positive US influence, and for the first time in a decade China was seen as more positive (49%) than the US (46%). The 2025 Democracy Perception Index, surveying 110,000 people in 100 countries, agreed, with the biggest US reputation hit in the Eurozone.",
+      "mots_cles": [
+        "Ipsos poll",
+        "29 countries",
+        "China vs US influence",
+        "49% vs 46%",
+        "Democracy Perception Index 2025",
+        "US reputation",
+        "Eurozone investors"
+      ],
+      "texte": "conducted a poll in 29 countries in April 2025 and found some concerning trends when it comes to international opinions of the US. 26 out of 29 countries surveyed were less likely to say that the US will have an overall positive influence on the world. In fact, international opinion of the US is so low that it is the first time in a decade [music] of this poll being conducted that China is seen as a more positive influence worldwide than the US. 49% of people surveyed said China will [music] have a positive effect on world affairs, while only 46% of people said the same about the US. But that's just one poll, right? Well, the 2025 democracy perception index agreed with those findings [music] after surveying 110,000 people in 100 different countries. The hit to the US international reputation was most pronounced in the Euro zone. Perhaps explaining [music] why so many European investors have decided to take their money elsewhere, back [music] to Europe."
+    },
+    {
+      "id": 134,
+      "debut": 5569.76,
+      "fin": 5588.96,
+      "temps_estime": false,
+      "titre": "Americans no longer see the US as the top economy",
+      "resume": "A March 2025 Gallup poll found 56% of Americans believe the US has the world's number one military, but only 26% think it has the number one economy.",
+      "mots_cles": [
+        "Gallup poll March 2025",
+        "56% military",
+        "26% economy",
+        "American perception",
+        "economic superpower",
+        "public opinion"
+      ],
+      "texte": "Even more troublingly, Americans themselves don't seem to think of their country as the world's economic superpower anymore. According to a March 2025 Galllet poll, 56% of Americans believe that the US had the number one military in the world. But 26% of Americans believe [music] the US had the world's number one economy. Now, the"
+    },
+    {
+      "id": 135,
+      "debut": 5588.96,
+      "fin": 5629.04,
+      "temps_estime": false,
+      "titre": "No obvious replacement for the dollar yet: yuan and euro",
+      "resume": "Despite global souring on the US, no candidate is ready to take over as reserve currency soon. An ideal one needs a big, stable, prosperous economy and free circulation; China limits the yuan's use, and the euro, used by 341 million people in 20 countries, still lacks the dollar's international trust.",
+      "mots_cles": [
+        "reserve currency candidates",
+        "yuan restrictions",
+        "euro 341 million people",
+        "no alternative",
+        "international trust",
+        "stable economy"
+      ],
+      "texte": "good news is despite the countries of the world souring on the US all at once, there's no obvious candidate to take over as a global reserve currency anytime soon. The ideal currency would have to be used by a pretty big economic power, be able to be circulated and printed relatively freely, [music] and belong to a very stable and prosperous economy. China's leadership has made it clear that the yuan will not become such a currency, as they impose strict limits on its usage. The euro would be the other obvious candidate, [music] as it's used by 341 million people in 20 mostly stable, [music] well-off countries as of 2024. But it still has a long way to go to gain the international trust the dollar has commanded. Long-term worries"
+    },
+    {
+      "id": 136,
+      "debut": 5629.04,
+      "fin": 5661.04,
+      "temps_estime": false,
+      "titre": "Weaker dollar: travel and tourism effects",
+      "resume": "A weaker dollar affects spending abroad: US travelers' budgets go less far, while Europeans find the US a cheaper destination thanks to the strong euro and tourism to the US could rise. The narrator then says the dollar's value also affects things in everyday life.",
+      "mots_cles": [
+        "weak dollar travel",
+        "tourism",
+        "euro vs dollar",
+        "travel budget",
+        "spending abroad",
+        "exchange rate effects"
+      ],
+      "texte": "aside, what does a weaker dollar mean for Americans and the world at large today? The first thing it affects [music] is Americans ability to spend money abroad and vice versa. US residents traveling abroad this year might find their travel budget doesn't take them as far as usual. On the other hand, tourism to [music] the United States could increase. Europeans traveling abroad might find it to be a cheaper destination than in most other years thanks to the usual strength of the euro as compared to the dollar. But surely this won't [music] impact you. You're more of a station type of person. Well, the value of the US dollar"
+    },
+    {
+      "id": 137,
+      "debut": 5661.04,
+      "fin": 5691.12,
+      "temps_estime": false,
+      "titre": "Weaker dollar boosts US exports and manufacturing",
+      "resume": "If the dollar stays low, especially against the euro, US exports become cheaper for the rest of the world, which could give manufacturing an uptick and support the administration's promise to bolster the sector.",
+      "mots_cles": [
+        "cheaper US exports",
+        "manufacturing boost",
+        "weak dollar benefits",
+        "euro",
+        "administration promise",
+        "export competitiveness"
+      ],
+      "texte": "actually affects a lot of other things in your life that you may not be aware of. And let's start with some positives. A fall in the US dollar could actually end up delivering on one of the US administration's [music] promises to bolster the manufacturing sector. If the dollar loses value compared to other currencies [music] and stays lowvalued for a while, especially against the euro, US exports will become cheaper for the rest of the world. That means that other countries are more likely to buy US-made goods and manufacturing could see an uptick because of that. However,"
+    },
+    {
+      "id": 138,
+      "debut": 5691.12,
+      "fin": 5756.48,
+      "temps_estime": false,
+      "titre": "Weaker dollar raises import costs, especially EU goods",
+      "resume": "Imports cost more as the dollar falls: in 2024 the US imported $65.8 billion of goods from the EU out of $3.36 trillion, and domestic manufacturing takes time to build. About 120 billion euros of EU imports are medicinal and pharmaceutical products, 160 billion machinery and vehicles, and 45 billion electrical equipment, so consumers pay more.",
+      "mots_cles": [
+        "import costs",
+        "EU imports",
+        "$65.8 billion",
+        "pharmaceutical imports",
+        "machinery and vehicles",
+        "consumer prices",
+        "weak dollar"
+      ],
+      "texte": "if you live in the US and you want to buy goods from the rest of the world, well, that might become a bit of a problem. The value of imports [music] increases as the value of the dollar decreases against other currencies. In 2024, the US imported $65.8 billion of goods from the [music] European Union out of 3.36 trillion total in imports. That's about 18% of the total goods imported from the EU. Meaning a high-value euro is going to hurt a significant chunk of trade. Now, it is possible that US-made goods could [music] make up a portion of that trade, but building up manufacturing and production systems to create new domestic goods takes time. [music] So, it won't happen overnight. Not to mention, a lot of the products imported from the EU are very crucial. Almost€120 billion euros of EU imports [music] to the US are medicinal and pharmaceutical products. Another 160 billion are machinery [music] and vehicles and 45 12 billion in electronic and electrical equipment. All of those sectors will be affected with the average US consumer paying a much higher price for the goods in question. And those are just the"
+    },
+    {
+      "id": 139,
+      "debut": 5756.48,
+      "fin": 5795.28,
+      "temps_estime": false,
+      "titre": "US multinationals benefit from a weak dollar",
+      "resume": "US multinationals such as McDonald's, which earn heavily abroad, see higher dollar-converted earnings, benefiting shareholders short term. Procter & Gamble, competing with Nestle and Unilever, can price cheaper abroad and convert stronger euro sales into more dollars.",
+      "mots_cles": [
+        "US multinationals",
+        "McDonald's",
+        "Procter & Gamble",
+        "Nestle Unilever",
+        "foreign earnings",
+        "currency conversion",
+        "shareholders"
+      ],
+      "texte": "direct effects of the dollar's devaluation. Another upside exists, but mostly for US multinationals. [music] Companies like McDonald's that make a huge chunk of their money abroad and then convert it back into US dollars. They would see higher earnings benefiting investors and shareholders in the short term. Select US-based [music] multinational companies competing with firms outside of the US. Companies like Proctor and Gamble, whose biggest competitors are European-based Nestle and Unilver, benefit greatly from a weak dollar. It allows their products to sell for comparatively cheaper prices around [music] the world while they get to convert the stronger euro from European sales into way more dollars than before."
+    },
+    {
+      "id": 140,
+      "debut": 5795.28,
+      "fin": 5831.2,
+      "temps_estime": false,
+      "titre": "Energy priced in dollars: cheaper for others, worse for the US",
+      "resume": "Oil and gas are priced in dollars, so a weaker dollar makes energy significantly cheaper for countries using other currencies, about 9% cheaper for the EU at the time. These benefits depend on the extent and duration of the devaluation, and a continued slide would be mostly bad news for the US.",
+      "mots_cles": [
+        "oil priced in dollars",
+        "energy prices",
+        "EU 9% cheaper",
+        "weak dollar",
+        "commodity pricing",
+        "dollar devaluation"
+      ],
+      "texte": "One interesting commodity that will be highly affected in a net positive way for the rest of the world but negatively for the US is energy. Oil and gas are generally priced in US dollars in international markets. A decrease in the value of the dollar means countries that use other currencies to buy oil and gas will get [music] it for significantly cheaper. In the case of the EU, for example, it's about 9% cheaper than usual at the moment. But even these benefits are subject to the extent [music] and duration of the dollar's devaluation. Short-term is one thing. If the dollar continues to slide, it'll be mostly bad news for everyone in the US."
+    },
+    {
+      "id": 141,
+      "debut": 5831.2,
+      "fin": 5865.12,
+      "temps_estime": false,
+      "titre": "Structural unreliability, Moody's downgrade and higher interest rates",
+      "resume": "Economist Greg Meyer says if US institutions have become structurally less reliable, capital will move elsewhere and erode reserve status. A continuously devaluing dollar would worsen Moody's downgrade effects by forcing higher interest rates, hurting credit card debt and mortgages, as more countries turn their backs on the currency.",
+      "mots_cles": [
+        "Greg Meyer",
+        "structural reliability",
+        "Moody's downgrade",
+        "interest rates",
+        "credit card debt",
+        "mortgages",
+        "countries abandoning the dollar"
+      ],
+      "texte": "Senior economist Greg Meyer put it like this. If US institutions have become structurally less reliable, global capital should naturally move [music] elsewhere. This would perhaps erode the USD status as a global reserve currency. Not to mention a continuously devaluing dollar would increase the effects of Moody's credit rating downgrade as interest rates [music] would need to be further pushed up to strengthen the currency again. That impacts the US consumer's ability to pay off credit card debt and get mortgages or any other kinds of loans. But this is only the beginning. More and more countries are turning their backs on America's"
+    },
+    {
+      "id": 142,
+      "debut": 5865.12,
+      "fin": 5929.04,
+      "temps_estime": false,
+      "titre": "Bretton Woods 1944: IMF, World Bank and the dollar's reserve status",
+      "resume": "At the 1944 Bretton Woods Conference, attended by 44 countries, the IMF and World Bank were created and the US dollar was made the reserve currency, pegging every currency to it. Some argue it held that role unofficially since the 1920s, overtaking the pound; the status provides stability and prevents currency wars while benefiting the US.",
+      "mots_cles": [
+        "Bretton Woods Conference",
+        "44 countries",
+        "IMF",
+        "World Bank",
+        "reserve currency",
+        "currency pegs",
+        "currency wars",
+        "dollar status benefits"
+      ],
+      "texte": "currency. The year is 1944 and the Bretonwoods Conference is taking place. Attended by 44 countries, it established some of the most important financial institutions of modern times. The International Monetary Fund or IMF traces its roots back to this historic conference as does the World Bank. But for the US, one decision made during this meeting trumped everything else. The US dollar would become the world's reserve currency. Some argue the dollar held this position unofficially since the 1920s, overtaking the British pound in the process. However, the Bretonwoods conference made the status official and the attendees followed up this decision by creating an exchange system that pegged the value of every currency in the world against the dollar. This has stayed the same in the 80 years since that fateful conference. The US dollar is as it was then the world's reserve currency. It provides global stability and prevents currency wars with America benefiting more directly from the dollar status both economically and in terms of its geopolitical positioning. Make no mistake, the dollar being the world's reserve currency is a very good thing for the United States. But that brings"
+    },
+    {
+      "id": 143,
+      "debut": 5929.04,
+      "fin": 5980.4,
+      "temps_estime": false,
+      "titre": "What is a reserve currency and why countries hold it",
+      "resume": "The Council on Foreign Relations defines a reserve currency as the foreign currency a country holds through its central bank to anchor its foreign exchange reserves. It must be stable and available in bulk, since many countries can't buy foreign goods with their own currencies and must use the reserve currency.",
+      "mots_cles": [
+        "reserve currency definition",
+        "Council on Foreign Relations",
+        "central bank reserves",
+        "stability",
+        "foreign exchange reserves",
+        "international trade"
+      ],
+      "texte": "us to an interesting question. What would happen if the dollar stopped being the reserve currency? Before we dig into the possible answers to that question, it's essential to establish what a reserve currency is and the purpose it serves in global markets. The Council on Foreign Relations or CFR defines a reserve currency as the foreign currency that a country holds via its central bank or treasury to anchor its foreign exchange reserves. As such, any reserve currency needs to be stable [music] as wild fluctuations can have a massive impact on exchange rates worldwide. It also needs to be available in bulk to the foreign country that uses it. Not least because many countries can't buy foreign goods using their own currencies. Instead, they have to use the reserve currency because practically every other nation uses it to conduct international trade. As a result, a country will hold vast quantities of a reserve currency for several reasons."
+    },
+    {
+      "id": 144,
+      "debut": 5980.4,
+      "fin": 6020.0,
+      "temps_estime": false,
+      "titre": "Reserves absorb shocks and secure imports; China's resentment",
+      "resume": "Countries hold reserves to absorb shocks if their currency devalues and to ensure they can pay for imports during crises. China, which imported about $2.7 billion (as transcribed) of goods in 2022, must hold huge dollar stacks, which the narrator says Xi Jinping would resent as dependence on a country wielding financial might.",
+      "mots_cles": [
+        "absorbing economic shocks",
+        "imports",
+        "China dollar reserves",
+        "Xi Jinping",
+        "financial leverage",
+        "currency devaluation"
+      ],
+      "texte": "Absorbing economic shocks is one. If a country's currency devalues due to extensive trade or a recession, [music] the reserve can at least be relied upon to offer some stability. Ensuring its reserves hold steady also ensures it has the money it needs to [music] purchase imports, especially during times of crisis. That's especially crucial for a country like China, which [music] imported $2.7 billion worth of goods in 2022 alone. You know, having to maintain huge stacks of dollars to ensure those imports would undoubtedly be a thorn in the side of a man like Xiinping. He would resent being so beholden to a country that he sees using its financial might to exert control over the rest of [music] the world. Then there's the debt"
+    },
+    {
+      "id": 145,
+      "debut": 6020.0,
+      "fin": 6052.32,
+      "temps_estime": false,
+      "titre": "China's debt and dollar reserve needs",
+      "resume": "China had a national debt of about 14,243 billion in 2023 and must keep stocking dollars to show creditors it can service debt. It holds about $3 trillion in foreign currency reserves, nearly three times Japan's $1.1 trillion in second place.",
+      "mots_cles": [
+        "China national debt",
+        "foreign currency reserves $3 trillion",
+        "Japan $1.1 trillion",
+        "debt servicing",
+        "creditors",
+        "dollar reserves"
+      ],
+      "texte": "issue. Sticking with China, it had a staggering national debt of 14,243 [music] billion in 2023. That debt will only get higher, forcing China to stock ever stronger supplies of the world's reserve currency, the US dollar, to show that it's [music] capable of servicing its debt. In other words, China is beholden to the US when it comes to its debt levels because lower dollar reserves make creditors [music] wary. Perhaps that's why it has $3 trillion in foreign currency reserves, almost three times as much as Japan, which comes [music] in second with 1.1 trillion. And"
+    },
+    {
+      "id": 146,
+      "debut": 6052.32,
+      "fin": 6096.24,
+      "temps_estime": false,
+      "titre": "The dollar's dominance among reserve currencies",
+      "resume": "Owning the reserve currency gives tremendous leverage. Other reserve currencies exist (euro, yen, pound, Canadian dollar), but per the CFR the dollar was 59% of foreign exchange reserves in Q1 2023, more than all others combined and well ahead of the euro at 19.8%.",
+      "mots_cles": [
+        "reserve currency leverage",
+        "59% of reserves",
+        "euro 19.8%",
+        "CFR",
+        "yen pound Canadian dollar",
+        "dollar dominance"
+      ],
+      "texte": "that brings us to why having the US dollar as the world's reserve currency is such a good thing for the United States. As you can [music] see from the Chinese example, owning the reserve currency gives a country a tremendous amount of leverage. However, it's also worth pointing out though the dollar is considered the reserve currency, it's not the only one. The euro, the Japanese yen, British pound, or even the Canadian [music] dollar are all classed as reserve currencies, too. It's just that the dollar is used more often, far more often. According to CFR, the dollar accounted for 59% of all foreign exchange reserves in the first quarter of 2023. That's more than every other currency combined, and it's almost 40% more than the next closest [music] reserve, the euro, at 19.8%. But let's"
+    },
+    {
+      "id": 147,
+      "debut": 6096.24,
+      "fin": 6162.8,
+      "temps_estime": false,
+      "titre": "Financial sanctions via correspondent banks and the Federal Reserve",
+      "resume": "The dollar's central role in global payments lets the US impose sanctions on any dollar trade. Dollar trades are handled by correspondent banks that must hold accounts at the Federal Reserve, so cutting them off from the Fed stops their transactions and can freeze a country's Treasury and central bank assets.",
+      "mots_cles": [
+        "financial sanctions",
+        "correspondent banks",
+        "Federal Reserve accounts",
+        "freezing assets",
+        "dollar leverage",
+        "geopolitics"
+      ],
+      "texte": "come back to this point about leverage. The US dollar being such a powerful currency makes it central to global payments. [music] And for that reason, the US is able to manipulate global geopolitics in almost any way it sees fit by using its leverage to cause damage to other countries. How? By imposing financial sanctions. All trade conducted in US dollars can be subjected to sanctions by the United States. [music] That includes trade conducted by foreign countries which exists in spades thanks to the dollar being the world's reserve currency. The reason is that every trade made in dollars is handled by a correspondent bank, a financial institution that provides services to another bank, typically in another country. In the case of the dollar, these correspondent banks have to hold accounts with the US Federal Reserve to handle transactions made in dollars. So, let's say the US is angry at a country. All it has to do is cut off the ability of those correspondent banks to transact in dollars by cutting them off from the Federal Reserve. Suddenly, the country that hosted the correspondent bank couldn't use it to make trades, leading to the Treasury and central bank assets getting frozen. We've seen the US do"
+    },
+    {
+      "id": 148,
+      "debut": 6162.8,
+      "fin": 6239.6,
+      "temps_estime": false,
+      "titre": "Russia case study: $300 billion frozen and inflation surge",
+      "resume": "After Putin's invasion of Ukraine, the US cut Russia's correspondent banks off from the dollar, freezing $300 billion of central bank assets and triggering a default on sovereign debt. Russian inflation jumped from 9.2% in February 2022 to 17.8% by April, raising food prices and cutting funds for public services.",
+      "mots_cles": [
+        "Russia sanctions",
+        "$300 billion frozen",
+        "sovereign debt default",
+        "Russian inflation 17.8%",
+        "Ukraine war",
+        "correspondent banks",
+        "cost of essentials"
+      ],
+      "texte": "this several times in the past. The most recent example comes from Russia. When Vladimir Putin launched his war against Ukraine, the US responded by creating an enormous number of sanctions. Using the US dollar status as the world's reserve currency to its benefit, it essentially blacklisted Russia from trading in the currency, cutting its correspondent banks off from the dollar. The result, $300 billion of Russia's central bank assets, i.e. US dollars, are simply frozen in time. Russia can't use that money to trade because the Federal Reserve refuses to take it. By creating sanctions, the US triggered a default on Russia's sovereign debt. [music] That's bad for the Russian people. When a nation defaults on its sovereign debt, its government has to start printing more money to try to cover its costs. We saw this in Russia in the immediate aftermath of the US sanctions. Inflation skyrocketed from 9.2% 2% in February 2022 to a staggering 17.8% by April that same year, a record level in the country. For the average Russian person, this default meant that the cost of essentials such as food shot up. Less money is also available to invest in public services such as education and healthcare. Both because Russia had $300 billion of its money frozen and due to it investing so much of its cash into the war effort. Now you can see what we"
+    },
+    {
+      "id": 149,
+      "debut": 6239.6,
+      "fin": 6283.92,
+      "temps_estime": false,
+      "titre": "Sanctions pressure and Russia's circumvention",
+      "resume": "Sanctions give the US leverage by pressuring a government through domestic hardship to resolve its default. They don't always fully work: Russia used third-country and European business networks to circumvent them, with $8.5 billion of circumvention in 2022, though sanctions remain an essential pressure tool.",
+      "mots_cles": [
+        "sanctions leverage",
+        "circumvention",
+        "$8.5 billion",
+        "Russia",
+        "financial pressure",
+        "third countries",
+        "default"
+      ],
+      "texte": "mean by leverage. When the US is able to impose such heavy sanctions, it's also able to put pressure on a country's government, it creates a situation within that country that it hopes its people will find insupportable, [music] forcing its government into a situation where it has to resolve its debt crisis or its default status to regain stability. It doesn't always fully work, however. In Russia's case, it managed to use a complex network of third world countries and European businesses to circumvent sanctions and continue to receive goods while trading in its dollar reserves to support its war efforts. [music] In 2022 alone, this circumvention amounted to $8.5 billion, showing that Russia has at least managed to use a small amount of its dollar reserves. But as a tool for applying pressure, financial sanctions are"
+    },
+    {
+      "id": 150,
+      "debut": 6283.92,
+      "fin": 6379.76,
+      "temps_estime": false,
+      "titre": "Exorbitant privilege: cheap borrowing thanks to dollar demand",
+      "resume": "French finance minister Valery Giscard d'Estaing said in the 1960s the US enjoyed an 'exorbitant privilege'. Because everyone wants dollars, the US sustains trade deficits and issues bonds at lower interest rates; Japan holds $1.1 trillion and China over $700 billion of US debt, so America can rack up external debt cheaply.",
+      "mots_cles": [
+        "exorbitant privilege",
+        "Giscard d'Estaing",
+        "trade deficit",
+        "low interest rates",
+        "US bonds",
+        "Japan $1.1 trillion",
+        "China $700 billion",
+        "dollar demand"
+      ],
+      "texte": "essential. The US can exert so much influence through these sanctions because of the dollar status as the world's reserve currency. On top of this leverage comes investment benefits. [music] In the 1960s, the former French finance minister Valer Gistar Deong said the United States benefited from an exorbitant privilege due to the status of its currency as the world's reserve. How does that privilege come into play? Every country wants to have a stockpile of US dollars because the value of that currency is unquestioned. As mentioned earlier, having dollars makes it easier to import goods, seeing as almost every other country uses dollars. Plus, a robust dollar stockpile can act as security against the debt that a country takes on. High demand for the dollar is the result. Ever since the dollar began to experience such high demand, the United States has been able to use the currency status to secure inexpensive financing for the investments it makes in other countries. CFR points out that the sheer appetite for the US dollar resulted in the country's trade moving into sustained deficit. In other words, it's importing more goods than it's exporting. The US can stay in that situation due to demand for the dollar. It can issue government bonds at a lower cost than almost any other country, creating yet more demand that results in the US paying lower interest rates to tempt buyers into purchasing those bonds. This manifests in other countries holding a lot of US government debt. For instance, Japan alone holds $1.1 trillion of American debt as of October 2023. China isn't far behind with over 700 billion. The short story here is that America can rack up substantial external debts while keeping the cost of the debt low due to demand for the"
+    },
+    {
+      "id": 151,
+      "debut": 6379.76,
+      "fin": 6437.44,
+      "temps_estime": false,
+      "titre": "The privilege is eroding; what if the dollar loses reserve status?",
+      "resume": "Brookings notes that the Bretton Woods system began to break down in the 1960s and 1970s as the US failed to supply global price stability, decentralizing the monetary system. The dollar still holds nearly two thirds of reserves but the euro, yen and others are eroding its advantage, raising the question of what happens if it loses its position.",
+      "mots_cles": [
+        "Brookings",
+        "Bretton Woods breakdown",
+        "dollar share of reserves",
+        "euro and yen",
+        "exorbitant advantage eroding",
+        "decentralized monetary system"
+      ],
+      "texte": "dollar. Granted, this exorbitant privilege isn't as exorbitant as it once was. Brookings points out that the Brettonwood system that gave the US dollar its status as the world's reserve currency started to break down in the 1960s and '7s. The US failed to meet its obligation to provide a currency that delivers global price stability, leading to the international monetary system essentially becoming decentralized in the 1970s. However, the dollar is still powerful. As mentioned before, it still accounts for nearly 2/3 of all foreign reserves. But it's not as powerful as it once was with the euro, Japanese yen, and other currencies slowly eroding America's exorbitant advantage due to countries building stockpiles of those currencies along with the dollar. And that leads [music] us right back to the question that kicked off the video. What happens if the US dollar loses its position as the world's reserve currency? Perhaps the euro somehow manages to take over or a new decentralized currency is proposed to take its place. What would the effects be? After all, we have countries like"
+    },
+    {
+      "id": 152,
+      "debut": 6437.44,
+      "fin": 6459.28,
+      "temps_estime": false,
+      "titre": "Russia and China argue for a multipolar currency",
+      "resume": "Russia and China argue a multipolar global currency is needed because America has weaponized the dollar's reserve status, and the narrator says the US can't deny that its sanctions use the currency as a weapon. It then asks what would happen if such a currency existed.",
+      "mots_cles": [
+        "multipolar currency",
+        "Russia China",
+        "weaponized dollar",
+        "sanctions",
+        "reserve currency alternative",
+        "geopolitics"
+      ],
+      "texte": "Russia and China arguing that the creation of a multi-polar global currency is a necessity because America has used the dollar status as the global reserve as a weapon. [music] The US can't argue that fact as its use of sanctions is essentially the act of weaponizing its currency to harm countries that act in ways it doesn't want. What would happen if that multipolar currency actually existed?"
+    },
+    {
+      "id": 153,
+      "debut": 6459.28,
+      "fin": 6539.04,
+      "temps_estime": false,
+      "titre": "Effect 1: sanctions power and US influence would collapse",
+      "resume": "Without dollar reserve status, countries would stockpile a different currency, so the US couldn't sanction them. China's $3 trillion reserves would be converted, the Federal Reserve and correspondent banks would be bypassed, and the US could no longer force defaults as with Russia, leaving countries with military ambitions little financial punishment.",
+      "mots_cles": [
+        "loss of sanctions power",
+        "China $3 trillion reserves",
+        "correspondent banks bypassed",
+        "US influence",
+        "default forcing",
+        "multipolar currency",
+        "geopolitical loss"
+      ],
+      "texte": "Let's start with weaponization. If the dollar is no longer the global reserve, countries would have far less reason to build stockpiles of that currency. They'd be trading with this new multipolar currency, or at least a currency that isn't the dollar, which would put the US in a difficult position if it wished to impose sanctions on a country. It simply could not do it. It's a guarantee that countries like Russia and China would quickly start offloading their dollars to build stockpiles of the new currency. Taking China as an example, the $3 trillion it has in reserves would quickly be converted into a different currency, meaning the US no longer has control over how Beijing uses that vast amount of money. The Federal Reserve is taken out of the equation because China doesn't need its correspondent banks anymore. Neither do the countries with which it trades. It's not buying in dollars. Its providers aren't selling in dollars. there'd be no need to circumvent sanctions anymore because the country being sanctioned is using a currency over which the US has no control. That's a massive problem for America on the geopolitical level. It loses massive influence in one fell swoop, unable to exert any control over the countries that it attempts to influence with its sanctions. there'd be no way to force a country to default as we saw with Russia anymore, leaving the path open for countries that have military ambitions with which the US doesn't agree to pursue their goals with minimal risk of financial punishment."
+    },
+    {
+      "id": 154,
+      "debut": 6539.04,
+      "fin": 6577.52,
+      "temps_estime": false,
+      "titre": "Effect 2: falling demand weakens the dollar",
+      "resume": "If the dollar loses reserve status, demand from other nations would drop drastically; basic supply and demand says a surplus supply must be sold at a lower price, meaning a weaker dollar that trades worse against other currencies.",
+      "mots_cles": [
+        "declining dollar demand",
+        "supply and demand",
+        "weaker dollar",
+        "reserve status loss",
+        "currency value",
+        "surplus supply"
+      ],
+      "texte": "Then there's the demand issue. With the dollar losing its status as the world's reserve currency, demand for the dollar from other nations would decline drastically. Again, this has an impact on any sanctions the US tries to use. But the true impact would likely be felt in the downward pressure that this lack of demand would create. Countries aren't buying the currency anymore. And the basic rules of supply and demand tell us that a shortfall in demand leads to a surplus in supply with the only way to sell off that surplus being to reduce the price asked for the supply. In economic terms, that would mean a weaker dollar. the currency will no longer trade as well against other currencies as it does right now and that would"
+    },
+    {
+      "id": 155,
+      "debut": 6577.52,
+      "fin": 6612.32,
+      "temps_estime": false,
+      "titre": "Effect 3: a larger US trade deficit",
+      "resume": "The US trade deficit stood at about $951 billion in 2022 per the CFR, and a weaker dollar makes everything the country buys cost more, so the deficit could rise above $1 trillion as the US pays more devalued currency for needed products.",
+      "mots_cles": [
+        "trade deficit $951 billion",
+        "CFR",
+        "import costs",
+        "weak dollar",
+        "deficit above $1 trillion",
+        "imports exceed exports"
+      ],
+      "texte": "shift the value of imports and exports in a way that harms the US. How? We mentioned earlier that the United States has a trade deficit. It imports far more than it exports. But we haven't yet told you the scale of that deficit. According to CFR, it stood at -9 $951 billion in 2022. The problem is that this deficit may widen even further because a weakened US dollar results in everything the country buys costing even more than it currently does. We could easily see that deficit rising above 1 trillion as the US finds itself shelling out more of its devalued currency to buy products"
+    },
+    {
+      "id": 156,
+      "debut": 6612.32,
+      "fin": 6679.36,
+      "temps_estime": false,
+      "titre": "Silver lining: cheaper exports and a manufacturing boom, conditionally",
+      "resume": "A weaker dollar makes US exports cheaper, and the FAS project on government secrecy suggests losing reserve status could spark an export boom offsetting costlier imports, if US output can rise to meet demand. Americans would pay more for imported goods and less for US-made goods, which could help manufacturing, though whether that outweighs lost global influence is debatable.",
+      "mots_cles": [
+        "export boom",
+        "FAS Project on Government Secrecy",
+        "cheaper exports",
+        "manufacturing sector",
+        "supply constraints",
+        "import prices",
+        "global influence tradeoff"
+      ],
+      "texte": "its people need. There is one potential saving grace here though. While a weakened dollar means imports cost more, it also results in exports costing less for buyers. they're able to get more bang for their buck, so to speak, because that buck is worth less and it gets them more. According to the FAS project on government secrecy, there's potential that the loss of the dollar status as a global reserve could lead to a boom period for exports with the money earned from selling to other countries balancing out the losses incurred by having to spend more on imports. Of course, that balancing is conditional. supply and demand economics would come into play again and the US would have to keep ramping up the supply of goods that it exports to meet rising demand. If it's unable to keep up, no balancing happens. A country can't benefit from higher exports if it doesn't have the product to export. Domestically, you'd see the same thing happening. The average person will have to spend a lot more money to get their hands on imported goods, but they'll also pay less for goods made in the United States, meaning that the loss of the world reserve status could be good for America's manufacturing sector. Whether that's worth the loss of global influence that comes with the weakened dollar is up for debate. Let's expand"
+    },
+    {
+      "id": 157,
+      "debut": 6679.36,
+      "fin": 6734.96,
+      "temps_estime": false,
+      "titre": "Foreign holders of US debt and higher interest costs",
+      "resume": "Japan holds about $1.1 trillion of US debt, China around $700 billion, and USAFacts says the US owed $5.3 trillion to other nations in 2022, about $7.1 trillion in total. Without reserve status, interest on that debt could skyrocket, and future borrowing would be so costly it could be nearly impossible to recover.",
+      "mots_cles": [
+        "US debt holders",
+        "Japan $1.1 trillion",
+        "China $700 billion",
+        "USAFacts",
+        "$7.1 trillion foreign debt",
+        "interest rates skyrocket",
+        "future borrowing cost"
+      ],
+      "texte": "our scope further. What would happen to the many countries that own US debt? There's a lot of that debt floating around. As mentioned earlier, Japan alone holds about $1.1 trillion in US debt with China holding somewhere in the 700 billion region. They're far from the only countries. According to USA Facts, the US owed around $5.3 trillion to nations other than Japan and China in 2022. That's a total debt load of around $7.1 trillion, made possible by the fact that the United States can secure lower interest rates on that debt with the dollar's current power. If the dollar loses its reserve status, the interest charged on that debt is liable to skyrocket. And if not on the debt, we don't know if the US has long-term locked interest rates with the countries it own. Then the interest charge for future debt would be so high that it would be almost impossible for the US to claw its way back. The odds are that the country's overall debt, which is already staggeringly high, causes major"
+    },
+    {
+      "id": 158,
+      "debut": 6734.96,
+      "fin": 6796.0,
+      "temps_estime": false,
+      "titre": "Debt ceiling dilemma and the 2011 downgrade",
+      "resume": "Congress would face a choice between raising the debt ceiling and digging deeper or cutting debt through social security reform and higher taxes, which is unlikely since 61% support taxes on households earning $400,000 or more but not broad hikes. In 2011 the US came within two days of breaching the ceiling and S&P cut its rating from AAA to AA+.",
+      "mots_cles": [
+        "debt ceiling",
+        "2011 S&P downgrade",
+        "AAA to AA+",
+        "social security reform",
+        "taxes 61%",
+        "Congress",
+        "credit rating",
+        "national debt"
+      ],
+      "texte": "headaches for Congress. Does [music] it keep raising the debt ceiling, giving the US a chance to rack up even more debt while digging itself deeper into a hole? Or does it try to put a stop to it by keeping the debt ceiling as it is and trying to institute policies that bring the national debt down, such as social security reform or higher levels of taxation. The latter approach seems unlikely. While 61% of Americans support raising taxes on households that earn $400,000 or more, that support for higher taxes would massively if they had to be applied across the board. The debt ceiling would have to be raised. If it weren't, Americans global credit rating would likely suffer. We saw this in 2011 when the US came within 2 days of broaching its old debt ceiling. Standard and pores downgraded the country's credit rating from its long prized AAA rating to double A+ simply due to the possibility of the ceiling being breached. But what would it do if the US couldn't keep raising the ceiling or worse yet blew past it because it's no longer possible for it to service its debt. The possibility of a default would"
+    },
+    {
+      "id": 159,
+      "debut": 6796.0,
+      "fin": 6858.96,
+      "temps_estime": false,
+      "titre": "Default risk, global contagion and a self-fulfilling dollar decline",
+      "resume": "A US default would please China and especially Russia, which defaulted after US sanctions in 2022, and would hit every holder of US debt, with Japan at particular risk. The result could be a self-fulfilling cycle where countries stockpile other currencies, further weakening the dollar and leaving the US a financial lame duck.",
+      "mots_cles": [
+        "US default",
+        "self-fulfilling cycle",
+        "Japan risk",
+        "contagion",
+        "stockpiling other currencies",
+        "financial lame duck",
+        "Russia China"
+      ],
+      "texte": "be very real. That would play directly into the hands of countries like China and especially Russia. After all, American sanctions caused Russia to default in 2022. You have to believe that Putin would relish seeing the same happen to the US along with all types of previously mentioned problems that defaulting would cause for the American people. But it's not just the US that would be impacted. Financial turbulence would be seen in every country that currently holds US debt. The exchange rate fluctuations that would result from the dollar's loss of status alone could lead to other defaults in nations. If the US finds itself unable to service its debt properly, Japan would be of particular risk as the holder of $1.1 trillion of that debt. The result of all this would be a self-fulfilling cycle. As the dollar loses its status, more and more countries will start stockpiling reserves of a different currency, be that new multipolar currency or one that's already eroding the dollar's base such as the euro. That would just lead to the dollar losing even more of its strength, leading to even more dollar reserves being exchanged for other currencies. The US could end up being a financial lame duck on the global level."
+    },
+    {
+      "id": 160,
+      "debut": 6858.96,
+      "fin": 6914.8,
+      "temps_estime": false,
+      "titre": "Russia and China push a multipolar currency; BRICS expansion",
+      "resume": "A July 2023 report highlighted Russia and China arguing at the Shanghai Cooperation Organization summit for a multipolar currency, which would benefit BRICS nations. BRICS (Brazil, Russia, India, China, South Africa) added Iran, Egypt, Saudi Arabia, UAE and Ethiopia in January 2024, with an anti-West leaning agenda focused on trade and economic expansion.",
+      "mots_cles": [
+        "Shanghai Cooperation Organization",
+        "BRICS expansion",
+        "multipolar currency",
+        "January 2024 new members",
+        "anti-West agenda",
+        "Roland Berger report",
+        "trade ties"
+      ],
+      "texte": "And all of this would create a perfect situation for some of America's biggest enemies. In July 2023, Roland Burgerer reported on the possibility of the dollar losing its status as the world's reserve currency. It highlighted comments made by both Russia and China at the July Shanghai Cooperation Organization Summit in which both countries argued for a multi-polar currency. Specifically, it pointed out how switching to such a currency would be of massive benefit to the BRICS nations. BRICS is a loose economic alliance of some of the world's emerging or most powerful economies outside of the US, including Brazil, Russia, India, China, and South Africa. In January 2024, five more countries joined that alliance. Iran, Egypt, Saudi Arabia, the United Arab Emirates, and Ethiopia. It's clear that this alliance has something of an anti-West agenda with its stated purpose being to establish stronger ties between its member nations via trade and cooperative economic expansion."
+    },
+    {
+      "id": 161,
+      "debut": 6914.8,
+      "fin": 6976.24,
+      "temps_estime": false,
+      "titre": "BRICS currencies would gain if the dollar lost status",
+      "resume": "BRICS currencies account for a little over 20% of global trade, a share that would rise if the dollar lost reserve status. Those nations would see cheaper imports, costlier exports and rising currency demand while the US could end up on the receiving end of sanctions, and China would gain geopolitical power.",
+      "mots_cles": [
+        "BRICS currencies 20% of trade",
+        "currency appreciation",
+        "sanctions reversal",
+        "US stockpiles",
+        "China power",
+        "multipolar currency",
+        "geopolitics"
+      ],
+      "texte": "According to Roland Burer, the currencies of the BRICS countries already account for a little over 20% of global trade. The loss of the dollar as the world's reserve currency would only see that number climb. Whether the focus lay on a new multipolar currency or one of the bricks currencies, we'd likely see the appreciation of the bricks currencies as the dollar lost its strength, those BRICS nations would see a reversal of what would happen to the US. Cheaper imports and more expensive exports, and there would be a rising demand for the currencies that BRICS countries produce. Suddenly, the US might find itself on the receiving end of the financial sanctions that it's meed out so many times. At the very least, these BRICS nations would be far less vulnerable to Americanled sanctioning. And if a multipolar currency was in place, the US would have to create stockpiles of its own to hold in reserve rather than simply relying on its own currency, opening the door for other countries to respond to its sanctioning efforts with sanctions of their own. The result is that more aspirational economies such as China would gain even more power, which they could use to make themselves major"
+    },
+    {
+      "id": 162,
+      "debut": 6976.24,
+      "fin": 7011.92,
+      "temps_estime": false,
+      "titre": "Why the dollar's position is still secure: invoicing and reserves",
+      "resume": "Replacing the dollar would need a huge upheaval: nearly 90% of international trades are invoiced in dollars, and the 60% reserve share, though down from the 70% peak in the early 2000s, is higher than the roughly 50% of the 1980s and 1990s. Any replacement would also need major economic framework changes.",
+      "mots_cles": [
+        "90% invoiced in dollars",
+        "60% of reserves",
+        "70% peak early 2000s",
+        "1980s 1990s 50%",
+        "Real Economy",
+        "dollar strength"
+      ],
+      "texte": "players on the geopolitical stage. The good news is, at least for the dollar, such a change would require a massive upheaval of the global financial order. According to Real Economy, nearly 90% of all international trades are currently invoiced in US dollars. Furthermore, the 60% of global currency reserves held in US dollars may be down from the 70% peak seen in the early 2000s, but compared to the reserves of the dollar in the 1980s and 1990s, which generally hovered around 50%, it's stronger than it was 30 years ago. Add to that the economic framework changes any country that supplanted the US would have to make."
+    },
+    {
+      "id": 163,
+      "debut": 7011.92,
+      "fin": 7072.32,
+      "temps_estime": false,
+      "titre": "China would need to liberalize the yuan; change would take decades",
+      "resume": "The yuan holds about 2.7% of reserves; reaching near 60% would require China to liberalize fully, giving up control of capital and credit, which Xi Jinping is unlikely to do. Replacing the dollar would take wholesale rule changes over years or decades, and neither another currency, a multipolar currency nor crypto can offer the dollar's stability.",
+      "mots_cles": [
+        "yuan 2.7% of reserves",
+        "liberalize yuan",
+        "capital controls",
+        "Xi Jinping",
+        "cryptocurrency",
+        "years or decades",
+        "global trade rules"
+      ],
+      "texte": "Real economy raises China as a good example. Right now, the Chinese yuan accounts for around 2.7% of global reserves. For that to reach anywhere close to the nearly 60% the US dollar accounts for, China would have to liberalize its yuan completely. It would have to loosen control on its currency, something that a control freak like Xiinping is very unlikely to do, and would lose control of its capital and its ability to regulate credit. China or any other nation's economic framework would have to completely transform for it to assume the role that the US currently has thanks to the dollar. There would have to be wholesale changes in the rules that govern global trade for the dollar to be replaced. This isn't to say that all these changes can't happen. But the loss of the dollar as the world's reserve currency wouldn't happen overnight. It would take a concerted effort likely opposed by the United States over years or even decades to achieve. Another country's currency is unlikely to take the dollar's place soon. The same goes for a new multipolar currency or cryptocurrency. Neither can be relied upon to offer the stability"
+    },
+    {
+      "id": 164,
+      "debut": 7072.32,
+      "fin": 7090.16,
+      "temps_estime": false,
+      "titre": "Conclusion: the dollar is unlikely to lose reserve status soon",
+      "resume": "The US can probably breathe easy: despite talk from Russia and China, the dollar is unlikely to lose its reserve position anytime soon, though the bigger worry lies far in the future if those nations slowly erode its status. The segment ends with the first words of the next video's intro.",
+      "mots_cles": [
+        "dollar reserve status safe",
+        "Russia China talk",
+        "long-term erosion",
+        "conclusion",
+        "dollar future"
+      ],
+      "texte": "that the dollar provides. So, the US can probably breathe easy. Despite all the talk coming out of Russia and China, it's unlikely the US dollar is going to lose its position as the world's reserve currency anytime soon. The bigger worry lies far in the future, especially if those nations can slowly erode the dollar status over time. If you're a"
+    },
+    {
+      "id": 165,
+      "debut": 7090.16,
+      "fin": 7149.6,
+      "temps_estime": false,
+      "titre": "Intro: the cost of using military weapons; firearm basics",
+      "resume": "A new video asks how much it costs to use military hardware and notes that militaries constantly look to cut costs. It begins with firearms: defining firearms (gunpowder-propelled rifles, shotguns, handguns), calibers as barrel diameter, and the slang 'bang bangs'.",
+      "mots_cles": [
+        "cost of military weapons",
+        "military spending",
+        "firearms definition",
+        "caliber",
+        "bang bangs",
+        "Infographics Show",
+        "weapon costs"
+      ],
+      "texte": "regular watcher of the infographic show, then you probably already know a thing or two about military hardware. But do you know how much it actually costs to use some of those weapons? I'll give you a hint. It's a lot. Military spending is constantly under scrutiny. And amid slashed budgets and public pressure, militaries are always looking for ways to cut costs. But finding savings can be hard when the cost of essential [music] equipment and weapons is so high. Let's start by taking a look at how much it costs to use some of the military's firearms. Militaries use many different [music] types of firearms. A firearm is any rifle, shotgun, or handgun that uses gunpowder as a propellant, but there are also other types of guns, such as air [music] guns, that aren't technically firearms. Firearms come in many different calibers, which is a [music] measurement of the diameter of the gun's barrel and determines the size of the ammunition that can be fired from a particular firearm. Now that we've [music] cleared that up, let's look at how much it costs to use some of these firearms, or bang bangs as they're called in military slang. One of the US"
     }
   ]
 }
