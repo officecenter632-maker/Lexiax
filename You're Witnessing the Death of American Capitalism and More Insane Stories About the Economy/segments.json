@@ -4,12 +4,12 @@
   "titre_video": "You're Witnessing the Death of American Capitalism and More Insane Stories About the Economy",
   "duree_s": 11029.12,
   "avancement": {
-    "lignes_traitees": 4539,
-    "fin_traitee_s": 9215.48,
+    "lignes_traitees": 5541,
+    "fin_traitee_s": 11029.12,
     "nb_lignes_total": 5541,
-    "complet": false
+    "complet": true
   },
-  "nb_segments": 165,
+  "nb_segments": 198,
   "segments": [
     {
       "id": 1,
@@ -3096,6 +3096,618 @@
         "superpower decline"
       ],
       "texte": ">> [music] >> The staggering losses in US agriculture will also weaken the US economy, forcing Americans to rely on expensive [music] imports. US businesses will begin to face bankruptcy with some farms and ranches across America already facing economic collapse due to the fleeing of migrant labor. As the US agricultural sector slowly collapses, it only forces an ever greater reliance on more expensive [music] overseas alternatives, putting ever-increasing strain on Americans. All these factors add up to increased costs across the board, further driving up the costs of housing which are already at catastrophic levels. In the end, Americans will face exponentially higher food prices, decreased international buying power, and a cooling of the US economy [music] with mounting job losses. At that precise moment, the United States is most vulnerable to a major economic shock, such as a new pandemic, major natural disasters, or [music] even war. And one of these is practically guaranteed because the Department of Defense is even now fully preparing for [music] war with China in the Pacific. As America faces its first major conflict in nearly a century, it is more economically vulnerable than it has ever been. Experts [music] predict that 2027 or 2028 could be the year that the American economy crashes in the midst of a very costly war. America's superpower status may have had its day in the sun, and [music] its failure will be its own fault. A lot has happened in"
+    },
+    {
+      "id": 166,
+      "debut": 9215.48,
+      "fin": 9271.64,
+      "temps_estime": false,
+      "titre": "Intro: recession or depression? Unprecedented times and warning indicators",
+      "resume": "After the pandemic and Russia's invasion of Ukraine, the video asks when a recession becomes a depression and whether people should worry. The combination of pandemic, war and supply chain issues is unprecedented, and slowing economies, rising inflation, unemployment, bankruptcies and falling consumer spending point toward recession.",
+      "mots_cles": [
+        "recession",
+        "depression",
+        "pandemic",
+        "Ukraine war",
+        "unprecedented times",
+        "inflation",
+        "unemployment",
+        "consumer spending"
+      ],
+      "texte": "the last few years, from a global pandemic to Russia invading Ukraine. Both of these events had a huge economic impact on economies around the world, and might even be leading to recessions in many. But, what if things get worse? When does a recession become a depression, and should you be worried? Let's find out. These are unprecedented times as modern-day economies have never had to contend with a global pandemic, a war, and supply chain issues all at the same time. The decisions made during this period in human history and the impact they'll have on the future are unknown. >> [music] >> However, we do know that due to current events, economies have slowed and inflation is on the rise. These factors, along with increasing unemployment rates, bankruptcies, and falling consumer spending, are key indicators that an economy could be heading toward a recession. But, what does that actually mean? And are recessions such a bad thing? We'll dig into that, but first there's one thing we know without a doubt is bad. Something small that you probably do each and every morning."
+    },
+    {
+      "id": 167,
+      "debut": 9271.64,
+      "fin": 9331.32,
+      "temps_estime": false,
+      "titre": "Sponsor segment: Morning Brew newsletter",
+      "resume": "A sponsored segment promotes Morning Brew, a free daily business, finance and tech newsletter read in five minutes, with a mini crossword. Viewers are told to sign up at morningbrewdaily.com/infographics.",
+      "mots_cles": [
+        "Morning Brew",
+        "newsletter",
+        "sponsor",
+        "business news",
+        "daily newsletter",
+        "advertisement",
+        "morningbrewdaily.com"
+      ],
+      "texte": "What's the first thing you do when you wake up? Do you [music] grab your phone, open a news or social media app, and start scrolling, and scrolling, and scrolling, and when you finally found something that looks interesting, the actual story turns out to be dry, dense, and boring? It's [music] the worst possible way to start your day. But, don't worry, there's now a better way to wake up with Morning Brew. Morning Brew [music] is a free daily newsletter that'll get you up to speed on topics that matter most to you in just 5 minutes. Their business, finance, and tech stories are witty, relevant, [music] but most importantly informative, so you can start your day off with a concentrated blast of the news you actually [music] want to hear. Like a 3-minute read on the real state of real estate, or breakdown of Meta's new AI text-to-video generator. They even have a mini crossword puzzle to start activating [music] your brain in the right way. But, to get it, you'll have to sign up for Morning Brew yourself. It's completely [music] free and takes less than 15 seconds. So, start getting smarter in just 5 minutes every day by signing up for Morning [music] Brew at morningbrewdaily.com/infographics or click the link in the description."
+    },
+    {
+      "id": 168,
+      "debut": 9331.32,
+      "fin": 9390.84,
+      "temps_estime": false,
+      "titre": "What is a recession? Definition and causes",
+      "resume": "A recession is a months-long economic slowdown, often defined as two consecutive quarters of declining real GDP, which is adjusted for inflation. Recessions are a normal part of the long economic cycle, triggered by war, pandemics or bubbles like the 2007 US housing market.",
+      "mots_cles": [
+        "recession definition",
+        "real GDP",
+        "two consecutive quarters",
+        "economic cycle",
+        "housing bubble 2007",
+        "stock market",
+        "causes of recession"
+      ],
+      "texte": "A recession is defined as a slowdown or shrinking of an economy over [music] the course of several months. Many experts classify a recession as two consecutive quarters of declines [music] in real gross domestic product or GDP. Real GDP means that economic numbers have been adjusted [music] to account for inflation so that they can be more accurately compared to other quarters of economic activity. This creates a more precise picture of what [music] the economy is actually doing and if we might be heading for a financial disaster. However, it's important to keep in mind [music] that recessions are a normal part of economic growth. If you've ever bought stocks or followed the stock market, you know that there are inevitable highs and lows over the course [music] of several years. Almost all economists agree that recessions are a part of the long cycle that economies go through in order to grow organically. Economies will [music] continue to grow until something triggers them to slow down or shrink. There are plenty of reasons why this might happen such as [music] war, pandemics, or the bursting of a financial bubble like in the 2007 housing market in the [music] United States. Another key factor that can"
+    },
+    {
+      "id": 169,
+      "debut": 9390.84,
+      "fin": 9455.04,
+      "temps_estime": false,
+      "titre": "Interest rates and post-pandemic inflation",
+      "resume": "Rising interest rates can signal recession but are used to slow inflation, when prices rise and currency loses value. After COVID restrictions eased, saved-up stimulus money met supply chain disruptions and factory shutdowns, driving prices of groceries and electronics up.",
+      "mots_cles": [
+        "interest rates",
+        "inflation",
+        "stimulus checks",
+        "pandemic demand",
+        "supply chain issues",
+        "grocery prices",
+        "currency value",
+        "recession indicator"
+      ],
+      "texte": "indicate whether or not an economy is headed toward a recession is rising interest rates. It [music] might seem intuitive that if high interest rates cause an economy to slow down, banks and governments should just keep interest rates as low as possible. But, it's not [music] that simple. Recently, interest rates have been on the rise and for good reason. Increasing interest rates are a good way to slow down or reverse inflation. Inflation is when prices increase and result [music] in a currency losing value as consumers must spend more money than they used to in order to purchase some [music] products. However you think about it, inflation is bad for the consumer and for the economy. This has been happening as we come out of the pandemic. People who kept their jobs or qualified for stimulus checks [music] had money they could spend at the time as they couldn't go out and do things. When COVID restrictions became more relaxed, people spent that saved-up money creating a high demand for products. Unfortunately, the [music] amount of products being produced was disrupted by factories shutting down and supply chain issues caused by the pandemic. This has led to prices for everyday goods [music] such as groceries and electronics to skyrocket. The supply for these goods cannot keep up with the demand and prices are rising too fast for the consumer to keep up with."
+    },
+    {
+      "id": 170,
+      "debut": 9455.04,
+      "fin": 9488.68,
+      "temps_estime": false,
+      "titre": "Federal Reserve rate hikes and the recession risk",
+      "resume": "The Federal Reserve raised interest rates to discourage borrowing, and at the time of the video inflation seemed to be stabilizing. It remains unclear whether higher rates will avoid a recession, which many countries are trying to avoid.",
+      "mots_cles": [
+        "Federal Reserve",
+        "interest rate hikes",
+        "inflation stabilizing",
+        "recession risk",
+        "borrowing",
+        "worst-case scenario",
+        "global economies"
+      ],
+      "texte": ">> [music] >> Inflation of prices has caused the Federal Reserve in the United States to increase interest rates so that people will be less likely to take out loans to rack up debt. [music] At the time that this video was made, increased interest rates seem to have worked and inflation levels appear to be stabilizing. However, only time [music] will tell if higher interest rates have actually stopped the United States from going into a recession. Many countries worldwide are battling the same problem [music] and have taken precautionary measures to ensure their economies don't go into a recession. But, what happens in a worst-case [music] scenario? What if the United States or other countries"
+    },
+    {
+      "id": 171,
+      "debut": 9488.68,
+      "fin": 9542.16,
+      "temps_estime": false,
+      "titre": "Recession effects: unemployment spiral and the Great Depression",
+      "resume": "In a recession unemployment rises as companies lay off workers, reducing spending and straining government aid, but raising rates, supporting the unemployed and giving businesses time can restart growth. If the economy spirals out of control it becomes a depression, of which the US has had only one, from 1929 to 1939.",
+      "mots_cles": [
+        "recession unemployment",
+        "layoffs",
+        "government aid",
+        "economic recovery",
+        "depression",
+        "Great Depression 1929-1939",
+        "downward spiral"
+      ],
+      "texte": "do go into a recession? The main concern for most people during a recession unemployment rates go up. As the economy slows down, companies need to lay off employees [music] to cut costs. This means more and more people have less income to spend, which will slow down the economy even more. When people are laid off because of a recession, more pressure is put [music] on the government to provide aid. Yet, the government is also hurting financially during these times, making it difficult to lend support [music] to the citizens. Once an economy is in a recession, things start to spiral downward. However, raising interest rates, providing [music] support to the unemployed, and giving businesses time to recover will cause the economy to pick back up and grow again. This will bring jobs [music] back and allow businesses to become profitable as people begin spending their money again. But, what if this doesn't happen? What if the economy spirals out of control? This [music] is when a depression occurs. Currently, there's only been one economic depression in the United States, the Great Depression, which lasted from 1929 to 1939."
+    },
+    {
+      "id": 172,
+      "debut": 9542.16,
+      "fin": 9614.2,
+      "temps_estime": false,
+      "titre": "Recession versus depression: duration and criteria",
+      "resume": "A depression is essentially a very long recession lasting several years, with real GDP falling at least 10% in a single year and unemployment continuing to rise. Recessions such as the 1973 oil crisis (about 16 months) and the 2008 Great Recession (about a year and a half) were not depressions.",
+      "mots_cles": [
+        "recession vs depression",
+        "10% GDP decline",
+        "unemployment",
+        "1973 oil crisis",
+        "2008 Great Recession",
+        "two years",
+        "international trade stalls",
+        "real GDP"
+      ],
+      "texte": ">> [music] >> However, since these are unprecedented times, there is no knowing what the economic future will hold. So, what exactly is a depression and how does it differ from [music] recessions? Many economists agree that a depression is just a really long recession. There's no exact length of time that an economy needs to be in decline for [music] a depression to be declared, but it typically needs to be several years. Recessions tend to last two or more quarters of a fiscal year or about [music] six months, but can be longer if things get really bad. During the 1973 oil crisis, when [music] oil prices quadrupled and the stock market crashed, economy was in a recession for about a [music] year and four months. Similarly, the Great Recession of 2008 lasted around a year and a half. However, none of these periods of time are classified as depressions [music] because they did not meet certain other criteria. A recession transitions to a depression [music] when it lasts roughly two or more years. The real GDP of an economy also needs to decline by at least 10% in a single year for that time period to be considered an [music] economic depression. Like with a recession, a key indicator that an economy is in a depression other than the dramatic lowering [music] of GDP is high unemployment rates. However, unlike a recession, these unemployment rates continue to grow for years until [music] the economy finally bottoms out. A"
+    },
+    {
+      "id": 173,
+      "debut": 9614.2,
+      "fin": 9683.72,
+      "temps_estime": false,
+      "titre": "Great Depression causes: Roaring Twenties speculation and the 1929 peak",
+      "resume": "The Great Depression stemmed from unsustainable growth in the Roaring Twenties, when people took bank loans to invest in the stock market and mortgaged homes. The market peaked in October 1929 and began to cool, an inevitable resettling that people had not prepared for.",
+      "mots_cles": [
+        "Great Depression causes",
+        "Roaring Twenties",
+        "stock market speculation",
+        "bank loans",
+        "October 1929",
+        "stock market peak",
+        "unsustainable growth"
+      ],
+      "texte": "byproduct of depression is that international trade tends to stall and production is dialed back [music] as consumers both at home and abroad lose faith in the economy. The easiest way to understand an economic depression is to examine the only one that has ever happened. Like recessions [music] of past and present, the Great Depression occurred due to a number of different factors. The first was that the US economy grew tremendously and unsustainably during the Roaring [music] Twenties. It seemed as if the profits would never stop, which led to the masses pouring huge amounts of money into the stock market. [music] They would take out loans from banks just so they can invest more money with their stipulation that they would pay interest on the loans using the gains [music] from when they sold their stocks. This worked great for most of the Twenties, but then everything fell apart. Banks lent out too much money that they didn't have with the expectation that it all [music] come back with interest. It's important to remember that whatever goes up must come down, even the economy. People mortgage their homes and used all of their disposable income to buy into the stock market. In October [music] of 1929, the stock market reached its peak and then began to cool off. This was always [music] bound to happen as economic growth can't last forever. There's always an inevitable resettling of the stock market [music] so that it can grow organically in the future."
+    },
+    {
+      "id": 174,
+      "debut": 9683.72,
+      "fin": 9741.12,
+      "temps_estime": false,
+      "titre": "The 1929 crash, panic and bank runs",
+      "resume": "Stocks declined and panic set in; if people had stayed calm the 1929 crash might have been only a recession. Losing faith in banks that had made unsustainable loans, people withdrew their money, banks defaulted on more loans and the depression was extended for years.",
+      "mots_cles": [
+        "1929 stock market crash",
+        "bank runs",
+        "panic",
+        "loss of faith in banks",
+        "loan defaults",
+        "bank withdrawals",
+        "depression prolonged"
+      ],
+      "texte": "Unfortunately, during the 1920s, people were not thinking about the consequences of pouring [music] all of their money and assets into an economic system that would eventually need to reset. Stock markets began to decline [music] and everyone began to panic. If the masses remained calm and didn't try to desperately pull out all their money, the [music] crash of 1929 might have just led to a recession, but that's not what happened. Banks and companies warned that if everyone withdrew all their money at once, they would default on their loans and the entire economy would fall apart, but no one listened. This would [music] be one of the main factors that led to the Great Depression. At the same time that the stock market crashed, people lost faith in the banks themselves. They had seen the bad decisions made by the bankers when they extended loans [music] that were not sustainable. Now, people were worried that the banks would lose all their savings as well, so they started withdrawing all of their money from financial institutions. [music] With less money in their vaults, banks defaulted on more loans, thus exacerbating the economic decline [music] even further and extending the depression of the economy for several more years. During the Great Depression,"
+    },
+    {
+      "id": 175,
+      "debut": 9741.12,
+      "fin": 9811.4,
+      "temps_estime": false,
+      "titre": "Great Depression impact: 25% unemployment and global spread",
+      "resume": "Unemployment reached almost 25% and GDP fell about 30%, collapsing industries. With US consumers unable to buy foreign goods and gold flowing into the US, other currencies were devalued and foreign banks raised rates, spreading depression across the world in the 1930s.",
+      "mots_cles": [
+        "Great Depression unemployment 25%",
+        "GDP fell 30%",
+        "global spread",
+        "gold flows",
+        "currency devaluation",
+        "foreign trade",
+        "1930s",
+        "world economy"
+      ],
+      "texte": "the unemployment rate skyrocketed to almost 25%. [music] A quarter of the country couldn't feed their families, let alone buy products or invest in the economy. This meant businesses couldn't grow and entire industries collapsed. It's estimated that the GDP fell by 30% [music] as United States companies struggled to produce their products and sell them within the country and abroad. And this led to another problem. As the United [music] States economy went into free fall, it had consequences for the rest of the world. US citizens struggled to make ends meet, meaning they didn't have surplus money to spend on foreign [music] products. This hurt other economies around the world that depended heavily on the US consumer buying their goods. [music] The exports coming out of the United States tended to be relatively cheap, while products from countries in Europe were more expensive. As foreign economies bought more and more US [music] goods, their gold stores flowed into the United States. This in turn devalued the currencies of other countries as their gold reserves were depleted. Foreign banks raised [music] interest rates to try to stop the trade imbalance, but it was too late. The Great Depression in the United States spread across the world and caused other economies to decline. In the end, the United States was not the only country to experience [music] depression during the '30s. Almost every economy in the world was impacted by a decline in"
+    },
+    {
+      "id": 176,
+      "debut": 9811.4,
+      "fin": 9835.44,
+      "temps_estime": false,
+      "titre": "How the Great Depression ended: FDR and the FDIC",
+      "resume": "President Franklin D. Roosevelt created the Federal Deposit Insurance Corporation and used monetary and fiscal policies to stabilize the economy and increase GDP. With high interest rates, these policies eventually produced recovery, and the Depression was a series of events happening at once.",
+      "mots_cles": [
+        "Franklin D. Roosevelt",
+        "FDIC",
+        "monetary policy",
+        "fiscal policy",
+        "Great Depression recovery",
+        "economic stabilization",
+        "high interest rates"
+      ],
+      "texte": "output and trade. In order to fix the economy, United States [music] President Franklin D. Roosevelt started the Federal Deposit Insurance Corporation or FDIC. This organization used several monetary and fiscal policies [music] to stabilize the economy and increase GDP. These policies, along with high interest rates, eventually caused the economy to recover. It's important to note that the Great Depression [music] was a series of unfortunate events that all occurred at"
+    },
+    {
+      "id": 177,
+      "debut": 9835.44,
+      "fin": 9874.8,
+      "temps_estime": false,
+      "titre": "Why recessions are hard to predict",
+      "resume": "Recessions rarely have a single cause, so economists, bankers and corporations only know an economy is in recession after it happens and predicting with 100% accuracy is impossible. Rising inflation, interest rates and unemployment together raise the odds, but conclusions need real GDP data.",
+      "mots_cles": [
+        "predicting recessions",
+        "no single cause",
+        "inflation and interest rates",
+        "unemployment rate",
+        "real GDP data",
+        "economists",
+        "recession indicators"
+      ],
+      "texte": "the same time. This is exactly how recessions occur as well. There is rarely a single event [music] that economists can point to which causes the recession. This is why economists, bankers, and corporations don't know if an economy is in a recession [music] until it actually happens. Predicting a recession with 100% accuracy is impossible. There are definitely [music] key factors that indicate a recession might be coming, such as an increase in inflation and the resulting increase in interest rates. And if unemployment rates are going up at the same [music] time as interest rates, there's an even higher chance that an economy is about to go into a recession. However, until real GDP can be analyzed and economists have all of the data, no definitive conclusion can be made. So, the [music]"
+    },
+    {
+      "id": 178,
+      "debut": 9874.8,
+      "fin": 9915.92,
+      "temps_estime": false,
+      "titre": "Recession versus depression summary and global consequences",
+      "resume": "The difference between recession and depression is mostly time and severity: a severe recession lasting years, or a 10% GDP decline multiple years in a row, is a depression. In a global economy a recession in the US, China or the EU hits other economies, and a depression in a major economy would have severe global consequences.",
+      "mots_cles": [
+        "recession vs depression summary",
+        "10% GDP decline",
+        "global economy",
+        "United States China EU",
+        "large consumers",
+        "depression consequences",
+        "economic contagion"
+      ],
+      "texte": "difference between an economic recession and depression is mostly a matter of time and how bad things really get. A severe recession that lasts for several years is definitely a depression. Also, if GDP declines by 10% multiple years in a row, then an economy is [music] also officially in a depression. And since we now operate in a global economy, one country's recession will impact the rest of the world's economies. This is especially true of countries like the [music] United States, China, and those in the European Union, who generate an enormous amount of GDP and are also large consumers. Only [music] time will tell how current events will affect the economy, but one thing is for sure, if a major economy goes into a depression in today's day and age, it'll have severe consequences for economies around the"
+    },
+    {
+      "id": 179,
+      "debut": 9915.92,
+      "fin": 9972.56,
+      "temps_estime": false,
+      "titre": "Collapse scenario begins: inflation and stagflation as warning signs",
+      "resume": "A new scenario section imagines the day the US economy begins to collapse, preceded by warning signs economists flagged for years. High inflation bordering on hyperinflation combined with slowing growth and unemployment creates stagflation, a bind where lowering inflation may raise unemployment.",
+      "mots_cles": [
+        "economic collapse scenario",
+        "warning signs",
+        "hyperinflation",
+        "stagflation",
+        "inflation",
+        "unemployment",
+        "government bind",
+        "US economy"
+      ],
+      "texte": "world. The United States wakes up with millions of people getting ready to play a role in the economy. From the workers keeping the retail sector running to the stock brokers handling huge amounts of money, everyone plays their part. But today is no ordinary day, because today is the day the US economy begins to collapse, and it'll happen sooner than anyone knows. That's not to say an economic collapse happened out of nowhere. There are warning signs all around, and many economists have been trying to tell people for a long time. Inflation is likely been high for a long time, bordering on hyperinflation. When money has less value, the price of goods and services goes up too, [music] and as salaries rarely rise with them, it becomes harder and harder to afford even basic goods. The economy might have been slowing down in growth as well, with many people on unemployment. The combination of these two factors leads to a condition called stagflation. This puts the government [music] in an unfortunate bind, as the methods needed to lower inflation might lead to higher unemployment. It's a bad state of affairs, but the dam is about to burst."
+    },
+    {
+      "id": 180,
+      "debut": 9972.56,
+      "fin": 10044.36,
+      "temps_estime": false,
+      "titre": "Day 1: stock market panic and billionaire losses",
+      "resume": "Loss of investor confidence, with the debt ceiling vote adding tension, sets off a snowball of selling that wipes out billions in hours. Billionaires like Jeff Bezos and Elon Musk could lose half their net worth, small investors lose retirement savings, and companies collapse and cut jobs.",
+      "mots_cles": [
+        "stock market crash",
+        "investor confidence",
+        "debt ceiling",
+        "selling snowball",
+        "billionaires",
+        "Jeff Bezos",
+        "Elon Musk",
+        "retirement savings"
+      ],
+      "texte": "The stock market is the method most people use to gauge the health of the economy. If it's doing well, people are likely to keep investing, but when there's a sudden lack of investor confidence in the market, it can go downhill in a hurry. And it doesn't take much. If a major player suddenly goes bankrupt or a bad economic or global news drops, people start selling their stocks. Tension over current [music] political affairs, like the pending vote to raise the US debt ceiling, only makes things worse. [music] When some people start selling, others follow suit, and the snowball effect starts. Easy to get started, hard to stop, and that's where the panic starts. In a matter of hours, billions of dollars are lost in the US economy. Major companies see their stock value drop precipitously, some losing much of their net worth. And let's not forget about the billionaires. Many of them, like Jeff Bezos and Elon Musk, have their net worth heavily tied up in stock holdings. That means they lose and gain billions of dollars while sleeping. And today, they might just see half their net worth disappear into thin air. It's a disaster for everyone from the billionaires to the small investors who see their retirement savings go up in smoke. Many companies see their entire net worth disappear. And by the close of the trading day, countless people are out of work and facing an uncertain future. But it's only going to get worse"
+    },
+    {
+      "id": 181,
+      "debut": 10044.36,
+      "fin": 10106.2,
+      "temps_estime": false,
+      "titre": "Day 2: bailout bill voted down",
+      "resume": "The worst day for stocks since 1929 prompts the government to seek a bailout as in 2008 and 2020, but a hurried bill is voted down narrowly, with the far right wanting less spending and the far left a bigger bill. The failure deepens the confidence loss and makes the situation look like a depression.",
+      "mots_cles": [
+        "Day two",
+        "bailout bill",
+        "2008 bailout",
+        "2020 relief",
+        "Republicans and Democrats",
+        "congressional failure",
+        "stock market slide",
+        "depression"
+      ],
+      "texte": "from here. Day two. The US government is in a panic. This is the worst day for stocks since 1929, even eclipsing the chaos caused by the Great Recession of 2008. They know something needs to be done, providing aid to keep the economic collapse from getting worse. That's what happened in both 2008 and 2020. After the stock market collapse in 2008, a costly bailout bill was proposed, giving many of the businesses who were about to fold an infusion of cash. And in 2020, as the stock market collapsed due to the coronavirus pandemic, the government provided both aid to businesses who were shut down and direct payments to Americans who were out of work. That should work again, assuming the Republicans and Democrats can work together. No big deal, right? Not this time. A hurried bailout bill designed to stop the stock market collapse is voted down by [music] a narrow margin, with some on the far right not wanting to spend taxpayer dollars and some on the far left wanting a more robust bill. The result is a further loss of confidence in the US economy, complete with a stock market slide to match. It's starting to look much less like a recession and more like depression. And people around the"
+    },
+    {
+      "id": 182,
+      "debut": 10106.2,
+      "fin": 10171.56,
+      "temps_estime": false,
+      "titre": "Day 2: global fallout, $30 trillion debt and panic buying",
+      "resume": "The stock market loses over 10% in two days, and the $30 trillion national debt, much owed abroad, makes creditors worry and call in debts as the dollar falls. Businesses close, unemployment grows and people stock up on supplies, worsening things.",
+      "mots_cles": [
+        "$30 trillion national debt",
+        "dollar decline",
+        "creditors call in debts",
+        "stock market down 10%",
+        "bankruptcies",
+        "panic buying",
+        "unemployment",
+        "global fallout"
+      ],
+      "texte": "world are paying attention. The stock market has lost more than 10% of its value in only two days, and everyone who relies on the US government for money is starting to get worried. [music] That includes Americans and those abroad. The US government runs a deficit, a massive one, and many of those dollars are owed abroad. The US national debt right now is at whopping $30 trillion and as the US economy continues its free fall, that'll have a global fallout. The US dollar declines in value quickly and many of the creditors are worried they'll never get their money back. So, some might decide to call in their debts while they can, to which the US might start by saying, \"I'm good for it, man. I'll pay you next week.\" But, it's not just the big economic players who feel the damage created by the collapse. As businesses shut down due to the stock crash and resulting bankruptcies, more people start to find themselves out of work. They worry where their next meal will be coming from and what would happen if society breaks down as a whole. As night falls on the United States for the second time in the midst of a massive economic collapse, many people [music] look at the news and say, \"We better get out there tomorrow and pick up some supplies, just in case.\" And that might just make things worse."
+    },
+    {
+      "id": 183,
+      "debut": 10171.56,
+      "fin": 10238.56,
+      "temps_estime": false,
+      "titre": "Day 3: grocery shortages, looting and unrest",
+      "resume": "Grocery stores are emptied by panic buyers like in the early pandemic, creating the shortages people fear. Viral footage shows fights over eggs, an assault on a manager and looting, several big box stores close, and stock market losses reach about 20% in three days.",
+      "mots_cles": [
+        "Day three",
+        "panic buying",
+        "empty shelves",
+        "looting",
+        "supermarket violence",
+        "food shortages",
+        "stock market loss 20%",
+        "social unrest"
+      ],
+      "texte": "[music] Day three. The start of the trading day is 9:30 a.m. and most people heading to the stock market floor look like they're heading to an execution. No surprise, [music] things look grim from the moment the trading starts, but elsewhere, there's already chaos. Grocery stores around the country are seeing a surge in buyers, emptying shelves similar to the way they did in the early days [music] of the pandemic. The sense of uncertainty has driven people to worry about shortages and that means they're going to create those shortages themselves by stripping the shelves. Soon, news footage starts coming out and it's not [music] good because when people are in a panic, they act out. The first footage shows two old women brawling over the last pack of eggs. Next, a video comes out of a man punching out a supermarket manager because she tells him they've run out of meat. Shots of people looting and running out without paying are common and robberies in the parking lot start cropping up as well. By [music] the time evening falls on the US, several major supermarkets and big box stores have been looted, which means they aren't going to be open tomorrow. [music] But hey, at least they're not on Wall Street. The overall losses have fallen to around 20% of the overall stock market in only three days. The panic has grown to an apocalyptic level and people are starting to ask, should the stock [music] market open tomorrow?"
+    },
+    {
+      "id": 184,
+      "debut": 10238.56,
+      "fin": 10271.44,
+      "temps_estime": false,
+      "titre": "Stock market trading halts and circuit breakers",
+      "resume": "Trading has historically been halted after presidential assassinations, wars, major business collapses and 9/11 (six days), and temporary halts were used during the coronavirus shutdown. Market halts trigger at -7%, -13% and -20%, so crossing the third threshold shuts the market down.",
+      "mots_cles": [
+        "trading halt",
+        "circuit breakers",
+        "-7% -13% -20%",
+        "9/11 market closure",
+        "coronavirus halt",
+        "stock market shutdown",
+        "market thresholds"
+      ],
+      "texte": "Historically, major events have led to temporary halts in trading. Assassinations of presidents, outbreaks of major wars, collapses of major businesses have led to shutdowns. And the 9/11 terror attacks led to a 6-day halt. Temporary halts [music] prevented massive sell-offs during the coronavirus shutdown, but it couldn't stop the damage. Stock market halts can also be triggered at three thresholds: [music] -7%, 13%, and 20%. And as the market crosses the third threshold, powers that be say, \"Shut it down.\" So, the stock [music] market won't lose any more dollars tomorrow. But will that solve"
+    },
+    {
+      "id": 185,
+      "debut": 10271.44,
+      "fin": 10367.24,
+      "temps_estime": false,
+      "titre": "Day 4: bank runs, withdrawal limits and presidential gridlock",
+      "resume": "People withdraw large amounts and life savings, creating lines at bank drive-thrus, and banks run out of cash and set withdrawal limits. Government insurance prevents the Great Depression's losses only if the government functions, while the president relies on executive orders and fields calls from worried world leaders.",
+      "mots_cles": [
+        "Day four",
+        "bank run",
+        "withdrawal limits",
+        "bank insurance",
+        "executive orders",
+        "bipartisan negotiations",
+        "world leaders",
+        "cash shortage"
+      ],
+      "texte": "the problem? Day four. People have started realizing this is bad, and it's not going to get better anytime soon. Much like the last morning's panicked grocery shopping, people are worried about another shortage today, money. Most people don't keep much cash on hand, instead keeping all their money in the banks and relying on credit cards to do much of their shopping. But the fear makes people seek out something a little more reliable. So, they head to the bank and do some larger than usual withdrawals. And once again, they're far from the only ones. Footage comes out of lines snaking in and out of bank drive-thrus, clogging traffic. Many people are withdrawing their entire life savings, and banks are running out of cash on hand, forcing them to turn people away. As it becomes clear that this panic isn't abating, many banks start to put withdrawal limits to avoid having to close down and to make sure everyone maintains some access to their account. It could be worse. During the Great Depression, many banks went under entirely, and many people lost their life savings as a result. Since then, banks have been insured by the government to prevent that from happening again, as long as the US government is in semi-functioning order. And that's not something we should ever question. Or is it? With the government failing to pass a relief bill, the president has been reduced to passing executive orders. He's tried to unlock some emergency funding, but his powers are limited, and the bleeding doesn't seem to be stopping. He's ordered the leaders of both parties back to the negotiating table to hash out a bipartisan bill, but both have come to the table with their own demands and aren't in a compromising mood. Making things worse, he spends most of the day fielding angry calls from other world leaders. They've been watching the news and they're concerned about what they're seeing. Is the US economy on the verge of collapse? Right now, everything's in a holding pattern, but it's about to get"
+    },
+    {
+      "id": 186,
+      "debut": 10367.24,
+      "fin": 10443.72,
+      "temps_estime": false,
+      "titre": "Day 5: closed markets and the Fed prints money",
+      "resume": "Day five is scary for what does not happen: the stock market and many banks stay closed and groceries restrict entry. The president orders the Federal Reserve to print money to pay bills, diluting the dollar and worsening inflation, though not yet at Zimbabwe's wheelbarrow level.",
+      "mots_cles": [
+        "Day five",
+        "stock market closed",
+        "banks closed",
+        "printing money",
+        "Federal Reserve",
+        "dollar dilution",
+        "Zimbabwe hyperinflation",
+        "inflation"
+      ],
+      "texte": "worse. Day five. The scariest thing about day five of the American economic collapse isn't what's happening, it's what isn't happening. The stock market is staying shut and no one seems in a hurry to open it again. Many of the banks that dealt with the cash rush yesterday are staying closed, too. Some making people arrange meetings to do withdrawals in person or putting strict limits on the amount that can be taken out. Many smaller banks are just keeping their doors closed and not allowing anyone to withdraw money. Grocery stores are reinstating pandemic-era policies, only letting a small number of people in at a time, and by the time people do get in, most of the shelves are empty. But, they say there's no scarier words than, \"I'm the government and I'm here to help.\" Congress wasn't able to pass a relief bill yet, >> [music] >> but they're still negotiating. Debts are coming due and countries outside the US are starting to wonder if the US has a handle on things. They don't, but the president doesn't want everyone else to know that. The first priority is an infusion of cash to start paying [music] off bills, and the best way to do that is by printing a lot of money. An executive order has the Federal Reserve putting cash [music] on the printer, and the US is able to take care of some pressing issues. But, that has a nasty side effect, [music] diluting the US dollar and contributing to an already brutal inflation number. We're not quite at Zimbabwe level yet, where they printed billion-dollar bills and people needed to show up to stores with wheelbarrows of cash, but economists are getting nervous and a far bigger crisis"
+    },
+    {
+      "id": 187,
+      "debut": 10443.72,
+      "fin": 10472.88,
+      "temps_estime": false,
+      "titre": "The debt ceiling explained and the default threat",
+      "resume": "The debt ceiling is the legal limit on how much the US can borrow and must be raised periodically; the deadline is approaching while Congress debates relief. If it is not raised, the US defaults on its debt, which would be much worse.",
+      "mots_cles": [
+        "debt ceiling",
+        "borrowing limit",
+        "US default",
+        "Congress vote",
+        "relief bill",
+        "government debt",
+        "deadline"
+      ],
+      "texte": "might be just around the corner. The United States [music] debt ceiling is the key to keeping the machine running, and the US usually runs a heavy debt. And when they don't have the money on hand to pay for something, [music] they just borrow more. The government sets a limit on the amount of debt the country can carry, and periodically they have to vote to raise it. That deadline is sneaking up fast, and while the congressmen are debating on what a relief bill should look like, this might be an even more pressing concern. [music] Because if the debt ceiling doesn't get raised, the US defaults on its debt, and that's when things get"
+    },
+    {
+      "id": 188,
+      "debut": 10472.88,
+      "fin": 10573.24,
+      "temps_estime": false,
+      "titre": "Day 6: debt ceiling vote fails and the US defaults",
+      "resume": "Congress votes on raising the debt ceiling, but with a five-seat majority, hardliners and poison pill amendments, the bill gets only 210 of the 218 votes needed. The US is set to default on part of its debt at midnight, stock markets sell American shares, the dollar falls and rivals sense weakness.",
+      "mots_cles": [
+        "Day six",
+        "debt ceiling vote",
+        "218 votes",
+        "210 votes",
+        "poison pill amendments",
+        "US default",
+        "dollar decline",
+        "House of Representatives"
+      ],
+      "texte": "really bad. Day [music] six, Congress has been called back to vote on raising the debt ceiling, and the whole country and the world is watching with baited breath. If they pass the bill, the US will be able to find some creditors to tide them over until the economic crisis passes. >> [music] >> If it fails, default will come almost immediately on a segment of non-bond US debt, further undermining confidence in the economy and sending not just the US markets, >> [music] >> but the world markets into a panic as the world's largest economy continues to convulse. With the stakes high, surely a clean bill can be passed to give the debt [music] ceiling a temporary boost, or at least pass a temporary dispensation, right? Nothing's ever so easy in Congress. It's clear the tensions from the relief [music] bill are spilling over from the minute the debate begins, with multiple congressmen stepping up to raise objections to the bill or offer amendments that are only loosely related to the matter at hand. Arguments fill the halls of the House of Representatives, and to making things [music] worse, the controlling party only has a five-seat margin with around 10 hardline members who often disagree with leadership. They need 218 votes to pass raising the debt limit, but the final bill has multiple poison pill amendments [music] that have angered both the base and radicals. And when the vote roll is called, it falls short with only 210 votes. And the entire world watches as the United States is about to default on a portion of its debt [music] as of midnight. Around the world in stock markets that are still operating, people start selling off their shares of American companies. >> [music] >> The American dollar continues to decline rapidly, and the exchange rate becomes brutal for Americans looking to spend money outside [music] of the country. And around the world, various powers start to sharpen their knives as the US looks weaker than it's been in over 100 years. Could [music] this be the end of the United States as a great power, or will it be another economic bump in the road? A whole lot of people are waiting"
+    },
+    {
+      "id": 189,
+      "debut": 10573.24,
+      "fin": 10637.16,
+      "temps_estime": false,
+      "titre": "Day 7: default and China seizes US assets",
+      "resume": "The US officially cannot pay its debts, and the president calls allies, with Europe understanding. China, the biggest US creditor, reportedly places US company outposts under Chinese control and detains US ships, and the president, unwilling to add an international crisis, trusts China's word.",
+      "mots_cles": [
+        "Day seven",
+        "US default",
+        "China biggest creditor",
+        "seizing US assets",
+        "detained US ships",
+        "allies",
+        "Europe",
+        "international crisis"
+      ],
+      "texte": "to find [music] out. Day seven, as the economic crisis enters its first full week, the president is not [music] happy. He's already called up the leaders of both parties, reading them the riot act, and then watched with dismay as the clock rolled over and America officially was unable to pay its debts. He spent the rest of the [music] early morning on the phone with allies, assuring them this was only a temporary problem, and they'd get their money in short order. Some, like most of Europe, [music] were understanding, although rumblings in the streets of Europe was that doing business with America was not a good proposition right [music] now. But other countries were less understanding. China, the single biggest US creditor, wasted no time, and reports started circling the globe of outposts of US companies being placed under [music] Chinese control and US ships being detained at Chinese ports. The president had several tense phone calls with Chinese leadership, but the Chinese were cagey and wouldn't admit that there was an official policy of seizing US assets, although they wouldn't deny it, either. And in the throes of a massive economic crisis at home, the US wasn't looking to add an international crisis to that. So, the president had little choice but trust China's word and slink away quietly. Back on the home front,"
+    },
+    {
+      "id": 190,
+      "debut": 10637.16,
+      "fin": 10676.8,
+      "temps_estime": false,
+      "titre": "Small business failures and unemployment backlogs",
+      "resume": "A week in, companies face cash flow problems, expansion plans stop, lenders cancel loans and thousands of small businesses close, unable to pay rent. Tens of thousands more go on unemployment rolls, creating system backlogs and rising tensions.",
+      "mots_cles": [
+        "small business closures",
+        "cash flow problems",
+        "canceled loans",
+        "rent",
+        "unemployment backlog",
+        "job losses",
+        "economic tension"
+      ],
+      "texte": "things were about to go from bad to worse. A week into the crisis, many companies were struggling with a massive cash flow problem. Many owners had seen their companies' value drop like a rock, or had problems getting the cash they needed to grow their business. Expansion plans were put on hold, planned loans [music] were canceled by timid lenders, and thousands of small and mid-size businesses had seen their narrow profit margin disappear and were forced to close up shop when it was clear they would not be able to make this month's rent. And that put tens of thousands of new people out of work and on the unemployment rolls, causing massive backlogs in the systems. Tensions are rising as people don't know where their next paycheck will come from. That's a recipe for a tinderbox [music] about to"
+    },
+    {
+      "id": 191,
+      "debut": 10676.8,
+      "fin": 10751.64,
+      "temps_estime": false,
+      "titre": "Day 8: viral supermarket incident sparks riots",
+      "resume": "Social media becomes the outlet for blame on the government, and a viral video of an old woman roughed up by security when her credit card is declined sparks a brawl. Riots spread to cities and suburbs, with supermarkets ransacked, government buildings attacked, police outnumbered and anger crossing political lines.",
+      "mots_cles": [
+        "Day eight",
+        "social media",
+        "viral video",
+        "credit card declined",
+        "riots",
+        "supermarket looting",
+        "police outnumbered",
+        "government blame"
+      ],
+      "texte": "explode. Day eight. One area hasn't suffered much in the economic disaster, social media. As the pandemic grows, everyone with access to the internet is using social media to vent and make their own suggestions for what to do, and everyone seems to hate every other idea. Political tensions are higher than ever, and everyone seems to agree on one thing, it's the government's fault. >> [music] >> All it takes is one spark to make things boil over, and this comes when a video goes viral of an interaction at a supermarket. [music] An old woman with a basket of groceries finds that her credit card has been declined and is roughly handled by security when she begs them to let her take the food anyway. That sparks a brawl in the store with customers brawling with security and later police. The footage spreads around the world in a matter of hours and the public is not happy. It starts as localized riots around the scene of the initial fighting but soon people in cities and suburbs around the country are taking to the streets. Some are ransacking supermarkets in a stepped-up version of the initial food wars. Others are taking their frustrations out on government buildings, looting stores, or brawling with the authorities in the streets. The police are out in force trying to maintain order but some find themselves outnumbered and others aren't interested in fighting with ordinary Americans in a panic over the economy. The public feels like the government isn't doing anything and that's something that cuts across all political lines. And one figure is taking more of"
+    },
+    {
+      "id": 192,
+      "debut": 10751.64,
+      "fin": 10783.04,
+      "temps_estime": false,
+      "titre": "White House protest and the president in the bunker",
+      "resume": "A mob gathers at the White House and throws items over the fence, and the Secret Service disperses it with several agents injured and protesters arrested or hurt. The president is moved to the White House bunker.",
+      "mots_cles": [
+        "White House protest",
+        "Secret Service",
+        "protesters",
+        "presidential bunker",
+        "civil unrest",
+        "injured agents",
+        "mob"
+      ],
+      "texte": "the heat than anyone else. When a mob of protesters starts gathering at the White House, the Secret Service keeps an eye on it nervously. After all, protesting is legal but when they start approaching the fence and tossing things over it, they spring into action. The Secret Service quickly tries to disperse the crowd but several agents are injured by tossed bottles. They fight back arresting some protesters and injuring others and the president is quickly ushered down to the White House bunker. The crowd is eventually dispersed but it's clear something has unleashed and it's not going away anytime soon. And [music] the rest of the world has"
+    },
+    {
+      "id": 193,
+      "debut": 10783.04,
+      "fin": 10818.1,
+      "temps_estime": false,
+      "titre": "Day 9: National Guard refuses orders and businesses close",
+      "resume": "Footage of burning American cities goes viral and the president's shaky bunker speech lowers confidence. States call up the National Guard, but guardsmen refuse orders, worrying about their own savings, and more businesses close after the unrest.",
+      "mots_cles": [
+        "Day nine",
+        "National Guard",
+        "guardsmen refuse orders",
+        "president speech",
+        "business closures",
+        "riots",
+        "American cities",
+        "confidence"
+      ],
+      "texte": "noticed, too. Day nine. The footage of American cities and suburbs in flames has gone viral around the world and the president has given a shaky speech from the bunker calling for peace. To put it lightly, it didn't raise anyone's confidence about the state of things. States have begun calling up the National Guard to restore order but reports are coming in of guardsmen refusing their orders. After all, they might be facing off against their own loved ones and many of them are also looking at their bank accounts terrified of what's happening. Even more businesses choose [music] to close down after last night, some suffering serious damage in the unrest and others not wanting to expose themselves to the riots if they kick off again. And some"
+    },
+    {
+      "id": 194,
+      "debut": 10818.1,
+      "fin": 10885.96,
+      "temps_estime": false,
+      "titre": "Radical proposals: seizing billionaire assets, Musk flees, gold rush",
+      "resume": "Powerful members of both parties urge the president to declare an emergency and seize billionaires' assets, and Elon Musk reportedly flies to Canada. Other countries and allies seize American assets or demand answers, and financially savvy people trade cash for commodities like gold, though its value in a total collapse is uncertain.",
+      "mots_cles": [
+        "seizing billionaire assets",
+        "state of emergency",
+        "Elon Musk Canada",
+        "foreign asset seizures",
+        "gold",
+        "commodities",
+        "dollar value",
+        "democracy vs economy"
+      ],
+      "texte": "radical solutions are being proposed. [music] So, what's more important? The United States' economic health or the country staying a democracy? Powerful members of both parties have called for the president to declare a state of emergency and take extreme measures, including seizing the assets of some of the country's most powerful billionaires. After all, those several hundred billion dollars might come in handy. Of course, they probably can't agree on which billionaire [music] should be first in line. Probably the one they disagree with the most. But, one isn't waiting to find out. Word starts getting around that Elon Musk took a private plane to Canada overnight, where he still has citizenship. And he's not the only one losing faith. Word starts spreading around the world of more and more American assets being seized by other countries. It continues in China, but other less powerful countries are joining in. Even the US's allies in the EU and the Anglosphere are sounding increasingly agitated about the situation, demanding answers from the president as the US dollar keeps inflating and the political situation gets increasingly volatile. Around the country, those well-versed in financial matters decide to get what they can while the dollar still has some value. And many try to trade their cash in for commodities with a solid value, like gold. But, will gold even be worth anything in the event of a complete"
+    },
+    {
+      "id": 195,
+      "debut": 10885.96,
+      "fin": 10954.12,
+      "temps_estime": false,
+      "titre": "Day 10: dollar at all-time low and global ripple effects",
+      "resume": "The dollar plunges to an all-time low, thousands of businesses close daily, and the president orders stock markets closed and cash withdrawal limits without the radical measures some wanted. Allies cancel deals with American companies, branches abroad shut down, online markets stop accepting dollars, and Americans abroad head home.",
+      "mots_cles": [
+        "Day 10",
+        "dollar all-time low",
+        "emergency executive orders",
+        "withdrawal limits",
+        "global ripple effect",
+        "American businesses abroad",
+        "dollar volatility",
+        "full-on collapse"
+      ],
+      "texte": "economic collapse? Day 10. Most people have lost faith in the United States' ability to pull itself out of this economic crisis anytime soon. And it's looking more like a full-on collapse than a recession or depression. The dollar has plunged to an all-time low around the world. Thousands of businesses close by the day, and the public is in a panic. The president addresses the nation again, announcing emergency executive orders keeping the stock markets closed and instituting strict limits on cash withdrawals to prevent another bank run. However, he doesn't announce any of the far-reaching radical moves some wanted, although many say it's just a matter of time. All around the world, a massive ripple effect begins to emerge. Even the US's closest allies see a grim trend. Pending details with American companies are called off. Ongoing projects are put on hold, and branches of American businesses abroad start to shut down due to the contraction of the US economy. Many online markets stop taking the dollar altogether because it's too volatile to make a reliable currency as it declines by the day. The seizure of American businesses and ships in less friendly countries continues, but the US is too preoccupied to care at the moment, and many American [music] citizens abroad start to head home. Not that home is looking all that inviting"
+    },
+    {
+      "id": 196,
+      "debut": 10954.12,
+      "fin": 10989.68,
+      "temps_estime": false,
+      "titre": "Prepper supplies for a prolonged collapse",
+      "resume": "As people prepare for a prolonged crash, long-time preppers stock food with long shelf life, water filters, winter clothing, tools including axes, first-aid kits and battery-operated radios and flashlights. The video notes these suit total societal collapse more than an economic collapse.",
+      "mots_cles": [
+        "preppers",
+        "survival supplies",
+        "long shelf-life food",
+        "water filters",
+        "axes",
+        "first-aid kits",
+        "battery radios",
+        "societal collapse"
+      ],
+      "texte": "as the public starts to prepare itself for a prolonged economic crash and possibly a total collapse, what will they need? The hoarding we saw in the first days wasn't exactly productive, but long-time preppers have a plan for the worst-case scenario. They're stocking up on food with a long shelf life, water filters to ensure a supply of clean water, clothing for the winter, tools including axes that will allow them to cut wood for fire, and serve as a weapon in a pinch, first-aid kits, battery-operated radios and flashlights [music] in case the power goes out. Most of these are worst-case scenario items for total societal collapse rather than an economic collapse, but [music] who knows where we're headed. Is there a way"
+    },
+    {
+      "id": 197,
+      "debut": 10989.68,
+      "fin": 11016.48,
+      "temps_estime": false,
+      "titre": "Ways out of collapse: Venezuela and Zimbabwe versus Argentina",
+      "resume": "Whether a country escapes collapse depends on government choices: Venezuela and Zimbabwe doubled down on faulty policies, leading to hyperinflation and isolation. Argentina defaulted, negotiated with creditors and restructured its debt, rebounding after a hard four-year depression through cooperation and savvy policy.",
+      "mots_cles": [
+        "Venezuela",
+        "Zimbabwe",
+        "hyperinflation",
+        "Argentina default",
+        "debt restructuring",
+        "economic recovery",
+        "government policy",
+        "four-year depression"
+      ],
+      "texte": "out of an economic collapse? That heavily depends on what the government [music] does. Some countries like Venezuela and Zimbabwe doubled down on faulty policies that led to hyperinflation and greater isolation from the world. Others like Argentina were able to rebound from defaulting on their debt by negotiating with their creditors and [music] restructuring their debt. It was a long, hard four-year depression, but they eventually started rebounding economically and came out of the default. They just needed to work together and establish savvy policy. [music]"
+    },
+    {
+      "id": 198,
+      "debut": 11016.48,
+      "fin": 11029.12,
+      "temps_estime": false,
+      "titre": "Outro: related videos on bankruptcy and the Great Depression",
+      "resume": "The video ends with a sarcastic remark about Congress and recommends watching what happens when a country goes bankrupt and 'Great Depression: What Was Life Actually Like?' for the last time the country hit rock bottom.",
+      "mots_cles": [
+        "outro",
+        "country goes bankrupt",
+        "Great Depression life",
+        "related videos",
+        "Congress",
+        "recommendation"
+      ],
+      "texte": "Good luck with that, Congress. Want to learn more about what happens when it all goes south? Check out what happens to a country when it goes bankrupt, or watch Great Depression: What Was Life Actually Like? for a look at the last time the country hit rock bottom."
     }
   ]
 }

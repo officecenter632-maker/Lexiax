@@ -25,3 +25,14 @@ Speech : 5541 lignes, 11029,12 s (~3 h 04), sous-titres automatiques (anglais), 
 
 ## Point d'arrêt (mis à jour)
 - Dernière ligne traitée : 4539 (fin 9215,48 s). Prochaine étape : tranche 6 à partir de la ligne 4540 (« the last few years, from a global pandemic to Russia invading Ukraine… », section récession contre dépression), id à partir de 166.
+
+## Tranche 6 (dernière) et bilan final
+- Tranche 6 : lignes 4540 à 5541 (153,6 à 183,8 min, soit ≈ 30,2 min), 33 segments (id 166 à 198). Remarques : section « récession contre dépression » (définitions, Grande Dépression, publicité Morning Brew au segment 167), puis scénario jour par jour d'un effondrement économique américain (krach boursier, plan de sauvetage rejeté, ruée bancaire, plafond de la dette, défaut, saisies d'actifs par la Chine, émeutes, préparatifs), puis voies de sortie (Venezuela, Zimbabwe, Argentine) et conclusion. Coupures en fin de ligne, temps_estime false partout ; certaines coupures tombent au milieu d'une phrase (lignes de sous-titres automatiques courtes).
+
+## Bilan final (vidéo complète)
+- Statut : complet, lignes 1 à 5541 sur 5541, 0 à 11029,12 s (≈ 183,8 min), 198 segments (id 1 à 198).
+- Plus court : id 198 (≈ 12,6 s, conclusion et recommandations de vidéos) ; plus long : id 122 (≈ 117,5 s).
+- Temps estimés : aucun.
+- Passages douteux : transcription automatique avec coquilles d'origine conservées mot pour mot ; marqueurs « >> [music] » conservés dans les textes ; les chiffres et affirmations du speech (dette, dates, scénario fictif de la dernière partie) sont reproduits tels que dits, non vérifiés. Le segment 167 est une publicité (sponsor).
+- Problèmes rencontrés : aucun. Segments 1 à 133 d'un agent précédent, repris sans modification après vérification par script.
+- Point d'arrêt : complet. Rien à reprendre.
