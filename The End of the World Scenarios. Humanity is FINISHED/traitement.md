@@ -17,3 +17,11 @@ Départ : début de la vidéo (aucun segments.json existant). Speech : 6858 lign
 
 ## Point d'arrêt
 - Dernière ligne traitée : 3792 (« …as shown by number nine »). Prochaine étape : reprendre à la ligne 3793 (« on our list. Number nine, catastrophic climate change… »), id suivant : 122.
+
+## Reprise à la ligne 3793 (agent suivant)
+- Travail précédent vérifié avec le script de l'étape 5 : OK (121 segments, lignes 1 à 3792). Même méthode : coupures en fin de ligne (temps_estime false), début d'un segment = fin du précédent, titres anglais « Number N: ... » pour l'ouverture d'un scénario, textes copiés mot pour mot.
+- Tranche 5 : lignes 3793 à 4784 (sur 6858), minutes couvertes 122,4 à 154,1 (9248,19 s), 40 segments (id 122 à 161). Contenu : fin du classement « 12 most insane ways » (Number nine climat à Number one astéroïde, segments 122 à 134), puis nouvelle vidéo « best places to survive the end of the world » (Nouvelle-Zélande, Australie, Islande, Altiplano, Lesotho, Tristan da Cunha, Antarctique, villes refuges, bunkers, segments 135 à 150), puis scénario fictif de Troisième Guerre mondiale avec refuge à Tristan da Cunha (segments 151 à 161, en cours). Les coupures sont posées sur les lignes qui portent le titre « Number N », donc une phrase de transition peut commencer un segment.
+- Remarque : sous-titres automatiques, balises « [music] » conservées.
+
+## Point d'arrêt (mis à jour)
+- Dernière ligne traitée : 4784 (« democratically elected every few years. »). Prochaine étape : reprendre à la ligne 4785 (« The best part about the island, though, is its remoteness. »), id suivant : 162. Le scénario Tristan da Cunha continue après la ligne 4784.
