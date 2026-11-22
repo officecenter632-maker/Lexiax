@@ -4,12 +4,12 @@
   "titre_video": "World War 3 Protocol. Why Global Nuclear Annihilation Is Inevitable.",
   "duree_s": 11483.66,
   "avancement": {
-    "lignes_traitees": 5693,
-    "fin_traitee_s": 11139.21,
+    "lignes_traitees": 5891,
+    "fin_traitee_s": 11483.66,
     "nb_lignes_total": 5891,
-    "complet": false
+    "complet": true
   },
-  "nb_segments": 236,
+  "nb_segments": 246,
   "segments": [
     {
       "id": 1,
@@ -4492,6 +4492,196 @@
         "long-term health risks"
       ],
       "texte": "dangerous. At this point, external contamination is unlikely to be a serious [music] threat anymore, but the biggest threat comes from internal contamination. Too weak to penetrate [music] the skin at this point, radioactive debris that gets lodged into wounds or inside your lungs can still be deadly or pose serious [music] long-term health risks. So, when you leave your shelter, you want to take cautions against breathing in fine radioactive particles. Face masks [music] like the type we've been wearing due to the coronavirus outbreak are okay, but not great for this. You'd be better off wetting a t-shirt or other large cloth and wrapping it over your mouth and nose. It's important to keep it wet, as the [music] moisture will attract fine particles and trap them, and important to cover both your nose and mouth."
+    },
+    {
+      "id": 237,
+      "debut": 11139.21,
+      "fin": 11161.33,
+      "temps_estime": false,
+      "titre": "Washing up after excursions and the 7-day milestone",
+      "resume": "After any trip outside, protective gear and exterior garments must be washed, and the body washed down to remove fine particles that could be breathed in or enter a cut. Survivors need food and water in the shelter to reach the seven-day milestone, otherwise their story ends there.",
+      "mots_cles": [
+        "wash protective equipment",
+        "exterior garments",
+        "body washing",
+        "fine particles",
+        "cuts and scrapes",
+        "food and water",
+        "7 days",
+        "shelter"
+      ],
+      "texte": ">> [music] >> After any excursion, you'll need to wash whatever protective equipment you've used and all exterior [music] garments. If you can, give your body a good washing down as well, just to remove any fine particles that you might end up breathing in or shoving into a cut or scrape accidentally. Hopefully, you had food and water in your shelter, or at least just water, [music] or you probably aren't making it to this milestone, and your story ends here."
+    },
+    {
+      "id": 238,
+      "debut": 11161.33,
+      "fin": 11225.49,
+      "temps_estime": false,
+      "titre": "Long-term survival: waiting for help and hardening the shelter",
+      "resume": "After seven days the survivor must decide whether to stay or seek help: after a small-scale attack emergency agencies should arrive, but after a full-scale nuclear conflict one is likely on one's own. To improve the shelter, hang plastic or cloth layers in front of exterior doors, wear disposable garbage-bag suits and set up two bucket stations to rinse boots.",
+      "mots_cles": [
+        "long-term survival",
+        "small-scale attack",
+        "full-scale nuclear conflict",
+        "shelter resiliency",
+        "plastic curtains",
+        "garbage bag suits",
+        "boot washing buckets",
+        "radioactive dust"
+      ],
+      "texte": "But, if you've managed to survive [music] 7 days, you're now going to have to think about long-term survival. First, you need to consider if it's best to remain where you are, or seek help. Assuming that this was a small-scale attack, there should still be help from [music] the military or emergency response agencies coming to your city. If it was a full-scale nuclear conflict, [music] though, you're probably completely on your own. If you think help is coming, work on increasing the resiliency of your shelter. Improve the shielding to the outside [music] by creating layers of plastic or cloth, like curtains, that hang in front of the exterior doors. This will help [music] keep radioactive dust down as people go in and out. If you can, simply make suits out of garbage bags to wear over your outer clothing. That way, it can be removed and thrown away in specified disposal locations after each trip. If you've got water to spare, create two cleaning areas for boots. You [music] can do this by filling two buckets with water, and dipping your boots into each one in succession. After a few rinses, dispose of the water somewhere, so there's no chance of it contaminating you or your shelter. You're going to want to pay special attention [music] to boots and feet, as they'll be the most likely to get saturated with fine radioactive debris, since most of it will settle on the ground. You'll also"
+    },
+    {
+      "id": 239,
+      "debut": 11225.49,
+      "fin": 11254.99,
+      "temps_estime": false,
+      "titre": "Signaling rescuers: make the shelter visible",
+      "resume": "Make the shelter visible to search and rescue by creating large geometric shapes from bright materials that catch a helicopter's or patrol's attention, including SOS signs. These displays must be cleaned regularly so that rescuers do not assume the shelter is abandoned.",
+      "mots_cles": [
+        "search and rescue",
+        "signals",
+        "geometric shapes",
+        "bright materials",
+        "SOS",
+        "helicopter",
+        "emergency displays",
+        "shelter occupied"
+      ],
+      "texte": "want to make sure your shelter is visible to search and rescue parties >> [music] >> who are looking for survivors. Create large geometric shapes made of bright materials to immediately grab the attention of a helicopter, or passing rescue [music] vehicle or patrol. SOS is a global sign of distress, but in a city, you should be able to find many creative ways of making that your shelter is occupied with survivors. >> [music] >> Make sure to regularly clean your emergency displays to make it obvious people are still alive. Otherwise, rescue workers might simply assume that the shelter has been abandoned. Whether"
+    },
+    {
+      "id": 240,
+      "debut": 11254.99,
+      "fin": 11292.98,
+      "temps_estime": false,
+      "titre": "Finding safe food after fallout",
+      "resume": "Only eat food completely sealed in non-permeable material such as plastic or canned goods, and never open food outside the shelter. Wrap items in cloth or plastic while transporting them, decontaminate whatever protected them and discard the wrapping or cans exposed to outside dust.",
+      "mots_cles": [
+        "safe food",
+        "canned goods",
+        "sealed packaging",
+        "non-permeable material",
+        "do not open outside",
+        "decontaminate wrapping",
+        "transport food",
+        "outside dust"
+      ],
+      "texte": "you move out or shelter in place, you'll [music] probably need to find food and water eventually. It should be obvious, but avoid anything that isn't completely sealed in non-permeable [music] material, like plastic. Canned goods are excellent options, as they're airtight, but even pastas or breads in plastic wrapping is okay to eat, as long as the wrapping is completely sealed. [music] Just don't open any food items outside of your shelter, and it's best to wrap them in cloth or plastic as you transport [music] them through the outside world and back into your shelter. Though as usual you need to decontaminate whatever you use to protect them. You'll also want to get rid of the wrapping material or tin [music] cans after they're done if they've been in an unsecured area where they could have been exposed outside"
+    },
+    {
+      "id": 241,
+      "debut": 11292.98,
+      "fin": 11339.14,
+      "temps_estime": false,
+      "titre": "Finding safe water after fallout",
+      "resume": "With no electricity there are no water pumps, so survivors should fill sinks and bathtubs immediately and not rely on running water, because the source will eventually be contaminated even though underground pipes are safe for a while. Bottled water from stores is the best option because thick plastic keeps contents safe, but each bottle must be decontaminated before it comes into the shelter.",
+      "mots_cles": [
+        "water supply",
+        "no electricity",
+        "water pumps",
+        "fill bathtubs",
+        "underground pipes",
+        "bottled water",
+        "thick plastic",
+        "decontaminate bottles"
+      ],
+      "texte": "dust. Water will be trickier because [music] there will almost certainly be no electricity in your city which means no water pumps to supply water. If you're lucky enough to be in a safe interior [music] location when an attack takes place, immediately plug up sinks and bathtubs and fill them with water if it's still flowing. Underground water pipes [music] will be safe from the radioactive fallout for a long time but not forever as eventually the body of water that feeds them will be contaminated. That's why even if you have running water after an attack you don't want to rely on it. Better yet, stock up on water bottles which should be easy to find in shopping centers and corner stores after an attack. Most water bottles are made of thick plastic which will keep the contents safe [music] even after fallout has descended. However, as usual you want to decontaminate every bottle of water you bring into your shelter from the outside before you start messing with it. If you"
+    },
+    {
+      "id": 242,
+      "debut": 11339.14,
+      "fin": 11371.38,
+      "temps_estime": false,
+      "titre": "Leaving the city: airports and heading perpendicular to the wind",
+      "resume": "If water cannot be found, the best option may be to leave the city or head toward emergency services, with major airports likely the first rescue sites. When leaving, work out the prevailing wind direction and travel perpendicular to it, like escaping a rip current, to avoid contaminated dust.",
+      "mots_cles": [
+        "leave the city",
+        "emergency services",
+        "airports",
+        "prevailing winds",
+        "perpendicular to wind",
+        "rip current",
+        "contaminated dust",
+        "survival"
+      ],
+      "texte": "can't find water your best option might be just to start moving [music] and get out of the city or head toward emergency services. Major airports are a good place to head toward as it's likely this is [music] where the first rescue efforts will take place. However, if you can't reach one or if government help isn't coming survival will still depend on getting out of the city. It'll help if you can figure out which way the prevailing winds are blowing and head [music] perpendicular to them. You don't want to head into the wind because you could just be getting facefuls of contaminated dust. Instead, much like a rip current, head perpendicular and get out of the stream of air that's carrying"
+    },
+    {
+      "id": 243,
+      "debut": 11371.38,
+      "fin": 11395.34,
+      "temps_estime": false,
+      "titre": "High ground, leeward slopes and drinking water sources",
+      "resume": "Once out of the city, head to high ground, ideally the leeward side of a mountain where wind has not dropped radioactive dust. Fallout settles in low areas and rain and streams wash it down into valleys and plains, so the best drinking water sources are those on high ground.",
+      "mots_cles": [
+        "high ground",
+        "leeward side",
+        "mountain",
+        "fallout settles low areas",
+        "rain and streams",
+        "valleys",
+        "drinking water sources",
+        "wind"
+      ],
+      "texte": "radioactive waste. Once you're out of the city your best bet is to head toward high ground. You're safer on the leeward side of a mountain where the wind hasn't [music] blown radioactive dust and debris onto the soil. Radioactive fallout will settle in low areas >> [music] >> and rains and streams will wash it down the mountains and into the valleys and plains below. It would be wise to learn what major drinking water sources are around your city and then head to those that are on high ground. If you can"
+    },
+    {
+      "id": 244,
+      "debut": 11395.34,
+      "fin": 11428.98,
+      "temps_estime": false,
+      "titre": "Living with long-lived isotopes: strontium-90 and cesium-137",
+      "resume": "Sheltering safely for a few months makes radioactivity levels and debris manageable, but anyone forced to keep living in the area of a nuclear attack should not expect a long healthy life, only a moderately long life with few serious health problems. Strontium-90 and cesium-137 stay dangerous for over 10 years and become part of the environment.",
+      "mots_cles": [
+        "strontium-90",
+        "cesium-137",
+        "long-lived radioactive elements",
+        "few months shelter",
+        "radioactivity levels",
+        "health effects",
+        "environment contamination",
+        "nuclear attack survivors"
+      ],
+      "texte": "shelter in a safe area for a few months radioactivity levels and remaining debris should be manageable. At this point if you're forced to continue living in the area of a nuclear attack, a long healthy life is out of the question, [music] but you can probably enjoy a moderately long life with few serious health problems. Some radioactive elements will remain deadly for years. Strontium-90, for instance, is [music] still dangerous after 10 years, as is cesium-137. If you can't get away from the site of a nuclear attack, or if your entire nation has [music] come under attack, there's probably little you can do to avoid these dangers, as these elements will become part of the environment itself."
+    },
+    {
+      "id": 245,
+      "debut": 11428.98,
+      "fin": 11467.86,
+      "temps_estime": false,
+      "titre": "Why Hiroshima and Nagasaki are habitable: airburst vs ground burst",
+      "resume": "Hiroshima and Nagasaki are habitable today because an attack by another nation would almost certainly use airburst weapons, whereas a ground burst limits destruction but creates massive plumes of irradiated material. An airburst maximizes shock wave and thermal damage while sending much of the radioactive output into the atmosphere or space, and people lived in the ruins within days with few health effects.",
+      "mots_cles": [
+        "Hiroshima",
+        "Nagasaki",
+        "airburst",
+        "ground burst",
+        "shock wave",
+        "thermal radiation",
+        "radioactive output",
+        "habitable"
+      ],
+      "texte": "But, there's a reason why both Hiroshima and Nagasaki are habitable today, and that's because a nuclear attack from another nation will almost certainly [music] be of the airburst variety. A ground burst weapon is one designed to explode when it hits the ground. This greatly limits its destructive potential, but also causes massive plumes of irradiated material. However, [music] an airburst weapon explodes above its target, so the destructive shock wave and thermal radiation can hit as wide an area as possible. This also comes with the benefit of shooting much of the weapon's radioactive [music] output into the atmosphere or into space. Within days of both the Hiroshima and Nagasaki explosions, people were inhabiting the ruins and living lives [music] with few, if any, health effects. So,"
+    },
+    {
+      "id": 246,
+      "debut": 11467.86,
+      "fin": 11483.66,
+      "temps_estime": false,
+      "titre": "Outro: cheer up, the end isn't here and recommended videos",
+      "resume": "The video ends on a joking note that the end is not here after all, inviting viewers to grab a Pip-Boy for the greatest Fallout LARP event ever. It points viewers to a video on what if North Korea launched a nuclear bomb minute by minute and to another video.",
+      "mots_cles": [
+        "outro",
+        "cheer up",
+        "Pip-Boy",
+        "Fallout LARP",
+        "North Korea nuclear bomb",
+        "minute by minute",
+        "recommended video",
+        "end of video"
+      ],
+      "texte": "cheer up, because the end isn't here after all. Now, it's time to grab your trusty Pip-Boy and head off into the greatest Fallout LARP event the world has ever put on. Now, go check out what if North Korea launched a nuclear bomb minute by minute, or check out this other video instead. Another settlement needs your help."
     }
   ]
 }
