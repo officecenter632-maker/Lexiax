@@ -4,12 +4,12 @@
   "titre_video": "Insane Pain Facts, From Phantom Limbs to Brain Freeze",
   "duree_s": 13672.56,
   "avancement": {
-    "lignes_traitees": 5737,
-    "fin_traitee_s": 11154.32,
+    "lignes_traitees": 6624,
+    "fin_traitee_s": 13021.76,
     "nb_lignes_total": 6947,
     "complet": false
   },
-  "nb_segments": 248,
+  "nb_segments": 291,
   "segments": [
     {
       "id": 1,
@@ -4481,6 +4481,773 @@
         "heart attack"
       ],
       "texte": "to die that also has a silver lining. Laughter in the dark. On May 31st, 1410, 53-year-old Martin of Aragon, king of Sicily, was resting in his bedroom at a monastery just outside the walls of Barcelona. The portly monarch had indulged in a lavish meal, polishing off an entire goose, and he was feeling particularly full when his jester, Bora, casually strolled into the room. The king asked Bora where he had been. Martin was complaining about his terrible indigestion, but Bora cracked a ridiculous joke [music] that sent the king into a fit of laughter. He laughed so hard he couldn't stop. And if the story is true, the laughter ended up killing him. Death induced laughter is a thing and it can be very unpleasant. The cause of death could be asphixxiation or heart attack and it might cause deadly fainting. Laughter induced syncopy. Sure, it's not as painful as swallowing lead or having your flesh ripped off with a pair of hot tongs, but it's got to hurt being stabbed in the back by the thing you love the most. Congrats on the"
+    },
+    {
+      "id": 249,
+      "debut": 11154.32,
+      "fin": 11175.6,
+      "temps_estime": false,
+      "titre": "Hook: the injuries that will make you cry",
+      "resume": "A new section opens with a skateboard face plant that feels like the whole body is on fire, asking why that injury hurts so much and which ones are worse. It introduces a countdown of the injuries that will make you cry like a baby.",
+      "mots_cles": [
+        "injuries",
+        "skateboard fall",
+        "road rash intro",
+        "painful injuries",
+        "countdown",
+        "Infographic Show"
+      ],
+      "texte": "epic face plant you just took off your skateboard. Okay, so you slid 30 feet along the road, but hey, at least everything's still attached. It's starting to feel like your entire body is on fire. Why is this injury so painful? And what are some of the ones that are even worse? Stay tuned to find out on this episode of the Infographic Show. The injuries that will make you"
+    },
+    {
+      "id": 250,
+      "debut": 11175.6,
+      "fin": 11232.72,
+      "temps_estime": false,
+      "titre": "Number 10: road rash",
+      "resume": "Road rash happens when skin slides along pavement in a fall from a bike, motorcycle, skateboard or while running, usually stripping the top layer of skin. The pain worsens as it scabs, movement disturbs the wound, dirt under the skin raises infection risk, and healing often leaves a scar.",
+      "mots_cles": [
+        "road rash",
+        "skin abrasion",
+        "motorcycle accident",
+        "infection risk",
+        "scarring",
+        "skinned knee",
+        "scabs"
+      ],
+      "texte": "cry like a baby. Number 10, road rash. Imagine falling off a bike or a motorcycle at high speed. Your skin slides one way and the road says, \"Nope.\" Skaters and runners aren't off the hook either. The faster you go, the more skin you donate to the pavement. Ouch. And it actually has roots in a much more minor and earlier injury. Remember falling on the playground and skinning your knees? Ouch. Now imagine that. But full body road rash is basically a skinned knee on steroids. Usually only the top layer of skin is taken off, but that's enough to cause agonizing pain that will only get worse as it tries to heal and scabs over. Because every time you move, you'll be disturbing the injury. To make matters worse, this injury's got a VIP pass for infections thanks to all the dirt and debris that can enter straight under the skin. Sure, it'll heal if you clean it up and bandage it, but you're probably getting a nice scar as a souvenir. Almost makes you want to pick up a calmer hobby. Nah, who are we kidding?"
+    },
+    {
+      "id": 251,
+      "debut": 11232.72,
+      "fin": 11302.72,
+      "temps_estime": false,
+      "titre": "Number 9: fractured tailbone",
+      "resume": "A tailbone fracture breaks the coccyx, the last section of the spine made of three to five fused vertebrae and a remnant of primate tails. It usually happens from landing on the butt or childbirth, makes sitting painful, cannot be put in a cast and usually heals with a donut cushion over weeks or months.",
+      "mots_cles": [
+        "fractured tailbone",
+        "coccyx",
+        "broken butt",
+        "donut cushion",
+        "childbirth injury",
+        "sitting pain",
+        "spine"
+      ],
+      "texte": "This next injury is all too common, but that doesn't make it hurt even a little less. Number nine, fractured tailbone. Is there anything more embarrassing than having to walk into a doctor's office and say, \"Doc, I broke my butt.\" But that's reality for everyone who suffers a tailbone fracture, also known as the coxix. This is actually the very last section of the spinal column, and it is the last remnant of the tails we used to have as primates. This bone, a fusion of three to five tiny vertebrae, is most commonly busted in a fall where you land on your butt. But child birth can crack it, too. The result, agonizing pain that makes you feel like you're sitting in a medieval torture device. So, what's to be done about a uh a butt fracture? Well, contrary to that one episode of The Simpsons, there is no such thing as a fanny cast. That's both good news and bad news, as the biggest problem is that every time you sit down, it's likely to be a whole world of pain. The coxix usually heals on its own with doctors giving you a donut-shaped cushion to keep the pain off your backside. Surgery can be used to repair the injury if it doesn't heal on its own. But in most cases, it's just going to be several uncomfortable weeks or months, especially if you have a desk job. And"
+    },
+    {
+      "id": 252,
+      "debut": 11302.72,
+      "fin": 11378.56,
+      "temps_estime": false,
+      "titre": "Number 8: broken collarbone",
+      "resume": "A clavicle fracture, common in contact sports, makes any arm movement agonizing and can affect nerves or blood vessels in the chest if the bone is displaced. It is treated with a sling for several weeks or surgery, and it can even happen to babies during vaginal birth.",
+      "mots_cles": [
+        "broken collarbone",
+        "clavicle fracture",
+        "football injury",
+        "sling",
+        "displaced fracture",
+        "newborn injury",
+        "shoulder impact"
+      ],
+      "texte": "it's not the only hidden fracture that can cause some agonizing pain. Number eight, broken collarbone. It's the fourth quarter. You're driving for that goal line and then the other team's linebacker plows into you like a Mac truck, hitting you directly in the shoulder. No big deal. It's just football. He offers you a hand, but as soon as you reach for it, you pass out from the pain. Lights out. Congrats. You have broken a collar bone, also known as a clavicle fracture. This is one of the bones that affects the movement of the arm. And it's actually one of the more dangerous fractures because if the bone is displaced enough in severe cases, it can affect the nerves or blood vessels in the chest area. And it's surprisingly common. And you don't even have to be an athlete. This is a fracture that can happen whenever there's sufficient impact to the shoulder. And any attempt to move the arm is likely to cause agonizing pain. For treatment, the arm is usually immobilized in a sling for several weeks, but surgical repair can be necessary if the bones were displaced badly. However, maybe the most surprising thing about this injury is that some of the victims can be just out of the womb. This injury can happen to babies when they're born, as the vaginal birth process can push their soft, tiny arms. Minutes old and already filing an injury report. Welcome to the world,"
+    },
+    {
+      "id": 253,
+      "debut": 11378.56,
+      "fin": 11445.12,
+      "temps_estime": false,
+      "titre": "Number 7: boxer's fracture",
+      "resume": "A boxer's fracture is a break in the neck of the fifth metacarpal bone of the hand, making it extremely painful to move or close the hand. Untreated it can affect the ability to form a fist, so it is treated with splinting or taping, and it more often comes from bar fights than boxing.",
+      "mots_cles": [
+        "boxer's fracture",
+        "fifth metacarpal",
+        "hand fracture",
+        "punching injury",
+        "splinting",
+        "bar fights",
+        "knuckle"
+      ],
+      "texte": "kiddo. This next injury is what happens when the punched punch back. Number seven, boxers fracture. If you punch for a living, your hands take a beating, literally. Even with gloves, pounding a heavy bag or someone's face leaves its mark. It's important to punch straight though because those hands are your money makers and one wrong hit could turn you into a spectator. This is called a boxer's fracture, which is a fracture in the neck of the fifth metacarpal bone of the hand. Moving the hand becomes extremely painful and the affected knuckle is pushed back into the hand and suddenly it becomes difficult to even close the hand, let alone punch with it. Why is this fracture so painful? Well, think about how many times you use your hand each day. Imagine every single movement is now accompanied by a sharp pain. More importantly, a boxer's fracture that's untreated can impact the ability to form a fist. And that's why doctors usually treat them aggressively with spinting or taping. Even though it's called a boxer's fracture, most of the cases happen outside of the ring. It's far more likely to happen to someone who punches without gloves, which means the most common cause of these might be bar fights. And there's one fracture that"
+    },
+    {
+      "id": 254,
+      "debut": 11445.12,
+      "fin": 11512.48,
+      "temps_estime": false,
+      "titre": "Number 6: sprained ankle",
+      "resume": "A sprained ankle occurs when ankle ligaments are bruised, stretched or torn, with swelling and pain that can make walking impossible. A bad sprain can hurt more than a fracture, may need surgery and crutches for weeks, and makes a repeat sprain more likely.",
+      "mots_cles": [
+        "sprained ankle",
+        "ankle ligaments",
+        "torn ligament",
+        "crutches",
+        "swelling",
+        "repeat injury",
+        "sports injury"
+      ],
+      "texte": "might be the most painful of all. Number six, sprained ankle. This one is easy to get. You're playing sports, running, or just existing, and then the ground goes one way and your ankle goes the other, and you're rolling around in agony, cursing life itself. The sprain happens when one or more of the ligaments of the ankle gets bruised, stretched, or torn, causing intense pain. And walking is just a fond memory. As blood flow increases to the area of the injury, it swells up and the pain increases, making it difficult for someone who sprained their ankle to get help if they're alone. But hey, at least it's not broken, right? Well, yes and no. It depends on the severity of the sprain. A bad one can be more immediately painful than a fracture. A torn ligament may require surgery, and it's likely that someone with a bad ankle sprain will be on crutches for several weeks. The pain can be intense at first, but it'll likely lessen as the days go on. The real problem is once you've sprained that ankle, it's like you signed up for a frequent flyer program for injuries. Studies show it's more likely to betray you again, leaving you in a neverending loop of pain and doctor visits. Fun"
+    },
+    {
+      "id": 255,
+      "debut": 11512.48,
+      "fin": 11576.32,
+      "temps_estime": false,
+      "titre": "Number 5: rib fracture",
+      "resume": "The 24 ribs protect the heart and lungs, and when cracked the pain is hard to stop because breathing constantly moves them. Pain control and taping the chest are key, most heal alone, but a completely broken or displaced rib can puncture an organ and become a fatal emergency.",
+      "mots_cles": [
+        "rib fracture",
+        "broken ribs",
+        "breathing pain",
+        "chest taping",
+        "punctured lung",
+        "pain control",
+        "rib cage"
+      ],
+      "texte": "times, right? Number five, ri fracture. They're bones that don't seem to do much, but they're actually pretty essential. Our rib cage is basically the bodyguard of our critical organs, the heart and lungs. Those 24 bones are thin but sturdy, but when hit with the right force, they can crack or even shatter, and that will open the victim up to a whole new world of pain. Broken bones hurt the most when they're moved. And while the ribs don't usually move, they are constantly being affected by our everyday breathing. And that means that unlike other broken bones, there is no real way to stop the pain. We all know breathing is pretty important. So when a rib is broken, pain control is the most critical thing to keep the person functioning. Besides that, the chest is often taped to keep the ribs from moving too much. The good news is in cases of most fractures, ribs will heal on their own. Surgery is only essential if a rib is completely broken or displaced, at which point this can be an emergency because the splintered bone might float out of place and puncture a critical organ, making this one of the rare fractures that can be fatal quickly. But"
+    },
+    {
+      "id": 256,
+      "debut": 11576.32,
+      "fin": 11641.52,
+      "temps_estime": false,
+      "titre": "Number 4: Achilles tendon rupture",
+      "resume": "The Achilles tendon carries a huge load at the back of the foot, and when it snaps people hear a loud pop and feel searing pain. Repair almost always needs surgery, extended immobilization and physical therapy, and stretching before exercise is the best prevention.",
+      "mots_cles": [
+        "Achilles tendon rupture",
+        "loud pop",
+        "calf muscle",
+        "surgical repair",
+        "physical therapy",
+        "athlete injury",
+        "stretching"
+      ],
+      "texte": "one tendon might just put all the pain of broken bones to shame. Number four, Achilles tendon rupture. The Achilles tendon is the loadbearing tendon of the body found at the back of the foot and stretching up the ankle. It is the MVP of walking and has a ton of tension in it. And that means that when it snaps, it's bad. The force of an Achilles tendon rupture is so intense that people say they hear a loud pop when it happens, accompanied by searing pain. Similar to a sprained ankle, this happens when the foot is suddenly bent the wrong way. In this case, directly up while the calf muscle is engaged. And repairing this can be much more complicated because of the tension packed into the Achilles tendon. Surgical repair is almost always required after an Achilles injury. This is usually followed by an extended immobilization while it heals, followed by physical therapy to stretch out the repaired tendon so it can perform the same range of motion. This is one of those injuries that is an athletes worst fear because it's hard to get back to that same level of natural strength after an injury and the best way to prevent it is by stretching regularly"
+    },
+    {
+      "id": 257,
+      "debut": 11641.52,
+      "fin": 11718.08,
+      "temps_estime": false,
+      "titre": "Number 3: testicular torsion",
+      "resume": "Testicular torsion twists the spermatic cord and cuts off blood flow to a testicle, often from pressure on the groin or a congenital problem, with sudden searing pain. It is an emergency because the testicle can die and need removal, so doctors try manual untwisting first and emergency surgery if that fails.",
+      "mots_cles": [
+        "testicular torsion",
+        "spermatic cord",
+        "groin pain",
+        "emergency surgery",
+        "blood flow cut off",
+        "cyclist injury",
+        "testicle removal"
+      ],
+      "texte": "before exercise. This next one is mostly for the guys. Number three, testicular torsion. There are few pains more feared than a nutshot. At least we thought so. Imagine there was a pain like that, but it didn't end. Testicular torsion is when the spermatic cord attached to one of the testicles is twisted, cutting off blood flow to one of the family jewels. This can happen due to a congenital malf for the most common cause is pressure on the groin, forcing the testicles into an unnatural position. Basically, it's every male cyclist's nightmare. One wrong move and your boys are twisted up like a bad bike chain. And when it happens, you'll know it. The first sign of a testicular torsion is, you guessed it, a searing pain in the balls. Intense enough that it makes it impossible to focus on anything else. And that's actually a good thing because this is an emergency. The blood flow to the affected testicle is being cut off. And if it's not restored quickly, the testicle may have to be removed as it'll die. So pain is actually the body's warning system and in this case, it may save your manhood. The first resort is to try to manually untwist the testicle. But if that doesn't work, emergency surgery usually will. Most of these pains subside quickly if treated, but this one can leave much worse scars."
+    },
+    {
+      "id": 258,
+      "debut": 11718.08,
+      "fin": 11780.96,
+      "temps_estime": false,
+      "titre": "Number 2: third-degree burns",
+      "resume": "Third-degree burns go deep and at first hurt less because nerve endings are destroyed, but treatment such as removing dead skin is described as some of the most painful experiences of people's lives. As nerves regrow survivors face long-term agonizing pain and scarring, and skin grafts can cause more pain during healing.",
+      "mots_cles": [
+        "third-degree burns",
+        "nerve endings destroyed",
+        "skin grafts",
+        "burn treatment pain",
+        "scarring",
+        "first-degree burn",
+        "infection risk"
+      ],
+      "texte": "Number two, thirdderee burns. We've all probably burned ourselves at some point, be it from touching a hot stove as a kid or rushing to get those cookies out of the oven. Likely, these were second or first degree burns, which are largely surface level and will heal on their own with little scarring, but can be extremely painful in the moment. Thirdderee burns go deeper into the skin and actually aren't as initially painful because the nerve endings have been destroyed. Sometimes rendering the affected area incapable of feeling pain except with deep pressure. But unfortunately that will not last. The treatment of thirdderee burns has been described as some of the most painful experiences of people's lives as the dead skin usually has to be removed and treated to prevent potentially fatal infections. Once the initial shock wears off and the nerve endings begin to repair themselves, burn survivors often find themselves in agonizing long-term pain that leaves extensive scarring, which can sometimes be repaired with skin grafts, a surgical procedure that often leads to more serious pain during the healing process. But there is one"
+    },
+    {
+      "id": 259,
+      "debut": 11780.96,
+      "fin": 11859.12,
+      "temps_estime": false,
+      "titre": "Number 1: murder hornet stings",
+      "resume": "The Asian giant hornet, called the murder hornet in 2020, is the largest hornet with one of the most painful stings in the animal world. Its venom contains a neurotoxin that damages tissue like acid, is described as a hot nail driven into the leg, can be sprayed into eyes, and swarms can be deadly.",
+      "mots_cles": [
+        "murder hornet",
+        "Asian giant hornet",
+        "sting pain",
+        "neurotoxin venom",
+        "hot nail",
+        "swarm attack",
+        "2020 United States"
+      ],
+      "texte": "pain that might be even worse, and it's exactly how the culprit likes it. Number one, murder hornet stings. The media hypes up a lot of things. So, when they started buzzing about murder hornets in 2020, many people wondered if this might be a false alarm. Nope. These massive 2-in monsters from Japan, actually known as the Asian giant hornet, are not only the largest hornet, but have one of the most painful stings of any animal in the world. These social, highly aggressive insects have a sting that isn't just designed to hurt. Like most stinging insects that want to keep you away from their hive, it is designed to damage and possibly kill. This extremely potent venom contains a neurotoxin that causes significant tissue damage almost like acid. Those who have been stung describe it as having a hot nail driven into the leg. They can reportedly even spray the venom separately in the eyes, damaging the victim's vision. And as if the immediate pain isn't enough, the hornet's venom is potent enough that it can be dangerous even if the person isn't allergic. As these social hornets often attack simultaneously, a swarm can be deadly. Of course, even one is enough to bring a grown man to his knees, which probably explains why when they showed up in the US, it was all hands on deck to wipe them out. These are 50 crazy"
+    },
+    {
+      "id": 260,
+      "debut": 11859.12,
+      "fin": 11898.4,
+      "temps_estime": false,
+      "titre": "Number 50: gout, a pain in the toe",
+      "resume": "A new list of 50 facts about the world's most painful conditions begins with gout, which often starts as pain and swelling in the big toe and is mistaken for a stubbed toe or arthritis. It is most common in older men, and flare-ups can make walking painful or impossible.",
+      "mots_cles": [
+        "gout",
+        "big toe pain",
+        "50 facts",
+        "painful conditions",
+        "arthritis",
+        "flare-up",
+        "older men"
+      ],
+      "texte": "facts about the world's most painful conditions. First, let's talk about gout. Number 50, a pain in the toe. Gout is a condition that can often slip under the radar as it normally starts off as just pain and swelling in the big toe [music] and the surrounding area. It's easy to mistake as a simple stubbed toe or arthritis, but it's actually a serious condition. It's most common in men, but women aren't immune either, and most people who get gout are older. The pain can be minor in some cases, but in serious flare-ups, it can make walking extremely painful or even impossible, leading to people having to walk with a crutch. And the culprit isn't [music]"
+    },
+    {
+      "id": 261,
+      "debut": 11898.4,
+      "fin": 11933.84,
+      "temps_estime": false,
+      "titre": "Gout cause: uric acid crystals and purines",
+      "resume": "Gout is joint inflammation detected by testing joint fluid for uric acid crystals. Purines, found in the body and in some foods and drinks, break down into uric acid, and when the kidneys cannot keep up crystals build up in joints.",
+      "mots_cles": [
+        "gout cause",
+        "uric acid crystals",
+        "purines",
+        "joint inflammation",
+        "kidneys",
+        "joint fluid test",
+        "diagnosis"
+      ],
+      "texte": "what you might think. Number 50, you're in trouble. Gout is joint inflammation, and the best way to detect it is for a doctor to draw fluid from the joints and test it for uric acid crystals. [music] This comes from a substance called purines, which occur naturally in the body, but are also found in certain foods and drinks. When they break down, they [music] produce uric acid, which is typically dissolved in the blood. However, when the body produces too much or has excess introduced through foods and drinks, the kidneys can't keep up. Crystals form, and the crystals build up in the joints and cause serious pain, and gout can be the unfortunate"
+    },
+    {
+      "id": 262,
+      "debut": 11933.84,
+      "fin": 11968.64,
+      "temps_estime": false,
+      "titre": "Number 48: alcohol, red meat and gout",
+      "resume": "Beer and red wine are high in purines, so heavy regular drinking strains the kidneys and can cause recurring gout. Red meat and fatty meats also contain purines, so an unhealthy diet can bring on gout as well.",
+      "mots_cles": [
+        "gout and alcohol",
+        "beer",
+        "red wine",
+        "purines",
+        "red meat",
+        "diet",
+        "kidneys",
+        "doctor advice"
+      ],
+      "texte": "aftermath of a party. Number 48, let the good times hobble. If there's one behavior associated with gout, it's probably drinking. Beer and red wine both contain high levels of purines. [music] And if someone's going to engage heavily in drinking regularly, the odds are they already are working their kidneys overtime. The result might be a frequent recurrence of gout, which is just another reason why a doctor might advise you to cut back on the alcohol. But purines are also found in red meat and fatty meats, which means people who have an unhealthy diet might also get an unpleasant surprise as well. But no one is immune to gout, not even [music]"
+    },
+    {
+      "id": 263,
+      "debut": 11968.64,
+      "fin": 12007.92,
+      "temps_estime": false,
+      "titre": "Number 47: gout, the disease of kings",
+      "resume": "In medieval times royalty could not hide from gout: peasants ate grain and few vegetables, while kings feasted on rich banquets and flagon after flagon of wine. If anyone in the old days got gout, it would be the king.",
+      "mots_cles": [
+        "gout history",
+        "disease of kings",
+        "medieval diet",
+        "banquets",
+        "wine",
+        "royalty",
+        "peasants"
+      ],
+      "texte": "royalty. Number 47, the disease of kings. In medieval times, the odds are a king would be the healthiest person around. After all, he was secluded in his castle while the peasants toiled in the field and lived in less than hygienic conditions. But there was one disease royalty couldn't hide from their castles. Gout. Peasant diets usually consisted of grain, whatever vegetables they could grow, and whatever little meat they could scrape up. The king, meanwhile, sat down to sumptuous banquetss frequently and usually chased it with flag after flag of wine. So, it's no surprise that if anyone in the old days got gout, it would be the king. But hey, at least he probably didn't have to walk that far. And gout even"
+    },
+    {
+      "id": 264,
+      "debut": 12007.92,
+      "fin": 12040.48,
+      "temps_estime": false,
+      "titre": "Number 46: gout in political cartoons",
+      "resume": "In early 20th century socialist and liberal cartoons, rich old men were drawn on crutches because the wealthy were most likely to get gout from meat-rich diets and wine. During the Great Depression, mocking the elite with a disease of overeating was a perfect fit.",
+      "mots_cles": [
+        "gout cartoons",
+        "early 20th century",
+        "socialist cartoons",
+        "Great Depression",
+        "wealthy elite",
+        "crutches",
+        "political satire"
+      ],
+      "texte": "became shortorthhand in politics. Number 46, tune [music] in. It was a weird trend in the early 20th century socialist and liberal cartoons. Why exactly did they portray old rich men as hauling around on crutches? It was because much like in the time of kings, the rich were most likely to get gout due to their meat-rich diet and easy access to wine. [music] Especially during the great depression when many working stiffs were struggling to get enough food on the table and the idea of disease that was often caused by eating and drinking too much was the perfect way to make fun of the elite. Now let's"
+    },
+    {
+      "id": 265,
+      "debut": 12040.48,
+      "fin": 12088.24,
+      "temps_estime": false,
+      "titre": "Number 45: what is endometriosis?",
+      "resume": "Endometriosis is when tissue resembling the endometrium, the lining of the uterus, grows outside the uterus, usually in other reproductive areas. The immune system and hormones trigger new blood vessels and nerves in it, causing chronic pain, swelling and scarring with life-altering effects.",
+      "mots_cles": [
+        "endometriosis",
+        "endometrium",
+        "uterus",
+        "chronic pelvic pain",
+        "menstruation",
+        "scarring",
+        "hormones",
+        "immune system"
+      ],
+      "texte": "talk about a condition that comes from a natural part of every month until something goes wrong. Number 45. What is endometriosis? >> [music] >> Sorry guys, this might be a little TMI, but the ladies have it harder. Endometriosis gets its name from the endometrium, which is the tissue that lines the [music] uterus. Every month, it sheds, and this is the process of menration, which is not a fun time to begin with. But endometriosis happens when the body goes a little haywire. When tissue that resembles indometrium is found outside of the uterus, [music] usually in other reproductive areas, the immune system goes haywire. It responds to the hormones and the body starts growing new blood vessels and nerves in this tissue and the result [music] is chronic pain and swelling even scarring and for those who suffer from it the effects can be lifealtering. Number 44"
+    },
+    {
+      "id": 266,
+      "debut": 12088.24,
+      "fin": 12119.92,
+      "temps_estime": false,
+      "titre": "Number 44: endometriosis symptoms and pelvic pain",
+      "resume": "The most common sign of endometriosis is intense pelvic pain that comes and goes and is worst during periods, sometimes so bad women cannot go to school, work or get out of bed. Long-term damage can cause heavy scarring in the pelvic region and difficulty conceiving or carrying a child.",
+      "mots_cles": [
+        "endometriosis symptoms",
+        "pelvic pain",
+        "periods",
+        "scarring",
+        "infertility",
+        "missing work",
+        "chronic pain"
+      ],
+      "texte": "all-consuming. [music] The most common sign of endometriosis is intensive pelvic pain that comes and goes. Some areas only experience mild pain, but during periods the pain is usually at its worst. This can be bad enough that women will be unable to go to school, perform at work, or even get out of bed in some cases. Additionally, the damage this condition causes to the body over long periods can result in heavy scarring in the pelvic region, which can lead [music] to difficulties conceiving or carrying a child to term without treatment, but sometimes it can"
+    },
+    {
+      "id": 267,
+      "debut": 12119.92,
+      "fin": 12155.68,
+      "temps_estime": false,
+      "titre": "Number 43: why endometriosis is hard to diagnose",
+      "resume": "Endometriosis sufferers often say the most frustrating part is how long diagnosis takes, because doctors assume it is ordinary period pain, offer regular painkillers, or suspect the woman of seeking pills. Cases vary and some women have little pain, so diagnosing the condition is often challenging.",
+      "mots_cles": [
+        "endometriosis diagnosis",
+        "delayed diagnosis",
+        "period pain dismissed",
+        "painkillers",
+        "doctor bias",
+        "hypochondriac",
+        "varied symptoms"
+      ],
+      "texte": "be invisible. Number 43, a sneaky condition. If you ask many endometriosis sufferers what is the [music] most frustrating part of their condition, they'll tell you it's not the condition itself. It's the fact that it took them so long to be diagnosed. Many doctors assume it's either standard period pain [music] and offer only regular painkillers or even disregard the woman's pain and assume she's hypochondriac or seeking [music] pills. complicating things. Many endometriosis sufferers may be lucky enough to not experience severe pain, which means that every case manifests differently, meaning that diagnosing the condition [music] is often challenging. The good"
+    },
+    {
+      "id": 268,
+      "debut": 12155.68,
+      "fin": 12192.48,
+      "temps_estime": false,
+      "titre": "Number 42: endometriosis treatment options",
+      "resume": "Treatment options for endometriosis give mixed results: anti-inflammatory pain pills to make it manageable, birth control pills to slow the process, and surgery to remove damaged tissue only in severe cases. No one is sure what causes it.",
+      "mots_cles": [
+        "endometriosis treatment",
+        "birth control pills",
+        "anti-inflammatory",
+        "surgery",
+        "mixed results",
+        "tissue removal"
+      ],
+      "texte": "news is it can be treated. Number 42, multiple options. Once a doctor [music] has successfully diagnosed a woman with endometriosis, there are a few options for treatment, but it comes with mixed results. Doctors prefer [music] this option because of the lack of complications, but success can be mixed. Medications can include anti-inflammatory pain pills simply to make the condition manageable, but it can also include birth control pills to slow down the process that [music] causes the disorder. In other cases, surgery to remove the damaged tissue and allow for recovery is recommended, but only for severe cases. And the scariest thing is no one is sure what causes it."
+    },
+    {
+      "id": 269,
+      "debut": 12192.48,
+      "fin": 12228.32,
+      "temps_estime": false,
+      "titre": "Number 41: what causes endometriosis",
+      "resume": "No case is the same, but genetics is a likely cause and elevated estrogen levels also contribute, so birth control pills can lower the chance while pregnancy has a similar effect. Retrograde menstrual flow and an exaggerated immune response are other causes, and only a thorough exam can tell which applies.",
+      "mots_cles": [
+        "endometriosis causes",
+        "genetics",
+        "estrogen",
+        "retrograde menstruation",
+        "immune response",
+        "pregnancy",
+        "birth control"
+      ],
+      "texte": "Number 41, a lingering mystery. What causes endometriosis? No case is the same, but a few factors [music] have been identified. For one thing, genetics is likely a cause, which means this may be mom's most unwelcome family legacy. Endometriosis is also caused by elevated estrogen levels, so taking [music] birth control pills can help to reduce your chances of suffering from it. The good news is this same effect happens during pregnancy. It can also be caused by a retrograde menstrual flow and the exaggerated immune response that happens as a result. And only a thorough exam can discover which of the above is the culprit. Now, let's look at another"
+    },
+    {
+      "id": 270,
+      "debut": 12228.32,
+      "fin": 12269.52,
+      "temps_estime": false,
+      "titre": "Number 40: what is fibromyalgia?",
+      "resume": "Fibromyalgia is a chronic illness of the central nervous system whose primary symptom is widespread pain along with chronic fatigue. Because it spreads through the body with no single pinpointable cause, and many doctors do not know how to identify it, it is hard to diagnose; the pain is actually coming from the brain.",
+      "mots_cles": [
+        "fibromyalgia",
+        "central nervous system",
+        "chronic fatigue",
+        "widespread pain",
+        "hard to diagnose",
+        "brain pain",
+        "chronic illness"
+      ],
+      "texte": "mysterious condition. Another one that also targets women. Number 40. What is fibromyalgia? Another disorder that plagues people and is often very hard to get diagnosed. Fibromyalgia is a chronic illness of the central nervous system characterized by one primary symptom, [music] pain, and lots of it. Along with chronic fatigue, it can significantly impact people's ability to function on a day-to-day basis. But because it spreads throughout the body, there is no one cause that a doctor can pinpoint and that makes it very hard to diagnose, especially since many doctors don't know how to identify it. That's because the pain is actually coming from the brain. But there are some key symptoms to watch"
+    },
+    {
+      "id": 271,
+      "debut": 12269.52,
+      "fin": 12301.68,
+      "temps_estime": false,
+      "titre": "Number 39: key symptoms of fibromyalgia",
+      "resume": "The American College of Rheumatology identifies multiple painful areas far apart with no other cause, plus fatigue and trouble sleeping or concentrating. If symptoms last more than three months it is a red flag for fibromyalgia.",
+      "mots_cles": [
+        "fibromyalgia symptoms",
+        "American College of Rheumatology",
+        "painful areas",
+        "fatigue",
+        "three months",
+        "sleep problems",
+        "red flag"
+      ],
+      "texte": "out for. Number 39, all over the place. As vague as it might seem, the American College of Rheumatology has identified some key symptoms to make it easy to identify the disorder [music] and make it possible for people to seek treatment. These include multiple painful areas of the body, especially when they're far apart from each other, with no other apparent cause, and symptoms that include fatigue and difficulty sleeping or concentrating. If these symptoms are temporary, you're normally fine. But if they last more than 3 months, it's a red flag for fibromyalgia. And one group of people is"
+    },
+    {
+      "id": 272,
+      "debut": 12301.68,
+      "fin": 12342.64,
+      "temps_estime": false,
+      "titre": "Number 38: why fibromyalgia affects mostly women",
+      "resume": "An estimated 75 to 90 percent of people diagnosed with fibromyalgia are women, with no known reason unlike endometriosis. Men may be rising in number because of better research, or because the subtle pain gets written off and many men avoid doctors.",
+      "mots_cles": [
+        "fibromyalgia women",
+        "75 to 90 percent",
+        "gender difference",
+        "men underdiagnosed",
+        "research",
+        "invisible pain"
+      ],
+      "texte": "more vulnerable. Number 38, why the ladies? Much like endometriosis, fibromyalgia is a disease that heavily affects women. In fact, it's believed that 75 to 90% [music] of people diagnosed with the disorder are women. But unlike the prior disorder, which affects the reproductive system, there's no indication of why this is the case. Increased research has indicated the number of men with the disorder is increasing, and this might be the result of better research. But there is another possibility. The subtle and often invisible nature of fibromyalgia's pain means it can be written off as just regular aches and pains. And for some men, they're not going to go to the doctor for anything short of a stab wound. The good news is there is hope."
+    },
+    {
+      "id": 273,
+      "debut": 12342.64,
+      "fin": 12374.72,
+      "temps_estime": false,
+      "titre": "Number 37: fibromyalgia diets and cutting back",
+      "resume": "Alternative medicine experts push fibromyalgia diets as miracle cures, but they are just common sense: doctors suggest cutting back on things that cause inflammation, including alcohol, red meat, refined sugars, caffeine and processed or fried food.",
+      "mots_cles": [
+        "fibromyalgia diet",
+        "inflammation",
+        "alcohol",
+        "refined sugar",
+        "caffeine",
+        "processed food",
+        "alternative medicine"
+      ],
+      "texte": "Number 37, cutting back. A lot of alternative medicine experts have been pushing fibromyalgia diets, claiming to have a miracle cure for the frustrating disorder. But while some of them might show some effectiveness, it's not any sort of miracle cure. Rather, it's just common sense. Doctors suggest cutting back on things that can cause inflammation. This includes alcohol, red meat, refined sugars, caffeine, and processed or fried food, which sounds like most fun things, but hey, at least you'll have the energy to enjoy those occasional treat days. And another"
+    },
+    {
+      "id": 274,
+      "debut": 12374.72,
+      "fin": 12407.2,
+      "temps_estime": false,
+      "titre": "Number 36: yoga and tai chi for fibromyalgia",
+      "resume": "Yoga and Tai Chi have shown results in reducing fibromyalgia pain, probably not as a miracle cure but because meditative therapy may ease fatigue and sleep problems. Better sleep might reduce inflammation and make the disorder more manageable.",
+      "mots_cles": [
+        "yoga",
+        "Tai Chi",
+        "fibromyalgia treatment",
+        "meditation",
+        "sleep",
+        "fatigue",
+        "inflammation"
+      ],
+      "texte": "treatment has shown surprising success. Number 36. Usually, when a doctor prescribes yoga to treat a medical condition, many people might wonder if they know what they're [music] talking about. But surprisingly, yoga along with Tai Chi has shown results in reducing the pain of fibromyalgia. Is this an actual miracle cure tied to the practice? Probably not, [music] but the calming nature of meditative therapy might help to alleviate some of the symptoms like fatigue [music] and lack of sleep. Getting a good night's sleep might reduce inflammation, which might make the disorder a bit more manageable."
+    },
+    {
+      "id": 275,
+      "debut": 12407.2,
+      "fin": 12448.96,
+      "temps_estime": false,
+      "titre": "Number 35: what is peripheral neuropathy?",
+      "resume": "Peripheral neuropathy is damage to the long peripheral nerves running to the hands and feet, so fingers and toes are the first warning. It shows up as stabbing pains and weakness in the hands and feet and can strike at any time.",
+      "mots_cles": [
+        "peripheral neuropathy",
+        "peripheral nerves",
+        "stabbing pain",
+        "hands and feet",
+        "weakness",
+        "nerve damage",
+        "extremities"
+      ],
+      "texte": "The next disease has a clear cause, but that doesn't make it any less [music] painful. Number 35. What is peripheral neuropathy? This painful condition comes back to one [music] thing, our nervous system, or specifically the peripheral nerves. These massively long nerves extend all the way from our hands to our [music] feet, extending to our extremities, which means when they're damaged, we're most likely to feel the condition in those areas. [music] That means the fingers and the toes are the first warning system for this condition, and the alarms are anything but pleasant. [music] Peripheral neuropathy manifests as stabbing pains and weakness in the hands and feet, and it can strike at any time. And the culprit is one that's all too common in many countries."
+    },
+    {
+      "id": 276,
+      "debut": 12448.96,
+      "fin": 12484.4,
+      "temps_estime": false,
+      "titre": "Number 34: diabetes, the leading cause of neuropathy",
+      "resume": "Diabetes, caused by problems regulating blood sugar and most commonly type 2, is the leading cause of neuropathy. Controlling blood sugar helps both conditions, but that is hard when it feels like nails are being driven into the hands and feet.",
+      "mots_cles": [
+        "diabetes",
+        "type 2 diabetes",
+        "diabetic neuropathy",
+        "blood sugar",
+        "leading cause",
+        "nerve pain"
+      ],
+      "texte": "Number 34, diabetes. No, Wilfr Brimley, it's diabetes, and it's the leading cause of neuropathy. The chronic disorder is caused by issues with regulating the blood sugar. And while some cases are early onset and don't correlate with the diet, the most common type of diabetes is type 2 or adult onset diabetes. Getting the blood sugar under control can [music] reduce the symptoms of diabetes as well as the neuropathy and result in better overall health. But managing your blood sugar isn't exactly easy when it feels like nails are being driven into your hands and feet. And unfortunately, even those who aren't diabetic aren't safe. Number"
+    },
+    {
+      "id": 277,
+      "debut": 12484.4,
+      "fin": 12516.8,
+      "temps_estime": false,
+      "titre": "Number 33: other causes of neuropathy",
+      "resume": "Doctors first check for diabetes or pre-diabetes, but other top causes include vitamin B12 deficiency, chemotherapy side effects, traumatic injury and poisoning. B12 deficiency is fixed with supplements, and alcoholism is another risk factor that can get much worse if untreated.",
+      "mots_cles": [
+        "neuropathy causes",
+        "vitamin B12 deficiency",
+        "chemotherapy",
+        "alcoholism",
+        "traumatic injury",
+        "poisoning",
+        "supplements"
+      ],
+      "texte": "33, a mystery disorder. The first thing any good doctor will do when testing people for peripheral neuropathy is to check for diabetes or pre-diabetic readings, but often that isn't the case. Other top causes for this disorder include vitamin B12 deficiency, a side effect from chemotherapy, traumatic injury or poisoning. [music] The latter three might heal and the former can be easily fixed with supplements. But another cause might be more concern. Alcoholism is a risk factor for neuropathy and left untreated things can get much worse. Number 32, failure to"
+    },
+    {
+      "id": 278,
+      "debut": 12516.8,
+      "fin": 12546.8,
+      "temps_estime": false,
+      "titre": "Number 32: sensory, motor and autonomic nerve damage",
+      "resume": "There are three types of peripheral nerves, sensory, motor and autonomic, and neuropathy can affect all three. Sensory nerves deliver pain, motor nerve damage makes grasping or walking harder, and autonomic damage can affect breathing and sweating, so tingling and stabbing are warning signs.",
+      "mots_cles": [
+        "sensory nerves",
+        "motor nerves",
+        "autonomic nerves",
+        "neuropathy warning signs",
+        "tingling",
+        "breathing",
+        "sweating"
+      ],
+      "texte": "grasp. The tingling and stabbing pains might seem terrible, but they're also a warning sign of ongoing damage. There are three types of peripheral nerves, sensory, motor, and autonomic. And this disorder can affect all three. The sensory nerves deliver the pain. The motor nerves might make it harder to grab onto things or walk if damaged. And the autonomic nerve damage could even affect basic functions like breathing and sweating if left untreated. So, when the body starts talking, it's definitely a good idea to listen. And the good or"
+    },
+    {
+      "id": 279,
+      "debut": 12546.8,
+      "fin": 12587.28,
+      "temps_estime": false,
+      "titre": "Number 31: eating for your nerves",
+      "resume": "Studies show foods with excess sugar, excess fat, artificial sweeteners and refined grains stress the nerves and can irritate neuropathy. A diet change will not fix the root cause unless it is diabetes but can calm the nerves and make it easier to manage.",
+      "mots_cles": [
+        "neuropathy diet",
+        "sugar",
+        "artificial sweeteners",
+        "refined grains",
+        "junk food",
+        "nerve stress",
+        "diet change"
+      ],
+      "texte": "bad news is your diet makes a difference. Number 31, eating for your nerves. Your mother might have told you to cut back on that junk food years back. After all, that soda will rot your teeth. But could it be rotting your nerves as well? Studies show that foods with excess sugar, excess fat, artificial sweeteners, and refined grains cause stress on the nerves and can irritate the disorder. While it won't address the core of the condition unless it's caused by diabetes, and the diet change will help get it under control, it can calm the nerves and make it easier to manage peripheral neuropathy until the main cause is fixed. Many of these disorders are a warning sign, [music] but a few are a blaring alarm, like this next one."
+    },
+    {
+      "id": 280,
+      "debut": 12587.28,
+      "fin": 12623.52,
+      "temps_estime": false,
+      "titre": "Number 30: what is acute pancreatitis?",
+      "resume": "The pancreas produces digestive juices and insulin, and pancreatic disorders are all serious. Acute pancreatitis is a sudden swelling of the pancreas with sudden intense pain that can send people to the hospital, and doctors take any pancreatic issue seriously.",
+      "mots_cles": [
+        "acute pancreatitis",
+        "pancreas",
+        "insulin",
+        "digestive juices",
+        "sudden pain",
+        "hospital",
+        "swelling"
+      ],
+      "texte": "Number 30. What is acute pancreatitis? [music] The pancreas is the little workhorse of the body, an organ in the upper gut that produces the juices to digest food and the insulin to [music] regulate blood sugar. If it stops working, that's usually lights out, which is why it's one of the most feared cancers. While not every pancreatic [music] disorder is fatal, all of them are serious. Acute pancreatitis is a sudden swelling of the pancreas and is usually characterized by sudden onset intense pain, the kind that can stop a grown man in their tracks and send them to the hospital. and doctors take any pancreatic issue seriously. Number 29."
+    },
+    {
+      "id": 281,
+      "debut": 12623.52,
+      "fin": 12657.92,
+      "temps_estime": false,
+      "titre": "Number 29: tests for pancreatitis",
+      "resume": "Someone with acute pancreatitis is quickly given blood tests and a CT scan to rule out cancer and check for gallstones, a common cause that ultrasound or MRI can identify. Untreated severe pancreatitis can lead to infection or organ damage.",
+      "mots_cles": [
+        "pancreatitis tests",
+        "CT scan",
+        "blood tests",
+        "gallstones",
+        "ultrasound",
+        "MRI",
+        "rule out cancer"
+      ],
+      "texte": "Better safe [music] than sorry. Almost immediately, someone suffering from acute pancreatitis will be swept into a series of tests, including blood tests and a CT scan. This is to initially rule out the possibility of cancer, as well as to [music] check for gallstones, one of the most common causes of pancreatic swelling. An ultrasound or MRI can usually identify those quickly, [music] but neither of those are the most common cause of pancreatitis. And it's important to identify it quickly because when left untreated, severe pancreatitis can lead to infection or damage to other organs. And the culprit [music] is our"
+    },
+    {
+      "id": 282,
+      "debut": 12657.92,
+      "fin": 12694.8,
+      "temps_estime": false,
+      "titre": "Number 28: gallstones and alcohol as causes",
+      "resume": "Gallstones are the most common cause of pancreatitis, and if none are found doctors ask how much and how long the patient drinks, since alcohol makes the pancreas work overtime and wears it down. Otherwise they check for medication side effects, infections and injury.",
+      "mots_cles": [
+        "gallstones",
+        "alcohol",
+        "pancreatitis cause",
+        "pancreas inflammation",
+        "medication side effects",
+        "infection"
+      ],
+      "texte": "old friend. Number 28. No one wants old Billy to drink. Gallstones are the most common cause of pancreatitis, and doctors will check for them immediately. If there are none present, they'll usually [music] ask one simple question. How much do you drink and for how long? Alcohol puts the body under stress as it processes it, and the pancreas has to work overtime to get rid of the toxins. Over the years, the pancreas wears down and becomes more vulnerable to infection and inflammation. If neither of these are the culprit, doctors will check for medication side effects, infections, and injury. And if you happen to be diagnosed with this, better plan on some time off. Number 27. Sorry, boss."
+    },
+    {
+      "id": 283,
+      "debut": 12694.8,
+      "fin": 12729.92,
+      "temps_estime": false,
+      "titre": "Number 27: pancreatitis treatment, fasting and hospital stay",
+      "resume": "Pancreatitis is generally treated with a short hospital stay with pain medication and fluids to reduce swelling, plus several days of fasting so the pancreas can rest. Longer rests may call for intravenous nutrition.",
+      "mots_cles": [
+        "pancreatitis treatment",
+        "fasting",
+        "IV nutrition",
+        "pain medication",
+        "fluids",
+        "hospital stay",
+        "pancreas rest"
+      ],
+      "texte": "Doctors don't mess around with pancreatitis. Unlike the previous conditions, this is generally treated with a short stay in the hospital. While the patient is given pain medication and fluids to help bring the swelling [music] down, but there is another much less pleasant part of the treatment. The pancreas needs to rest. And that means usually doctors will prescribe several days of fasting as part of the treatment. This keeps the pancreas from being under excess stress during the healing process, but leaves the patient very hungry. And in cases when longer rests are needed, the patient may receive intravenous nutrition. And there's one cause that is often"
+    },
+    {
+      "id": 284,
+      "debut": 12729.92,
+      "fin": 12763.28,
+      "temps_estime": false,
+      "titre": "Number 26: hereditary pancreatitis and the PRSS1 gene",
+      "resume": "Hereditary pancreatitis is passed down in families and is associated with the PRSS1 gene, raising the chance of pancreatic swelling and pancreatic cancer. There is no cure, and doctors recommend a careful diet and regular screenings.",
+      "mots_cles": [
+        "hereditary pancreatitis",
+        "PRSS1 gene",
+        "pancreatic cancer risk",
+        "genetic",
+        "screening",
+        "family history"
+      ],
+      "texte": "unexpected. Number 26. Thanks, Dad. Most causes of pancreatitis are due to gallstones, alcohol abuse, or other illnesses. But there's a form of the disease that can be inherited, and it gets [music] passed down from generation to generation like a tacky family heirloom. Hereditary pancreatitis [music] is associated with a gene named PRSS1, and it provides an increased chance of pancreatic swelling as well as pancreatic cancer. There is no cure for bad luck with the genes. Doctors just recommend keeping on your diet and getting regular screenings to fend off the attack at the pass. Most of these"
+    },
+    {
+      "id": 285,
+      "debut": 12763.28,
+      "fin": 12803.36,
+      "temps_estime": false,
+      "titre": "Number 25: the appendix and appendicitis",
+      "resume": "Appendectomy is one of the most common childhood surgeries, and the appendix is a tiny organ in the lower right abdomen that stores good bacteria. When it gets infected and turns into appendicitis, it can burst.",
+      "mots_cles": [
+        "appendix",
+        "appendicitis",
+        "appendectomy",
+        "lower right abdomen",
+        "infection",
+        "childhood surgery",
+        "burst appendix"
+      ],
+      "texte": "[music] conditions are painful, but this next one can be deadly. Number 25, appendix attack. It might be one of the most common causes of surgery among kids, appendecttomy. The odds are we all had a kid in our class who was out of school for a week and came back with a gnarly scar that he couldn't wait to show off. It's all due to the appendix, [music] a tiny organ located in the lower right corner of the abdomen. The appendix isn't completely useless, but it plays a minor role as a store for [music] good bacteria. That is until it gets an infection. And when the infection grows and turns into appendicitis, watch out because the last thing you need is for [music] the appendix to blow. Number 24, emergency"
+    },
+    {
+      "id": 286,
+      "debut": 12803.36,
+      "fin": 12836.72,
+      "temps_estime": false,
+      "titre": "Number 24: appendicitis as an emergency",
+      "resume": "Appendicitis typically starts with pain in the middle of the abdomen that moves to the lower right side, becomes agonizing and comes with fever and nausea. Treatment is removing the appendix, simple if done in time, but a burst appendix leaking into the digestive tract can be life-threatening.",
+      "mots_cles": [
+        "appendicitis symptoms",
+        "abdominal pain",
+        "fever",
+        "nausea",
+        "appendix removal",
+        "burst appendix",
+        "emergency surgery"
+      ],
+      "texte": "surgery. Appendicitis is an emergency that is typically characterized by pain in the middle of the [music] abdomen followed by moving to the lower right side of the abdomen. It can start as mild but then become agonizing and be associated with fever and nausea. At this point, the treatment is usually to remove the appendix, which is a simple procedure if gotten to in time. Because if the appendix bursts and leaks toxic [music] contents into the digestive tract, it could become a life-threatening emergency at worst or a long hospital stay at best. The good news is you might be back to normal sooner rather than later. Number 23. Be"
+    },
+    {
+      "id": 287,
+      "debut": 12836.72,
+      "fin": 12868.64,
+      "temps_estime": false,
+      "titre": "Number 23: appendectomy recovery",
+      "resume": "Appendectomies are among the most common surgeries, using a small incision, and most patients leave the hospital after a day or two and feel better almost immediately. Doctors advise taking it easy for two to four weeks, though many return to work or school within a week if nothing goes wrong.",
+      "mots_cles": [
+        "appendectomy recovery",
+        "small incision",
+        "hospital stay",
+        "two to four weeks",
+        "return to work",
+        "common surgery"
+      ],
+      "texte": "back in [music] soon, boss. Apppendecttomies are among the most common surgeries performed today, and they usually involve only a small incision in the abdomen and a removal of a minor organ. This means that most patients leave the hospital after only a day or two. And unlike many surgeries, [music] you're going to feel better almost immediately after getting your appendix out. After release, doctors advise taking it easy for two to four weeks. But if your job doesn't involve heavy lifting, odds are you'll be back to work or school within a week. That is assuming nothing goes wrong. Number 22,"
+    },
+    {
+      "id": 288,
+      "debut": 12868.64,
+      "fin": 12899.92,
+      "temps_estime": false,
+      "titre": "Number 22: appendicitis surgery delayed in the COVID-19 pandemic",
+      "resume": "During the COVID-19 pandemic, many hospitals halted non-emergency surgeries and appendectomies were not always treated as emergencies. Some patients got shunts to drain the appendix non-surgically but lived with constant pain until the crisis passed.",
+      "mots_cles": [
+        "COVID-19",
+        "appendectomy delays",
+        "non-emergency surgery",
+        "shunt",
+        "pandemic hospitals",
+        "appendix drainage"
+      ],
+      "texte": "ticking clock. When someone's diagnosed with appendicitis, it's usually a very fast process to get that organ out unless there's a hitch in the works. During the CO 19 pandemic, many hospitals put a complete stop on non-emergency surgeries, and apppendecttomies weren't considered emergencies except in certain cases. It was possible for patients to instead be outfitted with shunts that would relieve the pressure on the appendix and allow it to drain non-surgically, but left them with some level of constant [music] pain until the crisis was over. But a"
+    },
+    {
+      "id": 289,
+      "debut": 12899.92,
+      "fin": 12941.12,
+      "temps_estime": false,
+      "titre": "Number 21: Alice Tapper's misdiagnosed appendicitis",
+      "resume": "In 2021, 15-year-old Alice Tapper, daughter of anchor Jake Tapper, was sent home with a viral infection diagnosis after a scan ruled out appendicitis. Her parents sought a second opinion and found a perforated appendix just in time, and she later wrote that appendicitis can be misdiagnosed in up to 15 percent of children.",
+      "mots_cles": [
+        "Alice Tapper",
+        "Jake Tapper",
+        "misdiagnosis",
+        "perforated appendix",
+        "second opinion",
+        "15 percent children",
+        "appendicitis"
+      ],
+      "texte": "misdiagnosis can be deadly and no one is safe. Number 21, the closest of calls. Alice Tapper was an ordinary 15-year-old when she came into the hospital with signs of appendicitis in 2021, but doctors quickly ruled it out after a quick scan and diagnosed her with a viral infection instead. But as her symptoms got worse, her parents battled to get a second opinion. And it probably helped that her father was the famous news anchor Jake Trapper. After a second examination, it was revealed that Alice's appendix was already perforated and they caught it [music] just in time to save her life. Alice wrote an op-ed after her recovery revealing that the condition can [music] be misdiagnosed up to 15% in children, and a misdiagnosis can be deadly. This next disorder won't"
+    },
+    {
+      "id": 290,
+      "debut": 12941.12,
+      "fin": 12984.0,
+      "temps_estime": false,
+      "titre": "Number 20: what is a kidney stone?",
+      "resume": "Kidney stones are hard, sharp deposits of minerals and salt that lodge in the kidneys and cause massive pain. They have to pass out through the urethra, which makes passing them agonizing.",
+      "mots_cles": [
+        "kidney stone",
+        "minerals and salt",
+        "urethra",
+        "kidney pain",
+        "passing stones",
+        "urinary tract"
+      ],
+      "texte": "kill you, but for many men at the urinal, it might feel like it. Number 20, pain in the What exactly is a kidney [music] stone? It's a giant pain in the last area where someone wants one. These are hard deposits made out of minerals and salt that form in the body and get lodged in the kidneys. They're typically hard and sharp and can cause massive pain in the kidneys while they're stuck in there. But when something is lodged somewhere, it has to come out eventually. And it can only come out through the same route which everything that gets filtered through the kidney takes the urethra. That can make for an agonizing time when you try to pass kidney stones. But there isn't just one type of stone. There's a veritable gem"
+    },
+    {
+      "id": 291,
+      "debut": 12984.0,
+      "fin": 13021.76,
+      "temps_estime": false,
+      "titre": "Number 19: the four types of kidney stones",
+      "resume": "There are four types of kidney stones: calcium stones, the most common at over 80 percent, struvite stones from repeated urinary tract infections and the largest, uric acid stones from overly acidic urine, and rare cystine stones from a genetic disorder.",
+      "mots_cles": [
+        "calcium stones",
+        "struvite stones",
+        "uric acid stones",
+        "cystine stones",
+        "types of kidney stones",
+        "80 percent",
+        "urinary tract infections"
+      ],
+      "texte": "mine in there. Number 19. Not exactly a treasure chest. Did you know there are four types of kidney stones? Calcium stones are the most common. hard stones that form after a buildup of too much calcium. They make over 80% of kidney stones, but the other three are rarer and tend to have other causes. Stuvite stones, which are the largest, form after repeated urinary tract infections. Uric acid stones form when the urine is too acidic and leaves mineral deposits behind, while rare cyine stones are usually the result of a genetic disorder. And when they're passed, they can be just about any shape or [music] size. But is what they say about them"
     }
   ]
 }

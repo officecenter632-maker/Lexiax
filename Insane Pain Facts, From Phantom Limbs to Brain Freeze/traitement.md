@@ -37,3 +37,8 @@ Reprise à la ligne 4819 (travail d'agents précédents vérifié : 221 segments
 
 ## Point d'arrêt (mis à jour)
 Dernière ligne traitée : 5737 (fin 11154,32 s, fin du segment sur la mort de Martin d'Aragon). Prochaine étape : tranche 7, à partir de la ligne 5738 (« epic face plant you just took off your skateboard… », début du top 10 des blessures), id 249.
+
+- Tranche 7 : lignes 5738 à 6624 (11154,32 à 13021,76 s, ≈ 31,1 min), 43 segments (id 249 à 291). Contenu : top 10 des blessures les plus douloureuses (n° 10 à 1 : écorchure de route, coccyx, clavicule, fracture du boxeur, entorse de cheville, côtes, tendon d'Achille, torsion testiculaire, brûlures du 3e degré, frelon géant asiatique), puis nouvelle liste de « 50 faits » sur les conditions les plus douloureuses (n° 50 à 18 : goutte, endométriose, fibromyalgie, neuropathie périphérique, pancréatite aiguë, appendicite, calculs rénaux). Un segment par item de liste. Aucune coupure estimée. Les fragments de titres (« Number 27. Sorry, boss. » etc.) à cheval sur deux lignes restent dans le segment de la ligne.
+
+## Point d'arrêt (mis à jour)
+Dernière ligne traitée : 6624 (fin 13021,76 s, fin du segment « Number 19: the four types of kidney stones »). Prochaine étape : tranche 8 (dernière), à partir de la ligne 6625 (« really true? Number 18, more painful than child birth… »), id 292, jusqu'à la ligne 6947.
