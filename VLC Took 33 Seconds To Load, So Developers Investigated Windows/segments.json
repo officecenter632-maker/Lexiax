@@ -1,0 +1,565 @@
+{
+  "version": 1,
+  "video_id": "Awf9D7vIgvE",
+  "titre_video": "VLC Took 33 Seconds To Load, So Developers Investigated Windows",
+  "duree_s": 882.22,
+  "avancement": {
+    "lignes_traitees": 183,
+    "fin_traitee_s": 882.22,
+    "nb_lignes_total": 183,
+    "complet": true
+  },
+  "nb_segments": 29,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.0,
+      "fin": 35.39,
+      "temps_estime": true,
+      "titre": "Hook: Microsoft accused of sabotaging VLC",
+      "resume": "The video opens with the claim that Microsoft is sabotaging users' computers: VLC media player opened instantly for 20 years, then suddenly froze on launch. Developers were blamed as the internet called open source software bloated, but the code had not changed. Microsoft security sweeps are suggested as the real cause, with VLC only the first casualty and another target already on the viewer's laptop.",
+      "mots_cles": [
+        "Microsoft sabotage",
+        "VLC media player",
+        "freeze on launch",
+        "bloated open source",
+        "security sweeps",
+        "software kill squad",
+        "teaser"
+      ],
+      "texte": "Microsoft is actively sabotaging your computer. For 20 years, VLC media player opened instantly. Then overnight, double clicking it suddenly triggered a brutal freeze. The internet immediately turned on open source developers, claiming the software had become bloated garbage. But the code hadn’t changed at all. It was something darker. Something more sinister. Microsoft’s security teams were conducting systematic sweeps and suffocating the app from the inside out. But VLC was just the first casualty. This software kill squad is only getting started. And their next target… is already on your laptop."
+    },
+    {
+      "id": 2,
+      "debut": 35.39,
+      "fin": 70.16,
+      "temps_estime": true,
+      "titre": "August 2026 crisis: 33-second MP3 delay",
+      "resume": "In August 2026 users report that VLC takes up to 33 seconds to start playing a basic MP3 on some Windows 11 machines, even on one of the fastest gaming processors. An MP3 is a 1990s format that any phone, car stereo or smart speaker decodes instantly, so the delay brings modern computers to their knees.",
+      "mots_cles": [
+        "VLC",
+        "33 seconds",
+        "MP3",
+        "Windows 11",
+        "August 2026",
+        "startup delay",
+        "gaming processor",
+        "1990s format"
+      ],
+      "texte": "The crisis exploded in August 2026. Users noticed that VLC was taking up to 33 seconds to begin playing a basic MP3 on some Windows 11 machines. That delay would be annoying on a 10-year-old laptop. But this wasn’t some older hardware. One affected user was running one of the fastest gaming processors money can buy. And it was struggling with a format from the 1990s. An MP3 is so fundamentally basic, every phone, car stereo, and smart speaker can play it without breaking a sweat. Decoding it should take a fraction of a second. Instead, it was bringing modern computers to their knees."
+    },
+    {
+      "id": 3,
+      "debut": 70.16,
+      "fin": 101.88,
+      "temps_estime": false,
+      "titre": "Jonathan Blow drops VLC",
+      "resume": "The complaint might have stayed a niche forum issue, but Jonathan Blow, creator of Braid and The Witness, publicly announces he dropped VLC for Microsoft's Media Player because of the delay. He says a large sector of open-source software is in an embarrassing place, a heavy verdict landing on a project that did not deserve it.",
+      "mots_cles": [
+        "Jonathan Blow",
+        "Braid",
+        "The Witness",
+        "VLC",
+        "Windows Media Player",
+        "open source criticism",
+        "embarrassing",
+        "public complaint"
+      ],
+      "texte": "The issue might have stayed buried. A niche complaint on forums that people discussed then forgot about. Instead, it found a megaphone. Jonathan Blow, the programmer behind the acclaimed puzzle games Braid and The Witness, publicly announced that he had dropped VLC. The delay had made him switch to Microsoft’s Media Player. Then he went further. In his view, “a large sector of open-source software is in a truly embarrassing place now.” It was a devastating verdict from an industry heavyweight. And it landed on a project that didn’t deserve it."
+    },
+    {
+      "id": 4,
+      "debut": 101.88,
+      "fin": 154.84,
+      "temps_estime": true,
+      "titre": "VLC developers blame Windows Defender",
+      "resume": "Two suspects exist: either VLC is broken or the system beneath it is. On August 12th the VLC developers answer that Windows Defender, via a Windows 11 update, quarantined critical startup files VLC needs to run. They put the word bug in quotation marks to hint it was deliberate and call Blow's remark disrespectful. The code had not gone bad: Windows was treating a normal part of VLC like a threat.",
+      "mots_cles": [
+        "VLC developers",
+        "Windows Defender",
+        "quarantine",
+        "Windows 11 update",
+        "August 12th",
+        "startup files",
+        "bug in quotation marks",
+        "disrespectful"
+      ],
+      "texte": "Because when a state of the art PC takes half a minute to open an audio file, there are really only two suspects. Either the program is broken, or the system underneath it is. VLC’s developers didn’t take it lying down. On August 12th, they fired back. According to them, the delay was caused by an issue caused by Microsoft’s antivirus program Defender. The problem was introduced through a Windows 11 update that had quarantined the critical start-up files VLC needed to run. They intentionally put the word “bug” in quotation marks. A subtle way of suggesting that this wasn’t an accident. It was how Windows wanted to do things. To top it off, they took a shot at Jonathan Blow, calling it “quite disrespectful” to brand open source software embarrassing, especially over an issue that a Windows update caused. The code hadn’t gone bad. Something inside Windows had started treating a normal part of VLC like a threat."
+    },
+    {
+      "id": 5,
+      "debut": 154.84,
+      "fin": 172.53,
+      "temps_estime": true,
+      "titre": "Blow's Braid comparison",
+      "resume": "Blow is unconvinced and argues that fixing the problem is the developer's responsibility, noting that he patched his own game Braid after AMD caused an issue. The video answers that the situations differ: Braid is a commercial game whose creator gets paid when it works.",
+      "mots_cles": [
+        "Jonathan Blow",
+        "Braid",
+        "AMD",
+        "developer responsibility",
+        "patch",
+        "commercial game",
+        "comparison"
+      ],
+      "texte": "Blow wasn’t convinced. He argued that fixing the problem was the developer’s responsibility. He pointed out that he personally patched his game, Braid, after AMD caused an issue. Maybe he had a point, but the 2 situations aren’t the same. Braid is a commercial game. When it works, its creator gets paid."
+    },
+    {
+      "id": 6,
+      "debut": 172.53,
+      "fin": 226.78,
+      "temps_estime": true,
+      "titre": "VideoLAN, a volunteer nonprofit that refused buyouts",
+      "resume": "VLC is overseen by VideoLAN, a nonprofit with no permanent employees that runs on volunteers and donations. Lead Jean-Baptiste Kempf turned down multi-million dollar buyouts and venture capital, which earned VLC its reputation as the first program installed on a new laptop and as a rejecter of ads, bundles and tracking. The video frames it as a volunteer project against a giant that ships the OS, the antivirus and the rival player, so someone was lying.",
+      "mots_cles": [
+        "VideoLAN",
+        "nonprofit",
+        "Jean-Baptiste Kempf",
+        "buyouts",
+        "venture capital",
+        "volunteers",
+        "donations",
+        "ads and bundles",
+        "reputation",
+        "Microsoft"
+      ],
+      "texte": "VLC is a different animal. It’s overseen by VideoLAN, a nonprofit with no permanent employees. It runs mostly on volunteers and donations. And it has stayed that way on purpose. VLC’s longtime lead, Jean-Baptiste Kempf, has spent years turning down multi-million dollar buyouts and venture capital. He refused to adopt a model that didn’t bring value for the users. It’s that integrity that earned VLC its reputation. For a whole generation of users, VLC is the first program they install on a new laptop because it spent decades rejecting the ads, bundles and corporate tracking that no one asked for. So on one side, you have a volunteer-driven project that walked away from a small fortune to keep its software clean. On the other side, you have one of the largest companies on Earth, shipping the operating system, the antivirus, and, conveniently, the rival media player Blow switched to. Someone was lying."
+    },
+    {
+      "id": 7,
+      "debut": 226.78,
+      "fin": 251.81,
+      "temps_estime": true,
+      "titre": "The master catalog that makes VLC start fast",
+      "resume": "VLC starts quickly thanks to a master catalog, a single file that tells the app where its tools are, compared to a librarian who checks the database instead of searching every aisle. The catalog lets VLC skip rescanning its whole startup folder each time it opens.",
+      "mots_cles": [
+        "master catalog",
+        "startup folder",
+        "rescanning",
+        "librarian analogy",
+        "VLC startup speed",
+        "database",
+        "shelf"
+      ],
+      "texte": "And it came down to what was happening behind the scenes. VLC is able to run quickly because it uses a master catalog. A single file that tells the app where its tools are so it can open them quickly. It’s like a massive library. When you want a book, the librarian doesn’t search every aisle. They check the database and go straight to the correct shelf. That catalog is what allows it to skip rescanning its entire start up folder every time it opens."
+    },
+    {
+      "id": 8,
+      "debut": 251.81,
+      "fin": 297.17,
+      "temps_estime": false,
+      "titre": "Defender locks the catalog and inspects every file",
+      "resume": "Windows turns Microsoft Defender into a paranoid guard that locks away VLC's catalog files, forcing the computer to inspect every piece of data before the app can start. The video compares Defender to a bouncer checking IDs and says overzealous security fingerprint updates can make safe independent software look like a virus, so VLC must grind through its system on each launch.",
+      "mots_cles": [
+        "Microsoft Defender",
+        "security fingerprints",
+        "bouncer analogy",
+        "quarantine",
+        "false positive",
+        "independent software",
+        "malware detection",
+        "VLC startup files"
+      ],
+      "texte": "But Windows turned Microsoft Defender into a paranoid guard. Instead of letting VLC read its own catalog, Defender locked the files away. It forced your computer to manually stop and inspect every piece of data before letting the app begin its tasks. The media player was fine. The files were fine. But Microsoft’s digital bouncer was blocking the door and id’ing everyone who tried to get in. Checking files is Defender’s job. Microsoft updates its security fingerprints regularly to catch malware. But if a corporate giant tells its bouncer to be overzealous, safe independent software starts to look like a virus. That’s what seems to have happened here. When Defender quarantines or blocks VLC’s start up files, it forces the player to grind through its system every time you click a file."
+    },
+    {
+      "id": 9,
+      "debut": 297.17,
+      "fin": 316.53,
+      "temps_estime": false,
+      "titre": "Microsoft never acknowledged the issue",
+      "resume": "Microsoft issued no official statement or fix, and tech reports traced the problem to a buggy security fingerprint update. Because nobody commented, users were left in the dark and blamed the app. The video notes that a one-time glitch could be shrugged off as software breaking and updates going wrong.",
+      "mots_cles": [
+        "Microsoft silence",
+        "no official statement",
+        "buggy fingerprint update",
+        "tech reports",
+        "users blame app",
+        "no fix"
+      ],
+      "texte": "But Microsoft never acknowledged it. There was no official statement or fix. Tech reports traced it back to a buggy security fingerprint update. But because no one actually commented on it, users were left in the dark and blaming the app. If it was a one-time glitch, you could shrug it off. Software breaks. Updates go wrong."
+    },
+    {
+      "id": 10,
+      "debut": 316.53,
+      "fin": 349.61,
+      "temps_estime": false,
+      "titre": "Not new: complaints since 2025 on Windows 10 and 11",
+      "resume": "Complaints go back to 2025, including a Reddit thread titled Start of VLC slowed by Windows Defender. A Windows 10 user reported a 24-second delay that vanished once VLC had been opened and returned after the PC sat idle, with dozens of others reporting the same freeze. The issue spans two Windows versions and multiple VLC releases and points to the aggressive security layer underneath.",
+      "mots_cles": [
+        "Reddit thread",
+        "Windows 10",
+        "Windows 11",
+        "24-second delay",
+        "2025 complaints",
+        "idle PC",
+        "VLC releases",
+        "aggressive security layer"
+      ],
+      "texte": "But the problem isn’t new. Complaints go back to 2025, buried in a Reddit thread title “Start of VLC slowed by Windows Defender”. One Windows 10 user described a 24-second delay that vanished once VLC had been opened, only to return after the PC sat idle. Dozens of other users joined in, reporting the same freeze across Windows 10 and Windows 11 editions. So this isn’t strictly a Windows 11 issue. It spans 2 versions of Windows and multiple VLC releases. The problem isn’t a broken piece of media software. It’s the aggressive security layer underneath it."
+    },
+    {
+      "id": 11,
+      "debut": 349.61,
+      "fin": 375.06,
+      "temps_estime": false,
+      "titre": "Inconsistent bug: why open source takes the blame",
+      "resume": "The problem is maddeningly inconsistent: a tech news outlet could not reproduce it on its Windows 11 test machine, and one user saw the stall only on the first file after a reboot. That inconsistency is why open source software takes the fall, since people blame the visible program rather than the antivirus working in the background.",
+      "mots_cles": [
+        "inconsistent bug",
+        "cannot reproduce",
+        "first file after reboot",
+        "blame the program",
+        "antivirus in background",
+        "open source blame",
+        "Windows 11 test machine"
+      ],
+      "texte": "It’s also maddeningly inconsistent. When a tech-oriented news outlet tried to reproduce it, VLC launched normally on their Windows 11 test machine. One user reported that the stall only strikes the first file after a reboot, and never the one after it. And that inconsistency is exactly why open source software takes the fall. When a program freezes in front of you, you blame the program. Almost nobody thinks to blame the antivirus working in the background."
+    },
+    {
+      "id": 12,
+      "debut": 375.06,
+      "fin": 431.74,
+      "temps_estime": false,
+      "titre": "Paint.NET and the Defender blame pattern",
+      "resume": "Paint.NET, a free image editor that started as a student project, has repeatedly clashed with Defender: adding its folder to the exclusion list fixed performance, and the developer rewrote an error message to name Windows Defender as the reason files were not saving. After a major Windows 10 update one user reported the editor taking several minutes to respond. The video calls it a common pattern in which Windows' security layer trips up software and the independent app wears the blame.",
+      "mots_cles": [
+        "Paint.NET",
+        "Windows Defender",
+        "exclusion list",
+        "error message",
+        "independent developer",
+        "Windows 10 update",
+        "image editor",
+        "blame pattern"
+      ],
+      "texte": "VLC isn’t the only independent Windows program living with this. Paint.NET, a free image editor that started as a student project, has run into Defender more than once. Users realized that adding the app’s folder to Defender’s exclusion list instantly fixed their performance issues. Things got so bad, the developer had to rewrite an message to give the real reason files weren’t saving: Windows Defender. An independent developer had to signpost an error just so users wouldn’t blame his app. Years earlier, right after a major Windows 10 update, one user on its forum reported the editor taking several minutes to become responsive when opening or creating an image. Think about that for a second. An independent developer spent time rewriting an error message so users would stop blaming his app for something Windows was doing. It’s a common pattern. Windows’ own security layer trips up the software, and the independent app wears the blame. Breaking that pattern takes evidence that points in only one direction."
+    },
+    {
+      "id": 13,
+      "debut": 431.74,
+      "fin": 456.88,
+      "temps_estime": true,
+      "titre": "Linux test: one second instead of 33",
+      "resume": "The smoking gun is an X user's recording of opening an MP3 with VLC on Linux, which took one second instead of 33. It is the exact same program and file, and when Windows is told to ignore VLC the player opens instantly, so the difference is whether Defender stands in the way and the operating system is the problem.",
+      "mots_cles": [
+        "Linux",
+        "X user recording",
+        "1 second",
+        "smoking gun",
+        "same program same file",
+        "Defender exclusion",
+        "operating system problem",
+        "VLC MP3"
+      ],
+      "texte": "The smoking gun came from an X user who recorded themselves opening an MP3 with VLC, but on a Linux system. It didn’t take 33 seconds. It took 1. It’s the exact same program, playing the exact same file. You don’t need a lab test to see what’s happening. The operating system is the problem. When you tell Windows to ignore VLC, the player opens instantly. The only difference was whether Window’s digital bouncer was standing in the way."
+    },
+    {
+      "id": 14,
+      "debut": 456.88,
+      "fin": 492.64,
+      "temps_estime": true,
+      "titre": "Windows Media Player is slower than VLC",
+      "resume": "While Blow criticized VLC, Microsoft's own Media Player was under scrutiny: Windows Latest had tested it and found it slower and heavier, taking longer than VLC to open a video, using lots of memory and struggling with basic files. A developer annoyed by slowness left a program slowed by Windows for a fundamentally slower Microsoft program, which was exactly the outcome Microsoft wanted.",
+      "mots_cles": [
+        "Windows Media Player",
+        "Windows Latest",
+        "benchmark test",
+        "memory usage",
+        "Jonathan Blow",
+        "slower than VLC",
+        "irony",
+        "users moved to Microsoft app"
+      ],
+      "texte": "The irony is that while people like Jonathan Blow were criticizing VLC, Microsoft’s own Media Player was coming under scrutiny. Just months earlier, Windows Latest had tested it and found it was the slower, heavier option. It took noticeably longer than VLC to open a video, ate up massive amounts of memory and struggled with basic files. So a developer frustrated by slowness abandoned a program that was being slowed down by Windows, and replaced it with a Microsoft program that was fundamentally slower. Whatever the reason, the immediate result was exactly what Microsoft wanted. Users moved from an independent app to Window’s own player."
+    },
+    {
+      "id": 15,
+      "debut": 492.64,
+      "fin": 528.12,
+      "temps_estime": true,
+      "titre": "Edge and default browser choice under Windows",
+      "resume": "The video asks whether VLC is a fluke or a glimpse of how Windows treats software that gets in its way, using Microsoft Edge as the example. Updates reset Chrome or Firefox defaults, parts of Edge keep running after deletion, parts of Windows 10 and 11 ignore the default browser and open links in Edge, and new PCs may tie Edge to PDFs over readers like Adobe without asking.",
+      "mots_cles": [
+        "Microsoft Edge",
+        "default browser",
+        "Chrome",
+        "Firefox",
+        "settings reset",
+        "links open in Edge",
+        "PDF default",
+        "Adobe",
+        "Windows 10 and 11"
+      ],
+      "texte": "So, is VLC a fluke, or a glimpse of how Windows treats software that gets in its way. Microsoft Edge is less browser and more parasite in your system. If you tell Windows you want to use Chrome or Firefox, updates will routinely reset your default settings. If you try to delete Edge, parts of it keep running in the background. Even when your choice of default browser sticks, Windows cheats. Parts of Windows 10 and 11 completely ignore the default browser and force links open in Edge. For new PCs, Edge might also be tied to other formats like PDFs over full-fledged readers like Adobe, without asking your permission."
+    },
+    {
+      "id": 16,
+      "debut": 528.12,
+      "fin": 571.38,
+      "temps_estime": true,
+      "titre": "EU Digital Markets Act proves Microsoft can comply",
+      "resume": "To comply with the European Union's Digital Markets Act, Windows respects user choice in Europe: Edge and Bing become easy to uninstall, setting a rival default browser covers more link and file types including PDFs, and the Featured app box promoting Edge was removed, a change that reached users worldwide. The video concludes that when legally required Microsoft can level the playing field, so everything on the laptop is a deliberate choice.",
+      "mots_cles": [
+        "Digital Markets Act",
+        "European Union",
+        "Edge",
+        "Bing",
+        "uninstall",
+        "default browser",
+        "PDFs",
+        "Featured app box",
+        "level playing field",
+        "deliberate choice"
+      ],
+      "texte": "Microsoft can fix this. In fact, it already has… for some people. To comply with the European Union’s Digital Markets Act, Windows suddenly learned to respect user choices. For European users, Edge and Bing became easy to uninstall. The European rules went further still. Clicking “Set default” for a rival browser now covers far more link and file types, including PDFs. They even stripped out the “Featured app” box that used to promote Edge whenever someone tried to change their browser defaults, and that change reached users worldwide. Every one of these moves proves the same thing: when Microsoft is legally required to give competitors a level playing field, it can. Which means everything on your laptop is a deliberate choice."
+    },
+    {
+      "id": 17,
+      "debut": 571.38,
+      "fin": 589.25,
+      "temps_estime": true,
+      "titre": "Windows Store apps get VIP treatment, VLC does not",
+      "resume": "Apps downloaded from the Windows store get VIP treatment and launch immediately, while an app like VLC is hidden behind a wall of code and users must manually hack their registry files to find it. The video presents this as another two-tier treatment of software.",
+      "mots_cles": [
+        "Windows store",
+        "VIP treatment",
+        "two-tier treatment",
+        "registry files",
+        "app launch",
+        "VLC",
+        "hidden app",
+        "Microsoft Store apps"
+      ],
+      "texte": "The same two-tier treatment shows up in less obvious places. If you download an app from the Window’s store, it automatically gets the VIP treatment to launch immediately. But do the same thing with an app like VLC, and Windows hides it behind a wall of code. It forces users to manually hack their own registry files to find it"
+    },
+    {
+      "id": 18,
+      "debut": 589.25,
+      "fin": 603.66,
+      "temps_estime": true,
+      "titre": "Python commands hijacked by the Microsoft Store",
+      "resume": "Windows includes shortcuts that hijack the Python and Python3 commands and divert them to the Microsoft Store, forcing users to go into settings and clean up Microsoft's mess. Python is presented as one of the world's most popular programming languages.",
+      "mots_cles": [
+        "Python",
+        "Python3",
+        "Microsoft Store",
+        "command hijack",
+        "shortcuts",
+        "Windows settings",
+        "programming language"
+      ],
+      "texte": "It gets worse. Python is one of the world’s most popular programming languages. Windows includes shortcuts that hijacks Python and Python3 commands and diverts them to the Microsoft Store. It forces you to go into settings and clean up Microsoft’s mess."
+    },
+    {
+      "id": 19,
+      "debut": 603.66,
+      "fin": 640.57,
+      "temps_estime": true,
+      "titre": "August 2026 mandatory update crashes games",
+      "resume": "In August 2026 Microsoft announced a mandatory security update, and within days video games were crashing and forcing PCs to reboot, with developers like Embark posting emergency warnings on Discord. Users also reported a Windows Hello PIN breaking on every restart, black screens and broken displays, and on August 20th Microsoft added the game crashes to the update's known issues.",
+      "mots_cles": [
+        "mandatory security update",
+        "August 2026",
+        "game crashes",
+        "Embark",
+        "Discord warning",
+        "Windows Hello PIN",
+        "black screens",
+        "known issues",
+        "August 20th"
+      ],
+      "texte": "And while VLC was freezing, Microsoft dropped another bombshell. In August 2026, Microsoft announced a mandatory security update. Within days, video games were crashing and forcing PCs to reboot. Developers like Embark had to put emergency warnings on Discord, stating that Windows was breaking their software. And it wasn’t just games. Some users found their Windows Hello PIN broke on every restart. They were trapped in an endless loop where Windows would corrupt its own security keys. Others reported, black screens, and broken displays. On August 20th, Microsoft officially added the game crashes to the update’s known issues."
+    },
+    {
+      "id": 20,
+      "debut": 640.57,
+      "fin": 682.76,
+      "temps_estime": true,
+      "titre": "Microsoft blames RGB lighting software",
+      "resume": "Microsoft's explanation was that RGB lighting for keyboards and fans interfered with core parts of the system. The video grants a valid point: the driver these lighting utilities rely on runs in kernel space, the most privileged level, which anti-cheat software sees as an exploit waiting to happen, and a cut-off driver causes a critical kernel fault and a blue screen of death.",
+      "mots_cles": [
+        "RGB lighting",
+        "kernel driver",
+        "kernel space",
+        "anti-cheat",
+        "blue screen of death",
+        "critical kernel fault",
+        "Microsoft explanation",
+        "security concern"
+      ],
+      "texte": "Then came the explanation. It was the fault of your glowing keyboard and fans. Microsoft claimed that RGB lighting was interfering with core parts of the system. To be fair to Microsoft, they have a valid point here. The driver these lighting utilities rely on runs in kernel space, the most privileged level of the system. To anti-cheat software, that’s “an exploit waiting to happen.” Lighting software with that much access is a legitimate security concern. And when something goes wrong at that level, it goes very wrong. If the driver is cut off in the middle of a task, the result is a critical kernel fault. That causes Windows to show the famous blue screens of death to protect the hardware. That’s the crash players were seeing."
+    },
+    {
+      "id": 21,
+      "debut": 682.76,
+      "fin": 709.51,
+      "temps_estime": true,
+      "titre": "Games ran fine until the update; lighting software blocked",
+      "resume": "The video points to the sequence of events: the lighting drivers were already on gaming PCs and the games ran perfectly until Microsoft shipped an update, yet Microsoft said it was someone else's fault. The fix was a block preventing the lighting software from loading, with a warning that RGB features could behave erratically or stop working, so once again a third party's software was switched off.",
+      "mots_cles": [
+        "update sequence",
+        "third-party software",
+        "block lighting software",
+        "RGB features",
+        "blame shifting",
+        "drivers on gaming PCs",
+        "games crashed",
+        "Microsoft fix"
+      ],
+      "texte": "But look at the actual sequence of events. Those drivers were already sitting on gaming PCs, and the games ran perfectly fine. Then Microsoft shipped an update and the games crashed. Microsoft said it was someone else's fault. The fix followed the same logic though. They put a block on the lighting software from loading. Microsoft warned that turning it off could mean RGB features behaving erratically or not working at all. Once again, a third party’s software got switched off."
+    },
+    {
+      "id": 22,
+      "debut": 709.51,
+      "fin": 725.98,
+      "temps_estime": true,
+      "titre": "Rollback trap: the zero-day fix",
+      "resume": "Rolling back the update to get a PC working again is discouraged because the same patch fixes a zero-day vulnerability that attackers were already exploiting, leaving users to choose between a PC that works and a safe PC.",
+      "mots_cles": [
+        "rollback",
+        "zero-day vulnerability",
+        "security patch",
+        "actively exploited",
+        "working PC vs safe PC",
+        "update trap",
+        "Windows update"
+      ],
+      "texte": "If you were tempted to roll back the update to get your laptop or PC working again, Microsoft had already laid the perfect trap. The same patch fixes a zero-day vulnerability that attackers were already exploiting. Users were left choosing between a PC that works and a safe PC."
+    },
+    {
+      "id": 23,
+      "debut": 725.98,
+      "fin": 739.62,
+      "temps_estime": false,
+      "titre": "How the internet was manipulated: Embark vs VLC",
+      "resume": "When Embark's games crashed people blamed a Windows update, but when VLC froze it became a debate about open-source software. The same kind of problem led to very different conclusions.",
+      "mots_cles": [
+        "Embark",
+        "VLC",
+        "double standard",
+        "public blame",
+        "Windows update",
+        "open source debate",
+        "internet manipulated",
+        "narrative asymmetry"
+      ],
+      "texte": "The real tragedy about this was how the internet was manipulated. When Embark’s games crashed, they blamed a Windows update. But when VLC froze, it became part of a debate about open-source software. Same kind of problem, very different conclusion."
+    },
+    {
+      "id": 24,
+      "debut": 739.62,
+      "fin": 786.18,
+      "temps_estime": false,
+      "titre": "No proof of intent, but Microsoft controls every layer",
+      "resume": "There is no leaked memo, whistleblower or document showing Microsoft set out to break VLC; the likelier explanation is an overzealous security update and a detection rule catching a harmless file amid monthly patches pushed to millions of machines. The absence of intent does not matter, because Microsoft owns the OS, the antivirus, the browser, the rival media player and the store, and when one company controls every layer a strategic attack and an accidental bug look the same to the user.",
+      "mots_cles": [
+        "no intent",
+        "leaked memo",
+        "overzealous security update",
+        "detection rule",
+        "monthly patches",
+        "Microsoft owns every layer",
+        "antivirus",
+        "browser",
+        "store",
+        "strategic attack vs bug"
+      ],
+      "texte": "There was no leaked memo, no whistleblower, and no internal document showing that Microsoft set out to break VLC. The most likely explanation is probably more boring: an overzealous security update, a detection rule that caught a harmless file, and a company pushing monthly patches to millions of machines, for genuinely good reasons. But that comes with an uncomfortable truth. The absence of intent doesn't matter. Microsoft owns the operating system. It owns the antivirus that scans your files. It owns the browser your links open in, the media player waiting in the wings when VLC stumbles, and the store that hands its own apps the paved road. When one company controls every layer, a strategic attack and an accidental bug look exactly the same from your chair… Because they end in the same place."
+    },
+    {
+      "id": 25,
+      "debut": 786.18,
+      "fin": 800.26,
+      "temps_estime": false,
+      "titre": "Jonathan Blow as proof",
+      "resume": "Jonathan Blow is presented as the proof that no plan was needed: one bad update and one frustrating wait led a respected developer to move from independent software to Microsoft's own app, while telling his followers that open source was the real problem.",
+      "mots_cles": [
+        "Jonathan Blow",
+        "no plan needed",
+        "bad update",
+        "Microsoft player",
+        "open source blamed",
+        "respected developer",
+        "followers"
+      ],
+      "texte": "Jonathan Blow is the proof. No plan was needed. One bad update, one frustrating wait, and a respected developer publicly moved from independent software to Microsoft’s own app. All while telling his followers that open source was the real problem."
+    },
+    {
+      "id": 26,
+      "debut": 800.26,
+      "fin": 812.35,
+      "temps_estime": true,
+      "titre": "Volunteers did the fixing, not Microsoft",
+      "resume": "The workaround did not come from Microsoft but from the volunteers, who had to build their own tools to fix the problem, while the company whose update set it off did not have to lift a finger.",
+      "mots_cles": [
+        "volunteers",
+        "workaround",
+        "built own tools",
+        "Microsoft inaction",
+        "VLC fix",
+        "update caused problem",
+        "open source maintainers"
+      ],
+      "texte": "And notice who ended up doing the fixing. The workaround didn’t come from Microsoft. It came from the volunteers, who had to build their own tools to fix it. The company whose update set it off didn’t have to lift a finger."
+    },
+    {
+      "id": 27,
+      "debut": 812.35,
+      "fin": 835.14,
+      "temps_estime": true,
+      "titre": "Flip the roles: the asymmetry is the story",
+      "resume": "The video imagines a free, volunteer-built antivirus locking away a core file inside Microsoft's Media Player so that every song takes half a minute, and asks how long headlines would take to call open-source security tools reckless and embarrassing. It concludes that the asymmetry is the story: when Microsoft breaks something it is just a bug, and when anyone else is caught in the blast radius it is their fault.",
+      "mots_cles": [
+        "thought experiment",
+        "volunteer antivirus",
+        "Microsoft Media Player",
+        "double standard",
+        "reckless and embarrassing",
+        "asymmetry",
+        "bug vs fault",
+        "headlines"
+      ],
+      "texte": "Flip the roles. Imagine a free, volunteer-built antivirus locked away a core file inside Microsoft’s Media Player, and every song suddenly took half a minute to start. How long would it take for headlines to declare that open-source security tools were reckless and embarrassing? The asymmetry is the story. When Microsoft breaks something, it’s just a bug. When anyone else is caught in the blast radius, it’s their fault."
+    },
+    {
+      "id": 28,
+      "debut": 835.14,
+      "fin": 868.42,
+      "temps_estime": false,
+      "titre": "Volunteer projects pay the price",
+      "resume": "Volunteer projects with no PR department and no hotline to corporate headquarters pay the price and answer public accusations on their own time, even though tools like VLC are often the first things installed to make a new Windows PC feel personal. When the OS maker decides which software looks suspicious, which links open where and which drivers are shut off, independent software never stands a chance and the volunteer shoulders the blame.",
+      "mots_cles": [
+        "volunteer projects",
+        "no PR department",
+        "public accusations",
+        "VLC first install",
+        "independent software",
+        "OS maker control",
+        "suspicious software",
+        "blame"
+      ],
+      "texte": "The people who pay the price are volunteer projects with no PR department and no hotline to corporate headquarters. They’re the ones having to answer public accusations on their own time. And the tools they build, like VLC, are often the very first things people install to make a new Windows PC feel like their own. Because when a company that builds your operating system also decides which software looks suspicious, which links open where, and which drivers get shut off, independent software never stands a chance. And when Microsoft breaks your computer, it’s the volunteer who has to shoulder the blame."
+    },
+    {
+      "id": 29,
+      "debut": 868.42,
+      "fin": 882.22,
+      "temps_estime": false,
+      "titre": "Outro: Microsoft desperate, next video",
+      "resume": "Microsoft used to be the king of computing but, with Apple and Google surging ahead, has become desperate. The video points viewers to Something Is VERY Wrong With Microsoft Windows 11 to see why the world's most popular OS is on life support.",
+      "mots_cles": [
+        "Microsoft",
+        "Apple",
+        "Google",
+        "Windows 11",
+        "life support",
+        "desperate",
+        "next video",
+        "Something Is VERY Wrong With Microsoft Windows 11",
+        "call to action"
+      ],
+      "texte": "Microsoft used to be the king of computing. Now with Apple and Google surging ahead, they’ve become desperate. Watch “Something Is VERY Wrong With Microsoft Windows 11” to see why the world's most popular OS is currently on life support. Or click on this."
+    }
+  ]
+}
