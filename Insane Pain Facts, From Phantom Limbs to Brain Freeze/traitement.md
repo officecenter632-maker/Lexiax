@@ -13,5 +13,7 @@ Speech : 6947 lignes, 0.32 s à 13672.56 s (≈ 3 h 48), langue en, sous-titres 
 ## Tranches
 - Tranche 1 : lignes 1 à 976 (0,32 à 1801,12 s, ≈ 30 min), 63 segments (id 1 à 63). Fin sur la douleur fantôme (fait 5 de la liste de 50 faits) avant « Number four, pain relief through the ages ». Remarques : aucune coupure estimée ; segments courts (7 à 15 s) pour les faits 48 à 46.
 
+- Tranche 2 : lignes 977 à 1946 (1801,12 à 3653,68 s, ≈ 30,9 min), 43 segments (id 64 à 106). Contenu : fin de la liste de 50 faits (soulagement de la douleur, douleur plaisante, névralgie du trijumeau, cœur brisé), liste des blessures les plus douloureuses (LCA, ligament collatéral ulnaire, jambe, vertèbres, TBI, calculs rénaux), endroits les plus douloureux pour un coup de poing, puis liste « unbearable » (n° 20 à 16 : poisson-pierre, fourmi balle, goutte, Lego, hernie discale). Remarques : aucune coupure estimée ; les passages longs (≥ 120 s) sont scindés en deux idées.
+
 ## Point d'arrêt
-Dernière ligne traitée : 976. Prochaine étape : tranche 2, à partir de la ligne 977 (« Number four, let's now talk about pain relief through the ages »), id 64.
+Dernière ligne traitée : 1946. Prochaine étape : tranche 3, à partir de la ligne 1947 (« Now, for something you probably never heard of... Number 15 » : drépanocytose), id 107.

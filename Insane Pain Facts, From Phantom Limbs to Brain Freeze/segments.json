@@ -4,12 +4,12 @@
   "titre_video": "Insane Pain Facts, From Phantom Limbs to Brain Freeze",
   "duree_s": 13672.56,
   "avancement": {
-    "lignes_traitees": 976,
-    "fin_traitee_s": 1801.12,
+    "lignes_traitees": 1946,
+    "fin_traitee_s": 3653.68,
     "nb_lignes_total": 6947,
     "complet": false
   },
-  "nb_segments": 63,
+  "nb_segments": 106,
   "segments": [
     {
       "id": 1,
@@ -1109,6 +1109,760 @@
         "amputation"
       ],
       "texte": "now we need to talk about [music] ghosts. There is something you might not have heard of called phantom pain. It can be seriously painful. The strange thing is [music] the pain is coming from a part of the body that isn't there. So a person might have lost an arm, but every day they feel excruciating pain where the arm was. In the past, doctors thought the pain was purely psychological, but now they believe phantom [music] pain is the result of nervous system signals getting mixed up."
+    },
+    {
+      "id": 64,
+      "debut": 1801.12,
+      "fin": 1845.44,
+      "temps_estime": false,
+      "titre": "Pain relief through the ages",
+      "resume": "Fact 4: opium became popular for pain management in 1600s Europe and chloroform was found to be a good anesthetic in the 1800s. Ancient Egyptians laid electric eels on patients and Greek and Roman physicians such as Hippocrates and Scribonius Largus used electric torpedo fish for headaches and gout.",
+      "mots_cles": [
+        "pain relief history",
+        "opium",
+        "chloroform",
+        "electric eels",
+        "torpedo fish",
+        "Hippocrates",
+        "ancient Egypt",
+        "anesthetic"
+      ],
+      "texte": "Number four, let's now talk about pain relief through the ages. In the 1600s in Europe, the use of opium became very popular for pain management. In the 1800s, they discovered that chloroform was a good anesthetic. The [music] ancient Greeks might have used certain herbs as well as opium for various kinds of pain, but we like something the ancient Egyptians used to do from time to time. That was to [music] collect electric eels out of the Nile and lay them on people for the reason that the electric discharge could relieve pain from inflammation. The ancient Greek physician, the great Hypocrates, would sometimes use torpedo [music] fish to relieve folks of their headache or gout. These fish were a kind of electric array. The Roman physician, [music] Screonius Argus, also prescribed a few shocks with one of those fish to cure chronic headaches. So, we have to ask, can pain actually feel good? Number"
+    },
+    {
+      "id": 65,
+      "debut": 1845.44,
+      "fin": 1879.36,
+      "temps_estime": false,
+      "titre": "Why some pain feels good",
+      "resume": "Fact 3: people enjoy pulling scabs or plucking nasal hairs because pain milder than expected can be pleasurable, and extreme exercise or masochism makes the body release endorphins that block pain and give a rush similar to morphine or heroin.",
+      "mots_cles": [
+        "pain pleasure",
+        "scabs",
+        "endorphins",
+        "masochism",
+        "post-pain rush",
+        "morphine",
+        "extreme exercise"
+      ],
+      "texte": "three, we know some of you enjoy pulling off scabs, even though it hurts a little bit. [music] Or perhaps some savages out there are partial to ripping your nasal hairs out. It can feel kind of nice in a bad way. Some scientists [music] have said that when pain is not as bad as we expected it to be, we can actually enjoy the pain. But many people put themselves through pain all the time. Whether it involves extreme exercise or someone whipping them across their leatherclad face. In these circumstances, we can produce our very own brand of narcotics, [music] what scientists call endorphins, which not only block pain, but in some cases give us a post-p pain rush similar to the high of [music] morphine or heroin."
+    },
+    {
+      "id": 66,
+      "debut": 1879.36,
+      "fin": 1934.08,
+      "temps_estime": false,
+      "titre": "Trigeminal neuralgia, the worst pain",
+      "resume": "Fact 2: trigeminal neuralgia is often called the worst pain humans can face, feeling like electric shocks in the face lasting seconds to two minutes, tied to the trigeminal nerve; sufferers describe fireworks or red-hot needles and may be unable to eat or speak.",
+      "mots_cles": [
+        "trigeminal neuralgia",
+        "trigeminal nerve",
+        "face pain",
+        "electric shock",
+        "worst pain",
+        "nervous system",
+        "sufferers"
+      ],
+      "texte": "But sometimes pain is some plain old pain, such as when it's the worst pain [music] in the world. Number two, it's called trigeminal neuralgia and is frequently called the worst pain humans can face. It's actually described as feeling like an electric shock going through the face that can last seconds or up to 2 [music] minutes. These can come out of the blue and can happen to anyone. Although science is still trying to figure them out, it's almost certain they occur due to something called the trigeminal [music] nerve. This is part of the nervous system that sends messages from the face to the brain. For some reason [music] not yet fully understood, something goes wrong and pain happens. Intense pain described by some sufferers as fireworks in your face [music] or redot needles being poked in the face. One man said, \"I wanted to rip my head open to get out whatever [music] was in there. It can ruin your life.\" As those who experience this frequently are unable to perform basic tasks such as eating or speaking. So with that in mind, as you sit comfortably in your chair watching this show, just take a second to realize that things aren't so"
+    },
+    {
+      "id": 67,
+      "debut": 1934.08,
+      "fin": 1956.24,
+      "temps_estime": false,
+      "titre": "Broken heart syndrome",
+      "resume": "Fact 1: a broken heart can really hurt, as broken heart syndrome, triggered by stress including emotional stress, weakens heart muscles and causes chest pain that could lead to heart failure.",
+      "mots_cles": [
+        "broken heart syndrome",
+        "emotional stress",
+        "heart muscle",
+        "chest pain",
+        "heart failure",
+        "mental pain"
+      ],
+      "texte": "bad. Number one, now we must ask, does a broken heart actually hurt? The answer is yes, it can. There [music] is something called broken heart syndrome, and it can happen after a person's been through a lot of stress, sometimes emotional stress. This can cause the heart muscles to weaken, cause chest pain that could lead to heart failure. [music] It's unlikely, but extreme mental pain could cause you a lot of physical pain. You ready to suck it up,"
+    },
+    {
+      "id": 68,
+      "debut": 1956.24,
+      "fin": 2008.24,
+      "temps_estime": false,
+      "titre": "Torn ACL: what it is and how it happens",
+      "resume": "New list of the most painful injuries starts with the torn ACL, common among professional athletes such as Tom Brady and Tiger Woods. The anterior cruciate ligament links the kneebone to the shin bone, gives 90% of leg stability and tears with sudden rapid changes of direction.",
+      "mots_cles": [
+        "torn ACL",
+        "anterior cruciate ligament",
+        "knee injury",
+        "athletes",
+        "leg stability",
+        "change of direction",
+        "most painful injuries"
+      ],
+      "texte": "buttercup? Because today we're diving straight into the most painful injuries you could ever experience. Torn ACL. It's the bane of every professional athlete. One of the most common sports injuries and one that can easily end your dreams of being a global superstar. from Tom Brady, Chipper Jones, Teddy Bridgewwater, and wait, Tiger Woods? Really? As we were saying, torn ACLs are a nightmare for professional athletes engaged in extreme performance sports such as golf, apparently. Yeah, the sport where you drive to your ball after you hit it. Anyway, torn ACLs are caused by sudden and very rapid changes in direction. Your anterior cruciate ligament connects your kneebone to your shin bone and is responsible for 90% of your leg stability. When you suddenly change direction and your ligament tears, your leg can't properly support you anymore and you'll be on your way to a very quick introduction with a dirt."
+    },
+    {
+      "id": 69,
+      "debut": 2008.24,
+      "fin": 2055.12,
+      "temps_estime": false,
+      "titre": "Torn ACL treatment, recovery and everyday causes",
+      "resume": "A small ACL tear can be treated with rest and rehabilitation but can still sideline an athlete for up to a year; a severe tear needs surgery with a grafted tendon from the knee or a donor. ACL tears also happen in everyday life, from bad landings, improper squats or twists.",
+      "mots_cles": [
+        "ACL surgery",
+        "rehabilitation",
+        "grafted tendon",
+        "recovery time",
+        "sports injury",
+        "squats",
+        "donor tendon"
+      ],
+      "texte": "If the tear is small, you can typically get away with rest and rehabilitation. Though, beware because even a small tear [music] can take you out of the sports action for up to a year. This is the reason that the injury is so dreaded by professional athletes who in effect can tank an entire season and even part of [music] a second season with just a small tear. However, if the tear is severe enough, the entire ligament might need to be replaced with surgery. In that case, your torn ligament will be replaced with a grafted on tendon that can be taken from another part of your knee or from that of an organ donor. Think just because you're not a pro alete, you're not at risk. Think again. ACL tears can occur from everyday things like jumping and landing wrong, doing squats improperly, twisting your leg in a fall, and just sitting there watching your favorite YouTube channel. Only one of those is made up, and we're not"
+    },
+    {
+      "id": 70,
+      "debut": 2055.12,
+      "fin": 2111.92,
+      "temps_estime": false,
+      "titre": "Torn ulnar collateral ligament",
+      "resume": "The ulnar collateral ligament in the elbow tears in overhead sports like baseball, discus and javelin, causing severe pain, instability and difficulty with ordinary activities, and a long painful rehabilitation, as the script's writer knows from experience.",
+      "mots_cles": [
+        "ulnar collateral ligament",
+        "elbow injury",
+        "baseball",
+        "javelin",
+        "ligament tear",
+        "rehabilitation",
+        "forearm stability"
+      ],
+      "texte": "telling you which. Speaking of tearing things, if you like using your arms, this next excruciating injury will leave you crippled for up to a year and a half. Torn ulner collateral ligament. Let's stick with ligaments for [music] now because your body is full of them, and they are extremely prone to ripping, tearing, and generally disintegrating into dust inside [music] your body. And when they do, it's a one-way ticket to the worst pain in your life, both from the injury and the very, very long and painful rehabilitation process. Most common in sports that involve [music] rapid overhead movement such as baseball and discus throwing and the javelin. This injury leads to the tearing of the ulner collateral ligament which is located in your elbow. As the most important ligament in providing stability for your forearm and elbow. A torn ular collateral ligament is not only painful but can make any activities even non-sports related ones impossible. You can trust us on this one because the writer of this script is writing from personal experience. Like a torn ACL,"
+    },
+    {
+      "id": 71,
+      "debut": 2111.92,
+      "fin": 2144.96,
+      "temps_estime": false,
+      "titre": "UCL symptoms, surgery and Tommy John",
+      "resume": "A torn UCL may pop on injury, cause extreme pain inside the elbow, and a complete tear needs surgery with up to a year and a half recovery. The injury once ended pitchers' careers until LA Dodgers pitcher Tommy John's ligament was replaced with a forearm tendon in the late 1970s.",
+      "mots_cles": [
+        "Tommy John surgery",
+        "LA Dodgers",
+        "ligament replacement",
+        "elbow pain",
+        "recovery",
+        "pitcher",
+        "tendon graft"
+      ],
+      "texte": "you might hear a pop when you first suffer the injury. After which, if the tear is small, you'll experience extreme pain radiating from the inside of your elbow and will generally be unable to move your elbow very far without extreme distress. If the injury is severe enough to tear your ligament completely, you'll need surgery to replace the torn ligament and as much as a year and a half to recover. Baseball fans might remember that this injury used to be fatal to ball players until an experimental surgery in the late 1970s replaced LA Dodgers pitcher Tommy John's torn ligament with a tendon from his"
+    },
+    {
+      "id": 72,
+      "debut": 2144.96,
+      "fin": 2188.56,
+      "temps_estime": false,
+      "titre": "Shattered leg and Alcides Moreno's 47-story fall",
+      "resume": "Severely fractured legs are among the most painful injuries and are common in high-speed car crashes, air accidents and high falls. Window washer Alcides Moreno survived a 47-story fall with such badly fractured legs that doctors considered amputation.",
+      "mots_cles": [
+        "fractured leg",
+        "shattered bone",
+        "Alcides Moreno",
+        "47-story fall",
+        "window washer",
+        "amputation",
+        "car crashes"
+      ],
+      "texte": "forearm. Our next injury is not only very common but absolutely devastatingly painful. Fractured [snorts] leg. So you broke a leg. Big deal. God gave you a spare for a reason. But wait a minute, because severely broken legs, and we mean injuries to the point of thoroughly shattered bone, can be one of the most painful injuries you'll ever experience. You can break a leg in any number of hilarious ways, as a quick YouTube fail video search will show you. However, shattered legs are only common in extreme situations such as high-speed car crashes, air accidents, and very high falls. When Alcides Moreno survived an incredible 47story fall as a window washer, his legs were so severely fractured that doctors briefly"
+    },
+    {
+      "id": 73,
+      "debut": 2188.56,
+      "fin": 2247.6,
+      "temps_estime": false,
+      "titre": "Treating a broken leg: external fixation, plates and screws",
+      "resume": "In the past severe fractures meant amputation, but modern medicine uses external fixation rods screwed into the bone, metal plates and screws, which may be left in or removed after healing.",
+      "mots_cles": [
+        "external fixation",
+        "metal plates",
+        "screws",
+        "bone fracture treatment",
+        "orthopedic surgery",
+        "modern medicine"
+      ],
+      "texte": "considered amputation. In the old times, amputation would have been about the only option, as a severe enough leg fracture would have prevented the leg from healing properly or fusing back together correctly. What would result would be a deformed leg that could end up completely useless. Modern medicine, though, has gotten a lot better at putting Humpty Dumpty back together again. Often in severe fractures that can't be treated right away, perhaps because of the severity of your other injuries and the risk of surgery, an external fixation is used to keep the bone together while you await treatment. These are typically metal rods that are screwed directly into your bone, but the rod remains outside of the body. Metal plates can be used to hold the pieces of broken bone together if the fracture is severe enough, and those plates can either be left in the patient or removed after healing. Screws are also commonly used to hold your pathetic bones together while they heal. And like the plates might be left in or taken out after healing is complete. Screws can actually come in many different shapes and sizes depending on the need and are used alone or in conjunction with other"
+    },
+    {
+      "id": 74,
+      "debut": 2247.6,
+      "fin": 2281.92,
+      "temps_estime": false,
+      "titre": "Treating a broken leg: intramedullary rods, wires and pins",
+      "resume": "In severe long-bone fractures rods are inserted in the hollow center of the bone and held with screws to prevent shortening or rotation. Bones shattered like glass are pieced back together with wires and pins that may stay in for life.",
+      "mots_cles": [
+        "intramedullary rod",
+        "bone marrow",
+        "wires",
+        "pins",
+        "long bone fracture",
+        "shattered bone",
+        "orthopedic"
+      ],
+      "texte": "attachments. In severe fractures of the long bones, nails or rods are inserted into the hollow center of the bone [music] which would normally contain bone marrow. The rod runs the length of the bone and screws are used to keep it in place. >> [music] >> The rod provides stability and prevents the fracture from shortening or rotating until it's healed. If your bone has shattered like glass, though, you'll end up receiving treatment using wires and [music] pins that will literally piece back together the confetti that your bone is turned into, giving it a chance to heal and fuse back together in one piece. If the fracture was severe enough, doctors have no choice but to leave the wires in for life. The next"
+    },
+    {
+      "id": 75,
+      "debut": 2281.92,
+      "fin": 2348.64,
+      "temps_estime": false,
+      "titre": "Fractured vertebrae: causes and consequences",
+      "resume": "Vertebrae can fracture from osteoporosis (even a sneeze), spinal tumors, sports, falls and car accidents. Consequences range from lifelong severe back pain to partial or complete paralysis if spinal nerves are damaged.",
+      "mots_cles": [
+        "fractured vertebrae",
+        "osteoporosis",
+        "spinal tumor",
+        "paralysis",
+        "back pain",
+        "spinal cord",
+        "car accident"
+      ],
+      "texte": "injury on our list not only leads to extreme pain, but possible lifelong paralysis. fractured vertebrae. All of the injuries we've covered so far can be recovered from even if very painful rehabilitation can take a very long time. Vertebrae, however, are kind of the primadonas of the skeletal [music] system. And once they go, they can go for good with devastatingly painful consequences. Vertebrae can be fractured in a variety of ways. People with severe osteoporosis, a disease that weakens the bones, can fracture a vertebrae just from sneezing, which must make allergy season extremely terrifying for them. People with tumors on the spine may not even be aware of the tumor until it's eaten away enough of the vertebrae and causes it [music] to collapse. However, by far, most people fracture vertebrae in sports, falls, and car accidents. Fractured vertebrae can lead to a host of medical issues. You might get lucky and only suffer severe back pain, sometimes lasting for life, even after the bone is healed. Or you might get unlucky and suffer partial or complete [music] paralysis. If the damage is severe enough and has affected the nerves that run along the spine, that paralysis, too, might last for life."
+    },
+    {
+      "id": 76,
+      "debut": 2348.64,
+      "fin": 2406.16,
+      "temps_estime": false,
+      "titre": "Fractured vertebrae: treatment and vertebroplasty",
+      "resume": "Non-surgical treatment means months of crippling pain with little more than Tylenol because doctors avoid opioids. Vertebroplasty pumps bone cement into the collapsed vertebra, and a balloon version restores height, though pain relief is not guaranteed.",
+      "mots_cles": [
+        "vertebroplasty",
+        "bone cement",
+        "balloon kyphoplasty",
+        "opioids",
+        "Tylenol",
+        "spinal fracture treatment"
+      ],
+      "texte": "Treatment for a fractured vertebrae can be surgical or non-surgical. [music] In non-surgical treatment, the vertebrae is allowed to heal on its own, which means you'll be left in crippling pain [music] for several months. While medication can be effective, doctors are wary of prescribing habit forming opioids and thus you might be left with nothing but Tylenol to fight off the pain. A relatively new procedure known as vertebroplasty can be used to treat severe fractures surgically. During this procedure, a needle is inserted into the spine and used to pump [music] the collapsed vertebrae with bone cement, which hardens within minutes. A more refined version of this technique [music] uses a balloon which is inflated inside the affected vertebrae to create height which is then filled in with the bone cement. This helps restore the fractured vertebrae to something closer to its original form and can dramatically reduce long-term or permanent pain. With either treatment option, though there is no guarantee of pain relief, but when the pain you're experiencing is literally in your mind, no amount of pain relief can help."
+    },
+    {
+      "id": 77,
+      "debut": 2406.16,
+      "fin": 2435.36,
+      "temps_estime": false,
+      "titre": "Traumatic brain injury and chronic pain",
+      "resume": "Every year 1.4 million Americans suffer traumatic brain injuries and most experience chronic pain lasting months. Chronic pain is persistent and hard to treat, and acute-pain medicines work poorly and risk addiction or kidney and liver damage.",
+      "mots_cles": [
+        "traumatic brain injury",
+        "TBI",
+        "1.4 million",
+        "chronic pain",
+        "acute pain",
+        "kidney damage",
+        "medication risks"
+      ],
+      "texte": "Traumatic brain injury. Every year, 1.4 4 million Americans suffer traumatic brain injuries. Most sufferers of traumatic brain injury will experience chronic pain that can last for months. Unlike acute pain, such as what you might feel when you break a bone, chronic pain is persistent and can be very difficult to treat or manage. Medicines typically used for acute pain, don't work very well at treating chronic pain, and their long-term use can either be habit forming or risk serious kidney and liver damage. People with TBI usually suffer from several different"
+    },
+    {
+      "id": 78,
+      "debut": 2435.36,
+      "fin": 2478.16,
+      "temps_estime": false,
+      "titre": "TBI headaches and neurological pain",
+      "resume": "People with TBI suffer headaches that can start right away or months later, from ordinary headaches to migraines like a spike in the skull. Brain misfiring causes neurological phantom pain with burning, electric, hot or cold sensations, numbness and tingling, anywhere in the body and without physical cause.",
+      "mots_cles": [
+        "TBI headaches",
+        "migraines",
+        "neurological pain",
+        "phantom pain",
+        "burning",
+        "tingling",
+        "brain misfiring"
+      ],
+      "texte": "kinds of pain. The first is headaches, which usually start right away after the injury, but can manifest months later. These can range from your typical headache you might feel when sick to more intense migraines, which last for hours and feel like someone is driving a spike into your skull. Chemical changes in the brain or damage to its structure can result in neurological pain. This pain typically has no cause and results from the brain misfiring and creating phantom pains that your nerves dutifully report. Individuals might feel like they're burning, have electricity coursing through them, feel cold, hot, or experience painful numbness and tingling. The fact that there is no physical cause to the pain, which can also manifest anywhere on the body, can be extremely maddening to deal with. TBI"
+    },
+    {
+      "id": 79,
+      "debut": 2478.16,
+      "fin": 2521.36,
+      "temps_estime": false,
+      "titre": "TBI spasticity",
+      "resume": "Spasticity after TBI means muscles do not react properly and may stay flexed long after they should relax, causing severe pain like a charlie horse at random in any muscle. TBI pain is hard to manage and some people suffer for life.",
+      "mots_cles": [
+        "spasticity",
+        "muscle spasm",
+        "charlie horse",
+        "TBI pain",
+        "chronic pain",
+        "brain injury"
+      ],
+      "texte": "can also result in spasticity, which is a condition where the muscles don't react the way they should. While the condition itself doesn't cause pain, the failure of muscles to react properly can lead to very severe pain. For example, a muscle may remain flexed long after it should have been relaxed, resulting in severe pain. If you've ever experienced the delight of a charlie horse, you'll know just how terrible this type of pain can be. Now, imagine that you're getting hit with that level of pain randomly across any muscle of your body. Given how delicate and complicated the brain is, traumatic brain injury pain can be extremely difficult to manage, especially when it has no obvious source. While most people will recover over time, some unlucky few will have to suffer their pains for the rest of their"
+    },
+    {
+      "id": 80,
+      "debut": 2521.36,
+      "fin": 2588.4,
+      "temps_estime": false,
+      "titre": "Kidney stones: how they form and how big they get",
+      "resume": "Kidney stones rival childbirth in pain: with poor diet, obesity or some supplements, minerals and salts crystallize in the kidneys. The world record is a 5.11-inch stone removed from Vilas Skugay of India, while the average is chickpea-sized, sharp and jagged.",
+      "mots_cles": [
+        "kidney stones",
+        "crystallization",
+        "minerals",
+        "Vilas Skugay",
+        "world record",
+        "chickpea",
+        "poor diet"
+      ],
+      "texte": "lives. They say childbirth is the most painful thing that you can experience. But our next injury can affect both men and women and rivals [music] childbirth in levels of gut-wrenching pain. Kidney stones. While not technically an injury, kidney stones are still one of the most painful things you can experience and something that will absolutely bring you to your knees in tears. Your kidneys are [music] responsible for cleaning your blood. And if you have a poor diet, are overweight, or take some supplements or medications, minerals and [music] salts can start to accumulate in your kidney. The various materials making up the kidney stone will typically crystallize as the urine is concentrated. And while some can be flushed out before they get big enough to notice, others will happily live rent-ree in your kidney until they grow quite big. How big? Well, Vilas Skugay of India [music] holds the world record for a 5.11 in wide kidney stone that had to be surgically removed from his kidney. The average kidney stone, however, will only be the size of a chickpea, which really isn't that big until you consider that you have to pass it through your pee hole. Oh, and the stone itself is typically very sharp and jagged, like one of those Super Mario spike balls."
+    },
+    {
+      "id": 81,
+      "debut": 2588.4,
+      "fin": 2620.64,
+      "temps_estime": false,
+      "titre": "Kidney stone pain when passing",
+      "resume": "Pain starts when the stone moves out of the kidney, beginning as back discomfort and rapidly becoming excruciating as it passes through the urinary tract, barely covered even by strong opiates and compared to childbirth.",
+      "mots_cles": [
+        "kidney stone pain",
+        "urinary tract",
+        "opiates",
+        "childbirth comparison",
+        "excruciating",
+        "back pain"
+      ],
+      "texte": "The pain typically begins when the stone begins its path out of the kidney. At first, this can mean slight discomfort, which can be associated with back pain. As the stone crashes through your urinary tract like a ping-pong ball, the pain very rapidly increases to truly excruciating levels. [music] Remember, you're trying to push something as big as a chickpea through a tube barely big enough to accommodate it. Oh, and that chickpea is jagged and pointy all over. [music] Even the strongest opiate pain medications can sometimes barely begin to cover the pain, which has been compared to child birth. Luckily, the"
+    },
+    {
+      "id": 82,
+      "debut": 2620.64,
+      "fin": 2660.56,
+      "temps_estime": false,
+      "titre": "Kidney stone blockage and infection",
+      "resume": "A stone large enough to cause a blockage means weeks of crippling pain, difficult urination like high-pressure lava, and a painful urinary tract infection; the writer describes personal experience and the VA refusing surgery.",
+      "mots_cles": [
+        "kidney stone blockage",
+        "urinary tract infection",
+        "urination",
+        "surgery",
+        "VA",
+        "weeks of pain"
+      ],
+      "texte": "pain pretty rapidly subsides after the stone passes through the system. If, however, you're unlucky enough, like this writer was, to have a stone large [music] enough to cause a blockage, you're in for weeks of crippling pain and agony that'll leave you bedridden. Especially if the VA refuses to approve surgery and basically tells you to just keep drinking water, you'll push it out eventually. During a blockage, urination is extremely difficult [music] and can feel like high pressure lava is escaping your body. The blockage can also lead to infection as you're unable to fully drain your system of urine and an accompanying urinary tract infection already an extremely painful condition becomes the cherry on top of a delicious cake of pure human misery. Getting"
+    },
+    {
+      "id": 83,
+      "debut": 2660.56,
+      "fin": 2675.52,
+      "temps_estime": false,
+      "titre": "Most painful places to get punched: introduction",
+      "resume": "Getting punched hurts more in some places than others: one spot can make you black out and another can make you pee yourself.",
+      "mots_cles": [
+        "punch",
+        "pain",
+        "black out",
+        "painful places",
+        "fighting"
+      ],
+      "texte": "punched sucks, but there are definitely spots that hurt more than others when hit. In fact, getting punched in one area can instantly cause you to black out. Another location can literally cause you to pee yourself. We're about to tell you where the most painful places to get punched are, so [music]"
+    },
+    {
+      "id": 84,
+      "debut": 2675.52,
+      "fin": 2716.72,
+      "temps_estime": false,
+      "titre": "Punch to the liver",
+      "resume": "A punch to the liver, covered in nerves, is among the most excruciating sensations according to professional fighters; it can put the body into momentary shock, which is why fighters keep their elbows tight.",
+      "mots_cles": [
+        "liver punch",
+        "nerves",
+        "shock",
+        "professional fighters",
+        "elbows",
+        "body shot",
+        "pain"
+      ],
+      "texte": "pay attention. Your body's core is pretty resilient since this is where many of your vital organs are located. However, with precision, getting hit there can be incredibly painful. Professional fighters warned that [music] if you ever get punched in the liver, it can be one of the most excruciating sensations of your life. The liver's main [music] job is to filter toxins and other unnecessary substances out of your blood. But when you get punched there, it can throw your whole body out of equilibrium. The liver is covered in nerves, which when struck, send pain signals to the brain. If you're hit hard enough in the liver, you can go into shock momentarily. This [music] means that the body pretty much shuts down until the brain can get the pain signals under control. [music] This is one of the reasons why professional fighters keep their elbows tight to"
+    },
+    {
+      "id": 85,
+      "debut": 2716.72,
+      "fin": 2760.32,
+      "temps_estime": false,
+      "titre": "Punch to the kidneys",
+      "resume": "A kidney punch requires getting up under the rib cage but causes intense pain and lingering abdominal and back aches for hours, which professional fighters warn about.",
+      "mots_cles": [
+        "kidney punch",
+        "rib cage",
+        "lingering pain",
+        "abdomen",
+        "back",
+        "fighters"
+      ],
+      "texte": "their body. But there's another organ in your midsection that you don't want to be punched in, the kidneys. When punched in the kidney, the body feels an intense amount of pain. However, it's not just the pain from the initial impact that professional fighters warn about. Instead, when taking a punch to this region of the body, it's the lingering effects [music] that can cause the most pain. In order for a punch to impact the kidneys, the attacker needs to get [music] up under the rib cage. But if someone manages to sneak a punch past the protective covering, it can cause some severe [music] damage and immense pain. And even hours after the initial impact, there will still be lingering discomfort in the abdomen and back. So being punched in the kidney is not [music] just painful in a single region of the body, but can result in long- lasting aches that persist throughout the midsection."
+    },
+    {
+      "id": 86,
+      "debut": 2760.32,
+      "fin": 2787.12,
+      "temps_estime": false,
+      "titre": "Punch to the bladder",
+      "resume": "A low blow to the bladder above the groin causes intense pain signals and can make you urinate because the fist presses on the bladder.",
+      "mots_cles": [
+        "bladder punch",
+        "low blow",
+        "urine",
+        "groin",
+        "double over",
+        "pain"
+      ],
+      "texte": "One final region in the core of the body that's painful to be punched in [music] is the bladder. Unfortunately, there's an unintended side effect to being struck there. The punch would have to be a low blow, as the bladder is located just above the groin. But if punched hard enough in this region of the body, not only would you double over from intense pain signals, [music] but you could pee your pants as well. This would happen as a result of the fist putting pressure on the bladder, causing it to release any urine it was holding. There's a part of the body that"
+    },
+    {
+      "id": 87,
+      "debut": 2787.12,
+      "fin": 2845.84,
+      "temps_estime": false,
+      "titre": "Punch to the throat",
+      "resume": "Punching the throat hurts and is dangerous: even a light punch could make the larynx collapse and block the windpipe, possibly causing suffocation, and the pain can make you pass out, which many consider the worst place to get hit.",
+      "mots_cles": [
+        "throat punch",
+        "trachea",
+        "larynx",
+        "windpipe",
+        "suffocation",
+        "pass out",
+        "life-threatening"
+      ],
+      "texte": "getting punched in [music] is not only painful, but can cause death. The throat contains several vital structures that can cause both physical [music] pain and life-threatening circumstances when punched. The trachea is the tube that you breathe through, and [music] it can be very sensitive. This is why it should come as no surprise that getting punched in the trachea can be painful, but other threats [music] come with getting punched here. For example, even a light punch could cause the larynx to collapse and block the windpipe. You would not be able to breathe until your body recovered. But depending on the damage done by the punch, getting hit in the trachea could be life-threatening. It's unlikely, but if the trachea and the larynx are damaged by a powerful punch, you could suffocate to death. Getting punched in the throat can also result in another dangerous side effect. The pain to the throat from a well-placed [music] punch could be so intense that you could pass out. This means that all with one punch, you would feel incredible pain, lose your breath, and lose consciousness. [music] This is why being punched in the throat is considered by many to be one of the worst places to get hit. This brings us [music] to the"
+    },
+    {
+      "id": 88,
+      "debut": 2845.84,
+      "fin": 2889.84,
+      "temps_estime": false,
+      "titre": "Punch to the back of the head",
+      "resume": "Some fighters say a punch to the back of the head is the most painful because it jostles the brain and hits the many nerves where the spinal cord meets the brain, flooding it with pain signals and causing disorientation.",
+      "mots_cles": [
+        "back of head punch",
+        "spinal cord",
+        "nerves",
+        "disorientation",
+        "equilibrium",
+        "MMA fighters"
+      ],
+      "texte": "most painful region of the body to get punched in, the face. According to professional MMA fighters, the worst places to have a punch land are around the head. But there are several key locations that you definitely want to avoid being hit. Some fighters claim that getting punched in the back of the head is the most painful place to get hit because after the initial impact, [music] you lose equilibrium. A solid punch to the back of the head is going to cause the brain to jostle slightly in the skull. Obviously, this is a [music] problem and would cause discomfort. But the fact that the spinal cord connects the brain at the base of the skull means there are a ton of nerves [music] in this area of the body. When these nerves are impacted by a punch, pain signals will flood the brain. The overwhelming [music] amount of signals can cause disorientation, which makes recovering from such a punch very difficult. But"
+    },
+    {
+      "id": 89,
+      "debut": 2889.84,
+      "fin": 2912.56,
+      "temps_estime": false,
+      "titre": "Punch to the ears",
+      "resume": "A punch to the side of the head or ears causes ringing, distorted surroundings and loss of balance, followed by throbbing and a lasting burning sensation.",
+      "mots_cles": [
+        "ear punch",
+        "ringing",
+        "balance",
+        "dizziness",
+        "boxed ears",
+        "burning sensation"
+      ],
+      "texte": "this is nothing compared to getting hit in the side of the head. If you've ever had your ears boxed, you know how dizzy it can make you, [music] but also how much the initial impact hurts. Following a punch to the ears, you would not only be in pain with ringing in your ears, but the world around you would become distorted as you lost balance. Then after the initial impact, the ear would throb and [music] a burning sensation would persist for a long time. The nose"
+    },
+    {
+      "id": 90,
+      "debut": 2912.56,
+      "fin": 2961.76,
+      "temps_estime": false,
+      "titre": "Punch to the nose",
+      "resume": "The nose is sensitive with many nerves and pain receptors, so a punch sends pain straight to the brain, causing watering eyes and brief blackout, even with a light punch; a strong one can break the nose bridge and, rarely, drive bone fragments toward the brain.",
+      "mots_cles": [
+        "nose punch",
+        "broken nose",
+        "pain receptors",
+        "eyes water",
+        "bone fragments",
+        "nerves",
+        "brain damage"
+      ],
+      "texte": "is one of the most sensitive areas of the face due to nerves running across the bridge. These nerves [music] contain respirators that allow you to smell. But with its high concentration of nerves also comes a high concentration of pain receptors. [music] This means getting punched in the nose will shoot pain signals directly into the brain, causing the eyes to water, involuntary motor reflexes, and enough [music] pain to cause you to black out for a moment. The crazy thing about getting punched in the nose is [music] that it doesn't even need to be hard. Even a light punch can cause bleeding and pain. But if the punch lands with enough [music] force, it can cause the bridge of the nose to break. which would result in severe pain until the bone could be reset. [music] And although it's highly unlikely a punch could shatter the nose, sending shards of it dangerously close to the brain itself. If you were very unlucky, some of the bone fragments could penetrate the nervous tissue and cause brain damage."
+    },
+    {
+      "id": 91,
+      "debut": 2961.76,
+      "fin": 2994.16,
+      "temps_estime": false,
+      "titre": "Punch to the eye: pain and disorientation",
+      "resume": "A punch to the eye, often named by fighters among the worst, sends signals through connective nerves at the back of the eye straight to the brain, causing intense pain, disorientation, loss of depth perception and ruptured blood vessels.",
+      "mots_cles": [
+        "eye punch",
+        "optic nerves",
+        "depth perception",
+        "blood vessels",
+        "disorientation",
+        "fighters"
+      ],
+      "texte": "If you've ever been poked in the eye by accident, you know how uncomfortable the feeling can be. Now, imagine getting punched full force right in the eye. This [music] is often mentioned as being one of the worst places to get punched by professional fighters. At the back of the eye are a series of connective [music] nerves that lead directly to the brain. When someone gets punched in the eye, signals are shot through these nerves and intense pain is felt. On top of that comes disorientation and the loss of depth perception. The punch to the eye could also rupture [music] blood vessels which would not only be uncomfortable but messy. However, the worst part about getting punched in the"
+    },
+    {
+      "id": 92,
+      "debut": 2994.16,
+      "fin": 3030.96,
+      "temps_estime": false,
+      "titre": "Punch to the eye: long-term damage",
+      "resume": "A hard punch can permanently or temporarily blind the eye, and in extreme cases pop it out of its socket, hanging by nerves, causing immediate shock; it can be the worst experience of someone's life.",
+      "mots_cles": [
+        "eye damage",
+        "blindness",
+        "eye socket",
+        "shock",
+        "eyeball dislodged",
+        "painful"
+      ],
+      "texte": "eye could be the long-term effects. If the impact is hard enough, it could damage your eye beyond repair. This means from a single punch, you may be temporarily or permanently blinded in that eye. And in really extreme circumstances, the entire eye could pop out of its socket by a strong punch. This would be so painful that the person would go into shock immediately. If this happened, the eye would likely be stopped by the eyelids, but with enough force, the eye could leave its socket and dangle from the hole in the face by the nerves connecting it to the brain. Needless to say, this would be one of the most painful spots anyone could be hit in. Being punched in the eye might just be really painful or it could be [music] the worst experience of your"
+    },
+    {
+      "id": 93,
+      "debut": 3030.96,
+      "fin": 3102.24,
+      "temps_estime": false,
+      "titre": "Punch to the chin: the most painful for fighters",
+      "resume": "According to professional fighters the chin is the most painful place to be punched: dense nerves around the chin and jaw send an overwhelming flood of pain signals that overload the nervous system and cause knockouts, and accuracy is not needed, only force.",
+      "mots_cles": [
+        "chin punch",
+        "knockout",
+        "jaw",
+        "nerves",
+        "nervous system overload",
+        "fighters",
+        "black out"
+      ],
+      "texte": "life. However, the most painful place of all to get punched in is not where you might think. According to several professional fighters, a punch [music] that connects with the chin is actually the most painful of all. Many fighters recommend always covering the chin, even if it leaves another part of the body vulnerable. The reason for this is if the chin gets hit, the pain is so intense that even the toughest fighters get knocked [music] out. In fact, many professional fighters have stories early on in their careers where they made the mistake of not protecting their chin and the next thing they knew, they were on the ground looking up at the ref who ended [music] the fight on the account of knockout. But why is this area of the body so painful to be punched in? The reason is there's a high concentration [music] of nerves around the chin and jaws. Since these nerves are so densely packed, a hard punch to the chin sends an overwhelming flood of pain signals to the brain. The massive amount of signals being sent all at once overloads the nervous [music] system and causes you to black out. The difference between being punched on the chin versus other parts of the body is the puncher doesn't need to be very accurate. In this case, it's the amount of force that matters. If someone can punch hard enough and connect with any part of your chin, it's going to be incredibly painful. Whether the punch lands squarely on the chin or just clips the [music] side of it, you're going to go down from the punch."
+    },
+    {
+      "id": 94,
+      "debut": 3102.24,
+      "fin": 3158.24,
+      "temps_estime": false,
+      "titre": "Punch to the genitals",
+      "resume": "Being hit in the genitals is considered by most people the most painful place to be punched; females feel a throbbing from the impact with some protection from their internal organs, while males' exposed testicles take a direct hit causing a pain surge and stomach cramps.",
+      "mots_cles": [
+        "genitals punch",
+        "low blow",
+        "testicles",
+        "female reproductive organs",
+        "pain",
+        "double over"
+      ],
+      "texte": "This brings us to the last painful place to get punched. It should come as no surprise that being [music] hit in the genitals is considered by most people to be the most painful place of all to be punched. These low blows are not often used in professional fighting, but when they are, it's normally by accident. Being punched in the groin will cause different sensations based on the sex of the person, but for both males and females, intense pain and discomfort come from being hit in the genitals. For a woman who's punched in the vagina, the impact will cause a throbbing sensation that travels all the way up to their midsection. Luckily, their ovaries and uterus are concealed within the body itself, which does offer some protection. But a punch to the female reproductive organs will cause a massive amount of pain. Males, on the other hand, are slightly more vulnerable as their testicles hang outside of the body. This means a punch could strike [music] one or both testes headon. This would send a massive surge of pain signals to the brain. The stomach could cramp and the person would double over in pain. The male and female genitals"
+    },
+    {
+      "id": 95,
+      "debut": 3158.24,
+      "fin": 3190.48,
+      "temps_estime": false,
+      "titre": "Why the genitals hurt so much",
+      "resume": "Genitals are sensitive because of many nerves that make sex pleasurable, and those same nerves send pain, so they deliver as much pain as pleasure. A professional fighter would say the chin is the most painful place, but for most people it is the genitals.",
+      "mots_cles": [
+        "genital nerves",
+        "pleasure and pain",
+        "sensitivity",
+        "chin",
+        "most painful place",
+        "sex"
+      ],
+      "texte": "need to be sensitive areas [music] due to their main purpose, which is pleasure. However, the reason that sex and orgasms are so pleasurable is because [music] of the number of nerves that run through the genitals. The more nerves there are, the more sensitive an area is. Unfortunately, those same nerves are also capable of sending pain signals, which means that the genitals can deliver just as much pain as [music] pleasure. So, where is the most painful place to get punched? If you ask a professional fighter, they'll most likely tell you it's the chin. [music] However, for the rest of us, the genitals would definitely be at the top of the list. It started with a tingling"
+    },
+    {
+      "id": 96,
+      "debut": 3190.48,
+      "fin": 3210.64,
+      "temps_estime": false,
+      "titre": "Teaser: a condition so bad it is saved for later",
+      "resume": "A woman's tingling in her lips turned within a week into electric shocks and hot knives in her skull about 25 times a day, a condition saved for later; first the video looks at other conditions described as unbearable.",
+      "mots_cles": [
+        "teaser",
+        "facial pain",
+        "electric shocks",
+        "hot knives",
+        "25 times a day",
+        "unbearable conditions"
+      ],
+      "texte": "in the lips. Within a week, she was howling in pain with what felt [music] like electric shocks pulsating through her face with hot knives stabbing into her skull. And this happened around 25 times per day. But that's a condition [music] so bad we want to save it for later. First, let's look at some of life's other horrifically painful conditions that often come with the word [music] unbearable."
+    },
+    {
+      "id": 97,
+      "debut": 3210.64,
+      "fin": 3269.84,
+      "temps_estime": false,
+      "titre": "Stonefish, the world's most venomous fish",
+      "resume": "Number 20: the stonefish looks like a stone and is easily stepped on on Indo-Pacific beaches; its sting, said to be worse than childbirth, comes from venom that can paralyze muscles and cause cardiac arrest, and may require hot water and antivenom.",
+      "mots_cles": [
+        "stonefish",
+        "venomous fish",
+        "sting",
+        "cardiac arrest",
+        "antivenom",
+        "Indo-Pacific",
+        "heart stopper"
+      ],
+      "texte": "Number 20. We're now going to start with what's called the world's most venomous fish. An animal whose sting is said to cause pain worse than child birth. [music] It's the stonefish, which doesn't look like such an aquatic thug. The problem with this little dude is it looks just like a stone. So, when folks are walking down beaches where these things might be on the sand, it's very easy to step on them. If that happens, the outcome can be pretty horrendous. There's a reason they're sometimes called heart stoppers. Their venom is so darn potent. It can paralyze muscles and cause cardiac arrest. A scientist talking to the Guardian about these little creatures explained how you get stung. He said, \"When you step on it, that presses on the gland. The gland ruptures and the venom squirts up along the spine. Thankfully, these little blighters are usually only found in the Indoacific region. But the bad news is they do tend to sting quite a few people. A handful of Australians can tell you about it. Once one of these things has stung you, applying hot water might help a bit, but in many cases an antivenenom is required. The sting can definitely be lethal as well as excruciatingly painful. If you don't"
+    },
+    {
+      "id": 98,
+      "debut": 3269.84,
+      "fin": 3314.08,
+      "temps_estime": false,
+      "titre": "A stonefish sting victim in Barbados",
+      "resume": "An Australian woman stung in Barbados describes convulsions, slipping in and out of consciousness, feeling her heartbeat push the poison around her body and thrashing for hours; she survived thanks to quick help.",
+      "mots_cles": [
+        "stonefish victim",
+        "Barbados",
+        "convulsions",
+        "toxin",
+        "antivenom",
+        "survivor account"
+      ],
+      "texte": "believe that a stonefish [music] sting can cause someone to have a pretty bad day, this is how one Australian described the feeling just after the sting. My body was convulsing, my mind slipping in and out of consciousness with each contraction. I could hear my heart thump thump thump thump. Each [music] beat was pushing the poison further around my body. I imagined my blood mixing with the toxin. She said it was very hard to breathe and she thought she was going to die. She explained I thrashed around dramatically for literal hours, [music] teeth rattling, ugly crying. But thanks to some fast-thinking people around her, she survived the ordeal. [music] This happened on a trip to Barbados. But back in her native Australia, she'd heard that if you don't get antivenenom within 15 minutes of being stung, you're a goner. That's not strictly true, but without help, people"
+    },
+    {
+      "id": 99,
+      "debut": 3314.08,
+      "fin": 3342.56,
+      "temps_estime": false,
+      "titre": "A man stung by a stonefish",
+      "resume": "An Australian man stepped on a stonefish and said within ten minutes it felt like his toe was being sliced off, like hitting his toe with a hammer then rubbing it with a nail file, worse than a screw in his skull; the video concludes it is worse than childbirth.",
+      "mots_cles": [
+        "stonefish sting",
+        "toe",
+        "excruciating",
+        "hammer and nail file",
+        "childbirth",
+        "Australian"
+      ],
+      "texte": "have died in the past. We found another story involving an Australian accidentally stepping on a stonefish. This time it was a man. A man that said within 10 [music] minutes of the sting, he felt like someone was slicing off his toe. He also said, \"It went from a sharp, painful thing to being excruciating. It was like hitting your toe with a hammer and then rubbing it over and over again with a nail file. I've been through pain in the past where I needed a screw in my skull, [music] and nothing compares to this.\" With that in mind, we're confident that this pain is worse than the pain of childbirth."
+    },
+    {
+      "id": 100,
+      "debut": 3342.56,
+      "fin": 3398.56,
+      "temps_estime": false,
+      "titre": "Bullet ant sting",
+      "resume": "Number 19: some say a stonefish sting is worse than a bullet ant's, but a bullet ant will not kill you; it tops insect sting pain indexes, named because the pain feels like being shot, described as walking over flaming charcoal with 3-inch nails, lasting up to 24 hours, in Central and South America.",
+      "mots_cles": [
+        "bullet ant",
+        "sting pain index",
+        "flaming charcoal",
+        "24 hours",
+        "Central America",
+        "South America",
+        "insect sting"
+      ],
+      "texte": "But when it comes to stings, the critters we'll talk about next are said to be the kings of pain. Number 19. There are some people in this world that say the stonefish sting is more painful than a bullet ant sting. But we doubt there are many people that have actually been stung by both animals. That's because actively trying to be stung by a stonefish would be a very stupid thing to do considering you might die in the process. You won't die if you're stung by a bullet ant. [music] But since it comes at the top of insect sting pain indexes, well, getting stung is not exactly a walk in the park. The reason it's called a bullet ant is because of the intense pain makes someone feel like they've been shot. One victim of a bullet ant sting described it like this. Walking over flaming charcoal with 3-in [music] nails embedded in your heel. Waves of burning, throbbing, all-consuming pain that continues unabated for up to 24 [music] hours. Luckily, these critters are only found in Central and South America. So, [music] the rest of you not from those places can breathe easily. Believe it or"
+    },
+    {
+      "id": 101,
+      "debut": 3398.56,
+      "fin": 3426.48,
+      "temps_estime": false,
+      "titre": "Coyote Pearson gets stung by a bullet ant",
+      "resume": "Some people film themselves being stung by bullet ants for millions of YouTube viewers; when Coyote Pearson did it he screamed in pain that it was number one.",
+      "mots_cles": [
+        "Coyote Pearson",
+        "bullet ant",
+        "YouTube",
+        "filming sting",
+        "screaming",
+        "stung on camera"
+      ],
+      "texte": "not, there have been people who've actually gone looking for them and [music] filmed themselves being stung. That kind of thing can attract millions upon millions of viewers on a YouTube channel. Still, we don't advise doing it. When a man who calls himself Coyote Pearson did it, you could certainly see that the bullet ant is a remarkable animal. He already got himself bitten by all kinds of critters. But in this video, he screamed out in pain, \"It's number one. It's number one. Oh my gosh. Ah, it's getting worse. Ah.\" Number 18."
+    },
+    {
+      "id": 102,
+      "debut": 3426.48,
+      "fin": 3472.56,
+      "temps_estime": false,
+      "titre": "Gout: pain, urate crystals and purines",
+      "resume": "Number 18: gout feels like pliers crushing the big toe and can make people want to chop off the joint; it is caused by urate crystals from excess uric acid, linked to purine-rich foods like red meat and beer, hence the disease of kings.",
+      "mots_cles": [
+        "gout",
+        "urate crystals",
+        "uric acid",
+        "purines",
+        "red meat",
+        "beer",
+        "big toe",
+        "disease of kings"
+      ],
+      "texte": "Imagine waking [music] up in the middle of the night and it feels like someone is crushing your big toe with a pair of pliers. That's what dreaded gout can feel like. The pain of gout varies in intensity and [music] from person to person. But the word on the street is when it's doing its worst, gout can cause pain that will make a person want to chop off any joint where the pain is coming from. It's caused by [music] urate crystals that form when there's too much uric acid in the blood. In some cases, it's down to diet. >> [music] >> Gout used to be called the disease of kings because kings generally ate well and drank a lot of booze. Some foods contain chemicals called purines. [music] These things are broken down by uric acid. So more purines mean more uric acid which means gout. Let's say you have a diet that consists of tons of red meat washed down daily with gallons of beer. You could end up with gout."
+    },
+    {
+      "id": 103,
+      "debut": 3472.56,
+      "fin": 3516.48,
+      "temps_estime": false,
+      "titre": "Gout flare-ups and comparison to childbirth",
+      "resume": "About 2% of people in the US get gout, with attacks starting with tingling, peaking around 24 hours, hitting many joints and sometimes returning after months or years; a severe attack can be compared to the pain of giving birth.",
+      "mots_cles": [
+        "gout flare up",
+        "24 hours",
+        "2% of Americans",
+        "big toe",
+        "childbirth comparison",
+        "recurring attacks"
+      ],
+      "texte": "It's not that uncommon. Around 2% of people in the US will have this disease in their lifetime. A disease that can flare up time and again. usually starts with a tingling feeling that can quickly turn into a living nightmare for some people. One woman who suffered gout attacks wrote on Facebook, \"This pain is off the charts, completely intolerable.\" The gout flare up usually peaks around the 24-hour mark and can happen in many joints of the body. Although the big toe seems [music] to be a popular spot, it can go on for days, but not usually with the intensity of the peak. The scary thing is an attack might not happen for months or even years, and then wham! One hits you, and you'll wish you'd never been born. Gout isn't always the worst pain imaginable, but a particularly severe attack can be compared to the pain of giving birth. Okay, now for"
+    },
+    {
+      "id": 104,
+      "debut": 3516.48,
+      "fin": 3590.08,
+      "temps_estime": false,
+      "titre": "Stepping on a Lego as painful as childbirth?",
+      "resume": "Number 17: the video jokes that Lego pain can rival childbirth, though it lasts only briefly. It hurts because the brick is rigid and the feet have 200,000 pain receptors that evolved to sense danger such as fire or large animals.",
+      "mots_cles": [
+        "Lego brick",
+        "childbirth",
+        "foot pain receptors",
+        "200",
+        "000",
+        "sensitivity",
+        "danger signals"
+      ],
+      "texte": "something that could affect you all. Number 17. You might laugh when we tell you that the next pain on this list involves a child's toy. Yeah, you got it. We're going to go out on a limb and say that stepping on a Lego brick can be as painful as giving birth to a child. This might upset someone [music] who's been through the sometimes excruciating experience of that. And we certainly don't want to get on the wrong side of our viewers. But there's [music] something you need to bear in mind here. You see, when you step on a Lego, the pain, though intense, lasts only a very short period of time. Can you imagine what it'd be like to have that unbearable pain last even a few minutes? What if, like child birth, it lasted for hours? [music] It would be absolutely awful. One reason it hurts so much to stand on a piece of Lego is the brick is so solid that nothing gives way. But the main reason is that your feet are one of the most sensitive areas on your body when it comes to pain. They are so sensitive because your feet send danger signals to [music] your brain. Back in the day, the 200,000 pain receptors in a person's foot might have felt the ground tremble when a large dangerous animal was nearby. They might have also felt a rise in heat when a fire was closed. But in modern times, these sensitive things don't [music] deal well with Lego bricks. They're not easy to escape either. Some sources state that there are enough Lego bricks in the world for everyone to have 83 each. Number 16."
+    },
+    {
+      "id": 105,
+      "debut": 3590.08,
+      "fin": 3624.72,
+      "temps_estime": false,
+      "titre": "Slipped disc",
+      "resume": "Number 16: a slipped disc, whose discs act as shock absorbers between vertebrae, can slip with age and wear and hit spinal nerves, causing severe shooting pain from the spine to the arms and even signs of paralysis, though not every case is as bad as childbirth.",
+      "mots_cles": [
+        "slipped disc",
+        "herniated disc",
+        "shock absorbers",
+        "vertebrae",
+        "spinal nerves",
+        "shooting pain",
+        "paralysis"
+      ],
+      "texte": "We're going to now talk about something that happens to a lot of people and it's called a [music] slipped disc. In a paper published in the US National Institutes of Health, it says these things can cause severe shooting pains that radiate from the spine to the arms. [music] It can be so bad that the person shows signs of paralysis. Basically, the discs act as shock absorbers [music] between the vertebrae of your spine. But with a lot of wear and tear over the years, sometimes they can't handle doing their job any [music] longer and slip. When they do that, they can hit nerves in the spinal cord and have you howling in pain. But it would be remiss of us to say any old slip disc is more painful than [music] going through childbirth."
+    },
+    {
+      "id": 106,
+      "debut": 3624.72,
+      "fin": 3653.68,
+      "temps_estime": false,
+      "titre": "Worst slipped disc cases",
+      "resume": "At their worst slipped discs can be horrendous: a forum sufferer on strong drugs asked how long he would be crawling up the walls in pain, and a woman said it was sometimes more painful than childbirth; some women suffer slipped discs while pregnant.",
+      "mots_cles": [
+        "slipped disc",
+        "forum",
+        "pain",
+        "childbirth",
+        "pregnancy",
+        "strong drugs"
+      ],
+      "texte": "But when these things play up, when they're at their very worst, the outcome can be horrendous for people. A sufferer on a web forum [music] said he was on very strong drugs, but they weren't doing much for him. So he asked the question, \"How long will I be crawling up the walls in pain, unable to move without [music] screaming?\" One woman replied, alluding to childbirth, saying, \"On occasions, probably the most painful [music] thing I've ever suffered. Yes, even more than that.\" What's terrifying is the fact that some women suffer from a slipped disc while they're pregnant."
     }
   ]
 }
