@@ -1,0 +1,527 @@
+{
+  "version": 1,
+  "video_id": "AvyHU0m8vdE",
+  "titre_video": "How Are Americans Affording $500,000 Homes on Average Salaries?",
+  "duree_s": 890.04,
+  "avancement": {
+    "lignes_traitees": 201,
+    "fin_traitee_s": 890.04,
+    "nb_lignes_total": 201,
+    "complet": true
+  },
+  "nb_segments": 27,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.16,
+      "fin": 32.24,
+      "temps_estime": false,
+      "titre": "Hook: families spending half their paycheck on housing",
+      "resume": "Millions of families are signing over more than 50% of their paycheck to keep a roof over their heads. Corporate housebuilders act as builder, broker and shadow lender and mask the true cost of ownership with artificial teaser rates. The video claims this creates ticking debt bombs in the suburbs.",
+      "mots_cles": [
+        "housing crisis",
+        "50% of paycheck",
+        "teaser rates",
+        "shadow lender",
+        "housebuilders",
+        "debt bombs",
+        "American Dream",
+        "suburbs"
+      ],
+      "texte": "Right now, millions of families are blindly walking into a financial crisis. To chase the American Dream, they’re signing over 50% of their entire paycheck just to keep a roof over their heads. It should be a red flag. A reason for banks to ring the alarm bells. But corporate housebuilders have found a workaround. By acting as the builder, broker and shadow lender, these mega-corporations are masking the real cost of home ownership with artificial teaser rates. They’re luring middle class families into ticking debt bombs. And the suburbs are one rate reset from exploding."
+    },
+    {
+      "id": 2,
+      "debut": 32.24,
+      "fin": 65.92,
+      "temps_estime": false,
+      "titre": "The 2008 financial crisis and the lesson supposedly learned",
+      "resume": "The 2008 housing collapse was triggered by toxic loans to owners who could not repay, leading to mass home losses and the collapse of major banks and investment firms. The shockwaves hit the global economy, and people vowed never to repeat the mistakes. The narrator quips that they found new mistakes to make instead.",
+      "mots_cles": [
+        "2008 financial crisis",
+        "toxic loans",
+        "housing collapse",
+        "bank collapse",
+        "domino effect",
+        "global economy",
+        "subprime",
+        "recovery"
+      ],
+      "texte": "For anyone working in the housing market, the 2008 financial crisis still makes them wake up in a cold sweat. The massive housing collapse was triggered by toxic loans given to owners who had little hope of ever paying off their house. The resulting domino effect not only caused an untold number of people to lose their homes, but led to the complete collapse of multiple high-profile banks and investment firms. The shockwaves were felt across the global economy. In the slow, agonizing recovery that followed, people vowed to never make these same mistakes again. So, they found a whole new bunch of mistakes to make."
+    },
+    {
+      "id": 3,
+      "debut": 65.92,
+      "fin": 122.56,
+      "temps_estime": false,
+      "titre": "Home prices versus income: the broken path to ownership",
+      "resume": "Tighter regulation made buying look out of reach: median home price is around $400,000 against an average income near $80,000. The income-to-price ratio rose from 3 to 1 in the 1980s to 5 to 1 today. With a down payment just under 20% and mortgage rates near 7%, buyers can spend about a third of monthly income, which is not sustainable for many.",
+      "mots_cles": [
+        "median home price",
+        "average income $80,000",
+        "price-to-income ratio",
+        "down payment",
+        "mortgage rate 7%",
+        "affordability",
+        "1980s",
+        "savings"
+      ],
+      "texte": "For a long time, the tighter regulations on the housing market made it look like buying a house was going to be out of reach for the vast majority. The median home price is around $400,000, with many newer homes creeping up towards the half-million mark in desirable districts. But the average income hovers around $80,000. That means it’s likely to take years of scrupulous savings to get anywhere close to a down payment. Especially if you’re renting. Fortunately, you don’t have to pay it all up front. In the 1980s, the ratio of income to house prices sat at an affordable 3 to 1. Now, it’s skyrocketed to 5 to 1. Because home prices are so detached from reality, the traditional path to ownership is broken. The median down payment is just under 20%, leaving buyers stuck with an average mortgage rate hovering around 7%. This means the average homeowner can surrender around a third of monthly income while the interest means the sum will keep on growing. For many, it’s not sustainable."
+    },
+    {
+      "id": 4,
+      "debut": 122.56,
+      "fin": 161.92,
+      "temps_estime": false,
+      "titre": "Reverse housing crisis: cautious lenders and chronic under-building",
+      "resume": "Advisors recommend spending under a third of gross income on housing, but taxes, insurance and mortgage payments push many toward half. Post-2008 caution shut regular buyers out of lending, while the US has under-built for over a decade and has a deficit of millions of homes. Labor shortages, zoning, land-use rules and land costs paralyzed developers and costs were passed to consumers.",
+      "mots_cles": [
+        "housing shortage",
+        "under-building",
+        "zoning",
+        "land-use regulations",
+        "labor shortage",
+        "lender caution",
+        "gross income",
+        "housing costs"
+      ],
+      "texte": "Financial advisors recommend keeping the percentage of gross income spent on housing under a third. But between property taxes, insurance, and mortgage payments, it’s common for it to creep up towards half of available money. This sparked a bizarre reverse housing crisis. The scars of 2008 made traditional lenders so cautious, they shut regular buyers out of the market. Compounding the disaster, the U.S. has been chronically under-building houses for over a decade. The country now has a deficit of millions of homes. Labor shortages, onerous zoning and land-use regulations, and the cost of land has paralyzed developers. And the cost was passed on to consumers."
+    },
+    {
+      "id": 5,
+      "debut": 161.92,
+      "fin": 190.96,
+      "temps_estime": false,
+      "titre": "Low Federal Reserve rates and the locked-in housing market",
+      "resume": "The Fed kept rates at historic lows from 2009 to 2022, letting buyers afford pricier homes. Existing homeowners are now locked into cheap mortgages, so prices refuse to drop even as rates surge and the market freezes. A new generation of buyers subsidizes the lucky few with the best deals.",
+      "mots_cles": [
+        "Federal Reserve",
+        "interest rates",
+        "rate lock-in",
+        "frozen housing market",
+        "2009-2022",
+        "Covid-19",
+        "home prices",
+        "new buyers"
+      ],
+      "texte": "The Federal Reserve kept interest rates at historic lows from 2009 to 2022, aiding in the recovery from both the financial crisis and later Covid-19. That meant buyers could afford higher-priced homes without their mortgage surging month to month. Because those existing homeowners are locked in, house prices refuse to drop. Even as rates surge. The market is frozen. And it means a new generation of buyers are forced to subsidize the lucky few who are tied into the deal of a lifetime."
+    },
+    {
+      "id": 6,
+      "debut": 190.96,
+      "fin": 238.4,
+      "temps_estime": false,
+      "titre": "Are corporate investors buying up the homes? Myth versus reality",
+      "resume": "Fears that corporations snap up homes to rent or hoard are overstated: institutional investors own only about 2-3% of housing stock and focus on starter homes, many of them foreclosed. Small investors owning 2-10 properties hold up to a quarter of stock, a share that grew with short-term rentals like Airbnb. The narrator then pivots to something else that could get people into homes.",
+      "mots_cles": [
+        "institutional investors",
+        "housing stock",
+        "small-scale investors",
+        "Airbnb",
+        "short-term rentals",
+        "starter homes",
+        "foreclosed homes",
+        "rental houses"
+      ],
+      "texte": "For homeowners, it’s a nightmare. For corporations, it’s an opportunity. Over the last decade, rhetoric has increased over fears that the available homes are being snapped up by corporate interests. They’re either being turned into rental houses in neighborhoods, or hoarded until someone rich enough to afford them comes along. But this is overstated. These institutional investors typically only own about 2-3% of actual housing stock, and focus heavily on starter homes. And a lot of those are already foreclosed. Small-scale investors, those owning 2-10 properties, make up to a quarter of the housing stock. And this shadow has surged ever since short-term rental companies like Airbnb became popular. But now, something else is happening. And it has the potential to get a lot of people into their dream homes."
+    },
+    {
+      "id": 7,
+      "debut": 238.4,
+      "fin": 292.48,
+      "temps_estime": false,
+      "titre": "D.R. Horton and Lennar: the one-stop in-house homebuyer shop",
+      "resume": "D.R. Horton, founded in 1978, operates in 36 states, ranks 120th among US companies and has been the top US homebuilder since 2002, with Lennar close behind. Horton offers in-house mortgage, title and insurance via its subsidiary DHI Mortgage, so buyers never need a bank. This sidesteps bank hurdles for middle-income applicants and lets the company set its own terms.",
+      "mots_cles": [
+        "D.R. Horton",
+        "Lennar",
+        "DHI Mortgage",
+        "homebuilder",
+        "in-house financing",
+        "title and insurance",
+        "top homebuilder",
+        "mortgage"
+      ],
+      "texte": "D.R. Horton has been in business as a home construction company since 1978, but its portfolio keeps growing. It currently operates in 36 states and is ranked as the 120th largest company in the United States. It’s held its position as the top homebuilder in the country since 2002, but it’s not the only game in town. Florida-based Lennar is nipping at its heels. D. R. Horton brags that they provide in-house financial services along with home purchases under one roof. You can buy your house, and then get mortgage, title, and insurance without ever leaving Horton’s office. Their dedicated subsidiary, DHI Mortgage, offers competitive mortgage rates that can be pitched to clients the second they’re interested in a house. There’s no need to go through a bank. This cuts through a lot of the challenges of getting a bank to agree to a mortgage for someone with a middle-class income. It also means the company can set its own terms."
+    },
+    {
+      "id": 8,
+      "debut": 292.48,
+      "fin": 321.8,
+      "temps_estime": false,
+      "titre": "Millennials and Gen Z rejected by banks despite saving",
+      "resume": "Millennials and Gen Z face rising prices without matching wage growth, and most still rent, paying a third to half of income. Even with a down payment saved, banks reject them on credit records and do not count steady rent payments as proof. The situation feels hopeless.",
+      "mots_cles": [
+        "millennials",
+        "Gen Z",
+        "renting",
+        "stagnant wages",
+        "down payment",
+        "bank rejection",
+        "credit record",
+        "rent payments"
+      ],
+      "texte": "Millennials and Gen Z have been stuck in an economy where it often feels like the price of everything keeps on rising but their wages don’t rise with them. Most of them are still renting, paying a third to half of their monthly income just to keep a roof over their heads, and struggling to make ends meet. When they do save enough for a down payment and go to the bank to discuss a mortgage, it feels like the game is rigged against them. Their credit record isn’t sufficient. Somehow their steady rent payments aren’t proof enough that they can pay a monthly mortgage. It starts to feel hopeless."
+    },
+    {
+      "id": 9,
+      "debut": 321.8,
+      "fin": 355.6,
+      "temps_estime": false,
+      "titre": "Big builders control the process from land to signing",
+      "resume": "D.R. Horton and Lennar control every step from land and construction to financing, using deep pockets to overcome land costs and avoiding third-party inspectors. They refer buyers to their own financial departments instead of banks and are highly motivated to sell. The narrator warns this opportunity may actually be a trap.",
+      "mots_cles": [
+        "vertical integration",
+        "D.R. Horton",
+        "Lennar",
+        "in-house construction",
+        "financial services",
+        "land costs",
+        "motivated to sell",
+        "trap"
+      ],
+      "texte": "And that’s where the big guns step in. D. R. Horton and Lennar have created a system where they can maintain control of the process from the very first step to the last signing. With their deep pockets, they can overcome the high cost of land and get the space they need to keep building homes. They can oversee their own construction, not having to rely on third parties to tell the truth about whether a home is solid enough to sell. And when people come looking, they can refer them to their own financial services department instead of a bank. And they’re motivated to make a sale. What seems like an opportunity may actually be a trap."
+    },
+    {
+      "id": 10,
+      "debut": 355.6,
+      "fin": 384.08,
+      "temps_estime": false,
+      "titre": "Why banks' strict lending rules exist",
+      "resume": "Banks argue that mortgage restrictions protect everyone, since the 2008 crisis partly resulted from approving people who should never have qualified. A healthy system prevents families sinking life savings into bad deals and stops waves of foreclosures. The narrator asks what that matters when there is money to make.",
+      "mots_cles": [
+        "mortgage rules",
+        "bank regulation",
+        "2008 crisis",
+        "foreclosures",
+        "loan approval",
+        "millennials",
+        "Gen Z",
+        "protection"
+      ],
+      "texte": "While the mortgage loopholes that tripped up countless millennials and Gen Z seemed unfair to many, the banks will tell you that it was for everyone’s good. The 2008 financial crisis partially happened because many people who never should have been approved for a mortgage wound up in the hole. A healthy system protects everyone. It keeps families from sinking their life savings into an economic death trap. And it prevents a wave of foreclosures sweeping through the banking system. But what does that matter when there’s money to make?"
+    },
+    {
+      "id": 11,
+      "debut": 384.08,
+      "fin": 411.76,
+      "temps_estime": false,
+      "titre": "Captive lending arms: approving as many buyers as possible",
+      "resume": "Homebuilders built in-house lending arms not just to streamline sales but to approve as many clients as possible. Since they hold both the risk and the benefits, a foreclosed house goes back to D.R. Horton or Lennar instead of a bank, ready to be repaired and resold. They also have ways to make deals look workable.",
+      "mots_cles": [
+        "captive lender",
+        "in-house lending",
+        "foreclosure",
+        "risk and reward",
+        "resale",
+        "D.R. Horton",
+        "Lennar",
+        "loan approval"
+      ],
+      "texte": "These powerful home-building organizations built captive in-house lending arms not just to streamline things, but to approve as many clients as possible. Because while they’re taking on all the risk of a deal, they’re taking on all the benefits as well. If they handle the financial side of the deal, the house doesn’t go to a bank in the event of a foreclosure. It goes right back to D. R. Horton or Lennar, ready to be fixed up and sold again. And they have ways of making the deals make sense."
+    },
+    {
+      "id": 12,
+      "debut": 411.76,
+      "fin": 434.64,
+      "temps_estime": false,
+      "titre": "The two big buyer hurdles: down payment and monthly payments",
+      "resume": "Homebuyers face two main challenges: the down payment, which can take years to save, and the intimidating mortgage payment size. Down payments can be negotiated to as low as 10%, but sellers usually insist on a sizable portion. The narrator says there are ways around both problems.",
+      "mots_cles": [
+        "down payment",
+        "mortgage payments",
+        "10% down",
+        "negotiation",
+        "seller",
+        "homebuyer challenges",
+        "saving",
+        "affordability"
+      ],
+      "texte": "For most homebuyers, there are two big challenges. The first is the down payment, which it can often take years to save for. While there can be negotiations over the size of the down payment, with some offers getting as low as 10%, the seller will usually insist on a sizable portion. And the other critical challenge is the size of the mortgage payments, which can look intimidating at first. But there are ways around that."
+    },
+    {
+      "id": 13,
+      "debut": 434.64,
+      "fin": 470.56,
+      "temps_estime": false,
+      "titre": "How a 2-1 mortgage buydown works",
+      "resume": "A buydown is when the seller pays money into an escrow account that subsidizes the buyer's mortgage for a fixed period. In the common 2-1 buydown the first year has a big subsidy, the second year half, and the third year the standard payment. Banks find it a hard sell because it signals the buyer may struggle with payments.",
+      "mots_cles": [
+        "mortgage buydown",
+        "2-1 buydown",
+        "escrow account",
+        "seller incentive",
+        "subsidized mortgage",
+        "rate subsidy",
+        "traditional bank",
+        "payments"
+      ],
+      "texte": "The most common way to make a challenging mortgage doable for a buyer is with a buydown. This is a system where the seller offers an investment of their own into the mortgage as an incentive. They usually contribute money into an escrow account that subsidizes the mortgage for a fixed period. The most common method of this is a 2-1 buydown, where the first year offers a hefty subsidy, and then it’s halved for the second year, and then it goes up to the standard amount for the third year. While any lender can offer this, it can be a hard sell for a traditional mortgage from a bank. It’ll immediately show that the buyer might have trouble meeting the payments."
+    },
+    {
+      "id": 14,
+      "debut": 470.56,
+      "fin": 505.68,
+      "temps_estime": false,
+      "titre": "Builders hand out buydowns: 73% of Horton buyers",
+      "resume": "Big homebuilders give out buydowns like candy: about 73% of D.R. Horton buyers receive one, versus around 67% of all US builders. Builders without financial arms still offer subsidies, because those not matching competitors get left behind. They are ready to spend large sums.",
+      "mots_cles": [
+        "rate buydown",
+        "73% D.R. Horton",
+        "67% homebuilders",
+        "incentives",
+        "competition",
+        "subsidies",
+        "homebuilders",
+        "statistics"
+      ],
+      "texte": "But these large corporations don’t have that hesitation. The major homebuilding corporations give out these incentives like candy, with approximately 73% of D. R. Horton homebuyers receiving a rate buydown. By comparison, around 67% of all US homebuilders offered a similar incentive. While not all homebuilders offer financial services directly, it’s part of a significant trend in the industry. If you’re not offering the same deal as your competitors, you wind up being left behind. So even those who don’t offer full financial services can offer subsidies. And they’re ready to shell out some big money."
+    },
+    {
+      "id": 15,
+      "debut": 505.68,
+      "fin": 532.96,
+      "temps_estime": false,
+      "titre": "Car dealer analogy: the dealer who writes you a check",
+      "resume": "The narrator compares it to a car dealer who, when you hesitate over loan terms, hands you a check to pay down your loan. It would seem too good to be true, yet this is what happens to seven out of ten homebuyers today.",
+      "mots_cles": [
+        "car dealer analogy",
+        "incentives",
+        "loan payoff",
+        "too good to be true",
+        "seven out of ten",
+        "homebuyers",
+        "check",
+        "analogy"
+      ],
+      "texte": "Imagine if you were buying a car, and the dealer wasn’t willing to let you walk out the door without a deal. You look at the car loan terms and you’re worried about meeting them, so you decide to keep saving. But instead of letting you walk away, the dealer pulls out his checkbook, writes a check, and presses it into your hand. He wants to sell you a car so badly, he’s willing to pay off some of your loan. You’d probably think it was too good to be true. But that’s exactly what’s happening to seven out of ten homebuyers in today’s economy."
+    },
+    {
+      "id": 16,
+      "debut": 532.96,
+      "fin": 568.0,
+      "temps_estime": false,
+      "titre": "Lennar's $62,700 average incentive and its rising share of revenue",
+      "resume": "In fiscal year 2025 the average Lennar customer received incentives and buydowns averaging $62,700, equal to 13.8% of Lennar's revenue, up from 8.8% in 2023. That incentive exceeds the median US worker's salary and is given just to sign.",
+      "mots_cles": [
+        "Lennar",
+        "$62,700 incentives",
+        "13.8% of revenue",
+        "8.8% in 2023",
+        "fiscal year 2025",
+        "buydowns",
+        "median salary",
+        "homebuyer incentives"
+      ],
+      "texte": "Those incentives add up quickly. According to data from fiscal year 2025, Lennar has been especially generous towards its homebuyers. The average customer walks away from a deal with the massive homebuilding company with incentives and buydowns averaging $62,700. That averages out to 13.8% of Lennar’s total revenue… and it’s climbing. Back in 2023, the average was only 8.8% of their total revenue. The average homebuyer is walking away with an incentive that’s larger than the median salary of the average worker in the United States… just to sign on the bottom line."
+    },
+    {
+      "id": 17,
+      "debut": 568.0,
+      "fin": 606.16,
+      "temps_estime": false,
+      "titre": "Why companies need consumers who can buy: the corporate motive",
+      "resume": "Corporations aim for profit, raising prices and holding salaries down, but this only works if people can still afford their products. The US is a consumer economy, so if people are too broke the system collapses. To stop the housing market bottoming out amid the millennial and Gen Z debt trap, companies made buying easier, though history may be repeating.",
+      "mots_cles": [
+        "consumer economy",
+        "profits",
+        "wages",
+        "prices",
+        "debt trap",
+        "millennials",
+        "Gen Z",
+        "corporate motive"
+      ],
+      "texte": "So why are these companies so invested in getting people to buy houses? There’s an ugly secret to the US economy that companies are starting to figure out. Their goal is usually profits above all. They raise prices when they can, and avoid raising salaries as long as they can. But that only works if people can still afford what they’re selling. The United States is primarily a consumer country. If the people are too broke to buy, the corporate empire collapses. So, to stop the home market bottoming out, because millennials and Gen Z are stuck in a debt trap, the companies need to make it easier to buy. And they did. But now history may be repeating itself."
+    },
+    {
+      "id": 18,
+      "debut": 606.16,
+      "fin": 653.52,
+      "temps_estime": false,
+      "titre": "The ticking clock: underwater loans at DHI Mortgage and Lennar",
+      "resume": "Every buydown has a ticking clock, and the subsidy runs out before the full bill comes due. Underwater mortgage holders are skyrocketing, especially loans made between 2022 and 2024 when rates exploded: 20.8% of DHI Mortgage loans from that period are underwater versus 30.7% of Lennar's, which are in danger of foreclosure.",
+      "mots_cles": [
+        "buydown expiry",
+        "underwater mortgages",
+        "DHI Mortgage 20.8%",
+        "Lennar 30.7%",
+        "2022-2024 loans",
+        "foreclosure risk",
+        "rates",
+        "subsidy"
+      ],
+      "texte": "Behind every mortgage buydown is a ticking clock, and one that comes sooner than expected for many people. Buydown subsidizes the mortgage, allowing people to save up and get their footing in their new home before the full bill comes down. But it comes due all the same. Currently, both DHI and Lennar are looking at their current holdings, and seeing serious warning signs. The number of mortgage-holders who are underwater is skyrocketing, and it all comes back to the large group of mortgages given out between 2022 and 2024. This is when the rates exploded, and people are now feeling the walls close in. Currently, 20.8% of DHI Mortgage loans from this period are underwater. Lennar has even worse results, with 30.7% of their loans being in danger of foreclosure. That means no one is the winner here."
+    },
+    {
+      "id": 19,
+      "debut": 653.52,
+      "fin": 683.04,
+      "temps_estime": false,
+      "titre": "What underwater means and the foreclosure trap for builders",
+      "resume": "An underwater loan means the owner owes more than the home could sell for. Even foreclosure is no solution because Horton or Lennar may not recoup their money, and a surge in foreclosures could hurt the housing market like in 2005. Lenders therefore want people to stay in their homes, but the math is getting harder.",
+      "mots_cles": [
+        "underwater loan",
+        "negative equity",
+        "foreclosure",
+        "housing market",
+        "2005",
+        "recoup money",
+        "homebuilder",
+        "lenders"
+      ],
+      "texte": "When a loan is “underwater”, that means the owner owes more to the bank - in this case, the homebuilding corporation - than the home could sell for on the open market. When this happens, even foreclosure isn’t a solution. D. R. Horton or Lennar could reclaim the home, but could they fully recoup their money from doing so? A massive surge in foreclosures could cause big problems for the housing market just like it did in 2005. So the lenders have an interest in keeping people in their new houses as well. But the math is getting harder and harder to square."
+    },
+    {
+      "id": 20,
+      "debut": 683.04,
+      "fin": 714.56,
+      "temps_estime": false,
+      "titre": "Median income versus payments: 53% of income and the no-win situation",
+      "resume": "With median household income just over $83,700, the average monthly payment is $3,700, a whopping 53% of average income. Buyers who pay on time may max out credit cards, while those who fall behind may never catch up. Maybe the only way to win is not to play.",
+      "mots_cles": [
+        "median household income $83,700",
+        "$3,700 monthly payment",
+        "53% of income",
+        "credit cards",
+        "falling behind",
+        "mortgage",
+        "no-win",
+        "affordability"
+      ],
+      "texte": "Right now, the housing market is producing grim results for many people. With the current median household income coming in at just over $83,700, the average monthly payment comes in at $3,700, a whopping 53% of average income. Many people find themselves in a no-win situation. If they pay their mortgage on time, they often have to max out their credit cards in order to make ends meet. But if they start falling behind on their mortgage, it might be impossible to catch up. And maybe the only way to win is not to play."
+    },
+    {
+      "id": 21,
+      "debut": 714.56,
+      "fin": 743.76,
+      "temps_estime": false,
+      "titre": "The vanishing mortgage interest deduction",
+      "resume": "Tax code overhauls wiped out the rebates families relied on, so the mortgage interest deduction averages just $69 a month. Most Americans take the standard deduction instead. At current rates, someone who pays off a mortgage hands the bank more than double the house's value.",
+      "mots_cles": [
+        "mortgage interest deduction",
+        "$69 a month",
+        "tax code",
+        "standard deduction",
+        "safety net",
+        "interest rates",
+        "total interest",
+        "tax relief"
+      ],
+      "texte": "To make matters worse, the government gutted the last remaining safety net for homeowners. Overhauls to the tax code have effectively wiped out the rebates families used to survive mortgages. Today, the mortgage interest deduction has dropped to measly $69 a month in average tax relief. The majority of Americans don’t get any benefit, forcing them to opt for the standard deduction instead. And at current interest rates, anyone who actually manages to pay off their mortgage will end up handing the bank more than double the value of the house."
+    },
+    {
+      "id": 22,
+      "debut": 743.76,
+      "fin": 772.32,
+      "temps_estime": false,
+      "titre": "Renting versus buying: why renters might come out on top",
+      "resume": "Renting feels bad, but mortgage holders also hand over a large share of income. Rent increases are limited in many big cities, and evicting a renter can be harder than foreclosing on a homeowner. Buying usually takes up to 7 years to beat renting financially because of high initial costs.",
+      "mots_cles": [
+        "renting vs buying",
+        "rent control",
+        "eviction",
+        "foreclosure",
+        "7 years break-even",
+        "initial costs",
+        "landlords",
+        "renters"
+      ],
+      "texte": "So renters might come out on top. Renting doesn’t feel particularly good, because you’re giving over a large percentage of your income to someone else. But technically, mortgage holders are doing the same. And because of regulations in many major cities, landlords are limited in how much they can raise the rent each year. It can actually be harder to evict a renter than it is to foreclose on a home. It usually takes up to 7 years for buying a home to even be a better financial deal over renting, because of the high initial costs."
+    },
+    {
+      "id": 23,
+      "debut": 772.32,
+      "fin": 795.6,
+      "temps_estime": false,
+      "titre": "Flexibility: renters can move, homeowners are stuck with sunk costs",
+      "resume": "Renters can shift around easily when facing a rent hike and have no long-term sunk cost. A homeowner may sink hundreds of thousands into a house, lose their job, and lose the house with little hope of recovering the money.",
+      "mots_cles": [
+        "flexibility",
+        "sunk cost",
+        "renters",
+        "homeowners",
+        "job loss",
+        "rent hike",
+        "moving",
+        "financial risk"
+      ],
+      "texte": "And there’s one other big factor - flexibility. Renters are always prepared to shift things around. A sudden rent hike can lead to someone being forced to move. So they pack up and find a new place. There’s no long-term sunk cost, only a new landlord. By contrast, a homeowner can put hundreds of thousands of dollars into their house for years, lose their job, and lose the house with little hope of seeing the money again."
+    },
+    {
+      "id": 24,
+      "debut": 795.6,
+      "fin": 828.48,
+      "temps_estime": false,
+      "titre": "Lennar's build quality scandal: cracked foundations and NDAs",
+      "resume": "Both Horton and Lennar still dominate homebuilding, but Lennar is in the headlines for cutting corners, with new homes reportedly having cracked foundations and leaking windows. Its solution, according to the video, is to force homeowners to sign NDAs when making repairs. Horton has a generally good reputation.",
+      "mots_cles": [
+        "Lennar",
+        "construction defects",
+        "cracked foundations",
+        "leaking windows",
+        "NDAs",
+        "D.R. Horton reputation",
+        "homebuilding",
+        "repairs"
+      ],
+      "texte": "For the companies behind the current boom, that could be very bad news. Right now, both D. R. Horton and Lennar are still dominating in the homebuilding market. Horton has a generally good reputation, but Lennar has found itself in the headlines for all the wrong reasons. They’ve been accused of cutting serious corners in their homebuilding, with many of their newly built houses being found to suffer from major issues like cracked foundations and leaking windows. The company’s solution? To force homeowners to sign NDAs when making repairs. Those windows may not be the only thing springing a leak."
+    },
+    {
+      "id": 25,
+      "debut": 828.48,
+      "fin": 855.52,
+      "temps_estime": false,
+      "titre": "Over-leveraged buyers and the risk of mass defaults",
+      "resume": "Both companies are seeing the consequences of over-leveraging customers that banks would have turned down. If overleveraged homeowners default en masse, the companies will be left with more housing stock than they can handle. Their only hope is finding new buyers to repeat the cycle, but it is unclear if they will bite.",
+      "mots_cles": [
+        "over-leveraged homeowners",
+        "mass defaults",
+        "excess inventory",
+        "homebuilders",
+        "deal of a lifetime",
+        "repeat the cycle",
+        "mortgage",
+        "risk"
+      ],
+      "texte": "Right now, both companies are starting to see the consequences of over-leveraging their homebuyers. They’ve taken on customers who banks would have turned down, offering them the deal of a lifetime to sign on the dotted line. The result is overleveraged homeowners who might not be able to keep up on their mortgages. If they start defaulting en masse, the companies will wind up with more stock than they know what to do with. Their only hope will be finding new homeowners to repeat the cycle. But will the fish be biting this time?"
+    },
+    {
+      "id": 26,
+      "debut": 855.52,
+      "fin": 882.08,
+      "temps_estime": false,
+      "titre": "Gen Z does not chase the American Dream of homeownership",
+      "resume": "Millennials grew up with the American dream their parents described and still strive for it. Gen Z did not grow up in that world, sees renting as standard and is less likely to take the big swings needed to buy. That might leave giant homebuilders with a sea of homes and no buyers.",
+      "mots_cles": [
+        "Gen Z",
+        "millennials",
+        "American Dream",
+        "renting",
+        "homeownership",
+        "generational difference",
+        "unsold homes",
+        "homebuilders"
+      ],
+      "texte": "The difference between millennials and Gen Z is that millennials saw a world filled with the things their parents told them were the American dream. They’ve been striving for it ever since. But Gen Z didn’t grow up in that world, and they don’t see the appeal in chasing the same thing. For many of them, renting is just the standard way of things, and they’re less likely to take the big swings needed to buy a home. And that might leave these massive corporations amid a sea of homes, with no one to sell them to."
+    },
+    {
+      "id": 27,
+      "debut": 882.08,
+      "fin": 890.04,
+      "temps_estime": false,
+      "titre": "Outro: could the economy's bottom fall out again?",
+      "resume": "The narrator asks whether the bottom could fall out of the economy again. Viewers are pointed to a related video, \"This Is What Always Happens Before a Market Crash\".",
+      "mots_cles": [
+        "market crash",
+        "economy",
+        "recommended video",
+        "outro",
+        "housing bubble",
+        "next video",
+        "bottom falling out"
+      ],
+      "texte": "Could the bottom be about to fall out of the economy…again? Check out “This Is What Always Happens Before a Market Crash” or watch this."
+    }
+  ]
+}
