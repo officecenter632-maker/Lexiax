@@ -13,5 +13,7 @@ Speech : 3354 lignes, 6980,17 s (~116 min), langue en, sous-titres automatiques 
 
 - Tranche 2 : lignes 899 à 1731 (sur 3354), jusqu'à 3599,18 s (couvre 1834,89 à 3599,18 s, ~29,4 min), 36 segments (id 40 à 75). Fin de Pinhead, Michael Myers, Pennywise, début d'Annabelle (jusqu'à l'attaque physique). Vérification OK.
 
+- Tranche 3 : lignes 1732 à 2615 (sur 3354), de 3599,18 à 5447,00 s (~30,8 min), 36 segments (id 76 à 111). Fin d'Annabelle (AA-12, XL18), Slenderman, Chucky, Valak, début de Samara (jusqu'à sa mort dans le puits). Vérification OK.
+
 ## Point d'arrêt
-- Dernière ligne traitée : 1731. Prochaine étape : tranche 3 à partir de la ligne 1732 (Annabelle prend forme physique, fusil AA-12), id 76.
+- Dernière ligne traitée : 2615. Prochaine étape : tranche 4 à partir de la ligne 2616 (pouvoirs de Samara, comment la vaincre), id 112.
