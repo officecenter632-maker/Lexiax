@@ -4,12 +4,12 @@
   "titre_video": "Scientists Are Freaking Out Over Space Time (It's Not Real)",
   "duree_s": 10427.77,
   "avancement": {
-    "lignes_traitees": 2738,
-    "fin_traitee_s": 5479.47,
+    "lignes_traitees": 3741,
+    "fin_traitee_s": 7432.01,
     "nb_lignes_total": 5233,
     "complet": false
   },
-  "nb_segments": 109,
+  "nb_segments": 150,
   "segments": [
     {
       "id": 1,
@@ -1990,6 +1990,780 @@
         "galaxy or black hole first"
       ],
       "texte": "Meanwhile, we start to feel old when we turn 30. Each of the cavities created are thought to be around 700,000 light years [music] wide. It's difficult to comprehend a void so large that you can only measure it in thousands and thousands [music] of light years. No wonder the discovery was groundbreaking. To get an idea of the size, try to picture [music] this. The amount of displaced gas was equal to a trillion suns, and it had more mass than all the stars in the Milky Way. Plus, the black hole involved [music] had a mass of over 10 billion solar masses, and the sun has a mass of around 330,000 times greater than that of the Earth. And the mass of the Earth compared to you? It doesn't even bear thinking about. But the craziest part of this is that the explosion could still be happening right now. Thanks to the energy the explosion produced, hot gas around the black hole stopped cooling, and magnetic fields were generated in the galaxy cluster. It's just one example of how explosions in space can develop and change the environment. As for how black holes work, the eruption helps shed some light, [music] but it's one of the many mysteries of the universe that we're still uncertain about. And which came first anyway, the galaxy or the [music] black hole? So, basically, scientists uncovered a pretty big explosion, but don't go yet. You don't really think that was the biggest explosion since the Big Bang, did you? That's so 2005."
+    },
+    {
+      "id": 110,
+      "debut": 5479.47,
+      "fin": 5518.99,
+      "temps_estime": false,
+      "titre": "Annonce d'une explosion cinq fois plus puissante et rôle des télescopes",
+      "resume": "The narrator announces an explosion that released about five times more energy than the black hole that swallowed 300 suns, centered on the MS0735.6+7421 galaxy cluster. Before describing it, he explains that scientists combine X-ray and radio telescopes, because different substances in space emit different kinds of radiation and using several gives a clearer picture.",
+      "mots_cles": [
+        "MS0735.6+7421",
+        "galaxy cluster",
+        "biggest explosion",
+        "X-ray telescope",
+        "radio telescope",
+        "radiation",
+        "five times more energy"
+      ],
+      "texte": "[music] Don't worry, we can do way better than a black hole that sucks in 300 suns. It's time to talk about the [music] explosion that released about five times more energy. No wonder nobody bothered to think of a better name for the MS0735.6 + [music] 7421 galaxy cluster. But first, let's talk about how the scientists can even determine when a really big explosion [music] has happened. We mentioned that scientists use a mixture of x-ray and radio telescopes to put together the pieces. >> [music] >> It goes without saying that we can't tell what's going on in space without a telescope. Everything's happening hundreds of millions of light years away from us after all. But using one type alone isn't sufficient. Different substances in space emit different [music] types of radiation, and looking at all of them gives a clearer picture."
+    },
+    {
+      "id": 111,
+      "debut": 5518.99,
+      "fin": 5558.67,
+      "temps_estime": false,
+      "titre": "Comment fonctionne l'astronomie des rayons X",
+      "resume": "X-rays are light more energetic than visible light and can pass through many materials, which is why doctors use them to see bones. X-ray astronomy works in reverse: black holes, stars and the sun emit X-rays, emitters show up as bright fluorescent colors and blockers appear as shadows.",
+      "mots_cles": [
+        "X-rays",
+        "X-ray astronomy",
+        "doctor analogy",
+        "bones",
+        "emitters",
+        "shadows",
+        "black holes",
+        "light energy"
+      ],
+      "texte": "So, firstly, the X-rays. Doctors use X-rays to figure out what's going on beneath the skin. That's because X-rays are a form of light more energetic [music] than anything we can see, and their energy helps them to pass through more materials, including bones. Well, X-ray astronomy [music] works in the same way, but in reverse. Things in space release X-rays like black holes, stars, the sun, and more, but the telescope is like the detector that lets the doctor see if a patient has a broken bone [music] or has a coin stuck in his throat. That way, the researchers can see both the objects in space giving off the X-rays and anything that stops the transmission of X-rays. [music] The emitters appear as pretty fluorescent colors, whereas the blockers look like shadows. But, [music]"
+    },
+    {
+      "id": 112,
+      "debut": 5558.67,
+      "fin": 5597.75,
+      "temps_estime": false,
+      "titre": "Télescopes radio contre télescopes à rayons X : le télescope Chandra",
+      "resume": "Radio telescopes detect radio waves emitted by stars, galaxies and black holes and look like giant satellite dishes working from the ground, while X-ray telescopes look like barrels with wings. Because Earth's atmosphere absorbs X-rays, NASA's Chandra X-ray Observatory orbits at an altitude of 139,000 km.",
+      "mots_cles": [
+        "radio telescopes",
+        "X-ray telescopes",
+        "satellite dishes",
+        "Chandra X-ray Observatory",
+        "NASA",
+        "Earth's atmosphere",
+        "radio waves",
+        "139,000 km"
+      ],
+      "texte": "researchers also used radio telescopes. As you'd expect, these are utilized to visualize radio waves, like those stars, [music] galaxies, and black holes emit. The two types of telescopes are very different. Firstly, they just look [music] different. Radio telescopes look like giant satellite dishes, whereas X-ray telescopes are more like giant barrels with wings on each side. Forgive the crude descriptions. And they work differently, too. Radio telescopes [music] can do their job on the Earth's surface, and you can often find them in open spaces like fields. By contrast, since the Earth's atmosphere absorbs [music] X-rays, NASA's Chandra X-ray Observatory is located at an altitude of 139,000 km in space. Once upon a time,"
+    },
+    {
+      "id": 113,
+      "debut": 5597.75,
+      "fin": 5625.91,
+      "temps_estime": false,
+      "titre": "Les anciennes méthodes d'observation et l'image complète",
+      "resume": "Astronomers used to observe only bright central radiation, so huge eruptions without a bright center went undetected. Today X-ray observations reveal the hot cluster gas while radio telescopes detect magnetized high-energy electrons, painting a fuller picture of explosions.",
+      "mots_cles": [
+        "bright central radiation",
+        "old technique",
+        "hot cluster gas",
+        "magnetized electrons",
+        "X-ray observations",
+        "radio telescopes",
+        "huge eruptions",
+        "detection methods"
+      ],
+      "texte": "nobody would have detected huge [music] eruptions in space because of the methods used. The old technique was to observe only bright central radiation, but that doesn't always reveal what's happening. Sometimes, [music] there's no bright central radiation involved in an explosion, but there are different types. X-ray observations can reveal the hot cluster gas, whilst radio telescopes detect the magnetized high-energy electrons. This paints a fuller picture of what's happening. But, where were we? Talking about some kind of explosion."
+    },
+    {
+      "id": 114,
+      "debut": 5625.91,
+      "fin": 5659.19,
+      "temps_estime": false,
+      "titre": "Retour à la plus grande explosion et comparaison avec le mont Saint Helens",
+      "resume": "The narrator returns to the actual biggest explosion since the Big Bang and warns viewers about feeling small compared to the universe. He compares it to the 1980 eruption of Mount St. Helens, which tore off a mountaintop, as a space version that is far bigger.",
+      "mots_cles": [
+        "biggest explosion since the Big Bang",
+        "Mount St. Helens",
+        "1980 eruption",
+        "scale of the universe",
+        "space explosion",
+        "comparison",
+        "eruption"
+      ],
+      "texte": "Oh, yeah, the actual biggest explosion [music] since the Big Bang. Well, I hope you were paying attention to me ranting on about science because it's going to come in handy for this next part. And if If prepared to face how tiny you are [music] compared to the immense size of the universe, then I suggest you stop watching now. Have you heard of the infamous [music] blast that happened in Mount St. Helens in 1980? It was one of the biggest eruptions [music] in US history, so strong it literally ripped off the top of a mountain, killing thousands of animals and destroying [music] hundreds of homes. Well, we're talking about something that was kind of like the space version of that, only way bigger. Now, we're dealing with the"
+    },
+    {
+      "id": 115,
+      "debut": 5659.19,
+      "fin": 5694.67,
+      "temps_estime": false,
+      "titre": "L'amas d'Ophiuchus et son bord incurvé",
+      "resume": "The Ophiuchus galaxy cluster, 390 million light-years from Earth, intrigued scientists because of a curved edge. They suspected it was the wall of a cavity carved by plasma shot out by a huge black hole, yet assumed an explosion that big was impossible.",
+      "mots_cles": [
+        "Ophiuchus galaxy cluster",
+        "390 million light-years",
+        "curved edge",
+        "cavity",
+        "black hole",
+        "plasma",
+        "galaxy cluster shapes"
+      ],
+      "texte": "Ophiuchus galaxy cluster, which lies 390 [music] million light-years away from Earth. The Ophiuchus galaxy had always been viewed as curious and puzzling to scientists, which [music] is why they paid it so much attention in the first place. The funny thing was it had a curved edge to it. Why could that be? Well, galaxy clusters come in all shapes and sizes, but this was particularly suspicious. So, [music] they thought that the curved edge could be the wall of a cavity caused by a huge black hole in one of the core galaxies [music] shooting out plasma, because black holes don't just suck stuff in, remember? So, the scientists had learned something, but still they assumed an explosion couldn't possibly have taken place. [music]"
+    },
+    {
+      "id": 116,
+      "debut": 5694.67,
+      "fin": 5734.07,
+      "temps_estime": false,
+      "titre": "Les observations X et radio confirment l'explosion",
+      "resume": "X-ray observations showed a big bubble of hot plasma at the center of the Ophiuchus cluster, and low-frequency radio telescopes showed the cavity was filled with radio plasma. Together the data proved the black hole's plasma carved the cavity, making it the biggest explosion since the Big Bang, bigger than the 2005 eruption.",
+      "mots_cles": [
+        "Ophiuchus",
+        "X-ray plasma bubble",
+        "low-frequency radio telescopes",
+        "radio plasma",
+        "cavity",
+        "biggest explosion",
+        "2005 eruption",
+        "evidence"
+      ],
+      "texte": "Naïve as ever, they thought it would have to be just too unimaginably big, and the cavity too incomprehensibly huge, but as I've already given [music] away, that turned out not to be the case. To investigate, they used the trusty X-ray telescope. The results certainly seemed to suggest [music] an explosion had taken place. There was what looked like a big bubble of hot X-ray plasma in the center of the galaxy cluster. This screamed explosion, [music] but it didn't necessarily mean the explosion had caused the cavities. They needed more evidence. So, low-frequency radio telescopes were used, too, which revealed that the cavity was filled with radio plasma. Put together, the data basically proved that the plasma from the black hole had caused the cavity."
+    },
+    {
+      "id": 117,
+      "debut": 5734.07,
+      "fin": 5802.71,
+      "temps_estime": false,
+      "titre": "Taille de la cavité et énergie colossale libérée",
+      "resume": "The cavity is about 1.5 million light-years across, equivalent to 15 Milky Way galaxies, with the Milky Way around 100,000 light-years wide and Earth 165 quadrillion miles from the black hole. One scientist compared the energy to 20 billion billion megatons of TNT every thousandth of a second for 240 million years, a slow explosion lasting hundreds of millions of years.",
+      "mots_cles": [
+        "cavity size",
+        "1.5 million light-years",
+        "15 Milky Way galaxies",
+        "Milky Way",
+        "TNT megatons",
+        "240 million years",
+        "slow explosion",
+        "165 quadrillion miles"
+      ],
+      "texte": "And there you have it, the biggest [music] explosion since the Big Bang. Greater than even the eruption discovered in 2005, but just how big a bang did this bang make? First, let's talk about [music] the cavity that formed in the cluster plasma. In case you're not a space geek, that's the hot gas that surrounds [music] the black hole. If you were to move from one side of the hole to the other, it would take 1 and 1/2 million light-years. How can we even comprehend that? Another way to see it is that the crater was so big, it's more or less equivalent to 15 Milky Way galaxies. I know your next question. How [music] big is the Milky Way galaxy? Scientists estimate it's around 100,000 light years wide, and that us here on Earth [music] are 165 quadrillion miles from the black hole in the galaxy. It's hard to put the whole [music] thing into human terms, but one scientist tried to explain it by saying that the explosion would be like setting off 20 billion billion [music] megatons of TNT every thousandth of a second for 240 million years. I'm not even sure if that makes me more or less confused. Of course, like the second largest [music] explosion, it happened extremely slowly. Think hundreds of millions of years. It's hard to imagine it, but hey, that's what happens in galaxies far, far away."
+    },
+    {
+      "id": 118,
+      "debut": 5802.71,
+      "fin": 5883.95,
+      "temps_estime": true,
+      "titre": "Quelle était la taille du Big Bang ?",
+      "resume": "The narrator asks how big the Big Bang explosion was and admits nobody knows how it began or what existed beforehand. A fraction of a second after it, the universe began expanding dramatically, and since its size today is unknown it is impossible to say, though it was probably the biggest explosion. He concludes that humans have explored only a small fraction of the universe and understand less than what remains unknown.",
+      "mots_cles": [
+        "Big Bang",
+        "universe expansion",
+        "size of the universe",
+        "origin of the universe",
+        "infinite universe",
+        "unknown physics",
+        "biggest explosion",
+        "smallness of humans"
+      ],
+      "texte": ">> [music] >> And there you have it, the biggest explosion since the Big Bang. At this point, you're probably wondering just how big the Big Bang explosion was in the first place. Well, [music] I'm afraid nobody knows. We don't know much about the Big Bang at all, but we can guess, which is almost as good, right? Nobody quite knows how the Big Bang initially happened. It's way too complex for our tiny brains [music] to comprehend right now. How can an explosion take place if there was nothing there in the first place? Wouldn't something have needed to exist before? But how would that thing have been created? It's all very confusing. But a fraction of a second after it happened, we can start to have a better idea of what was going on. As soon as the explosion started, the universe began to [music] dramatically expand at a speed we can't comprehend. Basically, there was a bang, a really large explosion. It took what was out there, just a few bits of [music] stuff floating around, to a whole universe with various galaxies. So, how big was it? We don't even know how big the universe [music] is now, so it's impossible to say. We just know it's been constantly expanding at an ever-increasing pace ever since the Big Bang. It could be infinite, but it's fair to assume that since it created everything [music] else, it was probably the biggest explosion. As we gaze up into the vastness of outer space, we are reminded of just how small we are in the grand scheme of the universe. We've only explored just a small fraction of the universe, and even physicists know [music] that there's more that we don't understand about outer space than what we figured out."
+    },
+    {
+      "id": 119,
+      "debut": 5883.95,
+      "fin": 5951.26,
+      "temps_estime": true,
+      "titre": "L'article Nothing Really Matters, Marjorie Shilo et la physique théorique",
+      "resume": "A paper published in the Journal of High Energy Physics in March 2020, titled Nothing Really Matters, discusses bubbles of nothing that eat space-time. Co-author Marjorie Shilo works at Uppsala University in Sweden, and the narrator presents physics, its big questions, famous theorists such as Newton, Einstein and Hawking, and how theoretical physics uses math where experiments are impossible.",
+      "mots_cles": [
+        "Nothing Really Matters",
+        "Journal of High Energy Physics",
+        "Marjorie Shilo",
+        "Uppsala University",
+        "theoretical physics",
+        "Newton",
+        "Einstein",
+        "Stephen Hawking"
+      ],
+      "texte": "A new paper that was published in the Journal of High Energy Physics in March 2020, >> [music] >> called Nothing Really Matters, great title, is why scientists are freaking out over bubbles of nothing that eats space-time. [music] Marjorie Shilo is one of the authors of this amazing new study. She's a researcher at Sweden's Uppsala University in their Department of Physics and Astronomy, where she studies theoretical physics. Physics is the study [music] of matter, energy, and the interactions between them, but it's much more exciting science than that description makes it sound. Physicists [music] try to answer big questions like how did the universe begin? Or what are the basic building blocks of the universe? Or even how [music] will the universe end? Theoretical physics and math might not sound very cool, but some of the biggest rock stars of science have come out of this field. Isaac Newton invented calculus and discovered gravitation. Albert Einstein came up with the theory of relativity among other important discoveries, and Stephen Hawking was one of the most recognizable scientists of all time. Many physicists use experiments to test their theories, but theoretical physics is different in [music] that they use math to attempt to answer these big questions in areas where scientists can't yet perform experiments."
+    },
+    {
+      "id": 120,
+      "debut": 5951.26,
+      "fin": 6012.97,
+      "temps_estime": true,
+      "titre": "Une bulle de rien qui dévore l'espace-temps",
+      "resume": "Shilo and colleagues have studied space-time decay to understand how the universe might end, and their paper explores a bubble of nothing that expands and converts all of space-time into nothing. In plain terms, it is one theoretically possible way the universe could be destroyed, among other scary things like black holes, supernovas and rogue asteroids.",
+      "mots_cles": [
+        "bubble of nothing",
+        "space-time decay",
+        "universe destruction",
+        "end of the universe",
+        "Uppsala University",
+        "supernovas",
+        "rogue asteroids",
+        "theoretical physics"
+      ],
+      "texte": "Marjorie Shilo and her colleagues [music] have spent years studying the phenomenon of space-time decay, trying to answer the big questions about how the universe might end. This newest paper [music] explores one possible answer, a bubble of nothing that eats space-time. >> [music] >> As she explains it, a bubble of nothing describes a possible channel for universe destruction in that the bubble of nothing expands and can eat all of space-time, converting it into nothing. Um, okay. Translated from science to plain English, what she and her team of researchers at the University of Uppsala in Sweden are saying [music] is that a bubble of nothing that eats space-time is just one of the theoretically possible ways that our universe could be destroyed. To be honest, that doesn't sound much better. [music] There's plenty of things in the universe worth freaking out about, black holes, supernovas, even rogue asteroids. But could a bubble of nothingness really eat all bubble time the universe and ending life as we know it. Is the universe really eating itself from the inside out? The idea of a bubble of nothingness in space isn't a new one."
+    },
+    {
+      "id": 121,
+      "debut": 6012.97,
+      "fin": 6064.06,
+      "temps_estime": false,
+      "titre": "Edward Witten, 1982, et le vide en physique",
+      "resume": "Physicist Edward Witten first proposed in 1982 that the universe could devour itself through a hole that forms spontaneously and expands to infinity. To understand it, the narrator defines a vacuum in physics as empty space and, in quantum field theory, as the lowest possible energy state, so a vacuum is relatively stable because it has no lower state to decay to.",
+      "mots_cles": [
+        "Edward Witten",
+        "1982",
+        "vacuum",
+        "quantum field theory",
+        "lowest energy state",
+        "energy decay",
+        "stable vacuum",
+        "bubble of nothing"
+      ],
+      "texte": ">> [music] >> In 1982, theoretical physicist Edward Witten first posited that the universe could be devouring itself [music] when he wrote about a hole that spontaneously forms in space and rapidly expands to infinity pushing to infinity anything it may meet. To understand these bubbles of nothing, we need to wrap our heads around vacuums. No, not that kind of vacuum. [music] In physics, a vacuum is an empty space devoid of all matter. In quantum field theory, the theory that connects [music] quantum physics with space time, a vacuum is the lowest possible energy state. More excited or higher energy quantum states tend to decay very quickly into lower energy states as they give off energy. Since a vacuum doesn't have a lower energy state to decay to, vacuums are relatively stable. >> [music] >> It's commonly accepted that outer space is a vacuum, so the universe should be pretty stable, right? Well, it's not quite that simple."
+    },
+    {
+      "id": 122,
+      "debut": 6064.06,
+      "fin": 6107.78,
+      "temps_estime": true,
+      "titre": "L'espace n'est pas un vide parfait : densité de matière et particules virtuelles",
+      "resume": "Outer space is not devoid of matter but has extremely low density: about five atoms per cubic centimeter between planets, one in interstellar space and 100 times less between galaxies. Together with very low pressure this makes an almost perfect vacuum, but quantum theory says a perfect vacuum is impossible because virtual particles fluctuate even in empty space.",
+      "mots_cles": [
+        "outer space",
+        "matter density",
+        "atoms per cubic centimeter",
+        "interstellar space",
+        "intergalactic space",
+        "virtual particles",
+        "quantum theory",
+        "almost perfect vacuum"
+      ],
+      "texte": ">> [music] >> Outer space certainly isn't devoid of matter. It's full of stars, planets, particles, and well, people. It's the extremely low density of the matter that's important. Between [music] the planets in our solar system, there's an average of five atoms per cubic centimeter. In interstellar space between the stars and molecular clouds, there's only one atom per cubic centimeter. And in intergalactic space between galaxies, there's 100 times less matter per cubic centimeter [music] than in interstellar space. This extremely low density of matter combined with incredibly low pressure in space creates an almost perfect vacuum, but not quite. Quantum theory actually suggests that a perfect vacuum is impossible since energy fluctuations known as virtual particles happen even in empty space."
+    },
+    {
+      "id": 123,
+      "debut": 6107.78,
+      "fin": 6150.56,
+      "temps_estime": true,
+      "titre": "Faux vide métastable et champ de Higgs",
+      "resume": "In the 1970s Russian physicists suggested false vacuums that stay in metastable states for an extremely long time while looking stable. The Higgs field, which gives matter its mass and was detected at CERN's Large Hadron Collider, suggests we may be living in a false vacuum.",
+      "mots_cles": [
+        "false vacuum",
+        "metastable",
+        "Russian physicists",
+        "Higgs field",
+        "Large Hadron Collider",
+        "CERN",
+        "mass",
+        "unstable universe"
+      ],
+      "texte": "In [music] the 1970s, some Russian physicists were the first to suggest that there could be a middle ground between a stable [music] vacuum and an unstable non-vacuum. These false vacuums stay in metastable or semi-stable states for an incredibly long time before decaying, giving them the illusion of being a stable vacuum when in fact they're not. This quantum force [music] field that pervades the universe and gives all matter its mass is called the Higgs field, and it was first detected by the Large Hadron Collider at CERN. It would take a whole other video to even begin to explain the Higgs field, but as far as understanding bubbles of nothing is concerned, here's why it matters. [music] Recent research into the Higgs field suggests that we may actually be living in a false vacuum after all. >> [music]"
+    },
+    {
+      "id": 124,
+      "debut": 6150.56,
+      "fin": 6189.59,
+      "temps_estime": true,
+      "titre": "Comment une bulle de rien se formerait et s'étendrait",
+      "resume": "If our universe is a false vacuum, a bubble of nothing is one way it could decay to a more stable energy state. It would begin as a tiny hole in the fabric of reality, expand until it grows at the speed of light, and erase all matter in its path until the universe disappears completely.",
+      "mots_cles": [
+        "false vacuum decay",
+        "bubble of nothing",
+        "fabric of reality",
+        "speed of light",
+        "universe erased",
+        "stable energy state",
+        "expansion",
+        "destruction of matter"
+      ],
+      "texte": ">> If that's true, our universe is not the safe and stable place we once thought. It's actually unstable, and this is where the bubbles of nothing have their opportunity. A bubble of nothing is one of the ways that a false vacuum could theoretically decay into a more stable energy state. If a bubble of nothing were to form within the apparently false [music] vacuum that is our universe, it would start out as a small hole in the fabric of our reality. The tiny space of emptiness would then quickly begin [music] to expand outward, picking up speed as it expands until it's growing at the speed of light. As it grows, the bubble of nothing would eat all of the matter it encounters, gobbling up everything in its path and converting all matter into nothingness until the universe is erased completely."
+    },
+    {
+      "id": 125,
+      "debut": 6189.59,
+      "fin": 6235.25,
+      "temps_estime": true,
+      "titre": "Bulle de rien et trou noir : deux choses très différentes",
+      "resume": "A bubble of nothing is compared with a black hole but is the opposite: a black hole pulls everything in with intense gravity, whereas the bubble expands outward and turns everything into nothing. An object thrown into a black hole disappears to an unknown fate, while one thrown at a bubble of nothing would bounce back out as if it hit the edge of the universe.",
+      "mots_cles": [
+        "bubble of nothing",
+        "black hole",
+        "gravity",
+        "expansion",
+        "edge of the universe",
+        "nothingness",
+        "difference",
+        "object bounces back"
+      ],
+      "texte": "So, what are these bubbles of nothing, exactly? As you can imagine, describing nothing is not exactly easy. It's tempting to compare a bubble of nothing to another phenomenon of nothingness that we know exists in our universe, black holes, but a bubble of nothing couldn't be more different from a black hole. A black hole is an area of such intense gravity that it sucks anything, including light, into its center. A bubble of nothing, on the other hand, expands outward and devours everything in its path, turning anything it encounters into more nothing. If you threw something into a black [music] hole, it would disappear forever, and we would have no idea what happened to it once it passed through the black hole, since we've never seen the inside of one. But if you could throw an object into a bubble of nothing, it would bounce [music] right back out. For all intents and purposes, it would have hit the edge of the universe."
+    },
+    {
+      "id": 126,
+      "debut": 6235.25,
+      "fin": 6260.36,
+      "temps_estime": true,
+      "titre": "Les bulles d'espace-temps et l'intérieur vide des bulles de rien",
+      "resume": "A space-time bubble is any region of space whose properties differ from outside, for example with a different strength of dark energy. Bubbles of nothing are different because they have no interior at all and, as they grow, they convert all regular matter they meet into nothing.",
+      "mots_cles": [
+        "space-time bubble",
+        "dark energy",
+        "different properties",
+        "bubble of nothing",
+        "empty interior",
+        "matter converted to nothing",
+        "expansion"
+      ],
+      "texte": "A bubble of nothing is not [music] the only kind of bubble that might exist in space. A space-time bubble is any area of space that has different properties inside the bubble than the space outside the bubble. For example, some bubbles could have different strengths of dark energy inside and out. Bubbles of nothing have no interior at all. They're actually totally empty inside. As the bubble grows, it eats all the regular matter it encounters and converts it to nothing."
+    },
+    {
+      "id": 127,
+      "debut": 6260.36,
+      "fin": 6339.04,
+      "temps_estime": false,
+      "titre": "Théorie des cordes et dimensions supplémentaires",
+      "resume": "To understand how bubbles of nothing could form, the narrator introduces string theory, which tries to unify general relativity and quantum physics and the four fundamental forces. It relies on assumptions that cannot yet be proven and requires more than the four observable dimensions, with at least a few extra invisible dimensions.",
+      "mots_cles": [
+        "string theory",
+        "general relativity",
+        "quantum physics",
+        "four forces",
+        "theory of everything",
+        "extra dimensions",
+        "hidden dimensions",
+        "unproven assumptions"
+      ],
+      "texte": "So, how could a bubble of nothing form in the first place? To understand how bubbles of nothing might form, we have to dive into a string theory of it. Don't worry, it won't be that bad. String theory attempts to tie together the two most basic [music] laws of physics, the theory of general relativity or gravity with quantum physics, the study of the very smallest particles that make up the universe. [music] String theory also attempts to unify the four forces in the universe, electromagnetic force, strong nuclear force, weak nuclear force, and gravity into one model. String theory may indeed turn out to be the theory of everything, but it's important to know that string theory relies on a lot of assumptions about particles and [music] forces that can't yet be proven. Don't worry, scientists aren't just blindly guessing. These assumptions are all based on solid scientific evidence and complex mathematical [music] equations. Needless to say, you'd need a PhD in physics to truly understand the intricacies of string theory. Now, the biggest problem with string theory is that it requires more than the four observable [music] dimensions to work. We can easily observe the three dimensions of space and the extra dimension of time, but for string [music] theory to work, there must be at least a few other dimensions that are invisible to us. As cool as the idea of hidden dimension sounds, it's not [music] the parallel universe you might be picturing, you know, the one where you're you but with money and power and good looks."
+    },
+    {
+      "id": 128,
+      "debut": 6339.04,
+      "fin": 6379.48,
+      "temps_estime": false,
+      "titre": "Les dimensions enroulées et la probabilité de 100 % du modèle de Kaluza-Klein",
+      "resume": "Physicists theorize that extra dimensions are tiny and curled up below the observable scale, so they can be accounted for mathematically but not proven. Bubbles of nothing cannot form in four-dimensional space-time but can in stringy multi-dimensional space-time, and the Kaluza-Klein model says that across infinite space the probability of a bubble of nothing destroying everything is 100%.",
+      "mots_cles": [
+        "extra dimensions",
+        "curled up dimensions",
+        "four-dimensional space-time",
+        "stringy space-time",
+        "Kaluza-Klein model",
+        "100% probability",
+        "bubble of nothing",
+        "string theory"
+      ],
+      "texte": "Anyway, physicists theorize that these extra dimensions could actually be incredibly tiny and curled up below the observable scale, making them too small for us to see them. Scientists can still account for these extra dimensions mathematically, but we have yet to actually prove they exist. For some reason, bubbles of nothing can't form in our four-dimensional space-time. [music] Don't ask us to explain the math behind why, it would take years. But, scientists believe that they can form [music] in stringy multi-dimensional space-time like the space-time described by string theory. In fact, one model of stringy space-time, the Kaluza-Klein model, states that across infinite space, [music] the probability of a bubble of nothing destroying everything is 100%."
+    },
+    {
+      "id": 129,
+      "debut": 6379.48,
+      "fin": 6421.37,
+      "temps_estime": true,
+      "titre": "Faut-il s'inquiéter ? Luboš Motl et l'absence d'explosion en 13 milliards d'années",
+      "resume": "Most scientists are not concerned, since the universe has not eaten itself in about 13 billion years since the Big Bang. Czech string theorist Luboš Motl argues the idea should be used to rule out certain descriptions of the universe, and scientists treat the scenario as something to rectify rather than agonize over.",
+      "mots_cles": [
+        "Luboš Motl",
+        "string theorist",
+        "13 billion years",
+        "Big Bang",
+        "bubble of nothing",
+        "unlikely scenario",
+        "ruling out theories",
+        "no cause for worry"
+      ],
+      "texte": "So, should we be concerned about bubbles of nothing appearing in space [music] and devouring the entire universe? Apparently not. Most scientists believe that since the universe hasn't eaten itself in 13 billion years since the Big Bang, it's an unlikely scenario. One Czech string theorist named Luboš Motl went so far as to say that we should use the ideas of bubbles of nothing to rule out certain descriptions of our universe. Since if it was going to happen, it would have happened by now. That doesn't totally negate the possibility, but it's also reassuring to know that scientists consider this to be something to rectify, not something to agonize over. We're not sure exactly how scientists would suggest that we fix a bubble of [music] nothing, but it's nice to know that they at least think we can, right?"
+    },
+    {
+      "id": 130,
+      "debut": 6421.37,
+      "fin": 6477.92,
+      "temps_estime": true,
+      "titre": "Les bulles de rien comme modèle de la naissance de l'univers",
+      "resume": "Physicists think studying bubbles of nothingness can reveal clues about the beginning of the universe, since the same mathematical models could describe its birth and expansion. Marjorie Shilo says it would be interesting to find conditions under which an observer riding the bubble would see an expanding universe like ours.",
+      "mots_cles": [
+        "bubble of nothing",
+        "birth of the universe",
+        "universe expansion",
+        "mathematical models",
+        "Marjorie Shilo",
+        "observer riding the bubble",
+        "beginning of the universe",
+        "research"
+      ],
+      "texte": "Perhaps most importantly, physicists think that studying these bubbles of nothingness can give [music] us important clues about the very beginning of our universe. The study author thinks that the mathematical models used to describe a bubble of nothing could also be used to model the birth and expansion of the universe. Marjorie Schillo, the researcher we met at the beginning of this video, has said, \"It would be interesting to work out under what conditions an observer could ride on the bubble of nothing and see a universe that is similar to the one we live in. Because the bubble expands, such an observer would see an expanding universe.\" Riding on a bubble of nothing might be a bit far-fetched, but this research is important for helping us understand our universe. According to the researchers who authored the nothing really matters paper, they argue that we can learn important lessons from these bubbles of nothing that might help us better connect the current best theories about fundamental building blocks of the universe [music] with theories about space and time, and hopefully finally help us finalize string theory, the theory of everything."
+    },
+    {
+      "id": 131,
+      "debut": 6477.92,
+      "fin": 6532.14,
+      "temps_estime": true,
+      "titre": "Pan-STARRS 1 découvre 'Oumuamua, premier visiteur interstellaire",
+      "resume": "On October 19, 2017, Hawaii's Pan-STARRS 1 telescope, part of NASA's Near Earth Object Observations Program, was cataloging near-Earth asteroids and comets when it found 'Oumuamua. Its speed of 196,000 mph and highly elliptical orbit showed it was the first confirmed visitor from outside the solar system, and a growing community of academics think it may be proof of intelligent alien life.",
+      "mots_cles": [
+        "'Oumuamua",
+        "Pan-STARRS 1",
+        "October 19 2017",
+        "interstellar visitor",
+        "NASA",
+        "near-Earth objects",
+        "196,000 mph",
+        "elliptical orbit"
+      ],
+      "texte": "October 19th, 2017 was a day like any other until it wasn't. High on a mountaintop, Hawaii's Pan-STARRS 1 telescope scanned the skies, searching the solar system for a deadly threat to life on Earth. As part [music] of NASA's Near Earth Object Observations Program, the telescope was updating its catalog of near-Earth asteroids and comets >> [music] >> which could pose a threat should one impact us. However, Pan-STARRS 1 discovered something much more than a dangerous asteroid. And according to a growing community of academics, it may have discovered the first verified proof of intelligent alien life. Whizzing by at a breakneck speed of 196,000 mph, 'Oumuamua's highly elliptical orbit [music] immediately told astronomers they weren't looking at an ordinary comet or asteroid. This was the first confirmed visitor from outside our solar system. As telescopes of all kind pointed at our interstellar visitor, though, the data only became >> [music] >>"
+    },
+    {
+      "id": 132,
+      "debut": 6532.14,
+      "fin": 6563.45,
+      "temps_estime": true,
+      "titre": "La forme étrange d'ʻOumuamua et son accélération inexpliquée",
+      "resume": "Radar showed 'Oumuamua was up to a quarter mile long and ten times longer than wide, like the classic cigar-shaped UFO, with no similar natural object ever seen. Its Hawaiian name means the scout, and as it left the solar system it accelerated in a way gravity alone could not explain.",
+      "mots_cles": [
+        "'Oumuamua",
+        "cigar shape",
+        "radar",
+        "quarter mile long",
+        "Hawaiian name scout",
+        "acceleration",
+        "UFO",
+        "solar system"
+      ],
+      "texte": "weirder. Radar showed us that 'Oumuamua was a very strange object indeed. Up to a quarter mile long, 'Oumuamua is 10 times longer than wide, resembling the classic UFO cigar shape often claimed by witnesses, only on a much more massive scale. Today, [music] no similar natural object has ever been witnessed in space around the Earth, neither comet nor asteroid. As 'Oumuamua, which in Hawaiian [music] means the scout, sped out of our solar system, however, scientists spotted it doing something no natural object should be doing, accelerating."
+    },
+    {
+      "id": 133,
+      "debut": 6563.45,
+      "fin": 6623.55,
+      "temps_estime": true,
+      "titre": "Dégazage, hydrogène solide : les explications naturelles échouent",
+      "resume": "Scientists first proposed that 'Oumuamua was a comet outgassing as the sun heated it, acting like a small rocket engine, but found no evidence of outgassing. A solid hydrogen venting theory was proposed and quickly rebutted as impractical, so none of the theories offered a widely accepted explanation for the acceleration.",
+      "mots_cles": [
+        "outgassing",
+        "comet",
+        "solid hydrogen",
+        "acceleration",
+        "'Oumuamua",
+        "rocket engine effect",
+        "natural explanation",
+        "rebutted theory"
+      ],
+      "texte": "Any object falling toward the sun is expected to accelerate as the sun's gravity pulls on it. But as 'Oumuamua swung past the sun and was on its way out of the solar system, scientists [music] spotted it moving in a way that wouldn't be expected from gravity alone. Scientists were quick to hypothesize that if 'Oumuamua was indeed a remnant of a comet, it could [music] simply be outgassing as the sun's rays heat up its body. Outgassing is the result of a commentary body warming up in the sun, leading to the release of gas. The escaping gases and debris acts much in the same way a rocket engine does, albeit on a smaller scale. It was a simple and very routine solution to the 'Oumuamua mystery, except it didn't fit because try as they [music] might, scientists could find no evidence of outgassing. A new theory was proposed. 'Oumuamua was simply venting solid hydrogen, invisible to us, but that theory was quickly rebutted as becoming completely impractical in the real world. Theory came and theory went, but none could offer a widely accepted answer for 'Oumuamua's acceleration, except for [music] one."
+    },
+    {
+      "id": 134,
+      "debut": 6623.55,
+      "fin": 6707.32,
+      "temps_estime": true,
+      "titre": "Avi Loeb et l'hypothèse d'un vaisseau à voile solaire",
+      "resume": "Harvard astronomer Avi Loeb proposed that 'Oumuamua was an alien ship propelled by a solar sail, since its slight acceleration matches a large sail. Photons hitting a sail give small momentum that over time reaches a fraction of the speed of light with no fuel, and at about 11,000 years per light-year toward Pegasus it could be an automated cargo craft slingshotting past the sun.",
+      "mots_cles": [
+        "Avi Loeb",
+        "Harvard",
+        "solar sail",
+        "alien ship",
+        "photons",
+        "interstellar propulsion",
+        "Pegasus constellation",
+        "automated cargo craft"
+      ],
+      "texte": "Harvard astronomer Avi Loeb looked at the data and proposed a stunning solution. 'Oumuamua was an alien ship being propelled by solar sails. The acceleration witnessed by 'Oumuamua was very slight, but exactly the type of acceleration we'd expect [music] from a very large ship using a massive solar sail. The type of interstellar propulsion method uses extremely thin sheets of material set [music] either to the front or sides of a spacecraft. The sails work exactly the same way wind sails do here on Earth, only with solar radiation rather than wind. While minuscule, the impact of photons on a solar sail imparts a tiny bit of momentum, which over long spans of time can accelerate a ship to a very respectable fraction [music] of the speed of light. The best part is that, unlike regular rockets, you don't have to carry the weight of fuel with you. And as long as you can dip near a star, you'll never run out of fuel. Solar sails aren't the fastest means of interstellar propulsion humanity has theorized, but they are extremely efficient. It'll take 'Oumuamua about 11,000 years to travel one light-year as it speeds away from us and toward the Pegasus constellation. And while that sounds like a very long time, the truth is that [music] for an intergalactic civilization, those sorts of time scales are irrelevant. While not likely a research ship of any kind, as manned ships would want to move faster than 'Oumuamua, it could have very well been an automated cargo craft dipping into our [music] solar system for a speed boost as it slingshotted past our sun."
+    },
+    {
+      "id": 135,
+      "debut": 6707.32,
+      "fin": 6735.06,
+      "temps_estime": true,
+      "titre": "Le problème de la rotation : un vaisseau épave comme le Titanic",
+      "resume": "'Oumuamua was believed to be tumbling on several axes, which does not suit a working ship, but a derelict or destroyed ship or a piece of alien debris could spin like that. The narrator compares it to the alien equivalent of the Titanic drifting past with its solar sail still deployed.",
+      "mots_cles": [
+        "tumbling",
+        "multiple axes",
+        "derelict ship",
+        "alien debris",
+        "Titanic comparison",
+        "solar sail",
+        "'Oumuamua",
+        "alien theory"
+      ],
+      "texte": "There is one problem with this, though, and that's the fact that 'Oumuamua was believed to be tumbling on more than one axis, which wouldn't make much sense for a functional alien ship. However, a derelict or destroyed ship, or perhaps [music] simply a piece of massive alien debris, could easily be spinning on multiple axes the way 'Oumuamua was. We may possibly have just witnessed the alien equivalent of the Titanic zipping past our solar system with its deployed [music] solar sail still propelling it on a never-ending journey through the galaxy."
+    },
+    {
+      "id": 136,
+      "debut": 6735.06,
+      "fin": 6783.22,
+      "temps_estime": true,
+      "titre": "Une forme allongée idéale pour voyager vite",
+      "resume": "No natural comet or asteroid like 'Oumuamua has been observed, and its skinny elongated body is ideal for high-speed travel, since hitting a speck of dust at a fraction of light speed releases energy like a small nuclear explosion. A long thin hull with a hard ablating nose cone reduces that risk.",
+      "mots_cles": [
+        "elongated shape",
+        "dust impact",
+        "small nuclear explosion",
+        "nose cone",
+        "ablation",
+        "fraction of light speed",
+        "interstellar voyage",
+        "spacecraft design"
+      ],
+      "texte": "The alien theory seems out there, but the shape of for itself does lend for some [music] credibility. It just so happens that 'Oumuamua is not only an extremely unusual shape for a natural comet or asteroid. >> [music] >> In fact, none like it have ever been observed, but that its skinny elongated body is perfect for traveling [music] through the cosmos at high speeds. When you're moving at a fraction of the speed of light, even as our own technology today would allow us to accomplish on long interstellar voyages, running into a [music] speck of dust would release energy equivalent to a small nuclear explosion. The best way to avoid strikes like this is to create the main body of your ship, where your inhabitants and equipment is stored, [music] skinny and very long, reducing the forward-facing profile of the ship. You would then protect the ship with an extremely hard nose cone, which would ablate away as you travel through space."
+    },
+    {
+      "id": 137,
+      "debut": 6783.22,
+      "fin": 6825.86,
+      "temps_estime": true,
+      "titre": "Forme de crêpe, zone habitable et passage près de la Terre",
+      "resume": "Other observations suggest 'Oumuamua may be shaped like a very flat pancake, strengthening the light sail case, although its great distance makes data hard to get. It passed through the Sun's Goldilocks zone and came within 15 million miles of Earth, about 63 times the Moon distance, closer than Mars at 33.9 million miles.",
+      "mots_cles": [
+        "pancake shape",
+        "light sail",
+        "Goldilocks zone",
+        "15 million miles",
+        "63 times Moon distance",
+        "Mars",
+        "close approach",
+        "'Oumuamua"
+      ],
+      "texte": "Other observations, however, reveal that 'Oumuamua may have instead been shaped like a very large, [music] very flat pancake, which makes the case for a light sail even stronger. The shape is certainly well outside the bounds of nature, though sadly 'Oumuamua is tumbling an extreme distance from [music] Earth, making it difficult to get accurate data. What's even more curious is that 'Oumuamua seemed to pass through the Goldilocks zone of the Sun, or the area where liquid water and thus life is possible. At its closest, 'Oumuamua came within 15 million miles of Earth, or about 63 times the distance of Earth to the Moon. In astronomical terms, this is basically invading the Earth's personal space. Mars, our closest neighbor, is over twice that distance, 33.9 million miles at its closest to us."
+    },
+    {
+      "id": 138,
+      "debut": 6825.86,
+      "fin": 6857.01,
+      "temps_estime": true,
+      "titre": "Un objet au repos par rapport aux étoiles voisines",
+      "resume": "'Oumuamua was likely at rest compared to nearby stars, so rather than visiting us the solar system crashed into it as it orbits the galaxy's central black hole. The narrator says this rare motion is another place where the alien object theory fills gaps, noting the solar system circles the galaxy in about 230 million years.",
+      "mots_cles": [
+        "at rest relative to stars",
+        "galactic orbit",
+        "supermassive black hole",
+        "230 million years",
+        "rare celestial motion",
+        "alien object theory",
+        "'Oumuamua"
+      ],
+      "texte": "As if 'Oumuamua wasn't strange enough already, observations show that 'Oumuamua was likely at rest compared to other stars around us. Its speed kept it in the same relative position to stars around it. Rather than 'Oumuamua visiting us, the solar system itself crashed into it as we orbit the massive [music] black hole at the center of our galaxy. This type of celestial motion is extremely rare in nature, but once more, the alien object theory fills in some holes that traditional theories don't. The solar system orbits around the galaxy in roughly 230 million years."
+    },
+    {
+      "id": 139,
+      "debut": 6857.01,
+      "fin": 6906.53,
+      "temps_estime": false,
+      "titre": "Une sonde laissée sur notre route : l'oxygène détecté il y a 2,23 milliards d'années",
+      "resume": "An alien civilization using spectroscopy could have detected unnatural oxygen levels in Earth's atmosphere as much as 2.23 billion years ago, so it might have left a probe in our path to observe us stealthily. 'Oumuamua could be one of millions of probes scattered across the galaxy, a process taking millions of years that means nothing to an advanced civilization.",
+      "mots_cles": [
+        "spectroscopy",
+        "atmospheric oxygen",
+        "2.23 billion years ago",
+        "alien probe",
+        "stealthy observation",
+        "millions of probes",
+        "advanced civilization",
+        "time scales"
+      ],
+      "texte": "An alien civilization using the very same spectroscopy techniques we use to analyze faraway planets would have been able to detect unnatural levels of oxygen in our atmosphere as much as 2.23 billion years ago. Concentrations so high that they could have only [music] come from life continuously replenishing oxygen in the atmosphere. Rather than send a probe to us directly, aliens could have simply left one in our path for us to run into eventually, especially if they wanted to gather information about us in a stealthy manner without giving away obvious signs of this probe having working technology aboard. Or Oumuamua may simply be one of millions of similar probes scattered across the galaxy collecting data automatically as solar systems run into them and send it back home. All of this would be an incredibly lengthy process requiring time scales on the millions of years. Yet again, for an advanced enough civilization, these time scales mean nothing. >> [music]"
+    },
+    {
+      "id": 140,
+      "debut": 6906.53,
+      "fin": 6938.24,
+      "temps_estime": true,
+      "titre": "Le consensus scientifique : un objet naturel mais le plus inhabituel jamais vu",
+      "resume": "Most scientists believe 'Oumuamua was natural and publicly oppose the alien claim, yet the data show it was the most unusual object humanity has seen and could have been first proof of intelligent life beyond Earth. The narrator jokes that the government is paying them to say so.",
+      "mots_cles": [
+        "'Oumuamua",
+        "scientific consensus",
+        "natural origin",
+        "most unusual object",
+        "intelligent life",
+        "government joke",
+        "alien origin",
+        "debate"
+      ],
+      "texte": ">> When your technology has progressed far enough that you've survived your first million years, the rest are completely inconsequential. Most scientists still believe Oumuamua was natural and very publicly oppose any claim that Oumuamua was alien in origin. However, [music] the data does indicate that whatever Oumuamua was, it was without a doubt the most unusual object humanity has ever seen and could have been the first proof of intelligent life from beyond Earth. Or maybe that's just what the government is paying us to tell you. Just kidding. Though, that is what we would say if we were secretly run by the government, isn't it?"
+    },
+    {
+      "id": 141,
+      "debut": 6938.24,
+      "fin": 6988.27,
+      "temps_estime": true,
+      "titre": "K2-18b : les signaux du télescope James Webb et les premiers indices d'eau",
+      "resume": "In April 2025 the James Webb Space Telescope picked up signals from exoplanet K2-18b, 124 light-years away, showing chemicals in its atmosphere essential for life as we know it. The planet was found by NASA's Kepler mission in 2015, and Hubble detected apparent water vapor there in 2019, a sign of possible conditions for life.",
+      "mots_cles": [
+        "K2-18b",
+        "James Webb Space Telescope",
+        "exoplanet",
+        "124 light-years",
+        "Kepler mission",
+        "Hubble",
+        "water vapor",
+        "alien life"
+      ],
+      "texte": "For centuries we've looked out to the stars and wondered, are we really alone? Now we might be closer than ever to finding out. In April of 2025, the James Webb Space Telescope [music] picked up mysterious signals from exoplanet K2-18b, located just [music] 124 light years away. Those signals revealed something extraordinary, chemicals in the planet's atmosphere that are essential for life as we know it. While it's [music] not confirmation of aliens just yet, it's the strongest clue we've ever had that life might not just exist, but might be common in the galaxy. The K2-18b exoplanet was discovered by NASA's Kepler mission in 2015. Then in 2019, the Hubble Space Telescope detected what appeared to be water vapor in the atmosphere. And where there's water, there just might be life, or at least the conditions to support it."
+    },
+    {
+      "id": 142,
+      "debut": 6988.27,
+      "fin": 7038.94,
+      "temps_estime": true,
+      "titre": "Diméthylsulfure et diméthyldisulfure : des molécules produites par la vie sur Terre",
+      "resume": "James Webb identifies molecules by the wavelengths they absorb as starlight passes through an atmosphere. On K2-18b astronomers believe they found dimethyl sulfide (DMS) and dimethyl disulfide (DMDS), compounds produced only by life on Earth, at concentrations thousands of times higher, which suggests a planet teeming with life and offers a new method to detect habitable worlds.",
+      "mots_cles": [
+        "dimethyl sulfide",
+        "DMS",
+        "DMDS",
+        "biosignatures",
+        "James Webb Space Telescope",
+        "starlight spectroscopy",
+        "K2-18b",
+        "thousands of times stronger"
+      ],
+      "texte": ">> [music] >> Recently, the James Webb Space Telescope launched in 2021 was directed towards the planet. By observing how starlight passes through the planet's atmosphere, the telescope allowed scientists to identify [music] specific molecules based on the unique wavelengths they absorb. While looking at K2-18b, astronomers believe they have identified two chemicals, dimethyl sulfide or DMS and dimethyl disulfide DMDS, which are compounds that on Earth are only produced by life. The concentrations also seem to be thousands of times stronger than on Earth, which might suggest that the exoplanet is teeming with life. This discovery also provides us with a new potential method for detecting habitable and habituated planets. Moreover, considering how close K2-18b is to us in the enormity of the galaxy, it could suggest that we are far from alone in the universe."
+    },
+    {
+      "id": 143,
+      "debut": 7038.94,
+      "fin": 7082.13,
+      "temps_estime": true,
+      "titre": "L'étoile K2-18, une naine rouge, et sa voisine K2-18c",
+      "resume": "K2-18b sits in the Leo constellation and orbits the dim red dwarf K2-18 (EPIC 201912552). Red dwarfs make up about 73% of stars in the Milky Way, burn cooler and fainter than the sun and are invisible to the naked eye, and the star also hosts K2-18c, probably a gas-rich Neptune-like planet with a 9-day orbit.",
+      "mots_cles": [
+        "K2-18",
+        "red dwarf",
+        "Leo constellation",
+        "EPIC 201912552",
+        "73% of stars",
+        "K2-18c",
+        "Neptune-like planet",
+        "Milky Way"
+      ],
+      "texte": "K2-18b didn't exactly top the list of anyone's likely home for alien life. From Earth's point of view, it sits in the Leo constellation orbiting a dim red dwarf star known as K2-18 or more formally EPIC 201912552. [music] Red dwarfs are the quiet workhorses of the universe, making up about 73% of stars in the Milky Way. They burn cooler, slower, and fainter than our sun with low mass, low pressure, [music] and a relatively sluggish fusion rate. And you won't spot one in the night sky with the naked eye. The star has [music] two planetary companions, the first of which is K2-18b. The other planet, K2-18c, is probably a gas-rich Neptune-like planet with an orbital period of just 9 days."
+    },
+    {
+      "id": 144,
+      "debut": 7082.13,
+      "fin": 7142.49,
+      "temps_estime": true,
+      "titre": "Caractéristiques de K2-18b : sous-Neptune ou super-Terre en zone habitable",
+      "resume": "K2-18b is a transiting exoplanet with nine times Earth's mass, 2.37 times Earth's radius and a 32.9-day orbit, classed as a sub-Neptune with a high-pressure ice mantle and thin hydrogen-rich atmosphere. It is also called a super-Earth because it lies in the habitable zone at 0.1429 AU from its cooler red dwarf star.",
+      "mots_cles": [
+        "K2-18b",
+        "transiting exoplanet",
+        "sub-Neptune",
+        "super-Earth",
+        "habitable zone",
+        "orbital period 32.9 days",
+        "0.1429 AU",
+        "mass nine times Earth"
+      ],
+      "texte": "K2-18b [music] is a transiting exoplanet, which are planets that orbit stars outside of our solar system and between the Earth and its sun, increasing its observability from [music] the Earth. K2-18b has a mass nine times that of Earth, and it has a radius 2.37 times that of Earth. It has an orbital period of 32.9 [music] days. Because of its size, K2-18b is classed as a sub-Neptune. The planet's interior likely contains a large mantle of high-pressure ice, like Neptune, with a thinner hydrogen-rich atmosphere. For this reason, these large planets [music] often aren't considered candidates for life. But, K2-18b is also called a super-Earth because the distance from [music] its star means that it sits in the habitable zone, where temperatures that create liquid water could exist. Because its red dwarf sun is significantly cooler than our own, K2-18b sits significantly [music] closer to its star with an orbital radius of 0.1429 astronomical units, or AUs, compared to the Earth's 1 AU from the sun."
+    },
+    {
+      "id": 145,
+      "debut": 7142.49,
+      "fin": 7224.61,
+      "temps_estime": true,
+      "titre": "Nikku Madhusudhan et les mondes Hycean",
+      "resume": "The James Webb project led by Professor Nikku Madhusudhan of the University of Cambridge found water vapor, methane and carbon dioxide but no ammonia on K2-18b, suggesting deep oceans under a hydrogen atmosphere. His Hycean worlds project, proposed in 2021, targets planets with thick hydrogen atmospheres over global oceans, where biosignatures are easier to detect.",
+      "mots_cles": [
+        "Nikku Madhusudhan",
+        "University of Cambridge",
+        "Hycean worlds",
+        "ocean planets",
+        "methane",
+        "carbon dioxide",
+        "no ammonia",
+        "biosignatures"
+      ],
+      "texte": "All of this is why the James Webb Space Telescope project, [music] led by Professor Nikku Madhusudhan from the University of Cambridge, were interested in K2-18b. Initial observations indicate that the hydrogen-rich planet [music] might have water vapor in the atmosphere, as well as methane and carbon dioxide, but without the presence of ammonia. This could be suggestive of large oceans deeper than those on Earth underneath a hydrogen atmosphere. Madhusudhan leads the Hycean [music] worlds project, a cutting-edge initiative focused on studying exoplanet atmospheres. His team combines advanced telescope observations, powerful [music] atmospheric retrieval techniques, and in-depth modeling of the physical and chemical processes at work in exoplanet atmospheres, interiors, [music] and oceans. Using the James Webb Space Telescope, Madhusudhan's team is zeroing in on Hycean worlds, a [music] class of exoplanets they proposed in 2021. These planets are defined by thick hydrogen-rich atmospheres layered over vast global oceans, and K2-18b appears [music] to fit the bill. The presence of liquid water hints at the potential for life, but there is another advantage, too. Their hydrogen-rich atmospheres make biosignatures [music] easier to detect than on Earth-like planets, giving us a clearer view into their potential habitability. The potential oceans on K2-18b could be the source of the life signs that scientists [music] now believe they may have identified."
+    },
+    {
+      "id": 146,
+      "debut": 7224.61,
+      "fin": 7277.42,
+      "temps_estime": true,
+      "titre": "L'origine possible du DMS et les limites de K2-18b",
+      "resume": "Most DMS on Earth comes from phytoplankton and is associated with sea air, while DMDS is made by bacteria, fungi, plants and animals and rose in Australia after bushfires. K2-18b seems tidally locked with extreme temperatures that could disrupt life, but because sub-Neptunes are the most common planets in the galaxy, life there would greatly increase the number of potential life-supporting planets.",
+      "mots_cles": [
+        "phytoplankton",
+        "DMS",
+        "DMDS",
+        "tidally locked",
+        "extreme temperatures",
+        "sub-Neptunes",
+        "common planets",
+        "habitable planets"
+      ],
+      "texte": "This seems even more likely since most of the DMS produced on Earth comes from phytoplankton, microscopic marine algae. In marine environments, it's often associated with the smell of sea air. DMDS can be produced by a variety of different organisms, including bacteria, fungi, plants, and [music] animals. For example, an increase in DMDS was detected in Australia following the burning of biomass [music] and bushfires. However, K2-18b seems to be tidally locked, which means that one side of the planet is always facing its star. This means extreme temperatures on either side [music] of the planet, which could disrupt patterns of life. While the potential of locating life just on K2-18b is exciting, the discovery could have further implications. While we don't have any sub-Neptunes [music] in our solar system, they are the most common type of planet in the known galaxy. If they can support life, the number of potential life-supporting planets [music] has significantly increased."
+    },
+    {
+      "id": 147,
+      "debut": 7277.42,
+      "fin": 7312.7,
+      "temps_estime": true,
+      "titre": "Les canaux de Mars de Schiaparelli et Lowell",
+      "resume": "The scientific search for life beyond Earth began in the late 19th century when Giovanni Schiaparelli reported channels on Mars. Percival Lowell popularized the idea with maps of supposed artificial canals built by a Martian civilization, sparking public fascination until stronger telescopes showed they were optical illusions or natural features.",
+      "mots_cles": [
+        "Giovanni Schiaparelli",
+        "Percival Lowell",
+        "Mars canals",
+        "Martian civilization",
+        "optical illusions",
+        "19th century",
+        "search for extraterrestrial life",
+        "telescopes"
+      ],
+      "texte": "While the signals from K2-18b are exciting news, it's part of our longer history of [music] the search for life on other planets. The scientific search for life beyond Earth dates back to the late 19th century, when astronomer Giovanni Schiaparelli reported seeing channels on Mars through his [music] telescope. Percival Lowell further popularized this idea, drawing intricate maps of what he believed to be artificial canals constructed by a Martian civilization. This sparked widespread public fascination [music] with life on Mars, although later and more powerful telescopes revealed these canals were optical illusions or natural [music] features."
+    },
+    {
+      "id": 148,
+      "debut": 7312.7,
+      "fin": 7340.38,
+      "temps_estime": true,
+      "titre": "Les expériences biologiques de Viking en 1976 et Gilbert Levin",
+      "resume": "NASA's Viking landers ran biology experiments on Mars in 1976, and Gilbert Levin's labeled release experiment gave results he read as microbial metabolism in Martian soil. The consensus favored non-biological chemical reactions because other instruments found no organic molecules, but the topic remains debated.",
+      "mots_cles": [
+        "Viking landers",
+        "1976",
+        "Gilbert Levin",
+        "labeled release experiment",
+        "Martian soil",
+        "microbial metabolism",
+        "organic molecules",
+        "debate"
+      ],
+      "texte": "NASA's Viking landers conducted several biology experiments on the Martian surface in 1976. The labeled release experiment designed by Gilbert Levin yielded results that were interpreted [music] by him as evidence of metabolism by microbial life in the Martian soil. However, the scientific consensus leaned toward [music] non-biological chemical reactions as the more likely explanation, especially given the lack of detected organic molecules by other Viking instruments. But, this remains a debated topic."
+    },
+    {
+      "id": 149,
+      "debut": 7340.38,
+      "fin": 7368.49,
+      "temps_estime": true,
+      "titre": "La météorite martienne de l'Antarctique et ses possibles bactéries fossiles",
+      "resume": "A meteorite found in Antarctica in 1996 and believed to come from Mars contained microscopic structures that a NASA team suggested could be fossilized bacteria. The claim caused excitement and skepticism, non-biological explanations were proposed, and the scientific consensus now leans away from it being proof of past Martian life.",
+      "mots_cles": [
+        "Mars meteorite",
+        "Antarctica",
+        "1996",
+        "fossilized bacteria",
+        "NASA team",
+        "microscopic structures",
+        "skepticism",
+        "past Martian life"
+      ],
+      "texte": "A meteorite discovered in Antarctica in 1996, believed to have originated from Mars, contained microscopic [music] structures that a NASA team suggested could be fossilized bacteria. This claim generated significant excitement, [music] but was met with considerable skepticism within the scientific community. Alternative non-biological explanations for the structures [music] and organic molecules in the meteorite have been proposed, and today the scientific consensus leans away from this being proof of past Martian life."
+    },
+    {
+      "id": 150,
+      "debut": 7368.49,
+      "fin": 7432.01,
+      "temps_estime": false,
+      "titre": "Les rovers martiens, Curiosity et la recherche de vie passée",
+      "resume": "From 2004 rovers found evidence of past liquid water on Mars, such as hydrated minerals and ancient lake and stream features. In 2012 Curiosity landed in Gale Crater, a former lake bed, detecting organic molecules, evidence of freshwater lakes with key elements for life, and seasonal methane changes, and it is collecting samples for a future mission.",
+      "mots_cles": [
+        "Mars rovers",
+        "Curiosity",
+        "Gale Crater",
+        "organic molecules",
+        "past liquid water",
+        "methane fluctuations",
+        "habitable Mars",
+        "sample return"
+      ],
+      "texte": "Starting in 2004, [music] rovers found evidence of past liquid water on Mars, including hydrated minerals and geological [music] features indicative of ancient lakes and streams. This significantly strengthened the idea that Mars was once a more habitable planet. [music] In 2012, an advanced Curiosity rover landed in Gale Crater, a site believed to have once [music] been a lake bed. Curiosity detected various organic molecules in Martian rocks, including [music] thiophenes, benzene, toluene, and small carbon chains. While these are the building blocks of life, they can also [music] be formed through non-biological processes. The rover also found further evidence of past freshwater lakes [music] with neutral pH and the presence of key elements for life, specifically carbon, hydrogen, oxygen, phosphorus, [music] sulfur, and nitrogen. Curiosity has also detected seasonal fluctuations in the levels [music] of methane in Gale Crater's atmosphere, and it's currently gathering samples to be collected by a future mission as [music] the search for life on Mars continues. Hopefully, this will significantly contribute to the ongoing discussion [music] about the potential of life on Mars."
     }
   ]
 }

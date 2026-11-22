@@ -23,3 +23,11 @@ Départ : début de la vidéo (aucun segments.json existant). speech.json : 5233
 
 ## Point d'arrêt
 Dernière ligne traitée : 2738. Prochaine étape : reprendre à la ligne 2739 (« [music] Don't worry, we can do way better than a black hole that sucks in 300 suns ») avec l'id 110. Style des titres : français, courts, descriptifs ; résumés et mots-clés en anglais ; un segment fait en moyenne 40 à 80 s (11 s à 111 s).
+
+## Reprise à la ligne 2739 (nouvel agent)
+Départ : segments.json existant, complet=false, 2738 lignes traitées, 109 segments. Vérifié OK (ids, temps, textes bout à bout) avant reprise. Style conservé : titres en français, résumés et mots-clés en anglais, 5 à 10 mots-clés. Coupures possibles en milieu de ligne (temps estimé au prorata des mots, temps_estime=true).
+
+- Tranche 4 : lignes 2739 à 3741, 5479.47 s à 7432.01 s (environ 32,5 min), 41 segments (#110 à #150). Vérification OK. Contenu : fin de l'épisode sur l'explosion de l'amas (détection X et radio, Ophiuchus, taille, Big Bang) (#110 à #118), épisode sur les bulles de rien et l'espace-temps (#119 à #130), épisode sur 'Oumuamua et l'hypothèse d'un vaisseau (#131 à #140), épisode sur K2-18b et la recherche de vie, dont l'histoire de Mars (#141 à #150). Le dernier segment finit à la fin de la ligne 3741 (« life on Mars. »).
+
+## Point d'arrêt
+Dernière ligne traitée : 3741. Prochaine étape : reprendre à la ligne 3742 (liste d'exoplanètes potentiellement habitables : HD 20794d, Gliese 12b, Kepler-62f, Kepler-442b, TRAPPIST-1) avec l'id 151.
