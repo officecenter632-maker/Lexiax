@@ -4,7 +4,8 @@ Vidéo : « World War 3 Protocol. Why Global Nuclear Annihilation Is Inevitable.
 
 ## Journal des tranches
 - Départ : début de la vidéo (segments.json absent).
-- Tranche 1 : lignes 1 à 985 sur 5891, 0 à 1999,39 s (33,3 min), 36 segments (id 1 à 36). Fin d'idée choisie à la ligne 985 (« ...and it is still not enough. »), d'où une tranche un peu longue. Prochaine étape : reprendre à la ligne 986.
+- Tranche 1 : lignes 1 à 985 sur 5891, 0 à 1999,39 s (33,3 min), 36 segments (id 1 à 36). Fin d'idée choisie à la ligne 985 (« ...and it is still not enough. »), d'où une tranche un peu longue.
+- Tranche 2 : lignes 986 à 1865 sur 5891, 1999,39 à 3712,97 s (28,6 min), 36 segments (id 37 à 72). Contenu : fin du scénario chinois et hiver nucléaire, puis la partie « ce que Hollywood se trompe sur l'apocalypse nucléaire » (mythes : frigo en plomb, Dead Hand, fallout, mutants, EMP, Mad Max), puis les effets d'une explosion de 100 kt sur le corps humain par distance (ground zero, 1000 ft, 0,5 mile, 1 mile, 5 miles, effets à long terme). Fin d'idée à la ligne 1865 (« ...far beyond normal aging. »). Prochaine étape : reprendre à la ligne 1866 (« Silo doors groan open », début du scénario « Zero hour » de guerre nucléaire mondiale).
 
 ## Décisions prises
 - Segmentation par idées : une idée = un point (étape du scénario, incident historique, système d'armes, étape du scénario chinois). Les passages de transition de quelques secondes sont rattachés à l'idée voisine.

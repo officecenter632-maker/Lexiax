@@ -4,12 +4,12 @@
   "titre_video": "World War 3 Protocol. Why Global Nuclear Annihilation Is Inevitable.",
   "duree_s": 11483.66,
   "avancement": {
-    "lignes_traitees": 985,
-    "fin_traitee_s": 1999.39,
+    "lignes_traitees": 1865,
+    "fin_traitee_s": 3712.97,
     "nb_lignes_total": 5891,
     "complet": false
   },
-  "nb_segments": 36,
+  "nb_segments": 72,
   "segments": [
     {
       "id": 1,
@@ -694,6 +694,690 @@
         "nuclear math"
       ],
       "texte": "No defensive system can solve the intractable math of all-out nuclear warfare, which fundamentally favors the attacker. Building and launching 300 nuclear warheads costs far less than building the systems required to stop 300 warheads. China has constructed [music] one of the most sophisticated missile defense networks on Earth with early warning satellites, >> [music] >> phased array radars, and some of the most cutting-edge interceptors in existence, and it is still not enough."
+    },
+    {
+      "id": 37,
+      "debut": 1999.39,
+      "fin": 2043.52,
+      "temps_estime": true,
+      "titre": "Deterrence is the only defense; China's societal collapse",
+      "resume": "No nation's defenses are enough, not America's, Russia's or China's, and the only defense that works is deterrence. The two surviving Chinese submarines learn their civilization was erased: 200 million displaced people, contaminated farmland and undistributable food, with a further 50 to 70 million Chinese civilians dying from injuries, starvation and disease in the following months.",
+      "mots_cles": [
+        "deterrence",
+        "societal collapse",
+        "200 million displaced",
+        "contaminated farmland",
+        "famine",
+        "Chinese civilians",
+        "submariners",
+        "nuclear aftermath"
+      ],
+      "texte": "It was never going to be enough. No nation's defenses are, not America's, not Russia's, not China's. The only defense [music] that works is deterrence. Speaking of which, remember those two submarines we mentioned, still lurking in the Pacific? They're still operational, armed, [music] and now they just watched their entire civilization get erased. Within days of the attack on China, the submariners aboard those vessels [music] hear about the millions of survivors who aren't dying from radiation or starvation confronting the new horror of complete societal collapse. [music] They hear about the 200 million displaced people with nowhere to go. All the agricultural land that is now contaminated. What little food exists can't be distributed, and in the following months a further 50 to 70 million Chinese civilians will die from injuries, starvation, and disease. >> [music] >>"
+    },
+    {
+      "id": 38,
+      "debut": 2043.52,
+      "fin": 2083.48,
+      "temps_estime": true,
+      "titre": "China's retaliation: 24 JL-3 missiles hit American cities",
+      "resume": "The submariners launch everything at American cities: 24 JL-3 missiles with three to five warheads each. Even if only 20 of 100 to 150 warheads get through, that kills tens of millions of Americans and ruins the US economy for decades, turning New York, Los Angeles, Washington, Chicago and Houston into nuclear furnaces.",
+      "mots_cles": [
+        "JL-3 missiles",
+        "Chinese retaliation",
+        "American cities",
+        "New York",
+        "Los Angeles",
+        "Washington D.C.",
+        "tens of millions dead",
+        "second strike"
+      ],
+      "texte": "Those same submariners spearhead China's response. They launch everything they have at American cities, which amounts to 24 JL-3 nuclear missiles with as many as three, and some experts say up to five warheads each. Even if they only manage to get [music] 20 of the 100 to 150 warheads through American defenses, that is more than enough to kill tens of millions of Americans and the US economy for decades. New York, [music] Los Angeles, Washington D.C., Chicago, Houston, each becomes a nuclear [music] furnace. The victory over China suddenly looks a lot less, well, victorious [music] when American cities are turned into piles of glass and ash, too, but it would get [music] worse."
+    },
+    {
+      "id": 39,
+      "debut": 2083.48,
+      "fin": 2107.37,
+      "temps_estime": true,
+      "titre": "Nuclear winter: 2 billion deaths from global famine",
+      "resume": "Soot and debris injected into the atmosphere would block sunlight across the northern hemisphere, dropping global temperatures within months and collapsing growing seasons. Crops fail worldwide, the global economy disintegrates and models suggest at least 2 billion more people die from nuclear winter famine.",
+      "mots_cles": [
+        "nuclear winter",
+        "soot",
+        "blocked sunlight",
+        "crop failure",
+        "global famine",
+        "2 billion deaths",
+        "growing seasons",
+        "global economy collapse"
+      ],
+      "texte": "The soot and debris injected into the atmosphere would block sunlight across the northern hemisphere. Global temperatures would drop by a few degrees within months. Growing [music] seasons would collapse and crops would fail worldwide. The global economy already reeling from the strikes [music] on China and the US now completely disintegrates. Models suggest that another 2 billion people minimum die globally from the resulting nuclear winter induced famine."
+    },
+    {
+      "id": 40,
+      "debut": 2107.37,
+      "fin": 2131.13,
+      "temps_estime": true,
+      "titre": "Can China defend? Even the winner loses",
+      "resume": "China might defend against a limited strike but not a full-scale assault, and nobody can, so even the winner of such a scenario loses. Movies promise a nuclear winter, a Mad Max desert or a wasteland of mutated zombies, but the real outcome is harder to survive.",
+      "mots_cles": [
+        "nuclear defense",
+        "limited strike",
+        "full-scale assault",
+        "even the winner loses",
+        "nuclear winter",
+        "Mad Max",
+        "mutated zombies",
+        "Hollywood"
+      ],
+      "texte": "So, can China defend against a nuclear attack? Against a limited strike, [music] possibly. Against a full-scale assault, no, but nobody can. [music] At the end, even the winner of such a scenario invariably loses. A never-ending nuclear winter, a Mad Max desert hellscape, or a wasteland full of mutated zombies. Movies promise all three, but the real answer is much harder to survive."
+    },
+    {
+      "id": 41,
+      "debut": 2131.13,
+      "fin": 2159.64,
+      "temps_estime": true,
+      "titre": "Hollywood vs reality: the detonation",
+      "resume": "Starting with the detonation as movies show it: a 100-million-degree Celsius fireball and a bright flash that can seriously damage eyes, then a shockwave of crushing air pressure and winds, and a surface burst that cuts a huge crater. The narrator says that is still not the worst part.",
+      "mots_cles": [
+        "nuclear detonation",
+        "thermal blast",
+        "100 million degrees",
+        "flash blindness",
+        "shockwave",
+        "crater",
+        "Hollywood myths",
+        "surface burst"
+      ],
+      "texte": "This is everything Hollywood gets wrong about the nuclear apocalypse. Let's start with the big [music] moment, the detonation. You've seen it in every movie that features a nuke going off. First comes the thermal blast, a 100 million degrees Celsius fireball that's accompanied by a bright flash of light. One that could seriously damage your eyes if you look at it without proper protection. Then there's the shockwave of crushing air pressure and winds along with the surface burst that cuts a huge crater into [music] the ground. And that is still not the worst part."
+    },
+    {
+      "id": 42,
+      "debut": 2159.64,
+      "fin": 2213.35,
+      "temps_estime": true,
+      "titre": "The lead-lined fridge myth: Indiana Jones and the nuclear blast",
+      "resume": "Hiding in a lead-lined fridge like Indiana Jones in Kingdom of the Crystal Skull would not work: lead would need to be several feet thick against radiation, the thermal blast would cook you and the shockwave would hurl the fridge back down at around 760 mph. The fridge would most likely be annihilated by the thermal blast itself.",
+      "mots_cles": [
+        "lead-lined fridge",
+        "Indiana Jones",
+        "Kingdom of the Crystal Skull",
+        "radiation shielding",
+        "thermal blast",
+        "shockwave 760 mph",
+        "doomsday prepper",
+        "movie myth"
+      ],
+      "texte": "But we know what you're really thinking. You shelled out for that vintage lead-lined fridge as part of your doomsday prepper strategy, ignoring the whole poisonous lead near your food issue. So, could you hide in that thing and ride out the blast like Indiana Jones in the Kingdom of the Crystal Skull? Haven't seen it? Don't worry, it's completely forgettable. But no, you could not survive a nuclear blast in the fridge. [music] And this is where the movie logic falls apart. For starters, you'd actually need the lead encasing you to be several feet thick to provide any meaningful protection from radiation. And even then, you'd still likely get cooked by the initial thermal blast. And then there's the shockwave that would be traveling at the speed of sound. So, your cooked body would be launched into the air and then come hurtling back down at around 760 mph. Anything that was left of you would be reduced to a fine liquid [music] paste. Though really, you'd be unlikely to have even gotten that far. The fridge would most likely be annihilated in the thermal blast itself."
+    },
+    {
+      "id": 43,
+      "debut": 2213.35,
+      "fin": 2243.59,
+      "temps_estime": true,
+      "titre": "The two-phase shockwave: the negative phase pulls debris back in",
+      "resume": "Movies show only the positive phase of the shockwave, where the wave flows outward. A negative phase follows, where the blast's low-pressure bubble at its center sucks debris back in, so even if you were blown out you would likely be dragged straight back.",
+      "mots_cles": [
+        "shockwave phases",
+        "positive phase",
+        "negative phase",
+        "low pressure bubble",
+        "blast physics",
+        "debris suction",
+        "movie inaccuracy",
+        "nuclear explosion"
+      ],
+      "texte": "But let's just say it wasn't, so we can demonstrate another thing that movies get wrong about nuclear explosions. The shockwave actually has two phases, one positive, that's where the wave flows out, and this is the part the movie show, and one negative, where it flows back in. This is the part that they don't, and that's because the blast creates a low pressure bubble at its center, sucking debris back in after the initial shockwave throws everything outward. Even if you somehow get blown out, odds are you'd get dragged straight back in."
+    },
+    {
+      "id": 44,
+      "debut": 2243.59,
+      "fin": 2310.49,
+      "temps_estime": true,
+      "titre": "Firestorms: a burning city consumes itself",
+      "resume": "Movies imply survivors crawl out into a post-apocalyptic city, but a nuclear blast starts a thousand fires at once as the thermal pulse ignites everything flammable for miles. The fires merge into firestorms with hurricane-force winds, as in Dresden and Tokyo in World War II, so there is no barren wasteland, only heat, smoke, collapsing buildings and walls of fire.",
+      "mots_cles": [
+        "firestorm",
+        "thermal pulse",
+        "Dresden",
+        "Tokyo",
+        "hurricane-force winds",
+        "burning city",
+        "post-apocalyptic myth",
+        "World War II"
+      ],
+      "texte": "So, if the blast itself doesn't [music] kill you, Hollywood usually implies you have made it. The explosion fades and the dust and debris settles, and survivors crawl out into a post-apocalyptic city. But that is just a scriptwriter's fantasy. The reality is a lot more destructive and terrifying. A nuclear explosion doesn't end with one blast. It starts a thousand fires all at once. The thermal pulse ignites anything flammable within miles. Cars, buildings, trees, they're all going up in flames. Everything will be burning all across the city, [music] and all at the same time. These blazes will eventually merge into massive firestorms that create their own hurricane force winds, pulling in oxygen, debris, and people. The city starts consuming itself. It happened in Dresden and Tokyo during World War II, and nuclear weapons are extremely effective at triggering it. This is the part the movies rarely show. Because surviving the blast doesn't mean safety, it often means being trapped in a burning city where the air itself becomes a weapon. There is no barren wasteland. The immediate aftermath is heat, smoke, collapsing buildings, and walls of fire. And this is only in the first few hours."
+    },
+    {
+      "id": 45,
+      "debut": 2310.49,
+      "fin": 2387.62,
+      "temps_estime": true,
+      "titre": "The Dead Hand myth: Dr. Strangelove vs the real Perimeter system",
+      "resume": "Movies like Dr. Strangelove and By Dawn's Early Light suggest a US first strike automatically triggers Russia's Dead Hand. But Dead Hand was never a Russian doctrine term: author David E. Hoffman coined it in 2009, and the real Perimeter system from the 1980s was an emergency backup that was always human activated, so nuclear war is still driven by human decisions.",
+      "mots_cles": [
+        "Dead Hand",
+        "Perimeter system",
+        "Dr. Strangelove",
+        "By Dawn's Early Light",
+        "David E. Hoffman",
+        "human activated",
+        "doomsday machine",
+        "nuclear myths"
+      ],
+      "texte": "Well, let's go to Hollywood, and say [music] you weren't blown up completely or vaporized in the opening salvo. You might be wondering who fired first. Movies love the idea that once the first nuke flies, the rest are automatic. And if you believe movies like Dr. Strangelove or HBO's mini-series by Dawn's Early Light, a US first strike would automatically trigger Russia's nuclear response. It's called the Dead Hand and it means [music] that the world would be doomed to a radioactive hell. Except, that doesn't really sum up the true nature of the Dead Hand. It's just a version of it to make movies feel more dramatic. For starters, the Dead Hand was never a real designation in Russian military doctrine. It was a cool term cooked up by author David E. Hoffman in 2009 for his book of the same name. What the Russians actually had was called the Perimeter system. It was developed in the 1980s when they were worried a sudden [music] American nuclear attack might take out their central command, leaving them unable to retaliate. Rather than the automatic Doomsday machine everyone is panicking about in Dr. Strangelove, the Perimeter system was actually more of an emergency backup. It ensured that Russia wouldn't immediately lose all leverage in the event of a surprise attack. And this system was always human activated, not automatic. So, nuclear war isn't an unstoppable machine, it is still driven by human decisions."
+    },
+    {
+      "id": 46,
+      "debut": 2387.62,
+      "fin": 2425.28,
+      "temps_estime": true,
+      "titre": "The Dark Knight Rises mushroom cloud and fallout",
+      "resume": "The big white mushroom cloud in The Dark Knight Rises is formed from water particulates evaporating under the heat of the blast, so Christopher Nolan gets some credit. Unless the wind direction was unlucky, Gotham would not need to worry about fallout because of the over-water detonation.",
+      "mots_cles": [
+        "Dark Knight Rises",
+        "Christopher Nolan",
+        "Gotham",
+        "mushroom cloud",
+        "white cloud",
+        "water particulates",
+        "fallout",
+        "Batman"
+      ],
+      "texte": "And it's not just the blast radius you have to worry about because there is another favorite movie [music] trick. If you see that big white mushroom cloud looming on the horizon, you might start to worry about the fallout. Just like every online commentator claims should have happened to Gotham at the end of The Dark Knight Rises. But this is where we've got to give Christopher Nolan some credit. When Batman detonates [music] the nuclear weapon that was used to hold the city hostage, the mushroom cloud is white. It's formed out of all the water particulates evaporating under the immense heat and force of the explosion. Unless Gotham City got really unlucky with the wind direction, they would actually be safe and they wouldn't need to worry about the fallout at all."
+    },
+    {
+      "id": 47,
+      "debut": 2425.28,
+      "fin": 2466.2,
+      "temps_estime": true,
+      "titre": "What radioactive fallout is",
+      "resume": "Radioactive fallout is debris irradiated by a nuclear blast and carried a great distance by the force of the explosion, so a powerful enough bomb can spread radioactive dust to deliver fatal doses several cities away. Batman's over-water detonation and low-range bomb meant Gotham's citizens would not see their hair fall out within weeks, but the film's stated 6-mile blast radius means Batman could not have escaped in time.",
+      "mots_cles": [
+        "radioactive fallout",
+        "irradiated debris",
+        "radioactive dust",
+        "fatal radiation dose",
+        "Gotham",
+        "Batman",
+        "6-mile blast radius",
+        "over-water detonation"
+      ],
+      "texte": "Which raises an important question, what actually is fallout? Put simply, radioactive fallout is debris irradiated by the blast of the nuclear explosion, which is then carried a great distance by the force of the explosion itself. It means the danger doesn't stop at ground zero. In other words, a powerful enough bomb could spread radioactive dust far beyond the blast enough to deliver fatal radiation doses several cities away. Batman's over-the-water detonation and the relatively low range of the bomb itself meant the citizens of Gotham wouldn't be seeing their hair fall out in a week or two. >> [music] >> So, where is the myth in all this? Because there is one. Given the bomb in the movie had a stated blast radius of 6 mi, there's no way Batman would have gotten out of the danger zone in time."
+    },
+    {
+      "id": 48,
+      "debut": 2466.2,
+      "fin": 2501.94,
+      "temps_estime": true,
+      "titre": "The fallout shelter myth: shelters last about two weeks",
+      "resume": "Hollywood and video games suggest surviving means hiding in elaborate fallout shelters for generations while radiation decays, which is a myth. Fallout shelters are designed to be occupied for about two weeks and only shield against lingering fallout, not the blast, which would require being miles underground if a bomb drops on top of you.",
+      "mots_cles": [
+        "fallout shelters",
+        "two weeks",
+        "shelter myth",
+        "radioactive fallout",
+        "underground survival",
+        "blast survival",
+        "Hollywood",
+        "video games"
+      ],
+      "texte": "Hollywood and video games suggest that surviving a nuclear apocalypse means hiding in elaborate fallout shelters for generations while the radiation outside slowly decays. But, that is just another one of those big, fat nuclear myths. And here's why it doesn't add up. Fallout shelters are actually designed to be occupied [music] for about 2 weeks. If a nuclear bomb drops on top of you, you would need to be miles underground to survive it. Fallout shelters are not designed to help you survive the blast of a nuclear weapon. They are just to shield you from the radioactive fallout itself while it is still lingering in the air. So, surviving the blast and the fallout means humanity has a chance."
+    },
+    {
+      "id": 49,
+      "debut": 2501.94,
+      "fin": 2537.77,
+      "temps_estime": true,
+      "titre": "The mutant babies myth: the 1991 atomic bomb survivors study",
+      "resume": "Movies from Mad Max to Hell Comes to Frogtown suggest nuclear war produces freakish mutant babies, but a 1991 study titled The Children of Atomic Bomb Survivors: A Genetic Study found no statistically significant increase in chromosome abnormalities among the children of the exposed.",
+      "mots_cles": [
+        "mutant babies",
+        "genetic study",
+        "1991 study",
+        "atomic bomb survivors",
+        "chromosome abnormalities",
+        "Mad Max",
+        "Hell Comes to Frogtown",
+        "radiation myth"
+      ],
+      "texte": "Or do they? From our time seeing countless movies from Mad Max to Hell Comes to Frog Town, we know that the nuclear apocalypse would lead to surviving humans having freakish mutant babies. Or worse, ones that can't even survive birth itself. Would the mutants inherit the Earth? Or would we not be able to breed at all? As you probably guessed, there's another myth right there, and it's been disproven by science. To quote a 1991 study titled [music] The Children of Atomic Bomb Survivors: A Genetic Study, \"The present results show that there are no statistically significant [music] increases in the frequency of chromosome abnormalities among the children of the exposed.\" [music]"
+    },
+    {
+      "id": 50,
+      "debut": 2537.77,
+      "fin": 2613.66,
+      "temps_estime": true,
+      "titre": "Radiation and animals: Chernobyl, Fukushima and Godzilla myths",
+      "resume": "Hollywood promises nuclear power creates monsters, but Chernobyl and Fukushima show real mutations mean aggressive cancerous tumors and quick, painful deaths, not giant size. Biologist Timothy Mousseau, who studied nuclear sites for 25 years, describes small mutations like extra digits and asymmetries, and Chernobyl tree frogs have 44% darker skin, but there are no radioactive superpowers.",
+      "mots_cles": [
+        "Chernobyl",
+        "Fukushima",
+        "Godzilla",
+        "Timothy Mousseau",
+        "radiation mutations",
+        "tree frogs",
+        "cancerous tumors",
+        "radiation adaptation"
+      ],
+      "texte": "But, what about animals or other creatures? From the giant insect movies of the 1950s and '60s to Godzilla himself, Hollywood has promised that nuclear power creates monsters. But, is there any truth to that? Thankfully, in the bleakest way possible, we have Chernobyl and Fukushima as real-world test cases for what long-term radiation does to life. Severe mutations would not be becoming freakishly large or getting atomic breath. Real life is much crueler. Instead, [music] they'd be getting aggressive cancerous tumors. So, animals with extreme genetic mutations as a result of radiation exposure often just end up dying painful and quick deaths. But, there are more subtle and less dangerous mutations out there, too. In the words of Professor Timothy Mousseau, a biological scientist who spent 25 years studying ecosystems at nuclear disaster sites, \"There are mutations that have small or partial effects, and so they don't kill the organism. You might see individuals with extra digits, strange growths, or asymmetries where one leg or wing is longer than another. Some animals do adapt to better [music] handle being in a more radioactive environment.\" Chernobyl tree frogs have on average 44% [music] darker skin than their non-Chernobyl cousins because it helps them better process ionizing radiation. But, we're sorry to tell you that you almost definitely won't be getting any Incredible Hulk-style radioactive superpowers."
+    },
+    {
+      "id": 51,
+      "debut": 2613.66,
+      "fin": 2675.32,
+      "temps_estime": true,
+      "titre": "The EMP myth: GoldenEye and power grid redundancy",
+      "resume": "An electromagnetic pulse only works if a nuclear weapon detonates high in the atmosphere, as in GoldenEye with satellites frying electronics. The idea of cars stopping dead and power grids collapsing is a Hollywood exaggeration, since grids have redundancies and transformers would not suffer widespread damage, so a disabled grid could return within a couple of months.",
+      "mots_cles": [
+        "electromagnetic pulse",
+        "EMP",
+        "GoldenEye",
+        "high-altitude detonation",
+        "power grid redundancy",
+        "transformers",
+        "Hollywood exaggeration",
+        "grid recovery"
+      ],
+      "texte": "But, thermal blasts and fallout aren't the only things you need to worry about. What about the classic trope of nuclear apocalypse movies, the electromagnetic pulse or EMP? Would a nuke [music] going off really cause electrical chaos? The answer is, it depends. The EMP effect of a nuclear weapon only works if it's detonated high up enough in the atmosphere. [music] It's a key plot point in the James Bond movie and basis for an iconic video game GoldenEye. [music] Russian satellites would detonate nuclear weapons in the upper atmosphere and fry the electronics in key tactical areas. But, would that kind of nuclear assault actually work? You'll be relieved to hear visions of cars stopping dead in the streets and entire power grids shutting down are a Hollywood exaggeration. Power grids are built with a large number of redundancies for this particular scenario, as well as [music] more mundane power outages. So, you likely wouldn't see widespread damage to power plant transformers. So, even if the grid was disabled in a worst-case scenario, it could be back up within a couple of months with [music] dedicated work, provided we're not all dead from a thermal blast or fallout, of course."
+    },
+    {
+      "id": 52,
+      "debut": 2675.32,
+      "fin": 2750.51,
+      "temps_estime": true,
+      "titre": "Post-apocalypse: Mad Max deserts vs nuclear winter and a new ice age",
+      "resume": "Contrary to the desert battles of Fallout and Mad Max, scientists expect the world to get much colder: up to 150 million tons of smoke could cool the planet into an ice age with dangerously high UV levels, possibly lasting about 30 years. This would resemble grimmer films like The Day After and Threads rather than action movies.",
+      "mots_cles": [
+        "nuclear winter",
+        "ice age",
+        "150 million tons of smoke",
+        "UV levels",
+        "Mad Max",
+        "The Day After",
+        "Threads",
+        "nuclear summer"
+      ],
+      "texte": "Speaking of what the world would look like after a big nuclear blast, do Fallout and Mad Max have it right? Will we spend the nuclear post-apocalypse driving custom hot rods through an endless desert firing Vietnam War era guns at each other while wearing BDSM gear? This is another matter where the experts are inclined to disagree with the Hollywood movie magic makers out there. In contrast to the dusty desert battles of post-apocalyptic movies, scientists believe the world would get much colder. In an all-out nuclear war, up to 150 million tons of smoke could be thrown into the atmosphere, cooling the planet into a new ice age, one with dangerously high UV levels. So, it would be the worst of both worlds. And if you are a true Mad Max fan, you're probably thinking this already. The nuclear apocalypse happens after Mad Max 2, where a nuclear war triggers a nuclear winter that eventually gives way to a nuclear summer. The general consensus is that this brand new, even worse ice age wouldn't be a seasonal affair. It likely last around 30 years, according to some estimates. So, if we're thinking realism, then Mad Max would need to be a senior citizen in the latter movies, or more realistically still, a frozen over corpse. [music] This would make the real result of a mass nuclear war a lot like the ones depicted in the grimmer, less action-focused nuclear war movies, like The Day After and Threads."
+    },
+    {
+      "id": 53,
+      "debut": 2750.51,
+      "fin": 2816.92,
+      "temps_estime": true,
+      "titre": "Uncertainty about nuclear war effects: RAND's Edward Geist",
+      "resume": "The production of black smoke is not disputed but its effects on weather and the environment are unprecedented. RAND researcher Edward Geist stresses the uncertainty, since the only real case is the bombings of Japan and today's weapons differ: Hiroshima and Nagasaki's bombs versus the Tsar Bomba, the largest existing weapon, at about 50 million tons.",
+      "mots_cles": [
+        "Edward Geist",
+        "RAND",
+        "uncertainty",
+        "Hiroshima",
+        "Nagasaki",
+        "Tsar Bomba",
+        "nuclear winter models",
+        "planetary apocalypse"
+      ],
+      "texte": "However, nothing is simple when it comes to the end of the world. The production of massive amounts of black smoke isn't disputed, but the exact effects on global weather and the environment are so unprecedented that no one knows how much the planet would change. In the words of [music] RAND nuclear policy researcher Dr. Edward Geist, \"The main thing to keep in mind is that there is a tremendous amount of uncertainty about what a real nuclear war would be like. [music] The only real-world case we have is the atomic bombings of Japan at the end of World War II, and we have good reason to doubt that nuclear weapons used in today's environment would be similar. For context, the bombs dropped on Hiroshima and Nagasaki in the 1940s were equivalent in power to about 20 million tons of TNT. The modern Tsar Bomba, the largest nuclear weapon that currently exists, is closer to 50 million tons.\" As Geist said, [music] \"So much of the theory we've been discussing comes from the template set by those two fateful bombs, and extrapolating based on the data of modern nuclear arsenals. So, could all of this really turn into a true planetary apocalypse, a nuclear winter, a permanently scarred Earth? And if so, how many nukes would it actually take?\""
+    },
+    {
+      "id": 54,
+      "debut": 2816.92,
+      "fin": 2859.16,
+      "temps_estime": false,
+      "titre": "How many nukes would end civilization: small wars vs US-Russia exchange",
+      "resume": "One bomb or even a small nuclear war would not necessarily end the world, but hundreds of weapons falling on cities are dangerous. A full-scale US-Russia war involving thousands of warheads is one of the few scenarios scientists think could launch enough smoke to make supporting billions of people impossible, so civilization fails before the planet does.",
+      "mots_cles": [
+        "thousands of warheads",
+        "US-Russia nuclear war",
+        "small nuclear war",
+        "smoke in atmosphere",
+        "civilization collapse",
+        "billions of people",
+        "how many nukes",
+        "nuclear winter"
+      ],
+      "texte": "One bomb wouldn't do it. [music] Even a small nuclear war wouldn't necessarily end the world. The real danger starts with hundreds of nuclear weapons raining down on cities. A full-scale US-Russia nuclear war >> [music] >> involving thousands of warheads is one of the few scenarios scientists think could realistically cause enough smoke to be launched into the atmosphere. And while that doesn't mean that Earth becomes uninhabitable, it could make supporting billions of people impossible. Hollywood shows the end of the world in an instant, [music] but really civilization fails before the planet does. The real danger was never mutant zombies, endless deserts, [music] or cinematic doomsday machines. A full-blown nuclear war would be slower and far more devastating than Hollywood."
+    },
+    {
+      "id": 55,
+      "debut": 2859.16,
+      "fin": 2899.97,
+      "temps_estime": true,
+      "titre": "A 100-kiloton detonation: scale compared with Hiroshima and Nagasaki",
+      "resume": "New section on what a nuclear explosion does to the human body, starting with a 100-kiloton weapon detonating over a city and erasing the area around ground zero. For scale, Little Boy at Hiroshima was roughly 15 kilotons and Fat Man at Nagasaki about 21, so this is nearly five times greater than the only nuclear weapons ever used in war.",
+      "mots_cles": [
+        "100-kiloton weapon",
+        "ground zero",
+        "Little Boy",
+        "Fat Man",
+        "Hiroshima",
+        "Nagasaki",
+        "nuclear explosion effects",
+        "blast scale"
+      ],
+      "texte": "The unthinkable has happened. A blinding flash, a thunderous roar, and a towering mushroom cloud rise as the world and you change in an instant. So, what really happens to your body during a nuclear explosion? Brace yourself. The reality of what comes next is devastating. [music] A 100-kiloton nuclear weapon has just detonated over the city. The area around ground zero isn't damaged, [music] it's erased. And as the shockwave races outward, you're about to feel what that level of destruction truly means. For the scale, the Little Boy bomb dropped on Hiroshima was roughly 15 kilotons, and Fat Man over Nagasaki was about 21. What you're in the path of now is nearly five times greater than the [music] only nuclear weapons ever used in war."
+    },
+    {
+      "id": 56,
+      "debut": 2899.97,
+      "fin": 2959.43,
+      "temps_estime": true,
+      "titre": "At ground zero: the fireball and vaporization",
+      "resume": "Directly beneath an air burst the superheated plasma fireball expands and consumes everything, with an internal temperature over 100 million degrees Celsius, hotter than the 15-million-degree core of the sun. The body's water flashes to steam and tissue is converted to expanding gas, so anyone inside the fireball is vaporized.",
+      "mots_cles": [
+        "ground zero",
+        "fireball",
+        "plasma",
+        "100 million degrees Celsius",
+        "sun core temperature",
+        "vaporization",
+        "air burst",
+        "fission and fusion"
+      ],
+      "texte": "If you're standing directly at ground zero, the point directly beneath the detonation, you are not just witnessing the event, you are part of it. If the bomb is detonated as an air burst, the superheated plasma ball will instantly expand and consume the area below. The temperature inside this initial fireball is incomprehensible. It's caused by the fission and fusion reactions. The estimated internal temperature of a nuclear explosion [music] is over 100 million degrees Celsius. That is hotter than the core of the sun, which is only about 15 million degrees Celsius. At these temperatures, the human body stops functioning as an organic structure. Its mass is instantly transformed [music] into a rapidly expanding gas as molecular bonds break apart in a fraction of a second. The water that makes up about [music] 60% of your body flashes into superheated steam. Your calcium-rich bones, skin, and organs are stripped away by the heat, leaving behind a darkened shadow at best, [music] more often nothing at all. Anyone caught inside of this fireball isn't merely burned or destroyed, [music] they are reduced to their basic elements. In other words, you are vaporized."
+    },
+    {
+      "id": 57,
+      "debut": 2959.43,
+      "fin": 3016.12,
+      "temps_estime": true,
+      "titre": "The peak overpressure wave at ground zero",
+      "resume": "The detonation unleashes a supersonic compression front called the peak overpressure wave, a sudden violent rise in atmospheric pressure, equal to the weight of an 18-wheeler on every square inch of skin. It destroys soft tissue and bones and crumbles concrete, so at ground zero the result is instantaneous, absolute annihilation.",
+      "mots_cles": [
+        "peak overpressure wave",
+        "supersonic compression front",
+        "18-wheeler pressure",
+        "shockwave",
+        "blast injuries",
+        "ground zero",
+        "concrete destruction",
+        "instant death"
+      ],
+      "texte": "But even if this initial thermal [music] blast somehow missed a tiny fraction of your body, the ensuing shockwave would finish the destruction. The detonation unleashes a massive [music] supersonic compression front known as the peak overpressure wave, a sudden, violent increase in atmospheric pressure triggered [music] by the nuclear fireballs rapid expansion. It races outward at incredible speed, crushing everything in its path. The pressure on your body would be like having the weight of an entire 18-wheeler concentrated [music] on every single square inch of your skin. Your soft tissues, including [music] the lungs and the spleen, would be instantly liquefied. Your bones would shatter into hundreds of minute fragments, hurled outward by a shockwave traveling faster than the speed of sound. Even concrete structures [music] would crumble into dust, so your body would offer absolutely no resistance. At ground zero, you are not injured. You [music] are ripped apart atom by atom. There is no suffering, only instantaneous, absolute annihilation."
+    },
+    {
+      "id": 58,
+      "debut": 3016.12,
+      "fin": 3095.55,
+      "temps_estime": true,
+      "titre": "1,000 feet out: the flash brighter than a thousand suns and retinal damage",
+      "resume": "At about 1,000 feet the speed of light beats the speed of sound, giving a brief window of awareness. The thermal pulse is a flash brighter than a thousand suns that penetrates eyelids and sears the retina, fusing rods and cones and causing flash blindness and almost certainly permanent total blindness, and the heat can superheat the optic nerve and the eye.",
+      "mots_cles": [
+        "1,000 feet from ground zero",
+        "thermal pulse",
+        "flash brighter than a thousand suns",
+        "retina damage",
+        "flash blindness",
+        "speed of light vs sound",
+        "permanent blindness",
+        "eye injury"
+      ],
+      "texte": "Move out from ground zero by 1,000 [music] ft, roughly the length of three football fields, and the situation shifts from immediate vaporization to [music] something arguably even more horrific, near-instantaneous death. And for a brief [music] moment, you would see exactly what's about to end your life. At this distance, the sequence of destruction is dictated by basic physics, >> [music] >> the speed of light versus the speed of sound. This creates a brief, agonizing window of awareness, giving you just enough time to register the blinding flash before the forces of destruction catch up. The first thing to hit you is the thermal pulse, a massive burst of energy and light. The instant the blast occurs, you'll see a flash brighter than a thousand suns. Even if you aren't looking directly at it, the intensity of the light scattering off the atmosphere is enough to penetrate your eyelids. It only lasts for a tiny fraction of a second, but it packs a catastrophic dose of radiant energy. Your eye focuses this immediate burst of energy directly onto the delicate tissue of your retina. The concentrated thermal light sears it instantly, burning the rods and cones and effectively fusing them together. The damage is so severe it causes flash blindness and almost certainly permanent total blindness. But you'll have more than a fraction of a second to understand it before the fireball reaches you. The thermal energy is so intense that it can even superheat the optic nerve and the fluid inside of the eyeball itself, causing the eye to explode."
+    },
+    {
+      "id": 59,
+      "debut": 3095.55,
+      "fin": 3127.59,
+      "temps_estime": true,
+      "titre": "1,000 feet out: ignition and third-degree burns",
+      "resume": "At 1,000 feet the thermal energy instantly ignites anything flammable and clothing flash-combusts. Air superheats causing third-degree burns over 100% of exposed skin, water in skin boils into steam explosions, and the body surface can be carbonized to brittle blackened char in a split second.",
+      "mots_cles": [
+        "third-degree burns",
+        "thermal energy",
+        "flash ignition",
+        "steam explosions",
+        "carbonized skin",
+        "flammable materials",
+        "1,000 feet",
+        "thermal radiation"
+      ],
+      "texte": "At 1,000 ft away from ground zero, the energy is powerful enough to instantly ignite anything flammable. Your clothing would flash vaporize and combust immediately. The air would superheat and cause immediate third-degree burns across 100% of your exposed skin. The water in your skin boils so quickly that it creates tiny steam explosions inside of your pores, ripping tissue apart. Your skin would cook, sloughing off as the muscle beneath it is destroyed. The surface of your body could be carbonized in the split second, reduced to a layer of brittle blackened char."
+    },
+    {
+      "id": 60,
+      "debut": 3127.59,
+      "fin": 3161.03,
+      "temps_estime": true,
+      "titre": "1,000 feet out: the overpressure wave destroys air-filled organs",
+      "resume": "The peak overpressure wave arrives at supersonic speed with a force equal to several thousand tons, causing catastrophic failure of air-filled organs: eardrums pulverized, lung air sacs torn leading to hemorrhage and asphyxiation, skull shattered and chest collapsed. It is all over within a second.",
+      "mots_cles": [
+        "overpressure wave",
+        "air-filled organs",
+        "lung damage",
+        "eardrums",
+        "internal hemorrhage",
+        "blast trauma",
+        "1,000 feet",
+        "instant death"
+      ],
+      "texte": "But then, the peak overpressure wave arrives, moving at supersonic speed. The force would be equivalent to several thousand tons pressing down on you. The extreme pressure difference between the atmosphere and the inside of your body causes catastrophic failure of every air-filled organ. Your eardrums would be pulverized. >> [music] >> The air sacs in your lungs would tear apart, leading to massive internal hemorrhaging and death by asphyxiation. Your skull would shatter, your chest cavity would collapse, and your internal organs would be turned into an unrecognizable pulped mass. [music] And it's all over within a second."
+    },
+    {
+      "id": 61,
+      "debut": 3161.03,
+      "fin": 3211.91,
+      "temps_estime": true,
+      "titre": "Half a mile out: the severe damage zone and building collapse",
+      "resume": "Half a mile from ground zero is the edge of the severe damage zone, where death is no longer instantaneous but caused by the world collapsing. The overpressure wave hits the windward side of structures, walls shear and buildings fall in pancaking cascades, crushing occupants and leaving streets choked with rubble, while survivors face primary and secondary blast injuries.",
+      "mots_cles": [
+        "severe damage zone",
+        "half a mile",
+        "structural collapse",
+        "pancaking",
+        "blunt trauma",
+        "rubble",
+        "overpressure",
+        "blast injuries"
+      ],
+      "texte": "Half a mile out lies the edge of the severe damage zone. [music] At this distance, the horror is no longer instantaneous annihilation, but a chaotic violent death, usually caused by the world collapsing around you. The blast ensures total structural failure. Few, if any, buildings are expected to be structurally sound or even [music] standing in the severe damage zone. The overpressure wave slams into the windward side of a structure, hitting it with a sudden massive compressive load that overwhelms its failure point in an instant. [music] Walls shear, supports buckle, and the entire building collapses in a violent pancaking cascade. If you were inside, your body would suffer crushing injuries from falling debris resulting in severe blunt [music] trauma. The aftermath transforms the area into a graveyard. Streets would be choked with rubble several stories. Those who somehow survive face a deadly barrage of primary and secondary blast injuries. >> [music] >>"
+    },
+    {
+      "id": 62,
+      "debut": 3211.91,
+      "fin": 3274.05,
+      "temps_estime": true,
+      "titre": "Half a mile out: blast injuries, flash burns and flying debris",
+      "resume": "Primary blast injury is the shockwave hitting the body, including eardrum rupture. The thermal pulse still causes second and third-degree flash burns over exposed skin, and the blast turns glass, concrete, wood and metal into deadly projectiles, while people in the open are thrown off their feet into the ground.",
+      "mots_cles": [
+        "primary blast injury",
+        "tympanic membrane perforation",
+        "flash burns",
+        "shrapnel",
+        "flying debris",
+        "glass shards",
+        "blast wave",
+        "impact injuries"
+      ],
+      "texte": "The primary blast injury is the shockwave slamming into the body. Your eardrums would rupture instantly, a classic blast injury known as tympanic membrane perforation. And the thermal pulse is still a death sentence at this distance. While it no longer carbonizes you on the spot, the radiation intensity is enough to cause second and third-degree flash burns across every inch of your exposed skin. It's a dose of heat that instantly coagulates proteins, [music] charring the skin and causing the body to go into shock. Even if every other injury were survivable, the infection that follows would not be. The blast acts like a massive [music] invisible slingshot, transforming everyday objects into deadly projectiles. Broken window glass become lethal shards, [music] and concrete fragments, wood splinters, and metal debris are thrown outward at high speed. Flying shrapnel [music] would tear into you causing deep penetrating wounds and severe lacerations, any one of which could be fatal if it struck a vital organ. And if you're out in the open, the force of the blast would hurl you off your feet. You would be slammed into the ground with enough [music] force to cause massive impact injuries."
+    },
+    {
+      "id": 63,
+      "debut": 3274.05,
+      "fin": 3316.13,
+      "temps_estime": true,
+      "titre": "Half a mile out: lethal radiation and acute radiation syndrome",
+      "resume": "At half a mile a lethal dose of gamma rays and neutrons arrives in the first minute, exposure reaching into the thousands of rads. A whole-body dose above a thousand rads means death from acute radiation syndrome within days or even hours, and combined with injuries and no rapid response, survival at half a mile is statistically nonexistent.",
+      "mots_cles": [
+        "gamma rays",
+        "neutrons",
+        "thousands of rads",
+        "acute radiation syndrome",
+        "lethal radiation dose",
+        "subway tunnels",
+        "medical response",
+        "survival odds"
+      ],
+      "texte": "And at this distance, you are guaranteed to be bombarded by a lethal dose of radiation from the torrent of high-energy gamma rays and neutrons released in the first minute after the blast. The exposure here reaches into the thousands of rads. A whole-body dose of more than a thousand rads means a horrific death from acute radiation syndrome, not within weeks and months, but days or even hours. Sure, you might survive the physical destruction if you were hiding out in subterranean garages or subway tunnels, but even reaching medical help would mean overcoming impossible odds, fighting through critical injuries, lethal radiation exposure, and a post-apocalyptic landscape, any rapid response is unrealistic. In practical terms, survival at half a mile is statistically nonexistent."
+    },
+    {
+      "id": 64,
+      "debut": 3316.13,
+      "fin": 3389.61,
+      "temps_estime": true,
+      "titre": "One mile out: the moderate damage zone, burns and overwhelmed hospitals",
+      "resume": "At 1 mile survival is possible but agonizing. The thermal pulse still causes third-degree burns that destroy the epidermis, fat and muscle and can destroy nerve endings, leaving painless charred patches, with burn shock, fluid loss and electrolyte imbalance. Moderate-zone survivors are the largest casualty group, overwhelming hospitals and burn units, and dark clothing can burn the skin underneath.",
+      "mots_cles": [
+        "moderate damage zone",
+        "1 mile from ground zero",
+        "third-degree burns",
+        "burn shock",
+        "electrolyte imbalance",
+        "overwhelmed hospitals",
+        "burn units",
+        "thermal pulse"
+      ],
+      "texte": "At 1 mile out, you'd be in the moderate damage zone. Here, survival becomes possible, but it is going to be agonizing. The instant brutal finality of ground zero is replaced by overwhelming human suffering, collapsing infrastructure, and the slow invisible poison of radiation. Though the blast wave hasn't hit yet, the thermal pulse still travels at the speed of light. The heat intensity is enough to cause widespread horrific burns through direct line-of-sight exposure, and the amount of radiant energy is enough to cause third-degree burns. This means the destruction of the entire epidermis and underlying subcutaneous fat and muscle. The burns can [music] destroy your nerve endings, leaving patches of blackened or charred tissue that are disturbingly painless. These massive thermal injuries trigger immediate burn shock, causing fluid loss and dangerous electrolyte imbalances. The sudden loss of the skin barrier, coupled with the sheer number of victims, means the moderate damage zone survivors represent the largest group of casualties. But the number of patients would instantly overwhelm all available hospitals and burn units. So, getting the medical attention you desperately need becomes increasingly difficult. Even dark clothing can absorb enough thermal energy to transfer it to the skin, causing severe localized flesh burns where the fabric [music] touches the body."
+    },
+    {
+      "id": 65,
+      "debut": 3389.61,
+      "fin": 3443.07,
+      "temps_estime": true,
+      "titre": "One mile out: shockwave damage and blocked evacuation routes",
+      "resume": "At 1 mile the shockwave still devastates: concrete and steel-framed buildings stay standing but with immense stress and failed non-load-bearing walls and windows, lighter commercial and residential buildings become unstable and wood-frame houses are destroyed. High winds overturn cars and snap poles, rubble and fires block streets, so evacuation and help are delayed, possibly fatally.",
+      "mots_cles": [
+        "shockwave",
+        "structural stress",
+        "wood-frame houses",
+        "overturned cars",
+        "blocked evacuation",
+        "delayed rescue",
+        "moderate damage zone",
+        "debris"
+      ],
+      "texte": "When the supersonic shockwave arrives, the pressures are still devastating. Sturdier buildings, those reinforced with concrete and steel-framed high-rises, will stay standing, but they'll suffer immense structural stress. [music] This would cause the complete failure of non-load-bearing walls and windows. However, lighter commercial and multi-unit residential buildings could become structurally unstable, >> [music] >> and many typical wood-frame houses will be destroyed completely. So, the risk of being crushed or impaled by debris is still very much a real threat. The force from the high winds from the shockwave will still overturn cars, rip small trees out of the ground, and snap telephone and light poles. This structural violence turns the streets into a war zone with rubble, fires, and overturned vehicles blocking every route, evacuation becomes difficult, often impossible, without heavy equipment. [music] And that means help will take time to reach you. If your injuries are severe, that delay may be enough to kill you."
+    },
+    {
+      "id": 66,
+      "debut": 3443.07,
+      "fin": 3483.17,
+      "temps_estime": true,
+      "titre": "One mile out: 300 rads and acute radiation syndrome",
+      "resume": "People exposed in the open at 1 mile absorb roughly 300 rads, a severe dose guaranteed to cause acute radiation syndrome with nausea, vomiting and diarrhea within hours as radiation destroys gastrointestinal and bone marrow cells. Without specialized care about half would die over weeks or months from infections and internal hemorrhaging.",
+      "mots_cles": [
+        "300 rads",
+        "acute radiation syndrome",
+        "nausea and vomiting",
+        "bone marrow",
+        "gastrointestinal damage",
+        "white blood cells",
+        "radiation death",
+        "moderate damage zone"
+      ],
+      "texte": "Even if you survive the burns and the collapsing buildings, [music] you're still within the range of a potentially lethal radiation dose. Anyone exposed in the open would absorb a significant amount of radiation, roughly 300 [music] rads. That is still a severe exposure level guaranteed to cause acute radiation syndrome. Almost [music] every person exposed to this would become ill within hours, showing signs of severe nausea, vomiting, and diarrhea [music] as the radiation destroys the cells in the gastrointestinal tract and the bone marrow. Without specialized treatment or intensive supportive care, about half of those exposed to this dose would die over the following weeks or months, mainly from infections caused by the collapse [music] of white blood cell production and internal hemorrhaging."
+    },
+    {
+      "id": 67,
+      "debut": 3483.17,
+      "fin": 3515.37,
+      "temps_estime": true,
+      "titre": "Secondary hazards: short-lived fallout, broken utilities and fires",
+      "resume": "Radiation is worsened by short-lived gamma-emitting fallout settling back to Earth. The destruction breaks water, gas, electrical and communication lines across the moderate damage zone, and ruptured gas lines fuel raging fires that spread through debris-filled structures, so even those sheltered who survive the shockwave and radiation might be burnt alive.",
+      "mots_cles": [
+        "gamma-emitting fallout",
+        "infrastructure failure",
+        "ruptured gas lines",
+        "raging fires",
+        "water and electrical lines",
+        "secondary hazards",
+        "protective shelter",
+        "fire"
+      ],
+      "texte": "And this initial exposure is only the beginning. It's made worse by secondary hazards, including elevated radiation levels from short-lived gamma-emitting fallout settling back to Earth. The overwhelming destruction guarantees immediate and widespread infrastructure failure. Broken water, gas, electrical, and communication lines are expected across the entire moderate damage zone. Ruptured gas lines will fuel raging fires that will spread throughout the damage-debit filled structures. If you are within a protective structure [music] and survive the shockwave and the radiation, you might still be burnt alive."
+    },
+    {
+      "id": 68,
+      "debut": 3515.37,
+      "fin": 3565.66,
+      "temps_estime": true,
+      "titre": "Five miles out: scattered destruction and flash blindness",
+      "resume": "At 5 miles the threat shifts from structural collapse to mass casualties from secondary effects and the thermal pulse, with the shockwave rebounding off buildings and terrain into unpredictable pockets of destruction. The flash can cause temporary blindness to anyone outdoors by bleaching the retina's photoreceptors, even without looking at the blast, lasting seconds to minutes.",
+      "mots_cles": [
+        "5 miles from ground zero",
+        "flash blindness",
+        "retina photoreceptors",
+        "shockwave rebound",
+        "mass casualties",
+        "thermal pulse",
+        "temporary blindness",
+        "localized destruction"
+      ],
+      "texte": "If you were 5 mi away, the immediate threat shifts from total structural collapse to [music] mass casualties driven by secondary effects and thermal pulse. The destructive forces are more dispersed here. The shockwave rebounds off of buildings, terrain, and even the atmosphere, creating unpredictable pockets of localized destruction >> [music] >> that can strike with little warning. The first and fastest effect that reaches you is the overwhelming light caused by the explosion. >> [music] >> Even at 5 mi away, the brilliant flash of light could cause temporary blindness to anyone outdoors. The light is so intense that it momentarily bleaches the light-sensitive chemicals in the retina's photoreceptors. It is big enough to [music] temporarily overload the system, causing a complete washout of vision. Flash blindness can happen even if the victim is not looking in the direction of the detonation, as the light scatters and reflects off atmospheric particles [music] and cloud cover. This effect can last several seconds to minutes."
+    },
+    {
+      "id": 69,
+      "debut": 3565.66,
+      "fin": 3604.0,
+      "temps_estime": true,
+      "titre": "Five miles out: second-degree burns and flying debris",
+      "resume": "At 5 miles the thermal radiation still inflicts widespread severe burns: first-degree burns beyond 5 miles depending on weather, and second-degree burns with blistering and agonizing pain for those outside facing the blast. The slower shockwave arrives with much lower overpressure, so the main threat becomes secondary injuries from flying debris.",
+      "mots_cles": [
+        "second-degree burns",
+        "first-degree burns",
+        "5 miles from blast",
+        "blistering",
+        "thermal radiation",
+        "flying debris",
+        "lower overpressure",
+        "secondary injuries"
+      ],
+      "texte": "The intensity of the thermal radiation is still enough to [music] inflict widespread severe burns. First-degree burns can reach beyond 5 mi from the blast site, depending on the weather. Second-degree burns are the major risk at this distance, causing agonizing pain, severe blistering, and requiring extensive medical care. If you were outside and facing the blast at the moment of the detonation, and you don't immediately seek shelter, you can still sustain severe burns at this distance. When the slower shockwave finally arrives, [music] the peak overpressure is significantly lower. The primary human threat is no longer a crushing force, but secondary injuries from flying debris. The blast has enough force to create [music] widespread hazardous damage."
+    },
+    {
+      "id": 70,
+      "debut": 3604.0,
+      "fin": 3638.04,
+      "temps_estime": true,
+      "titre": "Long-term effects: fallout, radiation sickness and hematopoietic syndrome",
+      "resume": "Long-term effects are dominated by fallout and radiation sickness. Hematopoietic syndrome follows a high but non-fatal dose as radiation targets rapidly dividing bone marrow cells, collapsing blood cell production, so survivors face infections from missing white blood cells and uncontrollable hemorrhaging from missing platelets, with death often weeks later.",
+      "mots_cles": [
+        "hematopoietic syndrome",
+        "radiation sickness",
+        "bone marrow",
+        "white blood cells",
+        "platelets",
+        "hemorrhaging",
+        "systemic infection",
+        "radioactive fallout"
+      ],
+      "texte": "The long-term effects on your body, if you survive the initial blast and the thermal [music] pulse, are dominated by radioactive fallout and the onset of radiation sickness. For those who [music] absorb a high but not immediately fatal dose of radiation, either from the initial burst or from fallout, hematopoietic syndrome can develop. [music] Radiation targets the rapidly dividing cells in the bone marrow, causing a collapse in blood cell production. Without white blood cells, [music] survivors become incredibly vulnerable to infection, and without platelets, they suffer massive uncontrollable hemorrhaging. Death often occurs [music] weeks after exposure, generally from systemic infection or blood loss."
+    },
+    {
+      "id": 71,
+      "debut": 3638.04,
+      "fin": 3677.57,
+      "temps_estime": true,
+      "titre": "Decades later: thyroid cancer, leukemia and solid cancers",
+      "resume": "Decades after exposure the most insidious effects are cancer and chronic disease from DNA damage, notably a spike in thyroid cancer. Studies show a rise in leukemia from 2 to 5 years after exposure, followed by lung, breast and colon cancers that can persist for 50 years or more, and genetic mutations and birth defects could pass to later generations.",
+      "mots_cles": [
+        "thyroid cancer",
+        "leukemia",
+        "lung cancer",
+        "breast cancer",
+        "colon cancer",
+        "DNA damage",
+        "long-term cancer risk",
+        "birth defects"
+      ],
+      "texte": "Decades after exposure, the most insidious [music] long-term effects appear as cancer and chronic diseases due to the initial DNA damage. The most notorious effect is a massive [music] spike in thyroid cancer. Beyond the thyroid, high-energy particles damage DNA throughout the body, causing [music] mutations that trigger uncontrolled cell division and lead to a wide range of cancers. Studies show a significant rise in leukemia beginning just 2 to 5 years after exposure, followed by increased [music] rates of solid cancers such as lung, breast, and colon cancer. These can continue to plague survivors for 50 years or more. The possibility of genetic mutation and birth defects being passed down to subsequent generations is also a real [music] possibility."
+    },
+    {
+      "id": 72,
+      "debut": 3677.57,
+      "fin": 3712.97,
+      "temps_estime": true,
+      "titre": "Chronic illness: immune suppression and cardiovascular disease",
+      "resume": "Beyond cancer, radiation accelerates aging and causes chronic illness. Lymphatic system damage suppresses the immune system, leaving survivors vulnerable to recurring infection and inflammatory disease, and atomic bomb survivor studies show even non-lethal doses raise the risk of cardiovascular disease, stroke and chronic kidney disease through long-lasting inflammation and scarring of blood vessels.",
+      "mots_cles": [
+        "immune suppression",
+        "lymphatic system",
+        "cardiovascular disease",
+        "stroke",
+        "chronic kidney disease",
+        "atomic bomb survivors",
+        "accelerated aging",
+        "chronic inflammation"
+      ],
+      "texte": "Beyond cancer, radiation accelerates the aging process and causes [music] other chronic illnesses in your body. Damage to the lymphatic system leads to immune system suppression, leaving you vulnerable to recurring infection and chronic [music] inflammatory diseases for the rest of your life. Recent studies of atomic bomb survivors show that even non-lethal radiation doses can dramatically increase the risk of cardiovascular disease, stroke, and chronic [music] kidney disease decades later. Radiation triggers long-lasting inflammation and scarring in blood [music] vessels, accelerating the hardening and narrowing of arteries far beyond normal aging."
     }
   ]
 }
