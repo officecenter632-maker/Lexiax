@@ -1,0 +1,433 @@
+{
+  "version": 1,
+  "video_id": "KXHYz5W0sW0",
+  "titre_video": "Most Terrifying Financial Chart in the World Right Now",
+  "duree_s": 885.52,
+  "avancement": {
+    "lignes_traitees": 192,
+    "fin_traitee_s": 885.52,
+    "nb_lignes_total": 192,
+    "complet": true
+  },
+  "nb_segments": 22,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.16,
+      "fin": 20.72,
+      "temps_estime": false,
+      "titre": "Hook: Wall Street gambled your 401(k) and China exposed it",
+      "resume": "The video opens by claiming Wall Street staked retirement savings on the narrative that AI profits would flow forever. Beijing released a free tool that could bring the AI revolution crashing down, triggering the biggest wealth wipeout since 2008.",
+      "mots_cles": [
+        "401(k)",
+        "Wall Street",
+        "China",
+        "AI profits",
+        "hedge funds",
+        "wealth wipeout",
+        "2008",
+        "free AI tool"
+      ],
+      "texte": "Wall Street gambled your entire 401(k) on a lie… and China just exposed it. Hedge funds staked your retirement on the narrative that the AI profits would flow forever. Now that tap has been turned off. Beijing has released a free tool that could bring the entire AI revolution crashing down. It’s triggering the biggest wealth wipeout since 2008."
+    },
+    {
+      "id": 2,
+      "debut": 20.72,
+      "fin": 47.2,
+      "temps_estime": false,
+      "titre": "How 401(k) money flows into the S&P 500 and why balance is gone",
+      "resume": "401(k) contributions from workers and employers are funneled into major benchmarks like the S&P 500. Diversifying across dozens or hundreds of firms was long a logical approach that cushioned losses, but in the age of AI any semblance of balance has been thrown out.",
+      "mots_cles": [
+        "401(k)",
+        "S&P 500",
+        "index funds",
+        "diversification",
+        "retirement savings",
+        "benchmarks",
+        "employer contributions",
+        "balanced strategy"
+      ],
+      "texte": "And you’re squarely in the firing line. When you and your employer pay into a 401(k), that money is funneled straight into major benchmarks, like the S&P 500. For decades, it was the logical approach,diversifying funds across dozens or even hundreds of firms all at once. Even if a few giants struggled, the others cushioned the loss. Back before the age of AI, it was a balanced strategy. Now, any semblance of “balance” has been thrown out of the window."
+    },
+    {
+      "id": 3,
+      "debut": 47.2,
+      "fin": 104.0,
+      "temps_estime": false,
+      "titre": "The Magnificent 7 hold 33.9% of the index: a self-reinforcing cycle",
+      "resume": "The Magnificent 7 (Amazon, Apple, Microsoft, Meta, Tesla, Nvidia, Alphabet) make up 33.9% of the S&P 500. More money flowing into index funds raises their prices, which raises their index weight, which attracts more money, so true diversification is non-existent. A crisis at these companies would hit the retirement funds of millions of Americans.",
+      "mots_cles": [
+        "Magnificent 7",
+        "33.9% of S&P 500",
+        "index weight",
+        "passive investing",
+        "Nvidia",
+        "Microsoft",
+        "concentration risk",
+        "diversification"
+      ],
+      "texte": "Today, a small group of companies dominates the S&P 500, sucking up a disproportionate amount of every single dollar you invest. The Magnificent 7. Amazon, Apple, Microsoft, Meta, Tesla, Nvidia, and Alphabet. Together, they make up 33.9% of the entire index. The more money flows into index funds, the higher their stock prices rise. The higher their stocks, the greater their index weight becomes.And the heavier their weight, the more cash investors pour back into them. It’s an endless cycle. One where the biggest companies get artificially inflated. True diversification is non-existent. It’s reached a point where the entire financial market is being propped up by the narrowest of pillars. A tiny cartel of mega tech companies now decides if millions of retirement accounts prosper, plateau, or plummet. But the moment a crisis hits them, the rest of the index isn’t strong enough to support it. Instead, that financial wreckage will slam into the retirement funds of millions of Americans"
+    },
+    {
+      "id": 4,
+      "debut": 104.0,
+      "fin": 124.88,
+      "temps_estime": false,
+      "titre": "Parallel with 2008: housing as the 'safe' place for wealth",
+      "resume": "The current situation resembles the build-up to the 2008 crisis, when the public was told housing was the safest place to park wealth and values would rise almost indefinitely. It led generations of Americans to prioritize the property ladder.",
+      "mots_cles": [
+        "2008 financial crisis",
+        "housing market",
+        "property ladder",
+        "safe investment",
+        "home values",
+        "comparison",
+        "retirement",
+        "bubble"
+      ],
+      "texte": "who still believe their money is safe. It may not look the same on the surface, but this situation is similar to the build-up to the 2008 financial crisis. Back then, the general public had been told for years that the housing market was the safest place to park their wealth. Home values would accelerate almost indefinitely. It spurred generations of Americans to prioritize the property ladder above all else."
+    },
+    {
+      "id": 5,
+      "debut": 124.88,
+      "fin": 154.0,
+      "temps_estime": false,
+      "titre": "The 2/28 mortgage and how borrowers relied on refinancing",
+      "resume": "The 2/28 was a popular mortgage with a cheap fixed rate for 2 years and then a huge payment for the next 28. Borrowers were never expected to pay off the loan: rising home values would let them refinance into a new 2/28 and reset the clock.",
+      "mots_cles": [
+        "2/28 mortgage",
+        "teaser rate",
+        "refinance",
+        "adjustable rate",
+        "subprime",
+        "risky borrowers",
+        "reset the clock",
+        "mortgage products"
+      ],
+      "texte": "At the time, one of the most popular mortgage products was called the 2/28. Risky borrows were lured in with a cheap, fixed interest rate for the first 2 years. After that, the rate skyrocketed into a massive payment they couldn’t afford for the next 28 years. In reality, borrowers were never really supposed to pay off their loans. By the time the rate kicked in, the value of the home would have increased. This would allow the borrower to refinance into a brand-new 2/28 loan, pay off the old one, and “reset the clock”"
+    },
+    {
+      "id": 6,
+      "debut": 154.0,
+      "fin": 204.96,
+      "temps_estime": false,
+      "titre": "Why the 2008 crash happened: slowing price growth broke the model",
+      "resume": "Close to 80% of 2/28 loans issued in 2003 had been refinanced by the end of 2006, and the system worked as intended. When house prices kept rising but much more slowly, homeowners could not borrow enough to cover debts and fees and started missing payments. The crash came not from collapsing demand but from a structure built on the assumption that prices would keep soaring.",
+      "mots_cles": [
+        "2/28 refinancing 80%",
+        "house price growth",
+        "missed payments",
+        "2008 crash",
+        "housing assumption",
+        "2006",
+        "loan defaults",
+        "financial structure"
+      ],
+      "texte": "For a whole, it worked. Close to 80% of the 2/28 loans issued in 2003 had been refinanced by the end of 2006. The system was functioning exactly as intended. Property prices reached record highs around the same time. It cleared the way for decades of rise and repeat loans. But then something changed. House prices didn’t go down. They didn’t stagnate. They still went up, but a lot slower than before. And that had a dramatic impact on the market. All of a sudden, homeowners found that they weren’t able to borrow as much money to pay off their debts and cover the loan fees, too. So, people started missing payments… In record numbers. The 2008 crash didn’t happen because demand for housing disappeared or house prices collapsed. It happened because the financial structure had been built on an assumption: that house prices would continue to soar. As soon as the rate slowed, everything fell apart."
+    },
+    {
+      "id": 7,
+      "debut": 204.96,
+      "fin": 258.48,
+      "temps_estime": false,
+      "titre": "2026: AI labs lose billions and survive on fundraising",
+      "resume": "In 2026 big tech has replaced housing in the same story. OpenAI and Anthropic are household names but not profitable by conventional metrics: OpenAI lost close to $40 billion in 2025 funding compute, talent and research. They survive and see valuations rise through continuous fundraising rounds.",
+      "mots_cles": [
+        "OpenAI",
+        "Anthropic",
+        "$40 billion loss 2025",
+        "AI valuations",
+        "fundraising",
+        "compute costs",
+        "ChatGPT subscriptions",
+        "unprofitable AI"
+      ],
+      "texte": "Now in 2026, we’re seeing a new version of that same story play out. This time housing has been replaced by big tech. AI companies are so interconnected, it’s causing a huge problem. OpenAI and Anthropic are household names, but they’re not successful businesses. Not as far as conventional metrics are concerned. Their balance sheets reveal that the leading labs make huge losses, year after year. OpenAI lost close to $40 billion in 2025. They’re burning through cash to fund the huge amounts of computing power, talent, and research projects needed to train its models. Meanwhile, they're only making a fraction of that back through ChatGPT subscriptions and commercial software sales. Most companies operating like that would fold instantly. But the big AI brands keep on chugging along and their valuations are increasing, year after year. It’s all thanks to continuous rounds of fundraising that allow them to cover their ever-increasing expenses."
+    },
+    {
+      "id": 8,
+      "debut": 258.48,
+      "fin": 293.6,
+      "temps_estime": false,
+      "titre": "Circular AI financing and Big Tech debt like the 2/28",
+      "resume": "The wealthiest companies pour money into AI labs hoping for a jackpot, which resembles the 2/28 mortgage. Meta and Alphabet link their balance sheets to these companies and take on mountains of corporate debt for data centers and high-end graphics cards, based on revenue not yet earned.",
+      "mots_cles": [
+        "Meta",
+        "Alphabet",
+        "corporate debt",
+        "data centers",
+        "GPUs",
+        "circular financing",
+        "future revenue",
+        "AI gamble"
+      ],
+      "texte": "The wealthiest companies are pouring massive amounts of money into these AI labs in the hope they hit the jackpot. The similarities to the old 2/28 mortgage are staggering. AI firms are barely surviving because of a multi-billion dollar gamble they become profitable. Worse still, tech titans like Meta and Alphabet are linking their own balance sheets to these companies. Big Tech is taking on mountains of corporate debt to build data centers and hoard high end graphics cards, all on the promise of future revenue. Revenue these companies haven’t actually made yet. You don’t need an economics degree to see the flaw in that plan."
+    },
+    {
+      "id": 9,
+      "debut": 293.6,
+      "fin": 345.04,
+      "temps_estime": false,
+      "titre": "The DeepSeek moment: free open-source model destroys corporate value",
+      "resume": "In early 2025 China's DeepSeek released its R1 model, which matched or beat top US models at a fraction of the cost and was free and open source. It triggered what reporters called the biggest single-day destruction of corporate value in Wall Street history and tore down the economic fortress built by Silicon Valley firms.",
+      "mots_cles": [
+        "DeepSeek R1",
+        "open-source AI",
+        "China AI",
+        "early 2025",
+        "single-day loss",
+        "free AI model",
+        "Silicon Valley",
+        "Wall Street"
+      ],
+      "texte": "But what happens if something comes along that slows down the startup’s revenue growth? What if a disruptor enters the market and refuses to play by the usual rules? That’s exactly what happened in early 2025. It was then that one of China’s top AI labs, DeepSeek, decided to unleash its own AI model on the public. It triggered what reporters called the “biggest single-day destruction of corporate value in Wall Street history.” The DeepSeek R1 model was a juggernaut. It matched or beat the performance of the top-tier American models, at a fraction of the cost. And it wasn’t confined to business users or restricted to the Chinese market. And it wasn’t trapped behind a pay wall or subscription plan. It was completely free. Within a single day, the entire world could download, host or modify the open-source mode. And in the process, it tore down the economic fortress that a few Silicon Valley firms had spent years and trillions of dollars creating."
+    },
+    {
+      "id": 10,
+      "debut": 345.04,
+      "fin": 380.24,
+      "temps_estime": false,
+      "titre": "Free AI breaks the subscription model and forces price cuts",
+      "resume": "The US AI empire relied on customers paying hefty subscription and token fees forever for elite AI. DeepSeek handed out similar technology for free, businesses adopted it and turned away from expensive US models, and the American labs had to adjust pricing while their expenses kept exploding.",
+      "mots_cles": [
+        "subscription fees",
+        "token fees",
+        "AI pricing",
+        "monopoly",
+        "DeepSeek adoption",
+        "open-source",
+        "US AI labs",
+        "expenses"
+      ],
+      "texte": "Their entire empire was built on the belief that customers would have no choice but to pay hefty subscription rates and token fees forever just to access elite level AI. But that all fell apart when DeepSeek essentially handed out that same technology to all, with no strings attached. Businesses jumped on it. They started looking at ways to make DeepSeek a part of their AI plans. They turned their backs on the much more expensive and tightly controlled US models. Threatened by a new and unexpected challenger to their monopoly, the big American labs were forced to readjust their pricing plans… even though their expenses were still exploding, year on year."
+    },
+    {
+      "id": 11,
+      "debut": 380.24,
+      "fin": 406.8,
+      "temps_estime": false,
+      "titre": "Nvidia's $589 billion one-day loss",
+      "resume": "The 'DeepSeek Moment' made investors realize state-of-the-art AI could be much cheaper and even free. Nvidia was the hardest-hit Magnificent Seven member, losing $589 billion of market cap, the biggest single-day loss in stock market history, and the narrator calls it only an initial symptom.",
+      "mots_cles": [
+        "Nvidia",
+        "$589 billion",
+        "market cap loss",
+        "DeepSeek Moment",
+        "biggest single-day loss",
+        "Magnificent Seven",
+        "stock market history",
+        "AI valuations"
+      ],
+      "texte": "The economic fallout of the “DeepSeek Moment” was immense. Investors faced up to the dawning of a brand new reality: state of the art AI could be far cheaper than Big Tech claimed, and be free. Nvidia was the hardest-hit member of the Magnificent Seven, suffering a catastrophic $589 billion hit to its market cap. It was the biggest single-day loss in stock market history. And it wasn’t an anomaly. It was the initial symptom of what was to come."
+    },
+    {
+      "id": 12,
+      "debut": 406.8,
+      "fin": 460.4,
+      "temps_estime": false,
+      "titre": "Cracks in Big Tech: hundreds of billions spent versus $20 billion revenue",
+      "resume": "Like the early mortgage defaults of 2006, DeepSeek exposed Big Tech's fragility. Firms spend hundreds of billions on chips and data centers while leading labs like OpenAI make about $20 billion in revenue. If AI labs default on or renegotiate their profit contracts, trillions in expected revenue vanish while the debt remains, and the retirement savings go with it.",
+      "mots_cles": [
+        "Big Tech spending",
+        "OpenAI $20 billion revenue",
+        "data centers",
+        "semiconductors",
+        "AI contracts",
+        "phantom income",
+        "debt",
+        "retirement"
+      ],
+      "texte": "Just like the early mortgage defaults of 2006 were the first cracks of the 2008 crisis, the fragility of Big Tech was being exposed. Numbers that once made sense were no longer adding up. Big Tech firms are spending hundreds of billions to support the AI industry, buying up semiconductors and building data centers. But leading labs like OpenAI make $20 billion in revenue. It’s nowhere near sustainable. In a world where open-source Chinese AI models can compete with the latest American innovations, the infinite valuations are slowing down. When that momentum stops, the illusion shatters. AI labs will be forced to either default on their “guaranteed profit” contracts or try to negotiate new ones. When that happens, the Big Tech giants who banked everything on AI will see trillions in future revenue disappear. The colossal debt will still be there, but the phantom income used to justify it will be gone. And so will your retirement."
+    },
+    {
+      "id": 13,
+      "debut": 460.4,
+      "fin": 482.72,
+      "temps_estime": false,
+      "titre": "One third of 401(k) index money is a leveraged bet on seven companies",
+      "resume": "One third of every dollar invested in 401(k) passive index accounts goes into the Magnificent Seven. It was marketed as low-risk, diverse and balanced, but is in reality a leveraged bet on just 7 balance sheets.",
+      "mots_cles": [
+        "401(k) passive index",
+        "Magnificent Seven",
+        "one third",
+        "leveraged bet",
+        "low-risk myth",
+        "index funds",
+        "7 balance sheets",
+        "concentration"
+      ],
+      "texte": "So much 401(k) money has been banked in funds that are dominated by the Magnificent Seven. The dominance the Magnificent 7 have on the market is unprecedented. One third of every dollar invested in 401(k) passive index accounts is going straight into their’ stocks. It was marketed as low-risk, diverse, and balanced. In reality, it’s a leveraged bet on just 7 balance sheets."
+    },
+    {
+      "id": 14,
+      "debut": 482.72,
+      "fin": 525.12,
+      "temps_estime": false,
+      "titre": "Reversal: automated liquidation cascade and no buyers left",
+      "resume": "Passive indexing once boosted the Magnificent Seven, but with their market caps sliding the S&P 500 shrinks alongside them. Algorithms selling Big Tech shares push prices lower and trigger more automated trades. If index funds dump billions daily, the question is who is left to buy, and the answer is nobody.",
+      "mots_cles": [
+        "automated liquidation",
+        "algorithmic selling",
+        "index funds",
+        "market cap decline",
+        "sell-off cascade",
+        "who buys",
+        "passive indexing",
+        "S&P 500 shrinking"
+      ],
+      "texte": "That’s not normal. For years, the Magnificent Seven benefited from the passive indexing system, since the more money flowed into funds, the stronger they became. Now, the situation has been reversed. Those same companies are seeing their market caps slide, and the entire market cap of the S&P 500 is shrinking right alongside them. The result is a devastating cascade of automated liquidation. As algorithms sell off shares of Big Tech stocks, their values decrease even further, triggering additional waves of automated trades. Which brings us to one all important question facing Wall Street: if automated index funds are forcefully dumping billions of dollars in equities every single day, who’s left to buy them? The answer is… nobody."
+    },
+    {
+      "id": 15,
+      "debut": 525.12,
+      "fin": 570.0,
+      "temps_estime": false,
+      "titre": "Interconnected system: tech valuations support the S&P and the US government",
+      "resume": "Systemic leverage extends into the US government's balance sheet. Faith in American tech superiority holds up Magnificent Seven valuations, which support the S&P 500, which anchors global capital pools in US stocks and bonds, which fund the federal government. A tech collapse would trigger a domino effect.",
+      "mots_cles": [
+        "domino effect",
+        "S&P 500",
+        "capital pools",
+        "federal government funding",
+        "US bonds",
+        "tech trade",
+        "systemic leverage",
+        "interconnected markets"
+      ],
+      "texte": "Because the systemic leverage crushing the market goes far beyond Big Tech and venture capitalists. It extends into the sovereign balance of the United States government, itself. The financial architecture of America in 2026 isn’t a collection of independent markets. It’s all interconnected. The blind faith in American technology’s superiority is what holds up the excessive valuations of the Magnificent Seven. Those valuations support the S&P 500. The S&P 500 anchors the many global capital pools stationed in America’s stocks and bonds. And those capital pools fund the federal government. So, when the tech trade falls apart, it doesn’t happen in a vacuum. It triggers a domino effect, as one layer of the vast financial system begins to weaken. Everything resting on top"
+    },
+    {
+      "id": 16,
+      "debut": 570.0,
+      "fin": 641.92,
+      "temps_estime": false,
+      "titre": "US debt shell game and why 2008's Treasury safe haven won't repeat",
+      "resume": "The federal deficit regularly tops $1.5 trillion and trillions of existing debt are rolled over by issuing new bonds, like 2/28 refinancing or an AI lab raising money for last year's expenses. In 2008 investors fled into Treasuries and Washington issued trillions at near-zero rates for bailouts and stimulus, but the next crisis won't play by the same rules.",
+      "mots_cles": [
+        "federal deficit $1.5 trillion",
+        "debt rollover",
+        "Treasury bonds",
+        "shell game",
+        "2008 bailouts",
+        "near-zero rates",
+        "refinancing",
+        "safe haven"
+      ],
+      "texte": "of it begins to feel the effects. Today, the federal budget deficit regularly crosses the $1.5 trillion mark. The Treasury will fall trillions deeper into debt just to cover the shortfall between what it collects and what it spends. At the same time, trillions of dollars of existing debt are also being rolled over, year after year. Washington doesn’t pay off its debts on a fixed schedule. It just replaces old bonds by issuing new ones in one giant shell game. It’s exactly like the 2/28 mortgage borrowers refinancing their home, or an unprofitable AI lab banking on a new round of funding to pay for last year’s expenses. The Treasury relies on the f bigger checks arriving to cover its past liabilities. And just like the 2/28 and the unprofitable AI sector, that strategy won’t work forever. Back in 2008, it played into the government’s hands when the housing market collapsed. In the ensuing panic, investors pulled their capital out of equities and real estate and poured it into US Treasury bonds. Thanks to this, Washington had no problem issuing trillions of dollars’ of fresh debt at near-zero rates. It could use those funds to handle the bank bailouts and economic stimulus initiatives. When the next crisis lands, it won’t play by the same rules."
+    },
+    {
+      "id": 17,
+      "debut": 641.92,
+      "fin": 707.36,
+      "temps_estime": false,
+      "titre": "Loss of foreign confidence: shrinking bond buyers and rising rates",
+      "resume": "A tech collapse would hit the main asset class that has driven foreign investment in the US for decades, and investors who lose confidence in US companies may lose confidence in the US as a whole. With interest on the debt worth more than the annual defense budget and fewer bond buyers, the Treasury must offer higher rates, worsening the deficit in a vicious cycle.",
+      "mots_cles": [
+        "foreign investment",
+        "bond buyers",
+        "Treasury interest rates",
+        "national debt",
+        "defense budget",
+        "vicious cycle",
+        "investor confidence",
+        "debt crisis"
+      ],
+      "texte": "If the tech sector does collapse because of too much investment in AI, it won’t be an isolated incident. It will be a systematic collapse in the main asset class that has driven foreign investment in the US for decades. The global markets always believed that no matter how bad things got, the US was the place to invest in. It had the likes of Google and Meta, companies that were too big to fail. But if the l investors lose their confidence in those companies, they’ll also lose confidence in the US, as a whole. Which means they won’t be snapping up billions of dollars of bonds. But the U.S. will still have trillions of dollars of national debt, plus interest that is worth more than the entire annual defense budget. If the government wants to carry on functioning, it will have to sell bonds somehow. And if the buyer pool starts to shrink, the Treasury will have very few options left. It will be forced to offer higher interest rates to lure buyers back to the table. Those rate hikes will exacerbate the debt crisis and increase the national deficit. So even more bonds need to be issued to make up for it. It’s a vicious cycle, and one that will have consequences for tens of millions of regular Americans."
+    },
+    {
+      "id": 18,
+      "debut": 707.36,
+      "fin": 763.92,
+      "temps_estime": false,
+      "titre": "The 401(k) promise broken: circular loop and no diversification shield",
+      "resume": "Americans were promised a comfortable retirement through a 401(k) and passive index funds, but over a third of the index now relies on a handful of companies locked in a circular finance loop, likened to a human centipede. In a big liquidation passive investors will have no diversification shield, and their gains will be wiped out with no quick fix.",
+      "mots_cles": [
+        "401(k) retirement",
+        "passive index funds",
+        "circular finance",
+        "human centipede",
+        "liquidation",
+        "diversification",
+        "wealth wiped out",
+        "no quick fix"
+      ],
+      "texte": "The same Americans who were promised that all they needed for a comfortable retirement was a 401(k). They just had to buy passive index funds, and watch their wealth grow over time. But that formula was forged on a framework that no longer exists. It’s been replaced by a financial system in which over a third of the national index relies on a handful of companies all locked into a circular finance loop. It’s like a ‘human centipede’ where money flows from firm to firm but no new value ever actually gets created. And when the big liquidation arrives, passive index investors won’t have the shield of diversification to protect them. Their portfolios are so heavily weighted towards Big Tech firms, their funds will suffer the most when the sell-off cascade occurs. Their funds will be automatically and uncontrollably wrapped up in a falling market. All the gains they made over the years will be wiped out. The scariest part is that there won’t be any “quick fix”. There’s no simple way to turn things back around and regain those lost profits."
+    },
+    {
+      "id": 19,
+      "debut": 763.92,
+      "fin": 809.2,
+      "temps_estime": false,
+      "titre": "No central bank rescue: data centers and contracts left as liabilities",
+      "resume": "Previous downturns were eased by central banks cutting rates, but that will not be possible when the AI bubble explodes. Data centers, chips and backlog contracts remain as costly liabilities while the expected revenue does not appear, because China now offers similar software free and open source, ending the era of unchecked capital expansion.",
+      "mots_cles": [
+        "central bank rate cuts",
+        "AI bubble",
+        "data centers",
+        "backlog contracts",
+        "liabilities",
+        "open-source AI",
+        "capital expansion",
+        "monetary policy"
+      ],
+      "texte": "Previous downturns and economic crises have involved central banks cutting rates and adjusting their monetary policies. They were the kind of conditions that allowed big corporations to prosper. But when the AI asset bubble explodes, that won’t be possible. Whatever’s left over when the dust settles won’t be strong enough to conjure new revenue out of nowhere. The data centers will still be there, the semiconductors will still have been bought and paid for, the backlog contracts will remain as costly liabilities. But the money they were all supposed to generate won’t. Companies spent hundreds of billions on computing resources to power software that is now being made available on a free and open-source basis by China. And they’re going to have to face the consequences as their era of unchecked capital expansion comes to a close."
+    },
+    {
+      "id": 20,
+      "debut": 809.2,
+      "fin": 830.56,
+      "temps_estime": false,
+      "titre": "The 2008 lesson: pricing on endless acceleration fails",
+      "resume": "The 2008 crash showed that financial assets priced on the assumption that values would accelerate forever do not work: as soon as growth slowed even a little, the market crashed. Although housing recovered, trillions in wealth were lost for good and millions of people's fortunes were upended.",
+      "mots_cles": [
+        "2008 crash lesson",
+        "asset pricing",
+        "growth slowdown",
+        "wealth lost",
+        "housing recovery",
+        "market crash",
+        "financial crisis",
+        "assumptions"
+      ],
+      "texte": "The 2008 crash taught us that financial assets being priced on the assumption that their values would accelerate forever was never going to work. As soon as growth slowed, even a little, the market would crash, and that’s exactly what happened. Even though the housing market eventually recovered, trillions of dollars of wealth were lost forever, and the economic fortunes of millions of people were turned upside down."
+    },
+    {
+      "id": 21,
+      "debut": 830.56,
+      "fin": 858.0,
+      "temps_estime": false,
+      "titre": "AI will still matter, but the financing system will erode: not China's fault",
+      "resume": "In 2026 the same playbook is unfolding. AI will remain valuable and transformative and valuations will likely keep rising, but more slowly, and the financial system built around the sector since 2021 will erode. The narrator says it is not China's fault.",
+      "mots_cles": [
+        "AI demand",
+        "AI valuations",
+        "slower growth",
+        "financial system since 2021",
+        "not China's fault",
+        "2026",
+        "transformative technology",
+        "erosion"
+      ],
+      "texte": "In 2026, the same playbook is unfolding. There’ll still be demand for AI as we move forward. It will still be a valuable and influential technology that’ll likely transform industries and change the world as we know it. AI companies will likely continue to see their valuations increase. But it won’t happen as quickly as it did before. The financial system that the sector has been built on since 2021 will begin to erode, as it was always doomed to do. It’s not China’s fault."
+    },
+    {
+      "id": 22,
+      "debut": 858.0,
+      "fin": 885.52,
+      "temps_estime": false,
+      "titre": "Cracks were already there; your 401(k) foots the bill; outro",
+      "resume": "DeepSeek's open source models did not break the American AI market; the cracks were already there and Beijing's developers exposed them. The 401(k) is set up to foot the bill, and Big Tech stands on the edge of a precipice as revenues and funding do not line up. Viewers are pointed to '$115 Billion Burn Rate. The AI Bubble Just POPPED'.",
+      "mots_cles": [
+        "cracks exposed",
+        "open-source models",
+        "401(k) foots the bill",
+        "Big Tech precipice",
+        "revenue and funding",
+        "$115 billion burn rate",
+        "AI bubble popped",
+        "outro"
+      ],
+      "texte": "Its open source models didn’t break the American AI market. The cracks were already there. They were just too small to see until Beijing’s developers exposed them. But they’re being laid bare for the world to see. And it’s your 401(k) that’s being set up to foot the bill. Big Tech is standing on the edge of a precipice. Revenues and funding aren’t lining up and that spells disaster. Watch “$115 Billion Burn Rate. The AI Bubble Just POPPED” to see what happens next. Or click on this."
+    }
+  ]
+}
