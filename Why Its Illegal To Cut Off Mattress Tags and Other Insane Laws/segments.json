@@ -4,12 +4,12 @@
   "titre_video": "Why Its Illegal To Cut Off Mattress Tags and Other Insane Laws",
   "duree_s": 8096.08,
   "avancement": {
-    "lignes_traitees": 3803,
-    "fin_traitee_s": 7279.48,
+    "lignes_traitees": 4213,
+    "fin_traitee_s": 8096.08,
     "nb_lignes_total": 4213,
-    "complet": false
+    "complet": true
   },
-  "nb_segments": 194,
+  "nb_segments": 224,
   "segments": [
     {
       "id": 1,
@@ -3651,6 +3651,573 @@
         "non-binary"
       ],
       "texte": "The ladies of the DPRK, on the other hand, have a whole 14 styles they can choose from, but married women are told to keep their hair slightly shorter. All the single ladies in North Korea are allowed to have looser, curlier styles, but God knows where that leaves any non-binary or agender folks."
+    },
+    {
+      "id": 195,
+      "debut": 7279.48,
+      "fin": 7286.23,
+      "temps_estime": true,
+      "titre": "North Korea: piercings are banned",
+      "resume": "Piercings are also banned in North Korea as part of the rules on personal style, so earrings and tongue studs have to come out.",
+      "mots_cles": [
+        "North Korea",
+        "piercings banned",
+        "earrings",
+        "tongue stud",
+        "personal style",
+        "prohibited styles",
+        "DPRK"
+      ],
+      "texte": "Oh, and while we're on the [music] topic of prohibited personal styles, piercings are also banned, so take out your earrings and [music] kiss your tongue stud goodbye."
+    },
+    {
+      "id": 196,
+      "debut": 7286.23,
+      "fin": 7322.39,
+      "temps_estime": true,
+      "titre": "North Korea: the ban on smiling during the mourning period",
+      "resume": "Visitors are told not to smile in North Korea, although the law is only enforced during a 10-day mourning period starting on December 17th for Kim Jong-il, who died in December 2011. In that time North Koreans are forbidden from smiling, laughing or any leisure activity, so even birthdays are off limits.",
+      "mots_cles": [
+        "North Korea",
+        "smiling ban",
+        "mourning period",
+        "Kim Jong-il",
+        "17 December",
+        "10-day mourning",
+        "laughing forbidden",
+        "birthdays"
+      ],
+      "texte": "Oh, and actually, while we're making sure you don't look too conspicuous on your trip, you better not be smiling while you're in North Korea. To be completely fair, this law isn't in effect all year round and is only really enforced on the anniversary of the death of Kim Jong-il's dearly departed dad, [music] Kim Jong-il, who died in December 2011. A 10-day mourning period is in effect every year, starting on the 17th of December, [music] during which time North Koreans are forbidden from smiling, laughing, or engaging in any kind of leisure activities. That means if you've got a birthday during those 10 days, forget [music] about it. Not anymore, you don't."
+    },
+    {
+      "id": 197,
+      "debut": 7322.39,
+      "fin": 7349.57,
+      "temps_estime": true,
+      "titre": "North Korea: crying, arrests and the Kim Il-sung commemoration",
+      "resume": "If someone dies during the mourning period, people may not cry out loud or remove the body until it is over. Anyone breaking the rules is treated as an ideological criminal and arrested, and the same rules apply during the annual commemoration of Kim Il-sung, who died in July 1994.",
+      "mots_cles": [
+        "North Korea",
+        "mourning rules",
+        "ideological criminal",
+        "arrested",
+        "Kim Il-sung",
+        "July 1994",
+        "crying forbidden",
+        "commemoration"
+      ],
+      "texte": "And if somebody dies during that time, then you aren't allowed to cry out loud or even remove their body until the mourning period is officially [music] over. Anyone found to be breaking these rules is treated as an ideological criminal and is arrested, never [music] to be seen again. So, best start practicing your poker face to avoid smiling during the mourning period. Oh, and the same rules also apply during the annual commemoration of Kim Jong-il's grandfather, >> [music] >> President Kim Il-sung, who died in July 1994."
+    },
+    {
+      "id": 198,
+      "debut": 7349.57,
+      "fin": 7379.56,
+      "temps_estime": true,
+      "titre": "North Korea: there is no internet access",
+      "resume": "The video says its earlier VPN remark was subtle foreshadowing, since there is no internet access in North Korea. Most of our lives are centered on being free to go online for communication, research and entertainment, but the use of the World Wide Web is largely prohibited there.",
+      "mots_cles": [
+        "North Korea",
+        "no internet",
+        "World Wide Web",
+        "VPN",
+        "internet ban",
+        "DPRK",
+        "communication",
+        "prohibited"
+      ],
+      "texte": "Remember when we mentioned needing a really good VPN if you wanted to try your luck at watching movies in North Korea? That [music] wasn't just a great joke, but also really subtle foreshadowing, since there is no internet access in North Korea, either. If that's not enough of a reason not to go, >> [music] >> then we don't know what is. After all, most of our lives are entirely centered around being free to access the internet at any given moment, whether it's for communication, research, or entertainment. But, in North Korea, the use of the World Wide Web is largely prohibited."
+    },
+    {
+      "id": 199,
+      "debut": 7379.56,
+      "fin": 7402.47,
+      "temps_estime": true,
+      "titre": "North Korea: why the government restricts the internet",
+      "resume": "The DPRK government places huge restrictions on internet access because it sees it as a potential threat to the regime. Connecting with people worldwide could lead to smuggling of humanitarian aid or to citizens questioning the oppressive social system through everyday exchange of information.",
+      "mots_cles": [
+        "North Korea",
+        "internet restrictions",
+        "threat to the regime",
+        "humanitarian aid",
+        "oppressive social systems",
+        "information exchange",
+        "DPRK government",
+        "censorship"
+      ],
+      "texte": "The DPRK's [music] government places huge restrictions on internet access, primarily because they view it as a potential threat [music] to their regime. If its citizens were able to connect with other people around the world, there could be efforts to smuggle humanitarian aid into North Korea, or cause them to question the country's oppressive [music] social systems through the everyday exchange of information that regularly takes place on the internet."
+    },
+    {
+      "id": 200,
+      "debut": 7402.47,
+      "fin": 7441.62,
+      "temps_estime": true,
+      "titre": "North Korea: the Kwangmyong intranet",
+      "resume": "A few people, such as government officials and scientists, have internet access, but average citizens may only use the Kwangmyong, meaning bright star, a state-run closed domestic-only network. It looks like the regular internet but runs on pirated Japanese versions of Microsoft software, only reaches government-approved sites and needs special clearance, and most citizens living in poverty may not know what the internet is.",
+      "mots_cles": [
+        "North Korea",
+        "Kwangmyong",
+        "bright star",
+        "domestic-only network",
+        "government officials",
+        "scientists",
+        "pirated Microsoft software",
+        "poverty"
+      ],
+      "texte": "A few people do have access, like government officials and scientists, [music] people considered to be a part of the country's societal elites. For the average citizen living under the regime, though, they are only permitted to use the Kwangmyong, which translates to bright star, [music] the name of the state-run, closed, domestic-only network. It looks like the regular internet, albeit running on pirated Japanese versions of Microsoft software, but [music] it can only access certain sites that are approved by the government and require specialized clearance to even [music] log on. In fact, if you ask most North Korean citizens about the internet, most of them might not have a clue what you're talking about, [music] since so much of the population is still living in poverty."
+    },
+    {
+      "id": 201,
+      "debut": 7441.62,
+      "fin": 7478.12,
+      "temps_estime": true,
+      "titre": "North Korea: computers and phones need permission",
+      "resume": "North Korea isolates its citizens in other ways too: owning a computer requires government permission and all owners are registered with the police. Phones are more available, mainly near major cities like Pyongyang, but they are not allowed to connect to the internet.",
+      "mots_cles": [
+        "North Korea",
+        "computer ownership",
+        "registered with the police",
+        "smartphones",
+        "Pyongyang",
+        "government permission",
+        "isolation",
+        "phones"
+      ],
+      "texte": "But, restricting internet access isn't the only way that North Korea keeps [music] its citizens isolated from the rest of the world, and even from each other. Hope you weren't too attached to your smartphone or laptop, [music] because you'd sure have a hard time owning those in North Korea. Yep, even owning a computer requires permission from government authorities, and all personal computer owners have to be registered with the police, [music] like firearms would be in the US, in an ideal world, at least. Phones are a little more readily available, but are mainly concentrated closer to major cities like Pyongyang. And even then, it's not like phones are allowed to connect to the internet. [music]"
+    },
+    {
+      "id": 202,
+      "debut": 7478.12,
+      "fin": 7492.67,
+      "temps_estime": true,
+      "titre": "North Korea: tourists' phones and fax machines",
+      "resume": "Visiting tourists must deposit phones or computers with security guards and only get them back before leaving North Korea. Even owning old technology, like the fax machine left behind by the rest of the world in the '90s, is outright banned.",
+      "mots_cles": [
+        "North Korea",
+        "tourists",
+        "deposit phones",
+        "security guards",
+        "fax machine",
+        "banned technology",
+        "computers",
+        "1990s technology"
+      ],
+      "texte": "Visiting tourists have to deposit any phones or computers on their person with security guards and are only allowed to have them back before they leave North Korea. Hell, even owning technology that the rest of the world left behind in the '90s, like the humble fax machine, is outright banned."
+    },
+    {
+      "id": 203,
+      "debut": 7492.67,
+      "fin": 7524.52,
+      "temps_estime": true,
+      "titre": "North Korea: is photography banned?",
+      "resume": "The video asks about cameras and answers that photography is only partially banned: there is a popular belief it is outright banned, but it is really restricted for certain places, people and things. Tourists can take photos, just not as freely as elsewhere.",
+      "mots_cles": [
+        "North Korea",
+        "photography",
+        "cameras",
+        "restricted photos",
+        "popular belief",
+        "tourist photos",
+        "partially banned",
+        "DPRK"
+      ],
+      "texte": "Okay, so what [music] about cameras? After all, you'd love to have something to commemorate your life-threatening trip rather than this I went to North Korea and all I got was [music] this dumb shirt, thank god, t-shirt. But, taking pictures is also banned, right? Well, yes and no. There's a popular belief that photography is outright banned in North [music] Korea, but in actuality, this is only partially true. It's more like taking photos of certain places, [music] people, and things that are restricted. You can take photos, just not as freely as you can in most other places around the world."
+    },
+    {
+      "id": 204,
+      "debut": 7524.52,
+      "fin": 7546.94,
+      "temps_estime": true,
+      "titre": "North Korea: what you may not photograph",
+      "resume": "Pictures of military installations, checkpoints or vehicles are not allowed, with the demilitarized zone as the main exception. Most of Pyongyang is fair game, but by design, since the city is meant to show a more positive image of the DPRK rather than how oppressive the regime is.",
+      "mots_cles": [
+        "North Korea",
+        "photography rules",
+        "military installations",
+        "checkpoints",
+        "demilitarized zone",
+        "Pyongyang",
+        "propaganda image",
+        "restricted places"
+      ],
+      "texte": "Taking any pictures of military installations, checkpoints, or vehicles is straight-up not allowed, with the main exception being the demilitarized zone between the North and South. Most parts of the capital city of Pyongyang are fair game for pictures, but that's also by design. The city is intended to depict a different, far more [music] positive image of the DPRK, rather than being an honest example of how oppressive the regime is."
+    },
+    {
+      "id": 205,
+      "debut": 7546.94,
+      "fin": 7575.0,
+      "temps_estime": true,
+      "titre": "North Korea: rules for photographing monuments",
+      "resume": "There are strict guidelines on how to take photographs: monuments, murals or artwork showing Kim Il-sung or Kim Jong-il must be shot head-on without cropping any part. Appearing in them is allowed only in a respectful arms-at-your-side stance, with no obscene gestures, no pulling faces, no glasses and no chewing.",
+      "mots_cles": [
+        "North Korea",
+        "photo guidelines",
+        "Kim Il-sung",
+        "Kim Jong-il",
+        "monuments",
+        "murals",
+        "respectful stance",
+        "no cropping"
+      ],
+      "texte": "On top of that, there are also pretty strict guidelines about how photographs have to be taken. [music] For example, any photos of monuments, murals, or artwork, especially depicting Kim Il-sung or Kim Jong-il, must be taken directly from head-on and without any part being cropped out. Appearing in these pictures yourself is permitted, but only in the respectful, arms at your side [music] stance, with no obscene gestures, no pulling faces, no wearing glasses, and no chewing."
+    },
+    {
+      "id": 206,
+      "debut": 7575.0,
+      "fin": 7607.24,
+      "temps_estime": true,
+      "titre": "North Korea: driving, cars and freedom of movement",
+      "resume": "North Korea has very strict laws on driving, transportation and movement: citizens cannot travel freely and thanks to government restrictions only one in 100 people can own a car. Foreigners must apply and pass a test for a local driver's license and may still not be allowed to drive, especially women.",
+      "mots_cles": [
+        "North Korea",
+        "driving laws",
+        "driver's license",
+        "freedom of movement",
+        "car ownership",
+        "one in 100",
+        "foreigners driving",
+        "travel restrictions"
+      ],
+      "texte": "While you're there, you should also probably [music] get used to walking, as there are some serious strict laws surrounding driving in North Korea, as well as transportation and freedom of movement [music] in general. Citizens of the DPRK are not permitted to travel freely around the country, and thanks [music] to government restrictions, only one in 100 people can own a car. Foreigners traveling to North Korea must apply and pass a test for a local driver's license, and even then might still not be allowed to drive, especially if they happen to be a woman."
+    },
+    {
+      "id": 207,
+      "debut": 7607.24,
+      "fin": 7629.37,
+      "temps_estime": true,
+      "titre": "North Korea: women cannot drive, even traffic officers",
+      "resume": "Women in North Korea cannot travel within the country without a male escort and are forbidden from driving at all, including women who work as traffic officers enforcing traffic laws. They can ride bikes, which the video calls almost as good.",
+      "mots_cles": [
+        "North Korea",
+        "women driving ban",
+        "sexist law",
+        "male escort",
+        "traffic officers",
+        "bikes",
+        "travel restrictions",
+        "DPRK"
+      ],
+      "texte": "Oh, look, it's yet another sexist law. What a surprise. Stay classy, North Korea. Women aren't permitted to travel within the country unless they have a male escort present [music] and are forbidden from being able to drive at all. And that includes North Korean women who work as traffic officers. [music] Yes, women whose job involves enforcing traffic laws are themselves not allowed to drive. They can ride bikes, though, which is almost just as good, [music] right?"
+    },
+    {
+      "id": 208,
+      "debut": 7629.37,
+      "fin": 7647.97,
+      "temps_estime": true,
+      "titre": "North Korea: public transport and taxis for tourists",
+      "resume": "Visitors from outside the DPRK may not board public transport. They can hail taxis to and from hotels, but some North Korean taxi drivers are reluctant to take tourists without a local tour guide or interpreter.",
+      "mots_cles": [
+        "North Korea",
+        "public transport",
+        "tourists",
+        "taxis",
+        "tour guide",
+        "interpreter",
+        "hotels",
+        "visitor restrictions"
+      ],
+      "texte": "When it comes to public transport, visitors from outside the DPRK are not permitted to board. And although they are allowed to hail taxis to get [music] to and from their hotels, some North Korean taxi drivers will be reluctant to take tourists as passengers [music] without a local tour guide or interpreter also present."
+    },
+    {
+      "id": 209,
+      "debut": 7647.97,
+      "fin": 7679.69,
+      "temps_estime": true,
+      "titre": "North Korea: state-imposed blackouts",
+      "resume": "The video says not to stay up too late in North Korea: nightlife is lacking and there are state-imposed blackouts late at night. The country has regular energy shortages, with some poorer parts receiving power only once a year, and rolling blackouts are fairly common elsewhere, even in the capital.",
+      "mots_cles": [
+        "North Korea",
+        "blackouts",
+        "energy shortages",
+        "power once a year",
+        "nightlife",
+        "rolling blackouts",
+        "DPRK",
+        "electricity"
+      ],
+      "texte": "Seriously, you're still not reconsidering this ridiculous North Korean vacation after everything we talked about? Fine. Well, you better not stay up too late while you're there. Not only are you going to find the nightlife in the DPRK pretty lacking, but you'll probably find yourself in the midst of a state-imposed blackout if you're still up in the late hours. North Korea is subject to regular energy shortages, with some of the poorer parts of the country only receiving power once a year. For the rest of the country, including the capital, rolling blackouts are fairly common, especially late at night."
+    },
+    {
+      "id": 210,
+      "debut": 7679.69,
+      "fin": 7706.43,
+      "temps_estime": true,
+      "titre": "North Korea: electricity needs government permission",
+      "resume": "Under Kim Jong Un, Pyongyang receives more electricity and often stays lit while the rest of the country is dark. Using electricity in any major capacity requires government permission, and the dual grid sends more power to factories and military facilities, leaving little for civilian households.",
+      "mots_cles": [
+        "North Korea",
+        "electricity",
+        "Pyongyang",
+        "dual electricity grid",
+        "government permission",
+        "factories",
+        "military facilities",
+        "civilian households"
+      ],
+      "texte": "Under the rule of Kim Jong Un, Pyongyang has more often received more electricity, often still staying lit while the rest of the country is in darkness. [music] Much like many of the other technological regulations, using electricity in any major capacity requires permission from [music] the government. North Korea's dual electricity grid means that typically more power is often diverted toward priorities [music] like factories and military facilities, while leaving very little, if any, available for civilian households."
+    },
+    {
+      "id": 211,
+      "debut": 7706.43,
+      "fin": 7718.56,
+      "temps_estime": true,
+      "titre": "North Korea: microwaves are illegal",
+      "resume": "Reheating leftovers in a microwave is not possible in North Korea, because microwaves are also illegal to own and operate in the DPRK.",
+      "mots_cles": [
+        "North Korea",
+        "microwaves illegal",
+        "reheating leftovers",
+        "banned appliances",
+        "DPRK",
+        "illegal to own",
+        "household technology"
+      ],
+      "texte": "And God forbid you try and reheat any leftovers in a microwave, you capitalistic monster. Since microwaves, yeah, you guessed it, are also illegal to own and operate in the DPRK."
+    },
+    {
+      "id": 212,
+      "debut": 7718.56,
+      "fin": 7754.54,
+      "temps_estime": true,
+      "titre": "North Korea: freedom of religion is a myth",
+      "resume": "Freedom of religion is virtually a myth in North Korea: on paper citizens may practice any religion, but the state officially considers itself atheist. Religious practices, especially those widely followed in Western countries, are forbidden (the automatic caption reads 'practices or tax associated with any religion').",
+      "mots_cles": [
+        "North Korea",
+        "freedom of religion",
+        "atheist state",
+        "religion banned",
+        "Western religions",
+        "DPRK",
+        "religious practice",
+        "myth"
+      ],
+      "texte": "Oh, and we're not done. We're going to convince you to not take this trip in any way we can. >> [music] >> Here's another example. You know how in much of the world people are free to practice any belief system that they want and to be part of any religion [music] they feel a connection to? Well, guess what? Not in North Korea, muchacho. Freedom of religion is virtually a myth to the people living in the DPRK. Despite claiming on paper that its citizens are free to practice any religion they like, officially North Korea considers [music] itself to be an atheist state. Any practices or tax associated with any religion, especially those widely practiced within Western countries, are forbidden."
+    },
+    {
+      "id": 213,
+      "debut": 7754.54,
+      "fin": 7780.23,
+      "temps_estime": true,
+      "titre": "North Korea: the Bible arrest and Christians in labor camps",
+      "resume": "In 2014 American visitor Jeffrey Fowle was arrested for leaving his Bible in a restaurant bathroom. Almost 70,000 Christians have been imprisoned in labor camps or executed under Kim Jong-un's regime for handing out Bibles, and others arrested for religious crimes have faced detention, torture and death.",
+      "mots_cles": [
+        "North Korea",
+        "Jeffrey Fowle",
+        "2014",
+        "Bible",
+        "Christians",
+        "70,000",
+        "labor camps",
+        "religious crimes"
+      ],
+      "texte": "In 2014, an American visitor by the name of Jeffrey Fowle was actually arrested by North Korean authorities because he left his copy of the Bible in a restaurant [music] bathroom. If you ask us, Jeffrey got off lightly compared to almost 70,000 Christians who Kim Jong-un's regime has imprisoned in labor camps or even outright executed for handing out Bibles. Others arrested for religious crimes [music] have faced detention, torture, and death."
+    },
+    {
+      "id": 214,
+      "debut": 7780.23,
+      "fin": 7812.19,
+      "temps_estime": true,
+      "titre": "North Korea: military service and assigned jobs",
+      "resume": "You cannot choose your job in North Korea: after high school all citizens must serve in the military, men for at least 10 years and women until age 23. Afterwards the government assigns a job based on the country's current needs.",
+      "mots_cles": [
+        "North Korea",
+        "job assignment",
+        "military service",
+        "men 10 years",
+        "women until 23",
+        "high school",
+        "government assigned job",
+        "no career choice"
+      ],
+      "texte": "Okay, we'll hear you out. What's your plan once you get to North Korea? Getting a job and living a cushy life in the capital? You're not just wrong, you're stupid, and here's why. You can't choose what job you do in North Korea. For one, after finishing their high school education, all citizens are required to serve time in the military. Ready for another one of those laws? Men have to stay for a minimum of 10 years, whereas women only have to stay until they reach the age of 23. After completing military service, they are then assigned a job by the government based on the country's current needs."
+    },
+    {
+      "id": 215,
+      "debut": 7812.19,
+      "fin": 7841.3,
+      "temps_estime": true,
+      "titre": "North Korea: jobs are for life",
+      "resume": "Assigned jobs are not temporary internships and cannot be changed or negotiated; refusing could mean being sent to a forced labor camp. Most assigned jobs are farming or agriculture, along with sweeping streets, factory work, traffic officers or teaching.",
+      "mots_cles": [
+        "North Korea",
+        "jobs for life",
+        "assigned profession",
+        "forced labor camp",
+        "farming",
+        "agriculture",
+        "traffic officers",
+        "teaching"
+      ],
+      "texte": "Oh, and those aren't temporary internships, nor are they jobs that allow flexibility of making a career change down the line. These are for life, and assigned [music] profession isn't up for negotiation, either. You get what you're given and you can either like it or well, lump it if lumping it meant being sent to a forced labor camp. Most assigned jobs consist of farming or agriculture with other possible professions including sweeping streets, working [music] in factories, the aforementioned traffic officers or teaching."
+    },
+    {
+      "id": 216,
+      "debut": 7841.3,
+      "fin": 7868.45,
+      "temps_estime": true,
+      "titre": "North Korea: the 48-hour work week and the 70-day stretch",
+      "resume": "The assigned jobs involve a 48-hour work week, with Sundays off if you are lucky unless the government needs everyone working. In 2016 North Korea had its entire workforce work 70 days straight without a break by direct government order to boost the economy.",
+      "mots_cles": [
+        "North Korea",
+        "48-hour work week",
+        "Sundays off",
+        "2016",
+        "70 days straight",
+        "workforce",
+        "government order",
+        "economy"
+      ],
+      "texte": "And if you were expecting those to be 30-hour a week positions, guess again, bucko. How does a 48-hour work week sound? Nightmarish? Yeah, sure does. If you're lucky, you'll be allowed to take Sundays off unless [music] of course the government decides it really needs everyone to keep on working. Once in 2016, North Korea had their entire workforce working for 70 days straight without a break under a direct order from their government in order to boost their economy."
+    },
+    {
+      "id": 217,
+      "debut": 7868.45,
+      "fin": 7907.96,
+      "temps_estime": true,
+      "titre": "North Korea: beer and soju",
+      "resume": "After work, North Koreans can drink: the country has at least 10 major breweries and several microbreweries, and spirits are popular. The national drink is soju, a clear spirit made from rice and wheat or barley, often drunk neat after a meal.",
+      "mots_cles": [
+        "North Korea",
+        "beer",
+        "breweries",
+        "microbreweries",
+        "soju",
+        "rice spirit",
+        "national drink",
+        "alcohol"
+      ],
+      "texte": "Still, after clocking off from your 48-hour a week government-mandated job, you can have at least the reprieve of cracking open a nice cold brew with the boys or heck, even nursing a nice whiskey at the end of a hard day. North Korea has at least 10 major breweries with a number of microbreweries for beer. But if you're looking for something harder, then spirits are pretty popular over there. The national drink of choice is soju, a clear spirit made from rice and wheat or barley, [music] often drank neat after a meal. Hey, maybe have this one on us. After all, you're probably going to need to enjoy what little luxuries you can on this insane vacation you're set on taking. It's not like you'll be able to take another one anytime soon."
+    },
+    {
+      "id": 218,
+      "debut": 7907.96,
+      "fin": 7948.2,
+      "temps_estime": true,
+      "titre": "North Korea: citizens are trapped inside the country",
+      "resume": "People in North Korea are essentially trapped, since all travel requires government approval. Many have died trying to defect to South Korea or escape to China, usually with a third party smuggling them, with only a fraction succeeding; those caught are killed or sent to labor camps.",
+      "mots_cles": [
+        "North Korea",
+        "defectors",
+        "escape",
+        "government approval",
+        "China",
+        "South Korea",
+        "labor camps",
+        "smuggling"
+      ],
+      "texte": "That's right. Did you think we were done? No way. You're not going through with this. As if just getting to North Korea wasn't hard and inadvisable enough, then leaving it is even worse. People in North Korea are essentially trapped within the country, >> [music] >> unable to get out with any and all travel requiring government approval. Trying to escape North Korea is often highly dangerous. Many [music] people have lost their lives trying to defect to South Korea or escape to China, usually requiring the aid of a third party to smuggle them out to safety with only a fraction ever being successful. Those who are caught face brutal punishment, either being killed or sent to labor camps for attempting to flee."
+    },
+    {
+      "id": 219,
+      "debut": 7948.2,
+      "fin": 7968.04,
+      "temps_estime": false,
+      "titre": "North Korea: China deports defectors",
+      "resume": "Leaving North Korea has become harder as relations between the DPRK and China have improved: defectors caught crossing China to reach safer countries risk being captured and deported back by Chinese authorities.",
+      "mots_cles": [
+        "North Korea",
+        "defectors",
+        "China",
+        "deportation",
+        "DPRK China relations",
+        "escape",
+        "Chinese authorities",
+        "traversing China"
+      ],
+      "texte": "It can't be overstated just how risky and difficult it is to leave North Korea. Things have only gotten harder in more recent years, too, since relations between the DPRK and China have improved. Now, any [music] defectors who are caught traversing through China in order to reach safer countries run the risk of being captured and deported back to North Korea by Chinese authorities."
+    },
+    {
+      "id": 220,
+      "debut": 7968.04,
+      "fin": 7991.28,
+      "temps_estime": false,
+      "titre": "North Korea: Otto Warmbier",
+      "resume": "Even tourists are not always free to leave: American student Otto Warmbier was arrested at Pyongyang International Airport after taking a memento from his hotel room on a guided tour. His treatment in prison left him in a vegetative state, and he died after being released in 2017.",
+      "mots_cles": [
+        "Otto Warmbier",
+        "North Korea",
+        "Pyongyang International Airport",
+        "guided tour",
+        "memento",
+        "vegetative state",
+        "2017",
+        "American student"
+      ],
+      "texte": "Even tourists aren't always free to leave either. One American student, Otto Warmbier, was arrested at Pyongyang International Airport while waiting to leave after visiting the DPRK as part of a guided tour. Thanks to taking a memento from his hotel [music] room, he was imprisoned. His treatment there resulted in him entering a vegetative state, eventually dying after being released in 2017. [music]"
+    },
+    {
+      "id": 221,
+      "debut": 7991.28,
+      "fin": 8014.44,
+      "temps_estime": false,
+      "titre": "North Korea: sarcasm is banned",
+      "resume": "If this video were read aloud or shown in North Korea, The Infographics Show would be in serious trouble; for one, sarcasm is also banned there, so the channel is ruled out instantly.",
+      "mots_cles": [
+        "North Korea",
+        "sarcasm banned",
+        "Infographics Show",
+        "banned video",
+        "DPRK",
+        "humor",
+        "speech restrictions"
+      ],
+      "texte": "And if, after hearing all of these normal things that North Korea deems illegal, you're still thinking that a quick jaunt over there can't hurt, then [music] guess again. If the contents of this entire video were to be read out loud over there, let alone shown in North Korea, then we here at The Infographics Show would be in serious trouble. For one, sarcasm, also banned there, so that rules us out instantly."
+    },
+    {
+      "id": 222,
+      "debut": 8014.44,
+      "fin": 8048.04,
+      "temps_estime": false,
+      "titre": "North Korea: criticizing the regime or Kim Jong-un",
+      "resume": "Anyone planning to go must live with the restrictions and not complain or criticize: speaking out against the regime, Kim Jong-un or the government is considered blasphemy and severely punished. Anyone insulting, joking about, criticizing or threatening the supreme leader faces imprisonment for dissent.",
+      "mots_cles": [
+        "North Korea",
+        "criticism banned",
+        "Kim Jong-un",
+        "blasphemy",
+        "supreme leader",
+        "dissent",
+        "imprisonment",
+        "free speech"
+      ],
+      "texte": "But if you're set on going, and we think that's a big mistake, then you'd better be comfortable living with all these restrictive aspects of North Korean life. You wouldn't want to complain or, God [music] forbid, be critical. The freedom you have to openly vocalize a critical opinion of your home nation's government does not exist in North Korea. Speaking out against the regime, Kim Jong-un, or any part of the DPRK's government [music] is considered to be an act of blasphemy and incurs severe punishment. Anyone caught insulting, joking about, criticizing, or threatening the supreme leader faces imprisonment for dissent."
+    },
+    {
+      "id": 223,
+      "debut": 8048.04,
+      "fin": 8077.8,
+      "temps_estime": false,
+      "titre": "North Korea: punishments for insulting the leaders",
+      "resume": "One mother was jailed for saving her children from a burning home instead of recovering her state-issued portrait of Kim Il-sung. In 2015 defense minister Hyon Yong-chol was executed with an anti-aircraft gun in front of a hundred people for falling asleep at a military rally attended by Kim Jong-un.",
+      "mots_cles": [
+        "North Korea",
+        "Kim Il-sung portrait",
+        "Hyon Yong-chol",
+        "2015",
+        "anti-aircraft gun",
+        "executed for sleeping",
+        "defense minister",
+        "dissent"
+      ],
+      "texte": "[music] One mother of a North Korean household was sent to jail for saving her children while her home burned down. Instead of recovering her state-issued [music] portrait of Kim Il-sung. Back in 2015, Hyon Yong-chol, the country's defense minister at the time, was executed for falling asleep during a military rally attended by Kim Jong-un. And they didn't just give him a firing squad for insubordination. Oh, no. He was killed with an anti-aircraft gun in front of a hundred people for snoozing."
+    },
+    {
+      "id": 224,
+      "debut": 8077.8,
+      "fin": 8096.08,
+      "temps_estime": false,
+      "titre": "North Korea: you cannot even call it North Korea",
+      "resume": "North Korea considers itself the only true Korea, so calling it anything other than its official name, the Democratic People's Republic of Korea, is seen as a form of dissent. The video ends by pointing viewers to another video about daily life in North Korea.",
+      "mots_cles": [
+        "North Korea",
+        "Democratic People's Republic of Korea",
+        "official name",
+        "dissent",
+        "only true Korea",
+        "DPRK",
+        "daily life",
+        "outro"
+      ],
+      "texte": "You can't even call it North Korea while you're there since they consider themselves the only true Korea. If you don't call them by their official name of the Democratic People's Republic of Korea, then they'll consider that to be a form of dissent, too. Now, check out daily life of a North Korean or watch this video instead."
     }
   ]
 }
