@@ -4,12 +4,12 @@
   "titre_video": "Insane Pain Facts, From Phantom Limbs to Brain Freeze",
   "duree_s": 13672.56,
   "avancement": {
-    "lignes_traitees": 2909,
-    "fin_traitee_s": 5459.76,
+    "lignes_traitees": 3892,
+    "fin_traitee_s": 7319.44,
     "nb_lignes_total": 6947,
     "complet": false
   },
-  "nb_segments": 143,
+  "nb_segments": 185,
   "segments": [
     {
       "id": 1,
@@ -2516,6 +2516,804 @@
         "needle"
       ],
       "texte": "column. Most of the time, with [music] a skilled physician, the patient will only feel a slight pressure in the lower back during a spinal tap. However, many patients also report feeling a searing pain, like a gigantic beast stinging shooting up their spine. When this intense pain occurs, [music] the first reaction of the body is to move and get away from whatever is hurting it. But this can cause even more pain during the procedure. If the patient moves unexpectedly, it could cause the needle to go into the nerves or scrape [music] against the bones in the spinal column. In this scenario, there would be no escaping the pain. It would be intense and unrelenting. Nothing quite beats the"
+    },
+    {
+      "id": 144,
+      "debut": 5459.76,
+      "fin": 5519.6,
+      "temps_estime": false,
+      "titre": "Gallbladder removal (open cholecystectomy)",
+      "resume": "Number 7 on the list of most painful medical procedures: removing the gallbladder, the organ that stores bile, leaves patients in intense discomfort on waking. In open cholecystectomy the surgeon makes several incisions, the largest about 6 inches long, and separates the organ from the liver and small intestine. Recovery takes from just over a week to several weeks and needs many painkillers in the first days.",
+      "mots_cles": [
+        "gallbladder removal",
+        "cholecystectomy",
+        "bile",
+        "gallstones",
+        "open surgery",
+        "recovery time",
+        "painkillers",
+        "most painful procedures"
+      ],
+      "texte": "pain of having organs ripped out of your body, though. Number seven, gallbladder removal or colacyctomy [music] is when the organ responsible for collecting and storing bile is removed from the body. When the gallbladder is not working properly, it can cause a lot of problems [music] and pain. Patients have reported feeling intense discomfort immediately upon waking up from the surgery. Considering they were just hacked into and had an organ carefully cut free of its blood vessels [music] and other connective tissue, extreme pain isn't unsurprising. In open choleaccystectomy, the surgeon creates several incisions, the largest of which is about 6 [music] in long. The procedure is done if someone needs to have gallstones removed from the gallbladder or to alleviate other problems that might be causing intense discomfort. In order for the gallbladder to be removed, it must first be separated from the liver and the small intestine. Although someone can live without a gallbladder, having it removed hurts a lot. The recovery time from the operation can last from just over a week to several [music] weeks. After the body begins to heal, the pain subsides for many people. But just after the surgery, patients find that a lot of painkillers are needed to get through the first few days of recovery. Our next procedure"
+    },
+    {
+      "id": 145,
+      "debut": 5519.6,
+      "fin": 5579.36,
+      "temps_estime": false,
+      "titre": "Childbirth pain (number 6)",
+      "resume": "Number 6 is childbirth, not technically surgery but probably the most common painful hospital experience for women. Vaginal birth is compared to pushing a long watermelon out of the reproductive tract, while an emergency C-section is typically less painful although the preceding labor is still full of discomfort.",
+      "mots_cles": [
+        "childbirth",
+        "labor pain",
+        "C-section",
+        "vaginal birth",
+        "watermelon comparison",
+        "birth canal",
+        "women",
+        "painful hospital experience"
+      ],
+      "texte": "involved [music] stretching the most sensitive of body parts to extraordinary proportions. Number six. Although not technically a surgery, the next procedure [music] is probably the most common painful experience women go through in hospitals. There is no event in life that can cause as [music] much joy and pain as childbirth. If the baby is born vaginally, the mother is in for a lot of suffering. However, in emergency situations, the baby may be extracted via a C-section. This is [music] typically less painful, but the hours of labor beforehand will be filled with discomfort regardless of what type of birth the mother goes through. For women who give birth vaginally, [music] it's like pushing a long watermelon out of their reproductive tract. Just to be clear, the birth canal is not the size of a watermelon, which means as the [music] baby is pushed out of the body, it is forcing the opening to become larger and larger, pushing anything out of your body that isn't urine or fecal matter is going to be painful. This is why any other type of pain can rarely come close to the pain felt [music] during childbirth. But that's not the most painful thing a woman can experience with her reproductive organs."
+    },
+    {
+      "id": 146,
+      "debut": 5579.36,
+      "fin": 5631.36,
+      "temps_estime": false,
+      "titre": "Abdominal hysterectomy",
+      "resume": "Number 5 is the abdominal hysterectomy, which removes the entire uterus after the doctor opens the abdomen and severs it from ovaries, fallopian tubes, the upper vagina, blood vessels, ligaments and connective tissue. Bleeding from the vagina and intense pain follow, and recovery takes several weeks that are described as agonizing.",
+      "mots_cles": [
+        "hysterectomy",
+        "uterus removal",
+        "abdominal surgery",
+        "reproductive system",
+        "ligaments",
+        "recovery",
+        "painful surgery",
+        "fallopian tubes"
+      ],
+      "texte": "Number five, an abdominal hysterctomy is a procedure used to literally scoop out part of the female's reproductive system. That's [music] right. This surgery takes the entire uterus out of the patient's body. It's probably pretty obvious that having an entire organ removed would be painful. And if that organ is part of the reproductive system, it comes with an increased amount of pain. In order to remove the uterus, the doctor [music] needs to cut open the abdomen and separate the organ from the rest of the reproductive system. Unfortunately, the uterus is connected to a lot of different structures, including ovaries, fallopian tubes, and the upper vagina. The blood vessels, ligaments, and connective tissue that support the organ also need to be severed [music] in order to remove it. After all the cuts and punctures to the reproductive system, the uterus can finally be extracted and the patient [music] can be stitched up. Even after the surgery, there will be bleeding from the vagina, and the pain of having the organ removed [music] will be intense. The recovery time varies, but can take several weeks, all of which will be agonizing. The next spot on the list"
+    },
+    {
+      "id": 147,
+      "debut": 5631.36,
+      "fin": 5688.88,
+      "temps_estime": false,
+      "titre": "Proctocolectomy",
+      "resume": "Number 4, similar to a hysterectomy, is the proctocolectomy, which removes part of the large intestine, rectum and anal canal, for example to treat ulcerative colitis, bowel cancer or Crohn's disease. After the remaining parts are reattached, stool is bloody and every bowel movement is painful, so patients avoid solid food until the system heals.",
+      "mots_cles": [
+        "proctocolectomy",
+        "large intestine",
+        "rectum",
+        "ulcerative colitis",
+        "bowel cancer",
+        "Crohn's disease",
+        "bowel movements",
+        "painful recovery"
+      ],
+      "texte": "involves removing [music] even larger amounts of organ from the body. Number four, similar to a hyerectomy, a proctomy removes organs from the body. In this procedure, part of the large intestine, rectum, and anal canal are taken out of the patient. The surgery might be done to combat ulcerative colitis, bowel cancer, and some forms of [music] Crohn's disease. In order to reach the organs that need to be removed, the doctor needs to cut open the patient's abdomen and separate the structures using surgical tools. Depending on the needs of the patient, the entire colon must be cut out. After the necessary parts are removed, the surgeon will reattach what remains. This means that after a proctolectomy, things can [music] get very messy. Patients need to be monitored to ensure they can have healthy bowel movements. At first, their stool will most likely be filled with blood and every poop will be painful. Therefore, patients who go through the procedure don't eat solid food until the excoratory system has had time to heal. Even still, going to the bathroom after a proctolectomy can be just as painful as the surgery itself until the body fully heals. Now, we're"
+    },
+    {
+      "id": 148,
+      "debut": 5688.88,
+      "fin": 5738.16,
+      "temps_estime": false,
+      "titre": "Heel bone surgery: why the heel hurts",
+      "resume": "Number 3, open reduction internal fixation of the calcaneus, is surgery of the heel bone and may be one of the most painful experiences of someone's life. The heel supports a lot of body weight, so a shattered heel puts heavy pressure on the injury, and the surgeon must cut through skin, muscles and tendons, risking damage to the nerves in the foot.",
+      "mots_cles": [
+        "heel bone surgery",
+        "open reduction internal fixation",
+        "calcaneus",
+        "shattered heel",
+        "foot nerves",
+        "nerve damage",
+        "heel pain",
+        "most painful procedures"
+      ],
+      "texte": "up in the top three most painful medical procedures. And this next procedure will make just standing up excruciating. Number three, open reduction internal fixation of the calccanous is the fancy medical way to say surgery of the heelbone. Regardless of what you call it, this procedure may be one of the most painful experiences of someone's life. We don't necessarily associate the heel with being a very sensitive part of the body. But for anyone who's ever had a bad fall and shattered their heel, they know nothing could be further from the truth. The heel supports a lot of body weight, which means that it needs to be strong. However, it also means that if it's damaged, a lot of pressure is put on the injured part of the body. And since the bone is meant to be sturdy, repairing a damaged heel comes with a lot of pain. First, the doctor [music] needs to cut through the skin, muscles, and tendons to access the heelbone. This means there's a chance that the nerves in the foot during surgery will be damaged. This will cause immense pain when the patient wakes up."
+    },
+    {
+      "id": 149,
+      "debut": 5738.16,
+      "fin": 5794.24,
+      "temps_estime": false,
+      "titre": "Heel surgery: screws, plates and recovery",
+      "resume": "To repair a fractured heel the surgeon may fix metal screws and plates into the bone, reattach ligaments and sew up the foot. Patients report the worst pain of their life on waking, followed by months of physical therapy on the reconstructed heel, with risks of infection or of hardware that has to be reset in a second operation.",
+      "mots_cles": [
+        "metal screws and plates",
+        "heel fracture",
+        "physical therapy",
+        "infection risk",
+        "second surgery",
+        "reconstructed heel",
+        "worst pain of life",
+        "calcaneus"
+      ],
+      "texte": "Once the surgeon has a clear path to the bone and sees how bad the fracture is, decisions need to be made. In some cases, the only way to repair the heel is to put metal screws and plates in the foot. [music] Imagine someone twisting a screw through your bone to secure a metal plate between broken pieces of it. This would be agonizing. But the worst part isn't over yet. Once the screws and plate have been put in place, the ligaments need to be reattached and the whole foot needs to [music] be sewn up. Upon waking from an open surgery on the heel, patients have reported experiencing the worst pain of their life. And this is all before they start putting weight on it again. After the surgery, the patient will need to go through months of physical therapy where they will be applying pressure to the reconstructed heel. Hopefully, there will be no infections after the surgery as this would cause the patient even more pain. Also, there is a slight chance that the screws and metal plates don't set right, meaning the doctor would need to cut open the foot and reset everything. This would result in the patient having to go through the open reduction [music] internal fixation of the calccanous surgery for a second"
+    },
+    {
+      "id": 150,
+      "debut": 5794.24,
+      "fin": 5848.16,
+      "temps_estime": false,
+      "titre": "Spinal fusion (number 2)",
+      "resume": "Number 2 is spinal fusion, which joins two or more vertebrae in people with degenerative spine diseases and may need a bone graft taken from the hip, leg or rib. If metal rods and screws realign the spine, the pain can be excruciating because of the many nerves in the area, and the slow, meticulous procedure is followed by a long, agonizing recovery.",
+      "mots_cles": [
+        "spinal fusion",
+        "vertebrae",
+        "bone graft",
+        "metal rods and screws",
+        "degenerative spine disease",
+        "nerves",
+        "recovery",
+        "painful surgery"
+      ],
+      "texte": "time. We mentioned the spinal tap earlier in the list, but there is a [music] procedure that's even more painful than having a needle shoved between your vertebrae. Number two, there's few things less painful than having your spine fused together. People who have had degenerative diseases [music] that affect the spine often need to have surgery to address the issue. A spinal fusion procedure is used to connect two or more vertebrae together to keep them in place. This procedure could require a bone graft, which in and of itself is notorious for being painful. The physician will take a piece of bone, normally from the hip, leg, or rib, and attach it to one of the vertebrae. The doctor might also realign [music] and connect the spine using metal rods and screws. If this is the case, the pain can be excruciating due to the number of nerves running through this area of the body. The connection of the vertebrae needs to be precise, leaving very little room for error. This means the procedure is slow and meticulous, which is [music] also how recovery will go. Unfortunately, the entire recovery process will not only be long, but agonizing as well. [music] At"
+    },
+    {
+      "id": 151,
+      "debut": 5848.16,
+      "fin": 5908.48,
+      "temps_estime": false,
+      "titre": "Bone marrow biopsy (number 1)",
+      "resume": "Number 1, the most painful medical procedure, may be the bone marrow biopsy, which extracts marrow by piercing skin, muscle and a bone, often the hipbone, with a hollow needle. It is used to check blood production or diagnose lymphoma and leukemia, and the patient is awake under local anesthetic, so massive pain signals reach the brain and soreness lingers afterwards.",
+      "mots_cles": [
+        "bone marrow biopsy",
+        "marrow extraction",
+        "hipbone",
+        "hollow needle",
+        "local anesthetic",
+        "lymphoma",
+        "leukemia",
+        "most painful medical procedure"
+      ],
+      "texte": "our number one spot, we have a procedure that's not only excruciating, but will probably lead to even more painful procedures in the future. Number one, the most painful medical procedure might be a bone marrow biopsy. The basic premise of this procedure is to extract marrow, which is the tissue inside of bones. What makes this procedure so painful is that the only way to extract the bone marrow is to pierce through the skin, muscle, and all the way through a bone. Bone marrow biopsies may be done to make sure the body is producing the right amount of blood or to diagnose certain types of cancer such as lymphoma and leukemia. Normally, the doctor will give a patient a local anesthetic, which means they'll be awake for the procedure. But even with the pain dulling drug, the bone biopsy can be torture. The doctor will insert a hollow needle into the patient's body and into their bone. This will send massive amounts of pain signals to the [music] brain. It's the combination of a needle penetrating deep into the body and the destruction of part of a bone that makes the biopsy [music] so painful. Normally, the needle is stuck into the hipbone. So, following the procedure, there [music] can also be lingering soreness"
+    },
+    {
+      "id": 152,
+      "debut": 5908.48,
+      "fin": 5961.04,
+      "temps_estime": false,
+      "titre": "Jackie Suburido's car fire",
+      "resume": "In September 1999 Jackie Suburido was trapped in her car after a drunk high school student crashed into it, and flames engulfed much of her body, with a paramedic describing an almost inhuman scream. She survived after 10 months unconscious, appeared on Oprah in 2003 and died of cancer in 2019, which the narrator uses to introduce the question of how painful different deaths are.",
+      "mots_cles": [
+        "Jackie Suburido",
+        "car fire",
+        "burn injuries",
+        "drunk driver",
+        "Oprah",
+        "paramedic",
+        "painful death",
+        "survivor"
+      ],
+      "texte": "in the region. September 1999, a woman is driving home from a birthday party when a drunken high school student plows into her car. With her legs trapped under the dashboard, flames begin to lick her face and soon much of her body is engulfed. How much did that hurt? This is what one of the first paramedics who arrived on the scene said. She was screaming and wailing, an almost inhuman sound I never heard another person make. So, dying in a burning car is sure to be up there as one hell of a painful death. But, as you'll see today, dying isn't always so horrific. Even when you get shot, stabbed, or die from a disease. Just so you know, that woman survived. Her name was Jackie Suburido, and she appeared on Oprah in 2003 to talk about her new life. She spent 10 months unconscious after the accident. And when she woke up, she saw that the fire had melted the flesh over much of her body. She died in 2019 from cancer, which is a terrible disease we'll get to later."
+    },
+    {
+      "id": 153,
+      "debut": 5961.04,
+      "fin": 6010.4,
+      "temps_estime": false,
+      "titre": "Dying in a fire: smoke, nerves and burning at the stake",
+      "resume": "Most people who die in fires suffocate on hot gases, but if flames reach the skin while a person is conscious the pain is excruciating until the nerves burn through. Katherine Hayes, burned at the stake in England in 1726 after the strangling failed, was heard crying out, and the World Health Organization reports around 180,000 burn deaths a year.",
+      "mots_cles": [
+        "death by fire",
+        "burning",
+        "suffocation",
+        "Katherine Hayes",
+        "burned at the stake",
+        "WHO",
+        "180,000 burn deaths",
+        "nerves"
+      ],
+      "texte": "When it comes to biting the dust in a fire, the best you could hope for is suffocating on the hot gases, which is something that happens to most people who are in fires. If the flames do touch the skin while the person is conscious, the pain is excruciating until they burn through the nerves. That's the painful part. Downright excruciatingly painful. That's when you might make a sound that's been described as unholy. For instance, when a woman named Katherine Hayes was burned at the stake in [music] England in 1726 for killing her husband, she was supposed to be strangled first. It didn't quite go right, and an [music] observer remarked that the air was filled with her cries and lamentations. So dying by burning not a great way to leave the planet. Also thankfully not a very common way to die. The World Health Organization wrote that throughout the globe around 180,000 people die each year as a result of burns. Burning in a"
+    },
+    {
+      "id": 154,
+      "debut": 6010.4,
+      "fin": 6055.84,
+      "temps_estime": false,
+      "titre": "Getting shot: crossfire scenario and hidden damage",
+      "resume": "The narrator imagines being caught in a crossfire where the friend cries out in pain while the person who will die feels almost nothing. Law enforcement officials say a hit in a dangerous spot can be survived and a hit in a non-lethal spot can kill, and a slight injury can hurt more than a severe one, depending on internal damage and how fast help arrives.",
+      "mots_cles": [
+        "gunshot",
+        "crossfire",
+        "shot wound pain",
+        "internal damage",
+        "survival",
+        "lethal spot",
+        "non-lethal spot",
+        "law enforcement"
+      ],
+      "texte": "car crash is classified as an accident death of which there are many forms, but the form we know you're interested in is going down in a hail of bullets [music] or perhaps succumbing to just one bullet. Imagine the scene. You're walking down the street with a friend and suddenly you hear gunshots. As sometimes happened, you're caught in what's called a crossfire. The next [music] thing you know, you're down on the floor with your buddy clutching your stomach. Thing is, he's crying out in pain, and you don't really feel anything. But it is you who's going to die, and he'll be the one to survive to tell the tale. As law enforcement officials have pointed out, when it comes to being shot, you can get hit in a dangerous spot and survive, and hit in a non-lethal spot and [music] die. Also, a slight injury can cause much more pain than a severe injury. It's all about the internal damage and of course how fast"
+    },
+    {
+      "id": 155,
+      "debut": 6055.84,
+      "fin": 6087.12,
+      "temps_estime": false,
+      "titre": "Gunshot survivors: no pain at first, genital wounds",
+      "resume": "A gunshot survivor describes a liquid running down his chest and feeling a thud as if punched, not the impact itself. The initial hit often does not hurt because of shock, but a man shot in the genitals reported excruciating pain that lasted for months.",
+      "mots_cles": [
+        "gunshot survivor",
+        "shock",
+        "no pain at first",
+        "feels like a punch",
+        "genital gunshot wound",
+        "pain for months",
+        "adrenaline",
+        "blood"
+      ],
+      "texte": "you get help. For you, you'd feel just like this gunshot survivor said, like a very worike liquid is just running down my chest. He said he didn't even feel the [music] impact. He just felt the blood. You're bleeding out, but all you really felt was a thud in your chest as if someone had punched you. It can all happen so fast that the initial hit doesn't really hurt. Although, we came across one guy who said he was shot in the genitals and the pain was apparently excruciating. First, there is shock and then the pain comes in all its glory. The guy who was hit down below was in pain for months. In your case, your"
+    },
+    {
+      "id": 156,
+      "debut": 6087.12,
+      "fin": 6109.12,
+      "temps_estime": false,
+      "titre": "Gunshot to the knee and foot",
+      "resume": "The friend in the scenario is shot in the knee, shattering the patella, and in the foot, smashing small bones, two of the worst places for pain. A smashed patella transmits pain to other parts of the leg such as the femur, which is one reason a gunshot there hurts so much.",
+      "mots_cles": [
+        "gunshot knee",
+        "patella",
+        "shattered kneecap",
+        "foot bones",
+        "femur",
+        "pain transmission",
+        "worst places to be shot",
+        "leg wound"
+      ],
+      "texte": "friend is rolling around yelping like a dog on fire. That's because he's taken two bullets in two of the worst places when it comes to pain. One in the knee that has shattered his kneecap, [music] aka patella, and one in the foot that smashed some of those little bones in there. If the patella was smashed, it transmits the pain to other parts of the leg, such as the femur. And that's one reason why getting shot there hurts so"
+    },
+    {
+      "id": 157,
+      "debut": 6109.12,
+      "fin": 6140.72,
+      "temps_estime": false,
+      "titre": "Chest gunshot: hydrostatic shock and painless death",
+      "resume": "A bullet to the chest can damage tissue through the hydrostatic shock wave, including the aorta, the largest artery, with a mortality rate between 92 and 100%. Death is almost painless and fast, and one man said that when hit it did not hurt at all and felt like someone had thrown a small pebble at him.",
+      "mots_cles": [
+        "chest gunshot",
+        "hydrostatic shock wave",
+        "aorta",
+        "92 to 100% mortality",
+        "painless death",
+        "bullet wound",
+        "blood loss",
+        "gunshot survivor"
+      ],
+      "texte": "much. What has happened to you is the bullet has entered your chest and because of something called the hydrostatic shock wave, much of the tissue inside your chest has been damaged, including your aorta, the largest artery in your body. The mortality rate for being shot in this place is somewhere [music] between 92 and 100%. Your death is almost painless and very fast. Here's what one guy said happened to him after being shot just before he passed out. When the bullet hit me, surprisingly, it didn't hurt at all, not one [music] bit, which shocked me. I remember thinking that felt like someone just chucked the small pedal at"
+    },
+    {
+      "id": 158,
+      "debut": 6140.72,
+      "fin": 6177.84,
+      "temps_estime": false,
+      "titre": "What being shot feels like varies",
+      "resume": "One survivor describes the bullet entering above his right hip and lodging below the left rib cage, with a burning, aggravating sensation instead of pain. There is no universal feeling when you get shot, from numbness and pins and needles to a dull ache or a baseball bat hit, and some say the treatment hurt more than the initial contact, possibly due to adrenaline.",
+      "mots_cles": [
+        "no universal feeling",
+        "numbness",
+        "pins and needles",
+        "dull ache",
+        "adrenaline",
+        "gunshot treatment pain",
+        "bullet wound sensation",
+        "survivor account"
+      ],
+      "texte": "me. But he could have easily died despite the lack of pain. When this guy finally came around, he explained [music] stage two of his injury like this. The bullet entered my side just above my right hip and traversed diagonally upward and lodged itself just below my left rib cage. Instead of pain, there was a burning, aggravating sensation in my stomach area. There's no universal feeling when you get shot. Survivors talk about feeling numbness to just having a bizarre feeling to pins and needles to a dull ache to getting hit with a baseball bat or even stung by something. Some of those people said the treatment hurt [music] more than the initial contact, possibly because of the initial kick of adrenaline. If it is"
+    },
+    {
+      "id": 159,
+      "debut": 6177.84,
+      "fin": 6210.64,
+      "temps_estime": false,
+      "titre": "Fatal shots and stomach gunshot wounds",
+      "resume": "In a fatal shot blood pressure drops catastrophically and the person feels more shock and confusion than pain, struggling to stay conscious and dying within a couple of minutes. A shot to the stomach is extremely painful as toxins are released into other organs and can cause multi-system traumatic injury, peritonitis and deadly sepsis.",
+      "mots_cles": [
+        "fatal gunshot",
+        "blood pressure drop",
+        "shock",
+        "stomach gunshot",
+        "peritonitis",
+        "sepsis",
+        "multisystem trauma",
+        "painful death"
+      ],
+      "texte": "indeed a fatal shot and your blood pressure drops catastrophically, you are in more shock than pain. You feel confused. You'll start struggling to keep conscious [music] and within just a couple of minutes, you can be dead. It can be fast and just be glad that you didn't get shot in the stomach. That is extremely painful as toxins are released into [music] other organs. As the experts say, this kind of ordeal can cause multi-ymic traumatic injury, meaning the bullet inside you can cause all kinds of damage. Without treatment, this could lead to peritonitis and deadly [music] sepsis. It would be an awful and exquisitly painful way to die."
+    },
+    {
+      "id": 160,
+      "debut": 6210.64,
+      "fin": 6270.08,
+      "temps_estime": false,
+      "titre": "Leg gunshots, cardiac tamponade and Nick Lavy",
+      "resume": "A shot in the leg can kill if arteries are damaged, as in a man whose iliac arteries were hit and who died of cardiac tamponade. Soldier Nick Lavy, hit in the leg by a PKM machine gun bullet in Afghanistan, had his femur shattered and femoral artery severed, survived thanks to fast intervention and lost his leg above the knee.",
+      "mots_cles": [
+        "leg gunshot",
+        "iliac arteries",
+        "cardiac tamponade",
+        "Nick Lavy",
+        "Afghanistan",
+        "femur",
+        "femoral artery",
+        "hemorrhage"
+      ],
+      "texte": "You can easily die from being shot in the leg if the arteries are damaged. We found a guy who shot himself just above the knee and the corner ruled [music] the cause of death was from a buildup of blood around the heart. something called cardiac tampenon. This happened when his iliac arteries were damaged, arteries that provide blood to the pelvic area. We don't know what happened to him, but we do know what happened to a soldier named Nick Lavy after he taken a bullet to the leg in Afghanistan. The brave man subsequently put himself on the line of fire to save an infantryman. But despite the movie [music] like heroics, that one shot was a lot worse than a Hollywood movie might suggest. The guy described as almost indestructible [music] was hit close range by a bullet from a PKM 762mm machine gun. The medic later said it couldn't have been [music] much worse since the bullet shattered his femur, a very painful injury, and severed his femoral artery. His heart then started pumping large amounts of blood to his leg and the medics saying he would certainly have died without fast [music] intervention. He still lost his leg above the knee. In US war zones,"
+    },
+    {
+      "id": 161,
+      "debut": 6270.08,
+      "fin": 6302.88,
+      "temps_estime": false,
+      "titre": "Uncontrolled bleeding and collapsed lung",
+      "resume": "In US war zones 90% of preventable deaths come from uncontrolled bleeding, and a person can usually survive if someone stops the hemorrhaging. Chest shots can cause a collapsed lung as air builds up between lung and chest wall, with blood from the mouth, difficult breathing and hypoxia leading to unconsciousness and a horrible death.",
+      "mots_cles": [
+        "uncontrolled bleeding",
+        "90% preventable deaths",
+        "collapsed lung",
+        "chest gunshot",
+        "hypoxia",
+        "hemorrhage",
+        "war zones",
+        "blood loss"
+      ],
+      "texte": "90% of preventable deaths are due to uncontrolled bleeding. But if someone is there to stop the hemorrhaging, a person can usually survive. That same medic said [music] sometimes men die from a collapsed lung when people are shot in the chest. Something that's highly distressing and painful. Air builds up between the lung and the chest wall and it keeps building. That's when you might see someone with blood coming out of their mouth. It's enough to shock anyone, especially as breathing is so hard. Then the low oxygen levels, also known as hypoxia, can lead to unconsciousness. Blood loss can lead to shock and the person can easily die a"
+    },
+    {
+      "id": 162,
+      "debut": 6302.88,
+      "fin": 6335.44,
+      "temps_estime": false,
+      "titre": "Shot in the lung and liver: mental anguish",
+      "resume": "A man shot in the lung and liver during a burglary said the worst part was lying there uncertain whether he would die, not the physical pain, with adrenaline helping him cope. The narrator concludes that everyone is different but being shot in the lung or bleeding out from the leg is always terrifying.",
+      "mots_cles": [
+        "shot in the lung",
+        "liver gunshot",
+        "burglary victim",
+        "mental anguish",
+        "adrenaline",
+        "fear of dying",
+        "bleeding out",
+        "survivor account"
+      ],
+      "texte": "very horrible death. We found a guy who was shot in his lung and other parts of his body during a burglary. He almost died and said it was the worst experience of his life. In his own words, he said, \"Lying there with a hole in your lungs and liver with your girlfriend crying over you, lying there uncertain of what just happened, not knowing what to do, not knowing if you're going to die, that part hurts. But that's just it. With so much adrenaline helping him cope, he said the mental anguish of losing his life was worse than the [music] physical pain. Everyone is different, of course, but getting shot in the lung or bleeding out from a shot in the leg is always a"
+    },
+    {
+      "id": 163,
+      "debut": 6335.44,
+      "fin": 6371.68,
+      "temps_estime": false,
+      "titre": "Firearm homicide statistics and knife violence in the UK",
+      "resume": "A paper from the US National Institutes of Health says firearm homicide is the second leading cause of injury death among people aged 10 to 24 in the USA. In the UK, where guns are harder to buy, extreme violence is more often committed with knives, and a Perlman School of Medicine study found a third of bullet wound patients died versus only 7.7% of stab wound patients.",
+      "mots_cles": [
+        "firearm homicide",
+        "US National Institutes of Health",
+        "youth deaths",
+        "UK knife violence",
+        "Perlman School of Medicine",
+        "bullet wound mortality",
+        "7.7% stab wounds",
+        "stabbing statistics"
+      ],
+      "texte": "terrifying ordeal. If you think dying by someone else's bullet could never happen to you, a paper published in the US National Institutes of Health said firearm homicide is the second leading cause of injury and death among youth 10 to 24 years of age. That is in the USA at least. If you were in, say, the UK, things might be different. Since you can't buy guns with the same ease as in many parts of the [music] US, extreme violence is often perpetrated with a knife. But cold, hard blades can be just as deadly. According to a study undertaken by the Perlman School of Medicine, onethird of the patients they studied with bullet wounds died, while only 7.7% of patients with stab wounds"
+    },
+    {
+      "id": 164,
+      "debut": 6371.68,
+      "fin": 6422.24,
+      "temps_estime": false,
+      "titre": "Stab wounds: feeling punched, shock and Lee Murray",
+      "resume": "Many stabbing survivors say they felt as if they had been punched, one never felt the stabbing and only noticed a warm wet patch. Knives can hit a major artery or organ and kill through blood loss, victims are often in too much shock to understand the pain, and MMA fighter Lee Murray said blood flew out of his chest after he was stabbed but he felt nothing at all.",
+      "mots_cles": [
+        "stab wounds",
+        "stabbing survivors",
+        "feels like a punch",
+        "major artery",
+        "blood loss",
+        "shock",
+        "Lee Murray",
+        "MMA fighter"
+      ],
+      "texte": "died. Many stabbing survivors have talked about their ordeal online, with a lot of those folks saying that they felt like they'd [music] been punched. One of them said, \"I never felt the actual stabbing, but I heard a girl screaming that he'd stabbed him and the realization of a warm wet patch on [music] my then slender tummy. Knives might not seem as dangerous as guns, but it's so easy to have a major artery hit and die from blood loss. If you're unlucky enough to be hit in a major organ, not much can be done to save you. Victims are often in too much of a state of shock to really understand the pain. But as they bleed out, they will start to look very pale. They might also get a headache and feel nauseous. That's what happened to MMA fighter come major league criminal Lee Murray. This is what he said happened after he got stabbed. Blood was literally flying out of my chest like a yard in front of me. This is how he described the pain. I didn't feel nothing at all. We'll come back to"
+    },
+    {
+      "id": 165,
+      "debut": 6422.24,
+      "fin": 6466.32,
+      "temps_estime": false,
+      "titre": "Heart attack scenario: Jake Paul fight",
+      "resume": "The narrator imagines an unhealthy viewer with coronary heart disease, caused by plaque buildup in the arteries, who gets furious and then ecstatic watching Jake Paul fight an old, partially blind former boxer. A sudden sharp piercing chest pain spreads across the torso, a heart attack or myocardial infarction, which statistically is what will take many viewers from the earth.",
+      "mots_cles": [
+        "heart attack",
+        "myocardial infarction",
+        "coronary heart disease",
+        "plaque in arteries",
+        "Jake Paul",
+        "chest pain",
+        "leading cause of death",
+        "metaverse scenario"
+      ],
+      "texte": "arguably the most painful kind of accidental death later. But let's now discuss what will likely take many of you from this earth statistically speaking. Imagine it's [music] just a few years from now and you've got a ringside seat in the metaverse watching Jake Paul come out of retirement to fight a partially blind 75-year-old [music] former boxer with debilitating arthritis in his hands. The mismatch has made you furious and since you're incredibly unhealthy, that fury plays havoc on your tender heart. The buildup of plaque in your arteries means you have coronary heart disease. As Paul goes down in the third and starts to cry, you stand up from your chair and scream for joy. You see stars, you become laded. A sudden sharp piercing pain in your chest spreads out across your torso. You, my friend, are having a heart attack, aka myocardial inffection."
+    },
+    {
+      "id": 166,
+      "debut": 6466.32,
+      "fin": 6501.2,
+      "temps_estime": false,
+      "titre": "What a heart attack feels like and cardiac arrest",
+      "resume": "People describe a heart attack as fullness in the chest or someone sitting on it, with pain from uncomfortable to intense, while the NHS notes some feel only dizziness or indigestion and a few, often very old or diabetic, feel no pain. If it progresses to cardiac arrest, a sudden loss of heart function from electrical disturbance, an at-home victim has less than a 10% chance of survival.",
+      "mots_cles": [
+        "heart attack symptoms",
+        "cardiac arrest",
+        "NHS",
+        "silent heart attack",
+        "diabetic",
+        "chest fullness",
+        "less than 10% survival",
+        "electrical disturbance"
+      ],
+      "texte": "People have explained the feelings as a fullness in the chest or [music] like someone sitting on your chest. It often comes with pain that's been described as uncomfortable to intense. [music] Britain's NHS writes that some people might not feel much at all, maybe just some dizziness or indigestion. A few people feel no pain at all, although they're often very old or diabetic. Most of the time, this doesn't lead to cardiac arrest, which is a sudden loss of heart function due to electrical disturbance. But with you, it has. Since you're at home and not in the hospital, you have less than a 10% chance of survival. You fall to the ground and die. Game over. That wasn't so painful,"
+    },
+    {
+      "id": 167,
+      "debut": 6501.2,
+      "fin": 6544.08,
+      "temps_estime": false,
+      "titre": "Cardiac arrest causes and US drug overdose deaths",
+      "resume": "Cardiac arrest has many causes, including rare cases of jellyfish stings and drug use. In 2021 the CDC reported US drug overdose deaths topped 100,000 annually, more than falls and traffic accidents combined, driven by synthetic opioids mainly fentanyl, semisynthetic opioids and stimulants like methamphetamine and cocaine, with overdoses causing seizure, stroke or heart attack.",
+      "mots_cles": [
+        "cardiac arrest",
+        "drug overdose deaths",
+        "CDC",
+        "100,000 annually",
+        "fentanyl",
+        "synthetic opioids",
+        "methamphetamine",
+        "cocaine"
+      ],
+      "texte": "was it? There are many ways cardiac arrest might happen, not just when you have coronary heart disease. In some very rare cases, a jellyfish sting can lead to cardiac arrest, or perhaps when a person has gone too far with certain drugs. Let's stick with drugs. In 2021, the CDC wrote, \"Drug overdose deaths in the US top 100,000 annually.\" That was more than falls and traffic accidents added [music] together. It's sad to say that drug overdose deaths, have been going up and up in the US for years now. The CDC writes that synthetic opioids, [music] mainly fentanyl, have led to many of the deaths, as have semiynthetic opioids and lesser so stimulants such as methamphetamine and cocaine. with the latter. An overdose could lead to a seizure, stroke, or even a heart attack."
+    },
+    {
+      "id": 168,
+      "debut": 6544.08,
+      "fin": 6562.32,
+      "temps_estime": false,
+      "titre": "Opioid crisis and over a million overdose deaths",
+      "resume": "The familiar TV scene of paramedics slapping overdose victims and giving them a shot after opiates introduces the opioid crisis. According to recent media articles there have been over 1 million opioid overdose deaths since the crisis began in the USA, so the narrator says it cannot be left out.",
+      "mots_cles": [
+        "opioid crisis",
+        "opioid overdose deaths",
+        "1 million deaths",
+        "paramedics",
+        "overdose rescue",
+        "USA",
+        "opiates",
+        "drug deaths"
+      ],
+      "texte": "But the one thing you've all seen on TV is paramedics slapping people around the face and perhaps giving them a shot of something after they've taken too much [music] of a certain opiate. According to recent media articles, since the beginning of the USA's opioid crisis, there have been over 1 million opioid overdose deaths. So, this is really something we can't leave out of the"
+    },
+    {
+      "id": 169,
+      "debut": 6562.32,
+      "fin": 6597.44,
+      "temps_estime": false,
+      "titre": "What a heroin overdose feels like",
+      "resume": "A heroin overdose can look like unconsciousness, sometimes with muscle spasms, and involves a triad of loss of consciousness, tiny pupils and respiratory depression. Opioids affect the part of the central nervous system tied to breathing, leading to hypoxia, and the rescue is often a shot of an opioid receptor antagonist that reverses the intoxication.",
+      "mots_cles": [
+        "heroin overdose",
+        "respiratory depression",
+        "pinpoint pupils",
+        "loss of consciousness",
+        "hypoxia",
+        "central nervous system",
+        "opioid antagonist",
+        "overdose reversal"
+      ],
+      "texte": "show. [music] What does it feel like? In short, when a person overdoses on heroin, they might look like they're unconscious or very close to it. and in some cases their muscles might spasm. There's also a triad of things going on which is the loss of consciousness, tiny pupils, and something called respiratory depression. Opioids affect part of the central nervous system [music] associated with breathing. As you know, not breathing is generally not cool for humans. It can lead to something called hypoxia, [music] which means tissues in the body are not getting enough oxygen. The method used to save them is often a shot of opioid receptor antagonist medication that reverses opioid intoxication."
+    },
+    {
+      "id": 170,
+      "debut": 6597.44,
+      "fin": 6639.12,
+      "temps_estime": false,
+      "titre": "Overdose survivors' accounts: scary rather than painful",
+      "resume": "One person who mixed oxycodone with Valium slumped over in a car seat, answered that he was fine twice by instinct and then stopped breathing. A woman described falling down within seconds, vision collapsing in waves and a chest so tight she could not breathe, so overdose may not be painful but is frightening.",
+      "mots_cles": [
+        "oxycodone",
+        "Valium",
+        "overdose account",
+        "stopped breathing",
+        "vision collapse",
+        "chest tightness",
+        "survivor story",
+        "not painful but scary"
+      ],
+      "texte": "This is what one person said about his overdose when he mixed oxycodone with Valium. I was told I instantly slumped over in the car seat with my head very nearly between my legs. Someone asked if I was okay. Apparently I responded I was fine. Instinct must have taken [music] over. I was asked again. No response. The third time I answered the same that I was fine. Then I stopped breathing. Another person wrote about her overdose saying I got off my bed and started to walk around. Within 5 seconds I knew I was in [music] serious trouble. I fell off the ground. My vision started to collapse. I could see, then I couldn't. And this happened in waves. My chest [music] felt very tight. So tight that I couldn't breathe. I was making all sorts of noises trying to breathe. So perhaps not painful, but scary for some. But"
+    },
+    {
+      "id": 171,
+      "debut": 6639.12,
+      "fin": 6664.32,
+      "temps_estime": false,
+      "titre": "Opioid painkillers and cancer as a likely cause of death",
+      "resume": "Opioid overdoses do not only kill drug abusers: people taking drugs for pain can also slip over the edge, and one condition treated with pain relief drugs is cancer. Cancer happens when the body produces too many abnormal cells that the immune system cannot stop, and when it overwhelms vital organs it ends life, with statistically a high chance that people die this way.",
+      "mots_cles": [
+        "opioid painkillers",
+        "pain relief drugs",
+        "cancer",
+        "abnormal cells",
+        "immune system",
+        "vital organs",
+        "cause of death statistics",
+        "overdose"
+      ],
+      "texte": "it's not [music] only a drug abusers who die from opioid overdoses. Sometimes people taking the drugs for certain kinds of pain can one day slip over the edge. One of the pains associated with pain relief drugs is cancer. something that happens when your body [music] produces too much abnormal cells and your immune system can't stop reproduction. When the cancer overwhelms vital organs, it can spell the end of your life. You need to know how it might feel dying from it since statistically [music] there's a high chance you'll go this"
+    },
+    {
+      "id": 172,
+      "debut": 6664.32,
+      "fin": 6707.2,
+      "temps_estime": false,
+      "titre": "Cancer pain varies: silent killers and statistics",
+      "resume": "There are over 100 kinds of cancer affecting all parts of the body with varying pain, and some are called silent killers because people find out too late. Studies say 90% of cancer sufferers experience pain at some point, but a Netherlands study found only one in four described it as intolerable, and the CDC says lung cancer caused 23% of US cancer deaths in 2019, followed by colon, pancreas, breast and prostate cancers.",
+      "mots_cles": [
+        "cancer pain",
+        "silent killers",
+        "100 kinds of cancer",
+        "90% experience pain",
+        "Netherlands study",
+        "CDC 2019",
+        "lung cancer 23%",
+        "cancer deaths"
+      ],
+      "texte": "way. Cancer is a tricky one because there are over 100 kinds of it that [music] can affect all parts of the body and the conditions can give people varying amounts of pain. That's why some cancers are called silent killers because people might not know they have it until it's too late. Studies tell us that 90% [music] of cancer sufferers will experience pain at some point through the crisis, but that pain could be anywhere on the pain scale. For instance, a study undertaken in the Netherlands reported that only one in four cancer [music] sufferers described their pain as intolerable. According to the CDC in 2019, the [music] most common cancer that killed people in the USA was lung cancer, which was associated with 23% of all cancer deaths. Other common killers were cancers of the [music] colon, the pancreas, the female breast,"
+    },
+    {
+      "id": 173,
+      "debut": 6707.2,
+      "fin": 6750.0,
+      "temps_estime": false,
+      "titre": "Lung cancer and breast cancer symptoms",
+      "resume": "Lung cancer is often a silent killer found when already advanced, with possible constant cough, recurring lung infections or chest pain when the tumor presses on nerves, or no symptoms before death within 2 weeks. A woman with breast cancer had no pain at first and noticed a 6 centimeter lump, but within a week she was in a lot of pain, and in late stages the patient can be bedbound and unable to talk.",
+      "mots_cles": [
+        "lung cancer",
+        "breast cancer",
+        "tumor pressing on nerves",
+        "persistent cough",
+        "6 centimeter lump",
+        "bedbound",
+        "late stage cancer",
+        "symptoms"
+      ],
+      "texte": "and the prostate. The problem with lung cancer is that it can indeed be a bit of a silent killer [music] with many people finding out they have it when it's already progressed. Sometimes the person might have a constant cough or lung infections that come back. Sometimes chest pains when the tumor presses on the nerves. They might also feel nothing and be dead in [music] 2 weeks. A woman who was diagnosed with breast cancer said this about her pain. Initially, I did not have any pain, but noticed the lump first. It was 6 centimeters in diameter, so it was big enough to see when I looked in the mirror. But within a week, I was in a lot of pain. It's hard to say how much pain the person will be in, and it's just as hard to say when they'll die. But as time passes, if the cancer cells cannot [music] be beaten, the person can be bedbound, and in the later stage, they might not even"
+    },
+    {
+      "id": 174,
+      "debut": 6750.0,
+      "fin": 6799.04,
+      "temps_estime": false,
+      "titre": "Final stages of dying: pre-active and active death",
+      "resume": "At the bedside during final stages the person often is not screaming in pain but seems to drift out of life, possibly under pain medication. Pre-active death lasts a week or a few weeks before death, and active death happens in the days and hours before, with falling blood pressure, shallow breathing, being unable to wake and the death rattle, so pain levels are hard to judge.",
+      "mots_cles": [
+        "pre-active death",
+        "active death",
+        "death rattle",
+        "dying process",
+        "blood pressure drop",
+        "shallow breathing",
+        "pain medication",
+        "final stages"
+      ],
+      "texte": "be able to talk. If any of you have been at someone's bedside during the final stages, you might have seen that the person wasn't screaming out in pain. In many cases, they just seem to drift out of life. although pain medications could have [music] been administered at that time. This is usually happening as the person could be at the stage that's called pre-active death. This is usually just a week or a few weeks before they die. After that comes active death, which happens in the days and hours before death. In active death, the blood pressure will drop. Breathing could become shallow and the person might not be able to be awoken. At some point, the person will make a sound known as the death rattle, which means it's lights out. If you've seen someone in active death, you'll know it's not easy to understand their pain levels since they're only half there. With that in mind, dying can be a [music] very complex process, but it can also just be plain bloody horrible, as you'll now"
+    },
+    {
+      "id": 175,
+      "debut": 6799.04,
+      "fin": 6868.42,
+      "temps_estime": false,
+      "titre": "Dying of thirst: how dehydration shuts down the body",
+      "resume": "In 2014 the Washington Post wrote that thousands in the Middle East were at risk of dying from lack of food and water. Since the body is 60 to 70% water, severe dehydration moves water from cells into the blood and cells shrink, the brain becomes delirious, the kidneys shut down, the blood turns toxic and the person falls into a coma.",
+      "mots_cles": [
+        "dehydration",
+        "dying of thirst",
+        "Washington Post 2014",
+        "body water 60 to 70%",
+        "cells shrink",
+        "kidney failure",
+        "delirium",
+        "coma"
+      ],
+      "texte": "see. In 2014, the Washington Post wrote that because of terrorism in part of the Middle East and a subsequent refugee crisis, thousands of people were at risk of dying from an excruciating death. That death was not having food or water. You've all been thirsty before. Some of you so thirsty that the water might have seemed like the most wonderful thing the world has on offer. There's good reason for [music] this. It is. As you may know, our bodies are made up of around 60 to 70% water. Some of which is lost each day from urinating, sweating, and breathing. When you're severely dehydrated, the water in your cells is transferred into the bloodstream, and this makes those cells shrink. When the [music] cells in your brain shrink, that beautiful and complex organ doesn't work very well. This is why people who've gone without water have gone somewhat delirious. Another organ, the kidneys, will start to shut down because of this lack of water. That means they won't do their job of getting rid of all the waste products in the blood. [music] Soon, all the organs in your body will start to shut down. So, with toxic blood and a failing brain, the dehydrated person will eventually fall into a coma. This is why a long time before you get close to that stage, you'll start thinking water is the greatest thing on the planet, [music] and you'll almost do anything to get some. Just as the"
+    },
+    {
+      "id": 176,
+      "debut": 6868.42,
+      "fin": 6928.8,
+      "temps_estime": false,
+      "titre": "Chaz Powell's near-death from dehydration",
+      "resume": "Explorer Chaz Powell told the BBC in 2020 that in Africa he went from concerned to half mad, overheating and eventually drinking his own urine, which had even more waste because he was dehydrated. Told a helicopter would take four hours, he thought he did not have four hours, fainted on a cliff, risked kidney failure, delirium and heart attack but survived; going without water or food is one of the worst ways to die.",
+      "mots_cles": [
+        "Chaz Powell",
+        "dehydration survivor",
+        "BBC 2020",
+        "drinking urine",
+        "Africa",
+        "kidney failure",
+        "delirium",
+        "helicopter rescue"
+      ],
+      "texte": "explorer Chaz Powell said, a man who [music] almost died from dehydration. He told the BBC in 2020 that when he was in this state in Africa, he [music] went from being concerned to going half mad. By this point, I was starting to feel really ill, he said. I started to overheat and my body temperature [music] was just insane. When things get really bad, he started to drink his own urine. But that urine, which is usually 95% water and 5% waste, had more waste [music] in it because he was already dehydrated. It wasn't very good for him at all. but he didn't have any other options. Not long after, an SOS call he had made was answered. He was told the helicopter would get to him in four hours, to which he thought, \"I don't have four hours.\" [music] He moved on down a cliff at one point, fainting. He was at risk from kidney failure, delirium, and even having a heart attack because dehydration at its worst can also seriously affect the cardiovascular system. All organs eventually fail if dehydration is not treated. He survived, but had he died, it would have been a really horrible way to go. Needless to say, going without water or food is [music] one of the worst ways to die."
+    },
+    {
+      "id": 177,
+      "debut": 6928.8,
+      "fin": 6984.24,
+      "temps_estime": false,
+      "titre": "Starvation: the body eats itself",
+      "resume": "Starving to death is horrific enough that during great famines some people turned to cannibalism, and the body first consumes its fat, then muscles, then vital organs. A British Medical Journal article mentions hunger strikers stopped between 21 and 40 days because they were close to death, with disease often the cause of death as the immune system fails; the pain may not be acute but the slow process is very hard, and a survivor called it a very painful, terrible way to go.",
+      "mots_cles": [
+        "starvation",
+        "hunger strikers",
+        "British Medical Journal",
+        "famine cannibalism",
+        "body eating itself",
+        "immune system failure",
+        "slow death",
+        "multiple organ failure"
+      ],
+      "texte": "Both of which at the end lead to multiple organ failure. We can't imagine that something like starving [music] to death could be anything but horrific. This is why during great famines, some people have turned to cannibalism out of sheer desperation. With starvation, your body literally starts eating itself. Once the fat's gone, it starts taking [music] the muscles. And after that, the vital organs are affected in a bad way. It's hard to say just how long it takes because everyone is different. But an article in the British Medical Journal mentioned a bunch of hunger strikers who were stopped somewhere between 21 and 40 days because the people who were starving were on death's door. The cause of death is often disease since [music] without food the body's immune system can't function properly. This is a very slow death and while the pain might not be acute, the long process must be extremely difficult. Just to give you a real world example, one person said this about his lucky escape from starvation. Very painful, very terrible way to go. I wouldn't wish it on anybody. [music] The"
+    },
+    {
+      "id": 178,
+      "debut": 6984.24,
+      "fin": 7024.08,
+      "temps_estime": false,
+      "titre": "Stroke: second biggest killer and its aftermath",
+      "resume": "The World Health Organization ranks stroke second after heart disease, killing close to 6 million people a year, with around 13 million strokes annually according to world-stroke.org. A stroke happens when a clot cuts the brain's blood supply, and survivors often face profound disabilities such as affected speech or paralysis, while a catastrophic stroke can lead to a permanent coma.",
+      "mots_cles": [
+        "stroke",
+        "WHO",
+        "6 million deaths",
+        "13 million strokes",
+        "clot in artery",
+        "brain oxygen",
+        "paralysis",
+        "coma"
+      ],
+      "texte": "World Health Organization said throughout the world, heart disease is the biggest killer. But in second place, it had stroke. So, we think we should have a look at that. Stroke kills close to 6 million people in the world every year. It happens when your brain does not get the blood supply it requires, often because of a clot in an artery. And with a lack of oxygen to that brilliant organ, [music] things can go terribly wrong very fast. According to world-stroke.org, around 13 million people every year will have stroke. But there are a lot of survivors. Unfortunately, many people that will have a stroke are left with profound disabilities, often with affected speech or even paralysis. [music] When the stroke is termed catastrophic, well, the person might lapse into a coma that they never come"
+    },
+    {
+      "id": 179,
+      "debut": 7024.08,
+      "fin": 7065.52,
+      "temps_estime": false,
+      "titre": "Does a stroke hurt? Doug Tapking's account",
+      "resume": "People arriving at hospital after a stroke are confused but do not usually scream in pain, showing slurred speech, loss of some bodily functions or facial droop. Doug Tapking, waiting for steak in a California restaurant, found his friends saying he was mumbling and his left arm limp, and realized he was having a stroke.",
+      "mots_cles": [
+        "stroke symptoms",
+        "Doug Tapking",
+        "slurred speech",
+        "facial droop",
+        "limp arm",
+        "painless stroke",
+        "California restaurant",
+        "mumbling"
+      ],
+      "texte": "out of. But what we want to know is, does it hurt dying this way? People who've arrived at the hospital after a stroke are very confused, although they don't usually scream out in pain. They might have slurred speech, the loss of some bodily functions, or they might have a facial [music] droop, but they don't seem to be hurting all that much. Here's an example. A guy named Doug Tapking said he was waiting for his steak in a restaurant in California when things started to get weird. His friends told him he was mumbling. In his own words, he said, \"My right [music] arm came up without any trouble, but my left arm was limp at my side. So, I reached out and grabbed my left arm at my wrist. You know, [music] I kind of pulled it up to my chest level and I let it go and it just immediately fell into my lap.\" At that point, I vividly remember saying to myself, \"Oh crap, I'm having a stroke.\""
+    },
+    {
+      "id": 180,
+      "debut": 7065.52,
+      "fin": 7085.22,
+      "temps_estime": false,
+      "titre": "Painful strokes and the conclusion on stroke",
+      "resume": "For some people a stroke is very painful: Mari Meninhal said it felt like an explosion in her brain, and she was left with fairly serious disabilities. The narrator concludes a person could die from a stroke without feeling much pain, with life over before there is time to think about it.",
+      "mots_cles": [
+        "painful stroke",
+        "Mari Meninhal",
+        "explosion in brain",
+        "stroke disabilities",
+        "stroke pain",
+        "dying from stroke",
+        "conclusion",
+        "brain"
+      ],
+      "texte": "But for others, it can indeed be very painful. A woman named Mari Meninhal said the pain was so intense it felt like an explosion in her brain. She, like many stroke victims, had some fairly serious disabilities to deal with after. In conclusion, you could die from a stroke and not feel that much pain. Your sweet life could be over before you had much time to think about pain. Now,"
+    },
+    {
+      "id": 181,
+      "debut": 7085.22,
+      "fin": 7135.52,
+      "temps_estime": false,
+      "titre": "COPD: slow death and breathlessness",
+      "resume": "Chronic obstructive pulmonary disease and liver disease rank high among causes of death, are usually gradual and often linked to life choices like years of smoking or heavy drinking. In severe COPD lung capacity is so low that breathing is hard and painful because the lungs inflate and press on the chest wall, spine and diaphragm, and a patient's son said all his energy went to breathing, though near the end patients are usually in hospice on drugs.",
+      "mots_cles": [
+        "COPD",
+        "chronic obstructive pulmonary disease",
+        "smoking",
+        "breathlessness",
+        "lung capacity",
+        "hospice",
+        "slow death",
+        "chest wall pressure"
+      ],
+      "texte": "for two more things that come very [music] high on the list of how you might die. They are chronic obstructive pulmonary disease or COPD and liver disease. These two get a special mention because the death is usually very gradual. They might also be the result of some not so [music] great life choices such as smoking for many years or habitual boozing for breakfast. With both these diseases, the problem is when they're at [music] the most severe stage, they often affect your well-being to the extreme. With COPD, your lung capacity might be so low that it's very hard to breathe. This can also be very painful because it makes the lungs blow up and creates a lot of pressure on the chest wall as well as the spine and the diaphragm. The son of a man that died from COPD said at one point in time all his energy was spent just trying to breathe. So yes, dying slowly from this might cause significant pain, but close to the end the person would [music] usually be in hospice and bloated with"
+    },
+    {
+      "id": 182,
+      "debut": 7135.52,
+      "fin": 7198.72,
+      "temps_estime": false,
+      "titre": "Liver disease and cirrhosis: a silent killer",
+      "resume": "Liver disease includes non-alcoholic and alcoholic forms, and cirrhosis comes mostly from inherited conditions, obesity and infection rather than drinking alone. It is a silent killer with pain often absent until severe cirrhosis, 82% of end-stage patients feel pain, and toxins reaching the brain cause hepatic encephalopathy with confusion, falls and seizures, making the last stage unpleasant.",
+      "mots_cles": [
+        "liver disease",
+        "cirrhosis",
+        "silent killer",
+        "British Liver Trust",
+        "82% end stage pain",
+        "hepatic encephalopathy",
+        "fluid retention",
+        "alcoholic liver disease"
+      ],
+      "texte": "drugs. As for liver disease, people get non-alcoholic liver disease and alcoholic [music] liver disease. We tend to think of the hardening of the liver or cerosis happening mostly to people who drink a lot, but the majority of people get it from inherited conditions, obesity and [music] infection. This is one of the world's biggest killers. It's another one of those silent killers, too, because often people don't feel pain until they have a severe form of cerosis. We looked at the British Liver Trust Forum in the UK, and people there said things like, \"Don't read the internet because you'll end up thinking you'll be dead in a minute.\" Many of those people said sometimes they had pain where the liver is, but many said they didn't suffer from much pain. But in the end stage, 82% of people will feel pain, usually [music] the chronic kind. Sometimes the liver damage causes fluid retention and that can enlarge the spleen causing pain in the abdomen. The problem worsens when the toxins from the liver can travel [music] to the brain and cause something called epatic encphylopathy which can make people fall, be confused [music] or even have seizures. That's why the last stage before death can be very unpleasant. Now"
+    },
+    {
+      "id": 183,
+      "debut": 7198.72,
+      "fin": 7231.84,
+      "temps_estime": false,
+      "titre": "Traffic accident deaths worldwide",
+      "resume": "Among accidental deaths, drug overdoses are common but traffic accidents top the list worldwide, much more so in less developed nations. Reuters reported 38,680 US road deaths out of 3,358,814 total deaths in 2020, and the WHO says there are around 1.3 million traffic deaths globally.",
+      "mots_cles": [
+        "traffic accidents",
+        "road deaths",
+        "accidental death",
+        "Reuters 2020",
+        "38,680 deaths",
+        "WHO",
+        "1.3 million deaths",
+        "car crash statistics"
+      ],
+      "texte": "for some very painful ways to die, more accidents. As you already know, many people around the world die from drug overdoses. Although the highest on the list of accidental deaths around the world is traffic accidents, much more so in less developed nations. In the US in [music] 2020, Reuters reported that 38,680 people died in road accidents out of 3,358,814 [music] total deaths. That was with the extra COVID deaths. These are big numbers and that's why the WHO [music] says there are around 1.3 million deaths from traffic accidents globally. You already"
+    },
+    {
+      "id": 184,
+      "debut": 7231.84,
+      "fin": 7279.12,
+      "temps_estime": false,
+      "titre": "Severe trauma in crashes: head injury, bleeding and shock",
+      "resume": "Burning in a car crash is one of the leading causes of accidental death, but the main reason people die in a collision is severe trauma, especially to the head. A severe traumatic brain injury can kill without pain, while internal bleeding causes severe pain then shock, broken bones make victims scream for mercy, motorcycle accidents often involve amputation, and shock leaves only a 20 to 50% chance of survival even at the emergency room.",
+      "mots_cles": [
+        "severe trauma",
+        "traumatic brain injury",
+        "internal bleeding",
+        "broken bones",
+        "amputation",
+        "motorcycle accidents",
+        "shock",
+        "20 to 50% survival"
+      ],
+      "texte": "know about burning to death, which is one of the leading causes of accidental death in the world. And that can happen in a car crash. But the main reason you [music] might die in a traffic collision is the fact that you suffer severe trauma to a part of your body, especially the head. With a severe traumatic brain injury, you could be dead and not feel a thing. Although, if you die from internal bleeding, there can be severe pain and then shock. This severe trauma [music] can affect any part of the body. And if you've ever seen someone in the hospital after they've been smashed up and broken many bones, well, often they're screaming out for mercy. Sometimes that person could have a complete amputation of a body part, which happens more often with motorcycle accidents. If they're not unconscious, they'll likely be very confused and dizzy. The next stage could be shock, and if that happens, even if the person gets to the emergency room, there's only around a 20 to 50% chance"
+    },
+    {
+      "id": 185,
+      "debut": 7279.12,
+      "fin": 7319.44,
+      "temps_estime": false,
+      "titre": "Motorcycle crash survivor's account",
+      "resume": "A motorcycle accident survivor describes tumbling violently, sliding ankle first into the curb and then on his back, and seeing lots of blood and the inside of his ankle, while his intact leg hurt much more. He stayed conscious through the long wait in pain before the hospital, and the missing piece of his leg was bagged but so little was left that the rest had to be amputated.",
+      "mots_cles": [
+        "motorcycle accident",
+        "survivor account",
+        "ankle injury",
+        "amputation",
+        "conscious during trauma",
+        "ambulance wait",
+        "blood loss",
+        "pain after crash"
+      ],
+      "texte": "of survival. This is how one survivor described his motorcycle accident. He said, \"I remember tumbling violently, then sliding into the curb's ankle first, then continuing to slide. I tried to get up, but still sliding and ate it again, then continued to slide on my back.\" He looked down where he stopped, and he saw a lot of blood, including what he described as the inside of his ankle. Weird thing is his other leg hurt much more even though that was intact. He added, \"I was conscious during the whole thing from start till surgery. [music] I had to sit in pain for 10 minutes in an ambulance, 15 minutes for them to get me into the ambulance, and 20 minutes for the hospital. Somebody collected the bit of his leg that was missing and put it in a bag. So little was left that the rest had to be amputated. Amputation can also be a"
     }
   ]
 }
