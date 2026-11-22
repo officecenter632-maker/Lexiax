@@ -4,12 +4,12 @@
   "titre_video": "The End of the World Scenarios. Humanity is FINISHED.",
   "duree_s": 13080.84,
   "avancement": {
-    "lignes_traitees": 1907,
-    "fin_traitee_s": 3677.63,
+    "lignes_traitees": 2863,
+    "fin_traitee_s": 5531.25,
     "nb_lignes_total": 6858,
     "complet": false
   },
-  "nb_segments": 61,
+  "nb_segments": 90,
   "segments": [
     {
       "id": 1,
@@ -1108,6 +1108,528 @@
         "Castro assassination attempts"
       ],
       "texte": "his idea was simple. The CIA would train 1400 Cuban exiles in the US sympathetic to the old [music] government and angry at Castro to invade Cuba and win the country back. The plan was hatched under Eisenhower in 1960. By the time it was ready, the charismatic John F. Kennedy was president of the US. Kennedy had second and third [music] and fourth thoughts about the planned invasion. The strategy of sending in Cuban exiles had come about to first make it seem like it wasn't a US government [music] invasion of Cuba, and second to keep the invading groups small and clandestine so they could infiltrate [music] the island nation and win the support of even more anti-Castro Cubans. Kennedy worried that the group was too small to be militarily effective and too large to be kept [music] secret. However, on April 17th, 1961, the Bay of Pigs invasion was launched. The result was embarrassing. The US government had severely underestimated [music] Castro's forces and severely overestimated Cuban nostalgia for a US puppet government on the island. Within 24 hours, the US-trained Cuban exiles [music] had been defeated and Kennedy's administration was humiliated. Nevertheless, the effort to dismantle [music] Castro's regime continued with foiled assassination attempts throughout the year. Even though many top US officials advised [music] Kennedy that Cuba wasn't much of a threat to the US at all, Kennedy had told voters he would be tough on communism, and in politics,"
+    },
+    {
+      "id": 62,
+      "debut": 3677.63,
+      "fin": 3752.73,
+      "temps_estime": false,
+      "titre": "Why Khrushchev wanted missiles in Cuba",
+      "resume": "Soviet premier Khrushchev wanted to protect Cuba from US interference and gain a bargaining chip over West Berlin. Physicist Pavel Podvig's figures show the US had far more warheads and delivery systems, so missiles 90 miles from Florida, answering US Jupiter missiles in Turkey, would close the gap.",
+      "mots_cles": [
+        "Khrushchev",
+        "Cuba missiles",
+        "nuclear gap",
+        "Pavel Podvig",
+        "Jupiter missiles Turkey",
+        "West Berlin",
+        "ICBMs",
+        "Cuban Missile Crisis"
+      ],
+      "texte": "matter [music] most. Soviet premier Nikita Krushchev wanted to assist the newly formed communist government in Cuba against US [music] interference while also looking for a possible bargaining chip to gain influence in West Berlin. As he said, we had to establish a tangible [music] and effective deterrent to American interference in the Caribbean. But why exactly? The logistical answer was missiles. In addition, USSR and US nuclear capabilities [music] were vastly different at the time, and Krushchev sought to bridge the gap. Physicist Pavel [music] Podvig pointed out that Soviet bombers could deliver about 270 nuclear weapons to US territory, while the US had thousands of warheads and almost 2,000 missile delivery systems, [music] 1,576 strategic air command bombers, 183 Atlas and Titan ICBMs, 144 Polaris missiles on nuclear submarines, and 10 Minute Man ICBMs. The Soviets, in contrast, had good medium-range ballistic missiles and intermediate-range ballistic missiles, [music] though relatively unreliable ICBMs, aka intercontinental ballistic missiles. Placing weapons in Cuba only 90 miles from Florida would give the USSR a more reliable attack system against the US. After all, the US had already [music] placed Jupiter missiles in Turkey pointing at the USSR, so Krushchev figured missiles in Cuba would"
+    },
+    {
+      "id": 63,
+      "debut": 3752.73,
+      "fin": 3800.03,
+      "temps_estime": false,
+      "titre": "Secret Soviet deployment and the U-2 photographs of October 14",
+      "resume": "From July to October 1962 the Soviets secretly moved 41,902 troops disguised as agricultural specialists to Cuba, and the CIA, having withdrawn after the Bay of Pigs, found out only in October. On October 14, 1962 U-2 pilot Major Richard Heyser photographed an SS-4 missile being assembled, starting the crisis clock.",
+      "mots_cles": [
+        "Soviet troops in Cuba",
+        "41,902 soldiers",
+        "Richard Heyser",
+        "U-2 photograph",
+        "SS-4 missile",
+        "October 14 1962",
+        "CIA intelligence"
+      ],
+      "texte": "be an effective response. From July to October of 1962, the Soviets started secretly [music] transporting troops and equipment to Cuba. Though the operation was hardly a secret from Cuban [music] civilians, 41,902 soldiers were deployed unconvincingly disguised as agricultural specialists. [music] While at one point Marshall Sergey Biryuzov suggested disguising the missiles as palm trees, the CIA wouldn't discover the nuclear [music] plot until October as it had withdrawn most of its presence after the Bay of Pigs. Though the US had noticed the [music] Soviet military buildup in Cuba, it was on October 14th, 1962 that U-2 spy [music] plane pilot Major Richard Heyser photographed the Soviet SS-4 medium-range ballistic missile being assembled. This started the clock on one of the most tense, harrowing terrifying in US history. The next day, Kennedy"
+    },
+    {
+      "id": 64,
+      "debut": 3800.03,
+      "fin": 3890.43,
+      "temps_estime": false,
+      "titre": "Kennedy's ExComm, the naval quarantine and the TV address",
+      "resume": "Kennedy formed ExComm of the National Security Council, ignored hawkish joint chiefs and chose a naval blockade he called a quarantine, since a blockade is technically an act of war. In a televised address he said any missile launched from Cuba would be treated as a Soviet attack, and the military moved to DEFCON 3.",
+      "mots_cles": [
+        "ExComm",
+        "naval quarantine",
+        "blockade",
+        "Kennedy TV address",
+        "DEFCON 3",
+        "Khrushchev letter",
+        "joint chiefs of staff"
+      ],
+      "texte": "[music] seized the photos and calls his closest advisors to a meeting in order to discuss US options. He forms a group called the executive committee [music] of the National Security Council, or ExComm for short, consisting of five close advisors and nine members of the National Security Council. Suggestions thrown out in the meeting are all over the map, ranging from [music] a stern warning to the Soviet Union and Cuba to an air strike and outright invasion of the island. Kennedy, [music] ignoring his hawkish joint chiefs of staff, reflecting on humiliating previous interventions in Cuba and rightly considering that a direct attack [music] and invasion may lead to disaster, chooses another path. He decides the US will conduct a naval blockade of the island, although he calls it a quarantine instead. Why a quarantine? Because a blockade is technically [music] an act of war, and this one word difference would actually further escalate the situation. JFK dictates a letter [music] to Khrushchev announcing that the US will not permit Soviet shipments of weapons to Cuba. The president further demands that the Soviet Union dismantle the current Cuban missile bases and return all weapons to Moscow. That night, Kennedy makes a serious public announcement regarding [music] the crisis to the US public. On national television, he says it shall be the policy [music] of this nation to regard any nuclear missile launch from Cuba against any nation in the Western hemisphere as an attack by [music] the Soviet Union on the United States, requiring a full retaliatory response upon the Soviet Union. The same day, the joint chiefs of staff upgrades the US [music] military readiness status to DEFCON 3, not full readiness yet, but increased vigilance with the Air Force ready to mobilize [music] within 15"
+    },
+    {
+      "id": 65,
+      "debut": 3890.43,
+      "fin": 3952.53,
+      "temps_estime": false,
+      "titre": "ExComm's private view: the missiles change little, but optics matter",
+      "resume": "A memo by Theodore Sorensen said the Cuban missiles did not significantly alter the balance of power, and Robert McNamara noted a missile is a missile. Yet after the Bay of Pigs the administration felt it could not look weak against an aggressive Soviet act.",
+      "mots_cles": [
+        "Theodore Sorensen",
+        "Robert McNamara",
+        "balance of power",
+        "optics",
+        "weakness",
+        "ExComm debate",
+        "megatonnage"
+      ],
+      "texte": "minutes. While Kennedy is taking this bold, powerful stance in front of the American people, another discussion [music] entirely is taking place behind closed doors in ExComm meetings. Special counsel Theodore Sorensen, articulating the views of the ExComm board, writes the following memo regarding the Soviet missiles in Cuba. It is generally agreed that these missiles, [music] even when fully operational, do not significantly alter the balance of power. I.e., they do not significantly increase the potential megatonnage capable of being unleashed on American [music] soil, even after a surprise American nuclear strike. The Soviets already had missiles capable of attacking the US from longer distances. [music] Secretary of Defense Robert McNamara points out the obvious in ExComm meetings. A missile is a missile. It makes [music] no great difference whether you're killed by a missile from the Soviet Union or Cuba. The fact that the longer range missiles were somewhat more unreliable didn't mean much in the long run. The US is a pretty big [music] target to hit. However, the Kennedy administration knows that optics are important, and after the humiliating events of the last two years [music] in Cuba, the US cannot afford to look weak in the face of an aggressive Soviet act."
+    },
+    {
+      "id": 66,
+      "debut": 3952.53,
+      "fin": 4023.71,
+      "temps_estime": false,
+      "titre": "Khrushchev's response, the quarantine line and DEFCON 2",
+      "resume": "On October 24 Khrushchev called the blockade an act of aggression, but turned back weapon-carrying Soviet ships at the quarantine line. With the Cuban missile site nearly ready, Strategic Air Command went to DEFCON 2, meaning war was imminent, a level just below the never-used DEFCON 1.",
+      "mots_cles": [
+        "October 24",
+        "quarantine line",
+        "Soviet ships turned back",
+        "DEFCON 2",
+        "Strategic Air Command",
+        "China support Cuba",
+        "West Berlin fears"
+      ],
+      "texte": "Meanwhile, halfway across the world, Khrushchev receives Kennedy's [music] letter and sees his television appearance announcing the quarantine. On October 24th, Khrushchev comes back with a response of his own. The Soviet [music] leader calls a spade a spade, or rather a blockade a blockade, and dubs it an act of aggression on the part of the US. However, even while [music] Khrushchev publicly condemns the US's actions, he is unwilling to have weapon-carrying ships breach the US [music] quarantine line. Soviet ships are turned back by the US except for a few carrying no weapons. The tensions between the two Cold War superpowers are being felt [music] all around the world. China starts publicly announcing its support of Cuba, while the citizens of West Berlin fear their freedom will end up trampled in any Soviet-US [music] conflict. Though Khrushchev is unwilling to breach the quarantine line, more US spy planes inform Kennedy that the Soviet's missile site on Cuba is still being worked on and almost ready. Seeing that his calls [music] to dismantle the site have gone unheeded, Kennedy and his administration upgrade the readiness status of Strategic [music] Air Command to DEFCON 2. DEFCON 1, the highest level of military readiness including its nuclear [music] forces, has in fact never been called for in US history. So the upgrade to DEFCON 2, meaning war is imminent, underscores the grave nature"
+    },
+    {
+      "id": 67,
+      "debut": 4023.71,
+      "fin": 4074.84,
+      "temps_estime": false,
+      "titre": "October 26: invasion considered and Khrushchev's heartfelt letter",
+      "resume": "On October 26 Kennedy seriously considered an invasion and strike on the missile site, though he wanted more time for diplomacy. That night Khrushchev sent a long private letter about the risk of nuclear apocalypse, using the knot-in-the-rope metaphor and offering to remove missiles for a US pledge not to invade Cuba.",
+      "mots_cles": [
+        "October 26",
+        "invasion of Cuba",
+        "Khrushchev letter",
+        "knot and rope",
+        "thermonuclear war",
+        "no invasion pledge",
+        "diplomatic option"
+      ],
+      "texte": "of the crisis. On October 26th, Kennedy [music] starts seriously considering the option of a US invasion in Cuba and a direct strike on the missile site, predicting that this will cause global mayhem. He wants to give his diplomatic option more time to work while facing extreme pressure [music] from both Congress and ExComm to take military action. That same evening, around 2:00 a.m. Moscow time, Khrushchev sends a long message to Kennedy, in which he details his fears of the current [music] situation resulting in nuclear apocalypse. In a private, heartfelt letter to the US President, the Soviet leader writes that there is no intention to doom the world to the catastrophe of thermonuclear war, [music] then let us not only relax the forces pulling on the ends of the rope, let us take measures to untie that knot. We are ready for this. Khrushchev promises to remove the missiles in exchange [music] for a simple US assurance that they will not invade Cuba. However, the next day, on"
+    },
+    {
+      "id": 68,
+      "debut": 4074.84,
+      "fin": 4164.44,
+      "temps_estime": false,
+      "titre": "October 27: the second letter and the U-2 shot down",
+      "resume": "On October 27 Khrushchev sent a harsher public letter demanding removal of US Jupiter missiles from Turkey, and a Soviet general ordered a surface-to-air missile launch that killed U-2 pilot Rudolph Anderson. Paul Nitze said they fired the first shot, war seemed inevitable and Khrushchev realized events were out of control.",
+      "mots_cles": [
+        "October 27",
+        "Rudolph Anderson",
+        "U-2 shot down",
+        "Stepan Greco",
+        "Jupiter missiles Turkey",
+        "Paul Nitze",
+        "Khrushchev second letter"
+      ],
+      "texte": "October 27th, Khrushchev, apparently over whatever dark night of [music] the soul caused him to reach out to Kennedy the night before, goes back on his conciliatory stance. In a much more harshly worded and unfortunately [music] public letter, he indicates that any deal must include the removal of US Jupiter missiles from Turkey in order to be accepted by the USSR. Furthermore, another military [music] action forces the US closer than ever to war with the USSR. Soviets tracking an American U-2 spy [music] plane conducting a reconnaissance mission over Cuba become increasingly concerned that the US will learn too much [music] as the pilot spends well over an hour near secret locations of Soviet nuclear weapons. Even though only [music] the commanding general is supposed to authorize a surface-to-air missile launch, he is nowhere to be found. Lieutenant General [music] Stepan Greco gives the order to shoot down the plane instead. Two missiles are fired. One of them manages [music] to find its target, bringing down the plane and killing US pilot Rudolph Anderson. A hush falls over [music] Kennedy's meeting with his team as the killing of Anderson reaches their ears. Assistant Secretary of Defense Paul Nitze remarks, [music] they fired the first shot. To everyone in the room, war now seems inevitable. In Moscow, Khrushchev hears of the attack and [music] starts to realize the situation is quickly careening out of control. As he would state later in life, the Soviet premier had mostly wanted to make the US learn just what it feels like to have enemy missiles pointing at you. We'd be doing nothing more than giving them a little of their own medicine. It was never his intention to come so [music] close to nuclear war, a possibility which now seems increasingly likely and is about to become an even closer"
+    },
+    {
+      "id": 69,
+      "debut": 4164.44,
+      "fin": 4218.44,
+      "temps_estime": false,
+      "titre": "Submarine B-59 and Vasili Arkhipov",
+      "resume": "US ships dropped signaling depth charges on Soviet submarine B-59, which carried a nuclear-tipped torpedo and had lost contact with the world. Captain Savitsky thought war had begun and ordered a launch, but Vasili Arkhipov refused to sign off, and a nuclear strike was narrowly averted.",
+      "mots_cles": [
+        "B-59 submarine",
+        "Vasili Arkhipov",
+        "Savitsky",
+        "nuclear torpedo",
+        "depth charges",
+        "nuclear strike averted",
+        "three officers"
+      ],
+      "texte": "[music] call. At the same time that the two leaders are deciding their next move, there's a problem at the quarantine line. The US Navy is dropping [music] a series of signaling depth charges close to a Soviet B59 submarine to force it to surface. Unbeknownst to them, the submarine [music] is equipped with a nuclear-tipped torpedo, one that it has orders to use if the submarine is fired on. Unfortunately, the submarine has been too deep in the ocean for too long to know the current status of the [music] crisis. Captain Valentin Grigoryevich Savitsky assumes the charges being dropped on the B59 are an attack [music] and that the US and USSR are already at war. He makes the decision to launch the torpedo. However, all three officers [music] on board need to sign off on the decision to launch a nuclear weapon from the submarine. One man, Vasili Arkhipov, holds out, believing the situation might [music] be a misunderstanding. The torpedo remains unlaunched and a nuclear strike is once again very narrowly averted. [music]"
+    },
+    {
+      "id": 70,
+      "debut": 4218.44,
+      "fin": 4277.14,
+      "temps_estime": false,
+      "titre": "Kennedy resists revenge and ignores Khrushchev's second letter",
+      "resume": "Kennedy's advisors urged a retaliatory attack after the U-2 shootdown, but he suspected Khrushchev had not authorized it and feared escalation to the sixth step. He decided to respond only to Khrushchev's first letter and ignore the second, which demanded Turkey missile withdrawal.",
+      "mots_cles": [
+        "Kennedy restraint",
+        "retaliation",
+        "escalation",
+        "ignore second letter",
+        "NATO alliances",
+        "Turkey missiles",
+        "fifth and sixth step"
+      ],
+      "texte": "Back in DC, with the news of the U2 plane being shot down all over the White House, Kennedy's advisors are clamoring [music] for revenge. They urge Kennedy to launch a retaliatory attack the next morning. Kennedy, however, correctly [music] suspects that Khrushchev did not authorize this air strike against a US plane. He's still hesitant [music] to take military action. As he explains to the advisors directing him toward war, it isn't the first step [music] that concerns me, but both sides escalating to the fourth or fifth step and we don't go to the sixth because there's no one around to do so. [music] At this point, the US administration makes a risky move. Kennedy decides to ignore Khrushchev's second, angrier letter, as promising [music] to withdraw missiles from Turkey would show US weakness and risk NATO alliances. The president decides [music] still respond only to the first letter instead. Ignoring the existence of an official enemy demand in a crisis [music] is definitely a bold move, but one that Kennedy feels will pay off. JFK also realizes that to preserve US status and [music] alliances, he has little other choice at"
+    },
+    {
+      "id": 71,
+      "debut": 4277.14,
+      "fin": 4342.64,
+      "temps_estime": false,
+      "titre": "Robert Kennedy's secret deal with Dobrynin",
+      "resume": "Robert F. Kennedy, JFK's trusted advisor, secretly met Soviet ambassador Anatoly Dobrynin and promised the US would remove its Jupiter missiles from Turkey, but not as part of a public deal. Hearing this, Khrushchev decided to end the crisis.",
+      "mots_cles": [
+        "Robert F. Kennedy",
+        "Anatoly Dobrynin",
+        "secret deal",
+        "Jupiter missiles Turkey",
+        "back channel",
+        "Khrushchev",
+        "ExComm"
+      ],
+      "texte": "this point. Little do the X-COM members know that JFK has also been secretly playing [music] another hand this whole time. Perhaps to be expected from such a tight-knit family, JFK keeps his younger brother Robert F. Kennedy, just 36 years old at the time, as his most trusted [music] advisor. As the missile crisis is escalating, RFK is functioning as the president's de facto chief of staff. Unbeknownst to the rest of ExComm [music] members, while the team publicly drafts JFK's response to Khrushchev, a promise not to attack Cuba in exchange for the removal of Soviet missiles, JFK has sent his younger brother [music] on a mission. Robert F. Kennedy secretly meets with Soviet ambassador to the US, Anatoly Dobrynin. He informs the ambassador that the US will in [music] fact remove their Jupiter missiles from Turkey and that they were planning to do so anyway. However, he emphasizes [music] the fact that for the sake of optics and alliances, this removal cannot be part of any public deal between the US [music] and the Soviet Union. Dobrynin conveys the message to Khrushchev, who's already fearful of an imminent war between the two nuclear superpowers. Upon hearing the US will accept [music] the Soviet's demands, even in secret, the Soviet premier decides to put an end to this crisis"
+    },
+    {
+      "id": 72,
+      "debut": 4342.64,
+      "fin": 4428.34,
+      "temps_estime": false,
+      "titre": "October 28: Soviets withdraw, and the crisis's aftermath",
+      "resume": "On October 28 Radio Moscow announced the Soviet Union would dismantle all missiles in Cuba, ending the 13-day crisis, and Kennedy ended the quarantine on November 20. The US removed its Turkish Jupiters in April 1963 in secret, Kennedy won praise, a Moscow-Washington hotline was installed, and Arkhipov's role showed how close nuclear war came.",
+      "mots_cles": [
+        "Radio Moscow",
+        "13 days",
+        "missiles dismantled",
+        "hotline",
+        "Jupiter missiles removed",
+        "Castro angry",
+        "Kennedy praise"
+      ],
+      "texte": "once and for all. At 10:00 a.m. on October 28th, Radio Moscow interrupts everything [music] to make one of the most important announcements of the year. Reading a letter from Khrushchev to Kennedy, the Soviet Union will dismantle and remove all missiles from Cuba. Though Castro is angry with what he perceives [music] as the Soviets backing down in the face of US intimidation, most of the world breathes a sigh of [music] relief. Back on American soil, Kennedy hears the message and responds in kind, promising to keep the peace [music] in the Caribbean area and praising Khrushchev for his statesman-like decision. After a harrowing 13 days, the Cuban missile crisis came [music] to an end. The Soviet Union started dismantling their missiles, and on November 20th, after Kennedy was satisfied that all missiles had been [music] removed, he ended the quarantine of Cuba. Six months later, in April of 1963, the US removed its Jupiter missiles from Turkey. Though the world wouldn't know [music] this was part of the US-USSR pact for years. Since this part of the deal was kept a secret, Kennedy won praise for his resolution of the crisis, while Khrushchev ended up viewed as [music] somewhat weaker, having given into US demands in exchange for a simple reassurance of peace. However, one [music] good effect of the crisis was the installation of a hotline between DC and Moscow to prevent another similar [music] conflict from ever taking place. It's terrifying to think that were it not for a few moments of hesitation on the parts of Kennedy and Khrushchev or the actions of one man on a submarine such as Vasili Arkhipov, world could have erupted in nuclear war in October"
+    },
+    {
+      "id": 73,
+      "debut": 4428.34,
+      "fin": 4492.24,
+      "temps_estime": false,
+      "titre": "The Black Death in rural England",
+      "resume": "A scene of a man dying with egg-sized buboes introduces the Black Death, so deadly that some thought the world would end. In 1300s rural England, where 90% lived in small communities, entire villages were wiped out and a chronicler wrote that almost none were left alive.",
+      "mots_cles": [
+        "Black Death",
+        "bubonic plague",
+        "rural England",
+        "buboes",
+        "1300s",
+        "chronicler",
+        "depopulated villages"
+      ],
+      "texte": "of 1962. In what was once a quiet hamlet in rural England, the dead are being carted through the muddy streets. [music] Inside one particular dwelling, a man lies on his back, delirious from the effects of a very high fever. He struggles to breathe. Sounds emanate from him that can only be described as a death rattle. Suddenly, he vomits blood on the floor, the motion exposing what looks like egg-sized [music] bubos covering his body. He will be dead within a day or two, as will his wife and his three children, as [music] will his best friend and neighbors, as will most of the people in the surrounding areas. What we're talking about is the Black Death, a disease so virulent and deadly to some it looked like the world would end. Black Death. You can easily imagine why folks in parts of rural England in the 1300s must have thought that [music] this killer pestilence was the end of the world. Around 90% of people back then lived in small rural communities, and the Black Death in some cases wiped out the entire community. As one chronicler put it, [music] parts of the countryside were quite void of inhabitants so that there were almost none left alive. Can you imagine what"
+    },
+    {
+      "id": 74,
+      "debut": 4492.24,
+      "fin": 4582.54,
+      "temps_estime": false,
+      "titre": "How the plague spread through England and Scotland",
+      "resume": "The plague entered England from the south in 1348 and spread quickly while news traveled slowly, depopulating villages of up to 500 people and reaching Scotland, whose soldiers called it God's vengeance on the English. It killed an estimated 40 to 60% of England's population and 30 to 60% of Europe's.",
+      "mots_cles": [
+        "Black Death 1348",
+        "spread of plague",
+        "Scotland",
+        "40 to 60% of England",
+        "30 to 60% of Europe",
+        "chroniclers",
+        "pestilence"
+      ],
+      "texte": "that must have been like? No one knew what was coming. The Black Death, actually not called the Black Death back then, was a bubonic plague that entered England from the south and made its way through the country at a frightening speed. It wasn't as if these rural communities had much warning. Word [music] didn't travel too fast back in 1348. Some of those small villages, perhaps with populations of up to 500, were completely [music] depopulated. In the larger towns and certainly London, some people had been hearing rumors about a terrifying pestilence that had been sweeping through Europe, [music] but the rural folks didn't know what was coming. This is how another chronicler put it when talking about one particular place. Almost the whole strength of the town perished. In other towns, there weren't enough people living to bury the The plague then traveled further [music] north with one bishop writing at the time that he saw no one from one town because they were all dead. It traveled to Scotland too, a country at the time that had been warring with England. Scottish soldiers had said the disease was God taking vengeance on the evil English, but those soldiers carried it home to Scotland. The plague was an equal opportunist and it killed the Scottish with a similar ferocity. One Scottish chronicler later wrote in 1348, so great a plague has never been heard of from the beginning of the world to the present day or been recorded in books. Estimates vary, but it's thought that in England alone the Black Death killed 40 to 60% of the population. It killed something like 30 to 60% of Europe's population. And so you can imagine that at the time people must have wondered if this was not the end of"
+    },
+    {
+      "id": 75,
+      "debut": 4582.54,
+      "fin": 4648.59,
+      "temps_estime": false,
+      "titre": "Other great plagues: Athens, Justinian and London",
+      "resume": "Other plagues include the plague of Athens from 430 to 426 BC, which killed over a quarter of Athens' population, and the bubonic plague of Justinian from 541 to 750, which took about half of Europe's people. The Great Plague of London in 1665 to 1666 killed around 100,000, about 20% of the city.",
+      "mots_cles": [
+        "plague of Athens",
+        "plague of Justinian",
+        "Great Plague of London",
+        "bubonic plague",
+        "historic pandemics",
+        "bubo"
+      ],
+      "texte": "the world. Plagues in general. We're not going to go through every plague that must have made people wonder if humans didn't have long left, but we'll mention a couple. You have the plague of Athens [music] that lasted from 430 to 426 BC. No one is exactly sure what the disease was, but it killed over a quarter of the population of Athens and it killed those [music] it affected very quickly. That was some ways good news because the hosts died so fast they couldn't spread it around too much. Then there was the plague of Justinian which lasted from 541 to 750. This was certainly a bubonic plague which relates [music] to those swollen lymph nodes we talked about that looked like tumors. The name for this kind of swollen lymph node was a bubo, hence bubonic plague. During the time it ravaged Europe it took with it half of the population there. People might well have thought this thing will never stop, it will kill us all. The Great Plague of London that lasted from 1665 to 1666 killed around 100,000 people, [music] but that was actually around 20% of the people that lived there. While Londoners back then might not have thought the world was going to end, they would have certainly wondered just how bad things"
+    },
+    {
+      "id": 76,
+      "debut": 4648.59,
+      "fin": 4695.14,
+      "temps_estime": false,
+      "titre": "Cold War nuclear fear and duck-and-cover",
+      "resume": "A new chapter on the Cuban Missile Crisis opens with Cold War fear that someone might press the button, with 1960s to 1980s TV programs on what to do in a nuclear war. The duck-and-cover ads put the fear of God into people, and the Cuban crisis was the closest of many close calls.",
+      "mots_cles": [
+        "Cold War",
+        "nuclear fear",
+        "duck and cover",
+        "civil defense ads",
+        "close calls",
+        "Soviet Union and USA",
+        "nuclear stockpiles"
+      ],
+      "texte": "could get. Cuban Missile Crisis. During [music] the Cold War when the Soviet Union and the USA were creating stockpiles of nuclear weapons, [music] there was always an overhanging fear that someone might just press the button and an all-out nuclear war would take place, [music] with it possibly ending humanity. In the 1960s, 70s, and 80s, people were always a little concerned that nuclear war could happen, mainly because the TV kept showing them infomercials about what to do in the event of such a war. Those programs were damn scary, too, if not a bit ridiculous at times. We're not sure if the duck and cover technique would have saved someone from a nuclear bomb, but the ads certainly put the fear of God into people. It was in the 60s when things really came to a head. By the way, there have been a bunch of what are called close calls, but this was the closest."
+    },
+    {
+      "id": 77,
+      "debut": 4695.14,
+      "fin": 4782.84,
+      "temps_estime": false,
+      "titre": "The Cuban crisis in brief: Castro, Bay of Pigs and the missile sites",
+      "resume": "From October 16 to 28, 1962 the Soviets and Americans were in a standoff after the Bay of Pigs failed and Castro and Khrushchev agreed to build ballistic missile sites in Cuba, mirroring US sites in Europe. Khrushchev spoke of mutually assured destruction, and the Joint Chiefs wanted a full-scale attack on Cuba.",
+      "mots_cles": [
+        "Cuban Missile Crisis",
+        "Bay of Pigs",
+        "Castro",
+        "Khrushchev",
+        "mutually assured destruction",
+        "MAD",
+        "Joint Chiefs of Staff"
+      ],
+      "texte": "From October 16th to October 28th in the year 1962, there was a standoff between the Soviets and the Americans. It's a long story, but let's just say that the USA had prior to '62 watched as Fidel Castro's revolutionary army turned over a Cuban dictatorship and introduced a revolutionary socialist state. Well, [music] that really upset the Americans who certainly didn't want Cuba getting into bed with Soviet communists, and that happened anyway, much [music] to the chagrin of the US. In 1961, the Americans secretly directed an invasion of Cuba led by Cuban rebels, and this became known as the Bay of Pigs invasion. It didn't work is the short explanation. After the invasion, Castro got in touch with Soviet leader Nikita Khrushchev. Together, they agreed to construct ballistic missile launch facilities in Cuba, sites that weren't that far from the USA. The US already had launch sites in Europe that weren't that far from Russia. When the US found out about the Cuban facilities, you could say the White House and the Pentagon weren't exactly happy about it. The US demanded that the facilities be taken down and the missiles be sent back to Russia. Knowing that the Americans had launch sites in Europe, Khrushchev said he wanted to level the playing field, and so if the US decided to attack them, what would now happen was mutually assured destruction. The very apt abbreviation and acronym of that is MAD, or mad. What you might not know is that the Joint Chiefs of Staff of the Department of Defense wanted to just go ahead with a full-scale attack on Cuba, thinking the Soviets wouldn't fight back. The missile sites soon became"
+    },
+    {
+      "id": 78,
+      "debut": 4782.84,
+      "fin": 4858.24,
+      "temps_estime": false,
+      "titre": "Kennedy's broadcast, Khrushchev's knot letter and the deal",
+      "resume": "Kennedy told the nation on TV that a missile launched from Cuba would be treated as a Soviet attack requiring full retaliation. Khrushchev wrote that the knot of tension must be untied, and Kennedy agreed to remove missile sites from Italy and Turkey and not invade Cuba if the Soviets dismantled Cuban sites.",
+      "mots_cles": [
+        "Kennedy broadcast",
+        "full retaliatory response",
+        "Khrushchev letter",
+        "tight knot",
+        "Italy and Turkey missiles",
+        "diplomacy",
+        "no invasion"
+      ],
+      "texte": "known to the public and the people started getting scared. If you were around in those times, you would have seen President John F. Kennedy on the TV speaking to the nation, and his words were, it shall be the policy of this nation to regard any nuclear missile launched from Cuba against any nation in the Western Hemisphere as an attack by the Soviet Union on the [music] United States, requiring a full retaliatory response upon the Soviet Union. Damn, people might have thought, are they really going to do this? Things heated up more, and then a Soviet spy said it seemed war was imminent and asked US officials [music] if some kind of agreement could be made rather than a nuclear war kill many, many people. Meanwhile, the US military's top [music] brass were still pushing for an all-out attack on Cuba. Khrushchev wrote to Kennedy discussing how they made a tight knot of tension, and it needed to be untightened. He wrote, [music] if there is no intention to tighten the knot and thereby doom the world to the catastrophe of the thermonuclear war, [music] then let us not only relax the forces pulling on the ends of the rope, let us take measures to untie that knot. We're ready for this. There's much [music] more to the story, but in the end Kennedy agreed to remove the missile launch sites from Italy and Turkey and not invade Cuba only if the Soviets dismantled their launch sites in Cuba. Diplomacy won in the end, but we weren't so far from nuclear war. How would that"
+    },
+    {
+      "id": 79,
+      "debut": 4858.24,
+      "fin": 4881.95,
+      "temps_estime": false,
+      "titre": "What if the US had attacked Cuba: 100 million dead",
+      "resume": "A political scientist wrote that the planned US air strike and invasion would likely have triggered a nuclear response against American ships, troops and perhaps Miami. The war might have killed over 100 million Americans and over 100 million Russians.",
+      "mots_cles": [
+        "nuclear war counterfactual",
+        "US air strike",
+        "100 million Americans",
+        "100 million Russians",
+        "Miami",
+        "nuclear response",
+        "political scientist"
+      ],
+      "texte": "have gone down? Some years later an American political scientist wrote the US air strike and invasion that were scheduled for the third week of the confrontation would likely have triggered a nuclear response against American ships and troops and perhaps even Miami. The resulting war might have led to the deaths of over 100 million Americans and over 100 million Russians. Maybe that's not the end of the world, but [music] what would have happened"
+    },
+    {
+      "id": 80,
+      "debut": 4881.95,
+      "fin": 4944.95,
+      "temps_estime": false,
+      "titre": "December 21, 2012: the Mayan calendar doomsday",
+      "resume": "Polls showed 10% of people thought the world would end on December 21, 2012 because the Mayan calendar supposedly ran out. This was called balderdash because the calendar did not end, yet believers ignored experts and prepped for the apocalypse.",
+      "mots_cles": [
+        "Mayan calendar",
+        "December 21 2012",
+        "Mayan apocalypse",
+        "doomsday poll",
+        "10% believed",
+        "apocalypse deniers",
+        "misinformation"
+      ],
+      "texte": "after that? December 21st, 2012. And now for something completely different and even a bit silly. We say silly, but the polls at this time revealed that 10% of the people interviewed thought the world would end on this day. And you might ask, what was so special about December 21st, 2012? Why not June 6th, 2007 at 4:26 p.m. starting with an exploding sausage factory somewhere outside Lyon in France. That made about as much sense. This was what you might call a doomsday scenario. It involved a large number of very misguided and misinformed people who thought the end of civilization was imminent. It was going to end that day because they said this [music] was the day that the Mayan calendar ended. It had run out of spaces, so to speak, and they said there wasn't another edition. This was complete balderdash [music] to use a word we think people should use much more frequently because it sounds so cool. The calendar didn't end at all, and any expert on Mayan culture could have told those 10 percenters that, but they weren't listening. [music] They were prepping instead and busy writing horrible things about so-called Mayan apocalypse deniers. Some people around"
+    },
+    {
+      "id": 81,
+      "debut": 4944.95,
+      "fin": 5005.05,
+      "temps_estime": false,
+      "titre": "After 2012: parties, bunkers and the Mayan specialists' verdict",
+      "resume": "Some held a last big party on December 20, others hid in bunkers with hoarded food and woke to the sun with 300 boxes of mac and cheese. People in Mérida, Mexico carried on as usual, and Mesoamerican specialists said no Mayan text ever predicted the end of the world.",
+      "mots_cles": [
+        "Mayan apocalypse aftermath",
+        "bunkers",
+        "hoarding",
+        "Mérida Mexico",
+        "Mesoamerican specialist",
+        "social media rumor",
+        "no Mayan prophecy"
+      ],
+      "texte": "the world actually had one last big party [music] on December 20th. Strangers let their hair down and made love in the streets. Some sat quietly at home burning incense sticks while listening to One Direction's Take Me Home. Others were less accepting of death, and photos emerged online of them down in their bunkers with all the food they'd hoarded, only for the sun to come up the next day and leave them wondering what they were going to do with 300 boxes of mac [music] and cheese. Weirdly, people in the city of Mérida, Mexico, the place where you'd have found lots of Mayans, were just going about their business as usual. It turned out that one loon had misread some Mayan text, and another loon shared that loon's prophecy, and the rest was history. We found out then that in the age of the internet and social media, a person can read an alleged holy inscription on a Dorito, and soon they'll have a maddening crowd of followers. The followers of this theory didn't bother reading the words of one of the world's leading Mayan and Mesoamerican specialists, a man who said no Mayan text, ancient, colonial, or modern, ever predicted the end of time"
+    },
+    {
+      "id": 82,
+      "debut": 5005.05,
+      "fin": 5089.75,
+      "temps_estime": false,
+      "titre": "Y2K: the Millennium Bug panic",
+      "resume": "On January 1, 2000 some people expected apocalypse from the Millennium Bug, because early coders stored years as two digits so 00 could be read as 1900. Fear of nuclear plants exploding and banks failing led some to hoard, but the day after 2000 was ordinary with only some minor hitches.",
+      "mots_cles": [
+        "Y2K",
+        "Millennium Bug",
+        "two-digit years",
+        "hoarding",
+        "January 1 2000",
+        "computer systems",
+        "doomsday panic"
+      ],
+      "texte": "or the end of the world. Y2K. At the stroke of midnight, when the year was January 1st, 2000, some people were hunkering down waiting for the apocalypse to happen. This time it wasn't about ancient theories, but modern technology. The theory was that something called the Millennium Bug would wreak havoc on our highly digitized world. There actually was a slight [music] problem in that coders in the early days would not write something like 1997, they just put 97 because that saved space. But what would happen when 2000 came along? Would 00 actually mean 1900 or would this bug shut down and mess up certain computer systems? Some people thought it would. What had to be done was a lot of coding to fix the problem, but for some reason people thought computer systems all over the world would just freak out. They saw a doomsday scenario with nuclear power plants the world over exploding, [music] missiles going off, banking systems breaking down, etc, etc. It would take us back to the dark ages or something like that. One woman in the US saw this happening and started hoarding early. She told the press if something happens and I didn't [music] prepare my family, I just couldn't live with myself. She even kept her hoarding of goods secret from her friends and neighbors believing that when the lights went out, the unprepared would hit the streets in mobs and take what they wanted. There were some hitches in some systems, but all in all the day after 2000 was just like any other day other than the fact that a lot of people had huge hangovers next year."
+    },
+    {
+      "id": 83,
+      "debut": 5089.75,
+      "fin": 5133.35,
+      "temps_estime": false,
+      "titre": "The 2021 rapture prediction by an American pastor",
+      "resume": "An American pastor of Mariner's Church had the rapture on his calendar for 2021, with believers taken to heaven and others left with floods, plagues and earthquakes. The video notes that Earth has long had such disasters and waits to see whether people vanish.",
+      "mots_cles": [
+        "rapture 2021",
+        "Mariner's Church",
+        "American pastor",
+        "end times prediction",
+        "floods plagues earthquakes",
+        "Leftovers"
+      ],
+      "texte": "Okay, so we'll finish this with a prediction for 2021. That is the predication of an American pastor of the Mariner's Church. He's got the rapture checked on his Google calendar for sometime in 2021 and it's kind of like the Leftover show where a bunch of people just go missing. In this case, it'll be the Christian believers who get hoovered up to the heavens and the rest of the non-believers or people of any other religion we imagine will have to stay down on earth and eke out a living amongst floods, plagues, and earthquakes and [music] the great toilet roll wars. We added that one. Before you start getting worried, remember that the earth has been experiencing floods, earthquakes, and plagues for a long time and they're not going to go away. Anyway, we'll just see next year if a bunch of folks disappear into the heavens. It seems that at any given"
+    },
+    {
+      "id": 84,
+      "debut": 5133.35,
+      "fin": 5170.45,
+      "temps_estime": false,
+      "titre": "Doomsday weapons: pathogens, nuclear holocaust and weapons from space",
+      "resume": "At any moment the world is on the brink of all-out war, and now there are weapons that could end the entire world. A new chapter introduces doomsday weapons, starting with naturally occurring pathogens made worse by countries experimenting with biological warfare.",
+      "mots_cles": [
+        "doomsday weapons",
+        "biological warfare",
+        "pathogens",
+        "nuclear holocaust",
+        "weapons from space",
+        "bioweapons",
+        "all-out war"
+      ],
+      "texte": "moment the world is on the brink of an all-out war. Unfortunately, there are now weapons that don't just end wars, but could end the entire world. Maybe we die by nuclear holocaust, a pathogen cooked up in a lab, or a weapon from space. [music] And if that doesn't scare you, the rest of the doomsday weapons in this video will. The world is full of scary, naturally occurring pathogens, but this hasn't stopped multiple countries from saying, hey, we can make this horrible disease a whole lot worse by experimenting with biological warfare. Currently, there are a handful of [music] deadly bioweapons that we know could end the entire world. These scenarios are extremely unlikely to happen, but in a worst-case scenario,"
+    },
+    {
+      "id": 85,
+      "debut": 5170.45,
+      "fin": 5224.95,
+      "temps_estime": false,
+      "titre": "Anthrax as a world-ending bioweapon",
+      "resume": "Allied forces built factories to mass-produce anthrax in World War II, and the bacterial agent could be weaponized if it fell into the wrong hands. It causes sores, fever, respiratory problems and meningitis, and while not contagious, releasing it in food, water, air or populated areas could cause societal breakdown.",
+      "mots_cles": [
+        "anthrax",
+        "bioweapon",
+        "World War II",
+        "meningitis",
+        "not contagious",
+        "mass casualties",
+        "societal collapse"
+      ],
+      "texte": "bioweapons could be our downfall. During World War II, allied forces built several factories to mass-produce anthrax. This bioweapon was never used in the war itself, but the bacterial agent still exists and could be weaponized if it fell into the wrong hands. When the anthrax bacteria comes into contact with the body, it can cause blisters and sores to break out in [music] the skin. This can eventually lead to fever and respiratory problems as it enters the bloodstream. If left untreated, anthrax will enter the spinal fluid and the brain causing meningitis. This causes the brain to swell and oftentimes leads to death. Someone who's infected with anthrax is not contagious, but if a mad scientist wanted to wipe out humanity, this might be one weapon that could do it. By somehow injecting anthrax into food, water sources, or the air, a large part of the human population could be infected. Anthrax would not need to wipe out every human on the planet in order to end the world. If the bacteria was released in high population areas, the large amount of deaths could throw humanity into chaos and society would quickly break down."
+    },
+    {
+      "id": 86,
+      "debut": 5224.95,
+      "fin": 5310.15,
+      "temps_estime": false,
+      "titre": "Q fever: the US military's perfect biological weapon",
+      "resume": "In the 1950s a pneumonia-type pathogen found in Australian slaughterhouses was tested on US volunteer soldiers and weaponized as Q fever, with over 5,000 gallons grown. It survives up to 60 days and needs few bacteria; the stockpile was destroyed after the 1972 Biological Weapons Convention, but nobody can be sure, and simultaneous release could end the world.",
+      "mots_cles": [
+        "Q fever",
+        "US Army",
+        "Biological Weapons Convention 1972",
+        "bioweapon stockpile",
+        "60 days survival",
+        "respiratory disease",
+        "Australian slaughterhouses"
+      ],
+      "texte": "However, anthrax is not the scariest biological weapon that has been created by the military. In the 1950s, a bacterial pathogen was discovered as the cause of a pneumonia-type disease that was plaguing Australian slaughterhouses. [music] The disease was infecting the animals and killing them in huge numbers. The United States Army medical unit saw an opportunity to learn more about the dangerous pathogen and started to infect volunteer soldiers with the disease. Once they understood what was causing the illness, the US military decided it should be weaponized. Q fever was cooked up in a lab and more than [music] 5,000 gallons of the bacteria was grown. What made Q fever so enticing to the military was the length of time [music] it could survive once deployed. The bacteria could thrive for up to 60 days and it was easily transmitted. These factors on top of only needing a small number of bacteria to infect someone and make them extremely sick made Q fever the perfect biological weapon. However, after the United States signed an agreement [music] with the UN Biological Weapons Convention in 1972, the Q fever stash was destroyed and the world sighed a breath of relief. That being said, there's no way to know if all the Q fever bioweapons were actually destroyed. [music] The bacteria itself causes respiratory problems and pneumonia in humans. This means that if it were to get [music] out, it would spread around the world like wildfire. And if Q fever was being used as a bioweapon, whoever controlled it [music] could infect multiple regions of the world simultaneously, ensuring practically everyone would come into contact with the bacteria. The death toll could be high enough to end the world. In 2014, the medical branch of"
+    },
+    {
+      "id": 87,
+      "debut": 5310.15,
+      "fin": 5383.05,
+      "temps_estime": false,
+      "titre": "Marburg virus weaponized by the Soviet Union",
+      "resume": "In 2014 the US military and CDC developed protection against Marburg hemorrhagic fever after intel that the Soviet Union had weaponized it in aerosol form. Related to Ebola but airborne, with a reported mortality rate around 90%, it could mutate and resist the countermeasure, and unknown bioweapons may sit in freezers.",
+      "mots_cles": [
+        "Marburg virus",
+        "Ebola",
+        "Soviet bioweapons",
+        "aerosol",
+        "90% mortality",
+        "CDC",
+        "hemorrhagic fever",
+        "mutation"
+      ],
+      "texte": "[music] the United States military and the CDC developed a way to protect primates, including humans, from the Marburg hemorrhagic fever virus. This was in response to intel that uncovered the Soviet Union had weaponized the virus in an aerosol [music] form. The scary thing about the Marburg virus is that it's in the same family as Ebola. The spread of Ebola can be slowed or stopped due to [music] the way it's transmitted. And Ebola is spread through contact with infected blood or bodily fluids. By taking precautions such as wearing gloves and other protective gear, the virus can be contained. However, the Marburg virus that the Soviet Union weaponized could be contracted just by breathing it in. What [music] made the bioweapon even more terrifying was that the Soviet scientists reported the mortality rate of the virus was around 90 [music] percent. This means that if the Marburg hemorrhagic fever ever got out of the lab and into the world, it [music] could be devastating. Once it started to infect people, the virus would spread rapidly, killing almost everyone in its path. Like all viruses, each time [music] it infected a new person, the Marburg virus would have a chance to mutate. This could make it even more deadly. If this biological weapon were to become resistant to [music] the drug that the US government made to stop it, the world would certainly come to an end. There are most likely other biological agents that have been developed in the military labs that we don't know about. So the weapon that could end the world may be sitting in a freezer somewhere just waiting to be unleashed. One thing is for sure. The"
+    },
+    {
+      "id": 88,
+      "debut": 5383.05,
+      "fin": 5460.75,
+      "temps_estime": false,
+      "titre": "Atomic bombs: fission and their world-ending potential",
+      "resume": "Nuclear weapons are the most destructive ever made, in two classes: atomic and hydrogen bombs. Atomic bombs, used on Hiroshima and Nagasaki, work by fission of uranium or plutonium, and about 2 lbs of uranium 235 can release the energy of 17,000 tons of TNT, with global use causing radiation poisoning and nuclear winter.",
+      "mots_cles": [
+        "atomic bomb",
+        "fission",
+        "Hiroshima and Nagasaki",
+        "uranium 235",
+        "17,000 tons of TNT",
+        "radiation poisoning",
+        "nuclear winter"
+      ],
+      "texte": "next weapon we're about to talk about could end the world several times over. Nuclear bombs are probably the most destructive weapons ever created. However, a distinction needs to be made between the two different types. There are two classes of nuclear weapons. The two classes of nuclear weapons are atomic bombs and hydrogen bombs. Both are deadly, but one is capable of much more destruction than the other. The atomic bomb is the only nuclear weapon that has ever been used in actual warfare. This was the type of bomb dropped on Nagasaki and Hiroshima at the end of World War II. Hundreds of thousands of people were killed from the nuclear blasts in Japan and the fallout that followed. The explosion of atomic bombs is created by fission or the splitting apart [music] of nuclei of heavy elements such as plutonium and uranium. When this happens, an enormous amount of energy is released. Around 2 lbs of uranium 235 can discharge the equivalent amount of energy as 17,000 tons of TNT. The explosion is huge, and the amount of thermal energy generated heats the surrounding area to several million degrees. With the separation of the nuclei also comes a shock wave that can wipe out entire buildings located several miles away from the initial blast. Needless to say, the atomic bomb is definitely a weapon that could end the world. If a war breaks out where the atomic bombs are fired across the globe, everyone who is not wiped down by the initial blasts will eventually succumb to radiation poisoning or the nuclear winter that will follow. However, atomic"
+    },
+    {
+      "id": 89,
+      "debut": 5460.75,
+      "fin": 5509.45,
+      "temps_estime": false,
+      "titre": "Hydrogen bombs: fusion and 1,000 times the power",
+      "resume": "Hydrogen bombs can be 1,000 times more powerful than atomic bombs and are what militaries stockpile. They work by fusion of nuclei using deuterium and tritium alongside uranium and plutonium, have only been detonated for testing, and could instantly end the world if all were detonated together.",
+      "mots_cles": [
+        "hydrogen bomb",
+        "fusion",
+        "deuterium and tritium",
+        "thermonuclear weapon",
+        "stockpiles",
+        "1,000 times more powerful",
+        "nuclear tests"
+      ],
+      "texte": "bombs are not the most powerful nuclear weapons that humans have created. The hydrogen bomb can be 1,000 times more powerful than an atomic bomb. And since the inception of the hydrogen bomb and the realization of their massive power, these are the types of nukes that militaries have stockpiled. The main difference [music] between the hydrogen bomb and the atomic bomb is the way the energy is created. In a hydrogen bomb, the explosion happens due to an enormous amount of energy released by a process of fusion. Instead of splitting nuclei like in an atomic bomb, in a hydrogen bomb, two nuclei are fused together. Hydrogen bombs still use uranium and plutonium, but also have deuterium and tritium added to the mix to create the fusion reaction. H-bombs have never been used in an actual war, but they have been detonated to measure their power. These bombs yield enough destructive power to instantly end the world if they're all detonated at the same time."
+    },
+    {
+      "id": 90,
+      "debut": 5509.45,
+      "fin": 5531.25,
+      "temps_estime": false,
+      "titre": "The Tsar Bomba: the largest explosion ever",
+      "resume": "The largest hydrogen bomb explosion, the RDS-220 Tsar Bomba, was detonated over Novaya Zemlya in Russia on October 30, 1961 with 50 megatons, equal to about 3,800 Hiroshima bombs.",
+      "mots_cles": [
+        "Tsar Bomba",
+        "RDS-220",
+        "Novaya Zemlya",
+        "50 megatons",
+        "October 30 1961",
+        "largest nuclear explosion",
+        "Soviet Union"
+      ],
+      "texte": "The largest explosion ever recorded by a hydrogen bomb was over Novaya Zemlya Island in Russia. It was called the RDS-220 hydrogen bomb or the Tsar Bomba. On October 30th, 1961, the 50 megaton nuke was detonated with the equivalent of 50 million tons of TNT. This is approximately the same as exploding 3,800 of the atomic bombs that were dropped on Hiroshima. It should come as"
     }
   ]
 }
