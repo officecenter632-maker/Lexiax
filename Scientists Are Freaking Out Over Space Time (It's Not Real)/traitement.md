@@ -36,3 +36,12 @@ Dernière ligne traitée : 3741. Prochaine étape : reprendre à la ligne 3742 (
 
 ## Point d'arrêt
 Dernière ligne traitée : 4674. Prochaine étape : reprendre à la ligne 4675 (« Not all stars that go supernova end up as black holes ») avec l'id 190 : trous noirs stellaires, puis les autres catégories.
+
+- Tranche 6 (dernière) : lignes 4675 à 5233, 9323.31 s à 10427.77 s (environ 18,4 min), 24 segments (#190 à #213). Vérification OK ; avancement : lignes_traitees 5233 sur 5233, complet = true. Contenu : fin de la classification des trous noirs (stellaires, supermassifs, intermédiaires, primordiaux) (#190 à #197), chute dans un trou noir (spaghettification, dilatation du temps) (#198 à #200), anatomie (horizon, disque d'accrétion, lentille, couronne, jets, singularité) (#201 à #207), observation et records de trous noirs, scénario du trou noir errant, intérieur inconnu et conclusion (#208 à #213).
+
+## Bilan final
+- Méthode : lecture du speech tranche par tranche (environ 30 min), coupure par idées, construction par script qui prend les textes directement dans speech.json (jamais retapés), vérification par script avant chaque push (JSON valide, nb_segments, ids continus, 5 à 10 mots-clés, temps croissants et sans trou, avancement cohérent, textes bout à bout identiques aux lignes traitées aux espaces près), puis commit et push à chaque tranche.
+- Résultat : 213 segments (#1 à #213), 5233 lignes sur 5233, 0 s à 10427.77 s (environ 2 h 54). Segment le plus court : #35, 10.5 s. Segment le plus long : #53, 111.5 s.
+- Temps estimés : 181 segments sur 213 ont temps_estime = true (coupures en milieu de ligne, estimées au prorata des mots).
+- Passages douteux : speech automatique avec quelques mots parasites ou tronqués (lignes 4411 à 4412 notamment ; [music] et >> conservés tels quels). Les titres de la vidéo sont un enchaînement d'épisodes de The Infographics Show : le titre « Space Time (It's Not Real) » ne correspond qu'au premier épisode (#1 à #21) et aux bulles de rien (#119 à #130). Tranches 4 à 6 poussées par l'agent de reprise ; tranches 1 à 3 faites par l'agent précédent.
+- Problèmes rencontrés : aucun bloquant ; un plantage du script de construction sur la dernière borne (ligne inexistante), corrigé avant écriture du fichier.
