@@ -1,0 +1,405 @@
+{
+  "version": 1,
+  "video_id": "8FgyNgIgVjw",
+  "titre_video": "The Kessler Syndrome (When Humanity Gets Trapped on Earth Forever) - Year by Year",
+  "duree_s": 996.32,
+  "avancement": {
+    "lignes_traitees": 215,
+    "fin_traitee_s": 996.32,
+    "nb_lignes_total": 215,
+    "complet": true
+  },
+  "nb_segments": 22,
+  "segments": [
+    {
+      "id": 1,
+      "debut": 0.0,
+      "fin": 31.6,
+      "temps_estime": false,
+      "titre": "Humanity trapped by space junk: the countdown begins",
+      "resume": "Opening hook: private companies and militaries are cramming Low Earth Orbit with satellites, so one collision could spark a runaway chain reaction. A fragment moving 17,500 miles per hour (28,163 kph) has the power of a hand grenade, and power grids and banking would fail as the year-by-year countdown starts.",
+      "mots_cles": [
+        "Kessler Syndrome",
+        "space junk",
+        "Low Earth Orbit",
+        "satellite collision",
+        "chain reaction",
+        "17,500 mph",
+        "dark ages"
+      ],
+      "texte": "Humanity is trapped in its own cosmic prison. Private corporations and militaries are cramming Low Earth Orbit with so many satellites, one collision will spark an unstoppable, explosive chain reaction. One tiny piece of space junk, traveling at 17,500 miles per hour (28,163 kph) has the raw power of a hand grenade, shredding through thousands of satellites. And we’re in the blast zone. Power grids drop. Banking freezes. Humanity will be catapulted back to the dark ages. And the countdown is already running… Year 1."
+    },
+    {
+      "id": 2,
+      "debut": 31.6,
+      "fin": 88.32,
+      "temps_estime": false,
+      "titre": "Year 1: a rocket fragment destroys a satellite",
+      "resume": "A piece of rocket casing less than an inch long hits an active telecom satellite despite collision avoidance algorithms. The satellite explodes into thousands of razor-sharp fragments that spread into a ring of shrapnel, the opening act of the Low Earth Orbit collapse.",
+      "mots_cles": [
+        "first collision",
+        "rocket casing",
+        "telecommunications satellite",
+        "debris cloud",
+        "collision avoidance",
+        "shrapnel ring",
+        "orbital plane"
+      ],
+      "texte": "Thousands of satellites and millions of pieces of debris are screaming around Earth’s orbit. Each one of them is fighting for space. But one piece of junk is about to cause a catastrophe. An old bit of a rocket casing, less than an inch long, hurtles into the orbit of an active satellite. Collision avoidance algorithms fail to spot it. It’s on a deadly intercept course. And it’s too late to stop it. In a mere fraction of a second, a multimillion dollar piece of telecommunications equipment is utterly obliterated. Its body explodes in a mass of thousands of tiny razor sharp fragments, shards, and slivers of aluminum alloy and carbon fiber composite. Within hours, this growing cloud of debris begins to spread out across the satellite’s orbital plane. It forms a lethal ring of shrapnel circling our world. It doesn’t collide with other satellites right away… but it’s only a matter of time. Because this is the opening act in the Low Earth Orbit collapse. The chain reaction has started. The consequences are inevitable."
+    },
+    {
+      "id": 3,
+      "debut": 88.32,
+      "fin": 135.12,
+      "temps_estime": false,
+      "titre": "End of year 1: the debris cloud hits an internet satellite",
+      "resume": "By the end of the first year the debris cloud strikes an internet satellite whose thrusters cannot save it, adding more fragments. On Earth the only sign is a brief GPS dropout, but it alarms tracking stations and near-space scientists, who analyze telemetry in terror.",
+      "mots_cles": [
+        "internet satellite",
+        "debris cloud",
+        "GPS dropout",
+        "tracking stations",
+        "telemetry",
+        "early warning signs",
+        "thrusters"
+      ],
+      "texte": "And back on Earth? We’re completely oblivious. By the end of the first year, that initial debris cloud slams into the orbital pathway of an internet satellite. Its emergency thrusters activate as it desperately tries to escape. It’s futile. There’s too much debris to deal with. Impact. Parts of the satellite are pulverized instantaneously, adding even more fragments to the growing cloud. What remains of the frame spirals violently out of control, like a burning car wreck on a rush-out freeway. On Earth, the early warning signs are so subtle, they might as well be invisible. Just a brief GPS dropout on your phone. But that tiny flicker of outage sparks alarm bells in tracking stations. Near space scientists stare at their monitors in terror. They analyze the telemetry data and arrive at a horrifying conclusion."
+    },
+    {
+      "id": 4,
+      "debut": 135.12,
+      "fin": 181.92,
+      "temps_estime": false,
+      "titre": "What the Kessler Syndrome is, and why nobody listens",
+      "resume": "Named after astrophysicist Donald Kessler, the Kessler Syndrome is a tipping point where satellite density makes collisions multiply, creating debris faster than atmospheric drag clears it. Scientists sound alarms, but the internet, markets and planes still work, so almost nobody grasps the threat.",
+      "mots_cles": [
+        "Donald Kessler",
+        "tipping point",
+        "critical mass",
+        "exponential collisions",
+        "atmospheric drag",
+        "snowball effect",
+        "debris blanket"
+      ],
+      "texte": "The Kessler Syndrome is here. Named after astrophysicist Donald Kessler, the theory is a disastrous tipping point. When satellite density reaches critical mass, orbital collisions multiply exponentially. They create new space debris faster than Earth’s atmospheric drag can clear it. Once that happens, a snowball effect begins. Every crash causes more debris. The entire world is eventually wrapped by a dense blanket of metal, glass, and other material. Knowing what happens next, scientists sound the alarms. But their panicked cries fall on deaf ears. The internet is still working. Markets are still moving. Planes are still in the air. And industries are operating just as smoothly as ever. Almost nobody realizes the extent of the threat. But very soon, they’ll be unable to ignore it. Year 2."
+    },
+    {
+      "id": 5,
+      "debut": 181.92,
+      "fin": 229.04,
+      "temps_estime": false,
+      "titre": "Year 2: the cascade accelerates and Starlink runs out of fuel",
+      "resume": "By the second year collisions spread across altitudes and orbits, each impact creating shrapnel fields for neighboring orbits. Starlink satellites burn fuel on collision-avoidance maneuvers and become sitting ducks once their tanks are empty.",
+      "mots_cles": [
+        "year 2",
+        "cascading collisions",
+        "Starlink",
+        "collision avoidance fuel",
+        "orbital shrapnel",
+        "sitting ducks",
+        "domino effect"
+      ],
+      "texte": "In the grand scheme of the space-time continuum, the Kessler Syndrome isn’t a slow process. It’s lightning fast. By the second year, the dominoes fall faster than anyone can track. What began as a single collision, has extended across multiple altitudes, inclinations, and orbital pathways. Active and defunct are struck, one after another. Each new impact gives birth to a new field of shrapnel that expands into neighboring orbits. Every week, new colossians are happening. Even the high-end Starlink satellites are running out of time. Each time their automated collision avoidance systems fire, they burn precious fuel. In a desperate attempt to survive, they’re signing their own death warrant. The moment their fuel tanks are empty, these satellites will be sitting ducks. It’s only a matter of time before they’re annihilated. Down on Earth, the masses start"
+    },
+    {
+      "id": 6,
+      "debut": 229.04,
+      "fin": 290.32,
+      "temps_estime": false,
+      "titre": "GPS, telecom, power grids and finance collapse",
+      "resume": "As satellites die, GPS and the telecom networks it supports fail: mobile signals stutter, and power grids that need GPS to balance supply face rolling blackouts. Financial systems relying on GPS timestamps freeze credit cards and transfers, bleeding billions daily and spreading panic.",
+      "mots_cles": [
+        "GPS failure",
+        "telecommunications",
+        "power grid blackouts",
+        "financial chaos",
+        "GPS timestamps",
+        "credit card freeze",
+        "global economy"
+      ],
+      "texte": "to feel the effects. As critical communications satellites are destroyed, normal life begins to crumble. GPS technology begins to break down. Many people think GPS is an app on their phone or in their cars. It isn’t. These satellites power the global telecommunications networks that connect entire continents. As these orbital nodes shatter, mobile signals begin to stutter. Calls drop out. Data connections fail. Messages don’t arrive. And that’s just the start. Entire towns and cities go dark. High voltage power grids need GPS to balance electricity supplies across regions. As the satellites are wiped out of existence, operators are faced with rolling blackouts. That has a knock on effect. The financial sector descends into chaos. Trillions of dollars move through GPS timestamps. Credit card transactions freeze. Bank transfers grind to a halt. The global economy begins to bleed billions of dollars each day. Salaries are late. Payments stop. Panic spreads like wildfire."
+    },
+    {
+      "id": 7,
+      "debut": 290.32,
+      "fin": 331.6,
+      "temps_estime": false,
+      "titre": "Falling debris grounds air travel",
+      "resume": "A 2026 study found a 26% chance of falling space debris crossing commercial airspace over North America or Europe, which rises in the Kessler Syndrome. Larger debris survives atmospheric drag and falls into flight paths, so flights are grounded and planes make emergency landings.",
+      "mots_cles": [
+        "air travel",
+        "falling debris",
+        "26% chance",
+        "grounded flights",
+        "airspace",
+        "2026 study",
+        "emergency landings"
+      ],
+      "texte": "The transportation industry takes a direct hit. A 2026 study found that there is already a 26% chance of falling space debris traveling through the commercial airspace above North America or Europe. But a couple of years into the Kessler Syndrome, that percentage increases significantly. Debris at the lowest levels of the Low Earth Orbit gets dragged down by Earth’s atmosphere. Some of the smaller pieces burn up, but the larger remnants remain intact, plunging directly into flight paths. Air traffic controllers have no option. Flights are grounded. Travelers face waves of cancellations. Flights that are already in the air have to make emergency landings to escape the debris storms. And it’s only going to get worse. Year 5."
+    },
+    {
+      "id": 8,
+      "debut": 331.6,
+      "fin": 373.36,
+      "temps_estime": false,
+      "titre": "Year 5: a swarm of kinetic destruction",
+      "resume": "By year five an incalculable number of collisions has left many systems dark, and the debris swarm is an unstoppable juggernaut wiping out weather and crop-tracking satellites. Over decades every multi-million dollar satellite turns to dust in a cloud above a powerless population.",
+      "mots_cles": [
+        "year 5",
+        "kinetic destruction",
+        "satellite loss",
+        "weather satellites",
+        "crop tracking satellites",
+        "debris swarm",
+        "unstoppable"
+      ],
+      "texte": "By the fifth year, an incalculable quantity of additional collisions have occurred. The number of pieces of debris floating through space is growing by the second. As a direct consequence, many of the systems that society relies on have gone dark. What started off 5 years ago as an isolated, localized incident is now a swarm of kinetic destruction. It’s an unstoppable juggernaut, wiping out everything in its path, from weather platforms to crop tracking satellites. Nothing will survive. Over the coming decades, every multi-million dollar machine will turn to dust. They’ll all be absorbed into the massive cloud of junk that swirls and whirls relentlessly above a powerless population. On Earth, entire fields of science are collapsing."
+    },
+    {
+      "id": 9,
+      "debut": 373.36,
+      "fin": 409.28,
+      "temps_estime": false,
+      "titre": "Weather forecasting goes blind",
+      "resume": "Observation satellites supplied 90% of forecasting data, so losing them forces meteorologists back to coastal radar and surface instruments. With far less information, forecasts degrade and storms strike with little warning.",
+      "mots_cles": [
+        "weather forecasting",
+        "observation satellites",
+        "90% of data",
+        "meteorologists",
+        "radar",
+        "natural disasters",
+        "storm warnings"
+      ],
+      "texte": "For generations, observation satellites provided 90% of the data used in forecasting models. Meteorologists could track atmospheric pressure, weather fronts and monitor sea surface. Now our eyes in the skies are blinded. TPredicting the weather is being thrust back to the Dark Ages. Forecasters are forced to depend on ground-based systems, like coastal radars and surface instruments. But with way less information to hand, everything becomes much more difficult. Humanity lives in absolute terror of natural disasters, as storms strike with very little warning. Global food production begins to break down."
+    },
+    {
+      "id": 10,
+      "debut": 409.28,
+      "fin": 444.08,
+      "temps_estime": false,
+      "titre": "Food production falters and prices double",
+      "resume": "Industrial farming depends on orbital data for soil moisture and weather prediction, so without it farmers plant blind and crop yields fall. Prices double overnight and civil unrest begins.",
+      "mots_cles": [
+        "food production",
+        "precision agriculture",
+        "soil moisture data",
+        "crop yields",
+        "food prices",
+        "civil unrest",
+        "farming"
+      ],
+      "texte": "Industrial farming relies enormously on orbital data to track soil moisture levels and predict important weather events like rain and frost. Without this vital feedback loop, the world’s food production begins to falter. Across the world, farmers are forced to plant crops blind and hope for the best. But sustainable industries aren’t built on hopes and prayers. And as the unpredictability of nature unfolds, crop yields pay the price. With less food to harvest, the costs of essentials begin to skyrocket. Prices double overnight, and civil unrest begins to break. Populations struggle to afford the bare necessities they need to"
+    },
+    {
+      "id": 11,
+      "debut": 444.08,
+      "fin": 488.0,
+      "temps_estime": false,
+      "titre": "Maritime trade collapses without satellite imaging",
+      "resume": "Without real-time satellite imaging, every ship voyage becomes a lottery: cargo ships hit dangerous waters, lose containers or sink. Supply chains buckle and countries lose access to raw materials, remodeling modern civilization.",
+      "mots_cles": [
+        "maritime trade",
+        "container ships",
+        "satellite imaging",
+        "supply chains",
+        "shipping losses",
+        "raw materials",
+        "navigation"
+      ],
+      "texte": "keep themselves and their families alive. Maritime trade begins to collapse.. For decades, real time satellite imaging allowed massive tankers and container ships to navigate the oceans avoiding hazards, storms, and more. Now, every voyage is a lottery. Cargo ships routinely run into dangerous waters that they would have once been able to easily avoid. Some are lost at sea. Others see containers tumble overboard and sink down to the depths as brutal winds and waves wreak havoc on their hulls. Entire supply chains begin to buckle beneath this newfound pressure, cutting off countries and businesses from essential raw materials and goods. Modern civilization is being remodeled before our eyes. And there’s nothing anyone can do to stop it. Year 10."
+    },
+    {
+      "id": 12,
+      "debut": 488.0,
+      "fin": 553.2,
+      "temps_estime": false,
+      "titre": "Year 10: military paranoia and nuclear alert",
+      "resume": "Ten years in, militaries lose reconnaissance and early warning satellites and cannot tell accident from act of war. Fragments in the upper atmosphere resemble incoming munitions, nuclear arsenals are readied and leaders use land-based hotlines to prevent a world-ending conflict.",
+      "mots_cles": [
+        "year 10",
+        "military satellites",
+        "early warning arrays",
+        "nuclear arsenals",
+        "act of war",
+        "hotlines",
+        "paranoia"
+      ],
+      "texte": "Ten years into the crisis, the extent of the crisis is painfully clear. The world we know is gone or is fading fast. New challenges emerge with every passing year. In the military sector, world powers are forced to confront a frightening new reality. For years, they’ve been able to rely on military satellites to provide vital streams of real-time intelligence about enemy assets and movements. They’re unable to see ballistic missiles heading towards their shores. Now, these satellites are being taken offline, one by one. Commanders are faced with a worrying question: was this an accident, or an act of war? Global command networks spiral into dangerous states of paranoia as reports flood in about the sudden destruction of early warning arrays. Ground-based systems sound the alarms as thousands of hyper-velocity fragments explode across the upper layers of the atmosphere. Ground teams struggle to tell the difference between simple space junk and active, incoming munitions. Nuclear arsenals are readied while world leaders frantically call one another via land-based hotlines. They desperately try to ease each other’s doubts and stop a world-ending conflict from breaking out."
+    },
+    {
+      "id": 13,
+      "debut": 553.2,
+      "fin": 576.0,
+      "temps_estime": false,
+      "titre": "Anti-satellite weapons fail to reverse the cycle",
+      "resume": "Some militaries develop lasers and anti-satellite missiles to clear Low Earth Orbit and reverse the cycle. It is too little, too late, because far too many fragments are moving too fast to stop.",
+      "mots_cles": [
+        "anti-satellite missiles",
+        "lasers",
+        "orbital cleanup",
+        "too little too late",
+        "debris fragments",
+        "space weapons"
+      ],
+      "texte": "Some militaries redirect their efforts at space itself, developing new laser systems and anti-satellite missiles. It’s a last ditch attempt to clear some space in Low Earth Orbit and reverse the Kessler Syndrome cycle. But it’s too little, too late. There are far too many fragments moving far too fast to stop them now. And soon, humanity will be forced to confront another extremely uncomfortable truth."
+    },
+    {
+      "id": 14,
+      "debut": 576.0,
+      "fin": 639.76,
+      "temps_estime": false,
+      "titre": "Year 20: the ISS is destroyed and spaceflight ends",
+      "resume": "A grain-sized fragment can puncture a space station hull, so crews evacuate and the ISS is torn apart by debris impacts. Low Earth Orbit becomes off limits, crewed spaceflight is suspended and launch pads are overgrown.",
+      "mots_cles": [
+        "year 20",
+        "ISS destroyed",
+        "end of Space Age",
+        "NASA",
+        "crewed spaceflight suspended",
+        "launch sites",
+        "space station"
+      ],
+      "texte": "Year 20. The Space Age comes to a grinding halt. Space stations are far too hazardous to remain in operation. When a single piece of debris, barely bigger than a grain of sand, has the power to pierce a fatal hole in the station’s hull, there’s no justification to allow astronauts to remain in that environment. Space agencies like NASA are forced to accept that some of their greatest achievements are about to be blown to smithereens. Crews have already evacuated. They’ve manned their return capsules and made it back to Earth. All they can do from there is watch as their former home suffers the inevitable impact that brings its existence to an end. Tiny fragments of old satellites and rocket pods blast into the ISS, generating a shockwave with enough force to tear the entire structure apart. It’s not just the end of the space station. It’s the end of human space flight. Low Earth Orbit is officially off limits. Crewed spaceflight operations are put on indefinite suspension. Rocket launch sites go dark. Launch pads are left empty and are overgrown with weeds. Reaching for the stars is now a dream. Year 30."
+    },
+    {
+      "id": 15,
+      "debut": 639.76,
+      "fin": 714.64,
+      "temps_estime": false,
+      "titre": "Year 30: adapting to life without satellites",
+      "resume": "Technological progress stalls and industries are simplified, with megacorporations leading. Deep-sea fiber optic cables and landlines are restored but fragile, and solar balloons and high-altitude drones are poor satellite substitutes, while older generations recall a lost world.",
+      "mots_cles": [
+        "year 30",
+        "fiber optic cables",
+        "landlines",
+        "communication blackouts",
+        "solar balloons",
+        "drones",
+        "adaptation"
+      ],
+      "texte": "Humanity has to adapt to a whole new way of living. There’s no other choice. The Earth has irrevocably changed, and the rapid rate of technological progress seen in the early stages of the 21st century isn’t coming back. Industries are stripped back and simplified. The world turns to mega corporations and the best minds for answers. New solutions are devised and implemented. The importance of deep-sea fiber optic cables across the floors of the oceans and seas of the world is reinforced. Landline connections are restored and gaps are bridged between countries and continents. But terrestrial infrastructure remains remarkably fragile. Earthquakes and other natural disasters routinely snap cables and communication links. Entire regions have little choice but to endure permanent communication blackouts until more reliable solutions can be discovered. Engineers try using solar balloons and high-powered unmanned aerial vehicles to mimic weather and internet satellites. But without the accurate orbital data, these pale imitations struggle to match performance levels. Older generations talk about what life was once like, the ease, convenience, and luxury they used to know. They tell stories of a world the younger generations will never know. Meanwhile, a terrible new danger is brewing up above and will soon make itself known to all. Year 50."
+    },
+    {
+      "id": 16,
+      "debut": 714.64,
+      "fin": 760.64,
+      "temps_estime": false,
+      "titre": "Year 50: raining flaming space debris",
+      "resume": "The debris cloud is thick enough to reach the lowest orbits where drag pulls debris into the atmosphere. Old fuel tanks and structural beams from space stations survive re-entry and crash into homes, businesses and ports in a new kind of crisis.",
+      "mots_cles": [
+        "year 50",
+        "re-entry",
+        "falling debris",
+        "space station wreckage",
+        "titanium and aluminum",
+        "urban impacts",
+        "atmospheric drag"
+      ],
+      "texte": "The debris cloud circling the Earth is so vast and thick, parts of it have spread out to the lowest sections of Low Earth Orbit. The upper atmospheric drag is strong enough to pull down these pieces of space junk into the atmosphere. It begins raining flaming space debris. The old fuel tanks and structural beams of international space stations enter the atmosphere. They start to shrink under the immense heat and pressure exerted upon them, but some pieces make it to the other side. And they hurtle towards the Earth’s surface. Some plunge into the sea or crash land in empty, rural regions. Others strike in the heart of major urban areas. Reports rush in from around the world of huge chunks of titanium and aluminum alloy crashing down on homes, businesses and ports. Humanity faces a whole new kind of crisis."
+    },
+    {
+      "id": 17,
+      "debut": 760.64,
+      "fin": 832.8,
+      "temps_estime": false,
+      "titre": "Year 100: cleanup attempts fail",
+      "resume": "A century on, humanity still struggles under a sky of debris. Lasers, drones, nets and drag sails are tried, but debris forms faster than it is removed, and scientists know the highest pieces will take millennia to decay.",
+      "mots_cles": [
+        "year 100",
+        "debris cleanup",
+        "lasers",
+        "drag sails",
+        "nets",
+        "millennia to decay",
+        "failed attempts"
+      ],
+      "texte": "Year 100. A century has passed since the Space Age, but humanity hasn’t advanced to some sort of perfect utopia. Instead, it’s still struggling to survive beneath a sky filled with fragments of debris. But efforts are underway to clean up the debris. Teams from around the world pool their intellect and resources, all determined to break through the cage that has built up around the world. Unfortunately, one attempt after another fails. High-intensity lasers are deployed to burn up some of the fragments at the lowest levels of Low Earth Orbit. But for every one piece of debris mankind obliterates, dozens more form in its place. Clean-up drones and probes are also sent up into space. They use ultra-thin, aluminum-coated membrane nets and drag sails to catch and drag space junk into the atmosphere. Again, any impact they make is immediately canceled out by the amount of collisions that are still taking place. Humanity just can’t keep up with the scale and speed of the crisis. Every effort is futile. The collisions keep coming. The cloud grows broader. And despite their best efforts, scientists know something the public doesn’t. It will be millenia before the highest pieces decay. It doesn’t matter how many lasers, probes, or other technologies mankind comes up with: space junk is here to stay."
+    },
+    {
+      "id": 18,
+      "debut": 832.8,
+      "fin": 870.4,
+      "temps_estime": false,
+      "titre": "Year 250: living beneath an iron ceiling",
+      "resume": "By year 250 the Space Age is a memory and humanity lives under an iron ceiling. Towns have protective domes against the Skyfall phenomenon of falling debris, and some people live underground with subterranean transport and communications.",
+      "mots_cles": [
+        "year 250",
+        "iron ceiling",
+        "Skyfall",
+        "protective domes",
+        "underground living",
+        "post-Space Age"
+      ],
+      "texte": "Year 250. The Space Age is a distant memory, reserved exclusively for history books and documentaries. The idea of mankind walking on the moon or planning rocket journeys to the edges of the solar system seems more like a fairy tale than a realistic possibility. Humanity lives beneath an iron ceiling. The fundamental rules and systems that power civilization have been rewritten. Protective domes have been erected over towns and cities to safeguard them from the “Skyfall” phenomenon of falling space debris. Some people even opt to live and work underground, where vast networks of subterranean transport systems and communications cables have been established."
+    },
+    {
+      "id": 19,
+      "debut": 870.4,
+      "fin": 928.32,
+      "temps_estime": false,
+      "titre": "The burning night sky and the 2007 anti-satellite test",
+      "resume": "The night sky is filled with the trails of re-entering debris, and humanity feels planetary claustrophobia, blaming past leaders for ignoring warnings dating to 1978. They recall the January 11, 2007 Chinese anti-satellite missile test, which added thousands of fragments.",
+      "mots_cles": [
+        "night sky",
+        "re-entry trails",
+        "planetary claustrophobia",
+        "1978 warning",
+        "2007 anti-satellite test",
+        "Chinese military",
+        "kinetic kill vehicle"
+      ],
+      "texte": "Those that remain on the surface look up at a very different night-time sky than the one we know today. It’s no longer a peaceful canopy dotted with flecks of starlight. The night sky is now littered with the blazing trails of atmospheric re-entries as centuries-old pieces of broken satellites and space stations burn up in quick bursts of green and orange. Humanity slips into a state of planetary claustrophobia and is left to rue the greed and foolishness of the generations that came before them. They look back at key moments in time and wonder why the leaders and governments didn’t do more to control a crisis that had been forewarned to them as early as 1978. They speak about the events of January 11th, 2007, when the Chinese military conducted an anti-satellite missile test. They used a high-speed kinetic kill vehicle to blow up an old weather satellite, needlessly adding thousands of fragments of debris to the already crowded upper atmosphere. But they know they can’t look back forever. The past is the past."
+    },
+    {
+      "id": 20,
+      "debut": 928.32,
+      "fin": 978.56,
+      "temps_estime": false,
+      "titre": "A hazy future and Earth's Saturn-like dust ring",
+      "resume": "The future is uncertain: spaceflight is a pipe dream, trade and travel are dangerous and disasters are hard to predict. Over centuries collisions grind debris into millimeter-sized particles, forming a Saturn-like ring of dust around Earth.",
+      "mots_cles": [
+        "future uncertainty",
+        "dust ring",
+        "Saturn-like ring",
+        "millimeter particles",
+        "centuries",
+        "extinction-level event",
+        "Low Earth Orbit"
+      ],
+      "texte": "This new society looks forward towards a hazy future. A future dominated by uncertainty. A future in which space flight is a pipe dream. Where international travel and trade are more dangerous than ever. Disasters remain difficult to predict, and humanity always feels on the brink of an extinction-level event. As the centuries pass, the cloud of space debris grows thicker as larger pieces of junk are broken down through countless collisions into the finest fragments. Booster rockets, solar panels, and scientific instruments are all reduced to millimeter-sized particles of metal, silicon, and glass. Low Earth Orbit is no longer covered with a chaotic shroud of flying items of disparate sizes. Instead, the Earth has now developed its own Saturn-like ring of dust. That dust will remain there, year after year, decade after decade, century after century, until it’s all burned up."
+    },
+    {
+      "id": 21,
+      "debut": 978.56,
+      "fin": 987.36,
+      "temps_estime": false,
+      "titre": "The Kessler Effect is a kinetic avalanche waiting to begin",
+      "resume": "Conclusion: the Kessler Effect is not science-fiction horror but a kinetic avalanche waiting to begin, and space is full of mysteries and terrifying discoveries still waiting.",
+      "mots_cles": [
+        "Kessler Effect",
+        "kinetic avalanche",
+        "conclusion",
+        "space mysteries",
+        "warning"
+      ],
+      "texte": "The Kessler Effect isn’t some sort of science-fiction horror story. It’s a kinetic avalanche just waiting to begin. Space is full of mysteries and the most"
+    },
+    {
+      "id": 22,
+      "debut": 987.36,
+      "fin": 996.32,
+      "temps_estime": false,
+      "titre": "Call to action: 50 Surprising Facts About Space You Didn't Know",
+      "resume": "The speaker points viewers to another video, 50 Surprising Facts About Space You Didn't Know, to find out what is really out there.",
+      "mots_cles": [
+        "call to action",
+        "50 surprising facts about space",
+        "follow-up video",
+        "space facts",
+        "outro"
+      ],
+      "texte": "terrifying discoveries are still waiting in the dark. To find out what’s really out there watch “50 Surprising Facts About Space You Didn't Know”. Or click on this."
+    }
+  ]
+}
