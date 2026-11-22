@@ -4,12 +4,12 @@
   "titre_video": "World War 3 Protocol. Why Global Nuclear Annihilation Is Inevitable.",
   "duree_s": 11483.66,
   "avancement": {
-    "lignes_traitees": 2880,
-    "fin_traitee_s": 5765.8,
+    "lignes_traitees": 3824,
+    "fin_traitee_s": 7575.49,
     "nb_lignes_total": 5891,
     "complet": false
   },
-  "nb_segments": 110,
+  "nb_segments": 153,
   "segments": [
     {
       "id": 1,
@@ -2098,6 +2098,823 @@
         "Canada"
       ],
       "texte": "Key civilian targets in the region are rarer than other parts of the country due to the low population, but there [music] are still at least three cities guaranteed to experience nuclear annihilation. Omaha, Nebraska was once of highest priority targeting during the Cold War due to being home to the Strategic Air Command headquarters, America's airborne leg of the nuclear triad. Today, Offutt Air Force Base just south of Omaha, headquarters of the renamed US Strategic Command, remains a high priority target to degrade US nuclear capabilities. >> [music] >> Denver in Colorado finds itself close to NORAD, buried deep in Cheyenne Mountain. This puts it in danger in the case of a nuclear attack, but its large size and value as a blow to US morale dooms it into the nuclear targeting list. Kansas City meanwhile has little strategic value, but as a large metro area, it's of moderate counter value to a nuclear enemy. The constant and high-speed winds in the area also double down on the destruction. If you think America's nuclear sponge is going to keep you safe, think again. Prevailing winds would easily lift enough radioactive debris high enough into the atmosphere that it would rain down all across the eastern US. This is bad news for the Canadians as well, who happen to live next door to the biggest nuclear target in the world. Moving [music] east into"
+    },
+    {
+      "id": 111,
+      "debut": 5765.8,
+      "fin": 5796.24,
+      "temps_estime": false,
+      "titre": "Midwest targets: Detroit",
+      "resume": "The Midwest has fewer military targets than other regions but many countervalue targets in large cities and industry. The Soviets prioritized Detroit during the Cold War for its manufacturing, and it remains a target today as a large population center, though its value has plummeted.",
+      "mots_cles": [
+        "Midwest",
+        "Detroit",
+        "countervalue targets",
+        "Cold War targeting",
+        "manufacturing",
+        "Soviet strikes",
+        "industrial hub",
+        "nuclear targets"
+      ],
+      "texte": "the Midwest, we find less targets of military value than other areas of the nation, but plenty of large counter [music] value targets in the form of large cities and industry. During the Cold War, the Soviets placed a premium [music] on targeting Detroit due to its manufacturing industry. The Soviets saw Detroit as a critical American industrial hub worthy of destruction [music] via several nuclear strikes. Today, that value has plummeted significantly, but the city remains on the list [music] due to being a large population center with some importance to the regional economy. Chicago,"
+    },
+    {
+      "id": 112,
+      "debut": 5796.24,
+      "fin": 5825.4,
+      "temps_estime": false,
+      "titre": "Chicago: financial and transport hub slated for destruction",
+      "resume": "Chicago is of very high value to an enemy as a financial, industrial and transportation hub, with its airports connecting the whole country and its Great Lakes trade location. Like Detroit in the Cold War, it is slated for complete destruction by several independently targeted warheads.",
+      "mots_cles": [
+        "Chicago",
+        "financial hub",
+        "airport hub",
+        "Great Lakes",
+        "MIRV warheads",
+        "transportation hub",
+        "countervalue",
+        "nuclear destruction"
+      ],
+      "texte": "Illinois is a very high value to the enemy. The [music] city is a major financial and transportation hub. From Chicago, aircraft from across [music] the nation and beyond connect to destinations in the deep south, the East Coast, and the West Coast. If you've ever flown cross-country, [music] odds are high you landed in Chicago for a transfer. The city's also a major financial and industrial sector, and [music] its location on the Great Lakes makes it a hub for trade. Much like Detroit in the Cold War, Chicago slated for complete [music] nuclear destruction via several independently targeting"
+    },
+    {
+      "id": 113,
+      "debut": 5825.4,
+      "fin": 5837.36,
+      "temps_estime": false,
+      "titre": "Indianapolis: manufacturing and road traffic nexus",
+      "resume": "Indianapolis, Indiana is one of America's few remaining large manufacturing centers and a nexus for cross-country road traffic, with millions of road shipments passing through each year.",
+      "mots_cles": [
+        "Indianapolis",
+        "Indiana",
+        "manufacturing",
+        "road traffic",
+        "freight shipments",
+        "nexus",
+        "Midwest targets",
+        "nuclear targeting"
+      ],
+      "texte": "warheads. Indianapolis, Indiana is one of America's few large manufacturing [music] centers left in the country. Its location also makes it a nexus for cross-country road traffic with millions of road-based shipments passing through the city every year. Along the"
+    },
+    {
+      "id": 114,
+      "debut": 5837.36,
+      "fin": 5863.8,
+      "temps_estime": false,
+      "titre": "St. Louis and the Mississippi River",
+      "resume": "St. Louis, Missouri is a key trade and industry hub and one of the largest ports on the Mississippi, still a critical trade artery for cheap transport of goods and raw materials to southern ports. The river itself is slated for repeated nuclear attacks, which would choke trade and poison drinking water for millions.",
+      "mots_cles": [
+        "St. Louis",
+        "Mississippi River",
+        "river port",
+        "trade artery",
+        "drinking water",
+        "repeated attacks",
+        "raw materials",
+        "industry hub"
+      ],
+      "texte": "Mississippi, St. Louis, [music] Missouri is a key trade and industry hub, as well as one of the largest ports along the mighty Mississippi. Much like in olden times, the Mississippi remains a critical trade artery for the United States, allowing for cheap transport of goods and [music] raw materials to coastal ports in the south. Not just the city, but the river itself is slated for nuclear destruction via repeated attacks. [music] This would choke one of America's most important trade arteries and poison the drinking water of millions of people."
+    },
+    {
+      "id": 115,
+      "debut": 5863.8,
+      "fin": 5885.28,
+      "temps_estime": false,
+      "titre": "Chicago rail yards, refineries and river ports",
+      "resume": "Chicago's rail nexus and vast rail yards are a primary target as one of America's most important rail junctions. Refineries across the Midwest make even small communities prime targets, and anyone near a major port on the Mississippi and Missouri rivers can expect annihilation.",
+      "mots_cles": [
+        "rail junction",
+        "Chicago rail yards",
+        "refineries",
+        "Midwest",
+        "Missouri River",
+        "river ports",
+        "infrastructure targets",
+        "annihilation"
+      ],
+      "texte": "Chicago's rail nexus is part [music] of the broader infrastructure slated for nuclear destruction in the war. One of America's most important rail junctions, Chicago's vast rail yards are a primary target. However, a number of refineries across the Midwest [music] make even smaller communities prime targets. Meanwhile, anyone near a major port on the Mississippi [music] and Missouri rivers can expect annihilation as well."
+    },
+    {
+      "id": 116,
+      "debut": 5885.28,
+      "fin": 5943.48,
+      "temps_estime": false,
+      "titre": "The American South: Texas military bases",
+      "resume": "The South is one of the most targeted regions, aside from the Great Plains missile fields, because of its military infrastructure. In Texas, Fort Cavazos, Fort Bliss, Dyess and Lackland Air Force bases are key targets for destroying armored forces, air defense training, B-1B bombers and Air Force command.",
+      "mots_cles": [
+        "American South",
+        "Texas",
+        "Fort Cavazos",
+        "Fort Bliss",
+        "Dyess AFB",
+        "Lackland AFB",
+        "armored forces",
+        "military bases"
+      ],
+      "texte": "The American South is home to a bevy of critical military infrastructure, and this makes it one of [music] the most targeted regions in the entire country, aside from the Great Plains' missile fields. Starting in Texas, Fort Cavazos, formerly Fort [music] Hood, is a key target for destroying America's war-fighting ability. The base is a keynote in the American military's [music] armored warfare, with training programs for mechanized forces and armor. Fort Bliss near El Paso likewise contains many armored units that the US would rush to Europe [music] in case of a war with Russia. It's also an important base for US Army air defense training. Dyess and Lackland Air Force bases are both [music] key targets as well. Dyess is home to B-1B Lancers and a key base for American air power. Meanwhile, Lackland's home to US [music] Air Force basic and technical school training, while also containing key elements of US Air Force command. This is not by accident. [music] Located near the Mexican border, the base was once seen as more resilient due to being further out of reach of Soviet [music] weapons, an immunity that quickly evaporated as ICBMs increased in"
+    },
+    {
+      "id": 117,
+      "debut": 5943.48,
+      "fin": 5963.84,
+      "temps_estime": false,
+      "titre": "Barksdale AFB in Louisiana",
+      "resume": "Barksdale Air Force Base is one of the highest priority military targets, home to nuclear-capable B-52 bombers and a nuclear weapon storage depot being built by the Navy that will restore a nuclear capability consolidated about 20 years ago.",
+      "mots_cles": [
+        "Barksdale Air Force Base",
+        "Louisiana",
+        "B-52 bombers",
+        "nuclear storage depot",
+        "high priority target",
+        "Navy",
+        "nuclear capability",
+        "counterforce"
+      ],
+      "texte": "capability. Louisiana contains one of the highest priority military targets in the nation. Barksdale Air Force Base is home to not just nuclear-capable B-52 bombers, but also a nuclear weapon storage depot currently being built by the Navy. This will restore a nuclear capability to the base that was consolidated around 20 years ago. A dire warning of the type of future the US"
+    },
+    {
+      "id": 118,
+      "debut": 5963.84,
+      "fin": 6011.16,
+      "temps_estime": false,
+      "titre": "Georgia: Kings Bay, Warner Robins, Fort Stewart and Fort Benning",
+      "resume": "Georgia has four key military targets: Kings Bay Naval Submarine Base for Atlantic Ohio-class ballistic missile submarines, Warner Robins Air Force Base as a logistics hub, Fort Stewart as the largest army base east of the Mississippi, and Fort Benning for infantry and airborne training.",
+      "mots_cles": [
+        "Georgia",
+        "Kings Bay",
+        "Ohio-class submarines",
+        "Warner Robins AFB",
+        "Fort Stewart",
+        "Fort Benning",
+        "nuclear triad",
+        "airborne training"
+      ],
+      "texte": "expects to face. Georgia contains four key military targets. Kings Bay Naval Submarine Base is home to America's Atlantic-based nuclear ballistic missile submarines. The Ohio-class subs dock here for rest and refit, making the facility critical for America's sea-based leg of the nuclear triad. Warner Robins Air Force Base, meanwhile, is a key logistics and maintenance hub for the US Air Force. From Warner Robins, the USAF sends aircraft out across the Atlantic and receives them on their return. Fort Stewart and Fort Benning, meanwhile, are also key targets. Fort Stewart is the largest army base that side of the Mississippi, [music] hosting a large concentration of American firepower. Fort Benning, meanwhile, is a key training base for everything from new recruits to Rangers to America's airborne infantry forces. When they need to get parachute certified, other branches also send personnel to Fort Benning for training."
+    },
+    {
+      "id": 119,
+      "debut": 6011.16,
+      "fin": 6040.04,
+      "temps_estime": false,
+      "titre": "Florida military bases",
+      "resume": "Florida hosts MacDill Air Force Base, headquarters of US Central Command and Special Operations Command, plus Eglin AFB for Air Force testing, Navy air stations in Pensacola and Jacksonville, and Patrick Space Force Base and Cape Canaveral for space launch infrastructure.",
+      "mots_cles": [
+        "Florida",
+        "MacDill AFB",
+        "Central Command",
+        "Eglin AFB",
+        "Pensacola",
+        "Jacksonville",
+        "Cape Canaveral",
+        "Space Force"
+      ],
+      "texte": "Florida hosts MacDill Air Force [music] Base, home to headquarters for both US Central Command and Special Operations Command. Eglin Air Force Base, meanwhile, along the panhandle is a key testing and development base for the US Air Force. Naval air stations in Pensacola and Jacksonville, respectively, are key training and operation hubs for US Navy air operations. Meanwhile, Patrick Space Force Base and the Cape Canaveral complex are vital for America's space-based infrastructure and home to its largest launch complexes. Along with"
+    },
+    {
+      "id": 120,
+      "debut": 6040.04,
+      "fin": 6079.24,
+      "temps_estime": false,
+      "titre": "Southern cities and energy infrastructure",
+      "resume": "Refineries along the Texas coast are crucial for national gasoline supply, so their destruction would cause a massive fuel shortage. Houston, Mobile, New Orleans, Atlanta and Miami are targeted as energy, port, oil, transport and countervalue population centers.",
+      "mots_cles": [
+        "Texas refineries",
+        "gasoline shortage",
+        "Houston",
+        "Mobile Alabama",
+        "New Orleans",
+        "Atlanta",
+        "Miami",
+        "countervalue"
+      ],
+      "texte": "a bevy of major cities all under nuclear threat, the American South is also home to critical infrastructure. Refineries all along the Texas coast are crucial for meeting the gasoline needs of Americans across the nation. Their destruction would cause a massive gasoline shortage that would [music] the American economy. Houston itself is America's energy capital and home to major port facilities. Likewise, Mobile, Alabama is home to another [music] critical port in the US South. New Orleans is not just a culturally significant target, but also a major oil infrastructure center. Atlanta, meanwhile, is a key node in US [music] transportation. And in Florida, Miami represents a major countervalue target due to its large population size. The"
+    },
+    {
+      "id": 121,
+      "debut": 6079.24,
+      "fin": 6098.44,
+      "temps_estime": false,
+      "titre": "Washington, DC: target number one",
+      "resume": "Washington, DC is target number one for countervalue strikes because of the federal government and White House, and also a priority one counterforce target because of the Pentagon.",
+      "mots_cles": [
+        "Washington DC",
+        "White House",
+        "Pentagon",
+        "countervalue target",
+        "counterforce",
+        "federal government",
+        "northeast",
+        "target number one"
+      ],
+      "texte": "American Northeast isn't just the beating heart of the US government, but also of critical economic and military value. Starting right in Washington, [music] DC, the bulk of the federal government and White House makes it target number one in any countervalue targeting. However, the [music] presence of the Pentagon also makes the city a priority one counterforce target."
+    },
+    {
+      "id": 122,
+      "debut": 6098.44,
+      "fin": 6126.68,
+      "temps_estime": false,
+      "titre": "Virginia: Norfolk Naval Base and Langley",
+      "resume": "Norfolk Naval Base, the largest naval base in the US and home of the Atlantic carrier fleet, is the number one counterforce target in the Navy. Langley Air Force Base, a fighter command and intelligence hub known as America's spy base, is also of highest priority.",
+      "mots_cles": [
+        "Norfolk Naval Base",
+        "Virginia",
+        "carrier fleet",
+        "Langley AFB",
+        "spy base",
+        "counterforce",
+        "Navy submarines",
+        "intelligence hub"
+      ],
+      "texte": "Norfolk Naval Base in Virginia is the largest naval base [music] in the US and home to America's Atlantic Carrier Fleet. The base is also critical for US submarines and is the number one counterforce target in the [music] entire US Navy. Also in Virginia, Langley Air Force Base is home to a major fighter command, but even more importantly, a central hub in US Air Force and federal [music] agency intelligence operations. Langley is known as America's spy base for a reason and of highest priority for nuclear destruction [music] by the enemy."
+    },
+    {
+      "id": 123,
+      "debut": 6126.68,
+      "fin": 6159.24,
+      "temps_estime": false,
+      "titre": "Quantico, Newport and New London",
+      "resume": "Quantico hosts Marine Corps headquarters, officer candidate school and the FBI Academy, and Naval Station Newport hosts the Navy War College as a lower priority target. In Connecticut, Naval Submarine Base New London and Electric Boat shipyard are of extreme priority for attack submarines and undersea warfare research.",
+      "mots_cles": [
+        "Quantico",
+        "Marine Corps",
+        "FBI Academy",
+        "Naval Station Newport",
+        "Navy War College",
+        "New London",
+        "Electric Boat",
+        "attack submarines"
+      ],
+      "texte": "Quantico Marine Corps Base, meanwhile, is home to headquarters for the USMC and hosts its [music] officer candidate school as well as the FBI's Academy. In Rhode Island, Naval Station Newport [music] hosts the Navy Surface Warfare Officer School and Navy War College. While a lower [music] priority target than bases hosting ships or aircraft, still of strategic importance to the enemy. In Connecticut, Naval Submarine Base New London and the Electric Boat Shipyard are of extreme priority. New London is [music] home port of US attack submarines and a major research and development center for undersea warfare."
+    },
+    {
+      "id": 124,
+      "debut": 6159.24,
+      "fin": 6197.64,
+      "temps_estime": false,
+      "titre": "New York and New Jersey targets",
+      "resume": "Fort Drum, home of the 10th Mountain Division, and New York City, the nation's financial heart, are top priority, partly to destroy American morale. In New Jersey, Joint Base McGuire-Dix-Lakehurst and Newark Port, with its refineries, are slated for destruction.",
+      "mots_cles": [
+        "New York City",
+        "Fort Drum",
+        "10th Mountain Division",
+        "financial heart",
+        "New Jersey",
+        "McGuire-Dix-Lakehurst",
+        "Newark Port",
+        "morale"
+      ],
+      "texte": "New York, meanwhile, hosts Fort Drum and well, New York City. Fort Drum is in the north of the state [music] and is home to the 10th Mountain Division and a major component of US force projection. New York City, meanwhile, is the beating financial heart of the nation. The destruction is of highest priority, not just for economic value, but to destroy [music] America's morale and willingness to continue fighting. Joint Base McGuire-Dix-Lakehurst is a joint Air Force, Army, and Navy base and major transportation hub for the US military. Located in New Jersey, the base is slated for destruction along with the Newark [music] Port. A major port for shipping, Newark is also home to critical refineries feeding America's need for gasoline. [music]"
+    },
+    {
+      "id": 125,
+      "debut": 6197.64,
+      "fin": 6232.68,
+      "temps_estime": false,
+      "titre": "Pennsylvania and Delaware: Philadelphia and Dover AFB",
+      "resume": "The Army War College in Pennsylvania is a key but lesser target for destroying military leadership, while Philadelphia is a top priority for its industry and shipyards. Dover Air Force Base in Delaware is high priority as the logistics hub sending out C-5 Galaxy and C-17 aircraft worldwide.",
+      "mots_cles": [
+        "Army War College",
+        "Philadelphia",
+        "shipyards",
+        "Dover AFB",
+        "Delaware",
+        "C-5 Galaxy",
+        "C-17 Globemaster",
+        "logistics hub"
+      ],
+      "texte": "The US Army War College in Pennsylvania is a key target for destroying US military leadership, but of lesser value than other counterforce targets. Philadelphia, though, is a [music] top priority target both due to its major industry base and sprawling shipyards. In Delaware, Dover Air Force Base is a high priority target due to its status as a major logistics and transport [music] hub for the entire US military. From Dover, the US sends out its massive C-5 Galaxy aircraft and C-17 [music] Globemasters delivering troops, equipment, and supplies all over the world. Inbound aircraft from overseas are also frequently [music] refueled and"
+    },
+    {
+      "id": 126,
+      "debut": 6232.68,
+      "fin": 6279.52,
+      "temps_estime": false,
+      "titre": "Maryland: Fort Meade, Joint Base Andrews and Baltimore",
+      "resume": "Maryland is small and important enough to be almost entirely covered in nuclear fire. Fort Meade houses the NSA and Cyber Command, Aberdeen Proving Ground does weapons testing, Joint Base Andrews hosts Air Force One and would be hit first in a decapitation strike, and Baltimore is a port and industrial target.",
+      "mots_cles": [
+        "Maryland",
+        "Fort Meade",
+        "NSA",
+        "Cyber Command",
+        "Joint Base Andrews",
+        "decapitation strike",
+        "Baltimore",
+        "Air Force One"
+      ],
+      "texte": "refitted at Dover. Maryland, meanwhile, is small enough and important enough to be almost entirely covered in nuclear fire. Fort Meade is home to the NSA and US Cyber Command making it an extremely high priority target for destroying America's intelligence and cyber warfare capabilities. Aberdeen Proving Ground is critical for US Army weapons development and testing. Joint Base Andrews, meanwhile, is of highest priority, given [music] its status as home of Air Force One and a key hub for airlift of national leadership. In a decapitation strike, Andrews would be struck first to prevent US leadership from fleeing the local area. Baltimore, meanwhile, is home to major port facilities and a key industrial target for undoing the American economy. With massive [music] rail infrastructure, large numbers of refineries, and a key power grid and communication node, the American"
+    },
+    {
+      "id": 127,
+      "debut": 6279.52,
+      "fin": 6310.4,
+      "temps_estime": false,
+      "titre": "The Northeast annihilated: no safe zone",
+      "resume": "The Northeast, with its rail, refineries, power grid and communication nodes, is slated for complete annihilation, and its destruction would make the infrastructure of American life fall apart, from cell phones to grocery deliveries. In a nuclear war there is no safe zone, only different kinds of danger.",
+      "mots_cles": [
+        "Northeast",
+        "infrastructure collapse",
+        "no safe zone",
+        "power grid",
+        "communications",
+        "grocery deliveries",
+        "nuclear war",
+        "dismantling the country"
+      ],
+      "texte": "Northeast is slated for complete nuclear annihilation in the case of war. And with its destruction, you can expect the very infrastructure that underpins the American way of life to completely [music] fall apart. You may not be directly harmed in a nuclear attack in the Northeast, but everything from [music] your cell phone to local grocery store deliveries probably relies on either the physical or electronic infrastructure contained in the region. In a nuclear war, there is no safe zone, [music] only different kinds of danger. And that's why a full-scale nuclear strike wouldn't just devastate the US, it would dismantle the country from the inside out."
+    },
+    {
+      "id": 128,
+      "debut": 6310.4,
+      "fin": 6379.84,
+      "temps_estime": false,
+      "titre": "Doomsday begins: command chain, nuclear football and the biscuit",
+      "resume": "Transition into a global scenario in which every nuclear power fires its full arsenal, the most destructive day in human history, starting at zero hours, zero minutes, one second. Communications link nine nuclear-armed leaders to launch authorities, and the US president uses the nuclear football, the Joint Chiefs, the NMCC and the biscuit authentication card.",
+      "mots_cles": [
+        "doomsday scenario",
+        "nuclear football",
+        "biscuit authentication",
+        "NMCC",
+        "Joint Chiefs of Staff",
+        "nine nuclear states",
+        "launch authority",
+        "zero hour"
+      ],
+      "texte": ">> [music] >> But if you think the explosions are the end of it, think again. Across the world, silo doors slide open. Missiles roar to life and streak into the sky, signaling the beginning of the end. In a single, world-shattering moment, every nuclear power on Earth has made the same deadly decision to unleash their full arsenals and throw open the gates [music] to doomsday. This is what the most destructive day in human history would look like. Doomsday, [music] zero hours, zero minutes, one second. In the first second of doomsday, encrypted communications link the leaders of Earth's nine nuclear-armed states to their military command launch authorities. In the United States, the president grips the nuclear football, establishing direct contact with the chairman of the Joint Chiefs of Staff. Through him, the connection extends to the National Military Command Center, or NMCC, at the Pentagon, the nerve center of America's nuclear arsenal. Staffed by the Department of the Air Force, the NMCC [music] is how the Joint Chiefs of Staff and the president relay orders to the American battlefield commanders across the globe. The president authenticates himself utilizing the biscuit, a laminated card encased in plastic, [music] which contains authentication codes. This ensures that the man issuing the nuclear launch order is the commander-in-chief himself."
+    },
+    {
+      "id": 129,
+      "debut": 6379.84,
+      "fin": 6464.28,
+      "temps_estime": false,
+      "titre": "Attack options: counterforce, countervalue and global strike",
+      "resume": "The football holds attack options including limited strikes and three main plans: counterforce, countervalue and global strike. Counterforce targets missile fields, radars and military installations, countervalue targets cities and economic centers, and global strike is a full-scale attack on Russia, China, Iran, North Korea and Pakistan.",
+      "mots_cles": [
+        "counterforce",
+        "countervalue",
+        "global strike",
+        "attack options",
+        "nuclear football",
+        "Russia China",
+        "doomsday plan",
+        "challenge code"
+      ],
+      "texte": ">> [music] >> Inside of the nuclear football is a black box a listing of different attack options relating to the use of the nation's nuclear arsenal. Some of these options call for limited strikes, but [music] the main three options are counterforce strike, countervalue strike, and global strike. Counterforce and countervalue strike options include the options to target the United States' two chief military rivals, China and Russia, with two entirely different sets of attacks. Counterforce is focused on neutralizing an enemy's ability to strike back. It targets missile fields, air defense radar sites, military communications hubs, and [music] key installations, including army bases, naval ports, airfields, and submarine facilities. Countervalue strikes are focused solely on destroying the economic and cultural [music] centers of an enemy nation. This can range from limited to full strike options. For example, if there's an attack on an American city, the president might order a countervalue strike on two enemy cities in retaliation. Or the president can order a full countervalue strike eliminating enemy cities, economic and transportation hubs, and major [music] infrastructure such as dams. Today, the president selects global strike, the ultimate doomsday [music] scenario plan. This instructs the United States military to carry out a full-scale nuclear attack [music] on all of America's nuclear threats, including Russia, China, Iran, North Korea, and Pakistan. But the list changes with the tides of geopolitics. The president is presented with the challenge code, to which he must respond with the proper counter code on the biscuit"
+    },
+    {
+      "id": 130,
+      "debut": 6464.28,
+      "fin": 6521.4,
+      "temps_estime": false,
+      "titre": "Authenticating the order and the emergency war order",
+      "resume": "The challenge code and counter code on the biscuit ensure continuity, and the launch order is relayed to command centers including the alternate NMCC at Raven Rock Mountain and an airborne command post. An emergency war order with targets, launch times, authentication and unlock codes for all three legs of the triad is authenticated by a second officer.",
+      "mots_cles": [
+        "challenge code",
+        "Raven Rock Mountain",
+        "airborne command post",
+        "emergency war order",
+        "unlock codes",
+        "nuclear triad",
+        "authentication",
+        "launch order"
+      ],
+      "texte": ">> [music] >> to ensure continuity in the event of sabotage or an attack on the Pentagon. The authenticated launch order is simultaneously relayed to multiple command centers. >> [music] >> The alternate National Military Command Center, deep within Raven Rock Mountain, Pennsylvania, receives the transmission, [music] serving as a secure backup. Meanwhile, an airborne command post remains on standby, ensuring the order can be executed under any circumstances. Now, the attack order itself is prepared for execution by the senior officer in charge at either the National Military Command Center or the alternate center, an emergency war order is formed containing the full details of the president's chosen attack [music] plan. It includes designated targets, the launch times, authentication codes to verify the order, and the unlock codes required to fire missiles from all three legs of America's nuclear triad. The emergency war order is authenticated by a second officer before being transmitted as an emergency action message or EAM around the world. The EAM"
+    },
+    {
+      "id": 131,
+      "debut": 6521.4,
+      "fin": 6579.32,
+      "temps_estime": false,
+      "titre": "Emergency action message and Britain's Trident force",
+      "resume": "The EAM is sent over the high-frequency global communication system, linking ground stations, ships and aircraft from Guam to Ascension Island, Portugal, Italy and Japan. Britain's sovereign submarine missile arsenal, able to strike 512 targets, is integrated into the US global strike plan and receives the EAM.",
+      "mots_cles": [
+        "emergency action message",
+        "EAM",
+        "high-frequency global communication system",
+        "British nuclear arsenal",
+        "Trident",
+        "NATO attack",
+        "Guam",
+        "global strike plan"
+      ],
+      "texte": "is transmitted through the high-frequency global communication system, a vast network linking US military forces across the globe. This system ensures that launch orders reach ground stations, [music] naval vessels, and aircraft in flight, guaranteeing seamless coordination. The stations span the planet from mainland US to Guam to Ascension Island, Portugal, Italy, [music] and Japan. While Britain's nuclear weapons remain sovereign, their submarine-launched intercontinental ballistic missile arsenal, capable of striking 512 targets, is integrated [music] into the US global strike plan. In the event of a full-scale nuclear exchange, these British warheads are incorporated into a coordinated NATO attack, ensuring maximum strategic impact. So, the EAM is also relayed to British authorities, who [music] review and then proceed to relay their own orders to their at-sea submarines to join in the attack. Despite only being a fraction of the size of the US arsenal, they still represent an important part of a US global strike plan. Doomsday, 5"
+    },
+    {
+      "id": 132,
+      "debut": 6579.32,
+      "fin": 6654.61,
+      "temps_estime": false,
+      "titre": "Doomsday 5 minutes: first ICBMs leave their silos",
+      "resume": "About five minutes after the order, the first ICBMs leave silos in Russia, China and the US. American silos use a two-man rule, backed by remote launch from an airborne command post at Offutt AFB, while aircraft not yet airborne are destroyed with their airbases.",
+      "mots_cles": [
+        "ICBM launch",
+        "two-man rule",
+        "Offutt Air Force Base",
+        "airborne command post",
+        "5 minutes",
+        "silos",
+        "inertial guidance",
+        "alert aircraft"
+      ],
+      "texte": "minutes. The first ICBMs in Russia, China, and the US are now leaving their silos. On average, it takes 5 minutes for an EAM to be authenticated, delivered, re-authenticated, [music] and then implemented. American silos use a two-man rule, where two controllers must agree to launch their assigned weapons. This is meant [music] to prevent sabotage or an act of insanity. However, in case both launch officers refuse to perform their duty, the weapons can be remote launched by an airborne command [music] post. At Offutt Air Force Base in Nebraska, America's first airborne command post is just now taking to the skies. The crew remains on constant alert, ready to launch at a moment's notice. But for many additional aircraft, time is running out. Some will manage to take to the sky while others will be caught on the ground, wiped [music] out alongside their airbases as nuclear fire consumes the runways. Across the military, personnel scramble to return to duty, but for many it's already too late. Inside missile silos, ICBMs are firing their first stage rocket motors and their inertial guidance systems [music] activate. They already have a pre-programmed flight route and will use GPS to ensure accuracy, but in case of enemy attack on these [music] systems, they can rely on inertial guidance to achieve a high degree of accuracy. With each warhead set to maximum yield, accuracy [music] is a subjective matter. Doomsday, 6"
+    },
+    {
+      "id": 133,
+      "debut": 6654.61,
+      "fin": 6682.77,
+      "temps_estime": false,
+      "titre": "Doomsday 6 minutes: 800 missiles in flight",
+      "resume": "Around 800 ICBMs from Russia and the United States are in flight at 6 minutes, entering space at nearly 15,000 mph as first stage boosters burn out. The figure assumes about 760 Russian ICBMs in ready launch configuration.",
+      "mots_cles": [
+        "800 ICBMs",
+        "15,000 mph",
+        "first stage boosters",
+        "760 Russian ICBMs",
+        "missiles in flight",
+        "space",
+        "6 minutes",
+        "ready launch configuration"
+      ],
+      "texte": "minutes. Approximately 800 intercontinental nuclear ballistic missiles are in flight from Russia and the United States. 60 seconds into their flight, the first stage boosters burn out [music] and detach, the second stage motor igniting. The missiles are now entering into space moving at nearly 15,000 mph. This number is the textbook figure taking into account the 760 or so estimated Russian ICBMs kept in ready launch configuration. However, the real amount is almost certainly far lower"
+    },
+    {
+      "id": 134,
+      "debut": 6682.77,
+      "fin": 6741.41,
+      "temps_estime": false,
+      "titre": "Why Russian missiles would mostly fail",
+      "resume": "In the first six months of the Ukraine war US intelligence estimated only about 17% of Russian missile strikes reached their targets because of malfunctions, reflecting poor storage, maintenance and corruption. The narrator therefore estimates only around 20% of Russian ICBMs would launch and reach their targets.",
+      "mots_cles": [
+        "Russian missile reliability",
+        "Ukraine war",
+        "17% success rate",
+        "corruption",
+        "maintenance",
+        "20% of ICBMs",
+        "malfunctions",
+        "Russian military"
+      ],
+      "texte": "than that. To understand why, we have to look at current events. In the first 6 months of the Ukraine war, US intelligence estimated that only about 17% of Russian missile strikes were successfully reaching [music] their intended targets each day. The rest were experiencing malfunctions, either not firing at all, destroying themselves in flight, or being extremely [music] inaccurate. It wasn't until Russia used up most of its pre-war inventory and was forced [music] to use newly produced missiles that reliability rates increased. This is indicative of the poor state of storage and maintenance [music] that is endemic to the Russian military due to unprofessionalism and widespread corruption. The Russian military has a rich culture of corruption that extends up and down the chain of command from the lowest soldier. If Russia's most frequently used weapons were failing at such an alarming rate, it stands to reason that its least used weapons, nuclear missiles, would suffer even worse reliability issues. Given this, we can reasonably estimate that around 20% of Russian ICBMs >> [music] >> would successfully launch, stay on course, and reach their intended"
+    },
+    {
+      "id": 135,
+      "debut": 6741.41,
+      "fin": 6765.53,
+      "temps_estime": false,
+      "titre": "Chinese nuclear forces: no first use and missile sponges",
+      "resume": "China's no first use policy keeps missiles at a low readiness, so forces scramble to mate warheads to missiles. Its deterrent relies on surviving a first strike, with land-based fields acting as missile sponges and submarines armed with 72 missiles guaranteeing retaliation.",
+      "mots_cles": [
+        "China nuclear forces",
+        "no first use",
+        "missile sponges",
+        "submarine deterrent",
+        "72 missiles",
+        "low readiness",
+        "second strike",
+        "deterrence"
+      ],
+      "texte": "targets. Chinese nuclear forces meanwhile are scrambling to mate warheads to missiles. The nation has a no first use policy, meaning their missiles are kept in a low state of readiness. Nuclear deterrent strategy relies on surviving a first strike. Its land-based missile fields serve as missile sponges, absorbing incoming attacks, while its fleet of submarines armed with 72 nuclear [music] missiles guarantees retaliation. Doomsday, 8"
+    },
+    {
+      "id": 136,
+      "debut": 6765.53,
+      "fin": 6817.85,
+      "temps_estime": false,
+      "titre": "Doomsday 8 minutes: North Korea and South Korea",
+      "resume": "Kim Jong-un is rushed to an underground shelter while North Korea prepares missiles on erector vehicles, a launch process taking up to 30 minutes. Submarine-launched Trident IIs could arrive in under 10 minutes versus just over 20 for ICBMs, and South Korean aircraft hunt for the launchers.",
+      "mots_cles": [
+        "North Korea",
+        "Kim Jong-un",
+        "underground shelter",
+        "erector launchers",
+        "Trident II",
+        "South Korea",
+        "8 minutes",
+        "launch vehicles"
+      ],
+      "texte": "minutes. Within 8 minutes various things are happening in nuclear powers around the world. In North Korea, Kim Jong-un is being rushed to an underground shelter along with his most senior staff. North Korea doesn't know if it's being targeted by American weapons stationed in silos or submarines. This means it's impossible to predict how much time they have to get to safety. If they're being targeted by submarines, they might have less than 10 minutes before the first Trident II's begin delivering weapons to North Korean targets. But if the US is using mainland ICBMs, they could have just over 20 minutes to seek shelter. Their own weapons are being rolled out of mountain shelters and prepared for launch on massive erector vehicles. North Korea's missile launch process will take up to 30 [music] minutes, but intelligence estimates that the rugged terrain of its mountainous regions suggests that most launch vehicles will survive long enough to fire. Even now, South Korean alert aircraft are taking off [music] on a hunt for those erector launchers. In"
+    },
+    {
+      "id": 137,
+      "debut": 6817.85,
+      "fin": 6863.61,
+      "temps_estime": false,
+      "titre": "Doomsday 8 minutes: Israel and France",
+      "resume": "Israel pairs nuclear cruise missiles with aircraft to hit Iran's nuclear infrastructure, treating its limited arsenal as the ultimate safeguard against total collapse. France launches alert aircraft with a nuclear capability independent of the US and plans that target Russia only.",
+      "mots_cles": [
+        "Israel",
+        "nuclear cruise missiles",
+        "Iran nuclear infrastructure",
+        "French nuclear forces",
+        "independent deterrent",
+        "alert aircraft",
+        "Russian Federation",
+        "deterrent"
+      ],
+      "texte": "Israel, the nation is rushing to pair nuclear cruise missiles to alert aircraft. Israel will target Iran with its nuclear weapons, destroying the [music] nation's nuclear infrastructure, major bases, and airfields. Its limited arsenal is largely meant to be a deterrent in case of war, given the nation's precarious tactical position, where a single major defeat [music] could open the door to full occupation. Nuclear weapons serve as the ultimate safeguard against total collapse. French alert aircraft are taking off from airfields around the country. While most aircraft are being rushed and prepared for mating with nuclear weapons, France [music] operates a nuclear capability independent of the United States, wary of being too dependent on the unpredictable ally. French nuclear war plans thus don't necessarily align with American or British plans, [music] though their targets are all inside the"
+    },
+    {
+      "id": 138,
+      "debut": 6863.61,
+      "fin": 6910.69,
+      "temps_estime": false,
+      "titre": "Doomsday 9 minutes: ICBM third stage, decoys and missile defense",
+      "resume": "In space ICBMs fire third stage motors, reaching 750 to 930 miles, and reentry vehicles separate and deploy decoys and countermeasures. Missiles coast up to 20 minutes before reentry, and saturation attack means missile defenses stop few of them.",
+      "mots_cles": [
+        "third stage motor",
+        "reentry vehicle",
+        "decoys countermeasures",
+        "missile defense",
+        "saturation attack",
+        "750 to 930 miles",
+        "coast phase",
+        "US Navy"
+      ],
+      "texte": "Russian Federation. Doomsday, 9 minutes. In space, American and Russian ICBMs fire their third stage motors, lifting each missile to a height of 750 to 930 miles above the planet depending on their individual trajectory. The reentry vehicle on each missile separates from the main body and deploys decoys [music] and countermeasures to confuse enemy defenses. After a brief burn of the third stage motor, the reentry vehicle uses control thrusters to make small precise adjustments to its course. The missiles will now coast for up to 20 minutes before making reentry. At this point, various missile defense attempts will be made, especially by the US Navy and shore-based missile defense network. [music] However, with the deployment of countermeasures and decoys, the saturation attack means the vast majority of missiles will [music] penetrate to reach their targets."
+    },
+    {
+      "id": 139,
+      "debut": 6910.69,
+      "fin": 6949.17,
+      "temps_estime": false,
+      "titre": "Doomsday 15 minutes: aircraft, Pakistan, India and Iran",
+      "resume": "By 15 minutes, aircraft from Russia, the US, France and Israel are airborne and North Korean missiles are launched. Iran struggles to mate warheads before Israeli strikes, Pakistan fires on Indian bases, and India's no first-use policy slows its bulk arsenal as it splits focus between Pakistan and China.",
+      "mots_cles": [
+        "15 minutes",
+        "Pakistan nuclear strike",
+        "India no first use",
+        "Iran",
+        "alert aircraft",
+        "North Korean missiles",
+        "Indian military bases",
+        "China"
+      ],
+      "texte": "Doomsday, 15 minutes. By the 15-minute mark, alert aircraft from Russia, the United States, France, and Israel are already in the air. The first North Korean missiles are also being fired. Iran is rushing to mate warheads to missiles, [music] but their airfields will never survive the incoming Israeli strikes. Pakistan has fired its first nuclear-tipped missiles aimed at Indian military bases along its border. India is just now preparing its own ballistic missiles for launch due to its no first-use policy, but the bulk of its arsenal will take as much as [music] hours to prepare for attack. India's nuclear-armed missiles are moving into firing positions to [music] strike into either Pakistan or China with the nation dividing its nuclear focus between the two regional"
+    },
+    {
+      "id": 140,
+      "debut": 6949.17,
+      "fin": 7000.01,
+      "temps_estime": false,
+      "titre": "Submarine launches and the French and British strike",
+      "resume": "American, British, French, Russian and Chinese submarines launch from patrol routes without repositioning. French subs fire up to 640 warheads at Russian targets, and French and British missiles fired from the Mediterranean, Atlantic and Arctic arrive first, hitting Russian missile fields that are now mostly empty.",
+      "mots_cles": [
+        "nuclear submarines",
+        "French submarines",
+        "British submarines",
+        "SLBM",
+        "Russian missile fields",
+        "640 warheads",
+        "empty silos",
+        "patrol routes"
+      ],
+      "texte": "[music] adversaries. American, British, French, Russian, and Chinese submarines are now preparing their own launches. With longer-range missiles, they don't need to move into position and can [music] reach their targets from regular patrol routes around the world. French submarines fire their 64 and 51 missiles, each carrying up to 10 warheads, allowing them to hit as many as 640 Russian targets. Despite being independent of US war plans, the French are aware of the US and UK nuclear response and thus reducing overlap in targeting. Fired from the Mediterranean, Atlantic, and Arctic Ocean, French and British submarine-launched missiles will be the first to reach their targets. Likely to be Russia's vast missile fields, [music] The goal is to eliminate the majority of Russian ICBMs while they're still in their silos under a normal attack. However, in this case, they'll simply be destroying [music] mostly empty silos or silos with missiles that failed to"
+    },
+    {
+      "id": 141,
+      "debut": 7000.01,
+      "fin": 7044.97,
+      "temps_estime": false,
+      "titre": "Trident II strikes on Russian targets",
+      "resume": "UK and US Trident 2 missiles carry 12 independently targetable warheads and cover a footprint several hundred miles wide. 336 American and 58 British missiles fired near the Russian coast reach targets first, destroying radars, bomber bases and road-mobile ICBM bases, whose launchers have already been fired.",
+      "mots_cles": [
+        "Trident II",
+        "336 American missiles",
+        "58 British missiles",
+        "MIRV",
+        "Russian radars",
+        "bomber bases",
+        "road-mobile ICBMs",
+        "first strike"
+      ],
+      "texte": "launch. UK and American submarines carry Trident 2 nuclear missiles, the most devastating weapon on the planet with 12 independently targetable nuclear warheads. The missiles can deliver total devastation on a footprint estimated to be several hundred miles in diameter. 336 American Trident 2 missiles along with 58 British Trident 2s are fired only a few hundred miles from the Russian coastline, allowing them to be the first weapons to reach their targets. These missiles will destroy Russian air defense radars, >> [music] >> strategic bomber bases, and bases that house and maintain Russia's fleet of road mobile ICBM launchers. >> [music] >> In a normal scenario, this would lead to the destruction of all of Russia's non-deployed road mobile launchers, but these two have already been fired in this ultimate doomsday scenario."
+    },
+    {
+      "id": 142,
+      "debut": 7044.97,
+      "fin": 7094.61,
+      "temps_estime": false,
+      "titre": "Doomsday 22 to 24 minutes: bombers and Russian SLBMs",
+      "resume": "At 22 minutes the first Tridents hit Russian missile fields and air bases, and most Russian strategic bombers never get off the ground. At 24 minutes Russian submarine-launched missiles reach the northern and western US, but dispersed American forces and a Russian failure rate possibly as high as 80% limit the damage to the US air fleet.",
+      "mots_cles": [
+        "22 minutes",
+        "24 minutes",
+        "Russian bombers",
+        "Russian SLBMs",
+        "US bombers",
+        "dispersed forces",
+        "80% failure rate",
+        "strategic bombers"
+      ],
+      "texte": "Doomsday, 22 minutes. The first Trident 2 missiles are reaching their targets, devastating Russian missile fields and air bases. Most of Russia's strategic bombers will never get off the ground. With only a few kept on alert, the rest require recalling their crews and hurriedly arming them with nuclear weapons, >> [music] >> a process that can take hours. Doomsday, 24 minutes. The first Russian submarine-launched nuclear missiles are reaching their targets in the northern and western United [music] States. Just like Russian bombers, most of America's strategic bombers are destroyed before as only a small number are kept on constant [music] alert status. However, the widely dispersed nature of US forces makes it extremely difficult to destroy large amounts of the US air fleet in even a full-scale attack scenario, especially given the estimated failure rate of Russian missiles, which could reach as high as 80%. Doomsday, 30"
+    },
+    {
+      "id": 143,
+      "debut": 7094.61,
+      "fin": 7137.57,
+      "temps_estime": false,
+      "titre": "Doomsday 30 minutes: Air Force One and the fall of Washington",
+      "resume": "At 30 minutes airborne command posts patrol and the president is aboard Air Force One over the Atlantic. Washington, DC is targeted by dozens of missiles, senior officials have fled, and civilians turn to Cold War bunkers that have mostly fallen into disrepair.",
+      "mots_cles": [
+        "30 minutes",
+        "Air Force One",
+        "airborne command post",
+        "Washington DC destroyed",
+        "Cold War bunkers",
+        "evacuated leadership",
+        "civilian shelters",
+        "Russian missiles"
+      ],
+      "texte": "minutes. American airborne command posts are on patrol, one over the west coast, >> [music] >> one over the central US, and a third over the Atlantic. The president is aboard Air Force One and [music] currently well out to sea over the Atlantic escaping Washington, D.C. As a priority target, Washington, D.C. is targeted by dozens of independent missiles, ensuring the destruction of the capital despite failure rates of Russian weapons >> [music] >> and US missile defenses. By now though, most of the senior elements of the US government have already fled the city. Civilians have been rushed into Cold War era bunkers, but these have mostly [music] fallen into disrepair due to the end of the Soviet nuclear threat. Likewise, across the country, American civilians have few places to shelter from the nuclear devastation about to rain down on them. The first Russian"
+    },
+    {
+      "id": 144,
+      "debut": 7137.57,
+      "fin": 7184.01,
+      "temps_estime": false,
+      "titre": "Uncoordinated Russian and Chinese strikes; US attack on Russia and China",
+      "resume": "The first Russian and Chinese submarine-launched missiles strike US cities, with uncoordinated plans leading to overlapping targeting of New York, Los Angeles and Atlanta. American ICBMs hit Chinese missile fields while 80% of ready US weapons are aimed at Russia's missile fields, airfields and naval bases.",
+      "mots_cles": [
+        "Chinese submarine missiles",
+        "overlapping targets",
+        "New York Los Angeles",
+        "US ICBMs",
+        "80% aimed at Russia",
+        "Russian airfields",
+        "naval bases",
+        "uncoordinated strikes"
+      ],
+      "texte": "weapons and Chinese submarine-launched missiles strike their targets in the US. Due to a separation of war plans, the Russians and Chinese do not coordinate their strikes, leading to overlap of critical targets such as Washington, New York, Los Angeles, Atlanta, and other major cities. This dramatically increases casualties in those areas, though the Chinese submarine arsenal is limited. In China, American ICBMs begin to rain down on their missile fields. Chinese missile fields are targeted by US ICBMs rather than faster submarine-launched weapons. Also, due to the low number of Chinese weapons, the bulk of America's initial nuclear attack is aimed at Russia, with 80% of US ready weapons being aimed at the Russian Federation. Missile fields, airfields, submarine docks, and naval bases across Russia go up in nuclear fire. Set to"
+    },
+    {
+      "id": 145,
+      "debut": 7184.01,
+      "fin": 7215.21,
+      "temps_estime": false,
+      "titre": "Ground bursts on silos and submarine bases",
+      "resume": "American weapons set to maximum yield use ground bursts on missile fields and Russian Pacific naval ports, delivering kinetic energy to hardened silos. The explosions vaporize rock into radioactive particles, leaving facilities out of commission until a full cleanup.",
+      "mots_cles": [
+        "ground burst",
+        "missile silos",
+        "submarine bases",
+        "radioactive fallout",
+        "maximum yield",
+        "hardened targets",
+        "Russian naval ports",
+        "kinetic energy"
+      ],
+      "texte": "maximum yield, American weapons either explode in ground or air burst configuration, depending on the target. For missile fields, the weapons are set to ground burst, which delivers the maximum amount of kinetic energy to the hardened missile silos. The same [music] goes for Russian naval ports in the Pacific, and especially its submarine bases. These explosions vaporize massive amounts of debris and rock, which in turn becomes a deadly fog of radioactive particles. This ensures that these facilities [music] are not just mostly destroyed, but out of commission without a full-scale cleanup effort first."
+    },
+    {
+      "id": 146,
+      "debut": 7215.21,
+      "fin": 7254.21,
+      "temps_estime": false,
+      "titre": "Air bursts on cities and 200 million deaths",
+      "resume": "Cities are hit with air bursts at almost 1,300 ft, where the blast shockwave combines with the ground-reflected wave to amplify destruction. Over 200 million people die in the initial attacks, vaporized or killed by third-degree burns and structural collapses.",
+      "mots_cles": [
+        "air burst",
+        "1,300 feet",
+        "shockwave",
+        "city detonation",
+        "200 million deaths",
+        "third-degree burns",
+        "blast wave",
+        "countervalue"
+      ],
+      "texte": "Russian and American cities, however, experience air burst detonations. This increases the lethality of a nuclear weapon by avoiding the absorption of blast energy through terrain and buildings. Instead, detonating [music] almost 1,300 ft above the city, the nuclear bomb creates a massive shockwave that travels unimpeded. However, it also generates a secondary shockwave that rebounds off the ground, surging outward and merging with the initial blast. The two waves combine, amplifying [music] the force and expanding the destructive energy even further. Over 200 million people die in the initial nuclear attacks, vaporized [music] instantly or suffering victim to third-degree burns and structural"
+    },
+    {
+      "id": 147,
+      "debut": 7254.21,
+      "fin": 7314.25,
+      "temps_estime": false,
+      "titre": "Russian MIRVs and city-sized firestorms",
+      "resume": "Russian submarine missiles are better maintained than ICBMs and blanket American cities and bases with MIRV warheads dispersed over hundreds of miles. Successive nearby detonations create city-sized firestorms that grow over time and take days or weeks to extinguish.",
+      "mots_cles": [
+        "MIRV warheads",
+        "Russian SLBMs",
+        "firestorms",
+        "missile footprint",
+        "multiple warheads",
+        "post-attack fires",
+        "reliability",
+        "thrusters"
+      ],
+      "texte": "collapses. Russian submarine-launched missiles are kept in better condition than their ICBMs, [music] and they have a higher reliability rate. With multiple warheads per missile, they blanket American cities and military bases in a wave of destruction hundreds of miles in diameter. This radius represents the missile's total footprint, the vast area where it can disperse [music] its warheads as they streak through space. With no propulsion of their own, each warhead relies solely on precisely timed thrusters [music] to separate from the delivery vehicle. However, the warheads are precisely targeted so that their destructive efforts only overlap over critical targets such as airfields. Multiple independently targetable re-entry vehicles or MIRV weapons on all sides make use of a phenomenon where the successive [music] close-by nuclear detonations create massive firestorms that can spread [music] swiftly across vast areas. The real destruction from their impacts isn't just the initial detonation, but the city-sized [music] firestorms that grow in intensity over time and will take days or weeks to"
+    },
+    {
+      "id": 148,
+      "debut": 7314.25,
+      "fin": 7363.17,
+      "temps_estime": false,
+      "titre": "Destroying a nation's ability to ever field nuclear weapons",
+      "resume": "Full-scale strikes combine countervalue and counterforce targets: cities, airbases, ports, submarine bases, industry, storage sites, research centers and production facilities. The goal is to leave the enemy unable to use reserve weapons or design and build new ones.",
+      "mots_cles": [
+        "counterforce and countervalue",
+        "full-scale strike",
+        "nuclear production facilities",
+        "reserve inventory",
+        "submarine bases",
+        "research centers",
+        "no recovery",
+        "industrial hubs"
+      ],
+      "texte": "fully extinguish. As a full-scale strike that combines countervalue and counterforce targets, [music] both sides unleash destruction on an unprecedented scale. Major cities are reduced to rubble, strategic airbases are obliterated, and key [music] port facilities vanish in firestorms. Submarine bases critical for re-arming nuclear-equipped subs at sea [music] are wiped out along with industrial and economic hubs. Nuclear weapon storage sites, [music] research centers, and production facilities are systematically targeted, ensuring no possibility of recovery. The goal is not just to destroy the [music] enemy's ability to use its existing nuclear weapons, it is to ensure that the enemy is incapable of using its reserve [music] inventory of nuclear weapons, as well as destroying the ability to design and construct future nuclear weapons. It is an all-out [music] attempt to permanently destroy a nation's ability to ever field nuclear"
+    },
+    {
+      "id": 149,
+      "debut": 7363.17,
+      "fin": 7415.53,
+      "temps_estime": false,
+      "titre": "Secret nuclear reserves for the post-apocalypse",
+      "resume": "Russia and the US each keep a secret reserve of nuclear weapons in extremely well-protected sites for use after a full exchange. They serve as a last line of defense, ensuring deterrence and regional power for a surviving nation while it rebuilds or fights post-apocalypse wars.",
+      "mots_cles": [
+        "secret stockpile",
+        "nuclear reserve",
+        "protected sites",
+        "deterrence",
+        "post-apocalypse wars",
+        "rebuilding",
+        "regional player",
+        "contingency"
+      ],
+      "texte": "weapons again. This is also why both Russia and the US >> [music] >> keep a secret reserve of nuclear weapons in extremely well-protected sites, anticipating that a full-scale nuclear [music] exchange would lead to near total, if not complete, collapse of their military forces. Both the US and Russia [music] have a contingency in place. A secret stockpile of nuclear weapons is reserved not for immediate use, but as a safeguard against future [music] conventional threats. If either nation survives the initial devastation, these remaining warheads [music] would serve as a last line of defense, ensuring deterrence while they attempt to rebuild and rearm, if they can still function [music] as a nation-state amid the chaos. Nuclear weapons are not just used to secure today. They're also planned to be used in a number of post-apocalypse wars >> [music] >> that might spring up. It ensures that, despite being completely devastated, a surviving US or Russia still remains a major regional player. Doomsday, 32"
+    },
+    {
+      "id": 150,
+      "debut": 7415.53,
+      "fin": 7460.55,
+      "temps_estime": false,
+      "titre": "Doomsday 32 minutes: Europe under attack",
+      "resume": "Europe's cities are secondary targets and shorter-range Russian weapons, especially road-mobile launchers, create a carpet of destruction across Western Europe. Cities in the UK, France, Spain, Germany and Poland are hit, and Turkey is targeted for hosting US nuclear weapons.",
+      "mots_cles": [
+        "32 minutes",
+        "Western Europe destroyed",
+        "road-mobile launchers",
+        "UK France Germany Poland",
+        "Turkey nuclear weapons",
+        "secondary targets",
+        "US hegemony",
+        "nuclear cruise missiles"
+      ],
+      "texte": "[music] minutes. The destruction of European cities is well underway, as secondary targets to America's military infrastructure, Europe still benefits from US military hegemony, even in nuclear war. This strategic buffer buys precious minutes for people to seek shelter. Nonetheless, though, shorter-range Russian weapons, especially from road-mobile launchers, are creating a carpet [music] of destruction across Western Europe. Cities across the UK, France, Spain, Germany, and Poland go up in nuclear fire. Turkey, too, receives its fair share of nuclear wrath, thanks to their basing of US nuclear weapons on their territory. However, across Europe, fighters and strategic bombers are already in flight with shorter-range nuclear cruise missiles and even [music] gravity bombs. Likewise, a portion of the Russian Air Force is on its way to"
+    },
+    {
+      "id": 151,
+      "debut": 7460.55,
+      "fin": 7523.73,
+      "temps_estime": false,
+      "titre": "Doomsday 1 hour: F-16 strikes and anti-satellite weapons",
+      "resume": "An hour in, most major Northern Hemisphere cities are destroyed but the war continues with F-16s from Turkey and Ramstein dropping nuclear gravity bombs and cruise missiles striking Russia. Crews fly through a corridor with a detonation every three minutes, air defenses are down, and a Russian nuclear anti-satellite weapon disables satellites worldwide.",
+      "mots_cles": [
+        "1 hour",
+        "F-16 gravity bombs",
+        "Ramstein Air Base",
+        "nuclear cruise missiles",
+        "Russian anti-satellite weapon",
+        "air defense radar",
+        "strike corridor",
+        "Turkey"
+      ],
+      "texte": "Western Europe. Doomsday, 1 hour. As [music] we get to the first hour of Doomsday, despite most of the Northern Hemisphere's major cities being completely destroyed, global nuclear war is still well underway. F-16s from Turkey begin dropping American nuclear bombs on Southern Russia. French, British, and American aircraft launch nuclear-tipped cruise [music] missiles deep into Russia to strike secondary targets. American F-16s flying out of Ramstein Air Base in Germany carry gravity bombs. The crew must wear special eye protection as they fly through Russian [music] airspace on a strike corridor experiencing nuclear detonations approximately once every 3 minutes. Some of the F-16s [music] must strike targets that are so deep in Russia the aircraft will not have the fuel needed to return to base. These pilots will need to try to find friendly airfields in Eastern Europe [music] or take their chances ditching the aircraft. Both sides air forces will struggle to defend from incoming [music] nuclear air strikes thanks to the destruction of air defense radar sites across Europe and Russia. Even satellites are proving unreliable due to the use of a Russian nuclear anti-satellite weapon which has disabled [music] satellites belonging to every"
+    },
+    {
+      "id": 152,
+      "debut": 7523.73,
+      "fin": 7546.89,
+      "temps_estime": false,
+      "titre": "India, China and the strategic bomber campaign",
+      "resume": "India fares best until Chinese strategic bombers begin attacking Indian cities and bases, although American first strikes on Chinese airfields slow their response. With Russia the priority, China is relegated to second strike priority, and US strategic bombers are already on their way.",
+      "mots_cles": [
+        "India",
+        "China",
+        "Chinese strategic bombers",
+        "Indian cities",
+        "American first strikes",
+        "second strike",
+        "airfields",
+        "US strategic bombers"
+      ],
+      "texte": "country on Earth. Of the two nations India fares best at least until Chinese strategic bombers begin their own campaign against Indian cities and military bases. However, Chinese airfields are themselves targeted [music] by a number of American first strikes slowing their response. With Russia the greater priority though, China is relegated to second strike priority [music] by American strategic bombers a number of which are already on"
+    },
+    {
+      "id": 153,
+      "debut": 7546.89,
+      "fin": 7575.49,
+      "temps_estime": false,
+      "titre": "Israel destroys Tehran and Iran's retaliation fails",
+      "resume": "Israeli nuclear bombs destroy Tehran and key Iranian military and missile sites, and American-made deep-penetrating munitions hit deeply buried missile bases before Iran can launch a large retaliatory attack. Iran's conventional missile strikes largely fail against Israeli and regional defenses.",
+      "mots_cles": [
+        "Israel Iran",
+        "Tehran destroyed",
+        "deep-penetrating munitions",
+        "buried missile bases",
+        "conventional retaliation",
+        "Jordan",
+        "missile defenses",
+        "Middle East"
+      ],
+      "texte": "their way. In the Middle East Israeli nuclear bombs destroy Tehran [music] and key military and missile sites in the nation. Using American-made deep-penetrating munitions Israel's able to destroy a number of deeply buried Iranian missile bases before they can launch a large-scale retaliatory [music] conventional attack. Due to the chaos of global military war and Israel's defenses as well as the defenses of regional partners such as Jordan, Iran's attempts to attack Israel with conventional missile strikes largely"
     }
   ]
 }
