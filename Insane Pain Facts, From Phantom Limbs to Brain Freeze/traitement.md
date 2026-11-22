@@ -1,0 +1,17 @@
+# Journal de segmentation : Insane Pain Facts, From Phantom Limbs to Brain Freeze (zeVq8Pt2JCc)
+
+Speech : 6947 lignes, 0.32 s à 13672.56 s (≈ 3 h 48), langue en, sous-titres automatiques (sans ponctuation fiable, balises [music] conservées dans les textes). Tranches d'environ 30 min : ≈ 8 tranches prévues.
+
+## Décisions et style
+- Départ : début de la vidéo (aucun segments.json existant).
+- Structure de la vidéo : succession de listes numérotées (« Number N ») : liste de 20 faits (lignes 1 à 409), puis liste de 50 faits (à partir de la ligne 410), etc. Une idée = en général un fait numéroté ; deux faits très voisins sont fusionnés (ex. faits 35 et 34 sur le cerveau).
+- Méthode : lecture par blocs de 170 à 240 lignes, bornes d'idées définies en numéros de ligne dans des fichiers texte (« a-b | titre | résumé | mots-clés »), texte reconstruit par script (lignes jointes par un espace), donc mot pour mot.
+- Les coupures tombent toujours en fin de ligne : temps_estime = false. Quand une ligne contient à la fois la fin d'un fait et le « Number N » suivant, la ligne va au segment où se trouve la plus grande part de ses mots (le plus souvent le segment qui commence), donc un titre de numéro peut apparaître en fin du segment précédent.
+- Titres, résumés (2 à 3 phrases) et mots-clés (5 à 10) en anglais. Idées de 7 à 60 s ; les faits très courts (« quick-fire facts ») sont regroupés.
+- Texte du speech non corrigé (fautes de transcription automatique conservées : « analesia », « spopalatine ganglio neuralgia », « Surre Mi », « Fran Schmidt »...). Dans les résumés les noms sont rétablis.
+
+## Tranches
+- Tranche 1 : lignes 1 à 976 (0,32 à 1801,12 s, ≈ 30 min), 63 segments (id 1 à 63). Fin sur la douleur fantôme (fait 5 de la liste de 50 faits) avant « Number four, pain relief through the ages ». Remarques : aucune coupure estimée ; segments courts (7 à 15 s) pour les faits 48 à 46.
+
+## Point d'arrêt
+Dernière ligne traitée : 976. Prochaine étape : tranche 2, à partir de la ligne 977 (« Number four, let's now talk about pain relief through the ages »), id 64.
