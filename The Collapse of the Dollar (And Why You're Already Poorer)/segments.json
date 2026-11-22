@@ -4,12 +4,12 @@
   "titre_video": "The Collapse of the Dollar (And Why You're Already Poorer)",
   "duree_s": 13885.44,
   "avancement": {
-    "lignes_traitees": 3555,
-    "fin_traitee_s": 7149.6,
+    "lignes_traitees": 4448,
+    "fin_traitee_s": 8956.8,
     "nb_lignes_total": 6916,
     "complet": false
   },
-  "nb_segments": 165,
+  "nb_segments": 214,
   "segments": [
     {
       "id": 1,
@@ -2963,6 +2963,924 @@
         "weapon costs"
       ],
       "texte": "regular watcher of the infographic show, then you probably already know a thing or two about military hardware. But do you know how much it actually costs to use some of those weapons? I'll give you a hint. It's a lot. Military spending is constantly under scrutiny. And amid slashed budgets and public pressure, militaries are always looking for ways to cut costs. But finding savings can be hard when the cost of essential [music] equipment and weapons is so high. Let's start by taking a look at how much it costs to use some of the military's firearms. Militaries use many different [music] types of firearms. A firearm is any rifle, shotgun, or handgun that uses gunpowder as a propellant, but there are also other types of guns, such as air [music] guns, that aren't technically firearms. Firearms come in many different calibers, which is a [music] measurement of the diameter of the gun's barrel and determines the size of the ammunition that can be fired from a particular firearm. Now that we've [music] cleared that up, let's look at how much it costs to use some of these firearms, or bang bangs as they're called in military slang. One of the US"
+    },
+    {
+      "id": 166,
+      "debut": 7149.6,
+      "fin": 7211.12,
+      "temps_estime": false,
+      "titre": "Cost of the M16 and M4 rifles",
+      "resume": "The M16 (5.56x45mm, up to 100 rounds per minute) served from Vietnam until the M4 carbine replaced it in the 1990s; the two share 80 percent of their parts. Each gun costs nearly $1,000 and ammunition over $250 per thousand-round case, about 25 cents a shot, adding up to a small fortune for the Army and Navy.",
+      "mots_cles": [
+        "M16",
+        "M4 carbine",
+        "5.56mm rifle",
+        "cost per round",
+        "ammunition cost",
+        "assault rifle",
+        "US Army",
+        "Navy"
+      ],
+      "texte": "Army's most iconic firearms is the M16 rifle. The M16 was in service for decades from Vietnam until it was replaced by the M4 in the 1990s. The [music] M16 is a 5.56x 45mm caliber semi-automatic assault rifle. It has a range of up to 3600 [music] m and is capable of firing 40 to 100 rounds per minute. The M16 was replaced by the M4 Carbine in the 1990s. It's basically a shortened version of the M16. The weapons share 80% of their parts in common [music] and fire the same caliber ammunition, but because it has a shorter barrel, the M4's effective range is slightly lower. The guns themselves cost nearly $1,000 each, and ammunition costs more than $250 per thousand round case. That may not sound like much, but at 25 cents a shot, that can add up quickly with a weapon that's capable of firing up to a 100 rounds a minute. Considering that the M16 and M4 have been the [music] standard issue firearm for both the US Army and Navy for decades, it's safe to say that the military has spent a [music] small fortune on them over the years. If the cost of using firearms"
+    },
+    {
+      "id": 167,
+      "debut": 7211.12,
+      "fin": 7256.0,
+      "temps_estime": false,
+      "titre": "The M2 heavy machine gun costs up to $3,000 a minute",
+      "resume": "The M2 .50 caliber heavy machine gun (transcribed as 'M250'), nicknamed the Ma Deuce, was developed after World War I as an anti-tank weapon and is used in over 100 countries. The gun costs $14,000 and a 500-round belt of .50 cal ammunition $6,500, or $6.50 per bullet, so firing 450 to 600 rounds per minute costs up to $3,000 a minute.",
+      "mots_cles": [
+        "M2 machine gun",
+        "Ma Deuce",
+        "heavy machine gun",
+        "50 caliber",
+        "$6.50 per bullet",
+        "cost per minute",
+        "NATO",
+        "ammunition belt"
+      ],
+      "texte": "didn't seem all that outrageous, [music] just wait until you find out how much it costs to use a heavy machine gun. The M250 caliber heavy machine gun, or the Mod Deuce as it's [music] affectionately known in the military, was developed shortly after the First World War as an anti-tank weapon. One of the most popular machine guns on the market, the M2 is currently in use in more than a 100 countries around the world and is the primary heavy machine gun of NATO nations. [music] The gun itself costs $14,000 and a500 round belt of 50 cal ammunition costs a staggering $6,500 or $6.50 per bullet. The M2 is capable of firing between 450 [music] and 600 rounds per minute, which means it could cost up to $3,000 per minute to operate this machine gun. This may come"
+    },
+    {
+      "id": 168,
+      "debut": 7256.0,
+      "fin": 7277.36,
+      "temps_estime": false,
+      "titre": "M67 hand grenades are among the cheapest weapons",
+      "resume": "Hand grenades are one of the least expensive weapons to use: the US military pays about $4 each for the M67, called the baseball grenade. It has a 15 meter injury radius and a 5 meter fatality radius.",
+      "mots_cles": [
+        "M67 grenade",
+        "hand grenade",
+        "baseball grenade",
+        "$4 each",
+        "injury radius",
+        "fatality radius",
+        "cheap weapons"
+      ],
+      "texte": "as a bit of a surprise, but hand grenades are actually one of the least expensive [music] weapons to use. The US military pays about $4 each for M67 hand grenades. The M67, [music] sometimes called the baseball grenade because it resembles a ball and is thrown by hand, has a 15 m injury radius and a 5 [music] m fatality radius. Better hope you have a good arm. Now,"
+    },
+    {
+      "id": 169,
+      "debut": 7277.36,
+      "fin": 7317.84,
+      "temps_estime": false,
+      "titre": "Artillery and mortars: guns in the military sense and the RPG-7",
+      "resume": "In military usage 'gun' means a mortar or artillery piece, never a firearm, and ground artillery is a huge budget expense. A mortar is a light artillery gun a man can carry; the narrator cites the RPG-7 shoulder-fired rocket launcher (920 m range), whose rockets cost from a few hundred to a few thousand dollars each.",
+      "mots_cles": [
+        "artillery",
+        "mortar",
+        "RPG-7",
+        "rocket launcher",
+        "anti-tank",
+        "military gun definition",
+        "rocket cost",
+        "military budget"
+      ],
+      "texte": "let's bring out the big guns. Literally, the term gun in the military context always refers to a piece of mortar or artillery, never to a firearm. Groundbased artillery is a huge expense in most military budgets. The term artillery refers to an entire class of heavy military weapons built to launch munitions at long ranges. A mortar is a simple, lightweight artillery gun that can be carried by a man and deployed anywhere. A popular example of a mortar gun is the well-known RPG7 anti-tank rocket launcher. The RPG7 is a muzzle-loaded shoulder fire rocket launcher with a range of 920 m. [music] The RPG7 can shoot a variety of rockets that can range in cost from a few hundred to a few thousand each."
+    },
+    {
+      "id": 170,
+      "debut": 7317.84,
+      "fin": 7357.28,
+      "temps_estime": false,
+      "titre": "Self-propelled howitzers: the Hawkeye costs over $3,000 a minute",
+      "resume": "Self-propelled howitzers are artillery mounted on a mobile system and fire at a high angle for long range. The Hawkeye, one of the lightest in US use, takes a crew of three, fires 105mm NATO rounds out to over 11 km at 10 to 12 rounds per minute, and its rounds cost more than $300 each, over $3,000 a minute.",
+      "mots_cles": [
+        "self-propelled howitzer",
+        "Hawkeye",
+        "105mm",
+        "rate of fire",
+        "$300 per round",
+        "cost per minute",
+        "crew of three",
+        "artillery cost"
+      ],
+      "texte": "Self-propelled howitzers are a class of artillery weapon mounted on a mobile system such as [music] a tank. Howitzers are characterized by their long range due to the fact that the munitions are fired at such a high angle. The Hawkeye is one of the lightest self-propelled howitzer guns in use by the US military. The Hawkeye is built into its own armored [music] vehicle chassis and takes a crew of three to operate. It has a maximum range of more than [music] 11 km and it fires a standard NATO 105 mm ammo. One of the key features of the Hawkeye is its ability to rapid fire 10 to 12 rounds per minute. The 15 kg rounds cost more than $300 each, which means it can cost more than $3,000 a minute to operate this gun at full"
+    },
+    {
+      "id": 171,
+      "debut": 7357.28,
+      "fin": 7377.68,
+      "temps_estime": false,
+      "titre": "The South Korean K9 Thunder howitzer and $7,000 rounds",
+      "resume": "The K9 Thunder is South Korea's self-propelled howitzer, crewed by five with a range over 30 km. It fires NATO 155mm rounds, including rocket-assisted high-explosive long-range rounds costing $7,000 each.",
+      "mots_cles": [
+        "K9 Thunder",
+        "South Korea",
+        "155mm",
+        "self-propelled howitzer",
+        "rocket-assisted rounds",
+        "$7,000 per round",
+        "long-range artillery"
+      ],
+      "texte": "capacity. The K9 Thunder is South Korea's version of a self-propelled howitzer. It takes a crew of five to operate, and it has an [music] impressive range of more than 30 km. It can fire a variety of NATO's 155mm rounds, including the [music] Jammer rocket assisted high explosive longrange rounds, which cost a staggering $7,000 each. If you want to talk big bucks,"
+    },
+    {
+      "id": 172,
+      "debut": 7377.68,
+      "fin": 7418.24,
+      "temps_estime": false,
+      "titre": "What a missile is: ballistic and aerodynamic types",
+      "resume": "A missile is defined as a guided airborne ranged weapon capable of self-propelled flight. Citing the Missile Defense Advocacy Alliance, long-range ballistic missiles may fly partly outside the atmosphere and re-enter, while aerodynamic missiles such as cruise and air-to-air missiles operate in the atmosphere, in configurations from mobile launchers to ship and aircraft mounts.",
+      "mots_cles": [
+        "missile definition",
+        "ballistic missile",
+        "cruise missile",
+        "air-to-air missile",
+        "Missile Defense Advocacy Alliance",
+        "re-entry",
+        "aerodynamic missile",
+        "launchers"
+      ],
+      "texte": "then we have to look at the cost of some of the ballistic [music] missiles and anti-missile systems used by militaries around the world. But what exactly is a missile? By its simplest definition, a missile is a guided airborne ranged [music] weapon capable of self-propelled flight. According to the Missile Defense Advocacy Alliance, part of the flight of longer range ballistic missiles may occur outside the atmosphere and involve the re-entry of the missile. Missiles that are not ballistic are aerodynamic operating in the atmosphere. Aerodynamic missiles include cruise and air-to-air missiles. Missiles come in an endless variety of configurations from short-range mobile launchers to [music] huge static installations on land and on ships to a variety of aircraft mounted"
+    },
+    {
+      "id": 173,
+      "debut": 7418.24,
+      "fin": 7441.84,
+      "temps_estime": false,
+      "titre": "Cost-cutting and the rise of cheaper smart weapons",
+      "resume": "With public pressure to keep costs down, the military is trying to cut costs without losing performance, driving growth in small to mid-range smart weapons built from off-the-shelf materials and readily available technology. These are cheaper than traditional cruise missiles but still far from cheap.",
+      "mots_cles": [
+        "smart weapons",
+        "cost cutting",
+        "off-the-shelf technology",
+        "military budget",
+        "cruise missiles",
+        "mid-range weapons",
+        "public pressure"
+      ],
+      "texte": "options. With so much public pressure to keep costs down, today's military is focused on cutting costs without sacrificing performance. This has led to [music] an explosion of growth in the small to mid-range smart weapon sector using off-the-shelf materials and readily available technology. Although these new smart weapons are cheaper than traditional cruise missiles, and we'll get to those in a moment, they are definitely still far from cheap. Take"
+    },
+    {
+      "id": 174,
+      "debut": 7441.84,
+      "fin": 7466.24,
+      "temps_estime": false,
+      "titre": "The Javelin anti-tank missile costs $147,000 per rocket",
+      "resume": "The Javelin is one of the most advanced man-portable shoulder-fired anti-tank missiles, with a range over 2 km, able to destroy any modern tank and target low-flying helicopters. Its 8.4 kg tandem HEAT warhead rocket costs $147,000 for a single missile.",
+      "mots_cles": [
+        "Javelin",
+        "anti-tank missile",
+        "shoulder-fired",
+        "tandem HEAT warhead",
+        "$147,000",
+        "man-portable",
+        "helicopter targets"
+      ],
+      "texte": "for example the Javelin. The Javelin is currently one of the most advanced manportable shoulder fire anti-tank missiles in the world. It has a range of more than 2 km, [music] is capable of destroying any known modern tank, and can even be used to target low-flying helicopters. It fires the 8.4 >> [music] >> 4 kg tandem heat warhead at a cost of $147,000 for a [music] single rocket. At $115,000"
+    },
+    {
+      "id": 175,
+      "debut": 7466.24,
+      "fin": 7502.64,
+      "temps_estime": false,
+      "titre": "The Hellfire missile: $115,000 each, or $28,000 for APKWS",
+      "resume": "The Hellfire air-to-ground missile, named for being helicopter-launched ('heli-fired'), costs $115,000 each. The APKWS II, a smaller version of the traditional 70mm rocket, is a bargain at $28,000 per rocket, with 1 meter accuracy from a laser-seeking head that adjusts its fins mid-flight.",
+      "mots_cles": [
+        "Hellfire missile",
+        "APKWS",
+        "70mm rocket",
+        "laser guidance",
+        "helicopter-launched",
+        "$28,000",
+        "$115,000",
+        "precision kill weapon"
+      ],
+      "texte": "each, the Hellfire rocket is a little easier on the budget, but [music] still far from cheap. The 8 kg Hellfire is one of the most widely used and powerful airto ground rockets in the world. The name [music] Hellfire came from the fact that this 50 kg rocket is heel fired or launched from a helicopter. The advanced precision kill weapon [music] system 2 rocket was designed to be a smaller version of the traditional 70mm rocket and it must be considered a bargain by military standards at only $28,000 per rocket. [music] The rocket boasts accuracy to within 1 meter thanks to its advanced laser seeking head that can pinpoint a target [music] and adjust the rocket's fins mid-flight. Considering"
+    },
+    {
+      "id": 176,
+      "debut": 7502.64,
+      "fin": 7539.44,
+      "temps_estime": false,
+      "titre": "Cheaper options: the Spike missile and the mysterious Nimrod",
+      "resume": "The Spike shoulder-fired anti-tank missile costs only $5,000 and uses a 3 kg projectile with smart optical guidance. The Israeli Nimrod anti-tank guided missile has a 26 km range, and its development, combat history and cost are secret, though experts estimate about $100,000.",
+      "mots_cles": [
+        "Spike missile",
+        "Nimrod missile",
+        "anti-tank guided missile",
+        "Israel",
+        "$5,000",
+        "26 km range",
+        "optical guidance",
+        "cost estimate"
+      ],
+      "texte": "what we just heard, the Spike missile must seem like an absolute steal. At [music] only $5,000 a piece, this shoulder-fired anti-tank missile system is capable of destroying light targets with its 3 kg projectile. The baguette sized projectile is equipped with a smart optical [music] guidance system that locks onto its target for incredible accuracy. One of the most mysterious [music] anti-tank guided missiles out there is the Israeli Nimrod missile. No details of its development or combat history are available, but we do know that it has a 26 km range. Even its cost is a closely guarded secret, but experts estimate that it's in the $100,000 range. The US military still"
+    },
+    {
+      "id": 177,
+      "debut": 7539.44,
+      "fin": 7568.16,
+      "temps_estime": false,
+      "titre": "The Tomahawk cruise missile costs $1.5 million",
+      "resume": "The US still deploys traditional long-range, large-caliber cruise missiles. The Tomahawk BGM-109 is among the most combat-tested, a medium to long-range subsonic cruise missile launched from ground, ship, submarine or aircraft, and a single one costs $1.5 million.",
+      "mots_cles": [
+        "Tomahawk",
+        "BGM-109",
+        "cruise missile",
+        "$1.5 million",
+        "subsonic missile",
+        "ship launched",
+        "submarine launched",
+        "combat tested"
+      ],
+      "texte": "has a number of the traditional longrange largecaliber ballistic [music] cruise missiles deployed, and the cost of using these things is truly mind-blowing. The Tomahawk BGM 109 missile is one of the most well-known and most combat tested cruise missiles out there. The versatile medium to longrange subsonic cruise missile [music] can be launched from the ground, from a ship or a submarine, or from an aircraft. A single Tomahawk missile costs $1.5 million, but that's just the tip of the iceberg when it comes to"
+    },
+    {
+      "id": 178,
+      "debut": 7568.16,
+      "fin": 7611.6,
+      "temps_estime": false,
+      "titre": "Patriot PAC-3: the last line of US missile defense",
+      "resume": "The US uses a three-layer anti-ballistic missile defense system, and the Patriot PAC-3 is the last line against a missile that gets through the first two layers. A self-contained unit costs an initial $45 million, has a 40 km range and 20 km altitude, takes 30 minutes to ready 16 missiles, and replacing all 16 costs over $4 million.",
+      "mots_cles": [
+        "Patriot PAC-3",
+        "anti-ballistic missile",
+        "three-layer defense",
+        "$45 million",
+        "16 missiles",
+        "missile defense",
+        "last line of defense",
+        "mobile launcher"
+      ],
+      "texte": "missiles. The US military employs a three-layer anti-bballistic missile defense system to protect themselves from enemy missile attacks. [music] The Patriot Pack 3 missile is the US military's last line of defense against a ballistic missile attack. If a missile somehow makes it [music] through the first two layers of the US's three-layer defense system, the short-range Patriot mobile anti-missile system [music] is supposed to take it out. The Patriot comes in a self-contained unit and an initial cost of $45 million. The launcher is mounted on a twoaxxle trailer with its own power plant and fuel supply. [music] It has a 40 km range and it's capable of reaching 20 km in altitude. The Patriot takes 30 minutes to prepare its 16 missiles to fire and fully replacing all 16 missiles costs more than $4 million. The THAAD"
+    },
+    {
+      "id": 179,
+      "debut": 7611.6,
+      "fin": 7641.76,
+      "temps_estime": false,
+      "titre": "THAAD interceptors cost $12 million to reload",
+      "resume": "THAAD (Theater High Altitude Area Defense) is a longer-range anti-ballistic system meant to destroy enemy missiles as they re-enter the atmosphere, with a range of 150 to 200 km. Each launcher truck carries eight missiles, and fully reloading one launcher vehicle costs upward of $12 million.",
+      "mots_cles": [
+        "THAAD",
+        "Theater High Altitude Area Defense",
+        "anti-ballistic missile",
+        "150 to 200 km",
+        "$12 million",
+        "launcher truck",
+        "missile reload"
+      ],
+      "texte": "missile is another important component of the US's anti-missile defense system. THAAD stands for theater high alitude area defense and it's a longer range anti-bballistic missile system meant to destroy enemy missiles as they reenter the atmosphere. THAAD missiles have a range of [music] 150 to 200 km. The launchers are mounted on heavy highmobility trucks, each capable of carrying eight missiles [music] at a time. Fully reloading a single launcher vehicle costs upward of $12 million. Of course, [music] we saved the most"
+    },
+    {
+      "id": 180,
+      "debut": 7641.76,
+      "fin": 7672.48,
+      "temps_estime": false,
+      "titre": "Trident II: the most expensive weapon, $10 billion of missiles at sea",
+      "resume": "The Trident II, a submarine-launched intercontinental ballistic missile with a range of nearly 8,000 km, is by far the most expensive weapon to use. The US deploys 14 submarines carrying 24 missiles each at $30 million apiece, over $10 billion worth of missiles deployed in the ocean.",
+      "mots_cles": [
+        "Trident II",
+        "submarine-launched ballistic missile",
+        "ICBM",
+        "$30 million each",
+        "14 submarines",
+        "24 missiles",
+        "nuclear deterrent",
+        "8,000 km range"
+      ],
+      "texte": "impressive for last. The Trident 2 is by far the most expensive weapon to use, and [music] the US military has hundreds of them. The Trident is a submarine launched intercontinental ballistic missile with a mind-blowing range of nearly 8,000 km. The US currently deploys 14 submarines, each carrying 24 of those missiles at a staggering cost of $30 million each. That means there are more than $10 [music] billion worth of missiles deployed in the ocean as we speak. Let's hope we don't need to replace any of those anytime soon. Now"
+    },
+    {
+      "id": 181,
+      "debut": 7672.48,
+      "fin": 7702.64,
+      "temps_estime": false,
+      "titre": "F-35 operating cost: $44,000 an hour",
+      "resume": "After weapons, the narrator turns to the platforms that carry them. The F-35's sticker price is $80 to $115 million, but flying costs $44,000 an hour, which over its 8,000 hour lifespan adds up to more than $350 million in lifetime flying costs.",
+      "mots_cles": [
+        "F-35",
+        "fighter jet",
+        "operating cost",
+        "$44,000 per hour",
+        "8,000 hour lifespan",
+        "lifetime cost",
+        "$350 million",
+        "sticker price"
+      ],
+      "texte": "that we know how much it costs to fire some of the Army, Navy, and Air Force's most impressive weapons, let's take a look at how much it costs to run the planes, ships, and ground equipment that carry all of those weapons. The F-35 [music] fighter jet gets a lot of attention for its outrageous sticker price of $80 to $115 million. But the operating costs are truly staggering. It costs $44,000 [music] an hour to fly an F-35 jet. Over its 8,000 hour lifespan, that adds up to more than $350 [music] million in total"
+    },
+    {
+      "id": 182,
+      "debut": 7702.64,
+      "fin": 7751.76,
+      "temps_estime": false,
+      "titre": "Aircraft carrier strike groups cost $6.5 million a day",
+      "resume": "A new Ford-class carrier costs about $15 billion, and running a carrier strike group (carrier, escort warships and submarines, aircraft and over 6,000 crew) costs around $6.5 million a day. With four strike groups employed at once the daily cost exceeds $25 million; the narrator concludes that weapons are getting cheaper but the top ones remain staggeringly expensive.",
+      "mots_cles": [
+        "aircraft carrier",
+        "Ford-class",
+        "carrier strike group",
+        "$6.5 million a day",
+        "$15 billion",
+        "6,000 crew",
+        "operating costs",
+        "defense budget"
+      ],
+      "texte": "lifetime flying costs. Aircraft carriers are a signature of the US's military might, and they are also one of the most expensive lines in their defense budget. [music] Not only are the aircraft carriers themselves incredibly expensive, think $15 billion for a single one of [music] the new Ford class carriers currently being built, but it costs around $6.5 million a day to run a carrier strike group. A strike group includes the carrier itself, the warships and submarines that escort it, the aircraft on board, and more [music] than 6,000 crew needed to man the strike group. On a busy day, the US military might employ four of these strike groups at one time at a daily cost of more than $25 million. Although weapons technology is becoming cheaper, the cost of using some of the military's top weapons is still staggeringly high. Hopefully, that means militaries will think twice [music] about using some of those weapons."
+    },
+    {
+      "id": 183,
+      "debut": 7751.76,
+      "fin": 7779.2,
+      "temps_estime": false,
+      "titre": "Intro: what did a dollar buy in 1920?",
+      "resume": "A new video opens with the baby boomer complaint that Millennials and Gen Z could buy a house if they skipped lattes and avocado toast, and asks what houses and other things actually cost 50, 75 or 100 years ago. It sets the scene in 1920, with a pandemic winding down and people partying.",
+      "mots_cles": [
+        "1920",
+        "avocado toast",
+        "baby boomers",
+        "Millennials",
+        "Gen Z",
+        "cost of houses",
+        "pandemic",
+        "what could a dollar buy"
+      ],
+      "texte": "Millennials and Gen Z have all heard the frequent baby boomer complaint. You didn't spend your money on lattes and [music] avocado toast, you could buy a house. But what did houses actually cost? 50,75 100 [music] years ago. And how much could you buy back then for let's say $1? 1920. Picture it. A pandemic [music] is winding down and people who have been locked down for over a year are starting to pretend that it never happened. They go out and drink and party like there's no tomorrow. That wasn't hard, was it?"
+    },
+    {
+      "id": 184,
+      "debut": 7779.2,
+      "fin": 7802.64,
+      "temps_estime": false,
+      "titre": "1920 wages: $27 a week for men, $12 for women",
+      "resume": "A US citizen in 1920 collects a paycheck: men earned an average of $27 a week and women closer to $12 a week. The narrator notes that women got the right to vote in August 1920 and jokes that equality was still far off.",
+      "mots_cles": [
+        "1920 wages",
+        "$27 a week",
+        "$12 a week",
+        "gender pay gap",
+        "women's suffrage",
+        "August 1920",
+        "average salary"
+      ],
+      "texte": "[music] A US citizen collects their paycheck and starts figuring out their budget for the rest of the week. If you're a man, congratulations. You've earned an [music] average of $27 a week. If you're a woman, we're sorry to inform you. Your salary is closer to 12 bucks a week. But hey, on the upside, in August of 1920, you're getting the right to vote. Hang in [music] there. Equality is coming right along in the next thousand years or so. A dollar in 1920 was"
+    },
+    {
+      "id": 185,
+      "debut": 7802.64,
+      "fin": 7833.92,
+      "temps_estime": false,
+      "titre": "Clothing prices in 1920",
+      "resume": "A dollar in 1920 equalled about $13.58 in 2021. A man's cotton shirt averaged about $1.31 (75 cents to $1.50) and a woman's cotton blouse about $1.58, though people needed far more clothing to be adequately covered for the era.",
+      "mots_cles": [
+        "1920 clothing prices",
+        "cotton shirt",
+        "$1.31",
+        "cotton blouse",
+        "$13.58 in 2021",
+        "inflation adjusted",
+        "modest clothing"
+      ],
+      "texte": "equivalent [music] to about $13.58 in 2021. A man's cotton shirt cost on average around $1.31. [music] However, depending on the brand, they could run as low as 75 cents or as high as a buck [music] 50. That's pretty affordable. The bad news is it's 1920, so men are also required about [music] 200% more clothing to be adequately covered for the era. A woman could get a cotton blouse for around a buck 58. However, let's not even go into how much more clothing women needed to [music] be modest back then. A blouse ain't covering it, literally. Since the"
+    },
+    {
+      "id": 186,
+      "debut": 7833.92,
+      "fin": 7854.72,
+      "temps_estime": false,
+      "titre": "Toilet paper and household shopping in 1920",
+      "resume": "With the pandemic still around, shoppers stock up on toilet paper: two rolls cost about 25 cents, so a dollar bought eight rolls. The narrator then moves on to what else was on the 1920s family's shopping list.",
+      "mots_cles": [
+        "toilet paper",
+        "25 cents",
+        "1920s housewife",
+        "pandemic hoarding",
+        "shopping list",
+        "eight rolls",
+        "1920 prices"
+      ],
+      "texte": "pandemic was still kind of around and we now know that means hoarding toilet paper like you ate bad taco leftovers, you're going to want [music] to stock up on that. Two rolls of toilet paper run around 25 cents. So for a dollar, a 1920s housewife, cuz let's [music] face it, who else is doing the shopping could acquire eight rolls. Now, what else is on the shopping list for a good [music]"
+    },
+    {
+      "id": 187,
+      "debut": 7854.72,
+      "fin": 7898.88,
+      "temps_estime": false,
+      "titre": "Groceries in 1920: cheap bread, expensive eggs and butter",
+      "resume": "A loaf of bread cost about the same as now after inflation, around $1.69 in today's dollars, so a dollar bought almost 13 loaves. Eggs were relatively expensive, a dozen costing '34' (probably cents) or '$823' in today's dollars as transcribed, and butter 36 cents, $8.72 in today's dollars, roughly double current prices.",
+      "mots_cles": [
+        "1920 groceries",
+        "bread price",
+        "eggs price",
+        "butter price",
+        "dozen eggs",
+        "inflation adjusted",
+        "three dozen eggs",
+        "food costs"
+      ],
+      "texte": "old 1920s family? Groceries, of course. Some things like a loaf of bread were pretty affordable and roughly equivalent, accounting [music] for inflation of course, to what those products would cost now. At around 7, $1.69 in today's dollars, a family could buy almost 13 loaves of [music] bread for a dollar. However, you might be surprised to discover that some foods were relatively much more expensive in 1920. For example, a [music] dozen eggs cost around 34 or $823 in today's dollars, way [music] costlier than the average 2021 citizen expects. A dollar in 1920 could buy around three dozen eggs or [music] just under three pounds of butter. That's right. Butter back then was 36, $8.72 in today's dollars, or around double what it costs [music] in most places in"
+    },
+    {
+      "id": 188,
+      "debut": 7898.88,
+      "fin": 7943.6,
+      "temps_estime": false,
+      "titre": "Why poultry and eggs were luxuries: small farms and six chickens a year",
+      "resume": "In 1920 farm production was small, especially for animal products, with less efficient mass production, so eggs and poultry were luxury items. The average American ate about six chickens a year in the early 20th century versus about 30 birds per year in 2021; chickens came from small flocks of 100 to 300 birds fed grain.",
+      "mots_cles": [
+        "farm production",
+        "poultry",
+        "chickens per year",
+        "small flocks",
+        "mass production",
+        "luxury food",
+        "grain fed",
+        "egg prices"
+      ],
+      "texte": "the US. So why were some foods so much more expensive than we're used to? Well, in 1920, a lot of farm production was still on the smaller side, especially when it came to [music] animal products like eggs and butter. There was less efficient mass production than there is today. Eggs and poultry used to be a luxury item that American households would serve only [music] once in a while. In the first half of the 20th century, the average US citizen ate around six chickens per year in total. In [music] 2021, the average US citizen can probably eat six chickens in an extra-l large bucket of KFC. More accurately, though, US citizens consume [music] chicken around three to four times per week for a total of 30 whole birds per year. Chickens were raised more carefully in small flocks of 100 to 300 birds and [music] in better conditions than today and fed grain. So poultry and eggs ended up much pricier"
+    },
+    {
+      "id": 189,
+      "debut": 7943.6,
+      "fin": 7963.52,
+      "temps_estime": false,
+      "titre": "Grass-fed cows and pricey steak in 1920",
+      "resume": "Cows roamed freely and were almost all grass-fed, which was reflected in meat and dairy prices. A sirloin steak cost about 25 cents per pound ('$65' in today's dollars as transcribed, probably a transcription error), so a dollar bought 4 lb of steak, a special-occasion indulgence.",
+      "mots_cles": [
+        "sirloin steak",
+        "grass-fed cattle",
+        "meat prices",
+        "dairy prices",
+        "1920 steak price",
+        "special occasion",
+        "25 cents per pound"
+      ],
+      "texte": "[music] than they are today. Cows also roamed around free and were almost all grass-fed. This was reflected in meat and dairy prices. A sirloin steak [music] cost around 25 cents per pound or $65 in today's dollars. So for a dollar, you [music] could buy 4 lb of steaks and feed your family. But that was pretty pricey proposition and only to be used for special occasions and"
+    },
+    {
+      "id": 190,
+      "debut": 7963.52,
+      "fin": 8005.68,
+      "temps_estime": false,
+      "titre": "Household appliances: the Hoover vacuum cost almost 3 weeks of pay",
+      "resume": "Household appliances were surprisingly pricier in 1920; vacuum cleaners were just being marketed, and cleaning was exhausting for women. The new Hoover electric cleaner sold for about $39, or $53 today as transcribed, so women had to budget almost three weeks of paychecks or scrub floors by hand.",
+      "mots_cles": [
+        "Hoover electric cleaner",
+        "vacuum cleaner",
+        "household appliances",
+        "1920 prices",
+        "three weeks of pay",
+        "housework",
+        "mass production",
+        "advertising"
+      ],
+      "texte": "indulgences. The [music] other group of products that was surprisingly pricier in 1920, household appliances. [music] Things like vacuum cleaners were just starting to be marketed to American consumers. Cleaning the house was a much [music] more exhausting and time-conuming proposition for women back then. For example, the new Hoover electric cleaner. [music] One of the countless things we're certain a radio announcer marketed to US housewives as necessary for keeping their man or being a proper lady or whatever [music] insanity was happening in advertising those days sold for about $39 or $53 [music] today. The technology was new and mass production was still being figured out. So women either had to budget almost 3 weeks of [music] paychecks on a vacuum cleaner or more likely sit there scrubbing the whole"
+    },
+    {
+      "id": 191,
+      "debut": 8005.68,
+      "fin": 8038.96,
+      "temps_estime": false,
+      "titre": "Home entertainment: a 1920 radio cost over $200",
+      "resume": "There was no television yet, and radios were not on every corner: an average radio in 1920 cost over $200, which the narrator translates to about $2,577 today, completely unaffordable for the average household. Radio prices dropped to around $35 by the end of the decade as production got easier and cheaper.",
+      "mots_cles": [
+        "1920 radio",
+        "$200 radio",
+        "home entertainment",
+        "$2,577 today",
+        "radio price drop",
+        "unaffordable",
+        "technology cost",
+        "1920s household"
+      ],
+      "texte": "floor by hand. [music] How about home entertainment? What could you get for a dollar there? We're still a long way off from television, but surely radios were around [music] every corner back then. Well, not exactly. See, an average radio back in 1920 cost over $200. That's even more than a radio would cost in 2021, [music] but $200 back then translates to around $2,577 today. This was [music] completely unaffordable for the average American household. However, the price of radios would drop to around 35 bucks [music] by the end of the decade as technology became easier and cheaper to produce."
+    },
+    {
+      "id": 192,
+      "debut": 8038.96,
+      "fin": 8062.8,
+      "temps_estime": false,
+      "titre": "Vinyl records: the cheap way to hear music in 1920",
+      "resume": "Most people chose vinyl records, not for sound quality but because the only other option was hiring a live band to perform at home. An average record cost between 85 cents and $1.25, so a dollar could buy a great album.",
+      "mots_cles": [
+        "vinyl records",
+        "1920 music",
+        "record price",
+        "live band",
+        "85 cents to $1.25",
+        "phonograph",
+        "home music"
+      ],
+      "texte": "That's why when it came to listening to music, most [music] people opted for vinyl records. Not because the sound quality was just like not the same now, man. Or whatever Williamsburg hipsters [music] will tell you, but because it was the only other option for listening to music besides hiring a live band to [music] perform it in your house. An average vinyl record cost between 85 cents and a buck 25. So, a dollar could probably get you a [music] pretty great album back then. So, this hypothetical"
+    },
+    {
+      "id": 193,
+      "debut": 8062.8,
+      "fin": 8116.0,
+      "temps_estime": false,
+      "titre": "Going out in 1920: babysitter, car and gas prices",
+      "resume": "The couple leaves the kids home in the non-helicopter-parenting era and wonders how to get around. A family Chevrolet cost about $525 (about $6,790 in 2021 prices, as stated), and gas averaged 30 cents a gallon, stated as '$387' in today's prices, a price paid now only in very expensive cities or after oil-producing relations go wrong.",
+      "mots_cles": [
+        "1920 car price",
+        "Chevrolet",
+        "$525",
+        "gas price",
+        "30 cents a gallon",
+        "roaring twenties",
+        "car ownership",
+        "inflation adjusted"
+      ],
+      "texte": "1920s family has already bought their stakes for a special Sunday dinner and some groceries. [music] and the father has been listening to his hip new album while his wife scrubs the floor. Now the couple realizes it's the [music] roaring 20s. They're still young and they need to go out on the town. It's time to leave the kids at home. The wall should be good enough babysitter [music] in the non-h helicopter parenting year of 1920. And get ready. How are they getting everywhere? Well, a family car, let's [music] say a Chevrolet, is still incredibly expensive to own at around $525. [music] Even though it sounds quite affordable compared to our cars at just around $6,790 in 2021 [music] prices and gas costs an average of 30 cents a gallon nationwide. So around $387 in today's prices, [music] we generally only pay that now in the US if we live in a very expensive city or where one of our wars has gone terribly [music] horribly wrong and we've ruined relations with several oil producing countries. The better option"
+    },
+    {
+      "id": 194,
+      "debut": 8116.0,
+      "fin": 8135.92,
+      "temps_estime": false,
+      "titre": "Public transport in 1920: a 5-cent subway ride",
+      "resume": "The better option for a big-city family was the bus or subway at 5 cents, equivalent to about 68 cents today, much less than the $2.75 the MTA in New York currently charges. In general, public transportation was much cheaper back then.",
+      "mots_cles": [
+        "public transportation",
+        "subway fare",
+        "5 cents",
+        "68 cents today",
+        "MTA",
+        "New York subway",
+        "bus fare",
+        "1920 prices"
+      ],
+      "texte": "if our hypothetical 1920s family is living in a big city [music] is to take the bus or the subway for just 5 cents. That's the equivalent of around 68 cents today, or in other words, much less than the $2.75 that the [music] NTA in New York currently charges you for most likely delayed subways. In general, [music] public transportation was much cheaper back then. Our 1920s woman goes"
+    },
+    {
+      "id": 195,
+      "debut": 8135.92,
+      "fin": 8171.68,
+      "temps_estime": false,
+      "titre": "Haircuts, the bob and face lotion in 1920",
+      "resume": "The 1920s woman visits the hairdresser, where a haircut cost 65 cents (stated as $1053 in today's money) and the trendy bob cost $5, about $64.25 today, plus two dollars a week to maintain, out of her budget. With her remaining cash she buys a face lotion for 25 cents and has 10 cents left.",
+      "mots_cles": [
+        "1920s haircut",
+        "bob haircut",
+        "hairdresser",
+        "face lotion",
+        "25 cents",
+        "salon prices",
+        "hairstyle upkeep",
+        "women's budget"
+      ],
+      "texte": "out first and stops by the hairdresser to fix her split ends, which really got out of control while she was in lockdown. [music] The stylist charged her 65 for a haircut, $1053 in today's money. The hairdresser then asks her if she [music] wants the latest trendy cut and style, the bob. How much you ask? $5 whole or [music] $64.25 today and an extra two bucks a week to keep up the hairstyle. That's way out of our young lady's budget, [music] so she'll have to settle for keeping her longer hair for now. However, with the cash she has left over, she buys a nice face lotion [music] for 25 cents to make sure she looks extra fresh that night."
+    },
+    {
+      "id": 196,
+      "debut": 8171.68,
+      "fin": 8222.97,
+      "temps_estime": false,
+      "titre": "Makeup becomes fashionable in the 1920s",
+      "resume": "Makeup existed before 1920 but polite women wore only a little face powder, since lipstick and eyeliner were associated with prostitutes or entertainers. The rise of the film industry made movie-star looks popular, so the 1920s woman spends her last dime on lipstick, with no one to teach her to apply it.",
+      "mots_cles": [
+        "1920s makeup",
+        "lipstick",
+        "film industry",
+        "movie stars",
+        "face powder",
+        "social perception",
+        "eyeliner",
+        "women's fashion"
+      ],
+      "texte": "She now has 10 cents left, and she's also realized there's a popular new trend coming up. started by the movie [music] stars of the silver screen. Makeup. Makeup existed before 1920, of course, but up until then, it wasn't something polite women in society wore. Besides a little [music] face powder to even out the skin tone and give it a fresh, you useful appearance, women were not supposed to wear lipstick or eyeliner unless they were prostitutes [music] or entertainers. We're not sure why those two groups frequently get lumped together in styles and trends, but there it is. The social perception of makeup started to change in the 1920s. >> [music] >> The rise of the film industry meant the makeup look of entertainers on the movie screen became extremely popular. So, with [music] that last dime she has on her, our 1920s woman buys a tube of lipstick to try out this new look. Since literally no one in her [music] life has taught her to apply it, it'll probably look shockingly bad. But A+ for effort. That's how makeup applications in the"
+    },
+    {
+      "id": 197,
+      "debut": 8222.97,
+      "fin": 8274.0,
+      "temps_estime": false,
+      "titre": "The 1920s man: aftershave, weekly bathing and shampoo",
+      "resume": "The man buys aftershave for 21 cents (stated as $3.40 in today's dollars) and, as a special occasion, bathes; people bathed about once a week in 1920. Dermatologists say we shower too often today, with two to three times a week ideal; shampoo costs 39 cents, leaving him 40 cents, and getting ready is cheaper and quicker for men.",
+      "mots_cles": [
+        "aftershave",
+        "bathing frequency",
+        "shampoo",
+        "dermatologists",
+        "1920s man",
+        "grooming costs",
+        "weekly bath",
+        "showering"
+      ],
+      "texte": "20s went. So, what does our 1920s [music] man do to get ready with his dollar? Well, he stops by to pick up some aftershave for 21, $3.40 40 cents in today's dollars and figures since it's a special occasion out on the town tonight, why [music] not make it the day he bathes. Oh, that's right. We forgot to mention that people bathed around once a week back in 1920. Before [music] you scrunch up your face in disgust, know that most dermatologists say we shower way too often nowadays, and it's damaging [music] our skin. So, the ideal bathing frequency seems to be somewhere between 1920 and now, or around two to three times per week. So, our dapper 1920s [music] man on a mission to achieve cleanliness picks up some shampoo for $39, $6.32 in today's dollars. This still leaves him with 40 in his pocket. But much like the genders [music] now, getting ready to go out is usually cheaper and less time-consuming proposition for men. This dalled up"
+    },
+    {
+      "id": 198,
+      "debut": 8274.0,
+      "fin": 8299.52,
+      "temps_estime": false,
+      "titre": "A night out in 1920: movie tickets and a diner meal",
+      "resume": "A movie ticket cost 15 cents, so two tickets were 30 cents, far cheaper than a movie trip today. A diner meal for two cost about 70 cents or $19 in today's money, about the same or slightly cheaper than current prices.",
+      "mots_cles": [
+        "movie ticket",
+        "15 cents",
+        "diner meal",
+        "night out",
+        "1920 entertainment",
+        "meal for two",
+        "$19 today",
+        "cost comparison"
+      ],
+      "texte": "couple decides to [music] take another dollar with them for a night out on the town. What can they do for each dollar they have on them? Well, a movie ticket cost 15 cents [music] back then, unlike the car down payment a trip to the movie theater costs nowadays. So, the couple buys two tickets for [music] 30 cents. And feeling hungry after the theater, they stop by a diner. A meal for two runs approximately.7 or $19 in today's money. So, [music] about the same or slightly cheaper than today's prices."
+    },
+    {
+      "id": 199,
+      "debut": 8299.52,
+      "fin": 8327.04,
+      "temps_estime": false,
+      "titre": "Out-and-about costs are similar to today; what explains the spending power?",
+      "resume": "Apart from movie tickets, clothing and haircuts, the cost of things out and about is not that different today after inflation, and some foods were pricier. The narrator asks how people had more spending power then and says one huge cost has not been covered.",
+      "mots_cles": [
+        "spending power",
+        "inflation adjusted prices",
+        "1920 vs today",
+        "cost comparison",
+        "food prices",
+        "movie tickets",
+        "haircuts",
+        "purchasing power"
+      ],
+      "texte": "We've now followed these hypothetical people out on the town and realized [music] with the exception of some things like movie theater tickets, clothing, and haircuts, the cost of things out and about aren't that much different than today when accounting for inflation. [music] In fact, some food products are pricier. So, how did people have so much more spending power back then than they do now? Well, we haven't touched upon [music] one huge cost that most people in the US today, especially in urban areas, struggle [music] to pay."
+    },
+    {
+      "id": 200,
+      "debut": 8327.04,
+      "fin": 8349.76,
+      "temps_estime": false,
+      "titre": "Housing: $60 rent in New York in 1920",
+      "resume": "In 1920 the average monthly rent for a New York City apartment was $60, equivalent to about $773 in 2021, an amount that today barely gets a single room or closet in New York. The narrator points to housing as one big cost people struggle to pay in urban areas.",
+      "mots_cles": [
+        "1920 rent",
+        "New York City rent",
+        "$60 monthly rent",
+        "$773 in 2021",
+        "housing costs",
+        "urban rent",
+        "apartment prices"
+      ],
+      "texte": "Housing. In 1920, the average monthly rent for an apartment in New York City, still one of the most expensive places to live in, even back then, was $60, [music] equivalent to around $773 in 2021. Currently in New York, it's hard to find [music] even a single room closet or trash can to crawl into Allah Oscar the Grouch for that amount. Never mind a whole apartment that a [music] family can live in together. The one big"
+    },
+    {
+      "id": 201,
+      "debut": 8349.76,
+      "fin": 8402.56,
+      "temps_estime": false,
+      "titre": "Healthcare: cheap but primitive in 1920, expensive today",
+      "resume": "In 1920 a home visit from a doctor cost two to three dollars, and hospitals were avoided by those who could afford it because they were associated with poverty. Penicillin did not exist yet and cures were placebos or snake oil; major advances began in the 1920s, and the boom in health insurance companies in the 1960s made care expensive.",
+      "mots_cles": [
+        "healthcare costs",
+        "doctor home visit",
+        "hospitals",
+        "penicillin",
+        "snake oil",
+        "health insurance",
+        "medical advances",
+        "1920s medicine"
+      ],
+      "texte": "area where prices have soared, health care in the US at least. In 1920, a couple of dollars, specifically two [music] to three, would pay for a home visit from a doctor. Hospitals were generally avoided by those who could afford it because they were associated with poverty. Also, to be fair, healthcare back then wasn't [music] really the healthcare we know today. Resembling something closer to Gwyneth Paltro's goop rather than actual medical prescriptions. [music] Penicellin still wasn't available and most cures consisted of placeos, snake oil, or the doctor telling you about the imbalance of your humors while you impatiently [music] waited for death. In fact, the 1920s was the first decade in which major medical advances started being made. A few decades later, in the60s, the boom in health insurance companies [music] followed along to make sure those advances were needlessly expensive and semi unaffordable. And [music] today, of course, we find ourselves in the beautiful position of having incredible medical advances we are overcharged for and then refuse to take"
+    },
+    {
+      "id": 202,
+      "debut": 8402.56,
+      "fin": 8420.4,
+      "temps_estime": false,
+      "titre": "Intro: what could you buy with a billion dollars?",
+      "resume": "A new video asks what one billion dollars could buy and says it is surprisingly easy to spend quickly. The narrator starts the journey by looking at where billionaires live.",
+      "mots_cles": [
+        "one billion dollars",
+        "billionaire spending",
+        "what a billion buys",
+        "wealth",
+        "spending money",
+        "world tour"
+      ],
+      "texte": "because we know better. Ever dream of having a billion dollars so that you never have to worry about money again? Well, turns out it's surprisingly easy to spend that money if you really want to and fast. On what, you might ask? Well, we traveled around the world to see what we could get for that whole billion. Let's just start our journey by seeing where billionaires live."
+    },
+    {
+      "id": 203,
+      "debut": 8420.4,
+      "fin": 8494.24,
+      "temps_estime": false,
+      "titre": "Where billionaires live: 2,755 worldwide, 724 in the US",
+      "resume": "According to Forbes in 2021 there were 2,755 billionaires; the US leads with 724 (including Elon Musk), then China with 626, India 140, Germany 136 and Russia 117. The five countries added 434 billionaires between the 2020 and 2021 counts during the pandemic.",
+      "mots_cles": [
+        "Forbes billionaires",
+        "2021",
+        "724 US billionaires",
+        "China billionaires",
+        "India",
+        "Germany",
+        "Russia",
+        "Elon Musk"
+      ],
+      "texte": "According to Forbes magazine, in 2021, there were 2755 billionaires around the world. So, getting a headcount is relatively easy. The country with the most billionaires is the United States with 724 billionaires residing on its land, including the most famous and richest one, Elon Musk, one-time SNL host, and oh yeah, head of Tesla. At last count, Musk was worth $22.6 billion. Though, we're sure that number will change by the time you get to the end of this video. China comes in second with 626 billionaires, the richest of which, Jeang Shan Chan, owns a bottled water company. Third on the list is India with 140 billionaires, while catching up swiftly is Germany with 136 billionaires. Russia rounds out the top five with 117, almost half of which we assume actually reside in London instead. The strange thing is if you compare the 2020 to the 2021 count of billionaires, the number of [music] billionaires in all five of these countries jumped from 139 people to a total of 1743. That means that while you were learning how to bake bread and instituting a new happy hour starting at 11:00 a.m. 434 people in just those five countries [music] were sitting at home and crossing the billion dollar threshold. Now, what could those billionaires possibly be spending [music] all that money on? First off,"
+    },
+    {
+      "id": 204,
+      "debut": 8494.24,
+      "fin": 8532.96,
+      "temps_estime": false,
+      "titre": "Antilia: the most expensive private residence",
+      "resume": "A new billionaire's first shopping spree is real estate. Antilia, a 27-story building on Mumbai's billionaire row, cost exactly $1 billion to build in 2012 and is now valued between $1 billion and $2.6 billion, so a billion could build a similar home next to it.",
+      "mots_cles": [
+        "Antilia",
+        "Mumbai",
+        "most expensive house",
+        "27-story",
+        "$1 billion",
+        "real estate",
+        "billionaire row",
+        "private residence"
+      ],
+      "texte": "with that cash, you can get a pretty sweet place to live. So, any new billionaire's first shopping spree is real estate around [music] the world. Could a billion dollars buy you the most expensive house? The most expensive private residence that could theoretically be bought is considered by many experts to be Antilia, a 27story building on Mumbai, India's billionaire row. In fact, Antilia cost exactly $1 billion to build back in 2012. So, it's likely your money would fall a bit short of buying it today. as real estate experts estimate the current value to fall anywhere between over 1 billion to 2.6 billion. However, with a billion dollars, you could build a similar home next to it. Or you could take your money"
+    },
+    {
+      "id": 205,
+      "debut": 8532.96,
+      "fin": 8560.32,
+      "temps_estime": false,
+      "titre": "Villa Leopolda on the French Riviera",
+      "resume": "Villa Leopolda is an 80,000 sq ft former home of King Leopold II of Belgium between Nice and Monaco, valued at about $750 million. A billion would buy it with money left to refurbish and pay the 100-plus servants, including 50 gardeners for the pool and gardens.",
+      "mots_cles": [
+        "Villa Leopolda",
+        "French Riviera",
+        "King Leopold II",
+        "$750 million",
+        "mansion",
+        "servants",
+        "Nice",
+        "Monaco"
+      ],
+      "texte": "and jet to the south of France and check out Villa Leapolda, the sprawling 80,000 ft former home of King Leopold II of Belgium, which sits on the French Riviera between Nice and Monaco. The current house's estimated value is a whopping 750 million, so you could buy it and still have money left over to refurbish the place. [music] Plus, we assume higher than 100 plus servants needed to run it. As the swimming pool and gardens alone require 50 gardeners [music] to maintain. For something a"
+    },
+    {
+      "id": 206,
+      "debut": 8560.32,
+      "fin": 8583.92,
+      "temps_estime": false,
+      "titre": "A Bel Air mega-mansion that sold for $126 million",
+      "resume": "A Los Angeles home perched atop a hill in Bel Air has nine bedrooms, a 50-seat theater, a bowling alley and a nightclub. It was listed at $500 million but sold at auction for only $126 million.",
+      "mots_cles": [
+        "Bel Air mansion",
+        "Los Angeles",
+        "50 seat theater",
+        "bowling alley",
+        "nightclub",
+        "$500 million listing",
+        "$126 million auction",
+        "luxury home"
+      ],
+      "texte": "little more modern under the California sun, why not check out the one in Los Angeles, USA, perched at top a hill in Bair, the home has nine bedrooms, a 50 seat theater, a bowling alley, a nightclub, and generally enough amenities for a small town. The price, although originally listed at 500 million, when the house finally came up for auction, it sold for only 126"
+    },
+    {
+      "id": 207,
+      "debut": 8583.92,
+      "fin": 8621.36,
+      "temps_estime": false,
+      "titre": "Mega yachts: Streets of Monaco, Eclipse and History Supreme",
+      "resume": "The 509 ft Streets of Monaco yacht costs almost exactly a billion dollars and has a go-kart circuit, three pools, a helipad, a mini submarine and a waterfall. Two yachts cost more: Roman Abramovich's Eclipse at $1.5 billion and History Supreme at $4.8 billion, built with 10,000 kg of gold and platinum.",
+      "mots_cles": [
+        "mega yacht",
+        "Streets of Monaco",
+        "Eclipse yacht",
+        "Roman Abramovich",
+        "History Supreme",
+        "$4.8 billion",
+        "gold and platinum",
+        "luxury yachts"
+      ],
+      "texte": "million, the 509 ft mega yacht street of Monaco costs almost exactly a billion dollars. It includes a go-kart circuit, three swimming pools, a helellipad, mini submarine, and a mini waterfall. Shockingly, there are two yachts in the world that are actually more expensive than this one. Roman Abramovich's Eclipse at a value of 1 a.5 billion and the History Supreme which comes in at a jaw-dropping 4.8 billion. Even though History Supreme is only 100 ft long, it is built from 10,000 kg of gold and platinum, which is the reason for the insanely high price. No word on how seaorthy a platinum built vessel is, which perhaps makes history supreme even"
+    },
+    {
+      "id": 208,
+      "debut": 8621.36,
+      "fin": 8660.72,
+      "temps_estime": false,
+      "titre": "Prince Alwaleed's private Airbus A380",
+      "resume": "For faster travel, Saudi Prince Alwaleed's personal Airbus A380 was converted into a super-luxury private jet for $500 million. It includes an onboard spa, a personal stadium, space for Rolls-Royces and a stable for horses and camels.",
+      "mots_cles": [
+        "private jet",
+        "Airbus A380",
+        "Prince Alwaleed",
+        "$500 million",
+        "luxury aircraft",
+        "onboard spa",
+        "Saudi Arabia",
+        "Rolls-Royce"
+      ],
+      "texte": "less appealing. If you want to zip around the world a bit faster, perhaps invest in a private jet like Saudi Prince Alwalid's personal Airbus A380. For just $500 million, this longhaul commercial airplane was converted to a super lux private jet, which now includes some expected in-flight necessities such as an onboard spa, a personal stadium, a [music] space for the prince's Rolls-Royces, as well as a stable for his various horses and camels. With 1 billion, you could not only buy the place, but you could afford to crew it and gas it up for a considerable amount of time as well. Not to mention, you wouldn't have to worry about any paperwork and extra fees to bring your pet on board with a whole stable at your disposal. After a few"
+    },
+    {
+      "id": 209,
+      "debut": 8660.72,
+      "fin": 8703.2,
+      "temps_estime": false,
+      "titre": "Salvator Mundi: the most expensive painting ever sold",
+      "resume": "For decor, the narrator suggests an original Da Vinci like Salvator Mundi, sold for $450.3 million at Christie's in New York in November 2017 and now owned by Saudi Crown Prince Mohammed bin Salman. Painted between 1490 and 1519, it is deemed the most expensive painting ever sold, and a billion could theoretically buy two.",
+      "mots_cles": [
+        "Salvator Mundi",
+        "Da Vinci",
+        "$450.3 million",
+        "Christie's",
+        "Mohammed bin Salman",
+        "most expensive painting",
+        "art auction",
+        "November 2017"
+      ],
+      "texte": "living spaces around the world have been acquired, the next question on every [music] billionaire's mind is what decor to get. After all, a super rich space needs exquisite taste to be decorated properly. [music] In this case, you can't go wrong with the classics. So why not pick up an original Da Vinci like Salvatore Mundi, which sold [music] for 450.3 million in November of 2017 at Christy's in New York. Oh, that's right. You won't find it there anymore because currently [music] the painting is owned by the crown prince of Saudi Arabia, Muhammad bin Salon. Painted somewhere between 1490 and 1519 by one of the most famous artists in history, Salvatore Mundi has been deemed the most expensive painting ever sold. With a billion dollars in their pocket, a buyer could theoretically acquire two of them."
+    },
+    {
+      "id": 210,
+      "debut": 8703.2,
+      "fin": 8741.92,
+      "temps_estime": false,
+      "titre": "Other top artworks: de Kooning's Interchange and Cézanne's The Card Players",
+      "resume": "Next most expensive are Willem de Kooning's Interchange (1955, about $300 million) and Paul Cézanne's The Card Players (about 1892-93, about $250 million). A billion dollars would almost exactly buy the three most expensive paintings, leaving no money at all.",
+      "mots_cles": [
+        "Interchange",
+        "Willem de Kooning",
+        "The Card Players",
+        "Paul Cézanne",
+        "$300 million",
+        "$250 million",
+        "art collection",
+        "expensive paintings"
+      ],
+      "texte": "However, since it's impossible to get two original paintings when only one exists, why not round out your home's new art collection with the next two most expensive artworks? That would be William Duning's Interchange, created in 1955 and currently valued at around $300 million, followed by Paul Sesan's The Card Players, created around 1892 to 1893 and valued at around $250 million. So, a billion dollars would almost exactly equate to the three most expensive paintings in the world becoming a part of your private collection. Except with no money left over at all after these purchases, you'd be storing them next to your mattress under the bridge. However, let's say art"
+    },
+    {
+      "id": 211,
+      "debut": 8741.92,
+      "fin": 8801.92,
+      "temps_estime": false,
+      "titre": "Sports teams a billion can buy",
+      "resume": "For sports fans, the Miami Marlins are worth about $980 million, while Atlético de Madrid is valued around $1 billion with about $368 million in annual revenue. Inter Milan is valued at $743 million and Everton at $658 million; buying art or a club can bring unwanted attention.",
+      "mots_cles": [
+        "Miami Marlins",
+        "Atletico Madrid",
+        "Inter Milan",
+        "Everton",
+        "sports team valuation",
+        "$980 million",
+        "football clubs",
+        "team revenue"
+      ],
+      "texte": "isn't your thing. What if instead of going to art class and being one of the theater kids after school, you were one of the jocks? What could a sports fan buy for a billion dollars? Well, for starters, how about a baseball team? Don't go looking at the Yankees just yet. Yes, they're still out of your price range, but the Miami Marlins are estimated to be worth around $980 million, putting them right in the billion budget range. For those not interested in baseball, why not head over to Europe and pick up a couple of soccer, or rather football clubs, [music] depending on where you're watching from. Spain's Atletico de Madrid is valued at around $1 billion. But considering it brings in around 368 million per year in revenue thanks to its devoted [music] fans, the investment might be worth it. Those who want some money left over after a soccer team purchase should check out Inter Milan in Italy valued at 743 million or Liverpool FC's big rival Everton, also based in Liverpool, England, valued at 658 million. Then again, buying flashy art or a whole sports club can bring a lot of unwanted attention onto billionaires."
+    },
+    {
+      "id": 212,
+      "debut": 8801.92,
+      "fin": 8857.68,
+      "temps_estime": false,
+      "titre": "Private islands: Blue Island in the Bahamas and a Greek island",
+      "resume": "Private islands are cheaper than expected: Blue Island in the Bahamas, with an airstrip, main house, staff houses and 4 miles of road, costs $75 million. An undeveloped Greek island on the Ionian Sea (transcribed as '40 island') is valued at $60 million.",
+      "mots_cles": [
+        "private island",
+        "Blue Island Bahamas",
+        "$75 million",
+        "Greek island",
+        "Ionian Sea",
+        "airstrip",
+        "island prices",
+        "Santorini"
+      ],
+      "texte": "How about those just seeking to escape and hide away in a beautiful corner of the world? Surprisingly, private islands are somewhat less expensive than you might think. Especially compared to some of the jaw-droppingly priced items shown so far in this video. One example is Blue Island in the Bahamas. Lined by sandy beaches and surrounded by stunning turquoise waters, this island looks like a tropical paradise. For VIP owners, the island also includes an airirst strip for a private jet, a sprawling main house, as well as [music] houses for a significant amount of staff, and 4 m of road. And this can all be bought by any billionaire for just $75 million total. Another alternative is just to flat out buy one of the Greek islands. Party in Mikonos, watch the sunset in Santorini, and then stop by a real estate office to pick up 40 island valued at 60 million. On this currently undeveloped island, a billionaire can enjoy the beauty of the Onian Sea, Greece's world famous blue [music] waters, and create another beautiful playground for rich people"
+    },
+    {
+      "id": 213,
+      "debut": 8857.68,
+      "fin": 8915.52,
+      "temps_estime": false,
+      "titre": "Larry Ellison's Lanai: the most expensive island",
+      "resume": "The most expensive island is in Hawaii: Lanai, owned by Oracle founder Larry Ellison and worth $500 million for 98 percent of it, with 2 percent owned by the state. It is 140.5 square miles with a town of about 3,100 people, and Ellison owns almost all commercial property and about a third of residential, like his own tiny country.",
+      "mots_cles": [
+        "Lanai",
+        "Larry Ellison",
+        "Hawaii",
+        "$500 million",
+        "Oracle founder",
+        "most expensive island",
+        "Lanai town",
+        "Shipwreck Beach"
+      ],
+      "texte": "worldwide to congregate. Where would you guess the most expensive island money can buy is? Surprisingly, right back in the old USA. Less surprisingly, perhaps in the state of Hawaii. Lai Island is currently owned by Oracle [music] founder and CEO Larry Ellison and is worth a whopping 500 million. More specifically, 98% of it [music] is worth that much as 2% is still owned by the state. The island is 140.5 square miles with beautiful views of neighboring Maui and Mokai. Lenai [music] is Hawaii's sixth largest island and its north shore is known for shipwreck beach which bears the remains of a World War II tanker. However, Lenai is not exactly [music] a private island. Lenai town has a population of around 3,1002 as of the last census in 2010 as well as several hotels, small businesses, shops, restaurants, etc. Ellison owns almost all of these commercial properties, including around a third of the residential properties on the island. So instead of a private island, it's more like Ellison bought his own tiny country, which for a lot of rich people still might not be enough. No"
+    },
+    {
+      "id": 214,
+      "debut": 8915.52,
+      "fin": 8956.8,
+      "temps_estime": false,
+      "titre": "Space travel: $220 million for a family week on the ISS",
+      "resume": "The richest men, from Elon Musk to Jeff Bezos, dream of rocketing to space, and a billion makes it feasible even for a family. A family of four can pay $55 million each for an 8-day International Space Station stay, $220 million in total; the last line also carries the first word of the next video.",
+      "mots_cles": [
+        "space tourism",
+        "International Space Station",
+        "$55 million per person",
+        "$220 million",
+        "Elon Musk",
+        "Jeff Bezos",
+        "billionaire space travel",
+        "8-day stay"
+      ],
+      "texte": "billionaire discussion is complete without a mention of space travel. From Elon Musk to Jeff Bezos, it seems the richest man in the world spend most their days dreaming about the same thing little boys raised in the 60s dreamed of, rocketing out to space. The only difference is they have enough money to make their whims a reality. In fact, a billion dollars makes space travel a very feasible option, even for an entire family. For the vacation of a lifetime, a billionaire family of four can pay the astronomical, sorry, price of $55 million a person to fly out and experience an 8-day stay out on the International Space Station for a grand total of $220 million. There's a vacation slideshow everyone you know will actually be dying to see. It's"
     }
   ]
 }
